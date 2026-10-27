@@ -1,3 +1,550 @@
 {
- "jogos": []
+ "jogos": [
+  {
+   "id": 91000031,
+   "data": "2026-10-23T19:30:00-03:00",
+   "casa": "operario-pr",
+   "fora": "athletic-mg",
+   "status": "agendado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Germano Krüger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/futebol/operario-x-athletic-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,d32940de7860163d84693f1589a7cad2kbcrsbhc.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000032,
+   "data": "2026-10-23T21:00:00-03:00",
+   "casa": "sport",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Chrystian Barletta",
+     "minuto": "76",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Fellipe Mateus",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Chrystian Barletta",
+     "minuto": "90+10",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/onde-assistir/sport-x-criciuma-onde-assistir-horario-e-escalacoes.html",
+    "https://www.gazetaesportiva.com/times/sport/com-gol-no-fim-sport-vence-criciuma-e-cola-no-g6-da-serie-b/",
+    "https://www.terra.com.br/esportes/sport/barletta-faz-doblete-sport-bate-criciuma-no-fim-e-cola-no-g6-da-serie-b,32e20bb4753250461a8186d0aa8ca4c6nsztgfyk.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000033,
+   "data": "2026-10-24T16:00:00-03:00",
+   "casa": "avai",
+   "fora": "botafogo-sp",
+   "status": "encerrado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ressacada",
+   "cidade": "Florianópolis",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Morelli",
+     "minuto": "43",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Leandro Maciel",
+     "minuto": "53",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.portalmidiaesporte.com/2026/10/cbf-detalha-tabela-das-rodadas-finais-da-serie-b-do-brasileirao-com-jogos-na-tv-e-digital.html",
+    "https://avai.com.br/avai-e-superado-pelo-botafogo-sp-pela-35a-rodada-da-serie-b/",
+    "https://botafogofutebolsa.com.br/botafogo-vence-a-4a-consecutiva-confirma-permanencia-na-serie-b-e-sobe-na-classificacao"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000034,
+   "data": "2026-10-24T16:30:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "1º de Maio",
+   "cidade": "",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/minuto-a-minuto/brasileiro-serie-b-2026/sao-bernardo-x-vila-nova/239677/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/sao-bernardo-vira-nos-acrescimos-e-vila-nova-deixa-o-topo-da-serie-b,1d371510eb0d485861202febd5fcd88dbu1veojb.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000035,
+   "data": "2026-10-24T16:30:00-03:00",
+   "casa": "atletico-go",
+   "fora": "novorizontino",
+   "status": "encerrado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Eduardo Brock",
+     "minuto": "58",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.portalmidiaesporte.com/2026/10/cbf-detalha-tabela-das-rodadas-finais-da-serie-b-do-brasileirao-com-jogos-na-tv-e-digital.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-vence-o-atletico-go-e-assume-a-lideranca-da-serie-b/",
+    "https://www.gremionovorizontino.com.br/2026/10/24/novorizontino-vence-o-atletico-go-se-garante-no-g6-e-assume-a-lideranca-da-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000036,
+   "data": "2026-10-24T18:30:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ítalo Mário Limongi",
+   "cidade": "Indaiatuba",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Maílton",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Almeida",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Brandão",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Rodriguinho",
+     "minuto": "65",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/serie-b-fortaleza-tropeca-diante-da-rebaixada-ponte-preta,73d517734f4c70bbf6953c1a2e60cfcf5x5vxncf.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000037,
+   "data": "2026-10-24T18:30:00-03:00",
+   "casa": "crb",
+   "fora": "londrina",
+   "status": "agendado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-x-londrina-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000038,
+   "data": "2026-10-26T19:30:00-03:00",
+   "casa": "america-mg",
+   "fora": "cuiaba",
+   "status": "encerrado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Independência",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Segovinha",
+     "minuto": "58",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/america-mg-x-cuiaba/97729/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000039,
+   "data": "2026-10-26T20:30:00-03:00",
+   "casa": "juventude",
+   "fora": "nautico",
+   "status": "encerrado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 4,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fábio Lima",
+     "minuto": "6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Raí",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Aderlan",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Amarilla",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/juventude-goleia-nautico-e-retoma-vice-lideranca-da-serie-b,77d0f69036633db572e2b9131b83511fy6y1dudu.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000040,
+   "data": "2026-10-27T20:00:00-03:00",
+   "casa": "ceara",
+   "fora": "goias",
+   "status": "agendado",
+   "rodada": "35",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ceara-x-goias-onde-assistir-escalacoes-e-arbitragem,8986ca2b94852a3100c72b755102284dct948h1j.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000041,
+   "data": "2026-10-30T19:30:00-03:00",
+   "casa": "criciuma",
+   "fora": "ponte-preta",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000042,
+   "data": "2026-10-31T16:00:00-03:00",
+   "casa": "botafogo-sp",
+   "fora": "sport",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Santa Cruz (Arena Nicnet)",
+   "cidade": "Ribeirão Preto",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/sport/com-gol-no-fim-sport-vence-criciuma-e-cola-no-g6-da-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000043,
+   "data": "2026-10-31T18:00:00-03:00",
+   "casa": "vila-nova",
+   "fora": "juventude",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "OBA (Onésio Brasileiro Alvarenga)",
+   "cidade": "Goiânia",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000044,
+   "data": "2026-10-31T19:30:00-03:00",
+   "casa": "nautico",
+   "fora": "avai",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Aflitos",
+   "cidade": "Recife",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000045,
+   "data": "2026-11-01T16:00:00-03:00",
+   "casa": "londrina",
+   "fora": "america-mg",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vitorino Gonçalves Dias (VGD)",
+   "cidade": "Londrina",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000046,
+   "data": "2026-11-01T18:30:00-03:00",
+   "casa": "novorizontino",
+   "fora": "operario-pr",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Jorge Ismael de Biasi",
+   "cidade": "Novo Horizonte",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000047,
+   "data": "2026-11-01T18:30:00-03:00",
+   "casa": "cuiaba",
+   "fora": "sao-bernardo",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000048,
+   "data": "2026-11-02T16:00:00-03:00",
+   "casa": "fortaleza",
+   "fora": "atletico-go",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000049,
+   "data": "2026-11-02T18:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "ceara",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Sicredi",
+   "cidade": "São João del-Rei",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000050,
+   "data": "2026-11-02T20:30:00-03:00",
+   "casa": "goias",
+   "fora": "crb",
+   "status": "agendado",
+   "rodada": "36",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Serrinha",
+   "cidade": "Goiânia",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://crboficial.com.br/futebol/crb-faz-2x1-no-londrina-e-entra-no-g6-da-serie-b"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  }
+ ]
 }

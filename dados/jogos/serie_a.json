@@ -1,3 +1,837 @@
 {
- "jogos": []
+ "jogos": [
+  {
+   "id": 91000001,
+   "data": "2026-10-23T20:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fabrício Bruno",
+     "minuto": "45+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-remo-e-dorme-no-terceiro-lugar-do-brasileirao/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-1-x-0-remo-veja-os-melhores-momentos-pelo-brasileirao/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000002,
+   "data": "2026-10-24T16:30:00-03:00",
+   "casa": "mirassol",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/mirassol-x-sao-paulo-como-foi-o-jogo-pelo-brasileirao-2026.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-1-x-1-sao-paulo-veja-os-melhores-momentos-do-brasileirao/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000003,
+   "data": "2026-10-24T16:30:00-03:00",
+   "casa": "internacional",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Bahia",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Juninho",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bernabei",
+     "minuto": "66",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-vence-botafogo-e-ganha-folego-contra-o-z4-do-brasileirao/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-internacional-x-botafogo-juninho-amplia.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000004,
+   "data": "2026-10-24T16:30:00-03:00",
+   "casa": "vitoria",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gilberto",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Renato Kayzer",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-vitoria-x-athletico-pr-gilberto-abre-o-placar-e-kayzer-empata.html",
+    "https://www.terra.com.br/esportes/vitoria/vitoria-e-athletico-empatam-em-duelo-equilibrado-pelo-brasileirao,389ebc44f07aec991cc28edab01dc294kpngq2z4.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000005,
+   "data": "2026-10-24T18:30:00-03:00",
+   "casa": "vasco",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "São Januário",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Puma Rodríguez",
+     "minuto": "34",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Henrique",
+     "minuto": "49",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Matheus Bidu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marino Hinestroza",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marino Hinestroza",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/veja-os-lances-de-vasco-x-corinthians-pelo-brasileirao.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-busca-virada-sobre-o-corinthians-e-afunda-rival-no-z4-do-brasileirao/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000006,
+   "data": "2026-10-24T18:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "bragantino",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Barueri",
+   "cidade": "Barueri",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Mauricio",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Giay",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-2-x-0-rb-bragantino-veja-os-melhores-momentos-pelo-brasileirao/",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bragantino-32-rodada-brasileirao-24-10-2026/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000007,
+   "data": "2026-10-24T19:30:00-03:00",
+   "casa": "chapecoense",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Bolasie",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Guga",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Giovanni Augusto",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/fluminense/fluminense-perde-para-a-chapecoense-e-desperdica-chance-de-entrar-no-g4-do-brasileirao/",
+    "https://www.lance.com.br/fluminense/veja-gols-de-chapecoense-e-fluminense-pelo-campeonato-brasileiro.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000008,
+   "data": "2026-10-24T21:00:00-03:00",
+   "casa": "santos",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Luciano Juba",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Luan Peres",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/santos/santos-empata-bahia-neymar-expulso/",
+    "https://www.lance.com.br/santos/veja-gols-em-santos-e-bahia-pelo-campeonato-brasileiro.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000009,
+   "data": "2026-10-26T19:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Braithwaite",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/gremio-bate-coritiba-com-gol-nos-acrescimos-e-afunda-o-corinthians-no-z4/",
+    "https://www.terra.com.br/esportes/gremio/com-gol-no-fim-gremio-bate-coritiba-e-vence-a-primeira-como-visitante,bb8204a0cf9e4f19c5f8fcbed06c657ftkjt0zuf.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000010,
+   "data": "2026-10-26T20:00:00-03:00",
+   "casa": "flamengo",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Bernard",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Plata",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Arrascaeta",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Renan Lodi",
+     "minuto": "58",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carrascal",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-tem-penalti-no-ultimo-lance-vence-atletico-mg-e-volta-a-lideranca/",
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-bate-atletico-mg-com-gol-no-fim-e-tira-palmeiras-da-lideranca/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000011,
+   "data": "2026-10-28T19:30:00-03:00",
+   "casa": "fluminense",
+   "fora": "internacional",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000012,
+   "data": "2026-10-28T19:30:00-03:00",
+   "casa": "santos",
+   "fora": "palmeiras",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000013,
+   "data": "2026-10-28T19:30:00-03:00",
+   "casa": "bragantino",
+   "fora": "chapecoense",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000014,
+   "data": "2026-10-28T21:30:00-03:00",
+   "casa": "bahia",
+   "fora": "sao-paulo",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000015,
+   "data": "2026-10-28T21:30:00-03:00",
+   "casa": "remo",
+   "fora": "botafogo",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000016,
+   "data": "2026-10-29T19:30:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "cruzeiro",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000017,
+   "data": "2026-10-29T19:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "vitoria",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000018,
+   "data": "2026-10-29T20:00:00-03:00",
+   "casa": "vasco",
+   "fora": "flamengo",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/flamengo/cbf-confirma-estadio-do-classico-entre-vasco-x-flamengo,a01f465321929d884caebebf8c756de4txd2g98x.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000019,
+   "data": "2026-10-29T21:30:00-03:00",
+   "casa": "gremio",
+   "fora": "athletico-pr",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000020,
+   "data": "2026-10-30T20:00:00-03:00",
+   "casa": "corinthians",
+   "fora": "mirassol",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000021,
+   "data": "2026-11-02T20:00:00-03:00",
+   "casa": "bragantino",
+   "fora": "santos",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000022,
+   "data": "2026-11-03T19:30:00-03:00",
+   "casa": "chapecoense",
+   "fora": "mirassol",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000023,
+   "data": "2026-11-03T21:30:00-03:00",
+   "casa": "internacional",
+   "fora": "coritiba",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000024,
+   "data": "2026-11-04T19:30:00-03:00",
+   "casa": "flamengo",
+   "fora": "gremio",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000025,
+   "data": "2026-11-04T19:30:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "vasco",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000026,
+   "data": "2026-11-04T21:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "atletico-mg",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000027,
+   "data": "2026-11-04T21:30:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "corinthians",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/cbf-confirma-local-do-classico-entre-sao-paulo-e-corinthians.html"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000028,
+   "data": "2026-11-05T19:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "remo",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nubank Parque",
+   "cidade": "São Paulo",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000029,
+   "data": "2026-11-05T21:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "bahia",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  },
+  {
+   "id": 91000030,
+   "data": "2026-11-06T20:00:00-03:00",
+   "casa": "vitoria",
+   "fora": "fluminense",
+   "status": "agendado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-10-27T11:48:00-03:00"
+  }
+ ]
 }

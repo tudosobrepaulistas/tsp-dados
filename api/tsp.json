@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-27T03:39:00-03:00",
+ "gerado": "2026-10-27T11:48:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -345,7 +345,2677 @@
    "slug_tsp": "pontepreta"
   }
  },
- "jogos": [],
+ "jogos": [
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-remo-e-dorme-no-terceiro-lugar-do-brasileirao/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-1-x-0-remo-veja-os-melhores-momentos-pelo-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000001,
+    "timestamp": 1792796400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+5"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Fabrício Bruno"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/mirassol-x-sao-paulo-como-foi-o-jogo-pelo-brasileirao-2026.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-1-x-1-sao-paulo-veja-os-melhores-momentos-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000002,
+    "timestamp": 1792870200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-vence-botafogo-e-ganha-folego-contra-o-z4-do-brasileirao/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-internacional-x-botafogo-juninho-amplia.html"
+   ],
+   "fixture": {
+    "id": 91000003,
+    "timestamp": 1792870200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 32,
+      "extra": null,
+      "texto": "32"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Matheus Bahia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 42,
+      "extra": null,
+      "texto": "42"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Juninho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 66,
+      "extra": null,
+      "texto": "66"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bernabei"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-vitoria-x-athletico-pr-gilberto-abre-o-placar-e-kayzer-empata.html",
+    "https://www.terra.com.br/esportes/vitoria/vitoria-e-athletico-empatam-em-duelo-equilibrado-pelo-brasileirao,389ebc44f07aec991cc28edab01dc294kpngq2z4.html"
+   ],
+   "fixture": {
+    "id": 91000004,
+    "timestamp": 1792870200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Gilberto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Renato Kayzer"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/veja-os-lances-de-vasco-x-corinthians-pelo-brasileirao.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-busca-virada-sobre-o-corinthians-e-afunda-rival-no-z4-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000005,
+    "timestamp": 1792877400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 34,
+      "extra": null,
+      "texto": "34"
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Puma Rodríguez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 49,
+      "extra": null,
+      "texto": "49"
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Gustavo Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Matheus Bidu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Marino Hinestroza"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Marino Hinestroza"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-2-x-0-rb-bragantino-veja-os-melhores-momentos-pelo-brasileirao/",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bragantino-32-rodada-brasileirao-24-10-2026/"
+   ],
+   "fixture": {
+    "id": 91000006,
+    "timestamp": 1792877400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Barueri",
+     "city": "Barueri"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Mauricio"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Giay"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/fluminense/fluminense-perde-para-a-chapecoense-e-desperdica-chance-de-entrar-no-g4-do-brasileirao/",
+    "https://www.lance.com.br/fluminense/veja-gols-de-chapecoense-e-fluminense-pelo-campeonato-brasileiro.html"
+   ],
+   "fixture": {
+    "id": 91000007,
+    "timestamp": 1792881000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Bolasie"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Guga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Giovanni Augusto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/santos/santos-empata-bahia-neymar-expulso/",
+    "https://www.lance.com.br/santos/veja-gols-em-santos-e-bahia-pelo-campeonato-brasileiro.html"
+   ],
+   "fixture": {
+    "id": 91000008,
+    "timestamp": 1792886400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Luciano Juba"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Luan Peres"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/gremio-bate-coritiba-com-gol-nos-acrescimos-e-afunda-o-corinthians-no-z4/",
+    "https://www.terra.com.br/esportes/gremio/com-gol-no-fim-gremio-bate-coritiba-e-vence-a-primeira-como-visitante,bb8204a0cf9e4f19c5f8fcbed06c657ftkjt0zuf.html"
+   ],
+   "fixture": {
+    "id": 91000009,
+    "timestamp": 1793053800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+2"
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Braithwaite"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-tem-penalti-no-ultimo-lance-vence-atletico-mg-e-volta-a-lideranca/",
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-bate-atletico-mg-com-gol-no-fim-e-tira-palmeiras-da-lideranca/"
+   ],
+   "fixture": {
+    "id": 91000010,
+    "timestamp": 1793055600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Bernard"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Plata"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Arrascaeta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Renan Lodi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Carrascal"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000011,
+    "timestamp": 1793226600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900005,
+     "name": "Fluminense"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000012,
+    "timestamp": 1793226600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000013,
+    "timestamp": 1793226600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000014,
+    "timestamp": 1793233800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000015,
+    "timestamp": 1793233800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Mangueirão",
+     "city": "Belém"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900019,
+     "name": "Remo"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000016,
+    "timestamp": 1793313000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000017,
+    "timestamp": 1793313000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/flamengo/cbf-confirma-estadio-do-classico-entre-vasco-x-flamengo,a01f465321929d884caebebf8c756de4txd2g98x.html"
+   ],
+   "fixture": {
+    "id": 91000018,
+    "timestamp": 1793314800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000019,
+    "timestamp": 1793320200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000020,
+    "timestamp": 1793401200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000021,
+    "timestamp": 1793660400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000022,
+    "timestamp": 1793745000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000023,
+    "timestamp": 1793752200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000024,
+    "timestamp": 1793831400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000025,
+    "timestamp": 1793831400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000026,
+    "timestamp": 1793838600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/cbf-confirma-local-do-classico-entre-sao-paulo-e-corinthians.html"
+   ],
+   "fixture": {
+    "id": 91000027,
+    "timestamp": 1793838600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000028,
+    "timestamp": 1793917800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000029,
+    "timestamp": 1793925000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000030,
+    "timestamp": 1794006000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/futebol/operario-x-athletic-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,d32940de7860163d84693f1589a7cad2kbcrsbhc.html"
+   ],
+   "fixture": {
+    "id": 91000031,
+    "timestamp": 1792794600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/onde-assistir/sport-x-criciuma-onde-assistir-horario-e-escalacoes.html",
+    "https://www.gazetaesportiva.com/times/sport/com-gol-no-fim-sport-vence-criciuma-e-cola-no-g6-da-serie-b/",
+    "https://www.terra.com.br/esportes/sport/barletta-faz-doblete-sport-bate-criciuma-no-fim-e-cola-no-g6-da-serie-b,32e20bb4753250461a8186d0aa8ca4c6nsztgfyk.html"
+   ],
+   "fixture": {
+    "id": 91000032,
+    "timestamp": 1792800000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Chrystian Barletta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Fellipe Mateus"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+10"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Chrystian Barletta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.portalmidiaesporte.com/2026/10/cbf-detalha-tabela-das-rodadas-finais-da-serie-b-do-brasileirao-com-jogos-na-tv-e-digital.html",
+    "https://avai.com.br/avai-e-superado-pelo-botafogo-sp-pela-35a-rodada-da-serie-b/",
+    "https://botafogofutebolsa.com.br/botafogo-vence-a-4a-consecutiva-confirma-permanencia-na-serie-b-e-sobe-na-classificacao"
+   ],
+   "fixture": {
+    "id": 91000033,
+    "timestamp": 1792868400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ressacada",
+     "city": "Florianópolis"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900037,
+     "name": "Avaí"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 43,
+      "extra": null,
+      "texto": "43"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Morelli"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 53,
+      "extra": null,
+      "texto": "53"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Leandro Maciel"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/minuto-a-minuto/brasileiro-serie-b-2026/sao-bernardo-x-vila-nova/239677/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/sao-bernardo-vira-nos-acrescimos-e-vila-nova-deixa-o-topo-da-serie-b,1d371510eb0d485861202febd5fcd88dbu1veojb.html"
+   ],
+   "fixture": {
+    "id": 91000034,
+    "timestamp": 1792870200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "1º de Maio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.portalmidiaesporte.com/2026/10/cbf-detalha-tabela-das-rodadas-finais-da-serie-b-do-brasileirao-com-jogos-na-tv-e-digital.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-vence-o-atletico-go-e-assume-a-lideranca-da-serie-b/",
+    "https://www.gremionovorizontino.com.br/2026/10/24/novorizontino-vence-o-atletico-go-se-garante-no-g6-e-assume-a-lideranca-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000035,
+    "timestamp": 1792870200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900021,
+     "name": "Novorizontino"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Eduardo Brock"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/serie-b-fortaleza-tropeca-diante-da-rebaixada-ponte-preta,73d517734f4c70bbf6953c1a2e60cfcf5x5vxncf.html"
+   ],
+   "fixture": {
+    "id": 91000036,
+    "timestamp": 1792877400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ítalo Mário Limongi",
+     "city": "Indaiatuba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900024,
+     "name": "Fortaleza"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Maílton"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900040,
+      "name": "Ponte Preta"
+     },
+     "player": {
+      "name": "Gustavo Almeida"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900040,
+      "name": "Ponte Preta"
+     },
+     "player": {
+      "name": "Brandão"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 65,
+      "extra": null,
+      "texto": "65"
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Rodriguinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-x-londrina-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000037,
+    "timestamp": 1792877400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/america-mg-x-cuiaba/97729/"
+   ],
+   "fixture": {
+    "id": 91000038,
+    "timestamp": 1793053800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Independência",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Segovinha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/juventude-goleia-nautico-e-retoma-vice-lideranca-da-serie-b,77d0f69036633db572e2b9131b83511fy6y1dudu.html"
+   ],
+   "fixture": {
+    "id": 91000039,
+    "timestamp": 1793057400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": "Caxias do Sul"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": [
+    {
+     "time": {
+      "elapsed": 6,
+      "extra": null,
+      "texto": "6"
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Fábio Lima"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Raí"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Aderlan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Amarilla"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ceara-x-goias-onde-assistir-escalacoes-e-arbitragem,8986ca2b94852a3100c72b755102284dct948h1j.html"
+   ],
+   "fixture": {
+    "id": 91000040,
+    "timestamp": 1793142000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900035,
+     "name": "Ceará"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000041,
+    "timestamp": 1793399400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/sport/com-gol-no-fim-sport-vence-criciuma-e-cola-no-g6-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000042,
+    "timestamp": 1793473200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Santa Cruz (Arena Nicnet)",
+     "city": "Ribeirão Preto"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000043,
+    "timestamp": 1793480400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "OBA (Onésio Brasileiro Alvarenga)",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900023,
+     "name": "Vila Nova"
+    },
+    "away": {
+     "id": 900022,
+     "name": "Juventude"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000044,
+    "timestamp": 1793485800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900037,
+     "name": "Avaí"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+   ],
+   "fixture": {
+    "id": 91000045,
+    "timestamp": 1793559600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Vitorino Gonçalves Dias (VGD)",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000046,
+    "timestamp": 1793568600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Jorge Ismael de Biasi",
+     "city": "Novo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+   ],
+   "fixture": {
+    "id": 91000047,
+    "timestamp": 1793568600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900031,
+     "name": "São Bernardo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000048,
+    "timestamp": 1793646000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000049,
+    "timestamp": 1793653200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Sicredi",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://crboficial.com.br/futebol/crb-faz-2x1-no-londrina-e-entra-no-g6-da-serie-b"
+   ],
+   "fixture": {
+    "id": 91000050,
+    "timestamp": 1793662200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Serrinha",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900030,
+     "name": "Goiás"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  }
+ ],
  "classificacao": {
   "serie_a": {
    "grupos": [
@@ -920,5 +3590,232 @@
    ]
   }
  },
- "artilharia": {}
+ "artilharia": {
+  "serie_a": [
+   {
+    "jogador": "Marino Hinestroza",
+    "time": "Vasco",
+    "time_id": 900013,
+    "gols": 2
+   },
+   {
+    "jogador": "Arrascaeta",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Bernabei",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Bernard",
+    "time": "Atlético-MG",
+    "time_id": 900006,
+    "gols": 1
+   },
+   {
+    "jogador": "Bolasie",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Braithwaite",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
+    "jogador": "Carrascal",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Fabrício Bruno",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
+    "jogador": "Giay",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Gilberto",
+    "time": "Athletico-PR",
+    "time_id": 900004,
+    "gols": 1
+   },
+   {
+    "jogador": "Giovanni Augusto",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Guga",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 1
+   },
+   {
+    "jogador": "Gustavo Henrique",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 1
+   },
+   {
+    "jogador": "Juninho",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Luan Peres",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 1
+   },
+   {
+    "jogador": "Luciano Juba",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Bahia",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Bidu",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 1
+   },
+   {
+    "jogador": "Mauricio",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Plata",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Puma Rodríguez",
+    "time": "Vasco",
+    "time_id": 900013,
+    "gols": 1
+   },
+   {
+    "jogador": "Renan Lodi",
+    "time": "Atlético-MG",
+    "time_id": 900006,
+    "gols": 1
+   },
+   {
+    "jogador": "Renato Kayzer",
+    "time": "Vitória",
+    "time_id": 900014,
+    "gols": 1
+   }
+  ],
+  "serie_b": [
+   {
+    "jogador": "Chrystian Barletta",
+    "time": "Sport",
+    "time_id": 900027,
+    "gols": 2
+   },
+   {
+    "jogador": "Aderlan",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Amarilla",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Brandão",
+    "time": "Ponte Preta",
+    "time_id": 900040,
+    "gols": 1
+   },
+   {
+    "jogador": "Eduardo Brock",
+    "time": "Novorizontino",
+    "time_id": 900021,
+    "gols": 1
+   },
+   {
+    "jogador": "Fellipe Mateus",
+    "time": "Criciúma",
+    "time_id": 900025,
+    "gols": 1
+   },
+   {
+    "jogador": "Fábio Lima",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Gustavo Almeida",
+    "time": "Ponte Preta",
+    "time_id": 900040,
+    "gols": 1
+   },
+   {
+    "jogador": "Leandro Maciel",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Maílton",
+    "time": "Fortaleza",
+    "time_id": 900024,
+    "gols": 1
+   },
+   {
+    "jogador": "Morelli",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Raí",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Rodriguinho",
+    "time": "Fortaleza",
+    "time_id": 900024,
+    "gols": 1
+   },
+   {
+    "jogador": "Segovinha",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 1
+   }
+  ]
+ }
 }
