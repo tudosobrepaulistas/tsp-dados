@@ -52,7 +52,7 @@ def texto(h):
 
 def pendentes(a):
     horas = int(a[a.index("--horas") + 1]) if "--horas" in a else 6
-    desde = (datetime.datetime.utcnow() - datetime.timedelta(hours=horas)).strftime("%Y-%m-%dT%H:%M:%S")
+    desde = (datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))) - datetime.timedelta(hours=horas)).strftime("%Y-%m-%dT%H:%M:%S")  # horário do site (Brasília)
     feitos = {i["id"] for i in ler()["itens"]}
     lista = []
     for tipo in ("materia", "posts"):
