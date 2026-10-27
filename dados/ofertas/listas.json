@@ -1,0 +1,13 @@
+{
+ "_leia": "Lista de afiliado do Mercado Livre de cada clube (slug do clube no site → link meli.la). Atualize com: python3 ferramentas/ofertas.py atualizar",
+ "listas": {
+  "palmeiras": "https://meli.la/1XiXA6H",
+  "corinthians": "https://meli.la/2KVG9Cd",
+  "santos": "https://meli.la/1fkZYSc",
+  "saopaulo": "https://meli.la/2fPomVw",
+  "botafogosp": "https://meli.la/2nHXMK9",
+  "guarani": "https://meli.la/1GzAeDf",
+  "pontepreta": "https://meli.la/19Z16d4",
+  "portuguesa": "https://meli.la/2g8pXji"
+ }
+}
