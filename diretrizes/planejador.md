@@ -5,7 +5,7 @@
    jogos dos próximos 7 dias estão cadastrados (`python3 ferramentas/tsp.py agenda --horas 168`). Pesquise SÓ o que falta
    (rodada nova divulgada, fase seguinte do mata-mata, jogo remarcado) e cadastre com `jogo-novo` (ou `remarcar`).
    Confira também, com 1 busca por competição, se algum jogo das próximas 24 horas mudou de dia ou horário.
-3. **Competições "verificar"** (uma por dia, a primeira da lista): descubra se ainda há jogos de clube paulista nesta temporada.
+3. **Competições "verificar"** (até 3 por dia, na ordem da lista; o feminino primeiro): descubra se ainda há jogos de clube paulista nesta temporada.
    Se sim, mude para "ativa" e cadastre os jogos dos próximos 7 dias; se for de pontos ou grupos, crie dados/base/<chave>.json
    com a classificação atual confirmada em 2 fontes (mesmo formato de dados/base/serie_a.json, com "corte" = agora).
    Se não, mude para "encerrada". Competições "aguardando" (temporada 2027): só verifique às segundas se a tabela já saiu.
