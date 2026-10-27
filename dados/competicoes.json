@@ -1,0 +1,145 @@
+{
+ "_leia": "status: ativa = acompanhar; verificar = a Máquina confere se ainda tem jogo de clube paulista e muda para ativa ou encerrada; aguardando = temporada ainda não começou; encerrada = não acompanhar. formato: pontos (tabela calculada), grupos (tabela por grupo, campo grupo no jogo), mata (só jogos/chave).",
+ "competicoes": [
+  {
+   "chave": "serie_a",
+   "nome": "Brasileirão Série A",
+   "temporada": 2026,
+   "formato": "pontos",
+   "status": "ativa"
+  },
+  {
+   "chave": "serie_b",
+   "nome": "Brasileirão Série B",
+   "temporada": 2026,
+   "formato": "pontos",
+   "status": "ativa"
+  },
+  {
+   "chave": "copa_do_brasil",
+   "nome": "Copa do Brasil",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "ativa"
+  },
+  {
+   "chave": "libertadores",
+   "nome": "Libertadores",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "ativa"
+  },
+  {
+   "chave": "sul_americana",
+   "nome": "Sul-Americana",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "ativa"
+  },
+  {
+   "chave": "fem_brasileiro_a1",
+   "nome": "Brasileirão Feminino A1",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "fem_paulistao",
+   "nome": "Paulistão Feminino",
+   "temporada": 2026,
+   "formato": "grupos",
+   "status": "verificar"
+  },
+  {
+   "chave": "fem_copa_do_brasil",
+   "nome": "Copa do Brasil Feminina",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "fem_libertadores",
+   "nome": "Libertadores Feminina",
+   "temporada": 2026,
+   "formato": "grupos",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub20_paulista",
+   "nome": "Paulista Sub-20",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub17_paulista",
+   "nome": "Paulista Sub-17",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub15_paulista",
+   "nome": "Paulista Sub-15",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub20_brasileiro",
+   "nome": "Brasileiro Sub-20",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub17_brasileiro",
+   "nome": "Brasileiro Sub-17",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub20_copa_do_brasil",
+   "nome": "Copa do Brasil Sub-20",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "paulistao_a1",
+   "nome": "Paulistão A1",
+   "temporada": 2027,
+   "formato": "grupos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "paulistao_a2",
+   "nome": "Paulistão A2",
+   "temporada": 2027,
+   "formato": "pontos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "paulistao_a3",
+   "nome": "Paulistão A3",
+   "temporada": 2027,
+   "formato": "pontos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "paulistao_a4",
+   "nome": "Paulistão A4",
+   "temporada": 2027,
+   "formato": "pontos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "copa_paulista",
+   "nome": "Copa Paulista",
+   "temporada": 2027,
+   "formato": "grupos",
+   "status": "aguardando"
+  }
+ ]
+}

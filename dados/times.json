@@ -1,0 +1,202 @@
+{
+ "flamengo": {
+  "id": 900001,
+  "nome": "Flamengo",
+  "slug_tsp": ""
+ },
+ "palmeiras": {
+  "id": 900002,
+  "nome": "Palmeiras",
+  "slug_tsp": "palmeiras"
+ },
+ "cruzeiro": {
+  "id": 900003,
+  "nome": "Cruzeiro",
+  "slug_tsp": ""
+ },
+ "athletico-pr": {
+  "id": 900004,
+  "nome": "Athletico-PR",
+  "slug_tsp": ""
+ },
+ "fluminense": {
+  "id": 900005,
+  "nome": "Fluminense",
+  "slug_tsp": ""
+ },
+ "atletico-mg": {
+  "id": 900006,
+  "nome": "Atlético-MG",
+  "slug_tsp": ""
+ },
+ "bahia": {
+  "id": 900007,
+  "nome": "Bahia",
+  "slug_tsp": ""
+ },
+ "santos": {
+  "id": 900008,
+  "nome": "Santos",
+  "slug_tsp": "santos"
+ },
+ "sao-paulo": {
+  "id": 900009,
+  "nome": "São Paulo",
+  "slug_tsp": "saopaulo"
+ },
+ "bragantino": {
+  "id": 900010,
+  "nome": "Red Bull Bragantino",
+  "slug_tsp": "bragantino"
+ },
+ "botafogo": {
+  "id": 900011,
+  "nome": "Botafogo",
+  "slug_tsp": ""
+ },
+ "coritiba": {
+  "id": 900012,
+  "nome": "Coritiba",
+  "slug_tsp": ""
+ },
+ "vasco": {
+  "id": 900013,
+  "nome": "Vasco",
+  "slug_tsp": ""
+ },
+ "vitoria": {
+  "id": 900014,
+  "nome": "Vitória",
+  "slug_tsp": ""
+ },
+ "mirassol": {
+  "id": 900015,
+  "nome": "Mirassol",
+  "slug_tsp": "mirassol"
+ },
+ "internacional": {
+  "id": 900016,
+  "nome": "Internacional",
+  "slug_tsp": ""
+ },
+ "gremio": {
+  "id": 900017,
+  "nome": "Grêmio",
+  "slug_tsp": ""
+ },
+ "corinthians": {
+  "id": 900018,
+  "nome": "Corinthians",
+  "slug_tsp": "corinthians"
+ },
+ "remo": {
+  "id": 900019,
+  "nome": "Remo",
+  "slug_tsp": ""
+ },
+ "chapecoense": {
+  "id": 900020,
+  "nome": "Chapecoense",
+  "slug_tsp": ""
+ },
+ "novorizontino": {
+  "id": 900021,
+  "nome": "Novorizontino",
+  "slug_tsp": "novorizontino"
+ },
+ "juventude": {
+  "id": 900022,
+  "nome": "Juventude",
+  "slug_tsp": ""
+ },
+ "vila-nova": {
+  "id": 900023,
+  "nome": "Vila Nova",
+  "slug_tsp": ""
+ },
+ "fortaleza": {
+  "id": 900024,
+  "nome": "Fortaleza",
+  "slug_tsp": ""
+ },
+ "criciuma": {
+  "id": 900025,
+  "nome": "Criciúma",
+  "slug_tsp": ""
+ },
+ "crb": {
+  "id": 900026,
+  "nome": "CRB",
+  "slug_tsp": ""
+ },
+ "sport": {
+  "id": 900027,
+  "nome": "Sport",
+  "slug_tsp": ""
+ },
+ "atletico-go": {
+  "id": 900028,
+  "nome": "Atlético-GO",
+  "slug_tsp": ""
+ },
+ "operario-pr": {
+  "id": 900029,
+  "nome": "Operário-PR",
+  "slug_tsp": ""
+ },
+ "goias": {
+  "id": 900030,
+  "nome": "Goiás",
+  "slug_tsp": ""
+ },
+ "sao-bernardo": {
+  "id": 900031,
+  "nome": "São Bernardo",
+  "slug_tsp": "saobernardo"
+ },
+ "botafogo-sp": {
+  "id": 900032,
+  "nome": "Botafogo-SP",
+  "slug_tsp": "botafogosp"
+ },
+ "cuiaba": {
+  "id": 900033,
+  "nome": "Cuiabá",
+  "slug_tsp": ""
+ },
+ "athletic-mg": {
+  "id": 900034,
+  "nome": "Athletic",
+  "slug_tsp": ""
+ },
+ "ceara": {
+  "id": 900035,
+  "nome": "Ceará",
+  "slug_tsp": ""
+ },
+ "nautico": {
+  "id": 900036,
+  "nome": "Náutico",
+  "slug_tsp": ""
+ },
+ "avai": {
+  "id": 900037,
+  "nome": "Avaí",
+  "slug_tsp": ""
+ },
+ "londrina": {
+  "id": 900038,
+  "nome": "Londrina",
+  "slug_tsp": ""
+ },
+ "america-mg": {
+  "id": 900039,
+  "nome": "América-MG",
+  "slug_tsp": ""
+ },
+ "ponte-preta": {
+  "id": 900040,
+  "nome": "Ponte Preta",
+  "slug_tsp": "pontepreta"
+ }
+}

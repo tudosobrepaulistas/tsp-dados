@@ -1,0 +1,924 @@
+{
+ "gerado": "2026-10-27T03:39:00-03:00",
+ "versao": 1,
+ "competicoes": [
+  {
+   "chave": "serie_a",
+   "nome": "Brasileirão Série A",
+   "temporada": 2026,
+   "formato": "pontos",
+   "status": "ativa"
+  },
+  {
+   "chave": "serie_b",
+   "nome": "Brasileirão Série B",
+   "temporada": 2026,
+   "formato": "pontos",
+   "status": "ativa"
+  },
+  {
+   "chave": "copa_do_brasil",
+   "nome": "Copa do Brasil",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "ativa"
+  },
+  {
+   "chave": "libertadores",
+   "nome": "Libertadores",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "ativa"
+  },
+  {
+   "chave": "sul_americana",
+   "nome": "Sul-Americana",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "ativa"
+  },
+  {
+   "chave": "fem_brasileiro_a1",
+   "nome": "Brasileirão Feminino A1",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "fem_paulistao",
+   "nome": "Paulistão Feminino",
+   "temporada": 2026,
+   "formato": "grupos",
+   "status": "verificar"
+  },
+  {
+   "chave": "fem_copa_do_brasil",
+   "nome": "Copa do Brasil Feminina",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "fem_libertadores",
+   "nome": "Libertadores Feminina",
+   "temporada": 2026,
+   "formato": "grupos",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub20_paulista",
+   "nome": "Paulista Sub-20",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub17_paulista",
+   "nome": "Paulista Sub-17",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub15_paulista",
+   "nome": "Paulista Sub-15",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub20_brasileiro",
+   "nome": "Brasileiro Sub-20",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub17_brasileiro",
+   "nome": "Brasileiro Sub-17",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "base_sub20_copa_do_brasil",
+   "nome": "Copa do Brasil Sub-20",
+   "temporada": 2026,
+   "formato": "mata",
+   "status": "verificar"
+  },
+  {
+   "chave": "paulistao_a1",
+   "nome": "Paulistão A1",
+   "temporada": 2027,
+   "formato": "grupos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "paulistao_a2",
+   "nome": "Paulistão A2",
+   "temporada": 2027,
+   "formato": "pontos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "paulistao_a3",
+   "nome": "Paulistão A3",
+   "temporada": 2027,
+   "formato": "pontos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "paulistao_a4",
+   "nome": "Paulistão A4",
+   "temporada": 2027,
+   "formato": "pontos",
+   "status": "aguardando"
+  },
+  {
+   "chave": "copa_paulista",
+   "nome": "Copa Paulista",
+   "temporada": 2027,
+   "formato": "grupos",
+   "status": "aguardando"
+  }
+ ],
+ "times": {
+  "900001": {
+   "chave": "flamengo",
+   "nome": "Flamengo",
+   "slug_tsp": ""
+  },
+  "900002": {
+   "chave": "palmeiras",
+   "nome": "Palmeiras",
+   "slug_tsp": "palmeiras"
+  },
+  "900003": {
+   "chave": "cruzeiro",
+   "nome": "Cruzeiro",
+   "slug_tsp": ""
+  },
+  "900004": {
+   "chave": "athletico-pr",
+   "nome": "Athletico-PR",
+   "slug_tsp": ""
+  },
+  "900005": {
+   "chave": "fluminense",
+   "nome": "Fluminense",
+   "slug_tsp": ""
+  },
+  "900006": {
+   "chave": "atletico-mg",
+   "nome": "Atlético-MG",
+   "slug_tsp": ""
+  },
+  "900007": {
+   "chave": "bahia",
+   "nome": "Bahia",
+   "slug_tsp": ""
+  },
+  "900008": {
+   "chave": "santos",
+   "nome": "Santos",
+   "slug_tsp": "santos"
+  },
+  "900009": {
+   "chave": "sao-paulo",
+   "nome": "São Paulo",
+   "slug_tsp": "saopaulo"
+  },
+  "900010": {
+   "chave": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "slug_tsp": "bragantino"
+  },
+  "900011": {
+   "chave": "botafogo",
+   "nome": "Botafogo",
+   "slug_tsp": ""
+  },
+  "900012": {
+   "chave": "coritiba",
+   "nome": "Coritiba",
+   "slug_tsp": ""
+  },
+  "900013": {
+   "chave": "vasco",
+   "nome": "Vasco",
+   "slug_tsp": ""
+  },
+  "900014": {
+   "chave": "vitoria",
+   "nome": "Vitória",
+   "slug_tsp": ""
+  },
+  "900015": {
+   "chave": "mirassol",
+   "nome": "Mirassol",
+   "slug_tsp": "mirassol"
+  },
+  "900016": {
+   "chave": "internacional",
+   "nome": "Internacional",
+   "slug_tsp": ""
+  },
+  "900017": {
+   "chave": "gremio",
+   "nome": "Grêmio",
+   "slug_tsp": ""
+  },
+  "900018": {
+   "chave": "corinthians",
+   "nome": "Corinthians",
+   "slug_tsp": "corinthians"
+  },
+  "900019": {
+   "chave": "remo",
+   "nome": "Remo",
+   "slug_tsp": ""
+  },
+  "900020": {
+   "chave": "chapecoense",
+   "nome": "Chapecoense",
+   "slug_tsp": ""
+  },
+  "900021": {
+   "chave": "novorizontino",
+   "nome": "Novorizontino",
+   "slug_tsp": "novorizontino"
+  },
+  "900022": {
+   "chave": "juventude",
+   "nome": "Juventude",
+   "slug_tsp": ""
+  },
+  "900023": {
+   "chave": "vila-nova",
+   "nome": "Vila Nova",
+   "slug_tsp": ""
+  },
+  "900024": {
+   "chave": "fortaleza",
+   "nome": "Fortaleza",
+   "slug_tsp": ""
+  },
+  "900025": {
+   "chave": "criciuma",
+   "nome": "Criciúma",
+   "slug_tsp": ""
+  },
+  "900026": {
+   "chave": "crb",
+   "nome": "CRB",
+   "slug_tsp": ""
+  },
+  "900027": {
+   "chave": "sport",
+   "nome": "Sport",
+   "slug_tsp": ""
+  },
+  "900028": {
+   "chave": "atletico-go",
+   "nome": "Atlético-GO",
+   "slug_tsp": ""
+  },
+  "900029": {
+   "chave": "operario-pr",
+   "nome": "Operário-PR",
+   "slug_tsp": ""
+  },
+  "900030": {
+   "chave": "goias",
+   "nome": "Goiás",
+   "slug_tsp": ""
+  },
+  "900031": {
+   "chave": "sao-bernardo",
+   "nome": "São Bernardo",
+   "slug_tsp": "saobernardo"
+  },
+  "900032": {
+   "chave": "botafogo-sp",
+   "nome": "Botafogo-SP",
+   "slug_tsp": "botafogosp"
+  },
+  "900033": {
+   "chave": "cuiaba",
+   "nome": "Cuiabá",
+   "slug_tsp": ""
+  },
+  "900034": {
+   "chave": "athletic-mg",
+   "nome": "Athletic",
+   "slug_tsp": ""
+  },
+  "900035": {
+   "chave": "ceara",
+   "nome": "Ceará",
+   "slug_tsp": ""
+  },
+  "900036": {
+   "chave": "nautico",
+   "nome": "Náutico",
+   "slug_tsp": ""
+  },
+  "900037": {
+   "chave": "avai",
+   "nome": "Avaí",
+   "slug_tsp": ""
+  },
+  "900038": {
+   "chave": "londrina",
+   "nome": "Londrina",
+   "slug_tsp": ""
+  },
+  "900039": {
+   "chave": "america-mg",
+   "nome": "América-MG",
+   "slug_tsp": ""
+  },
+  "900040": {
+   "chave": "ponte-preta",
+   "nome": "Ponte Preta",
+   "slug_tsp": "pontepreta"
+  }
+ },
+ "jogos": [],
+ "classificacao": {
+  "serie_a": {
+   "grupos": [
+    [
+     [
+      1,
+      900001,
+      "Flamengo",
+      70,
+      32,
+      21,
+      7,
+      4,
+      37,
+      "",
+      64,
+      27
+     ],
+     [
+      2,
+      900002,
+      "Palmeiras",
+      69,
+      32,
+      20,
+      9,
+      3,
+      34,
+      "",
+      56,
+      22
+     ],
+     [
+      3,
+      900003,
+      "Cruzeiro",
+      54,
+      32,
+      16,
+      6,
+      10,
+      5,
+      "",
+      51,
+      46
+     ],
+     [
+      4,
+      900004,
+      "Athletico-PR",
+      54,
+      32,
+      15,
+      9,
+      8,
+      12,
+      "",
+      50,
+      38
+     ],
+     [
+      5,
+      900005,
+      "Fluminense",
+      51,
+      32,
+      14,
+      9,
+      9,
+      9,
+      "",
+      50,
+      41
+     ],
+     [
+      6,
+      900006,
+      "Atlético-MG",
+      50,
+      32,
+      14,
+      8,
+      10,
+      6,
+      "",
+      44,
+      38
+     ],
+     [
+      7,
+      900007,
+      "Bahia",
+      50,
+      32,
+      13,
+      11,
+      8,
+      5,
+      "",
+      45,
+      40
+     ],
+     [
+      8,
+      900008,
+      "Santos",
+      46,
+      32,
+      12,
+      10,
+      10,
+      2,
+      "",
+      49,
+      47
+     ],
+     [
+      9,
+      900009,
+      "São Paulo",
+      43,
+      32,
+      12,
+      7,
+      13,
+      1,
+      "",
+      37,
+      36
+     ],
+     [
+      10,
+      900010,
+      "Red Bull Bragantino",
+      41,
+      32,
+      11,
+      8,
+      13,
+      1,
+      "",
+      39,
+      38
+     ],
+     [
+      11,
+      900011,
+      "Botafogo",
+      39,
+      32,
+      10,
+      9,
+      13,
+      -7,
+      "",
+      44,
+      51
+     ],
+     [
+      12,
+      900012,
+      "Coritiba",
+      39,
+      32,
+      10,
+      9,
+      13,
+      -12,
+      "",
+      38,
+      50
+     ],
+     [
+      13,
+      900013,
+      "Vasco",
+      38,
+      31,
+      10,
+      8,
+      13,
+      -6,
+      "",
+      39,
+      45
+     ],
+     [
+      14,
+      900014,
+      "Vitória",
+      38,
+      32,
+      10,
+      8,
+      14,
+      -11,
+      "",
+      35,
+      46
+     ],
+     [
+      15,
+      900015,
+      "Mirassol",
+      37,
+      32,
+      9,
+      10,
+      13,
+      -8,
+      "",
+      37,
+      45
+     ],
+     [
+      16,
+      900016,
+      "Internacional",
+      35,
+      32,
+      8,
+      11,
+      13,
+      -4,
+      "",
+      36,
+      40
+     ],
+     [
+      17,
+      900017,
+      "Grêmio",
+      34,
+      32,
+      8,
+      10,
+      14,
+      -9,
+      "",
+      35,
+      44
+     ],
+     [
+      18,
+      900018,
+      "Corinthians",
+      33,
+      32,
+      8,
+      9,
+      15,
+      -8,
+      "",
+      34,
+      42
+     ],
+     [
+      19,
+      900019,
+      "Remo",
+      26,
+      32,
+      5,
+      11,
+      16,
+      -16,
+      "",
+      34,
+      50
+     ],
+     [
+      20,
+      900020,
+      "Chapecoense",
+      21,
+      31,
+      4,
+      9,
+      18,
+      -31,
+      "",
+      32,
+      63
+     ]
+    ]
+   ]
+  },
+  "serie_b": {
+   "grupos": [
+    [
+     [
+      1,
+      900021,
+      "Novorizontino",
+      64,
+      35,
+      18,
+      10,
+      7,
+      32,
+      "",
+      62,
+      30
+     ],
+     [
+      2,
+      900022,
+      "Juventude",
+      64,
+      35,
+      18,
+      10,
+      7,
+      22,
+      "",
+      45,
+      23
+     ],
+     [
+      3,
+      900023,
+      "Vila Nova",
+      62,
+      35,
+      18,
+      8,
+      9,
+      14,
+      "",
+      50,
+      36
+     ],
+     [
+      4,
+      900024,
+      "Fortaleza",
+      61,
+      35,
+      16,
+      13,
+      6,
+      12,
+      "",
+      43,
+      31
+     ],
+     [
+      5,
+      900025,
+      "Criciúma",
+      59,
+      35,
+      17,
+      8,
+      10,
+      6,
+      "",
+      36,
+      30
+     ],
+     [
+      6,
+      900026,
+      "CRB",
+      55,
+      35,
+      16,
+      7,
+      12,
+      4,
+      "",
+      53,
+      49
+     ],
+     [
+      7,
+      900027,
+      "Sport",
+      54,
+      35,
+      14,
+      12,
+      9,
+      9,
+      "",
+      47,
+      38
+     ],
+     [
+      8,
+      900028,
+      "Atlético-GO",
+      54,
+      35,
+      14,
+      12,
+      9,
+      9,
+      "",
+      42,
+      33
+     ],
+     [
+      9,
+      900029,
+      "Operário-PR",
+      51,
+      35,
+      14,
+      9,
+      12,
+      -1,
+      "",
+      45,
+      46
+     ],
+     [
+      10,
+      900030,
+      "Goiás",
+      49,
+      34,
+      14,
+      7,
+      13,
+      -6,
+      "",
+      34,
+      40
+     ],
+     [
+      11,
+      900031,
+      "São Bernardo",
+      49,
+      35,
+      13,
+      10,
+      12,
+      10,
+      "",
+      49,
+      39
+     ],
+     [
+      12,
+      900032,
+      "Botafogo-SP",
+      47,
+      35,
+      13,
+      8,
+      14,
+      2,
+      "",
+      40,
+      38
+     ],
+     [
+      13,
+      900033,
+      "Cuiabá",
+      47,
+      35,
+      11,
+      14,
+      10,
+      4,
+      "",
+      32,
+      28
+     ],
+     [
+      14,
+      900034,
+      "Athletic",
+      44,
+      35,
+      10,
+      14,
+      11,
+      0,
+      "",
+      40,
+      40
+     ],
+     [
+      15,
+      900035,
+      "Ceará",
+      43,
+      34,
+      11,
+      10,
+      13,
+      -5,
+      "",
+      37,
+      42
+     ],
+     [
+      16,
+      900036,
+      "Náutico",
+      43,
+      35,
+      11,
+      10,
+      14,
+      -7,
+      "",
+      39,
+      46
+     ],
+     [
+      17,
+      900037,
+      "Avaí",
+      37,
+      35,
+      10,
+      7,
+      18,
+      -12,
+      "",
+      33,
+      45
+     ],
+     [
+      18,
+      900038,
+      "Londrina",
+      32,
+      35,
+      8,
+      8,
+      19,
+      -7,
+      "",
+      44,
+      51
+     ],
+     [
+      19,
+      900039,
+      "América-MG",
+      23,
+      35,
+      6,
+      5,
+      24,
+      -31,
+      "",
+      23,
+      54
+     ],
+     [
+      20,
+      900040,
+      "Ponte Preta",
+      15,
+      35,
+      3,
+      6,
+      26,
+      -55,
+      "",
+      21,
+      76
+     ]
+    ]
+   ]
+  }
+ },
+ "artilharia": {}
+}
