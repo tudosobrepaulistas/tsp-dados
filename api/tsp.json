@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-27T22:13:00-03:00",
+ "gerado": "2026-10-28T14:18:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -346,6 +346,1646 @@
   }
  },
  "jogos": [
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-tropeca-e-empata-com-chapecoense-em-casa/",
+    "https://www.lance.com.br/futebol-nacional/atletico-pressiona-mas-fica-apenas-no-empate-com-a-chapecoense-na-arena-mrv.html"
+   ],
+   "fixture": {
+    "id": 91000051,
+    "timestamp": 1789844400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/mirassol-x-botafogo-campeonato-brasileiro-19-09-26/",
+    "https://www.lance.com.br/botafogo/com-dois-de-eduardo-botafogo-perde-para-o-mirassol-no-brasileirao-na-estreia-de-tite.html"
+   ],
+   "fixture": {
+    "id": 91000052,
+    "timestamp": 1789848000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/remo-x-santos-brasileirao-2026/",
+    "https://www.lance.com.br/santos/liderado-por-gabigol-santos-vence-o-remo-fora-de-casa-no-brasileirao.html"
+   ],
+   "fixture": {
+    "id": 91000060,
+    "timestamp": 1789853400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mangueirão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900019,
+     "name": "Remo"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/vasco/com-atuacao-impecavel-vasco-goleia-o-coritiba-e-sai-da-zona-do-rebaixamento.html",
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/vasco-goleia-coritiba-por-5-a-0-e-sai-do-z-4-do-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000053,
+    "timestamp": 1789860600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 5,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-internacional-brasileirao-19-09-2026/",
+    "https://www.saopaulofc.net/no-morumbis-tricolor-derrota-o-internacional-pelo-campeonato-brasileiro/"
+   ],
+   "fixture": {
+    "id": 91000054,
+    "timestamp": 1789862400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/palmeiras-para-em-weverton-e-empata-com-o-gremio-pelo-brasileirao.html",
+    "https://www.terra.com.br/esportes/futebol/com-lei-do-ex-goleiro-palmeiras-para-em-weverton-e-volta-com-empate-contra-o-gremio,393388211493b9ac047397d59fa4596fllla18zw.html"
+   ],
+   "fixture": {
+    "id": 91000055,
+    "timestamp": 1789912800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-fluminense-brasileirao-20-09-2026/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/hulk-faz-dois-fluminense-bate-o-corinthians-e-afunda-rival-em-crise,c53f1bf3a40c53bb2bbe3253d6355bcag9wdrea3.html"
+   ],
+   "fixture": {
+    "id": 91000056,
+    "timestamp": 1789930800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/vitoria-cruzeiro-brasileirao-2026-rodada-28/",
+    "https://www.terra.com.br/esportes/futebol/vitoria-sofre-virada-do-cruzeiro-e-perde-em-casa-pelo-brasileirao,ff4fccfa7f6d7c33248299f61b7c2650hsazxawc.html"
+   ],
+   "fixture": {
+    "id": 91000057,
+    "timestamp": 1789930800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-x-bragantino-campeonato-brasileiro-20-09-2026/",
+    "https://www.lance.com.br/flamengo/flamengo-vence-bragantino-e-abre-vantagem-para-o-palmeiras-na-lideranca-do-brasileirao.html"
+   ],
+   "fixture": {
+    "id": 91000058,
+    "timestamp": 1789939800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-athletico-pr-vence-bahia-em-casa-em-briga-direta-pelo-g-4/",
+    "https://www.terra.com.br/esportes/atletico-pr/athletico-pr-bate-bahia-com-emocao-ate-o-fim-quebra-tabu-e-se-firma-no-g-4-do-brasileirao,37dd77b47b771a300114f426edea8815s56vd5r6.html"
+   ],
+   "fixture": {
+    "id": 91000059,
+    "timestamp": 1789943400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-x-vasco-campeonato-brasileiro/",
+    "https://www.lance.com.br/futebol-nacional/vasco-e-mais-efetivo-vence-o-botafogo-e-se-afasta-do-z-4.html"
+   ],
+   "fixture": {
+    "id": 91000065,
+    "timestamp": 1791410400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/red-bull-bragantino-1-x-1-mirassol-os-melhores-momentos-pelo-brasileirao/",
+    "https://www.terra.com.br/esportes/futebol/bragantino-com-um-a-mais-cede-o-empate-ao-mirassol,c70f7548235984840c7ab4a3b81733f99pl5jwi2.html"
+   ],
+   "fixture": {
+    "id": 91000061,
+    "timestamp": 1791412200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/inter-vence-corinthians-e-esquenta-luta-contra-o-rebaixamento.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/inter-faz-gol-relampago-e-vence-confronto-direto-contra-o-corinthians/"
+   ],
+   "fixture": {
+    "id": 91000062,
+    "timestamp": 1791412200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-1-x-1-gremio-veja-os-melhores-momentos-do-brasileirao/",
+    "https://www.terra.com.br/esportes/remo/duelo-de-seis-pontos-no-mangueirao-remo-e-gremio-empatam-em-jogo-eletrizante,41405e0f0fe9f2b23447cfd5ee48f896c9bccmo3.html"
+   ],
+   "fixture": {
+    "id": 91000063,
+    "timestamp": 1791412200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mangueirão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900019,
+     "name": "Remo"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-goleia-a-chapecoense-e-se-afasta-da-z4-no-brasileirao/",
+    "https://www.terra.com.br/esportes/vitoria-goleia-a-chapecoense-no-barradao-e-se-afasta-do-z-4,30330f69fda17a59ae8cd77f763a43e2wcmfrwor.html"
+   ],
+   "fixture": {
+    "id": 91000064,
+    "timestamp": 1791414000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-sao-paulo-brasileirao-07-10-2026/",
+    "https://www.lance.com.br/futebol-nacional/jovens-decidem-e-cruzeiro-vence-o-sao-paulo-no-mineirao.html"
+   ],
+   "fixture": {
+    "id": 91000066,
+    "timestamp": 1791419400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-flamengo-brasileirao-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/com-dois-gols-de-neymar-santos-e-flamengo-empatam-em-jogo-polemico-na-vila/"
+   ],
+   "fixture": {
+    "id": 91000067,
+    "timestamp": 1791498600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/athletico-pr-leva-empate-do-atletico-mg-no-fim-e-ve-3o-lugar-ameacado-no-brasileirao/",
+    "https://www.lance.com.br/futebol-nacional/lyanco-vai-do-inferno-ao-ceu-e-atletico-mg-empata-com-o-athletico-pr.html"
+   ],
+   "fixture": {
+    "id": 91000068,
+    "timestamp": 1791500400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/fluminense/com-hat-trick-de-savarino-fluminense-vence-o-coritiba-e-volta-ao-g-4.html",
+    "https://www.terra.com.br/esportes/fluminense/em-noite-de-savarino-fluminense-bate-coritiba-e-assume-terceiro-lugar,538b1505f42440794d02cb7997d1ffb0hth6u2m7.html"
+   ],
+   "fixture": {
+    "id": 91000069,
+    "timestamp": 1791505800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900005,
+     "name": "Fluminense"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-bahia-29-rodada-brasileirao-08-10-2026/",
+    "https://www.lance.com.br/futebol-nacional/palmeiras-vence-o-bahia-e-reduz-vantagem-para-o-flamengo-no-brasileirao.html"
+   ],
+   "fixture": {
+    "id": 91000070,
+    "timestamp": 1791505800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/vasco/vasco-x-remo-empate-sem-gols-brasileirao-30-rodada/",
+    "https://www.lance.com.br/futebol-nacional/vasco-e-remo-empatam-sem-gols-em-sao-januario.html"
+   ],
+   "fixture": {
+    "id": 91000071,
+    "timestamp": 1791666000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-vitoria-30-rodada-brasileirao-10-10-2026/",
+    "https://www.lance.com.br/futebol-nacional/calleri-marca-duas-vezes-e-sao-paulo-bate-o-vitoria-no-morumbis.html"
+   ],
+   "fixture": {
+    "id": 91000072,
+    "timestamp": 1791676800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/atletico-mg-x-santos-brasileirao-2026/",
+    "https://www.cnnbrasil.com.br/noticias/atletico-mg-2-x-1-santos-veja-os-melhores-momentos-pelo-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000073,
+    "timestamp": 1791745200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/flamengo-domina-vence-o-fluminense-e-segue-lider-do-brasileirao.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-fluminense-em-dia-de-protestos-e-segue-lider-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000074,
+    "timestamp": 1791750600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-x-corinthians-30-rodada-brasileirao-11-10-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-da-show-humilha-corinthians-e-mergulha-rival-na-crise/"
+   ],
+   "fixture": {
+    "id": 91000075,
+    "timestamp": 1791750600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/gremio-e-internacional-empatam-e-dupla-gre-nal-segue-no-z-4.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-1-x-1-internacional-veja-os-melhores-momentos-pelo-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000076,
+    "timestamp": 1791750600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bahia-x-mirassol-campeonato-brasileiro-11-10-26/",
+    "https://www.terra.com.br/esportes/futebol/mirassol-perde-penalti-no-apagar-das-luzes-bahia-vence-e-entra-no-g5,19876039ae173da3e541e1044c367edfqvudhai6.html"
+   ],
+   "fixture": {
+    "id": 91000078,
+    "timestamp": 1791757800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/coritiba-x-botafogo-campeonato-brasileiro/",
+    "https://www.lance.com.br/botafogo/botafogo-empata-com-o-coritiba-no-couto-pereira-e-mantem-alerta-de-rebaixamento-ligado.html"
+   ],
+   "fixture": {
+    "id": 91000077,
+    "timestamp": 1791831600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/chapecoense-x-athletico-pr-jogo-pelo-brasileirao/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-amassa-a-chapecoense-e-retoma-a-terceira-posicao-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000079,
+    "timestamp": 1791844200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 4
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/rb-bragantino-cruzeiro-brasileirao-2026-rodada-30/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/red-bull-bragantino-4-x-2-cruzeiro-veja-melhores-momentos-pelo-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000080,
+    "timestamp": 1791849600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-aproveita-jogador-a-mais-vence-e-mantem-o-internacional-no-z4/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/com-um-mais-mirassol-vence-e-complica-internacional-no-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000081,
+    "timestamp": 1792191600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/botafogo-x-chapecoense-tempo-real-brasileirao-31-rodada/",
+    "https://www.lance.com.br/botafogo/tiquinho-decide-e-botafogo-vence-a-chapecoense-no-brasileirao.html"
+   ],
+   "fixture": {
+    "id": 91000082,
+    "timestamp": 1792270800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/atletico-mg/atletico-mg-x-coritiba-brasileirao-17-10-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/com-time-misto-atletico-mg-bate-o-coritiba-e-ganha-posicoes-no-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000083,
+    "timestamp": 1792272600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/athletico-pr-x-palmeiras-brasileirao-2026/",
+    "https://www.lance.com.br/futebol-nacional/palmeiras-athletico-pr-brasileirao-17102026.html"
+   ],
+   "fixture": {
+    "id": 91000084,
+    "timestamp": 1792276200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-vasco-brasileirao-17-10-2026/",
+    "https://www.lance.com.br/futebol-nacional/artur-marca-e-garante-vitoria-do-sao-paulo-sobre-o-vasco-no-brasileirao.html"
+   ],
+   "fixture": {
+    "id": 91000085,
+    "timestamp": 1792281600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-santos-brasileirao-2026/",
+    "https://www.lance.com.br/futebol-nacional/fluminense-santos-brasileiro-maracana-18102026.html"
+   ],
+   "fixture": {
+    "id": 91000086,
+    "timestamp": 1792350000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900005,
+     "name": "Fluminense"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/gremio-x-cruzeiro-brasileirao-18-10-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/gremio-2-x-4-cruzeiro-veja-os-melhores-momentos-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000087,
+    "timestamp": 1792350000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 4
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bahia-x-flamengo-brasileirao-18-10-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-domina-vence-bahia-e-retoma-lideranca-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000088,
+    "timestamp": 1792359000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 3
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/bragantino/veja-os-melhores-momentos-de-remo-1-x-1-bragantino-pelo-brasileirao/",
+    "https://www.lance.com.br/futebol-nacional/remo-empata-com-bragantino-em-casa-e-segue-na-zona-de-rebaixamento.html"
+   ],
+   "fixture": {
+    "id": 91000089,
+    "timestamp": 1792362600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mangueirão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900019,
+     "name": "Remo"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vitoria-brasileirao-19-10-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-empata-com-vitoria-e-evita-nona-derrota-seguida-no-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000090,
+    "timestamp": 1792450800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
   {
    "liga": "serie_a",
    "temporada": 2026,
@@ -1955,6 +3595,1441 @@
    "goals": {
     "home": null,
     "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/sport/sport-leva-susto-mas-vence-o-athletic-pela-serie-b-do-brasileiro/",
+    "https://www.terra.com.br/esportes/futebol/sport-vence-o-athletic-fora-e-mantem-sonho-pelo-g6-do-brasileirao-serie-b,c4e03ea6747365176ab6245ebce933fdrg9alyvc.html"
+   ],
+   "fixture": {
+    "id": 91000091,
+    "timestamp": 1790897400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/gremio-novorizontino/novorizontino-vence-o-goias-e-dorme-na-vice-lideranca-da-serie-b/",
+    "https://www.terra.com.br/esportes/goias/novorizontino-se-impoe-contra-o-goias-e-dorme-vice-lider-da-serie-b,b562f9439f81260fc7201c3434cbd6a54yanpnje.html"
+   ],
+   "fixture": {
+    "id": 91000092,
+    "timestamp": 1790899200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Jorge Ismael de Biasi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-bate-londrina-fora-de-casa-e-segue-na-briga-pelo-acesso-na-serie-b/",
+    "https://londrinasaf.com.br/noticia/2026/10/2/londrina-e-superado-pelo-criciuma-no-vgd"
+   ],
+   "fixture": {
+    "id": 91000093,
+    "timestamp": 1790983800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vitorino Gonçalves Dias",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-operario-pr-assume-a-lideranca-e-seca-o-vila-nova/",
+    "https://www.terra.com.br/esportes/juventude/juventude-bate-operario-em-casa-e-dorme-na-lideranca-da-serie-b,02969c17259af2044d298b8ae6c04c81pjddcio9.html"
+   ],
+   "fixture": {
+    "id": 91000094,
+    "timestamp": 1790983800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-busca-empate-com-o-nautico-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/fortaleza-so-empata-com-nautico-e-deixa-de-colar-no-topo-da-serie-b,a67ce1c0801516b00f5645c0026a671195y142bn.html"
+   ],
+   "fixture": {
+    "id": 91000095,
+    "timestamp": 1790987700,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-vence-avai-acrescimos-serie-b/",
+    "https://avai.com.br/avai-e-superado-pelo-ceara-ce-pela-31a-rodada-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000096,
+    "timestamp": 1791036000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ressacada",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900037,
+     "name": "Avaí"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/atletico-go/atletico-go-vence-america-mg-e-segue-na-briga-pelo-acesso-na-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/atletico-go-x-america-mg/97050/"
+   ],
+   "fixture": {
+    "id": 91000097,
+    "timestamp": 1791054000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/ponte-preta/ponte-preta-e-rebaixada-para-a-serie-c-apos-derrota-para-o-cuiaba/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/cuiaba-condena-a-ponte-preta-a-serie-c-do-brasileirao,2c7488852b978465064cc89bafb0ef658kbnihkv.html"
+   ],
+   "fixture": {
+    "id": 91000098,
+    "timestamp": 1791057600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/vila-nova-go/ex-corinthians-decide-vila-nova-vence-o-botafogo-sp-e-reassume-a-lideranca-da-serie-b/",
+    "https://www.terra.com.br/esportes/botafogo/vila-nova-surpreende-o-botafogo-sp-e-retoma-lideranca-na-serie-b,7189bf83b9e846505cd6327bd5c37460ui7zlovc.html"
+   ],
+   "fixture": {
+    "id": 91000099,
+    "timestamp": 1791063000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Nicnet",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/sport/sport-vence-sao-bernardo-e-encosta-no-g6-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/sport-vence-sao-bernardo-e-cola-no-g6-da-serie-b-do-brasileiro,ad73ace1f7b4cb929be0623d32227228l2pgjk05.html"
+   ],
+   "fixture": {
+    "id": 91000100,
+    "timestamp": 1791325800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900031,
+     "name": "São Bernardo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/goias/goias-vence-o-athletic-nos-acrescimos-e-sobe-na-tabela-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/goias-x-athletic-club/97083/"
+   ],
+   "fixture": {
+    "id": 91000101,
+    "timestamp": 1791329400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Hailé Pinheiro (Serrinha)",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900030,
+     "name": "Goiás"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/com-golaco-juventude-vence-a-ponte-preta-e-dorme-lider-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/juventude-bate-rebaixada-ponte-preta-e-dorme-na-ponta-da-serie-b,285497436c816f4eee2be0dd79199bc672pp3o1y.html"
+   ],
+   "fixture": {
+    "id": 91000102,
+    "timestamp": 1791333300,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ítalo Mário Limongi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900022,
+     "name": "Juventude"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-vira-sobre-o-operario-e-mantem-distancia-de-cinco-pontos-do-z4/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/operario-pr-x-botafogo-sp/97111/"
+   ],
+   "fixture": {
+    "id": 91000103,
+    "timestamp": 1791412200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://avai.com.br/avai-vence-o-londrina-pr-na-ressacada-pela-32a-rodada-da-serie-b/",
+    "https://londrinasaf.com.br/noticia/2026/10/7/londrina-e-superado-pelo-avai-na-ressacada"
+   ],
+   "fixture": {
+    "id": 91000104,
+    "timestamp": 1791412200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ressacada",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900037,
+     "name": "Avaí"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/minuto-a-minuto/brasileiro-serie-b-2026/america-mg-x-fortaleza/239716/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/fortaleza-vence-segue-bem-cotado-na-serie-b-e-rebaixa-america-mg,561d18af7f909f0236ae99187131e965rrie7t1t.html"
+   ],
+   "fixture": {
+    "id": 91000105,
+    "timestamp": 1791415800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Independência",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900024,
+     "name": "Fortaleza"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/vila-nova-empata-com-cuiaba-e-perde-chance-de-assumir-lideranca-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-so-empata-com-cuiaba-e-deixa-de-assumir-a-ponta-da-serie-b,99061c8fe231f7916b648c59fa17c690xogkpiag.html"
+   ],
+   "fixture": {
+    "id": 91000106,
+    "timestamp": 1791415800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Onésio Brasileiro Alvarenga",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900023,
+     "name": "Vila Nova"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/ceara/ceara-vence-o-criciuma-e-chega-ao-quinto-jogo-sem-derrota-na-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/com-gol-no-fim-ceara-bate-criciuma-e-encaminha-permanencia-na-serie-b,0a97a9fb4cca5ffcbe54685bd8c98a6b1egx6w48.html"
+   ],
+   "fixture": {
+    "id": 91000107,
+    "timestamp": 1791498600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900035,
+     "name": "Ceará"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/gremio-novorizontino/novorizontino-vence-o-nautico-e-encosta-no-topo-da-serie-b/",
+    "https://www.gremionovorizontino.com.br/2026/10/09/soberano-nos-aflitos-novorizontino-vence-o-nautico-e-segue-na-cola-do-g-2-do-brasileirao-b/"
+   ],
+   "fixture": {
+    "id": 91000108,
+    "timestamp": 1791498600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900021,
+     "name": "Novorizontino"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-cede-empate-ao-sao-bernardo-e-perde-lideranca-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/juventude-empata-com-sao-bernardo-no-sul-e-ve-g2-ameacado-na-serie-b,2274fc7e1b82f16934175062dca23a3f0k6ac2lz.html"
+   ],
+   "fixture": {
+    "id": 91000109,
+    "timestamp": 1791745200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900031,
+     "name": "São Bernardo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/atletico-go-cede-empate-ao-sport-com-um-a-mais-e-ve-g6-da-serie-b-amecado/",
+    "https://www.terra.com.br/esportes/futebol/atletico-go-vacila-e-deixa-vitoria-escapar-contra-o-sport-na-serie-b,4f3c2503ebb06bb6d0d340aa6b4e9ce7u0mfka89.html"
+   ],
+   "fixture": {
+    "id": 91000110,
+    "timestamp": 1791745800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/vila-nova-go/vila-nova-vence-o-nautico-fora-de-casa-e-reassume-a-lideranca-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/nautico-x-vila-nova/97173/"
+   ],
+   "fixture": {
+    "id": 91000111,
+    "timestamp": 1791750600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/avai/avai-vence-o-cuiaba-pela-serie-b-e-ganha-folego-na-luta-contra-o-rebaixamento/",
+    "https://avai.com.br/avai-vence-o-cuiaba-mt-no-mato-grosso-pela-33a-rodada-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000112,
+    "timestamp": 1791754200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900037,
+     "name": "Avaí"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-sai-na-frente-mas-cede-empate-ao-crb-pela-serie-b-do-brasileiro/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/fortaleza-e-crb-ficam-no-empate-pela-serie-b-do-brasileirao,a0818a3037896d097c4c4967355e9c171fbqlvcq.html"
+   ],
+   "fixture": {
+    "id": 91000117,
+    "timestamp": 1791831600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-goleia-ponte-preta-e-assume-vice-lideranca-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/novorizontino-x-ponte-preta/97204/"
+   ],
+   "fixture": {
+    "id": 91000113,
+    "timestamp": 1791842400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Jorge Ismael de Biasi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    }
+   },
+   "goals": {
+    "home": 5,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-ja-rebaixado-america-mg-e-mira-g2-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/criciuma-x-america-mg/97205/"
+   ],
+   "fixture": {
+    "id": 91000114,
+    "timestamp": 1791844200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-vence-ceara-e-ganha-folego-contra-o-z4-na-serie-b/",
+    "https://botafogofutebolsa.com.br/no-aniversario-de-108-anos-botafogo-vence-o-ceara-e-conquista-a-2a-vitoria-consecutiva-na-serie-b-do-brasileiro"
+   ],
+   "fixture": {
+    "id": 91000115,
+    "timestamp": 1791849600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Santa Cruz (Arena Nicnet)",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/athletic-busca-empate-no-fim-contra-o-londrina-pela-serie-b/",
+    "https://www.terra.com.br/esportes/londrina/athletic-de-alex-busca-reacao-e-deixa-londrina-a-um-passo-da-serie-c,d74f260fb94aeca8e593b9d642a238af3az87z7h.html"
+   ],
+   "fixture": {
+    "id": 91000116,
+    "timestamp": 1791930600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/atletico-go/atletico-go-empata-ponte-preta-serie-b-rodada-34/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/ponte-preta-x-atletico-goianiense/97265/"
+   ],
+   "fixture": {
+    "id": 91000118,
+    "timestamp": 1792189800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ítalo Mário Limongi",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-aproveita-expulsao-vence-sport-em-recife-e-mira-g2-da-serie-b/",
+    "https://www.terra.com.br/esportes/sport/fortaleza-bate-sport-e-encosta-na-lideranca-da-serie-b,92891237d20bb2b54038962df65195fajmxevay6.html"
+   ],
+   "fixture": {
+    "id": 91000119,
+    "timestamp": 1792193400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900024,
+     "name": "Fortaleza"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-vence-ceara-fora-de-casa-e-assume-lideranca-provisoria-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/ceara-x-juventude/97440/"
+   ],
+   "fixture": {
+    "id": 91000120,
+    "timestamp": 1792265400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900035,
+     "name": "Ceará"
+    },
+    "away": {
+     "id": 900022,
+     "name": "Juventude"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-sao-bernardo-serie-b-rodada-34/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/sao-bernardo-x-criciuma/97488/"
+   ],
+   "fixture": {
+    "id": 91000121,
+    "timestamp": 1792350000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Primeiro de Maio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-fica-no-empate-em-casa-contra-o-athletic-pela-serie-b-do-brasileiro/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/avai-x-athletic-club/97486/"
+   ],
+   "fixture": {
+    "id": 91000122,
+    "timestamp": 1792350000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ressacada",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900037,
+     "name": "Avaí"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo-sp/botafogo-sp-surpreende-crb-e-ganha-folego-na-luta-contra-a-queda-na-serie-b/",
+    "https://www.crboficial.com.br/futebol/crb-e-superado-pelo-botafogo-sp-e-fica-a-dois-pontos-do-g6"
+   ],
+   "fixture": {
+    "id": 91000123,
+    "timestamp": 1792350000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/vila-nova-go/novorizontino-busca-empate-nos-acrescimos-contra-o-vila-nova-em-duelo-pela-lideranca-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/vila-nova-x-novorizontino/97489/"
+   ],
+   "fixture": {
+    "id": 91000124,
+    "timestamp": 1792357200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Onésio Brasileiro Alvarenga",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900023,
+     "name": "Vila Nova"
+    },
+    "away": {
+     "id": 900021,
+     "name": "Novorizontino"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/goias/goias-empata-com-nautico-e-perde-chance-de-se-aproximar-do-g6-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/goias-x-nautico/97543/"
+   ],
+   "fixture": {
+    "id": 91000125,
+    "timestamp": 1792449000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Hailé Pinheiro (Serrinha)",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900030,
+     "name": "Goiás"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
    },
    "penaltis": "",
    "events": []
