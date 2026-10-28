@@ -23,7 +23,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 ARQ = RAIZ / "api" / "pautas.json"
 SITE = "https://tudosobrepaulista.com.br/wp-json/tsp/v1/cobertura"
 BR = datetime.timezone(datetime.timedelta(hours=-3))
-PROIBIDO = ("sofascore", "flashscore", "ogol", "transfermarkt", "fotmob", "bet", "aposta")
+PROIBIDO = re.compile(r"sofascore|flashscore|ogol\.|transfermarkt|fotmob|\bbets?\b|bet365|betano|casas? de apostas?|\bodds?\b|palpites?", re.I)
 
 
 def agora():
@@ -75,7 +75,7 @@ def adicionar(a):
         f = it.get("fontes", [])
         if not f or not all(str(x.get("url", "")).startswith("https://") for x in f):
             erros.append(f"{n}: precisa de pelo menos 1 fonte com link https")
-        if any(p in json.dumps(it, ensure_ascii=False).lower() for p in PROIBIDO):
+        if PROIBIDO.search(json.dumps(it, ensure_ascii=False)):
             erros.append(f"{n}: fonte ou tema proibido (estatística raspada ou aposta)")
     if erros:
         raise SystemExit("ERRO:\n" + "\n".join(erros))
