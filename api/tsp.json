@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-27T11:48:00-03:00",
+ "gerado": "2026-10-27T22:13:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -1964,14 +1964,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.terra.com.br/esportes/futebol/operario-x-athletic-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,d32940de7860163d84693f1589a7cad2kbcrsbhc.html"
+    "https://www.terra.com.br/esportes/futebol/operario-x-athletic-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,d32940de7860163d84693f1589a7cad2kbcrsbhc.html",
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/operario-pr-x-athletic-club/97651/"
    ],
    "fixture": {
     "id": 91000031,
     "timestamp": 1792794600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Germano Krüger",
@@ -1993,11 +1995,28 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 29,
+      "extra": null,
+      "texto": "29"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Caio Dantas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -2376,14 +2395,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-x-londrina-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-x-londrina-horario-e-onde-assistir-ao-jogo-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/crb-x-londrina/97667/",
+    "https://crboficial.com.br/futebol/crb-faz-2x1-no-londrina-e-entra-no-g6-da-serie-b"
    ],
    "fixture": {
     "id": 91000037,
     "timestamp": 1792877400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Rei Pelé",
@@ -2405,11 +2426,60 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 33,
+      "extra": null,
+      "texto": "33"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Crystopher"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 39,
+      "extra": null,
+      "texto": "39"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Danielzinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 64,
+      "extra": null,
+      "texto": "64"
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Igor Bahia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -2578,7 +2648,7 @@
   {
    "liga": "serie_b",
    "temporada": 2026,
-   "obs": "",
+   "obs": "Jogo encerrado segundo imprensa regional; aguardando 2 fontes aceitas para registrar o placar",
    "fontes": [
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ceara-x-goias-onde-assistir-escalacoes-e-arbitragem,8986ca2b94852a3100c72b755102284dct948h1j.html"
    ],
@@ -3757,6 +3827,24 @@
     "gols": 1
    },
    {
+    "jogador": "Caio Dantas",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Crystopher",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 1
+   },
+   {
+    "jogador": "Danielzinho",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 1
+   },
+   {
     "jogador": "Eduardo Brock",
     "time": "Novorizontino",
     "time_id": 900021,
@@ -3778,6 +3866,12 @@
     "jogador": "Gustavo Almeida",
     "time": "Ponte Preta",
     "time_id": 900040,
+    "gols": 1
+   },
+   {
+    "jogador": "Igor Bahia",
+    "time": "Londrina",
+    "time_id": 900038,
     "gols": 1
    },
    {
