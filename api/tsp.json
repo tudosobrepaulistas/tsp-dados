@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-29T01:41:00-03:00",
+ "gerado": "2026-10-29T01:55:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -35,14 +35,14 @@
    "nome": "Sul-Americana",
    "temporada": 2026,
    "formato": "mata",
-   "status": "ativa"
+   "status": "encerrada"
   },
   {
    "chave": "fem_brasileiro_a1",
    "nome": "Brasileirão Feminino A1",
    "temporada": 2026,
    "formato": "mata",
-   "status": "verificar"
+   "status": "encerrada"
   },
   {
    "chave": "fem_paulistao",
@@ -56,7 +56,7 @@
    "nome": "Copa do Brasil Feminina",
    "temporada": 2026,
    "formato": "mata",
-   "status": "verificar"
+   "status": "ativa"
   },
   {
    "chave": "fem_libertadores",
@@ -4830,6 +4830,48 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://ohoje.com/2026/10/10/goias-visita-o-operario-pr-visando-o-g-6/",
+    "https://ohoje.com/2026/10/11/goias-faz-dois-golacos-vence-o-operario-pr-e-volta-a-sonhar-com-o-g-6/",
+    "https://www.oliberal.com/esportes/goias-vence-o-operario-em-ponta-grossa-e-continua-sonhando-com-vaga-no-g-6-da-serie-b-1.1181605"
+   ],
+   "fixture": {
+    "id": 91000131,
+    "timestamp": 1791754200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-sai-na-frente-mas-cede-empate-ao-crb-pela-serie-b-do-brasileiro/",
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/fortaleza-e-crb-ficam-no-empate-pela-serie-b-do-brasileirao,a0818a3037896d097c4c4967355e9c171fbqlvcq.html"
    ],
@@ -6594,6 +6636,46 @@
     "away": {
      "id": 900026,
      "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3876942"
+   ],
+   "fixture": {
+    "id": 91000130,
+    "timestamp": 1793559600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
     }
    },
    "goals": {

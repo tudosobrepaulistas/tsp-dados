@@ -34,14 +34,14 @@
    "nome": "Sul-Americana",
    "temporada": 2026,
    "formato": "mata",
-   "status": "ativa"
+   "status": "encerrada"
   },
   {
    "chave": "fem_brasileiro_a1",
    "nome": "Brasileirão Feminino A1",
    "temporada": 2026,
    "formato": "mata",
-   "status": "verificar"
+   "status": "encerrada"
   },
   {
    "chave": "fem_paulistao",
@@ -55,7 +55,7 @@
    "nome": "Copa do Brasil Feminina",
    "temporada": 2026,
    "formato": "mata",
-   "status": "verificar"
+   "status": "ativa"
   },
   {
    "chave": "fem_libertadores",
