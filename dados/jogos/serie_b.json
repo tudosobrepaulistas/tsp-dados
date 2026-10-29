@@ -47,6 +47,30 @@
    "atualizado": "2026-10-28T14:18:00-03:00"
   },
   {
+   "id": 91000126,
+   "data": "2026-10-02T19:30:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "31",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Primeiro de Maio",
+   "cidade": "São Bernardo do Campo",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaweb.com/noticias/esportes/nacional/sao-bernardo-x-crb-horario-e-onde-assistir-ao-vivo-939392",
+    "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-tropeca-contra-o-sao-bernardo-e-desperdica-chance-de-voltar-ao-g-6-3-a-1-939762",
+    "https://www.dgabc.com.br/Noticia/4350586/sao-bernardo-vira-em-casa-e-fica-mais-perto-do-playoff"
+   ],
+   "atualizado": "2026-10-29T01:36:00-03:00"
+  },
+  {
    "id": 91000093,
    "data": "2026-10-02T20:30:00-03:00",
    "casa": "londrina",
@@ -367,6 +391,30 @@
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-so-empata-com-cuiaba-e-deixa-de-assumir-a-ponta-da-serie-b,99061c8fe231f7916b648c59fa17c690xogkpiag.html"
    ],
    "atualizado": "2026-10-28T14:18:00-03:00"
+  },
+  {
+   "id": 91000127,
+   "data": "2026-10-07T20:30:00-03:00",
+   "casa": "crb",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "32",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaweb.com/noticias/esportes/nacional/horario-e-onde-assistir-ao-vivo-crb-x-atletico-go-pela-serie-b-940740",
+    "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-amassa-no-segundo-tempo-vence-o-atletico-go-e-se-reaproxima-do-g-6-3-a-1-941092",
+    "https://www.oliberal.com/esportes/crb-supera-o-atletico-go-em-confronto-direto-e-cola-no-g-6-da-serie-b-1.1178620"
+   ],
+   "atualizado": "2026-10-29T01:36:00-03:00"
   },
   {
    "id": 91000107,
@@ -691,6 +739,30 @@
    "atualizado": "2026-10-28T14:18:00-03:00"
   },
   {
+   "id": 91000128,
+   "data": "2026-10-17T18:30:00-03:00",
+   "casa": "america-mg",
+   "fora": "operario-pr",
+   "status": "encerrado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Independência",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.otempo.com.br/sports/america/2026/9/15/cbf-divulga-datas-e-horarios-dos-jogos-do-america-das-rodadas-31-a-34-da-serie-b-confira",
+    "https://www.otempo.com.br/sports/america/2026/10/17/america-marca-no-fim-vence-o-operario-pr-e-encerra-sequencia-de-derrotas-na-serie-b",
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-perde-para-o-ja-rebaixado-america-mg-e-se-distancia-do-g6-da-serie-b/"
+   ],
+   "atualizado": "2026-10-29T01:36:00-03:00"
+  },
+  {
    "id": 91000121,
    "data": "2026-10-18T16:00:00-03:00",
    "casa": "sao-bernardo",
@@ -804,6 +876,30 @@
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/goias-x-nautico/97543/"
    ],
    "atualizado": "2026-10-28T14:18:00-03:00"
+  },
+  {
+   "id": 91000129,
+   "data": "2026-10-20T19:30:00-03:00",
+   "casa": "londrina",
+   "fora": "cuiaba",
+   "status": "encerrado",
+   "rodada": "34",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vitorino Gonçalves Dias (VGD)",
+   "cidade": "Londrina",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.bonde.com.br/bondenews/londrina/jogo-que-define-futuro-do-londrina-ec-na-serie-b-sera-nesta-terca",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/londrina-vence-cuiaba-e-segue-vivo-na-luta-contra-o-rebaixamento-a-serie-c/",
+    "https://www.bonde.com.br/esportes/londrina-ec-vence-o-cuiaba-no-vgd-e-mantem-chances-matematicas-na-serie-b"
+   ],
+   "atualizado": "2026-10-29T01:36:00-03:00"
   },
   {
    "id": 91000031,

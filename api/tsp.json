@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-29T01:29:00-03:00",
+ "gerado": "2026-10-29T01:36:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3686,6 +3686,48 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaweb.com/noticias/esportes/nacional/sao-bernardo-x-crb-horario-e-onde-assistir-ao-vivo-939392",
+    "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-tropeca-contra-o-sao-bernardo-e-desperdica-chance-de-voltar-ao-g-6-3-a-1-939762",
+    "https://www.dgabc.com.br/Noticia/4350586/sao-bernardo-vira-em-casa-e-fica-mais-perto-do-playoff"
+   ],
+   "fixture": {
+    "id": 91000126,
+    "timestamp": 1790980200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Primeiro de Maio",
+     "city": "São Bernardo do Campo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 31"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-bate-londrina-fora-de-casa-e-segue-na-briga-pelo-acesso-na-serie-b/",
     "https://londrinasaf.com.br/noticia/2026/10/2/londrina-e-superado-pelo-criciuma-no-vgd"
    ],
@@ -4251,6 +4293,48 @@
    "goals": {
     "home": 0,
     "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaweb.com/noticias/esportes/nacional/horario-e-onde-assistir-ao-vivo-crb-x-atletico-go-pela-serie-b-940740",
+    "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-amassa-no-segundo-tempo-vence-o-atletico-go-e-se-reaproxima-do-g-6-3-a-1-941092",
+    "https://www.oliberal.com/esportes/crb-supera-o-atletico-go-em-confronto-direto-e-cola-no-g-6-da-serie-b-1.1178620"
+   ],
+   "fixture": {
+    "id": 91000127,
+    "timestamp": 1791415800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 32"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
    },
    "penaltis": "",
    "events": []
@@ -4834,6 +4918,48 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.otempo.com.br/sports/america/2026/9/15/cbf-divulga-datas-e-horarios-dos-jogos-do-america-das-rodadas-31-a-34-da-serie-b-confira",
+    "https://www.otempo.com.br/sports/america/2026/10/17/america-marca-no-fim-vence-o-operario-pr-e-encerra-sequencia-de-derrotas-na-serie-b",
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-perde-para-o-ja-rebaixado-america-mg-e-se-distancia-do-g6-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000128,
+    "timestamp": 1792272600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Independência",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-sao-bernardo-serie-b-rodada-34/",
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/sao-bernardo-x-criciuma/97488/"
    ],
@@ -5029,6 +5155,48 @@
    },
    "goals": {
     "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.bonde.com.br/bondenews/londrina/jogo-que-define-futuro-do-londrina-ec-na-serie-b-sera-nesta-terca",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/londrina-vence-cuiaba-e-segue-vivo-na-luta-contra-o-rebaixamento-a-serie-c/",
+    "https://www.bonde.com.br/esportes/londrina-ec-vence-o-cuiaba-no-vgd-e-mantem-chances-matematicas-na-serie-b"
+   ],
+   "fixture": {
+    "id": 91000129,
+    "timestamp": 1792535400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vitorino Gonçalves Dias (VGD)",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 34"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": 1,
     "away": 0
    },
    "penaltis": "",
