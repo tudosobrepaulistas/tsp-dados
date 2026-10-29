@@ -13,6 +13,9 @@ Comandos (rodar na raiz do repositório):
       (tipo: normal, penalti ou contra; "contra" = gol contra a favor do lado indicado)
   python3 ferramentas/tsp.py ocorrencia ID --status atrasado|em_andamento|adiado|suspenso|cancelado
       --obs "o que aconteceu" [--parcial 1x0 --minuto 75] [--fontes URL ...]
+  python3 ferramentas/tsp.py prejogo ID --json ARQUIVO.json
+      Grava o pré-jogo (onde assistir, prováveis escalações, análise, retrospecto, estádio). Formato em diretrizes/prejogo.md.
+      Só os campos enviados mudam; envie "provaveis" de novo para atualizar perto do jogo.
   python3 ferramentas/tsp.py calcular      → gera api/tsp.json (o que o site lê), classificações e artilharia
   python3 ferramentas/tsp.py validar       → confere a base (placar x gols, times, datas)
 Horários sempre de Brasília (UTC-3).
@@ -254,6 +257,49 @@ def cmd_ocorrencia(a):
     print(f"OK: jogo {j['id']} marcado como {st}")
 
 
+PROIBIDO_PRE = re.compile(r"\b(bets?|odds?|palpites?|casas? de apostas?|bet365|betano|sportingbet)\b", re.I)
+
+
+def cmd_prejogo(a):
+    chave, d, j = achar(a[0])
+    novo = json.loads(Path(opc(a, "--json")).read_text(encoding="utf-8"))
+    erros = []
+    if PROIBIDO_PRE.search(json.dumps(novo, ensure_ascii=False)):
+        erros.append("conteúdo de aposta não pode")
+    for c in novo:
+        if c not in ("onde_assistir", "provaveis", "analise", "retrospecto", "estadio_wiki", "fontes"):
+            erros.append(f"campo desconhecido: {c}")
+    oa = novo.get("onde_assistir")
+    if oa is not None:
+        if not isinstance(oa, dict) or not isinstance(oa.get("canais"), list) or not oa.get("fontes"):
+            erros.append("onde_assistir precisa de canais (lista) e fontes")
+    pv = novo.get("provaveis")
+    if pv is not None:
+        for lado in ("casa", "fora"):
+            x = pv.get(lado, {})
+            if not x.get("time"):
+                erros.append(f"provaveis.{lado}.time vazio")
+        if len(set(pv.get("fontes", []))) < 1:
+            erros.append("provaveis precisa de fontes")
+        pv["atualizado"] = iso(agora())
+    an = novo.get("analise")
+    if an is not None and (not isinstance(an, list) or not (2 <= len(an) <= 6)):
+        erros.append("analise: lista de 2 a 6 parágrafos")
+    for f in novo.get("fontes", []) + (oa or {}).get("fontes", []) + (pv or {}).get("fontes", []):
+        if not str(f).startswith("https://"):
+            erros.append(f"fonte sem https: {f}")
+        if re.search(r"sofascore|flashscore|ogol|transfermarkt|fotmob|google\.com/search", str(f), re.I):
+            erros.append(f"fonte proibida: {f}")
+    if erros:
+        raise SystemExit("ERRO:\n" + "\n".join(erros))
+    pre = j.get("prejogo", {})
+    pre.update(novo)
+    pre["atualizado"] = iso(agora())
+    j["prejogo"] = pre
+    salvar_comp(chave, d)
+    print(f"OK: pré-jogo do jogo {j['id']} gravado ({', '.join(novo)})")
+
+
 def classificar(chave, tm):
     base = ler(DADOS / "base" / f"{chave}.json", {"corte": "2000-01-01T00:00:00-03:00", "linhas": []})
     corte = data(base["corte"])
@@ -326,6 +372,7 @@ def cmd_calcular(a):
                 "league": {"round": " - ".join(x for x in [j.get("fase", ""), (f"Rodada {j['rodada']}" if j.get("rodada") else ""), (f"Grupo {j['grupo']}" if j.get("grupo") else "")] if x)},
                 "teams": {"home": {"id": casa["id"], "name": casa["nome"]}, "away": {"id": fora["id"], "name": fora["nome"]}},
                 "goals": {"home": j["gols_casa"], "away": j["gols_fora"]}, "penaltis": j.get("penaltis", ""),
+                "prejogo": j.get("prejogo", {}),
                 "events": eventos})
         if c["formato"] in ("pontos", "grupos") and ((DADOS / "base" / f"{chave}.json").exists() or jogos_de(chave)["jogos"]):
             g = classificar(chave, tm)
@@ -373,4 +420,4 @@ if __name__ == "__main__":
         sys.exit(0)
     c, resto = sys.argv[1], sys.argv[2:]
     {"agenda": cmd_agenda, "jogo-novo": cmd_jogo_novo, "remarcar": cmd_remarcar, "resultado": cmd_resultado,
-     "ocorrencia": cmd_ocorrencia, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)
+     "ocorrencia": cmd_ocorrencia, "prejogo": cmd_prejogo, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)
