@@ -6,6 +6,18 @@
   "gols": 2
  },
  {
+  "jogador": "Wallace Yan",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
+  "gols": 2
+ },
+ {
+  "jogador": "Alan Patrick",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 1
+ },
+ {
   "jogador": "Arrascaeta",
   "time": "Flamengo",
   "time_id": 900001,
@@ -24,6 +36,12 @@
   "gols": 1
  },
  {
+  "jogador": "Bobadilla",
+  "time": "São Paulo",
+  "time_id": 900009,
+  "gols": 1
+ },
+ {
   "jogador": "Bolasie",
   "time": "Chapecoense",
   "time_id": 900020,
@@ -39,6 +57,18 @@
   "jogador": "Carrascal",
   "time": "Flamengo",
   "time_id": 900001,
+  "gols": 1
+ },
+ {
+  "jogador": "Edenilson",
+  "time": "Botafogo",
+  "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Erick Pulga",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 1
  },
  {
@@ -78,9 +108,33 @@
   "gols": 1
  },
  {
+  "jogador": "Henry Mosquera",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
+  "gols": 1
+ },
+ {
+  "jogador": "Hércules",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 1
+ },
+ {
+  "jogador": "Jajá",
+  "time": "Remo",
+  "time_id": 900019,
+  "gols": 1
+ },
+ {
   "jogador": "Juninho",
   "time": "Internacional",
   "time_id": 900016,
+  "gols": 1
+ },
+ {
+  "jogador": "Leonel Picco",
+  "time": "Remo",
+  "time_id": 900019,
   "gols": 1
  },
  {
@@ -90,7 +144,25 @@
   "gols": 1
  },
  {
+  "jogador": "Lucas Moura",
+  "time": "São Paulo",
+  "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucho Acosta",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 1
+ },
+ {
   "jogador": "Luciano Juba",
+  "time": "Bahia",
+  "time_id": 900007,
+  "gols": 1
+ },
+ {
+  "jogador": "Marcos Victor",
   "time": "Bahia",
   "time_id": 900007,
   "gols": 1
@@ -135,6 +207,12 @@
   "jogador": "Renato Kayzer",
   "time": "Vitória",
   "time_id": 900014,
+  "gols": 1
+ },
+ {
+  "jogador": "Rodrigo Nestor",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 1
  }
 ]

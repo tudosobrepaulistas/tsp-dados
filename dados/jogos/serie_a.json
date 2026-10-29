@@ -1318,110 +1318,210 @@
    "data": "2026-10-28T19:30:00-03:00",
    "casa": "fluminense",
    "fora": "internacional",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Maracanã",
    "cidade": "Rio de Janeiro",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Alan Patrick",
+     "minuto": "46",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Hércules",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Lucho Acosta",
+     "minuto": "90+7",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/internacional/fluminense-vence-internacional-virada-lucho-acosta-brasileirao/",
+    "https://www.terra.com.br/esportes/fluminense/com-gol-nos-acrescimos-fluminense-vence-o-internacional-de-virada,3886affdc2d411cd2f6354d5bb9cc4e0vtbi83ha.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00"
   },
   {
    "id": 91000012,
    "data": "2026-10-28T19:30:00-03:00",
    "casa": "santos",
    "fora": "palmeiras",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Vila Belmiro",
    "cidade": "Santos",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-0-x-0-palmeiras-veja-os-melhores-momentos-pelo-brasileirao/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasileirao-palmeiras-fica-no-zero-com-o-santos-e-flamengo-agradece",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-empata-santos-flamengo-lideranca-brasileirao/"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00"
   },
   {
    "id": 91000013,
    "data": "2026-10-28T19:30:00-03:00",
    "casa": "bragantino",
    "fora": "chapecoense",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Cícero de Souza Marques",
    "cidade": "Bragança Paulista",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 3,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Wallace Yan",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Wallace Yan",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Henry Mosquera",
+     "minuto": "89",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasileirao-palmeiras-fica-no-zero-com-o-santos-e-flamengo-agradece",
+    "https://www.terra.com.br/esportes/wallace-yan-marca-dois-e-red-bull-bragantino-bate-a-chapecoense,2cbd28c7ffe7a9b053585e0fe8eeb85b3204dbfx.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/rb-bragantino-3-x-0-chapecoense-veja-os-melhores-momentos-do-brasileirao/"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00"
   },
   {
    "id": 91000014,
    "data": "2026-10-28T21:30:00-03:00",
    "casa": "bahia",
    "fora": "sao-paulo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Fonte Nova",
    "cidade": "Salvador",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 3,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Rodrigo Nestor",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Erick Pulga",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lucas Moura",
+     "minuto": "43",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bobadilla",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marcos Victor",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-oscila-apos-inicio-avassalador-mas-vence-o-sao-paulo-no-brasileirao/",
+    "https://www.terra.com.br/esportes/futebol/bahia-vence-sao-paulo-na-fonte-nova-e-encosta-no-g-5-do-brasileirao,4987d2bd7f38ac4fbc66b3415b6a16671v9kow03.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00"
   },
   {
    "id": 91000015,
    "data": "2026-10-28T21:30:00-03:00",
    "casa": "remo",
    "fora": "botafogo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Mangueirão",
    "cidade": "Belém",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jajá",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Leonel Picco",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Edenilson",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-remo-x-botafogo-edenilson-diminui-para-o-alvinegro.html",
+    "https://www.terra.com.br/esportes/botafogo/atuacoes-do-botafogo-contra-o-remo-acefalo-e-invertebrado,be4719bb54cc581bf90d8bde225511783hr8lkj6.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00"
   },
   {
    "id": 91000016,

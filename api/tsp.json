@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-29T01:36:00-03:00",
+ "gerado": "2026-10-29T01:41:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -2804,14 +2804,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/internacional/fluminense-vence-internacional-virada-lucho-acosta-brasileirao/",
+    "https://www.terra.com.br/esportes/fluminense/com-gol-nos-acrescimos-fluminense-vence-o-internacional-de-virada,3886affdc2d411cd2f6354d5bb9cc4e0vtbi83ha.html"
    ],
    "fixture": {
     "id": 91000011,
     "timestamp": 1793226600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Maracanã",
@@ -2833,25 +2835,77 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 46,
+      "extra": null,
+      "texto": "46"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Alan Patrick"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Hércules"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+7"
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Lucho Acosta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/santos-0-x-0-palmeiras-veja-os-melhores-momentos-pelo-brasileirao/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasileirao-palmeiras-fica-no-zero-com-o-santos-e-flamengo-agradece",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-empata-santos-flamengo-lideranca-brasileirao/"
    ],
    "fixture": {
     "id": 91000012,
     "timestamp": 1793226600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Vila Belmiro",
@@ -2873,8 +2927,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 0
    },
    "penaltis": "",
    "events": []
@@ -2884,14 +2938,17 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasileirao-palmeiras-fica-no-zero-com-o-santos-e-flamengo-agradece",
+    "https://www.terra.com.br/esportes/wallace-yan-marca-dois-e-red-bull-bragantino-bate-a-chapecoense,2cbd28c7ffe7a9b053585e0fe8eeb85b3204dbfx.html",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/rb-bragantino-3-x-0-chapecoense-veja-os-melhores-momentos-do-brasileirao/"
    ],
    "fixture": {
     "id": 91000013,
     "timestamp": 1793226600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Cícero de Souza Marques",
@@ -2913,25 +2970,76 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 0
    },
    "penaltis": "",
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 42,
+      "extra": null,
+      "texto": "42"
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Wallace Yan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Wallace Yan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 89,
+      "extra": null,
+      "texto": "89"
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Henry Mosquera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-oscila-apos-inicio-avassalador-mas-vence-o-sao-paulo-no-brasileirao/",
+    "https://www.terra.com.br/esportes/futebol/bahia-vence-sao-paulo-na-fonte-nova-e-encosta-no-g-5-do-brasileirao,4987d2bd7f38ac4fbc66b3415b6a16671v9kow03.html"
    ],
    "fixture": {
     "id": 91000014,
     "timestamp": 1793233800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Fonte Nova",
@@ -2953,25 +3061,108 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 2
    },
    "penaltis": "",
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Rodrigo Nestor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Erick Pulga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 43,
+      "extra": null,
+      "texto": "43"
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Lucas Moura"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Bobadilla"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Marcos Victor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-remo-x-botafogo-edenilson-diminui-para-o-alvinegro.html",
+    "https://www.terra.com.br/esportes/botafogo/atuacoes-do-botafogo-contra-o-remo-acefalo-e-invertebrado,be4719bb54cc581bf90d8bde225511783hr8lkj6.html"
    ],
    "fixture": {
     "id": 91000015,
     "timestamp": 1793233800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Mangueirão",
@@ -2993,11 +3184,60 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Jajá"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Leonel Picco"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Edenilson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -6386,10 +6626,10 @@
       2,
       900002,
       "Palmeiras",
-      69,
-      32,
+      70,
+      33,
       20,
-      9,
+      10,
       3,
       34,
       "",
@@ -6428,18 +6668,32 @@
       5,
       900005,
       "Fluminense",
-      51,
-      32,
-      14,
+      54,
+      33,
+      15,
       9,
       9,
-      9,
+      10,
       "",
-      50,
-      41
+      52,
+      42
      ],
      [
       6,
+      900007,
+      "Bahia",
+      53,
+      33,
+      14,
+      11,
+      8,
+      6,
+      "",
+      48,
+      42
+     ],
+     [
+      7,
       900006,
       "Atlético-MG",
       50,
@@ -6453,27 +6707,13 @@
       38
      ],
      [
-      7,
-      900007,
-      "Bahia",
-      50,
-      32,
-      13,
-      11,
-      8,
-      5,
-      "",
-      45,
-      40
-     ],
-     [
       8,
       900008,
       "Santos",
-      46,
-      32,
+      47,
+      33,
       12,
-      10,
+      11,
       10,
       2,
       "",
@@ -6482,45 +6722,45 @@
      ],
      [
       9,
-      900009,
-      "São Paulo",
-      43,
-      32,
+      900010,
+      "Red Bull Bragantino",
+      44,
+      33,
       12,
-      7,
+      8,
       13,
-      1,
+      4,
       "",
-      37,
-      36
+      42,
+      38
      ],
      [
       10,
-      900010,
-      "Red Bull Bragantino",
-      41,
-      32,
-      11,
-      8,
-      13,
-      1,
+      900009,
+      "São Paulo",
+      43,
+      33,
+      12,
+      7,
+      14,
+      0,
       "",
       39,
-      38
+      39
      ],
      [
       11,
       900011,
       "Botafogo",
       39,
-      32,
+      33,
       10,
       9,
-      13,
-      -7,
+      14,
+      -8,
       "",
-      44,
-      51
+      45,
+      53
      ],
      [
       12,
@@ -6583,14 +6823,14 @@
       900016,
       "Internacional",
       35,
-      32,
+      33,
       8,
       11,
-      13,
-      -4,
+      14,
+      -5,
       "",
-      36,
-      40
+      37,
+      42
      ],
      [
       17,
@@ -6624,29 +6864,29 @@
       19,
       900019,
       "Remo",
-      26,
-      32,
-      5,
+      29,
+      33,
+      6,
       11,
       16,
-      -16,
+      -15,
       "",
-      34,
-      50
+      36,
+      51
      ],
      [
       20,
       900020,
       "Chapecoense",
       21,
-      31,
+      32,
       4,
       9,
-      18,
-      -31,
+      19,
+      -34,
       "",
       32,
-      63
+      66
      ]
     ]
    ]
@@ -6947,6 +7187,18 @@
     "gols": 2
    },
    {
+    "jogador": "Wallace Yan",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 2
+   },
+   {
+    "jogador": "Alan Patrick",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
     "jogador": "Arrascaeta",
     "time": "Flamengo",
     "time_id": 900001,
@@ -6965,6 +7217,12 @@
     "gols": 1
    },
    {
+    "jogador": "Bobadilla",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 1
+   },
+   {
     "jogador": "Bolasie",
     "time": "Chapecoense",
     "time_id": 900020,
@@ -6980,6 +7238,18 @@
     "jogador": "Carrascal",
     "time": "Flamengo",
     "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Edenilson",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Erick Pulga",
+    "time": "Bahia",
+    "time_id": 900007,
     "gols": 1
    },
    {
@@ -7019,9 +7289,33 @@
     "gols": 1
    },
    {
+    "jogador": "Henry Mosquera",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Hércules",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 1
+   },
+   {
+    "jogador": "Jajá",
+    "time": "Remo",
+    "time_id": 900019,
+    "gols": 1
+   },
+   {
     "jogador": "Juninho",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Leonel Picco",
+    "time": "Remo",
+    "time_id": 900019,
     "gols": 1
    },
    {
@@ -7031,7 +7325,25 @@
     "gols": 1
    },
    {
+    "jogador": "Lucas Moura",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucho Acosta",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 1
+   },
+   {
     "jogador": "Luciano Juba",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Marcos Victor",
     "time": "Bahia",
     "time_id": 900007,
     "gols": 1
@@ -7076,6 +7388,12 @@
     "jogador": "Renato Kayzer",
     "time": "Vitória",
     "time_id": 900014,
+    "gols": 1
+   },
+   {
+    "jogador": "Rodrigo Nestor",
+    "time": "Bahia",
+    "time_id": 900007,
     "gols": 1
    }
   ],
