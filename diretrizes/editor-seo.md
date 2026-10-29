@@ -17,6 +17,14 @@ de SEO, AEO e GEO, sem trabalho extra da redação. O site só completa o que es
    - **intertitulos**: só se a matéria tiver 6 ou mais parágrafos e NÃO tiver intertítulos: 1 a 3 H2 em forma de pergunta
      ("O que disse o técnico?", "Quando é o próximo jogo?"), indicando o número do parágrafo ANTES do qual entram (p >= 3).
    Regras: português do Brasil; nada de apostas; opinião só atribuída; sem datas relativas sem a data ("sábado (31/10)").
+   Padrão SEO/AEO/GEO (diagnóstico de 29/10/2026):
+   - meta_title em frase natural, sem o molde "Jogador no Clube: ..." (ruim: "Lucas Moura São Paulo: Atacante critica...";
+     bom: "Lucas Moura critica desatenção do São Paulo após derrota").
+   - resumo com dado concreto em cada tópico (placar, rodada, data, número de jogos) e com a fonte quando houver
+     ("segundo o clube", "em entrevista coletiva"): é o trecho que Google e IAs mais citam.
+   - resposta de cada faq com no máximo 40 palavras, começando pela informação pedida.
+   - intertitulos: negrito sozinho num parágrafo NÃO conta como intertítulo; nesse caso, só proponha H2 se o texto tiver 6+
+     parágrafos e posicione entre os blocos, sem repetir a frase em negrito.
 4. Grave a lista em /tmp/itens.json e rode `python3 ferramentas/materias.py adicionar /tmp/itens.json` (corrija se der ERRO).
 5. Commit ("editor seo: N matérias") e push no main. O site aplica em até 15 minutos.
 6. Resumo de 1 linha (quantas matérias completadas).
