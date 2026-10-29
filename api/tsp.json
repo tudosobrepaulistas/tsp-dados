@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-29T01:55:00-03:00",
+ "gerado": "2026-10-29T18:37:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -147,202 +147,242 @@
   "900001": {
    "chave": "flamengo",
    "nome": "Flamengo",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Clube de Regatas do Flamengo"
   },
   "900002": {
    "chave": "palmeiras",
    "nome": "Palmeiras",
-   "slug_tsp": "palmeiras"
+   "slug_tsp": "palmeiras",
+   "wiki": "Sociedade Esportiva Palmeiras"
   },
   "900003": {
    "chave": "cruzeiro",
    "nome": "Cruzeiro",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Cruzeiro Esporte Clube"
   },
   "900004": {
    "chave": "athletico-pr",
    "nome": "Athletico-PR",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Club Athletico Paranaense"
   },
   "900005": {
    "chave": "fluminense",
    "nome": "Fluminense",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Fluminense Football Club"
   },
   "900006": {
    "chave": "atletico-mg",
    "nome": "Atlético-MG",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Clube Atlético Mineiro"
   },
   "900007": {
    "chave": "bahia",
    "nome": "Bahia",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Esporte Clube Bahia"
   },
   "900008": {
    "chave": "santos",
    "nome": "Santos",
-   "slug_tsp": "santos"
+   "slug_tsp": "santos",
+   "wiki": "Santos Futebol Clube"
   },
   "900009": {
    "chave": "sao-paulo",
    "nome": "São Paulo",
-   "slug_tsp": "saopaulo"
+   "slug_tsp": "saopaulo",
+   "wiki": "São Paulo Futebol Clube"
   },
   "900010": {
    "chave": "bragantino",
    "nome": "Red Bull Bragantino",
-   "slug_tsp": "bragantino"
+   "slug_tsp": "bragantino",
+   "wiki": "Red Bull Bragantino"
   },
   "900011": {
    "chave": "botafogo",
    "nome": "Botafogo",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Botafogo de Futebol e Regatas"
   },
   "900012": {
    "chave": "coritiba",
    "nome": "Coritiba",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Coritiba Foot Ball Club"
   },
   "900013": {
    "chave": "vasco",
    "nome": "Vasco",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Club de Regatas Vasco da Gama"
   },
   "900014": {
    "chave": "vitoria",
    "nome": "Vitória",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Esporte Clube Vitória"
   },
   "900015": {
    "chave": "mirassol",
    "nome": "Mirassol",
-   "slug_tsp": "mirassol"
+   "slug_tsp": "mirassol",
+   "wiki": "Mirassol Futebol Clube"
   },
   "900016": {
    "chave": "internacional",
    "nome": "Internacional",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Sport Club Internacional"
   },
   "900017": {
    "chave": "gremio",
    "nome": "Grêmio",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Grêmio Foot-Ball Porto Alegrense"
   },
   "900018": {
    "chave": "corinthians",
    "nome": "Corinthians",
-   "slug_tsp": "corinthians"
+   "slug_tsp": "corinthians",
+   "wiki": "Sport Club Corinthians Paulista"
   },
   "900019": {
    "chave": "remo",
    "nome": "Remo",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Clube do Remo"
   },
   "900020": {
    "chave": "chapecoense",
    "nome": "Chapecoense",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Associação Chapecoense de Futebol"
   },
   "900021": {
    "chave": "novorizontino",
    "nome": "Novorizontino",
-   "slug_tsp": "novorizontino"
+   "slug_tsp": "novorizontino",
+   "wiki": "Grêmio Novorizontino"
   },
   "900022": {
    "chave": "juventude",
    "nome": "Juventude",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Esporte Clube Juventude"
   },
   "900023": {
    "chave": "vila-nova",
    "nome": "Vila Nova",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Vila Nova Futebol Clube"
   },
   "900024": {
    "chave": "fortaleza",
    "nome": "Fortaleza",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Fortaleza Esporte Clube"
   },
   "900025": {
    "chave": "criciuma",
    "nome": "Criciúma",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Criciúma Esporte Clube"
   },
   "900026": {
    "chave": "crb",
    "nome": "CRB",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Clube de Regatas Brasil"
   },
   "900027": {
    "chave": "sport",
    "nome": "Sport",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Sport Club do Recife"
   },
   "900028": {
    "chave": "atletico-go",
    "nome": "Atlético-GO",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Atlético Clube Goianiense"
   },
   "900029": {
    "chave": "operario-pr",
    "nome": "Operário-PR",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Operário Ferroviário Esporte Clube"
   },
   "900030": {
    "chave": "goias",
    "nome": "Goiás",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Goiás Esporte Clube"
   },
   "900031": {
    "chave": "sao-bernardo",
    "nome": "São Bernardo",
-   "slug_tsp": "saobernardo"
+   "slug_tsp": "saobernardo",
+   "wiki": "São Bernardo Futebol Clube"
   },
   "900032": {
    "chave": "botafogo-sp",
    "nome": "Botafogo-SP",
-   "slug_tsp": "botafogosp"
+   "slug_tsp": "botafogosp",
+   "wiki": "Botafogo Futebol Clube (Ribeirão Preto)"
   },
   "900033": {
    "chave": "cuiaba",
    "nome": "Cuiabá",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Cuiabá Esporte Clube"
   },
   "900034": {
    "chave": "athletic-mg",
    "nome": "Athletic",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Athletic Club (Minas Gerais)"
   },
   "900035": {
    "chave": "ceara",
    "nome": "Ceará",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Ceará Sporting Club"
   },
   "900036": {
    "chave": "nautico",
    "nome": "Náutico",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Clube Náutico Capibaribe"
   },
   "900037": {
    "chave": "avai",
    "nome": "Avaí",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Avaí Futebol Clube"
   },
   "900038": {
    "chave": "londrina",
    "nome": "Londrina",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "Londrina Esporte Clube"
   },
   "900039": {
    "chave": "america-mg",
    "nome": "América-MG",
-   "slug_tsp": ""
+   "slug_tsp": "",
+   "wiki": "América Futebol Clube (Belo Horizonte)"
   },
   "900040": {
    "chave": "ponte-preta",
    "nome": "Ponte Preta",
-   "slug_tsp": "pontepreta"
+   "slug_tsp": "pontepreta",
+   "wiki": "Associação Atlética Ponte Preta"
   }
  },
  "jogos": [

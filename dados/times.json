@@ -2,201 +2,241 @@
  "flamengo": {
   "id": 900001,
   "nome": "Flamengo",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Clube de Regatas do Flamengo"
  },
  "palmeiras": {
   "id": 900002,
   "nome": "Palmeiras",
-  "slug_tsp": "palmeiras"
+  "slug_tsp": "palmeiras",
+  "wiki": "Sociedade Esportiva Palmeiras"
  },
  "cruzeiro": {
   "id": 900003,
   "nome": "Cruzeiro",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Cruzeiro Esporte Clube"
  },
  "athletico-pr": {
   "id": 900004,
   "nome": "Athletico-PR",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Club Athletico Paranaense"
  },
  "fluminense": {
   "id": 900005,
   "nome": "Fluminense",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Fluminense Football Club"
  },
  "atletico-mg": {
   "id": 900006,
   "nome": "Atlético-MG",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Clube Atlético Mineiro"
  },
  "bahia": {
   "id": 900007,
   "nome": "Bahia",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Esporte Clube Bahia"
  },
  "santos": {
   "id": 900008,
   "nome": "Santos",
-  "slug_tsp": "santos"
+  "slug_tsp": "santos",
+  "wiki": "Santos Futebol Clube"
  },
  "sao-paulo": {
   "id": 900009,
   "nome": "São Paulo",
-  "slug_tsp": "saopaulo"
+  "slug_tsp": "saopaulo",
+  "wiki": "São Paulo Futebol Clube"
  },
  "bragantino": {
   "id": 900010,
   "nome": "Red Bull Bragantino",
-  "slug_tsp": "bragantino"
+  "slug_tsp": "bragantino",
+  "wiki": "Red Bull Bragantino"
  },
  "botafogo": {
   "id": 900011,
   "nome": "Botafogo",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Botafogo de Futebol e Regatas"
  },
  "coritiba": {
   "id": 900012,
   "nome": "Coritiba",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Coritiba Foot Ball Club"
  },
  "vasco": {
   "id": 900013,
   "nome": "Vasco",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Club de Regatas Vasco da Gama"
  },
  "vitoria": {
   "id": 900014,
   "nome": "Vitória",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Esporte Clube Vitória"
  },
  "mirassol": {
   "id": 900015,
   "nome": "Mirassol",
-  "slug_tsp": "mirassol"
+  "slug_tsp": "mirassol",
+  "wiki": "Mirassol Futebol Clube"
  },
  "internacional": {
   "id": 900016,
   "nome": "Internacional",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Sport Club Internacional"
  },
  "gremio": {
   "id": 900017,
   "nome": "Grêmio",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Grêmio Foot-Ball Porto Alegrense"
  },
  "corinthians": {
   "id": 900018,
   "nome": "Corinthians",
-  "slug_tsp": "corinthians"
+  "slug_tsp": "corinthians",
+  "wiki": "Sport Club Corinthians Paulista"
  },
  "remo": {
   "id": 900019,
   "nome": "Remo",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Clube do Remo"
  },
  "chapecoense": {
   "id": 900020,
   "nome": "Chapecoense",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Associação Chapecoense de Futebol"
  },
  "novorizontino": {
   "id": 900021,
   "nome": "Novorizontino",
-  "slug_tsp": "novorizontino"
+  "slug_tsp": "novorizontino",
+  "wiki": "Grêmio Novorizontino"
  },
  "juventude": {
   "id": 900022,
   "nome": "Juventude",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Esporte Clube Juventude"
  },
  "vila-nova": {
   "id": 900023,
   "nome": "Vila Nova",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Vila Nova Futebol Clube"
  },
  "fortaleza": {
   "id": 900024,
   "nome": "Fortaleza",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Fortaleza Esporte Clube"
  },
  "criciuma": {
   "id": 900025,
   "nome": "Criciúma",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Criciúma Esporte Clube"
  },
  "crb": {
   "id": 900026,
   "nome": "CRB",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Clube de Regatas Brasil"
  },
  "sport": {
   "id": 900027,
   "nome": "Sport",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Sport Club do Recife"
  },
  "atletico-go": {
   "id": 900028,
   "nome": "Atlético-GO",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Atlético Clube Goianiense"
  },
  "operario-pr": {
   "id": 900029,
   "nome": "Operário-PR",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Operário Ferroviário Esporte Clube"
  },
  "goias": {
   "id": 900030,
   "nome": "Goiás",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Goiás Esporte Clube"
  },
  "sao-bernardo": {
   "id": 900031,
   "nome": "São Bernardo",
-  "slug_tsp": "saobernardo"
+  "slug_tsp": "saobernardo",
+  "wiki": "São Bernardo Futebol Clube"
  },
  "botafogo-sp": {
   "id": 900032,
   "nome": "Botafogo-SP",
-  "slug_tsp": "botafogosp"
+  "slug_tsp": "botafogosp",
+  "wiki": "Botafogo Futebol Clube (Ribeirão Preto)"
  },
  "cuiaba": {
   "id": 900033,
   "nome": "Cuiabá",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Cuiabá Esporte Clube"
  },
  "athletic-mg": {
   "id": 900034,
   "nome": "Athletic",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Athletic Club (Minas Gerais)"
  },
  "ceara": {
   "id": 900035,
   "nome": "Ceará",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Ceará Sporting Club"
  },
  "nautico": {
   "id": 900036,
   "nome": "Náutico",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Clube Náutico Capibaribe"
  },
  "avai": {
   "id": 900037,
   "nome": "Avaí",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Avaí Futebol Clube"
  },
  "londrina": {
   "id": 900038,
   "nome": "Londrina",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "Londrina Esporte Clube"
  },
  "america-mg": {
   "id": 900039,
   "nome": "América-MG",
-  "slug_tsp": ""
+  "slug_tsp": "",
+  "wiki": "América Futebol Clube (Belo Horizonte)"
  },
  "ponte-preta": {
   "id": 900040,
   "nome": "Ponte Preta",
-  "slug_tsp": "pontepreta"
+  "slug_tsp": "pontepreta",
+  "wiki": "Associação Atlética Ponte Preta"
  }
 }

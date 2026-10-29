@@ -338,7 +338,7 @@ def cmd_calcular(a):
             gravar(API / "artilharia" / f"{chave}.json", lista)
     tsp = {"gerado": iso(agora()), "versao": 1,
            "competicoes": cps,
-           "times": {str(v["id"]): {"chave": k, "nome": v["nome"], "slug_tsp": v.get("slug_tsp", "")} for k, v in tm.items()},
+           "times": {str(v["id"]): {"chave": k, "nome": v["nome"], "slug_tsp": v.get("slug_tsp", ""), "wiki": v.get("wiki", "")} for k, v in tm.items()},
            "jogos": fixtures, "classificacao": classif, "artilharia": {k: v for k, v in artilh.items() if v}}
     gravar(API / "tsp.json", tsp)
     print(f"OK: api/tsp.json com {len(fixtures)} jogos, {len(classif)} classificações")
