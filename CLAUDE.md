@@ -17,7 +17,9 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
    Autores e minutos dos gols: só os que as fontes confirmam; na dúvida, registre só o placar.
 3. **Fontes aceitas** (matérias jornalísticas e comunicados): ge, UOL Esporte, ESPN (notícias), Lance!, Gazeta Esportiva,
    CNN Brasil, Terra, Estadão, Folha, O Globo, Agência Brasil, sites e redes oficiais dos clubes,
-   notícias da CBF, da FPF e da Conmebol. Calendário e horários: comunicados oficiais e matérias que os citam.
+   notícias da CBF, da FPF e da Conmebol, e os grandes jornais regionais (Diário do Nordeste, O Povo, O Popular,
+   Estado de Minas, Gazeta do Povo, Zero Hora, Correio, Jornal do Commercio e equivalentes de cada estado).
+   Placar de busca do Google e de agregadores não vale como fonte. Calendário e horários: comunicados oficiais e matérias que os citam.
 4. **Proibido:** copiar ou raspar bancos de dados de estatística (Sofascore, Flashscore, oGol, Transfermarkt, FotMob,
    APIs da ESPN ou de qualquer site), contornar bloqueio, login ou antirrobô. Use só WebSearch e WebFetch em páginas de notícia.
 5. **Horário de Brasília** sempre (UTC-3).

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-28T14:18:00-03:00",
+ "gerado": "2026-10-29T01:29:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -5725,14 +5725,16 @@
    "temporada": 2026,
    "obs": "Jogo encerrado segundo imprensa regional; aguardando 2 fontes aceitas para registrar o placar",
    "fontes": [
-    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ceara-x-goias-onde-assistir-escalacoes-e-arbitragem,8986ca2b94852a3100c72b755102284dct948h1j.html"
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ceara-x-goias-onde-assistir-escalacoes-e-arbitragem,8986ca2b94852a3100c72b755102284dct948h1j.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-sofre-dois-gols-nos-acrescimos-perde-para-o-goias-no-castelao-e-se-mantem-ameacado-1.3801863",
+    "https://mais.opovo.com.br/jornal/esportes/2026/10/28/kadu-sousa-marca-dois-nos-acrescimos-e-ceara-perde-para-o-goias-em-casa-pela-serie-b.html"
    ],
    "fixture": {
     "id": 91000040,
     "timestamp": 1793142000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Castelão",
@@ -5754,11 +5756,44 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 2
    },
    "penaltis": "",
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+1"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Kadu Sousa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+4"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Kadu Sousa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -6565,6 +6600,20 @@
      ],
      [
       9,
+      900030,
+      "Goiás",
+      52,
+      35,
+      15,
+      7,
+      13,
+      -4,
+      "",
+      36,
+      40
+     ],
+     [
+      10,
       900029,
       "Operário-PR",
       51,
@@ -6576,20 +6625,6 @@
       "",
       45,
       46
-     ],
-     [
-      10,
-      900030,
-      "Goiás",
-      49,
-      34,
-      14,
-      7,
-      13,
-      -6,
-      "",
-      34,
-      40
      ],
      [
       11,
@@ -6649,20 +6684,6 @@
      ],
      [
       15,
-      900035,
-      "Ceará",
-      43,
-      34,
-      11,
-      10,
-      13,
-      -5,
-      "",
-      37,
-      42
-     ],
-     [
-      16,
       900036,
       "Náutico",
       43,
@@ -6674,6 +6695,20 @@
       "",
       39,
       46
+     ],
+     [
+      16,
+      900035,
+      "Ceará",
+      43,
+      35,
+      11,
+      10,
+      14,
+      -7,
+      "",
+      37,
+      44
      ],
      [
       17,
@@ -6881,6 +6916,12 @@
     "jogador": "Chrystian Barletta",
     "time": "Sport",
     "time_id": 900027,
+    "gols": 2
+   },
+   {
+    "jogador": "Kadu Sousa",
+    "time": "Goiás",
+    "time_id": 900030,
     "gols": 2
    },
    {

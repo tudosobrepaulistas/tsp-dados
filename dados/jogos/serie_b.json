@@ -1144,22 +1144,37 @@
    "data": "2026-10-27T20:00:00-03:00",
    "casa": "ceara",
    "fora": "goias",
-   "status": "atrasado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Castelão",
    "cidade": "Fortaleza",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Kadu Sousa",
+     "minuto": "90+1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Kadu Sousa",
+     "minuto": "90+4",
+     "tipo": "normal"
+    }
+   ],
    "obs": "Jogo encerrado segundo imprensa regional; aguardando 2 fontes aceitas para registrar o placar",
    "fontes": [
-    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ceara-x-goias-onde-assistir-escalacoes-e-arbitragem,8986ca2b94852a3100c72b755102284dct948h1j.html"
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ceara-x-goias-onde-assistir-escalacoes-e-arbitragem,8986ca2b94852a3100c72b755102284dct948h1j.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-sofre-dois-gols-nos-acrescimos-perde-para-o-goias-no-castelao-e-se-mantem-ameacado-1.3801863",
+    "https://mais.opovo.com.br/jornal/esportes/2026/10/28/kadu-sousa-marca-dois-nos-acrescimos-e-ceara-perde-para-o-goias-em-casa-pela-serie-b.html"
    ],
-   "atualizado": "2026-10-27T22:13:00-03:00"
+   "atualizado": "2026-10-29T01:29:00-03:00"
   },
   {
    "id": 91000041,
