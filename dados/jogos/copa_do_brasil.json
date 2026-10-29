@@ -20,7 +20,56 @@
    "fontes": [
     "https://www.gazetaesportiva.com/?p=3876942"
    ],
-   "atualizado": "2026-10-29T01:53:00-03:00"
+   "atualizado": "2026-10-29T01:53:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "TV Globo",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "SporTV",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      },
+      {
+       "nome": "Prime Video",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "ge TV",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-vasco-na-copa-do-brasil-tem-datas-horarios-e-transmissoes-definidas-veja/",
+      "https://abcdjornal.com.br/esporte/noticia/2026/10/29/palmeiras-se-reapresenta-e-foca-na-semifinal-da-copa-do-brasil/"
+     ]
+    },
+    "analise": [
+     "Palmeiras e Vasco abrem a semifinal da Copa do Brasil no domingo (1º/11), às 16h, no Nubank Parque. A volta será no domingo seguinte (8/11), às 17h, em São Januário, e quem passar disputa o título com o vencedor de Grêmio x Atlético-MG. Além da taça, o campeão garante vaga direta na fase de grupos da Libertadores de 2027. O Palmeiras chegou até aqui eliminando o Santos (3 a 0 no Nubank Parque e 0 a 0 na Vila Belmiro); o Vasco passou pelo Vitória com duas vitórias, 1 a 0 em São Januário e 2 a 0 no Barradão.",
+     "O Palmeiras vive grande fase. É o vice-líder do Brasileirão, com 70 pontos em 33 jogos, os mesmos do líder Flamengo, que tem uma partida a menos. Nos últimos cinco jogos registrados na Base TSP, foram quatro vitórias e um empate, com nove gols marcados e só um sofrido. Em casa, venceu Bahia (1 a 0), Corinthians (4 a 1) e Red Bull Bragantino (2 a 0, gols de Maurício e Giay). Na quarta-feira (28/10), empatou sem gols com o Santos na Vila Belmiro.",
+     "O Vasco de Pedro Emanuel é o 13º do Brasileirão, com 38 pontos em 31 jogos, e trata a Copa do Brasil como a principal chance de título em 2026, segundo O Tempo. Nas últimas cinco rodadas da base, somou três vitórias, um empate e uma derrota: 5 a 0 no Coritiba, 2 a 1 no Botafogo fora de casa, 0 a 0 com o Remo, 1 a 0 para o São Paulo fora de casa e 3 a 2 sobre o Corinthians, com dois gols de Marino Hinestroza. Antes da ida, o time ainda enfrenta o Flamengo nesta quinta-feira (29/10), no Nilton Santos.",
+     "Abel Ferreira não terá o atacante Paulinho, com lesão na panturrilha direita, nem Ramón Sosa, que trata uma lesão na coxa direita sofrida contra o Bragantino, segundo o Lance!. Vitor Roque também vinha em tratamento de entorse no tornozelo, de acordo com a Gazeta Esportiva. No Vasco, a comissão técnica precisou dosar o desgaste entre o clássico e a semifinal; o lateral Paulo Henrique ainda sentia dores após pancada contra o São Paulo. 'Nós vínhamos de uma sequência grande com grandes jogos e sem tempo para recuperar', disse Pedro Emanuel, de acordo com O Tempo."
+    ],
+    "retrospecto": "Os dois times já se enfrentaram duas vezes no Brasileirão de 2026. Na 5ª rodada, em 12 de março, o Vasco virou para 2 a 1 em São Januário (Flaco López abriu; Thiago Mendes e Cuiabano viraram) e quebrou um jejum de 11 anos sem vencer o rival, segundo a CNN Brasil. No returno, em 23 de agosto, o Palmeiras goleou por 4 a 1 no Nubank Parque, com dois gols de Flaco López, um de Vitor Roque e um de Maurício; Colidio descontou, segundo O Povo.",
+    "estadio_wiki": "Nubank Parque",
+    "fontes": [
+     "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-vasco-na-copa-do-brasil-tem-datas-horarios-e-transmissoes-definidas-veja/",
+     "https://mais.opovo.com.br/jornal/esportes/2026/09/04/semifinais-da-copa-do-brasil-terao-vasco-x-palmeiras-e-gremio-x-atletico-mg.html",
+     "https://abcdjornal.com.br/esporte/noticia/2026/10/29/palmeiras-se-reapresenta-e-foca-na-semifinal-da-copa-do-brasil/",
+     "https://www.lance.com.br/palmeiras/palmeiras-convive-com-desfalques-e-perde-dupla-para-ida-da-copa-do-brasil.html",
+     "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-classico-e-virada-de-chave-semifinal-copa-do-brasil/",
+     "https://www.otempo.com.br/sports/futebol-nacional/vasco/2026/10/26/vasco-vive-dilema-entre-classico-com-flamengo-e-semifinal-da-copa-do-brasil",
+     "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-vira-sobre-palmeiras-vence-primeira-no-brasileirao-e-quebra-tabus/",
+     "https://www.opovo.com.br/esportes/2026/08/24/palmeiras-goleia-vasco-e-volta-a-abrir-frente-no-brasileirao-4-a-1.html"
+    ],
+    "atualizado": "2026-10-29T19:37:00-03:00"
+   }
   }
  ]
 }
