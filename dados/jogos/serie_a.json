@@ -1528,22 +1528,31 @@
    "data": "2026-10-29T19:30:00-03:00",
    "casa": "atletico-mg",
    "fora": "cruzeiro",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Arena MRV",
    "cidade": "Belo Horizonte",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Kaio Jorge",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/com-gol-de-kaio-jorge-cruzeiro-vence-atletico-na-arena-em-duelo-direto-no-brasileiro/",
+    "https://www.terra.com.br/esportes/futebol/cruzeiro-vence-o-atletico-mg-na-arena-mrv-e-emenda-terceira-vitoria-consecutiva-pelo-brasileirao,11f929bcecee790d340fe479b24b9a8dzw46ix3b.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-10-29T22:24:00-03:00",
    "prejogo": {
     "analise": [
      "O clássico mineiro abre a 33ª rodada do Brasileirão nesta quinta-feira (29/10), às 19h30, na Arena MRV. O Cruzeiro chega em 3º lugar, com 54 pontos, empatado com Athletico-PR e Fluminense, e briga para se manter na parte de cima da tabela, 16 pontos atrás de Flamengo e Palmeiras, que somam 70. O Atlético-MG é o 7º, com 50, e uma vitória deixaria o Galo a apenas um ponto do rival.",
@@ -1555,57 +1564,59 @@
    }
   },
   {
-   "id": 91000017,
-   "data": "2026-10-29T19:30:00-03:00",
-   "casa": "coritiba",
-   "fora": "vitoria",
-   "status": "agendado",
-   "rodada": "33",
-   "fase": "",
-   "grupo": "",
-   "estadio": "Couto Pereira",
-   "cidade": "Curitiba",
-   "gols_casa": null,
-   "gols_fora": null,
-   "penaltis": "",
-   "minuto": 0,
-   "gols": [],
-   "obs": "",
-   "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
-   ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
-   "prejogo": {
-    "analise": [
-     "Coritiba e Vitória fazem um confronto direto contra a zona de rebaixamento nesta quinta-feira (29/10), às 19h30, no Couto Pereira, pela 33ª rodada do Brasileirão. O Coritiba é o 12º, com 39 pontos, e o Vitória, o 14º, com 38, ambos com 32 jogos. A diferença para o Grêmio, que abre o Z4 com 34, é de cinco pontos para o Coxa e de quatro para o Leão; quem vencer ganha fôlego a seis rodadas do fim.",
-     "O Coritiba atravessa uma fase ruim. Nos cinco jogos mais recentes da Base TSP, somou só um ponto, no empate por 1 a 1 com o Botafogo, em casa, e perdeu para Vasco (5 a 0), Fluminense (4 a 0), Atlético-MG (1 a 0) e Grêmio (1 a 0). Nesse período, marcou apenas um gol e sofreu 12. A derrota mais recente foi no Couto Pereira, com gol de Braithwaite nos acréscimos.",
-     "O Vitória também oscila, mas pontuou mais: venceu a Chapecoense por 4 a 0, empatou com Corinthians e Athletico-PR (ambos por 1 a 1) e perdeu para Cruzeiro (3 a 1) e São Paulo (2 a 1). Fora de casa, os dois jogos mais recentes da base foram a derrota por 2 a 1 no Morumbis e o empate por 1 a 1 em Itaquera. Na rodada passada, Renato Kayzer marcou o gol do Leão no empate com o Athletico-PR, no Barradão."
-    ],
-    "estadio_wiki": "Estádio Couto Pereira",
-    "atualizado": "2026-10-29T19:15:00-03:00"
-   }
-  },
-  {
    "id": 91000018,
    "data": "2026-10-29T20:00:00-03:00",
    "casa": "vasco",
    "fora": "flamengo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Nilton Santos",
    "cidade": "Rio de Janeiro",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 4,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Pedro",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Lescano",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro",
+     "minuto": "41",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Samuel Lino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Samuel Lino",
+     "minuto": "85",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.terra.com.br/esportes/flamengo/cbf-confirma-estadio-do-classico-entre-vasco-x-flamengo,a01f465321929d884caebebf8c756de4txd2g98x.html"
+    "https://www.terra.com.br/esportes/flamengo/cbf-confirma-estadio-do-classico-entre-vasco-x-flamengo,a01f465321929d884caebebf8c756de4txd2g98x.html",
+    "https://placar.com.br/brasileirao/flamengo-goleia-o-vasco-por-4-a-1-pelo-brasileirao-e-se-isola-na-lideranca/",
+    "https://www.metropoles.com/esportes/com-dois-de-pedro-e-samuel-lino-flamengo-goleia-o-vasco-no-brasileirao"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-10-29T22:24:00-03:00",
    "prejogo": {
     "analise": [
      "Vasco e Flamengo fazem o Clássico dos Milhões nesta quinta-feira (29/10), às 20h, pela 33ª rodada do Brasileirão, com peso direto na briga pelo título. O Flamengo divide a liderança com o Palmeiras, ambos com 70 pontos, mas tem um jogo a menos (32 contra 33). Com uma vitória, o Rubro-Negro volta a ficar sozinho na ponta. O Vasco é o 13º, com 38 pontos em 31 jogos, quatro acima do Grêmio, que abre a zona de rebaixamento.",
@@ -1701,6 +1712,42 @@
      "https://www.lance.com.br/corinthians/corinthians-perde-para-o-mirassol-e-entra-na-zona-de-rebaixamento-do-brasileirao.html"
     ],
     "atualizado": "2026-10-29T19:10:00-03:00"
+   }
+  },
+  {
+   "id": 91000017,
+   "data": "2026-10-31T16:00:00-03:00",
+   "casa": "coritiba",
+   "fora": "vitoria",
+   "status": "agendado",
+   "rodada": "33",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "Remarcado pela CBF a pedido do Coritiba",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://atarde.com.br/esportes/ecvitoria/cbf-altera-data-e-horario-de-jogo-do-vitoria-contra-o-coritiba-1406074"
+   ],
+   "atualizado": "2026-10-29T22:24:00-03:00",
+   "prejogo": {
+    "analise": [
+     "Coritiba e Vitória fazem um confronto direto contra a zona de rebaixamento neste sábado (31/10), às 16h, no Couto Pereira, pela 33ª rodada do Brasileirão. O Coritiba é o 12º, com 39 pontos, e o Vitória, o 14º, com 38, ambos com 32 jogos. A diferença para o Grêmio, que abre o Z4 com 34, é de cinco pontos para o Coxa e de quatro para o Leão; quem vencer ganha fôlego a seis rodadas do fim.",
+     "A partida estava marcada para quinta-feira (29/10), mas a CBF a transferiu para sábado a pedido do Coritiba, mandante do jogo.",
+     "O Coritiba atravessa uma fase ruim. Nos cinco jogos mais recentes da Base TSP, somou só um ponto, no empate por 1 a 1 com o Botafogo, em casa, e perdeu para Vasco (5 a 0), Fluminense (4 a 0), Atlético-MG (1 a 0) e Grêmio (1 a 0). Nesse período, marcou apenas um gol e sofreu 12. A derrota mais recente foi no Couto Pereira, com gol de Braithwaite nos acréscimos.",
+     "O Vitória também oscila, mas pontuou mais: venceu a Chapecoense por 4 a 0, empatou com Corinthians e Athletico-PR (ambos por 1 a 1) e perdeu para Cruzeiro (3 a 1) e São Paulo (2 a 1). Fora de casa, os dois jogos mais recentes da base foram a derrota por 2 a 1 no Morumbis e o empate por 1 a 1 em Itaquera. Na rodada passada, Renato Kayzer marcou o gol do Leão no empate com o Athletico-PR, no Barradão."
+    ],
+    "estadio_wiki": "Estádio Couto Pereira",
+    "atualizado": "2026-10-29T22:25:00-03:00",
+    "fontes": [
+     "https://atarde.com.br/esportes/ecvitoria/cbf-altera-data-e-horario-de-jogo-do-vitoria-contra-o-coritiba-1406074"
+    ]
    }
   },
   {

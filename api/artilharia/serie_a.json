@@ -6,6 +6,18 @@
   "gols": 2
  },
  {
+  "jogador": "Pedro",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 2
+ },
+ {
+  "jogador": "Samuel Lino",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 2
+ },
+ {
   "jogador": "Wallace Yan",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
@@ -132,9 +144,21 @@
   "gols": 1
  },
  {
+  "jogador": "Kaio Jorge",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Leonel Picco",
   "time": "Remo",
   "time_id": 900019,
+  "gols": 1
+ },
+ {
+  "jogador": "Lescano",
+  "time": "Vasco",
+  "time_id": 900013,
   "gols": 1
  },
  {

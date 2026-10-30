@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-29T19:37:00-03:00",
+ "gerado": "2026-10-29T22:25:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3339,14 +3339,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/com-gol-de-kaio-jorge-cruzeiro-vence-atletico-na-arena-em-duelo-direto-no-brasileiro/",
+    "https://www.terra.com.br/esportes/futebol/cruzeiro-vence-o-atletico-mg-na-arena-mrv-e-emenda-terceira-vitoria-consecutiva-pelo-brasileirao,11f929bcecee790d340fe479b24b9a8dzw46ix3b.html"
    ],
    "fixture": {
     "id": 91000016,
     "timestamp": 1793313000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena MRV",
@@ -3368,8 +3370,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -3381,70 +3383,40 @@
     "estadio_wiki": "Arena MRV",
     "atualizado": "2026-10-29T19:15:00-03:00"
    },
-   "events": []
-  },
-  {
-   "liga": "serie_a",
-   "temporada": 2026,
-   "obs": "",
-   "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
-   ],
-   "fixture": {
-    "id": 91000017,
-    "timestamp": 1793313000,
-    "status": {
-     "short": "NS",
-     "elapsed": null
-    },
-    "venue": {
-     "name": "Couto Pereira",
-     "city": "Curitiba"
-    },
-    "referee": ""
-   },
-   "league": {
-    "round": "Rodada 33"
-   },
-   "teams": {
-    "home": {
-     "id": 900012,
-     "name": "Coritiba"
-    },
-    "away": {
-     "id": 900014,
-     "name": "Vitória"
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
     }
-   },
-   "goals": {
-    "home": null,
-    "away": null
-   },
-   "penaltis": "",
-   "prejogo": {
-    "analise": [
-     "Coritiba e Vitória fazem um confronto direto contra a zona de rebaixamento nesta quinta-feira (29/10), às 19h30, no Couto Pereira, pela 33ª rodada do Brasileirão. O Coritiba é o 12º, com 39 pontos, e o Vitória, o 14º, com 38, ambos com 32 jogos. A diferença para o Grêmio, que abre o Z4 com 34, é de cinco pontos para o Coxa e de quatro para o Leão; quem vencer ganha fôlego a seis rodadas do fim.",
-     "O Coritiba atravessa uma fase ruim. Nos cinco jogos mais recentes da Base TSP, somou só um ponto, no empate por 1 a 1 com o Botafogo, em casa, e perdeu para Vasco (5 a 0), Fluminense (4 a 0), Atlético-MG (1 a 0) e Grêmio (1 a 0). Nesse período, marcou apenas um gol e sofreu 12. A derrota mais recente foi no Couto Pereira, com gol de Braithwaite nos acréscimos.",
-     "O Vitória também oscila, mas pontuou mais: venceu a Chapecoense por 4 a 0, empatou com Corinthians e Athletico-PR (ambos por 1 a 1) e perdeu para Cruzeiro (3 a 1) e São Paulo (2 a 1). Fora de casa, os dois jogos mais recentes da base foram a derrota por 2 a 1 no Morumbis e o empate por 1 a 1 em Itaquera. Na rodada passada, Renato Kayzer marcou o gol do Leão no empate com o Athletico-PR, no Barradão."
-    ],
-    "estadio_wiki": "Estádio Couto Pereira",
-    "atualizado": "2026-10-29T19:15:00-03:00"
-   },
-   "events": []
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.terra.com.br/esportes/flamengo/cbf-confirma-estadio-do-classico-entre-vasco-x-flamengo,a01f465321929d884caebebf8c756de4txd2g98x.html"
+    "https://www.terra.com.br/esportes/flamengo/cbf-confirma-estadio-do-classico-entre-vasco-x-flamengo,a01f465321929d884caebebf8c756de4txd2g98x.html",
+    "https://placar.com.br/brasileirao/flamengo-goleia-o-vasco-por-4-a-1-pelo-brasileirao-e-se-isola-na-lideranca/",
+    "https://www.metropoles.com/esportes/com-dois-de-pedro-e-samuel-lino-flamengo-goleia-o-vasco-no-brasileirao"
    ],
    "fixture": {
     "id": 91000018,
     "timestamp": 1793314800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Nilton Santos",
@@ -3466,8 +3438,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 4
    },
    "penaltis": "",
    "prejogo": {
@@ -3493,7 +3465,88 @@
     ],
     "atualizado": "2026-10-29T19:15:00-03:00"
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Lescano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 41,
+      "extra": null,
+      "texto": "41"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 85,
+      "extra": null,
+      "texto": "85"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -3601,6 +3654,60 @@
      "https://www.lance.com.br/corinthians/corinthians-perde-para-o-mirassol-e-entra-na-zona-de-rebaixamento-do-brasileirao.html"
     ],
     "atualizado": "2026-10-29T19:10:00-03:00"
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "Remarcado pela CBF a pedido do Coritiba",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://atarde.com.br/esportes/ecvitoria/cbf-altera-data-e-horario-de-jogo-do-vitoria-contra-o-coritiba-1406074"
+   ],
+   "fixture": {
+    "id": 91000017,
+    "timestamp": 1793473200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 33"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {
+    "analise": [
+     "Coritiba e Vitória fazem um confronto direto contra a zona de rebaixamento neste sábado (31/10), às 16h, no Couto Pereira, pela 33ª rodada do Brasileirão. O Coritiba é o 12º, com 39 pontos, e o Vitória, o 14º, com 38, ambos com 32 jogos. A diferença para o Grêmio, que abre o Z4 com 34, é de cinco pontos para o Coxa e de quatro para o Leão; quem vencer ganha fôlego a seis rodadas do fim.",
+     "A partida estava marcada para quinta-feira (29/10), mas a CBF a transferiu para sábado a pedido do Coritiba, mandante do jogo.",
+     "O Coritiba atravessa uma fase ruim. Nos cinco jogos mais recentes da Base TSP, somou só um ponto, no empate por 1 a 1 com o Botafogo, em casa, e perdeu para Vasco (5 a 0), Fluminense (4 a 0), Atlético-MG (1 a 0) e Grêmio (1 a 0). Nesse período, marcou apenas um gol e sofreu 12. A derrota mais recente foi no Couto Pereira, com gol de Braithwaite nos acréscimos.",
+     "O Vitória também oscila, mas pontuou mais: venceu a Chapecoense por 4 a 0, empatou com Corinthians e Athletico-PR (ambos por 1 a 1) e perdeu para Cruzeiro (3 a 1) e São Paulo (2 a 1). Fora de casa, os dois jogos mais recentes da base foram a derrota por 2 a 1 no Morumbis e o empate por 1 a 1 em Itaquera. Na rodada passada, Renato Kayzer marcou o gol do Leão no empate com o Athletico-PR, no Barradão."
+    ],
+    "estadio_wiki": "Estádio Couto Pereira",
+    "atualizado": "2026-10-29T22:25:00-03:00",
+    "fontes": [
+     "https://atarde.com.br/esportes/ecvitoria/cbf-altera-data-e-horario-de-jogo-do-vitoria-contra-o-coritiba-1406074"
+    ]
    },
    "events": []
   },
@@ -7085,15 +7192,15 @@
       1,
       900001,
       "Flamengo",
-      70,
-      32,
-      21,
+      73,
+      33,
+      22,
       7,
       4,
-      37,
+      40,
       "",
-      64,
-      27
+      68,
+      28
      ],
      [
       2,
@@ -7113,14 +7220,14 @@
       3,
       900003,
       "Cruzeiro",
-      54,
-      32,
-      16,
+      57,
+      33,
+      17,
       6,
       10,
-      5,
+      6,
       "",
-      51,
+      52,
       46
      ],
      [
@@ -7170,14 +7277,14 @@
       900006,
       "Atlético-MG",
       50,
-      32,
+      33,
       14,
       8,
-      10,
-      6,
+      11,
+      5,
       "",
       44,
-      38
+      39
      ],
      [
       8,
@@ -7254,14 +7361,14 @@
       900013,
       "Vasco",
       38,
-      31,
+      32,
       10,
       8,
-      13,
-      -6,
+      14,
+      -9,
       "",
-      39,
-      45
+      40,
+      49
      ],
      [
       14,
@@ -7660,6 +7767,18 @@
     "gols": 2
    },
    {
+    "jogador": "Pedro",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 2
+   },
+   {
+    "jogador": "Samuel Lino",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 2
+   },
+   {
     "jogador": "Wallace Yan",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
@@ -7786,9 +7905,21 @@
     "gols": 1
    },
    {
+    "jogador": "Kaio Jorge",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Leonel Picco",
     "time": "Remo",
     "time_id": 900019,
+    "gols": 1
+   },
+   {
+    "jogador": "Lescano",
+    "time": "Vasco",
+    "time_id": 900013,
     "gols": 1
    },
    {
