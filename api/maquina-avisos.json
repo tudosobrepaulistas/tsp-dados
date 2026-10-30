@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-30T11:10-03:00",
+ "gerado": "2026-10-30T11:38-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -49,6 +49,34 @@
    "quando": "2026-10-30T11:10-03:00",
    "motivo": "Sem notícia dos últimos 7 dias nem site oficial localizado; Copinha 2026 (eliminação para o Fluminense nos pênaltis na 2ª fase) só apareceu em sites fora da lista de fontes aceitas",
    "sugestao": "Perfil do Referência FC (fundado em 2018, SAF em 2023, parceria com Embu das Artes) e as duas Copinhas (2025 e 2026), confirmando com o clube a sede e o placar de 2026"
+  },
+  {
+   "clube": "fernandopolis",
+   "nome": "Fernandópolis",
+   "quando": "2026-10-30T11:37-03:00",
+   "motivo": "Sem notícia recente nem site oficial ou jornal local encontrado; história só disponível na Wikipedia",
+   "sugestao": "Perfil histórico do Fernandópolis FC com jornal local (ex.: Jornal Cidadão de Fernandópolis) ou a FPF: fundação, estádio e campanhas"
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-10-30T11:37-03:00",
+   "motivo": "Busca não retornou notícia recente nem fonte local confiável sobre o Atlético Mogi",
+   "sugestao": "Consultar O Diário de Mogi e Mogi News sobre o planejamento do Atlético Mogi para a Segunda Divisão de 2027"
+  },
+  {
+   "clube": "cosmopolitano",
+   "nome": "Cosmopolitano",
+   "quando": "2026-10-30T11:38-03:00",
+   "motivo": "Sem notícia recente; estreia na Copinha 2026 como sede no Estádio Thelmo de Almeida confirmada só pelo Lance! (faltou 2ª fonte aceita)",
+   "sugestao": "Cosmopolitano na Copinha 2026: a reforma do Estádio Thelmo de Almeida e a campanha de estreia, com confirmação da Prefeitura de Cosmópolis ou do clube"
+  },
+  {
+   "clube": "centro-olimpico",
+   "nome": "Centro Olímpico",
+   "quando": "2026-10-30T11:38-03:00",
+   "motivo": "Sem notícia confirmada nos últimos 7 dias em fontes aceitas",
+   "sugestao": "Balanço do Centro Olímpico no Paulista Sub-20 Série B 2026, com dados da FPF"
   }
  ]
 }
