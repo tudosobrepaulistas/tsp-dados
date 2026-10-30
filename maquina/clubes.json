@@ -1,0 +1,347 @@
+{
+ "fase": 1,
+ "nota": "Fase 1: só estes 41 clubes (sem divisão / Segunda Divisão). Próximas fases: Paulistão A4, depois A3, A2...",
+ "horarios": [
+  "08:00",
+  "09:30",
+  "11:00",
+  "12:30",
+  "14:00",
+  "15:30",
+  "17:00",
+  "18:30",
+  "20:00",
+  "21:30",
+  "23:00"
+ ],
+ "clubes": [
+  {
+   "slug": "ac-guaratingueta",
+   "nome": "AC Guaratinguetá",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "ad-guarulhos",
+   "nome": "AD Guarulhos",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "amparo",
+   "nome": "Amparo",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "aracatuba",
+   "nome": "Araçatuba",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "assisense",
+   "nome": "Assisense",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "aster-itaqua",
+   "nome": "Aster Itaquá",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "audax",
+   "nome": "Audax",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "bandeirante_brodowski",
+   "nome": "Bandeirante de Brodowski",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "barcelona-capela",
+   "nome": "Barcelona Capela",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "batatais",
+   "nome": "Batatais",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "centro-olimpico",
+   "nome": "Centro Olímpico",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "comercial-tiete",
+   "nome": "Comercial de Tietê",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "cosmopolitano",
+   "nome": "Cosmopolitano",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "ec-meia-noite",
+   "nome": "EC Meia Noite",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "fernandopolis",
+   "nome": "Fernandópolis",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "flamengo-sp",
+   "nome": "Flamengo SP",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "gremiocatanduvense",
+   "nome": "Grêmio Catanduvense",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "ibrachina",
+   "nome": "Ibrachina",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "itaquaquecetuba",
+   "nome": "Itaquaquecetuba",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "josebonifacio",
+   "nome": "José Bonifácio",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "manthiqueira",
+   "nome": "Manthiqueira",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "matonense",
+   "nome": "Matonense",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "mauaense",
+   "nome": "Mauaense",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "maua",
+   "nome": "Mauá",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "mogi-mirim-ec",
+   "nome": "Mogi Mirim EC",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "nacional",
+   "nome": "Nacional",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "olimpia",
+   "nome": "Olímpia",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "paulinense",
+   "nome": "Paulinense",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "paulinia",
+   "nome": "Paulínia",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "ranchariense",
+   "nome": "Ranchariense",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "referencia-fc",
+   "nome": "Referência FC",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "riopretano",
+   "nome": "Riopretano",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "santacruzense",
+   "nome": "Santacruzense",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "santa-fe",
+   "nome": "Santa Fé",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "sao-carlos",
+   "nome": "São Carlos",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "sfera-fc",
+   "nome": "Sfera FC",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "ska-brasil",
+   "nome": "Ska Brasil",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "tupa",
+   "nome": "Tupã",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "uniao-mogi",
+   "nome": "União Mogi",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "votoraty",
+   "nome": "Votoraty",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  }
+ ]
+}
