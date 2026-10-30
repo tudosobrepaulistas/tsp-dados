@@ -58,10 +58,13 @@
   {
    "slug": "aster-itaqua",
    "nome": "Aster Itaquá",
-   "cidade": "",
+   "cidade": "Itaquaquecetuba",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://boainformacao.com.br",
+    "https://www.futebolinterior.com.br"
+   ]
   },
   {
    "slug": "atletico-mogi",
