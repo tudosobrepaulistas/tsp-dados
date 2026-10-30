@@ -14,6 +14,11 @@
       Registra que não achou notícia confirmada nem tema histórico seguro (aparece no painel do site).
   python3 ferramentas/maquina.py clube CLUBE --cidade X --site URL --jornais "URL1, URL2" [--redes "URL, URL"]
       Guarda as fontes de um clube em maquina/clubes.json (preencha na 1ª vez que pesquisar o clube).
+  python3 ferramentas/maquina.py posjogo-pendentes
+      Jogos da base que terminaram (início + 1h50) nas últimas 30 horas e ainda não têm matéria pós-jogo.
+      Se não houver nenhum, mostra "nenhum" e a execução pode terminar.
+  python3 ferramentas/maquina.py avisar-site
+      Pede ao site para ler a fila na hora (usado depois do push de um pós-jogo).
   python3 ferramentas/maquina.py limpar
       Apaga da fila os arquivos com mais de 3 dias (já importados pelo site).
 
@@ -109,7 +114,7 @@ def historico():
 
 
 def slots_ocupados():
-    return {i["publish_at"] for i in historico()["itens"]}
+    return {i["publish_at"] for i in historico()["itens"] if i.get("tipo") != "posjogo"}
 
 
 def proximo_slot():
@@ -174,15 +179,20 @@ def norm(s):
 def cmd_adicionar(a):
     it = json.loads(Path(a[0]).read_text(encoding="utf-8"))
     erros = []
-    c = achar_clube(it.get("clube", ""))
+    posjogo = it.get("tipo") == "posjogo"
+    if posjogo:
+        c, erro_pj = checar_posjogo(it)
+        erros += erro_pj
+    else:
+        c = achar_clube(it.get("clube", ""))
     for k in ("titulo", "subtitulo", "corpo", "resumo", "faq", "meta_title", "meta_desc", "foco", "tags", "fontes", "tipo"):
         if not it.get(k):
             erros.append(f"falta '{k}'")
-    if it.get("tipo") not in ("noticia", "historia", "coletiva"):
-        erros.append("tipo: noticia, historia ou coletiva")
+    if it.get("tipo") not in ("noticia", "historia", "coletiva", "posjogo"):
+        erros.append("tipo: noticia, historia, coletiva ou posjogo")
     if len(it.get("titulo", "")) > 100 or len(it.get("meta_title", "")) > 65 or len(it.get("meta_desc", "")) > 160:
         erros.append("titulo (100), meta_title (65) ou meta_desc (160) longos demais")
-    if c["nome"].split()[0].lower() not in norm(it.get("titulo", "")) and norm(c["nome"]).split()[0] not in norm(it.get("titulo", "")):
+    if not posjogo and c["nome"].split()[0].lower() not in norm(it.get("titulo", "")) and norm(c["nome"]).split()[0] not in norm(it.get("titulo", "")):
         erros.append("o nome do clube precisa estar no título")
     corpo = it.get("corpo", [])
     if sum(1 for b in corpo if b.get("p")) < 5:
@@ -195,7 +205,7 @@ def cmd_adicionar(a):
     if not (3 <= len(it.get("faq", [])) <= 5):
         erros.append("faq: 3 a 5 perguntas")
     fontes = it.get("fontes", [])
-    if it.get("tipo") == "noticia" and len({f.get("url") for f in fontes}) < 2:
+    if it.get("tipo") in ("noticia", "posjogo") and len({f.get("url") for f in fontes}) < 2:
         erros.append("notícia precisa de 2 fontes independentes")
     if it.get("tipo") in ("historia", "coletiva") and len(fontes) < 1:
         erros.append("precisa de fonte")
@@ -219,9 +229,14 @@ def cmd_adicionar(a):
     for i in h:
         if i["clube"] == c["slug"] and (norm(i["titulo"]) == nt or norm(i["foco"]) == norm(it.get("foco", ""))):
             erros.append(f"repetido: já existe '{i['titulo']}' (foco '{i['foco']}')")
-    slot = it.get("publish_at") or proximo_slot()
-    if slot in {i["publish_at"] for i in h}:
-        erros.append(f"horário {slot} já ocupado; use `proximo`")
+    if posjogo:
+        slot = agora().strftime("%Y-%m-%d %H:%M")
+        if any(i.get("jogo") == it["jogo"] for i in h):
+            erros.append("este jogo já tem matéria pós-jogo")
+    else:
+        slot = it.get("publish_at") or proximo_slot()
+        if slot in {i["publish_at"] for i in h if i.get("tipo") != "posjogo"}:
+            erros.append(f"horário {slot} já ocupado; use `proximo`")
     if erros:
         raise SystemExit("ERRO:\n" + "\n".join(erros))
     it["publish_at"] = slot
@@ -233,15 +248,78 @@ def cmd_adicionar(a):
     gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
     escrever_indice()
     d = historico()
-    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto)})
+    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo")})
     d["itens"] = d["itens"][-2000:]
     gravar(M / "historico.json", d)
-    print(f"OK: {nome} na fila para {slot} ({'com foto' if foto else 'SEM foto: vai como rascunho para um redator'})")
+    print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator'})")
+    if posjogo:
+        print("Agora: commit + push e depois `python3 ferramentas/maquina.py avisar-site` (publica em ~1 minuto).")
 
 
 def escrever_indice():
     arqs = sorted(f.name for f in FILA.glob("*.json") if f.name != "indice.json")[-60:]
     gravar(FILA / "indice.json", {"gerado": agora().isoformat(timespec="minutes"), "arquivos": arqs})
+
+
+def base_jogos():
+    sys.path.insert(0, str(RAIZ / "ferramentas"))
+    import tsp  # noqa: E402
+    return tsp
+
+
+def checar_posjogo(it):
+    """Confere o pós-jogo contra a base: jogo encerrado, placar no título/subtítulo, times certos."""
+    tsp = base_jogos()
+    erros = []
+    try:
+        comp, _d, j = tsp.achar(it.get("jogo", 0))
+    except SystemExit as e:
+        return {"slug": "", "nome": ""}, [str(e)]
+    tm = tsp.times()
+    casa, fora = tm.get(j["casa"], {}), tm.get(j["fora"], {})
+    if j["status"] != "encerrado" or j["gols_casa"] is None:
+        erros.append("o jogo ainda não está encerrado na base: registre o resultado com `tsp.py resultado` (2 fontes) antes")
+    else:
+        alvo = norm(it.get("titulo", "") + " " + it.get("subtitulo", ""))
+        gc, gf = j["gols_casa"], j["gols_fora"]
+        if not any(x in alvo for x in (f"{gc} a {gf}", f"{gf} a {gc}", f"{gc}x{gf}", f"{gc} x {gf}")):
+            erros.append(f"o placar {gc}x{gf} precisa aparecer no título ou subtítulo (ex.: '{gc} a {gf}')")
+    slug = it.get("clube") or casa.get("slug_tsp") or fora.get("slug_tsp") or ""
+    it["clube"] = slug
+    it["clubes"] = [x for x in (casa.get("slug_tsp"), fora.get("slug_tsp")) if x]
+    it["competicao"] = comp
+    return {"slug": slug or f"jogo-{j['id']}", "nome": casa.get("nome", "")}, erros
+
+
+def cmd_posjogo_pendentes(_a):
+    tsp = base_jogos()
+    tm = tsp.times()
+    feitos = {i.get("jogo") for i in historico()["itens"] if i.get("tipo") == "posjogo"}
+    t = agora()
+    out = []
+    for comp, j in tsp.todos_os_jogos():
+        ini = datetime.datetime.fromisoformat(j["data"])
+        fim = ini + datetime.timedelta(minutes=110)
+        if fim <= t <= ini + datetime.timedelta(hours=30) and j["id"] not in feitos and j["status"] not in ("adiado", "cancelado"):
+            out.append((ini, comp, j))
+    if not out:
+        print("nenhum")
+        return
+    for ini, comp, j in sorted(out, key=lambda x: x[0]):
+        c, f = tm.get(j["casa"], {}).get("nome", j["casa"]), tm.get(j["fora"], {}).get("nome", j["fora"])
+        pl = f"{j['gols_casa']}x{j['gols_fora']}" if j["gols_casa"] is not None else "SEM RESULTADO"
+        print(f"- jogo {j['id']} | {comp} rodada {j['rodada'] or j['fase']} | {ini:%d/%m %H:%M} | {c} {pl} {f} | {j['status']} | {j['estadio']}")
+
+
+def cmd_avisar_site(_a):
+    try:
+        req = urllib.request.Request("https://tudosobrepaulista.com.br/wp-json/tsp/v1/maquina-ler?x=" + str(int(agora().timestamp())), headers={"User-Agent": "TSP-Maquina/1.0"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            print("site:", r.read().decode()[:300])
+    except urllib.error.HTTPError as e:
+        print("site respondeu", e.code, "(o site lê a fila sozinho em até 15 min)")
+    except Exception as e:  # noqa: BLE001
+        print("não consegui avisar o site:", e, "(o site lê a fila sozinho em até 15 min)")
 
 
 def opc(a, n, p=""):
@@ -290,4 +368,5 @@ def cmd_limpar(_a):
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
-     "clube": cmd_clube, "limpar": cmd_limpar}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "clube": cmd_clube, "limpar": cmd_limpar,
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
