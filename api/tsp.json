@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-30T00:26:00-03:00",
+ "gerado": "2026-10-30T01:54:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7245,6 +7245,47 @@
     ],
     "atualizado": "2026-10-29T19:37:00-03:00"
    },
+   "events": []
+  },
+  {
+   "liga": "fem_copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-feminino/cbf-detalha-semifinal-da-copa-do-brasil-feminina-veja-datas-horarios-e-onde-assistir.html"
+   ],
+   "fixture": {
+    "id": 91000132,
+    "timestamp": 1793831400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
    "events": []
   }
  ],
