@@ -33,6 +33,13 @@ Faça **um commit e push depois de cada matéria** (se a execução cair no meio
    título repetido, palavra-chave repetida, fonte proibida, conteúdo de aposta e horário ocupado. Corrija e rode de novo.
 8. `git add -A && git commit -m "máquina: <clube> - <título curto>" && git push` (com as linhas de coautoria do CLAUDE.md da sessão).
 
+## Fontes sempre à vista (para a redação conferir)
+- Em `fontes`, coloque **todas** as fontes usadas: as 2 do cruzamento (ou a única, em coletiva/história), com o **nome do veículo**
+  e o **link exato da matéria/post** (nunca a página inicial). Elas aparecem no fim da matéria ("Fontes e transparência"),
+  no editor do WordPress e na tela da Máquina, para o administrador checar.
+- No texto, atribua a informação: "segundo o site oficial do clube", "de acordo com a Folha da Região". Fala entre aspas sempre com quem disse e onde.
+- Na foto, `fonte` = a página exata de onde a imagem veio.
+
 ## Texto (SEO, GEO e AEO, sem forçar)
 - Reescreva com palavras do TSP. Nunca copie frases das fontes (só falas entre aspas, curtas e atribuídas).
 - **Título** (até 100): com o nome do clube e a informação principal; sem caixa alta, sem clickbait, sem ponto final.

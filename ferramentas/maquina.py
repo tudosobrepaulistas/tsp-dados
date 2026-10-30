@@ -202,6 +202,10 @@ def cmd_adicionar(a):
     for f in fontes:
         if not str(f.get("url", "")).startswith("https://") or FONTE_PROIBIDA.search(f.get("url", "")):
             erros.append(f"fonte inválida/proibida: {f}")
+        elif len(re.sub(r"^https://[^/]+/?", "", f["url"]).strip("/")) < 3:
+            erros.append(f"fonte precisa ser o link da matéria/post exato, não a página inicial: {f['url']}")
+        if not f.get("nome"):
+            erros.append(f"fonte sem nome do veículo: {f.get('url')}")
     foto = it.get("foto") or {}
     if foto:
         if not FOTO_OK.match(foto.get("url", "")):
