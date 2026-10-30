@@ -128,10 +128,13 @@
   {
    "slug": "cosmopolitano",
    "nome": "Cosmopolitano",
-   "cidade": "",
+   "cidade": "Cosmópolis",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://tvjaguari.com.br",
+    "https://tododia.com.br"
+   ]
   },
   {
    "slug": "ec-meia-noite",
@@ -320,8 +323,8 @@
   {
    "slug": "ska-brasil",
    "nome": "Ska Brasil",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Santana de Parnaíba",
+   "site_oficial": "https://www.fcskabrasil.com",
    "redes": [],
    "jornais_locais": []
   },
