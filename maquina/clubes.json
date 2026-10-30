@@ -18,10 +18,14 @@
   {
    "slug": "ac-guaratingueta",
    "nome": "AC Guaratinguetá",
-   "cidade": "",
+   "cidade": "Guaratinguetá",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://radiofreigalvao.org.br",
+    "https://www.jogandojuntos.com.br",
+    "https://www.jornaldeguara.com.br"
+   ]
   },
   {
    "slug": "ad-guarulhos",
@@ -69,7 +73,7 @@
   {
    "slug": "atletico-mogi",
    "nome": "Atlético Mogi",
-   "cidade": "",
+   "cidade": "Mogi das Cruzes",
    "site_oficial": "",
    "redes": [],
    "jornais_locais": []
@@ -147,10 +151,13 @@
   {
    "slug": "fernandopolis",
    "nome": "Fernandópolis",
-   "cidade": "",
+   "cidade": "Fernandópolis",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://regiaonoroeste.com",
+    "https://cidadaonet.com.br"
+   ]
   },
   {
    "slug": "flamengo-sp",

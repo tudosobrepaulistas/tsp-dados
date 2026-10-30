@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-30T03:10-03:00",
+ "gerado": "2026-10-30T03:18-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -14,6 +14,20 @@
    "quando": "2026-10-30T03:10-03:00",
    "motivo": "Sem notícia dos últimos 7 dias; últimas matérias encontradas são da Copinha 2026 (dez/2025-jan/2026)",
    "sugestao": "Como ficaram as obras do Estádio Thelmo de Almeida e se Cosmópolis volta a ser sede da Copinha 2027 (consultar Prefeitura de Cosmópolis e FPF)"
+  },
+  {
+   "clube": "fernandopolis",
+   "nome": "Fernandópolis",
+   "quando": "2026-10-30T03:18-03:00",
+   "motivo": "Sem notícia do Fefecê nos últimos 7 dias; história do clube só encontrada na Wikipédia, sem jornal para conferir",
+   "sugestao": "Perfil histórico do Fernandópolis FC e do Estádio Cláudio Rodante com o clube/Prefeitura; checar se o Fefecê confirma a Segunda Divisão 2027"
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-10-30T03:18-03:00",
+   "motivo": "Sem notícia recente em fontes aceitas; a matéria do Lance! sobre o jejum do clube não abriu para conferência",
+   "sugestao": "Situação do Atlético Mogi para a Segunda Divisão 2027 (direção, elenco, estádio) com contato do clube e jornais de Mogi das Cruzes (O Diário de Mogi, Mogi News)"
   }
  ]
 }
