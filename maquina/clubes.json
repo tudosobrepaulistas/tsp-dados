@@ -114,10 +114,13 @@
   {
    "slug": "comercial-tiete",
    "nome": "Comercial de Tietê",
-   "cidade": "",
+   "cidade": "Tietê",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://t7news.com.br",
+    "https://www.futebolinterior.com.br"
+   ]
   },
   {
    "slug": "cosmopolitano",
