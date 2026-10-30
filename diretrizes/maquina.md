@@ -6,7 +6,15 @@ Por isso o padrão é o do Radar Palestrino: **nada sem fonte, nada inventado, t
 **Fase 1: só os 41 clubes de `maquina/clubes.json`** (sem divisão / Segunda Divisão, a "Bezinha").
 Próximas fases: Paulistão A4, depois A3, depois A2. Não escreva sobre clube fora da lista.
 
-## Passo a passo de cada rodada
+## Varredura (como cada execução funciona)
+Cada execução é uma **varredura**: escreve de **5 a 6 matérias**, de clubes diferentes, e cada uma vai para o próximo horário livre
+(`adicionar` preenche sozinho). Assim sempre fica um estoque agendado no site; o administrador pode soltar qualquer uma na hora
+("Publicar agora") ou deixar sair no horário. Repita os passos abaixo até ter 5 a 6 matérias na fila nesta execução
+(rode `proximo` de novo depois de cada `adicionar`: ele já tira os clubes que acabaram de entrar). Tente no máximo 10 clubes.
+Se `proximo` mostrar que já há 8 ou mais horários ocupados à frente, pare: o estoque está cheio.
+Faça **um commit e push depois de cada matéria** (se a execução cair no meio, o que já foi feito não se perde).
+
+## Passo a passo de cada matéria
 1. `python3 ferramentas/maquina.py proximo` → horário livre e 6 clubes sorteados entre os mais esquecidos. Pegue o 1º.
 2. `python3 ferramentas/maquina.py historico CLUBE` → o que o site e a Máquina já publicaram. **Não repita assunto nem palavra-chave.**
 3. Se o clube ainda não tem cidade/site/jornais em `clubes.json`, pesquise e grave com `maquina.py clube ...`.

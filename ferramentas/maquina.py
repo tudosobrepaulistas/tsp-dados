@@ -148,7 +148,9 @@ def cmd_proximo(_a):
         print(f"- {c['slug']} | {c['nome']} | última matéria: {ult if ult != '0000' else 'nunca'} | cidade: {c['cidade'] or '?'} | site: {c['site_oficial'] or '?'}")
     hoje = agora().strftime("%Y-%m-%d")
     feitos = [i for i in h if i["publish_at"].startswith(hoje)]
-    print(f"\nMáquina hoje: {len(feitos)} matéria(s): " + ", ".join(f"{i['publish_at'][11:]} {i['clube']}" for i in feitos))
+    futuros = sorted(i["publish_at"] for i in h if i["publish_at"] > agora().strftime("%Y-%m-%d %H:%M"))
+    print(f"\nEstoque agendado à frente: {len(futuros)} matéria(s)" + (f" (até {futuros[-1]})" if futuros else ""))
+    print(f"Máquina hoje: {len(feitos)} matéria(s): " + ", ".join(f"{i['publish_at'][11:]} {i['clube']}" for i in feitos))
 
 
 def cmd_historico(a):
