@@ -289,10 +289,13 @@
   {
    "slug": "referencia-fc",
    "nome": "Referência FC",
-   "cidade": "",
+   "cidade": "Embu das Artes",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://abcdoabc.com.br",
+    "https://maquinadoesporte.com.br"
+   ]
   },
   {
    "slug": "riopretano",
