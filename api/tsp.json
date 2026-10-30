@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-29T22:25:00-03:00",
+ "gerado": "2026-10-30T00:26:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3553,14 +3553,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/gremio-vence-o-athletico-pr-deixa-zona-de-rebaixamento-do-brasileirao-e-complica-o-corinthians,f2bb3a40a6283d9e00660345cd6ed0a674klz3sj.html",
+    "https://www.correiobraziliense.com.br/esportes/2026/10/7530674-gremio-vence-athletico-e-recoloca-o-internacional-no-z-4-do-brasileirao.html"
    ],
    "fixture": {
     "id": 91000019,
     "timestamp": 1793320200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena do Grêmio",
@@ -3582,8 +3584,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -3595,7 +3597,40 @@
     "estadio_wiki": "Arena do Grêmio",
     "atualizado": "2026-10-29T19:16:00-03:00"
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 38,
+      "extra": null,
+      "texto": "38"
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Marlon"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Balbuena"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -3749,7 +3784,36 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Sportv",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/red-bull-bragantino-x-santos-onde-assistir-ao-jogo-da-34a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Red Bull Bragantino e Santos fazem um duelo paulista de meio de tabela na segunda-feira (2/11), às 20h, no Estádio Cícero de Souza Marques, em Bragança Paulista, pela 34ª rodada do Brasileirão. O Santos é o 8º colocado, com 47 pontos em 33 jogos, sete atrás de Fluminense e Athletico-PR, que fecham o G4 com 54. O Bragantino vem logo atrás, em 9º, com 44. Uma vitória do time da casa iguala a pontuação dos dois clubes a quatro rodadas do fim; um triunfo santista abre seis pontos sobre o rival.",
+     "O Bragantino chega embalado pela goleada de 3 a 0 sobre a Chapecoense, na quarta-feira (28/10), com dois gols de Wallace Yan e um de Henry Mosquera. Nos últimos cinco jogos registrados na Base TSP, o time venceu dois, empatou dois e perdeu um: além da vitória sobre a Chape, bateu o Cruzeiro por 4 a 2 em casa, empatou com Mirassol (1 a 1, em casa) e Remo (1 a 1, fora) e perdeu o clássico para o Palmeiras por 2 a 0. Em Bragança, são duas vitórias e um empate nesse recorte.",
+     "O Santos vem de dois empates seguidos na Vila Belmiro: 1 a 1 com o Bahia, no sábado (24/10), com gol de Luan Peres, e 0 a 0 com o Palmeiras, na quarta-feira (28/10), jogo em que o goleiro Diógenes fez boas defesas, segundo o Metrópoles. Nos últimos cinco jogos da base, são uma vitória, três empates e uma derrota. Fora de casa, o time alternou resultados: venceu o Fluminense por 2 a 1 e perdeu para o Atlético-MG pelo mesmo placar."
+    ],
+    "retrospecto": "No primeiro turno, em 10 de maio, pela 15ª rodada, o Santos venceu o Red Bull Bragantino por 2 a 0 na Vila Belmiro, com gols de Neymar e Adonis Frías. O resultado encerrou uma sequência de sete jogos sem vitória do time santista, segundo a Gazeta Esportiva.",
+    "estadio_wiki": "Estádio Cícero de Souza Marques",
+    "fontes": [
+     "https://www.redbullbragantino.com/br-pt/noticias/check-in-e-ingressos-34-rodada-do-brasileirao-2026",
+     "https://www.metropoles.com/esportes/santos-e-palmeiras-empatam-e-flamengo-segue-lider-do-brasileirao",
+     "https://www.gazetaesportiva.com/times/santos/neymar-marca-santos-bate-bragantino-e-finda-jejum-de-vitorias/"
+    ],
+    "atualizado": "2026-10-30T00:26:00-03:00"
+   },
    "events": []
   },
   {
@@ -7232,20 +7296,6 @@
      ],
      [
       4,
-      900004,
-      "Athletico-PR",
-      54,
-      32,
-      15,
-      9,
-      8,
-      12,
-      "",
-      50,
-      38
-     ],
-     [
-      5,
       900005,
       "Fluminense",
       54,
@@ -7257,6 +7307,20 @@
       "",
       52,
       42
+     ],
+     [
+      5,
+      900004,
+      "Athletico-PR",
+      54,
+      33,
+      15,
+      9,
+      9,
+      10,
+      "",
+      50,
+      40
      ],
      [
       6,
@@ -7386,6 +7450,20 @@
      ],
      [
       15,
+      900017,
+      "Grêmio",
+      37,
+      33,
+      9,
+      10,
+      14,
+      -7,
+      "",
+      37,
+      44
+     ],
+     [
+      16,
       900015,
       "Mirassol",
       37,
@@ -7399,7 +7477,7 @@
       45
      ],
      [
-      16,
+      17,
       900016,
       "Internacional",
       35,
@@ -7411,20 +7489,6 @@
       "",
       37,
       42
-     ],
-     [
-      17,
-      900017,
-      "Grêmio",
-      34,
-      32,
-      8,
-      10,
-      14,
-      -9,
-      "",
-      35,
-      44
      ],
      [
       18,
@@ -7797,6 +7861,12 @@
     "gols": 1
    },
    {
+    "jogador": "Balbuena",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
     "jogador": "Bernabei",
     "time": "Internacional",
     "time_id": 900016,
@@ -7950,6 +8020,12 @@
     "jogador": "Marcos Victor",
     "time": "Bahia",
     "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Marlon",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 1
    },
    {

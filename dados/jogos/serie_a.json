@@ -1646,22 +1646,37 @@
    "data": "2026-10-29T21:30:00-03:00",
    "casa": "gremio",
    "fora": "athletico-pr",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Arena do Grêmio",
    "cidade": "Porto Alegre",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Marlon",
+     "minuto": "38",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Balbuena",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/gremio-vence-o-athletico-pr-deixa-zona-de-rebaixamento-do-brasileirao-e-complica-o-corinthians,f2bb3a40a6283d9e00660345cd6ed0a674klz3sj.html",
+    "https://www.correiobraziliense.com.br/esportes/2026/10/7530674-gremio-vence-athletico-e-recoloca-o-internacional-no-z-4-do-brasileirao.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-10-30T00:25:00-03:00",
    "prejogo": {
     "analise": [
      "Grêmio e Athletico-PR fecham a quinta-feira (29/10) da 33ª rodada do Brasileirão, às 21h30, na Arena do Grêmio, com objetivos opostos na tabela. O Grêmio entrou na rodada em 17º lugar, com 34 pontos, dentro da zona de rebaixamento, um atrás do Internacional (16º, 35) e um à frente do Corinthians (18º, 33). O Athletico-PR é o 4º, com 54 pontos, empatado com Cruzeiro e Fluminense na parte de cima da classificação.",
@@ -1770,7 +1785,37 @@
    "fontes": [
     "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-27T11:48:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Sportv",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/red-bull-bragantino-x-santos-onde-assistir-ao-jogo-da-34a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Red Bull Bragantino e Santos fazem um duelo paulista de meio de tabela na segunda-feira (2/11), às 20h, no Estádio Cícero de Souza Marques, em Bragança Paulista, pela 34ª rodada do Brasileirão. O Santos é o 8º colocado, com 47 pontos em 33 jogos, sete atrás de Fluminense e Athletico-PR, que fecham o G4 com 54. O Bragantino vem logo atrás, em 9º, com 44. Uma vitória do time da casa iguala a pontuação dos dois clubes a quatro rodadas do fim; um triunfo santista abre seis pontos sobre o rival.",
+     "O Bragantino chega embalado pela goleada de 3 a 0 sobre a Chapecoense, na quarta-feira (28/10), com dois gols de Wallace Yan e um de Henry Mosquera. Nos últimos cinco jogos registrados na Base TSP, o time venceu dois, empatou dois e perdeu um: além da vitória sobre a Chape, bateu o Cruzeiro por 4 a 2 em casa, empatou com Mirassol (1 a 1, em casa) e Remo (1 a 1, fora) e perdeu o clássico para o Palmeiras por 2 a 0. Em Bragança, são duas vitórias e um empate nesse recorte.",
+     "O Santos vem de dois empates seguidos na Vila Belmiro: 1 a 1 com o Bahia, no sábado (24/10), com gol de Luan Peres, e 0 a 0 com o Palmeiras, na quarta-feira (28/10), jogo em que o goleiro Diógenes fez boas defesas, segundo o Metrópoles. Nos últimos cinco jogos da base, são uma vitória, três empates e uma derrota. Fora de casa, o time alternou resultados: venceu o Fluminense por 2 a 1 e perdeu para o Atlético-MG pelo mesmo placar."
+    ],
+    "retrospecto": "No primeiro turno, em 10 de maio, pela 15ª rodada, o Santos venceu o Red Bull Bragantino por 2 a 0 na Vila Belmiro, com gols de Neymar e Adonis Frías. O resultado encerrou uma sequência de sete jogos sem vitória do time santista, segundo a Gazeta Esportiva.",
+    "estadio_wiki": "Estádio Cícero de Souza Marques",
+    "fontes": [
+     "https://www.redbullbragantino.com/br-pt/noticias/check-in-e-ingressos-34-rodada-do-brasileirao-2026",
+     "https://www.metropoles.com/esportes/santos-e-palmeiras-empatam-e-flamengo-segue-lider-do-brasileirao",
+     "https://www.gazetaesportiva.com/times/santos/neymar-marca-santos-bate-bragantino-e-finda-jejum-de-vitorias/"
+    ],
+    "atualizado": "2026-10-30T00:26:00-03:00"
+   }
   },
   {
    "id": 91000022,
