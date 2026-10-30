@@ -113,10 +113,13 @@
   {
    "slug": "centro-olimpico",
    "nome": "Centro Olímpico",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "São Paulo (Moema/Ibirapuera)",
+   "site_oficial": "https://prefeitura.sp.gov.br/web/esportes/centro_olimpico",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://abcdoabc.com.br",
+    "https://www.gazetasp.com.br"
+   ]
   },
   {
    "slug": "comercial-tiete",
