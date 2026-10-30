@@ -38,7 +38,7 @@
   {
    "slug": "amparo",
    "nome": "Amparo",
-   "cidade": "",
+   "cidade": "Amparo",
    "site_oficial": "",
    "redes": [],
    "jornais_locais": []
@@ -250,10 +250,12 @@
   {
    "slug": "olimpia",
    "nome": "Olímpia",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Olímpia",
+   "site_oficial": "https://olimpiafc.com.br",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://ifolha.com.br"
+   ]
   },
   {
    "slug": "paulinense",
@@ -325,7 +327,11 @@
    "cidade": "",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.gazetaesportiva.com",
+    "https://maquinadoesporte.com.br",
+    "https://www.lance.com.br"
+   ]
   },
   {
    "slug": "ska-brasil",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-30T03:18-03:00",
+ "gerado": "2026-10-30T03:21-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -28,6 +28,20 @@
    "quando": "2026-10-30T03:18-03:00",
    "motivo": "Sem notícia recente em fontes aceitas; a matéria do Lance! sobre o jejum do clube não abriu para conferência",
    "sugestao": "Situação do Atlético Mogi para a Segunda Divisão 2027 (direção, elenco, estádio) com contato do clube e jornais de Mogi das Cruzes (O Diário de Mogi, Mogi News)"
+  },
+  {
+   "clube": "olimpia",
+   "nome": "Olímpia",
+   "quando": "2026-10-30T03:20-03:00",
+   "motivo": "Site oficial sem notícias desde fev/2025 e nada recente na imprensa; história do Galo Azul só achada na Wikipédia",
+   "sugestao": "Confirmar com a diretoria se o Olímpia FC volta a disputar competição da FPF em 2027; matéria histórica do Galo Azul com acervo do jornal local (Folha de Olímpia)"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-10-30T03:21-03:00",
+   "motivo": "Sem notícia do Amparo nos últimos 7 dias em fontes aceitas; só resultados do Paulista Sub-15 em agregador",
+   "sugestao": "Balanço do Amparo no Paulista Sub-15 2026 com o clube e o jornal local; história do Amparo Athlético Club e do Estádio José de Araújo Cintra"
   }
  ]
 }
