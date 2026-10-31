@@ -1559,7 +1559,47 @@
      "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/07/11718649-nautico-perde-para-o-avai-fora-de-casa-e-agrava-crise-na-serie-b.html",
      "https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-rebaixamento-na-reta-final/"
     ],
-    "atualizado": "2026-10-29T19:17:00-03:00"
+    "atualizado": "2026-10-31T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "SporTV",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      },
+      {
+       "nome": "GE TV",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/nautico-x-avai-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,31c70a0adcaa94027717cf1d6c3125a6bgb23tpv.html",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/nautico-x-avai-onde-assistir-serie-b-36-rodada/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Bruno Pivetti",
+      "time": "Muriel; Arnaldo, Betão, Igor Fernandes e Luiz Paulo; Samuel, Wenderson e Jean Carlos; Derek, Paulo Sérgio e Vinícius",
+      "desfalques": "",
+      "duvidas": "Guruceaga, Ryan Carlos, Reginaldo, Luiz Felipe e Borasi aparecem como titulares em outra provável"
+     },
+     "fora": {
+      "tecnico": "Marquinhos Santos (interino)",
+      "time": "Bruno Ferreira; Wallison, Jefferson Maciel, Pedrão e DG; Paulo Vitor, Zé Ricardo, Daniel Penha e Jean Lucas; Caio Suassuna e Rildo",
+      "desfalques": "Allyson e Luiz Henrique (suspensos, acúmulo de cartões amarelos)",
+      "duvidas": "Formação do meio e da lateral esquerda (Douglas Teixeira e Wallison também citados)"
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/nautico-x-avai-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,31c70a0adcaa94027717cf1d6c3125a6bgb23tpv.html",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/nautico-x-avai-onde-assistir-serie-b-36-rodada/"
+     ],
+     "atualizado": "2026-10-31T14:25:00-03:00"
+    },
+    "estadio_wiki": "Estádio dos Aflitos"
    }
   },
   {
