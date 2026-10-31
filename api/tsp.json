@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-30T18:25:00-03:00",
+ "gerado": "2026-10-30T21:31:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7254,7 +7254,22 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Goiás e CRB fazem na segunda-feira (2/11), às 20h30, na Serrinha, em Goiânia, o jogo que fecha a 36ª rodada da Série B, um confronto direto na briga pelo G-6. Antes da rodada, o CRB é o 6º colocado, com 55 pontos, e o Goiás aparece em 9º, com 52, três atrás do rival. Sport e Atlético-GO, com 54, estão entre os dois. Depois deste jogo restam só duas rodadas.",
+     "O Goiás chega embalado. Nos últimos cinco jogos foram três vitórias, um empate e uma derrota: perdeu por 3 a 0 para o Novorizontino, venceu o Athletic por 2 a 1 na Serrinha, ganhou do Operário-PR por 2 a 0 fora, empatou sem gols com o Náutico em casa e, na terça-feira (27/10), bateu o Ceará por 2 a 0 no Castelão, com dois gols de Kadu Sousa nos acréscimos.",
+     "O CRB vive um momento mais oscilante: duas vitórias, um empate e duas derrotas nos últimos cinco. Fora de casa, perdeu por 3 a 1 para o São Bernardo e empatou por 2 a 2 com o Fortaleza. Em Maceió, venceu o Atlético-GO por 3 a 1, perdeu para o Botafogo-SP por 1 a 0 e, no sábado (24/10), bateu o Londrina por 2 a 1, com gols de Crystopher e Danielzinho, resultado que o levou de volta ao G-6.",
+     "Com 53 gols marcados, o CRB tem o segundo melhor ataque da competição, atrás só do Novorizontino, mas também sofreu 49. O Goiás tem campanha mais econômica no ataque (36 gols marcados e 40 sofridos) e saldo negativo de quatro gols."
+    ],
+    "retrospecto": "No primeiro turno desta Série B, em 12 de julho, pela 17ª rodada, CRB e Goiás empataram por 2 a 2 no Rei Pelé, em Maceió (fonte: CBF).",
+    "estadio_wiki": "Estádio Hailé Pinheiro",
+    "fontes": [
+     "https://www.tnh1.com.br/noticia/nid/crb-vence-londrina-entra-no-g-6-e-rebaixa-o-tubarao-para-a-serie-c/",
+     "https://diariodonordeste.verdesmares.com.br/jogada/ceara-sofre-dois-gols-nos-acrescimos-perde-para-o-goias-no-castelao-e-se-mantem-ameacado-1.3801863",
+     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/crb-x-goias/833050"
+    ],
+    "atualizado": "2026-10-30T21:31:00-03:00"
+   },
    "events": []
   },
   {
