@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-30T21:31:00-03:00",
+ "gerado": "2026-10-30T22:11:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3637,14 +3637,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-mirassol-e-segue-vivo-contra-rebaixamento/",
+    "https://www.metropoles.com/esportes/brasileirao-corinthians-bate-mirassol-e-volta-a-vencer-apos-11-jogos"
    ],
    "fixture": {
     "id": 91000020,
     "timestamp": 1793401200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Neo Química Arena",
@@ -3666,8 +3668,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -3725,7 +3727,40 @@
      "atualizado": "2026-10-30T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 57,
+      "extra": null,
+      "texto": "57"
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Matheus Bidu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Kaio César"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -6681,14 +6716,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/",
+    "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-a-ponte-preta-e-segue-na-briga-pelo-acesso-direto-na-serie-b/",
+    "https://www.4oito.com.br/noticia/criciuma-vence-ponte-preta-e-entra-no-g4-da-serie-b-89771"
    ],
    "fixture": {
     "id": 91000041,
     "timestamp": 1793399400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Heriberto Hülse",
@@ -6710,8 +6747,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -6760,7 +6797,40 @@
      "atualizado": "2026-10-30T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+5"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Fellipe Mateus"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Diego Gonçalves"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -7622,17 +7692,31 @@
       900015,
       "Mirassol",
       37,
-      32,
+      33,
       9,
       10,
-      13,
-      -8,
+      14,
+      -10,
       "",
       37,
-      45
+      47
      ],
      [
       17,
+      900018,
+      "Corinthians",
+      36,
+      33,
+      9,
+      9,
+      15,
+      -6,
+      "",
+      36,
+      42
+     ],
+     [
+      18,
       900016,
       "Internacional",
       35,
@@ -7643,20 +7727,6 @@
       -5,
       "",
       37,
-      42
-     ],
-     [
-      18,
-      900018,
-      "Corinthians",
-      33,
-      32,
-      8,
-      9,
-      15,
-      -8,
-      "",
-      34,
       42
      ],
      [
@@ -7737,6 +7807,20 @@
      ],
      [
       4,
+      900025,
+      "Criciúma",
+      62,
+      36,
+      18,
+      8,
+      10,
+      8,
+      "",
+      38,
+      30
+     ],
+     [
+      5,
       900024,
       "Fortaleza",
       61,
@@ -7748,20 +7832,6 @@
       "",
       43,
       31
-     ],
-     [
-      5,
-      900025,
-      "Criciúma",
-      59,
-      35,
-      17,
-      8,
-      10,
-      6,
-      "",
-      36,
-      30
      ],
      [
       6,
@@ -7964,14 +8034,14 @@
       900040,
       "Ponte Preta",
       15,
-      35,
+      36,
       3,
       6,
-      26,
-      -55,
+      27,
+      -57,
       "",
       21,
-      76
+      78
      ]
     ]
    ]
@@ -7983,6 +8053,12 @@
     "jogador": "Marino Hinestroza",
     "time": "Vasco",
     "time_id": 900013,
+    "gols": 2
+   },
+   {
+    "jogador": "Matheus Bidu",
+    "time": "Corinthians",
+    "time_id": 900018,
     "gols": 2
    },
    {
@@ -8130,6 +8206,12 @@
     "gols": 1
    },
    {
+    "jogador": "Kaio César",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 1
+   },
+   {
     "jogador": "Kaio Jorge",
     "time": "Cruzeiro",
     "time_id": 900003,
@@ -8190,12 +8272,6 @@
     "gols": 1
    },
    {
-    "jogador": "Matheus Bidu",
-    "time": "Corinthians",
-    "time_id": 900018,
-    "gols": 1
-   },
-   {
     "jogador": "Mauricio",
     "time": "Palmeiras",
     "time_id": 900002,
@@ -8237,6 +8313,12 @@
     "jogador": "Chrystian Barletta",
     "time": "Sport",
     "time_id": 900027,
+    "gols": 2
+   },
+   {
+    "jogador": "Fellipe Mateus",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 2
    },
    {
@@ -8282,15 +8364,15 @@
     "gols": 1
    },
    {
-    "jogador": "Eduardo Brock",
-    "time": "Novorizontino",
-    "time_id": 900021,
+    "jogador": "Diego Gonçalves",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 1
    },
    {
-    "jogador": "Fellipe Mateus",
-    "time": "Criciúma",
-    "time_id": 900025,
+    "jogador": "Eduardo Brock",
+    "time": "Novorizontino",
+    "time_id": 900021,
     "gols": 1
    },
    {

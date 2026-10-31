@@ -6,6 +6,12 @@
   "gols": 2
  },
  {
+  "jogador": "Matheus Bidu",
+  "time": "Corinthians",
+  "time_id": 900018,
+  "gols": 2
+ },
+ {
   "jogador": "Pedro",
   "time": "Flamengo",
   "time_id": 900001,
@@ -150,6 +156,12 @@
   "gols": 1
  },
  {
+  "jogador": "Kaio César",
+  "time": "Corinthians",
+  "time_id": 900018,
+  "gols": 1
+ },
+ {
   "jogador": "Kaio Jorge",
   "time": "Cruzeiro",
   "time_id": 900003,
@@ -207,12 +219,6 @@
   "jogador": "Matheus Bahia",
   "time": "Internacional",
   "time_id": 900016,
-  "gols": 1
- },
- {
-  "jogador": "Matheus Bidu",
-  "time": "Corinthians",
-  "time_id": 900018,
   "gols": 1
  },
  {

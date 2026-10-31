@@ -1301,22 +1301,37 @@
    "data": "2026-10-30T19:30:00-03:00",
    "casa": "criciuma",
    "fora": "ponte-preta",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Heriberto Hülse",
    "cidade": "Criciúma",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fellipe Mateus",
+     "minuto": "45+5",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Diego Gonçalves",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/",
+    "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-a-ponte-preta-e-segue-na-briga-pelo-acesso-direto-na-serie-b/",
+    "https://www.4oito.com.br/noticia/criciuma-vence-ponte-preta-e-entra-no-g4-da-serie-b-89771"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-10-30T22:11:00-03:00",
    "prejogo": {
     "analise": [
      "O Criciúma abre a 36ª rodada da Série B na sexta-feira (30/10), às 19h30, no Heriberto Hülse, ainda com o acesso direto no horizonte. O time catarinense é o 5º colocado, com 59 pontos, dois atrás do Fortaleza (4º, 61) e cinco atrás de Novorizontino e Juventude, que dividem a liderança com 64. Pelo regulamento de 2026, os dois primeiros sobem direto e quem termina entre 3º e 6º disputa os playoffs do acesso; com nove pontos em jogo, o Criciúma tem cinco de vantagem sobre Sport e Atlético-GO, que somam 54.",

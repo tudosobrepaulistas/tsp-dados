@@ -1692,22 +1692,37 @@
    "data": "2026-10-30T20:00:00-03:00",
    "casa": "corinthians",
    "fora": "mirassol",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "33",
    "fase": "",
    "grupo": "",
    "estadio": "Neo Química Arena",
    "cidade": "São Paulo",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Bidu",
+     "minuto": "57",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kaio César",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-mirassol-e-segue-vivo-contra-rebaixamento/",
+    "https://www.metropoles.com/esportes/brasileirao-corinthians-bate-mirassol-e-volta-a-vencer-apos-11-jogos"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-10-30T22:11:00-03:00",
    "prejogo": {
     "analise": [
      "Corinthians e Mirassol fazem um duelo paulista de fundo de tabela na sexta-feira (30/10), às 20h, na Neo Química Arena, pela 33ª rodada do Brasileirão. O Corinthians chega em 18º lugar, dentro da zona de rebaixamento, com 33 pontos em 32 jogos. O Mirassol é o 15º, com 37, três acima do Grêmio, que abre o Z4 com 34. Uma vitória alvinegra encosta o time de Itaquera no adversário a seis rodadas do fim; um triunfo do Mirassol abre sete pontos de vantagem sobre o rival.",

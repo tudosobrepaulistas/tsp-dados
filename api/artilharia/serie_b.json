@@ -6,6 +6,12 @@
   "gols": 2
  },
  {
+  "jogador": "Fellipe Mateus",
+  "time": "Criciúma",
+  "time_id": 900025,
+  "gols": 2
+ },
+ {
   "jogador": "Kadu Sousa",
   "time": "Goiás",
   "time_id": 900030,
@@ -48,15 +54,15 @@
   "gols": 1
  },
  {
-  "jogador": "Eduardo Brock",
-  "time": "Novorizontino",
-  "time_id": 900021,
+  "jogador": "Diego Gonçalves",
+  "time": "Criciúma",
+  "time_id": 900025,
   "gols": 1
  },
  {
-  "jogador": "Fellipe Mateus",
-  "time": "Criciúma",
-  "time_id": 900025,
+  "jogador": "Eduardo Brock",
+  "time": "Novorizontino",
+  "time_id": 900021,
   "gols": 1
  },
  {
