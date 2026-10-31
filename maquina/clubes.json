@@ -237,10 +237,13 @@
   {
    "slug": "maua",
    "nome": "Mauá",
-   "cidade": "",
+   "cidade": "Mauá",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.dgabc.com.br",
+    "https://abcdoabc.com.br"
+   ]
   },
   {
    "slug": "mogi-mirim-ec",
