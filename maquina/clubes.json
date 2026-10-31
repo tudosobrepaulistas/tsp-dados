@@ -376,10 +376,13 @@
   {
    "slug": "votoraty",
    "nome": "Votoraty",
-   "cidade": "",
+   "cidade": "Votorantim",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.jornalcruzeiro.com.br",
+    "https://www.jornalipanema.com.br"
+   ]
   }
  ]
 }
