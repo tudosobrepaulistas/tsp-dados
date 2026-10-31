@@ -145,7 +145,8 @@
    "redes": [],
    "jornais_locais": [
     "https://tvjaguari.com.br",
-    "https://tododia.com.br"
+    "https://tododia.com.br",
+    "https://portalon.com.br/cosmopolis"
    ]
   },
   {
@@ -284,10 +285,12 @@
   {
    "slug": "paulinia",
    "nome": "Paulínia",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Paulínia",
+   "site_oficial": "http://pauliniafu.com.br/",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.paulinianews.com.br"
+   ]
   },
   {
    "slug": "ranchariense",
