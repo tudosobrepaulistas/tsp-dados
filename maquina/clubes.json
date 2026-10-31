@@ -84,9 +84,11 @@
   {
    "slug": "audax",
    "nome": "Audax",
-   "cidade": "",
-   "site_oficial": "",
-   "redes": [],
+   "cidade": "Osasco",
+   "site_oficial": "https://audaxsp.com.br",
+   "redes": [
+    "https://www.flickr.com/photos/osascoaudax/"
+   ],
    "jornais_locais": []
   },
   {
