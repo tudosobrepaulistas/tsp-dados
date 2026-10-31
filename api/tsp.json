@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T14:25:00-03:00",
+ "gerado": "2026-10-31T18:09:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3768,14 +3768,16 @@
    "obs": "Remarcado pela CBF a pedido do Coritiba",
    "fontes": [
     "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
-    "https://atarde.com.br/esportes/ecvitoria/cbf-altera-data-e-horario-de-jogo-do-vitoria-contra-o-coritiba-1406074"
+    "https://atarde.com.br/esportes/ecvitoria/cbf-altera-data-e-horario-de-jogo-do-vitoria-contra-o-coritiba-1406074",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/coritiba-x-vitoria-brasileirao-31-10-2026/",
+    "https://www.metropoles.com/esportes/coritiba-vence-o-vitoria-e-se-afasta-da-zona-de-rebaixamento-do-brasileirao"
    ],
    "fixture": {
     "id": 91000017,
     "timestamp": 1793473200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Couto Pereira",
@@ -3797,8 +3799,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -3844,7 +3846,40 @@
      "atualizado": "2026-10-31T10:24:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Pedro Rocha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Tinga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -6867,14 +6902,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/sport/com-gol-no-fim-sport-vence-criciuma-e-cola-no-g6-da-serie-b/"
+    "https://www.gazetaesportiva.com/times/sport/com-gol-no-fim-sport-vence-criciuma-e-cola-no-g6-da-serie-b/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-e-sport-empatam-e-mantem-disputa-aberta-na-serie-b/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/10/11728111-sport-empata-com-botafogo-sp-e-se-complica-na-luta-pelo-g-6-da-serie-b.html"
    ],
    "fixture": {
     "id": 91000042,
     "timestamp": 1793473200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Santa Cruz (Arena Nicnet)",
@@ -6896,8 +6933,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -6952,7 +6989,40 @@
      "atualizado": "2026-10-31T10:24:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Hygor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -7756,6 +7826,20 @@
      ],
      [
       11,
+      900012,
+      "Coritiba",
+      42,
+      33,
+      11,
+      9,
+      13,
+      -10,
+      "",
+      40,
+      50
+     ],
+     [
+      12,
       900011,
       "Botafogo",
       39,
@@ -7767,20 +7851,6 @@
       "",
       45,
       53
-     ],
-     [
-      12,
-      900012,
-      "Coritiba",
-      39,
-      32,
-      10,
-      9,
-      13,
-      -12,
-      "",
-      38,
-      50
      ],
      [
       13,
@@ -7801,14 +7871,14 @@
       900014,
       "Vitória",
       38,
-      32,
+      33,
       10,
       8,
-      14,
-      -11,
+      15,
+      -13,
       "",
       35,
-      46
+      48
      ],
      [
       15,
@@ -7988,15 +8058,15 @@
       7,
       900027,
       "Sport",
-      54,
-      35,
+      55,
+      36,
       14,
-      12,
+      13,
       9,
       9,
       "",
-      47,
-      38
+      48,
+      39
      ],
      [
       8,
@@ -8058,15 +8128,15 @@
       12,
       900032,
       "Botafogo-SP",
-      47,
-      35,
+      48,
+      36,
       13,
-      8,
+      9,
       14,
       2,
       "",
-      40,
-      38
+      41,
+      39
      ],
      [
       13,
@@ -8415,6 +8485,12 @@
     "gols": 1
    },
    {
+    "jogador": "Pedro Rocha",
+    "time": "Coritiba",
+    "time_id": 900012,
+    "gols": 1
+   },
+   {
     "jogador": "Plata",
     "time": "Flamengo",
     "time_id": 900001,
@@ -8442,6 +8518,12 @@
     "jogador": "Rodrigo Nestor",
     "time": "Bahia",
     "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Tinga",
+    "time": "Coritiba",
+    "time_id": 900012,
     "gols": 1
    }
   ],
@@ -8525,6 +8607,12 @@
     "gols": 1
    },
    {
+    "jogador": "Hygor",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
+    "gols": 1
+   },
+   {
     "jogador": "Igor Bahia",
     "time": "Londrina",
     "time_id": 900038,
@@ -8546,6 +8634,12 @@
     "jogador": "Morelli",
     "time": "Botafogo-SP",
     "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Perotti",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 1
    },
    {
