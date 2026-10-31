@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T01:52:00-03:00",
+ "gerado": "2026-10-31T10:24:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3809,10 +3809,40 @@
      "O Vitória também oscila, mas pontuou mais: venceu a Chapecoense por 4 a 0, empatou com Corinthians e Athletico-PR (ambos por 1 a 1) e perdeu para Cruzeiro (3 a 1) e São Paulo (2 a 1). Fora de casa, os dois jogos mais recentes da base foram a derrota por 2 a 1 no Morumbis e o empate por 1 a 1 em Itaquera. Na rodada passada, Renato Kayzer marcou o gol do Leão no empate com o Athletico-PR, no Barradão."
     ],
     "estadio_wiki": "Estádio Couto Pereira",
-    "atualizado": "2026-10-29T22:25:00-03:00",
+    "atualizado": "2026-10-31T10:24:00-03:00",
     "fontes": [
      "https://atarde.com.br/esportes/ecvitoria/cbf-altera-data-e-horario-de-jogo-do-vitoria-contra-o-coritiba-1406074"
-    ]
+    ],
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://atarde.com.br/esportes/ecvitoria/coritiba-x-vitoria-onde-assistir-escalacoes-e-arbitragem-1407621"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Guilherme Bossle (interino)",
+      "time": "Pedro Morisco; Tinga, Tiago Cóser, Jacy e Bruno Melo; Thiago Santos, Sebastián Gómez e Josué; Joaquín Lavega, Pedro Rocha e Paulo Roberto",
+      "desfalques": "Lucas Ronier (lesionado)",
+      "duvidas": "Tinga ou Fabrício Bustos na lateral direita; Paulo Roberto ou Breno Lopes no ataque; Nicolás Fonseca pode começar no banco com a volta de Thiago Santos"
+     },
+     "fora": {
+      "tecnico": "Jair Ventura",
+      "time": "Lucas Arcanjo; Brítez, Cacá, Darlan Dutra e Wanderson; Caíque e Martínez; Erick, Matheuzinho e Tarzia; Renê",
+      "desfalques": "Mateus Silva, Dudu, Nathan Mendes, Fabiano e Ramon (lesionados), Jamerson (questão contratual), Luan Cândido e Marinho (suspensos)",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://www.bandab.com.br/esporte/times/coritiba/coritiba-x-vitoria-provavel-coxa-brasileirao-2026/",
+      "https://atarde.com.br/esportes/ecvitoria/coritiba-x-vitoria-onde-assistir-escalacoes-e-arbitragem-1407621"
+     ],
+     "atualizado": "2026-10-31T10:24:00-03:00"
+    }
    },
    "events": []
   },
@@ -6885,7 +6915,42 @@
      "https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-rebaixamento-na-reta-final/",
      "https://www.bahianoticias.com.br/esportes/noticia/77999-playoffs-da-serie-b-2026-como-funciona-a-nova-disputa-pelo-acesso"
     ],
-    "atualizado": "2026-10-29T19:12:00-03:00"
+    "atualizado": "2026-10-31T10:24:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "ESPN 4",
+       "tipo": "tv fechada"
+      }
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/times/sport/botafogo-sp-x-sport-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/",
+      "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/10/amp/11728077-botafogo-sp-x-sport-onde-assistir-horario-e-escalacoes-pela-36-rodada-da-serie-b.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Cláudio Tencati",
+      "time": "Victor Souza; Gabriel Inocêncio, Jonathan, Darlan, Vilar e Patrick Brey; Leandro Maciel, Morelli e Rafael Gava; Zé Hugo e Hygor",
+      "desfalques": "",
+      "duvidas": ""
+     },
+     "fora": {
+      "tecnico": "Mariano Soso",
+      "time": "Thiago Couto; Claudinho, Marcelo Benevenuto, Habraão e Raí Lopes; William Oliveira, Patrick de Paula e Biel; Diego Hernández, Barletta e Perotti",
+      "desfalques": "",
+      "duvidas": "Marcelo Ajul (volta de suspensão e disputa a vaga com Habraão); Clayson e Neto Pessoa também aparecem como opções"
+     },
+     "fontes": [
+      "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/10/amp/11728077-botafogo-sp-x-sport-onde-assistir-horario-e-escalacoes-pela-36-rodada-da-serie-b.html",
+      "https://www.gazetaesportiva.com/times/sport/botafogo-sp-x-sport-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/"
+     ],
+     "atualizado": "2026-10-31T10:24:00-03:00"
+    }
    },
    "events": []
   },
