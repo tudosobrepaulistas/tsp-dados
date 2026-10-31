@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T18:09:00-03:00",
+ "gerado": "2026-10-31T20:10:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7030,14 +7030,16 @@
    "obs": "Horário alterado pela CBF para 17h30",
    "fontes": [
     "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
-    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-juventude-onde-assistir-escalacoes-e-arbitragem,50b3be5c1caf09369776c5fad75062d6miohbn3a.html"
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-juventude-onde-assistir-escalacoes-e-arbitragem,50b3be5c1caf09369776c5fad75062d6miohbn3a.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-busca-empate-contra-o-vila-nova-e-segue-na-lideranca-da-serie-b/",
+    "https://ohoje.com/2026/10/31/vila-nova-empata-com-juventude-no-oba-e-ve-rival-assumir-lideranca-da-serie-b/"
    ],
    "fixture": {
     "id": 91000043,
     "timestamp": 1793478600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "OBA (Onésio Brasileiro Alvarenga)",
@@ -7059,8 +7061,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -7111,7 +7113,72 @@
      "atualizado": "2026-10-31T12:24:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Janderson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Lucas Alves"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Dudu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Alisson Safira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -7972,6 +8039,20 @@
     [
      [
       1,
+      900022,
+      "Juventude",
+      65,
+      36,
+      18,
+      11,
+      7,
+      22,
+      "",
+      47,
+      25
+     ],
+     [
+      2,
       900021,
       "Novorizontino",
       64,
@@ -7985,32 +8066,18 @@
       30
      ],
      [
-      2,
-      900022,
-      "Juventude",
-      64,
-      35,
-      18,
-      10,
-      7,
-      22,
-      "",
-      45,
-      23
-     ],
-     [
       3,
       900023,
       "Vila Nova",
-      62,
-      35,
+      63,
+      36,
       18,
-      8,
+      9,
       9,
       14,
       "",
-      50,
-      36
+      52,
+      38
      ],
      [
       4,
@@ -8553,6 +8620,12 @@
     "gols": 1
    },
    {
+    "jogador": "Alisson Safira",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 1
+   },
+   {
     "jogador": "Amarilla",
     "time": "Juventude",
     "time_id": 900022,
@@ -8589,6 +8662,12 @@
     "gols": 1
    },
    {
+    "jogador": "Dudu",
+    "time": "Vila Nova",
+    "time_id": 900023,
+    "gols": 1
+   },
+   {
     "jogador": "Eduardo Brock",
     "time": "Novorizontino",
     "time_id": 900021,
@@ -8619,9 +8698,21 @@
     "gols": 1
    },
    {
+    "jogador": "Janderson",
+    "time": "Vila Nova",
+    "time_id": 900023,
+    "gols": 1
+   },
+   {
     "jogador": "Leandro Maciel",
     "time": "Botafogo-SP",
     "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucas Alves",
+    "time": "Juventude",
+    "time_id": 900022,
     "gols": 1
    },
    {

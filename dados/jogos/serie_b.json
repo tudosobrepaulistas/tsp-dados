@@ -1473,23 +1473,50 @@
    "data": "2026-10-31T17:30:00-03:00",
    "casa": "vila-nova",
    "fora": "juventude",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "OBA (Onésio Brasileiro Alvarenga)",
    "cidade": "Goiânia",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Janderson",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lucas Alves",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Dudu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Alisson Safira",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "Horário alterado pela CBF para 17h30",
    "fontes": [
     "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
-    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-juventude-onde-assistir-escalacoes-e-arbitragem,50b3be5c1caf09369776c5fad75062d6miohbn3a.html"
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-juventude-onde-assistir-escalacoes-e-arbitragem,50b3be5c1caf09369776c5fad75062d6miohbn3a.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-busca-empate-contra-o-vila-nova-e-segue-na-lideranca-da-serie-b/",
+    "https://ohoje.com/2026/10/31/vila-nova-empata-com-juventude-no-oba-e-ve-rival-assumir-lideranca-da-serie-b/"
    ],
-   "atualizado": "2026-10-31T12:24:00-03:00",
+   "atualizado": "2026-10-31T20:10:00-03:00",
    "prejogo": {
     "analise": [
      "Vila Nova e Juventude fazem no sábado (31/10), às 17h30, no OBA, em Goiânia, o confronto direto mais importante da 36ª rodada da Série B. O Juventude divide a liderança com o Novorizontino, ambos com 64 pontos; o Vila Nova é o 3º, com 62, e uma vitória em casa o colocaria à frente do adversário. Pelo regulamento de 2026, só os dois primeiros sobem direto para a Série A, e quem termina entre 3º e 6º vai aos playoffs. Restam três rodadas.",
