@@ -213,10 +213,12 @@
   {
    "slug": "manthiqueira",
    "nome": "Manthiqueira",
-   "cidade": "",
+   "cidade": "Guaratinguetá",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.band.com.br/band-vale"
+   ]
   },
   {
    "slug": "matonense",
@@ -368,10 +370,12 @@
   {
    "slug": "tupa",
    "nome": "Tupã",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Tupã",
+   "site_oficial": "https://tupafc.com.br/",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.radiotupa.com.br/"
+   ]
   },
   {
    "slug": "uniao-mogi",
