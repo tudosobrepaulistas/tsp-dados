@@ -342,10 +342,13 @@
   {
    "slug": "sao-carlos",
    "nome": "São Carlos",
-   "cidade": "",
+   "cidade": "São Carlos",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.saocarlosagora.com.br/esportes/",
+    "https://jornalpp.com.br/"
+   ]
   },
   {
    "slug": "sfera-fc",
