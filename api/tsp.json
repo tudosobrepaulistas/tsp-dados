@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T10:24:00-03:00",
+ "gerado": "2026-10-31T12:24:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -6957,13 +6957,14 @@
   {
    "liga": "serie_b",
    "temporada": 2026,
-   "obs": "",
+   "obs": "Horário alterado pela CBF para 17h30",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/"
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-juventude-onde-assistir-escalacoes-e-arbitragem,50b3be5c1caf09369776c5fad75062d6miohbn3a.html"
    ],
    "fixture": {
     "id": 91000043,
-    "timestamp": 1793480400,
+    "timestamp": 1793478600,
     "status": {
      "short": "NS",
      "elapsed": null
@@ -6994,7 +6995,7 @@
    "penaltis": "",
    "prejogo": {
     "analise": [
-     "Vila Nova e Juventude fazem no sábado (31/10), às 18h, no OBA, em Goiânia, o confronto direto mais importante da 36ª rodada da Série B. O Juventude divide a liderança com o Novorizontino, ambos com 64 pontos; o Vila Nova é o 3º, com 62, e uma vitória em casa o colocaria à frente do adversário. Pelo regulamento de 2026, só os dois primeiros sobem direto para a Série A, e quem termina entre 3º e 6º vai aos playoffs. Restam três rodadas.",
+     "Vila Nova e Juventude fazem no sábado (31/10), às 17h30, no OBA, em Goiânia, o confronto direto mais importante da 36ª rodada da Série B. O Juventude divide a liderança com o Novorizontino, ambos com 64 pontos; o Vila Nova é o 3º, com 62, e uma vitória em casa o colocaria à frente do adversário. Pelo regulamento de 2026, só os dois primeiros sobem direto para a Série A, e quem termina entre 3º e 6º vai aos playoffs. Restam três rodadas.",
      "O Vila Nova perdeu a liderança no sábado (24/10), ao sofrer a virada por 3 a 2 do São Bernardo nos acréscimos, no ABC. Nos cinco jogos mais recentes da Base TSP, o time de Guto Ferreira venceu dois, empatou dois e perdeu um. Em casa, os dois últimos jogos terminaram empatados: 0 a 0 com o Cuiabá e 2 a 2 com o Novorizontino.",
      "O Juventude chega invicto nos últimos cinco jogos, com três vitórias e dois empates, e tem a defesa menos vazada do campeonato, com 23 gols sofridos em 35 rodadas. Fora de casa, venceu a Ponte Preta por 2 a 0 e empatou por 2 a 2 com o Ceará, em Fortaleza. Na segunda-feira (26/10), goleou o Náutico por 4 a 0, com gols de Fábio Lima, Raí, Aderlan e Amarilla, e alcançou o Novorizontino na ponta.",
      "Antes da 35ª rodada, levantamento citado pelo TNH1 apontava o Vila Nova como o time com maior chance de acesso direto (cerca de 63%), à frente de Novorizontino (54%) e Juventude (38%). A derrota em São Bernardo e a goleada do Juventude mudaram o cenário a três rodadas do fim."
@@ -7007,7 +7008,38 @@
      "https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-rebaixamento-na-reta-final/",
      "https://www.bahianoticias.com.br/esportes/noticia/77999-playoffs-da-serie-b-2026-como-funciona-a-nova-disputa-pelo-acesso"
     ],
-    "atualizado": "2026-10-29T19:16:00-03:00"
+    "atualizado": "2026-10-31T12:24:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-juventude-onde-assistir-escalacoes-e-arbitragem,50b3be5c1caf09369776c5fad75062d6miohbn3a.html",
+      "https://www.gazetaesportiva.com/futebol/vila-nova-x-juventude-veja-as-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Guto Ferreira",
+      "time": "Helton Leite; Igor Cariús, Jonathan Costa, Douglas Mendes e Higor; Dudu, João Vieira e Marquinhos Gabriel; Everton Galdino, André Luís e Janderson",
+      "desfalques": "Hayner (expulso)",
+      "duvidas": "Dudu, que volta de lesão muscular, ou Higor Meritão no meio-campo"
+     },
+     "fora": {
+      "tecnico": "Maurício Barbieri",
+      "time": "Jandrei; Rodrigo Sam, Messias e Titi; Aderlan, Gabriel Pires, Raí Silva e Diogo Barbosa; Marcos Paulo, Luis Amarilla e Alisson Safira",
+      "desfalques": "Gabriel Pinheiro e Fábio Lima (suspensos, 3º amarelo)",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-juventude-onde-assistir-escalacoes-e-arbitragem,50b3be5c1caf09369776c5fad75062d6miohbn3a.html",
+      "https://www.gazetaesportiva.com/futebol/vila-nova-x-juventude-veja-as-provaveis-escalacoes-e-onde-assistir-ao-jogo-pela-serie-b/"
+     ],
+     "atualizado": "2026-10-31T12:24:00-03:00"
+    }
    },
    "events": []
   },
