@@ -223,10 +223,13 @@
   {
    "slug": "matonense",
    "nome": "Matonense",
-   "cidade": "",
+   "cidade": "Matão",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://acomarcanet.com.br/",
+    "https://www.falamatao.com.br/"
+   ]
   },
   {
    "slug": "mauaense",
