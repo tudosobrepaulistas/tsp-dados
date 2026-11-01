@@ -386,10 +386,13 @@
   {
    "slug": "uniao-mogi",
    "nome": "União Mogi",
-   "cidade": "",
+   "cidade": "Mogi das Cruzes",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.odiariodemogi.net.br",
+    "https://www.moginews.com.br"
+   ]
   },
   {
    "slug": "votoraty",
