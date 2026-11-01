@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T18:11:00-03:00",
+ "gerado": "2026-11-01T18:24:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7333,14 +7333,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/",
+    "https://placar.com.br/brasileirao/america-mg-aproveita-falhas-bate-londrina-por-3-a-1-pela-serie-b/",
+    "https://www.otempo.com.br/sports/america/2026/11/1/america-conquista-3-vitoria-seguida-pela-primeira-vez-na-serie-b-ao-bater-o-londrina"
    ],
    "fixture": {
     "id": 91000045,
     "timestamp": 1793559600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Vitorino Gonçalves Dias (VGD)",
@@ -7362,8 +7364,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 3
    },
    "penaltis": "",
    "prejogo": {
@@ -7415,7 +7417,72 @@
      "atualizado": "2026-11-01T10:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Artur"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Willian"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Segovinha"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 64,
+      "extra": null,
+      "texto": "64"
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Herbert"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -8517,28 +8584,28 @@
       900038,
       "Londrina",
       32,
-      35,
+      36,
       8,
       8,
-      19,
-      -7,
+      20,
+      -9,
       "",
-      44,
-      51
+      45,
+      54
      ],
      [
       19,
       900039,
       "América-MG",
-      23,
-      35,
-      6,
+      26,
+      36,
+      7,
       5,
       24,
-      -31,
+      -29,
       "",
-      23,
-      54
+      26,
+      55
      ],
      [
       20,
@@ -8851,6 +8918,12 @@
     "gols": 2
    },
    {
+    "jogador": "Segovinha",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 2
+   },
+   {
     "jogador": "Aderlan",
     "time": "Juventude",
     "time_id": 900022,
@@ -8929,6 +9002,12 @@
     "gols": 1
    },
    {
+    "jogador": "Herbert",
+    "time": "Londrina",
+    "time_id": 900038,
+    "gols": 1
+   },
+   {
     "jogador": "Hygor",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -8989,7 +9068,7 @@
     "gols": 1
    },
    {
-    "jogador": "Segovinha",
+    "jogador": "Willian",
     "time": "América-MG",
     "time_id": 900039,
     "gols": 1

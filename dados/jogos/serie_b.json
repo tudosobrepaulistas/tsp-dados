@@ -1658,22 +1658,49 @@
    "data": "2026-11-01T16:00:00-03:00",
    "casa": "londrina",
    "fora": "america-mg",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Vitorino Gonçalves Dias (VGD)",
    "cidade": "Londrina",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 3,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Artur",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Willian",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Segovinha",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Herbert",
+     "minuto": "64",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/",
+    "https://placar.com.br/brasileirao/america-mg-aproveita-falhas-bate-londrina-por-3-a-1-pela-serie-b/",
+    "https://www.otempo.com.br/sports/america/2026/11/1/america-conquista-3-vitoria-seguida-pela-primeira-vez-na-serie-b-ao-bater-o-londrina"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-01T18:24:00-03:00",
    "prejogo": {
     "analise": [
      "Londrina e América-MG se enfrentam no domingo (1º/11), às 16h, no Estádio VGD, em Londrina, pela 36ª rodada da Série B, num duelo entre dois times já rebaixados para a Série C. O Londrina, 18º com 32 pontos, teve a queda confirmada na derrota para o CRB, no sábado (24/10): com três jogos por fazer, chega no máximo a 41 pontos, segundo o TNH1. O América-MG, 19º com 23, e a Ponte Preta, lanterna, já estavam matematicamente rebaixados.",
