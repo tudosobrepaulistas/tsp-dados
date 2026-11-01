@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T06:14-03:00",
+ "gerado": "2026-11-01T11:10-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -273,6 +273,13 @@
    "quando": "2026-11-01T06:14-03:00",
    "motivo": "Busca não trouxe notícia recente; só agregadores e Wikipédia",
    "sugestao": "Consultar O Regional (Catanduva) sobre o Grêmio Catanduvense e planos para 2027"
+  },
+  {
+   "clube": "santacruzense",
+   "nome": "Santacruzense",
+   "quando": "2026-11-01T11:10-03:00",
+   "motivo": "Sem notícia recente nas fontes acessíveis (temporada encerrada) e histórico disponível só em wikis, sem fonte jornalística para cruzar",
+   "sugestao": "Perfil histórico da Esportiva Santacruzense (fundada em 1931, Estádio Leônidas Camarinha, mascote locomotiva), conferindo datas e o título de 1962 com a FPF ou o jornal Debate de Santa Cruz do Rio Pardo"
   }
  ]
 }
