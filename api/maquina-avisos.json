@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T21:17-03:00",
+ "gerado": "2026-10-31T21:25-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -203,6 +203,34 @@
    "quando": "2026-10-31T21:17-03:00",
    "motivo": "Sem notícia recente (clube fora de temporada) e sem fonte jornalística para tema histórico; buscas só trazem Wikipédia e bases de estatística proibidas",
    "sugestao": "Perfil do Clube Atlético Assisense: fundação, estádio em Assis e campanhas na Bezinha, com entrevista da diretoria e matérias da imprensa de Assis (Jornal da Segunda, Voz da Terra)"
+  },
+  {
+   "clube": "paulinense",
+   "nome": "Paulinense",
+   "quando": "2026-10-31T21:19-03:00",
+   "motivo": "Sem notícia recente e sem fonte jornalística para tema histórico (buscas não trazem nada sobre o clube fora da cobertura do próprio TSP)",
+   "sugestao": "Balanço da campanha histórica do Paulinense nas quartas da Bezinha 2026 com entrevista do presidente e planos para 2027 (elenco, técnico, Copinha)"
+  },
+  {
+   "clube": "santacruzense",
+   "nome": "Santacruzense",
+   "quando": "2026-10-31T21:24-03:00",
+   "motivo": "Sem notícia recente; história só na Wikipédia (título da A3 de 1962 sem segunda fonte) e site do Palmeiras bloqueia leitura automática",
+   "sugestao": "Os 95 anos da Santacruzense (fundada em 25/1/1931) e o título de 1962, com consulta ao jornal Debate e à FPF"
+  },
+  {
+   "clube": "paulinia",
+   "nome": "Paulínia",
+   "quando": "2026-10-31T21:24-03:00",
+   "motivo": "Sem notícia recente; site oficial (pauliniafu.com.br) não pôde ser lido e buscas não trazem matérias sobre o clube",
+   "sugestao": "Planos do Paulínia FC para 2027 (Bezinha e Copinha), com entrevista da diretoria"
+  },
+  {
+   "clube": "ad-guarulhos",
+   "nome": "AD Guarulhos",
+   "quando": "2026-10-31T21:25-03:00",
+   "motivo": "Sem notícia recente e sem fonte jornalística para tema histórico (só Wikipédia e bases de estatística proibidas)",
+   "sugestao": "Perfil da AD Guarulhos: fundação, onde manda os jogos e campanha na Bezinha 2026, com entrevista da diretoria"
   }
  ]
 }
