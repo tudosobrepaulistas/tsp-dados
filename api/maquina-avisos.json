@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T21:25-03:00",
+ "gerado": "2026-11-01T06:14-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -231,6 +231,48 @@
    "quando": "2026-10-31T21:25-03:00",
    "motivo": "Sem notícia recente e sem fonte jornalística para tema histórico (só Wikipédia e bases de estatística proibidas)",
    "sugestao": "Perfil da AD Guarulhos: fundação, onde manda os jogos e campanha na Bezinha 2026, com entrevista da diretoria"
+  },
+  {
+   "clube": "manthiqueira",
+   "nome": "Manthiqueira",
+   "quando": "2026-11-01T06:14-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; Band Vale (única fonte local) não abriu e história (fundação 2005, título A4 2017) só achada na Wikipédia",
+   "sugestao": "Perfil histórico do Manthiqueira (Carrossel do Vale): fundação, mudança para Guaratinguetá em 2010 e título de 2017, conferindo com FPF/Band Vale"
+  },
+  {
+   "clube": "paulinia",
+   "nome": "Paulínia",
+   "quando": "2026-11-01T06:14-03:00",
+   "motivo": "Últimas notícias (João Vitor na Ponte Preta em 17/10, João Victor no Lemense em 24/10) passam de 7 dias e só têm 1 fonte (Paulínia News)",
+   "sugestao": "Ex-jogadores do Paulínia FU em clubes maiores: zagueiro João Vitor assinou com a Ponte Preta até jan/2027 (confirmar no site da Ponte)"
+  },
+  {
+   "clube": "santacruzense",
+   "nome": "Santacruzense",
+   "quando": "2026-11-01T06:14-03:00",
+   "motivo": "Busca não trouxe notícia recente nem fonte local confiável",
+   "sugestao": "Mapear jornal de Santa Cruz do Rio Pardo e redes oficiais do clube; planejamento para a Bezinha 2027"
+  },
+  {
+   "clube": "assisense",
+   "nome": "Assisense",
+   "quando": "2026-11-01T06:14-03:00",
+   "motivo": "Busca não trouxe notícia recente nem fonte local confiável",
+   "sugestao": "Mapear jornais de Assis (ex.: Voz da Terra) e redes do Assisense; planejamento 2027"
+  },
+  {
+   "clube": "ad-guarulhos",
+   "nome": "AD Guarulhos",
+   "quando": "2026-11-01T06:14-03:00",
+   "motivo": "Busca não trouxe notícia recente; só agregadores e Wikipédia",
+   "sugestao": "Conferir redes oficiais da AD Guarulhos e jornais de Guarulhos (Guarulhos Hoje) sobre 2027"
+  },
+  {
+   "clube": "gremiocatanduvense",
+   "nome": "Grêmio Catanduvense",
+   "quando": "2026-11-01T06:14-03:00",
+   "motivo": "Busca não trouxe notícia recente; só agregadores e Wikipédia",
+   "sugestao": "Consultar O Regional (Catanduva) sobre o Grêmio Catanduvense e planos para 2027"
   }
  ]
 }
