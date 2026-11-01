@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T01:54:00-03:00",
+ "gerado": "2026-11-01T10:25:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7378,7 +7378,42 @@
      "https://www.tnh1.com.br/noticia/nid/crb-vence-londrina-entra-no-g-6-e-rebaixa-o-tubarao-para-a-serie-c/",
      "https://www.gazetaesportiva.com/?p=3821050"
     ],
-    "atualizado": "2026-10-29T19:18:00-03:00"
+    "atualizado": "2026-11-01T10:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "ESPN",
+       "tipo": "TV fechada"
+      }
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/londrina-x-america-mg-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,605dae0aa73ff63d22d7d74c56a9c184ak2k9cli.html",
+      "https://www.otempo.com.br/sports/america/2026/10/31/londrina-x-america-pela-serie-b-onde-assistir-ao-vivo-provaveis-escalacoes-e-mais"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Hugo Chacon",
+      "time": "Luan Ribeiro; Kauê Leonardo, Caio Rodrigues, Wallace Reis e Heron; Tárik, Geovane Santana e Guilherme Portuga; Vitinho, Herbert e Igor Bahia",
+      "desfalques": "",
+      "duvidas": "Heron ou Artur na lateral esquerda; Herbert ou Gilberto no ataque"
+     },
+     "fora": {
+      "tecnico": "Moacir Júnior",
+      "time": "Bruno Brígido; Rafa Barcelos, Ricardo Silva, Emerson Santos e Tobias Ostchega; Jorge Jiménez, Gustavo Barreto e Matías Segovia; Paulo Victor, Guilherme Parede e Willian Bigode",
+      "desfalques": "",
+      "duvidas": "Fernando Amaral ou Jorge Jiménez no meio-campo"
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/londrina-x-america-mg-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,605dae0aa73ff63d22d7d74c56a9c184ak2k9cli.html",
+      "https://www.otempo.com.br/sports/america/2026/10/31/londrina-x-america-pela-serie-b-onde-assistir-ao-vivo-provaveis-escalacoes-e-mais"
+     ],
+     "atualizado": "2026-11-01T10:25:00-03:00"
+    }
    },
    "events": []
   },
@@ -7753,7 +7788,26 @@
      "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-vira-sobre-palmeiras-vence-primeira-no-brasileirao-e-quebra-tabus/",
      "https://www.opovo.com.br/esportes/2026/08/24/palmeiras-goleia-vasco-e-volta-a-abrir-frente-no-brasileirao-4-a-1.html"
     ],
-    "atualizado": "2026-10-29T19:37:00-03:00"
+    "atualizado": "2026-11-01T10:25:00-03:00",
+    "provaveis": {
+     "casa": {
+      "tecnico": "Abel Ferreira",
+      "time": "Carlos Miguel; Gustavo Gómez, Murilo e Barboza; Giay, Marlon Freitas, Lucas Evangelista, Andreas Pereira e Piquerez; Jhon Arias e Flaco López",
+      "desfalques": "Paulinho e Ramón Sosa (lesionados) e Jefté (suspenso preventivamente por caso de antidoping)",
+      "duvidas": "Vitor Roque, recuperado de entorse no tornozelo, pode começar como titular"
+     },
+     "fora": {
+      "tecnico": "Pedro Emanuel",
+      "time": "Léo Jardim; Paulo Henrique, Saldivia, Robert Renan e Lucas Piton; Santiago Sosa, Thiago Mendes e Alan Lescano; Hinestroza, Bruno Duarte e David",
+      "desfalques": "Andrés Gómez (dores no pé esquerdo)",
+      "duvidas": "Cuiabano ou Lucas Piton na lateral esquerda; Hinestroza, Adson ou Colidio no ataque; Brenner pode entrar no lugar de Bruno Duarte"
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/palmeiras-x-vasco-onde-assistir-ao-vivo-historico-e-escalacoes-pela-copa-do-brasil,aa2dbf70a5f662bc643bbd56c11238d3fdere2et.html",
+      "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/palmeiras-e-vasco-abrem-semifinais-da-copa-do-brasil-em-momentos-distintos/"
+     ],
+     "atualizado": "2026-11-01T10:25:00-03:00"
+    }
    },
    "events": []
   },
