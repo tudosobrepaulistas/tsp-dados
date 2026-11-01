@@ -5,22 +5,31 @@
    "data": "2026-11-01T16:00:00-03:00",
    "casa": "palmeiras",
    "fora": "vasco",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "",
    "fase": "Semifinal - ida",
    "grupo": "",
    "estadio": "Nubank Parque",
    "cidade": "São Paulo",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Maurício",
+     "minuto": "23",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/?p=3876942"
+    "https://www.gazetaesportiva.com/?p=3876942",
+    "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-vasco-semifinal-copa-do-brasil-2026/",
+    "https://atarde.com.br/esportes/palmeiras-vence-e-sai-na-frente-na-semifinal-da-copa-do-brasil-1407951"
    ],
-   "atualizado": "2026-10-29T01:53:00-03:00",
+   "atualizado": "2026-11-01T18:11:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [

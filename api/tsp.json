@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T13:26:00-03:00",
+ "gerado": "2026-11-01T18:11:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7779,14 +7779,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/?p=3876942"
+    "https://www.gazetaesportiva.com/?p=3876942",
+    "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-vasco-semifinal-copa-do-brasil-2026/",
+    "https://atarde.com.br/esportes/palmeiras-vence-e-sai-na-frente-na-semifinal-da-copa-do-brasil-1407951"
    ],
    "fixture": {
     "id": 91000130,
     "timestamp": 1793559600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Nubank Parque",
@@ -7808,8 +7810,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -7880,7 +7882,24 @@
      "atualizado": "2026-11-01T10:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 23,
+      "extra": null,
+      "texto": "23"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Maurício"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -8973,6 +8992,14 @@
     "jogador": "Segovinha",
     "time": "América-MG",
     "time_id": 900039,
+    "gols": 1
+   }
+  ],
+  "copa_do_brasil": [
+   {
+    "jogador": "Maurício",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 1
    }
   ]
