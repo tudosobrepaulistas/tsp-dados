@@ -1571,22 +1571,31 @@
    "data": "2026-10-31T19:30:00-03:00",
    "casa": "nautico",
    "fora": "avai",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Aflitos",
    "cidade": "Recife",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Borasi",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/"
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
+    "https://www.gazetaesportiva.com/times/nautico/nautico-vence-o-avai-e-garante-permanencia-na-serie-b/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/10/11728116-nautico-vence-o-avai-nos-aflitos-e-garante-permanencia-matematica-na-serie-b.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-10-31T22:09:00-03:00",
    "prejogo": {
     "analise": [
      "Náutico e Avaí fazem no sábado (31/10), às 19h30, nos Aflitos, em Recife, um jogo decisivo na luta contra o rebaixamento da Série B. O Avaí é o 17º, com 37 pontos, o primeiro dentro da zona de rebaixamento, seis atrás de Náutico e Ceará, que somam 43. Com nove pontos em disputa, o time catarinense só pode chegar a 46 e precisa vencer para seguir vivo. Para o Náutico, a vitória praticamente afasta o risco de queda.",

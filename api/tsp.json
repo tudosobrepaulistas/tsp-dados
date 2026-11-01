@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T20:25:00-03:00",
+ "gerado": "2026-10-31T22:09:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7201,14 +7201,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/"
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
+    "https://www.gazetaesportiva.com/times/nautico/nautico-vence-o-avai-e-garante-permanencia-na-serie-b/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/10/11728116-nautico-vence-o-avai-nos-aflitos-e-garante-permanencia-matematica-na-serie-b.html"
    ],
    "fixture": {
     "id": 91000044,
     "timestamp": 1793485800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Aflitos",
@@ -7230,8 +7232,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -7290,7 +7292,24 @@
     },
     "estadio_wiki": "Estádio dos Aflitos"
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Borasi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -8237,6 +8256,20 @@
      ],
      [
       14,
+      900036,
+      "Náutico",
+      46,
+      36,
+      12,
+      10,
+      14,
+      -6,
+      "",
+      40,
+      46
+     ],
+     [
+      15,
       900034,
       "Athletic",
       44,
@@ -8248,20 +8281,6 @@
       "",
       40,
       40
-     ],
-     [
-      15,
-      900036,
-      "Náutico",
-      43,
-      35,
-      11,
-      10,
-      14,
-      -7,
-      "",
-      39,
-      46
      ],
      [
       16,
@@ -8282,14 +8301,14 @@
       900037,
       "Avaí",
       37,
-      35,
+      36,
       10,
       7,
-      18,
-      -12,
+      19,
+      -13,
       "",
       33,
-      45
+      46
      ],
      [
       18,
@@ -8645,6 +8664,12 @@
     "jogador": "Amarilla",
     "time": "Juventude",
     "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Borasi",
+    "time": "Náutico",
+    "time_id": 900036,
     "gols": 1
    },
    {
