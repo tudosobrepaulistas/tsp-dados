@@ -332,16 +332,19 @@
   {
    "slug": "riopretano",
    "nome": "Riopretano",
-   "cidade": "",
+   "cidade": "São José do Rio Preto",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.diariodaregiao.com.br",
+    "https://www.dhoje.com.br"
+   ]
   },
   {
    "slug": "santacruzense",
    "nome": "Santacruzense",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Santa Cruz do Rio Pardo",
+   "site_oficial": "http://www.esportivasantacruz.com.br",
    "redes": [],
    "jornais_locais": []
   },

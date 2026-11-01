@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T16:23-03:00",
+ "gerado": "2026-11-01T16:27-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -294,6 +294,27 @@
    "quando": "2026-11-01T16:23-03:00",
    "motivo": "Sem notícia nova confirmada nos últimos 7 dias; histórico disponível é fino e com datas conflitantes (fundação 1999 x 2004).",
    "sugestao": "Ligar para o presidente Sérgio Gomes sobre o planejamento de 2027 (Pinho e Nei Silva) e o elenco para a Segunda Divisão."
+  },
+  {
+   "clube": "ad-guarulhos",
+   "nome": "AD Guarulhos",
+   "quando": "2026-11-01T16:26-03:00",
+   "motivo": "Sem notícia nova confirmada nos últimos 7 dias; documentário 'Vai Guarulhos' só tem 1 fonte (Guarulhos Hoje, 2021).",
+   "sugestao": "Procurar a diretoria da AD Guarulhos sobre a perda de pontos no TJD e o planejamento para a Segunda Divisão de 2027; ou entrevistar o diretor Fabrício Gallinucci sobre o filme 'Vai Guarulhos'."
+  },
+  {
+   "clube": "riopretano",
+   "nome": "Riopretano",
+   "quando": "2026-11-01T16:27-03:00",
+   "motivo": "Única novidade recente (contratação do jovem Wellington Gabriel, 16 anos, para o sub-20) só tem 1 fonte (O Defensor, 27/10).",
+   "sugestao": "Confirmar com o Riopretano FC (presidente Benjamin Castro Lima Neto ou o diretor Pinho) a contratação de Wellington Gabriel e o planejamento para 2027."
+  },
+  {
+   "clube": "santacruzense",
+   "nome": "Santacruzense",
+   "quando": "2026-11-01T16:27-03:00",
+   "motivo": "Sem notícia nova nos últimos 7 dias; título da Segunda Divisão de 1962 só aparece em blog e Wikipédia, com data de fundação conflitante (1931 x 1935).",
+   "sugestao": "Pedir ao clube ou ao jornal local de Santa Cruz do Rio Pardo material sobre o título de 1962 e o acesso à elite (1963-1967); ou balanço da campanha no Paulista Sub-17 2026."
   }
  ]
 }
