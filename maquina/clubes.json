@@ -200,10 +200,14 @@
   {
    "slug": "itaquaquecetuba",
    "nome": "Itaquaquecetuba",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Itaquaquecetuba",
+   "site_oficial": "https://www.iacoficial.com/",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://portalgazetaregional.com.br",
+    "https://www.odiariodemogi.net.br",
+    "https://www.itaquareporter.com.br"
+   ]
   },
   {
    "slug": "josebonifacio",
