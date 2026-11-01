@@ -54,10 +54,13 @@
   {
    "slug": "assisense",
    "nome": "Assisense",
-   "cidade": "",
+   "cidade": "Assis",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.assiscity.com",
+    "https://www.jornaldasegunda.com.br"
+   ]
   },
   {
    "slug": "aster-itaqua",
