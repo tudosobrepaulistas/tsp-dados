@@ -115,10 +115,12 @@
   {
    "slug": "batatais",
    "nome": "Batatais",
-   "cidade": "",
+   "cidade": "Batatais",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://batatais24h.com.br"
+   ]
   },
   {
    "slug": "centro-olimpico",
