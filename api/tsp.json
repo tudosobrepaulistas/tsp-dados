@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31T22:28:00-03:00",
+ "gerado": "2026-11-01T01:54:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7755,6 +7755,47 @@
     ],
     "atualizado": "2026-10-29T19:37:00-03:00"
    },
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4349338/cbf-define-datas-e-horarios-das-semifinais-da-copa-do-brasil"
+   ],
+   "fixture": {
+    "id": 91000133,
+    "timestamp": 1794168000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
    "events": []
   },
   {
