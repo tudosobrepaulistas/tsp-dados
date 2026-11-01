@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T10:25:00-03:00",
+ "gerado": "2026-11-01T13:26:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7470,7 +7470,42 @@
      "https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-rebaixamento-na-reta-final/",
      "https://www.bahianoticias.com.br/esportes/noticia/77999-playoffs-da-serie-b-2026-como-funciona-a-nova-disputa-pelo-acesso"
     ],
-    "atualizado": "2026-10-29T19:12:00-03:00"
+    "atualizado": "2026-11-01T13:26:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "ESPN",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.futebolinterior.com.br/novorizontino-e-operario-pr-serie-b/",
+      "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/novorizontino-x-operario-onde-assistir-escalacoes-e-arbitragem,411581fc06ae7903466c91a01bc5e5f5ett7ro2t.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Enderson Moreira",
+      "time": "Jordi; Madson, Carlinhos, Patrick e Sander; Matheus Bianqui, Luís Oyama e Rômulo; Nicolas Careca, Carlão e Reidiney",
+      "desfalques": "",
+      "duvidas": "Maykon Jesus volta de suspensão; Eduardo Brock deve começar no banco"
+     },
+     "fora": {
+      "tecnico": "Alberto Valentim",
+      "time": "Elias; Maguinho, Cuenú, Joseph e Gabriel Feliciano; Índio, Vinícius Diniz, Brenno, Moraes e Dudu Mosconi; Caio Dantas",
+      "desfalques": "Berto (suspenso, terceiro amarelo)",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://www.futebolinterior.com.br/novorizontino-e-operario-pr-serie-b/",
+      "https://www.terra.com.br/esportes/operario-pr/novorizontino-x-operario-pr-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,3fd4d6f5817387d2a3f0c8719e7f195fs6oihm8d.html"
+     ],
+     "atualizado": "2026-11-01T13:26:00-03:00"
+    }
    },
    "events": []
   },
@@ -7526,7 +7561,43 @@
      "https://www.dgabc.com.br/Noticia/4354280/vinicius-bergantin-projeta-triunfo-do-sao-bernardo-fc-contra-o-lider-vila-nova-go",
      "https://www.gazetaesportiva.com/?p=3820541"
     ],
-    "atualizado": "2026-10-29T19:13:00-03:00"
+    "atualizado": "2026-11-01T13:26:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "ESPN",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.dgabc.com.br/Noticia/4366088/cuiaba-x-sao-bernardo-fc-pela-serie-b-veja-onde-assistir-e-as-provaveis-escalacoes",
+      "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-x-sao-bernardo-onde-assistir-serie-b/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Eduardo Barros",
+      "time": "João Carlos; João Basso, Luis Soares e Eric Melo; Igor Inocêncio, Raul, Luiz Otávio e Weverson; Eliel, Vinicius Peixoto e Kauan Cristtyan",
+      "desfalques": "Alan Empereur (negocia a rescisão com o clube)",
+      "duvidas": "O Cuiabá deve rodar o elenco"
+     },
+     "fora": {
+      "tecnico": "Vinícius Bergantin",
+      "time": "Alex Alves; Rodrigo Ferreira, Jemerson, Luizão e Pará; Marcão Silva, Lucas Lima e Foguinho; Lucas Fernandes, Pedrinho e Felipe Garcia",
+      "desfalques": "Dudu Miraíma (suspenso, terceiro amarelo), Rodrigo Andrade e Matheus Salustiano (lesionados)",
+      "duvidas": "Rodrigo Ferreira (citado no departamento médico pelo Diário do Grande ABC); Hyoran Kauê e Fabrício Daniel podem entrar"
+     },
+     "fontes": [
+      "https://www.rdnews.com.br/esportes/cuiaba-x-sao-bernardo-veja-desfalques-escalacoes-provaveis-e-onde-assistir/251574",
+      "https://www.terra.com.br/esportes/futebol/cuiaba-x-sao-bernardo-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,bac9ec41ac509bbc7542c8ba4be0eb5fy6m0iumd.html",
+      "https://www.dgabc.com.br/Noticia/4366088/cuiaba-x-sao-bernardo-fc-pela-serie-b-veja-onde-assistir-e-as-provaveis-escalacoes"
+     ],
+     "atualizado": "2026-11-01T13:26:00-03:00"
+    }
    },
    "events": []
   },
