@@ -1946,22 +1946,24 @@
    "data": "2026-11-02T16:00:00-03:00",
    "casa": "fortaleza",
    "fora": "atletico-go",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Castelão",
    "cidade": "Fortaleza",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-erra-penalti-empata-com-atletico-go-e-perde-chance-de-colar-no-g2/",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-desperdica-penalti-fica-no-empate-com-o-atletico-go-e-se-afasta-do-g-2-da-serie-b-1.3802936"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-02T18:25:00-03:00",
    "prejogo": {
     "analise": [
      "Fortaleza e Atlético-GO se enfrentam na segunda-feira (2/11), às 16h, na Arena Castelão, pela 36ª rodada da Série B, em um duelo com peso dobrado na briga pela Série A. O Leão é o 4º colocado, com 61 pontos, três atrás de Novorizontino e Juventude (64), que ocupam o G-2 do acesso direto. O Dragão é o 8º, com 54, um ponto abaixo do CRB (55), dono da última vaga no G-6, que dá lugar nos playoffs. Depois desta rodada restam apenas duas.",

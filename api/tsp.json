@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-02T14:48:00-03:00",
+ "gerado": "2026-11-02T18:25:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7892,14 +7892,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/"
+    "https://www.gazetaesportiva.com/todas-as-noticias/fortaleza-so-empata-com-a-ponte-e-perde-chance-de-entrar-no-g2-da-serie-b/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-erra-penalti-empata-com-atletico-go-e-perde-chance-de-colar-no-g2/",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-desperdica-penalti-fica-no-empate-com-o-atletico-go-e-se-afasta-do-g-2-da-serie-b-1.3802936"
    ],
    "fixture": {
     "id": 91000048,
     "timestamp": 1793646000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Castelão",
@@ -7921,8 +7923,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -9187,10 +9189,10 @@
       5,
       900024,
       "Fortaleza",
-      61,
-      35,
+      62,
+      36,
       16,
-      13,
+      14,
       6,
       12,
       "",
@@ -9229,10 +9231,10 @@
       8,
       900028,
       "Atlético-GO",
-      54,
-      35,
+      55,
+      36,
       14,
-      12,
+      13,
       9,
       9,
       "",
