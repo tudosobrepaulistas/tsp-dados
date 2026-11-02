@@ -2024,22 +2024,24 @@
    "data": "2026-11-02T18:00:00-03:00",
    "casa": "athletic-mg",
    "fora": "ceara",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Sicredi",
    "cidade": "São João del-Rei",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/02/ceara-perde-para-o-athletic-mg-de-virada-e-segue-no-martirio-por-permanencia-na-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-leva-virada-do-athletic-e-segue-ameacado-pelo-rebaixamento-na-serie-b/"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-02T20:24:00-03:00",
    "prejogo": {
     "analise": [
      "Athletic e Ceará se enfrentam na segunda-feira (2/11), às 18h, na Arena Sicredi, em São João del-Rei (MG), pela 36ª rodada da Série B, em um duelo de times que querem encerrar de vez a briga contra o rebaixamento. O Athletic é o 14º colocado, com 44 pontos; o Ceará é o 16º, com 43, seis acima do Avaí (37), primeiro time do Z4. Depois desta rodada restam apenas duas.",

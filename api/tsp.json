@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-02T18:25:00-03:00",
+ "gerado": "2026-11-02T20:26:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -4385,7 +4385,24 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Palmeiras e Remo se enfrentam na quinta-feira (5/11), às 19h30, no Nubank Parque, pela 34ª rodada do Brasileirão, com objetivos opostos na tabela. O Palmeiras é o vice-líder, com 70 pontos, três atrás do Flamengo (73), e precisa vencer para seguir na briga pelo título a cinco rodadas do fim. O Remo é o 19º colocado, com 29 pontos, oito atrás do Mirassol (37), 16º e primeiro time fora da zona de rebaixamento.",
+     "O Palmeiras chega embalado: são cinco jogos sem perder no Brasileirão, com quatro vitórias (1 a 0 no Bahia, 4 a 1 no Corinthians, 2 a 0 no Athletico-PR e 2 a 0 no Red Bull Bragantino) e o empate sem gols com o Santos, na Vila Belmiro, na rodada passada. Nesse período, a defesa sofreu apenas um gol. O time de Abel Ferreira divide a atenção da semana com a semifinal da Copa do Brasil: depois de vencer a ida por 1 a 0, com gol de Maurício, visita o Vasco em São Januário no domingo (8/11) e joga pelo empate. Paulinho e Ramón Sosa seguem em recuperação, segundo a Gazeta Esportiva.",
+     "O Remo venceu o Botafogo por 2 a 1, no Mangueirão, na quarta-feira (28/10), e encerrou um jejum de 14 jogos sem vitória. Fora de casa, porém, o time paraense não marca gols há dois jogos: empatou por 0 a 0 com o Vasco e perdeu por 1 a 0 para o Cruzeiro. Nos últimos cinco jogos, são uma vitória, três empates e uma derrota.",
+     "Depois da vitória sobre o Botafogo, o técnico Thiago Carpini disse ao DOL que o efeito foi mais emocional do que na tabela, atribuiu a queda de rendimento no segundo tempo ao lado mental e não ao físico, e evitou prometer final feliz na luta contra o rebaixamento. Segundo o Diário do Pará, mesmo vencendo os cinco jogos que restam o Remo chegaria a 44 pontos, sem garantia de permanência, e depende também de tropeços de Internacional, Corinthians e Grêmio."
+    ],
+    "retrospecto": "No primeiro turno, em 10 de maio, as equipes empataram por 1 a 1 no Mangueirão, em Belém: Alef Manga abriu o placar para o Remo logo no primeiro minuto e Ramón Sosa empatou para o Palmeiras; nos acréscimos, o VAR anulou um gol de Bruno Fuchs (Diário do Pará). Aquele foi o primeiro encontro entre os clubes em 23 anos; o duelo anterior havia sido uma vitória do Remo por 2 a 1, pela Série B de 2003 (Gazeta Esportiva).",
+    "estadio_wiki": "Nubank Parque",
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/palmeiras/programacao-palmeiras-remo-vasco-semana-novembro-2026/",
+     "https://dol.com.br/esporte/remo/966856/sem-prometer-final-feliz-carpini-chama-remo-a-luta-pela-sobrevivencia",
+     "https://diariodopara.com.br/bola/remo-vence-o-botafogo-mas-precisa-de-arrancada-e-tropecos-dos-rivais-para-nao-cair/",
+     "https://diariodopara.com.br/bola/chuva-var-expulsao-e-gol-anulado-marcam-empate-entre-remo-e-palmeiras/",
+     "https://www.gazetaesportiva.com/times/palmeiras/remo-x-palmeiras-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/"
+    ],
+    "atualizado": "2026-11-02T20:26:00-03:00"
+   },
    "events": []
   },
   {
@@ -7988,14 +8005,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/02/ceara-perde-para-o-athletic-mg-de-virada-e-segue-no-martirio-por-permanencia-na-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-leva-virada-do-athletic-e-segue-ameacado-pelo-rebaixamento-na-serie-b/"
    ],
    "fixture": {
     "id": 91000049,
     "timestamp": 1793653200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Sicredi",
@@ -8017,8 +8036,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -9313,6 +9332,20 @@
      ],
      [
       14,
+      900034,
+      "Athletic",
+      47,
+      36,
+      11,
+      14,
+      11,
+      1,
+      "",
+      42,
+      41
+     ],
+     [
+      15,
       900036,
       "Náutico",
       46,
@@ -9326,32 +9359,18 @@
       46
      ],
      [
-      15,
-      900034,
-      "Athletic",
-      44,
-      35,
-      10,
-      14,
-      11,
-      0,
-      "",
-      40,
-      40
-     ],
-     [
       16,
       900035,
       "Ceará",
       43,
-      35,
+      36,
       11,
       10,
-      14,
-      -7,
+      15,
+      -8,
       "",
-      37,
-      44
+      38,
+      46
      ],
      [
       17,
