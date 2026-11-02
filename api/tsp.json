@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T21:11:00-03:00",
+ "gerado": "2026-11-01T21:32:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -4104,7 +4104,22 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Flamengo e Grêmio se enfrentam na quarta-feira (4/11), às 19h30, no Maracanã, pela 34ª rodada da Série A. Os dois brigam em pontas opostas da tabela: o Flamengo lidera com 73 pontos, três à frente do Palmeiras, enquanto o Grêmio é o 15º, com 37, apenas um ponto acima do Corinthians, primeiro time da zona de rebaixamento.",
+     "O Flamengo vive a melhor fase da temporada: são dez jogos sem perder no Brasileirão, com nove vitórias e um empate, segundo O Liberal. Nos cinco mais recentes da Base TSP, venceu quatro (Fluminense, Bahia, Atlético-MG e Vasco) e empatou com o Santos. No último compromisso, na quinta-feira (29/10), goleou o Vasco por 4 a 1 no Engenhão, com dois gols de Pedro e dois de Samuel Lino. Em casa, venceu os dois jogos mais recentes: 1 a 0 no Fluminense e 3 a 2 no Atlético-MG.",
+     "O Grêmio vem de duas vitórias seguidas, que o tiraram do Z4: 1 a 0 sobre o Coritiba, fora de casa, e 2 a 0 sobre o Athletico-PR, na quinta-feira (29/10), na Arena, com os dois gols em jogadas de bola parada, segundo o Jornal do Comércio. Antes, havia empatado com Remo e Internacional e perdido para o Cruzeiro por 4 a 2.",
+     "Com a vitória, o Flamengo de Leonardo Jardim pode manter ou ampliar a distância para o Palmeiras na liderança. O Grêmio tenta somar fora de casa para não voltar à zona de rebaixamento."
+    ],
+    "retrospecto": "No primeiro turno, em 10 de maio, o Flamengo venceu o Grêmio por 1 a 0 na Arena do Grêmio, em Porto Alegre, pela 15ª rodada, com gol de Carrascal aos 22 minutos do segundo tempo, segundo a Gazeta Esportiva.",
+    "estadio_wiki": "Estádio do Maracanã",
+    "fontes": [
+     "https://www.oliberal.com/esportes/pedro-e-samuel-lino-fazem-dois-cada-flamengo-goleia-vasco-e-abre-tres-pontos-na-lideranca-1.1188697",
+     "https://www.jornaldocomercio.com/esportes/2026/10/1268816-com-dois-gols-de-bola-parada-gremio-vence-o-atlhetico-pr-no-campeonato-brasileiro.html",
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-o-gremio-e-reduz-vantagem-do-palmeiras-no-brasileirao/"
+    ],
+    "atualizado": "2026-11-01T21:32:00-03:00"
+   },
    "events": []
   },
   {
@@ -4145,7 +4160,21 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Athletico-PR e Vasco se enfrentam na quarta-feira (4/11), às 19h30, na Arena da Baixada, em Curitiba, pela 34ª rodada da Série A. O Athletico é o 5º colocado, com 54 pontos, empatado com o Fluminense e três atrás do Cruzeiro, terceiro. O Vasco é o 13º, com 38 pontos em 32 jogos, dois acima do Corinthians, primeiro time da zona de rebaixamento.",
+     "O Athletico, de Odair Hellmann, não vence há três jogos: empatou com o Vitória (1 a 1) e perdeu para Palmeiras (2 a 0, em casa) e Grêmio (2 a 0, na quinta-feira, 29/10, em Porto Alegre). Segundo o Jornal do Comércio, o time sofreu gols de bola parada nos quatro jogos mais recentes. A última vitória foi a goleada por 4 a 1 sobre a Chapecoense, em Chapecó.",
+     "O Vasco, de Pedro Emanuel, chega pressionado por uma sequência de três derrotas: 1 a 0 para o São Paulo, no Morumbis, 4 a 1 para o Flamengo, no clássico de quinta-feira (29/10), e 1 a 0 para o Palmeiras, no domingo (1º/11), no jogo de ida da semifinal da Copa do Brasil. A volta, em São Januário, será no domingo (8/11). Fora de casa no Brasileirão, a última vitória registrada na Base TSP foi sobre o Botafogo, por 2 a 1."
+    ],
+    "retrospecto": "No primeiro turno, em 10 de maio, o Vasco venceu o Athletico-PR por 1 a 0 em São Januário, pela 15ª rodada, com gol de Thiago Mendes aos 37 minutos do primeiro tempo, segundo a Gazeta Esportiva.",
+    "estadio_wiki": "Arena da Baixada",
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3786964",
+     "https://www.oliberal.com/esportes/pedro-e-samuel-lino-fazem-dois-cada-flamengo-goleia-vasco-e-abre-tres-pontos-na-lideranca-1.1188697",
+     "https://www.jornaldocomercio.com/esportes/2026/10/1268816-com-dois-gols-de-bola-parada-gremio-vence-o-atlhetico-pr-no-campeonato-brasileiro.html"
+    ],
+    "atualizado": "2026-11-01T21:32:00-03:00"
+   },
    "events": []
   },
   {
@@ -8149,7 +8178,19 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Internacional e Red Bull Bragantino abrem a semifinal da Copa do Brasil Feminina na quarta-feira (4/11), às 19h30, no Beira-Rio, em Porto Alegre. O confronto, definido em sorteio na sede da CBF em 23 de outubro, vale vaga na decisão contra o vencedor de Bahia x Flamengo. A volta será em Bragança Paulista, com mando das paulistas.",
+     "O Inter chega depois de passar por Grêmio, Atlético-MG e Coritiba na campanha. Nas quartas de final, contra o Atlético-MG, empatou por 1 a 1 no Beira-Rio e por 0 a 0 na Arena MRV, em Belo Horizonte, e avançou nos pênaltis, por 4 a 3.",
+     "O Bragantino eliminou Botafogo, Ferroviária e São José. Nas quartas, contra a Ferroviária, venceu a ida por 2 a 0 em Araraquara e perdeu a volta por 3 a 2 em Bragança Paulista, com gols de Mylena e Duda Rodrigues, e se classificou pelo agregado de 4 a 3."
+    ],
+    "estadio_wiki": "Estádio Beira-Rio",
+    "fontes": [
+     "https://www.opovo.com.br/esportes/2026/10/23/definidos-os-confrontos-das-semifinais-da-copa-do-brasil-feminina.html",
+     "https://www.acessa.com/esporte/2026/10/342651-inter-e-bragantino-avancam-as-semifinais-da-copa-do-brasil-feminina.html"
+    ],
+    "atualizado": "2026-11-01T21:32:00-03:00"
+   },
    "events": []
   }
  ],
