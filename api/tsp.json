@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T22:28:00-03:00",
+ "gerado": "2026-11-02T01:54:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -8041,6 +8041,416 @@
    "events": []
   },
   {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000134,
+    "timestamp": 1794004200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Santa Cruz",
+     "city": "Ribeirão Preto"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000135,
+    "timestamp": 1794004200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Germano Kruger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000136,
+    "timestamp": 1794007800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "OBA",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900023,
+     "name": "Vila Nova"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000137,
+    "timestamp": 1794011400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900022,
+     "name": "Juventude"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000138,
+    "timestamp": 1794078000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Ressacada",
+     "city": "Florianópolis"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900037,
+     "name": "Avaí"
+    },
+    "away": {
+     "id": 900031,
+     "name": "São Bernardo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000139,
+    "timestamp": 1794078600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Jorge Ismael de Biasi",
+     "city": "Novo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900024,
+     "name": "Fortaleza"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000140,
+    "timestamp": 1794097800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000141,
+    "timestamp": 1794164400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Sicredi",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000142,
+    "timestamp": 1794176100,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900035,
+     "name": "Ceará"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000143,
+    "timestamp": 1794176100,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Serrinha",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900030,
+     "name": "Goiás"
+    },
+    "away": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
    "liga": "copa_do_brasil",
    "temporada": 2026,
    "obs": "",
@@ -8259,6 +8669,47 @@
     ],
     "atualizado": "2026-11-01T21:32:00-03:00"
    },
+   "events": []
+  },
+  {
+   "liga": "fem_copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-conhecem-datas-e-horarios-da-semifinal-da-copa-do-brasil-2026"
+   ],
+   "fixture": {
+    "id": 91000144,
+    "timestamp": 1794146400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
    "events": []
   }
  ],
