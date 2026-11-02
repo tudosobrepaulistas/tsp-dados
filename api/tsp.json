@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-02T12:43:00-03:00",
+ "gerado": "2026-11-02T14:48:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3947,7 +3947,27 @@
      "https://www.metropoles.com/esportes/santos-e-palmeiras-empatam-e-flamengo-segue-lider-do-brasileirao",
      "https://www.gazetaesportiva.com/times/santos/neymar-marca-santos-bate-bragantino-e-finda-jejum-de-vitorias/"
     ],
-    "atualizado": "2026-10-30T00:26:00-03:00"
+    "atualizado": "2026-11-02T14:48:00-03:00",
+    "provaveis": {
+     "casa": {
+      "tecnico": "",
+      "time": "Tiago Volpi; Ryan Augusto, Alix Vinícius, Guzmán Rodríguez e Juninho Capixaba; Fabinho, Eric Ramires e Wallace Yan; Lucas Barbosa, Eduardo Sasha e Fernando",
+      "desfalques": "Rodriguinho (dores no joelho) e Davi Gomes (recuperação de cirurgia no joelho)",
+      "duvidas": ""
+     },
+     "fora": {
+      "tecnico": "Cuca",
+      "time": "Diógenes; Rodinei, João Alencar, Luan Peres e Álvaro Barreal; Gustavinho, Christian Oliva e Philippe Coutinho; Gabriel Bontempo, Éverton Cebolinha e Gabigol",
+      "desfalques": "Neymar (suspenso, expulso contra o Bahia), João Schmidt (suspenso) e Vinicius Lira (lesionado)",
+      "duvidas": "Escobar (dores na coxa direita) pode voltar no lugar de Barreal; o Terra cita Gustavo Henrique no meio-campo, no lugar de Gustavinho"
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/bragantino/red-bull-bragantino-enfrenta-o-santos-em-confronto-direto-pelo-brasileirao,a79c8e9746b81f9d47d07d42f7d15d17q7rbj7sq.html",
+      "https://www.terra.com.br/esportes/santos/escobar-pode-ser-a-surpresa-na-escalacao-do-santos-contra-o-bragantino,589466aae34eeebf375f8fd7680c14158c8faend.html",
+      "https://www.metropoles.com/esportes/com-neymar-suspenso-santos-visita-bragantino-pelo-campeonato-brasileiro"
+     ],
+     "atualizado": "2026-11-02T14:48:00-03:00"
+    }
    },
    "events": []
   },
@@ -8106,7 +8126,41 @@
      "https://diariodonordeste.verdesmares.com.br/jogada/ceara-sofre-dois-gols-nos-acrescimos-perde-para-o-goias-no-castelao-e-se-mantem-ameacado-1.3801863",
      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/crb-x-goias/833050"
     ],
-    "atualizado": "2026-10-30T21:31:00-03:00"
+    "atualizado": "2026-11-02T14:48:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "ESPN",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://ohoje.com/2026/11/02/goias-x-crb-horario-escalacoes-e-onde-assistir/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Mozart",
+      "time": "Tadeu; Djalma Silva, Lucas Ribeiro, Luiz Felipe e Nicolas; Filipe Machado, Lucas Rodrigues, Lourenço e Lucas Lima; Kadu Sousa e Felipe Clemente",
+      "desfalques": "Nenhum (sem suspensos nem lesionados)",
+      "duvidas": "Djalma Silva ou Rodrigo Soares na lateral direita"
+     },
+     "fora": {
+      "tecnico": "Fábio Matias",
+      "time": "Vitor Caetano; Hereda, Bressan, Lyncon e Reverson; Pedro Castro, Crystopher e Danielzinho; Dadá Belmonte, Thiaguinho e Mikael",
+      "desfalques": "Lucas Lovat (lesão no tornozelo)",
+      "duvidas": "Mikael, recuperado de dores na panturrilha, está à disposição"
+     },
+     "fontes": [
+      "https://ohoje.com/2026/11/02/goias-x-crb-horario-escalacoes-e-onde-assistir/",
+      "https://www.alagoas24horas.com.br/1771675/foco-no-acesso-crb-encerra-treinos-no-ninho-do-galo-e-embarca-para-goiania-defendendo-vaga-no-g-6-da-serie-b/"
+     ],
+     "atualizado": "2026-11-02T14:48:00-03:00"
+    }
    },
    "events": []
   },
