@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T21:32:00-03:00",
+ "gerado": "2026-11-01T22:28:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -4215,7 +4215,38 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "TV Globo",
+       "tipo": "tv aberta"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=245646"
+     ]
+    },
+    "analise": [
+     "Botafogo e Atlético-MG se enfrentam na quarta-feira (4/11), às 21h30, no Estádio Nilton Santos, no Rio de Janeiro, pela 34ª rodada do Brasileirão, último compromisso antes da data Fifa. O Atlético é o 7º colocado, com 50 pontos em 33 jogos, quatro atrás de Fluminense e Athletico-PR, que fecham o G4 com 54. O Botafogo é o 12º, com 39, apenas dois pontos acima da zona de rebaixamento, onde Grêmio e Mirassol somam 37.",
+     "O Botafogo, de Tite, perdeu os dois últimos jogos: 3 a 0 para o Internacional, no Beira-Rio, e 2 a 1 para o Remo, na quarta-feira (28/10), em Belém, com gol de Edenílson no fim. Segundo o Jornal do Brasil, são quatro derrotas em seis jogos sob o comando de Tite. Nos últimos cinco jogos da Base TSP, o time tem uma vitória, um empate e três derrotas. No Nilton Santos, venceu a Chapecoense por 1 a 0 e perdeu o clássico para o Vasco por 2 a 1.",
+     "O Atlético-MG, de Eduardo Domínguez, vive sequência de três derrotas seguidas, segundo O Tempo. No Brasileirão, perdeu para o Flamengo por 3 a 2, no Maracanã, e para o Cruzeiro por 1 a 0, na Arena MRV, na quinta-feira (29/10). Fora de casa, nos dois jogos recentes da Base TSP, empatou com o Athletico-PR (2 a 2) e perdeu para o Flamengo. Entre o clássico mineiro e a viagem ao Rio, o time enfrentou o Grêmio no domingo (1º/11), em Porto Alegre, pela ida da semifinal da Copa do Brasil.",
+     "Depois da derrota para o Cruzeiro, Domínguez reconheceu falhas na marcação e afirmou ao O Tempo que não acredita em relaxamento do grupo: \"A gente não aprende sempre ganhando\". No Botafogo, o zagueiro Danilo, que sentiu dores musculares contra o Internacional, é dúvida; Arthur Chaves e Kaio Pantaleão seguem em recondicionamento, informou a Super Rádio Tupi no sábado (31/10)."
+    ],
+    "retrospecto": "No primeiro turno, em 10 de maio, pela 15ª rodada, Atlético-MG e Botafogo empataram por 1 a 1 na Arena MRV: Cassierra abriu o placar para o Galo e Arthur Cabral empatou nos acréscimos do segundo tempo, segundo o Jornal do Brasil.",
+    "estadio_wiki": "Estádio Nilton Santos",
+    "fontes": [
+     "https://www.jb.com.br/esportes/2026/10/1061393-botafogo-perde-para-o-remo-por-2-a-1-e-aumenta-preocupacao-no-brasileirao.html",
+     "https://www.otempo.com.br/sports/atletico/2026/10/29/dominguez-reconhece-problemas-defensivos-do-atletico-e-projeta-evolucao-contra-o-gremio",
+     "https://www.tupi.fm/esportes/danilo-botafogo-treino-recuperacao-atletico-mg/",
+     "https://www.jb.com.br/esportes/2026/05/1059580-botafogo-arranca-empate-no-fim-com-o-atletico-mg-na-arena-mrv.html"
+    ],
+    "atualizado": "2026-11-01T22:28:00-03:00"
+   },
    "events": []
   },
   {
@@ -4256,7 +4287,44 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "TV Globo",
+       "tipo": "tv aberta"
+      },
+      {
+       "nome": "GeTV",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=245651"
+     ]
+    },
+    "analise": [
+     "São Paulo e Corinthians fazem o Majestoso da 34ª rodada do Brasileirão na quarta-feira (4/11), às 21h30, longe da capital: o mandante tricolor leva o clássico para a Vila Belmiro, em Santos, porque o Morumbis recebeu shows nos dias 28, 30 e 31 de outubro e não fica pronto a tempo, segundo a Gazeta Esportiva. Os objetivos são opostos. O São Paulo é o 10º colocado, com 43 pontos em 33 jogos, sete acima da zona de rebaixamento. O Corinthians é o 17º, com 36, dentro do Z4, um ponto atrás de Grêmio e Mirassol (37) e dois do Vitória (38).",
+     "O São Paulo, de Dorival Júnior, vem de derrota por 3 a 2 para o Bahia, na quarta-feira (28/10), em Salvador. Lucas Moura e Bobadilla chegaram a empatar ainda no primeiro tempo, mas o time caiu fisicamente na etapa final, de acordo com O Liberal. Nos últimos cinco jogos registrados na Base TSP, são duas vitórias, um empate e duas derrotas. Como mandante, venceu os três jogos recentes da base no Morumbis (1 a 0 no Internacional, 2 a 1 no Vitória e 1 a 0 no Vasco), mas agora joga fora da sua casa.",
+     "O Corinthians, de Clarence Seedorf, chega aliviado: na sexta-feira (30/10), venceu o Mirassol por 2 a 0 na Neo Química Arena, com gols de Matheus Bidu e Kaio César, e encerrou uma sequência de dez jogos sem vitória no Brasileirão, segundo a Gazeta Esportiva. Fora de casa, porém, o retrospecto recente é ruim: na Base TSP, perdeu os três últimos jogos como visitante, para Internacional (2 a 1), Palmeiras (4 a 1) e Vasco (3 a 2).",
+     "No São Paulo, o zagueiro Sabino está suspenso pelo terceiro cartão amarelo, levado contra o Bahia. Ferreira e Artur, em transição física, voltaram a treinar com o grupo, e Marcos Antonio, com dores no tornozelo direito, fez trabalho à parte com a fisioterapia, informou o ABC do ABC na sexta-feira (30/10). Os dois lados têm muitos pendurados: sete no São Paulo e oito no Corinthians, entre eles Yuri Alberto e Rodrigo Garro, segundo a Tribuna de Jundiaí."
+    ],
+    "retrospecto": "No primeiro turno, em 10 de maio, o Corinthians venceu o São Paulo por 3 a 2 na Neo Química Arena, com gols de Raniele, Matheuzinho e Breno Bidon; Luciano e um gol contra de Matheuzinho descontaram para o time tricolor, segundo a CNN Brasil.",
+    "estadio_wiki": "Estádio Urbano Caldeira",
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3871252",
+     "https://www.oliberal.com/esportes/sao-paulo-fraqueja-fisicamente-apos-buscar-empate-ve-dominio-adversario-e-perde-para-o-bahia-1.1188212",
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-mirassol-e-segue-vivo-contra-rebaixamento/",
+     "https://abcdoabc.com.br/sao-paulo-faz-ajustes-e-comeca-a-se-preparar",
+     "https://tribunadejundiai.com.br/mais/esportes/sao-paulo-ganha-desfalque-para-enfrentar-o-corinthians/",
+     "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-derrota-o-sao-paulo-e-deixa-zona-de-rebaixamento-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-01T22:28:00-03:00"
+   },
    "events": []
   },
   {
