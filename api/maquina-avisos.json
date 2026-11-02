@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T21:25-03:00",
+ "gerado": "2026-11-02T06:10-03:00",
  "avisos": [
   {
    "clube": "referencia-fc",
@@ -336,6 +336,27 @@
    "quando": "2026-11-01T21:25-03:00",
    "motivo": "Sem notícia nova da AEA nos últimos 7 dias (última apuração da Folha da Região é de agosto) e o tema histórico principal já foi publicado no site",
    "sugestao": "Acompanhar com a diretoria de Guilherme Nishikawa a inscrição da AEA para 2027 e o andamento da SAF aprovada em fevereiro"
+  },
+  {
+   "clube": "gremiocatanduvense",
+   "nome": "Grêmio Catanduvense",
+   "quando": "2026-11-02T06:09-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em fontes aceitas; história do clube confusa nas fontes (Grêmio Catanduvense de Futebol x Grêmio Esportivo Catanduvense, datas de fundação divergentes)",
+   "sugestao": "Redator: conferir com a diretoria qual é a entidade e a data de fundação e fazer 'A história do Catanduvense, do Paulistão à Bezinha' com o Estádio Silvio Salles"
+  },
+  {
+   "clube": "nacional",
+   "nome": "Nacional",
+   "quando": "2026-11-02T06:10-03:00",
+   "motivo": "Sem notícia nova em fontes aceitas nos últimos 7 dias; história, estádio e Copinhas já publicados pela Máquina em 30/10",
+   "sugestao": "Redator: perfil de um ídolo ou revelação da base do Nacional (ex.: elenco campeão da Copinha de 1988), conferido em jornal"
+  },
+  {
+   "clube": "aracatuba",
+   "nome": "Araçatuba",
+   "quando": "2026-11-02T06:10-03:00",
+   "motivo": "Sem notícia nova na Folha da Região/FPF desde 27/10; história do Canário já publicada em julho",
+   "sugestao": "Redator: acompanhar a criação da SAF da AEA aprovada em fevereiro e o plano para a Bezinha 2027 com a diretoria de Guilherme Nishikama"
   }
  ]
 }

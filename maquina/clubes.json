@@ -49,10 +49,12 @@
   {
    "slug": "aracatuba",
    "nome": "Araçatuba",
-   "cidade": "",
+   "cidade": "Araçatuba",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://sampi.net.br/aracatuba"
+   ]
   },
   {
    "slug": "assisense",
