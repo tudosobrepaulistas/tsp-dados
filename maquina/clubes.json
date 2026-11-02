@@ -50,10 +50,13 @@
    "slug": "aracatuba",
    "nome": "Araçatuba",
    "cidade": "Araçatuba",
-   "site_oficial": "",
-   "redes": [],
+   "site_oficial": "https://aearacatuba.com.br",
+   "redes": [
+    "https://www.tiktok.com/@aearacatubaofc"
+   ],
    "jornais_locais": [
-    "https://sampi.net.br/aracatuba"
+    "https://sampi.net.br/aracatuba",
+    "https://lr1.com.br/cidades/aracatuba"
    ]
   },
   {
@@ -191,10 +194,13 @@
   {
    "slug": "gremiocatanduvense",
    "nome": "Grêmio Catanduvense",
-   "cidade": "",
+   "cidade": "Catanduva",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://oregional.com.br",
+    "https://www.catanduvacidadefeitico.com.br"
+   ]
   },
   {
    "slug": "ibrachina",
@@ -275,7 +281,11 @@
    "cidade": "Mogi Mirim",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://opopularmm.com.br",
+    "https://omogiano.com.br",
+    "https://oimpactomogi.com.br"
+   ]
   },
   {
    "slug": "nacional",
@@ -350,9 +360,11 @@
    "slug": "santacruzense",
    "nome": "Santacruzense",
    "cidade": "Santa Cruz do Rio Pardo",
-   "site_oficial": "http://www.esportivasantacruz.com.br",
+   "site_oficial": "https://esportivasantacruzense.com.br",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.futebolinterior.com.br/clube/associacao-esportiva-santacruzense/"
+   ]
   },
   {
    "slug": "santa-fe",
