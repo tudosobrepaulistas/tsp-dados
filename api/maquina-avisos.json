@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-02T16:26-03:00",
+ "gerado": "2026-11-02T16:31-03:00",
  "avisos": [
-  {
-   "clube": "referencia-fc",
-   "nome": "Referência FC",
-   "quando": "2026-10-30T03:09-03:00",
-   "motivo": "Sem notícia dos últimos 7 dias em fontes aceitas; a campanha da Copinha 2025 já foi muito coberta pelo site",
-   "sugestao": "Confirmar com o clube (CEO Walter Jr.) se o Referência estará na Copinha 2027 e quem será o técnico; perfil do clube-SAF de 2018 ligado a Embu das Artes"
-  },
-  {
-   "clube": "cosmopolitano",
-   "nome": "Cosmopolitano",
-   "quando": "2026-10-30T03:10-03:00",
-   "motivo": "Sem notícia dos últimos 7 dias; últimas matérias encontradas são da Copinha 2026 (dez/2025-jan/2026)",
-   "sugestao": "Como ficaram as obras do Estádio Thelmo de Almeida e se Cosmópolis volta a ser sede da Copinha 2027 (consultar Prefeitura de Cosmópolis e FPF)"
-  },
   {
    "clube": "fernandopolis",
    "nome": "Fernandópolis",
@@ -413,6 +399,27 @@
    "quando": "2026-11-02T16:26-03:00",
    "motivo": "Sem notícia nos últimos 7 dias nos jornais de Catanduva (O Regional) nem em portais; clube sem site oficial; histórico recente já coberto",
    "sugestao": "Confirmar com a diretoria se o Grêmio Catanduvense vai se inscrever na Segunda Divisão de 2027 e quem será o técnico (Pinho/Nei Silva foram citados em agosto)"
+  },
+  {
+   "clube": "nacional",
+   "nome": "Nacional",
+   "quando": "2026-11-02T16:31-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; clube sem site oficial cadastrado; história (ferrovia e Copinha) já publicada pela Máquina em 30/10",
+   "sugestao": "Matéria histórica sobre os títulos do Nacional na Série A3 (1994, 2000 e 2017), conferindo com arquivos da FPF e da Gazeta Esportiva; ou contato com a diretoria sobre o planejamento para a Segunda Divisão de 2027"
+  },
+  {
+   "clube": "santacruzense",
+   "nome": "Santacruzense",
+   "quando": "2026-11-02T16:31-03:00",
+   "motivo": "Sem notícia recente; site oficial bloqueia leitura; fontes históricas divergem (fundação em 1931 ou 1935), então o tema histórico não ficou seguro",
+   "sugestao": "Conferir com o clube ou com a FPF a data de fundação e a campanha do título da Segunda Divisão de 1962 para uma matéria histórica; ou balanço do Paulista Sub-17 2026 com o clube"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-02T16:31-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; clube sem site oficial nem jornal local cadastrado; títulos de 1928 e 1930 já publicados",
+   "sugestao": "Descobrir se o Amparo vai disputar a Segunda Divisão de 2027 e fazer perfil do estádio do clube com foto própria"
   }
  ]
 }
