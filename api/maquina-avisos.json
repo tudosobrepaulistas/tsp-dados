@@ -1,13 +1,6 @@
 {
- "gerado": "2026-11-02T16:31-03:00",
+ "gerado": "2026-11-02T16:35-03:00",
  "avisos": [
-  {
-   "clube": "fernandopolis",
-   "nome": "Fernandópolis",
-   "quando": "2026-10-30T03:18-03:00",
-   "motivo": "Sem notícia do Fefecê nos últimos 7 dias; história do clube só encontrada na Wikipédia, sem jornal para conferir",
-   "sugestao": "Perfil histórico do Fernandópolis FC e do Estádio Cláudio Rodante com o clube/Prefeitura; checar se o Fefecê confirma a Segunda Divisão 2027"
-  },
   {
    "clube": "atletico-mogi",
    "nome": "Atlético Mogi",
@@ -420,6 +413,13 @@
    "quando": "2026-11-02T16:31-03:00",
    "motivo": "Sem notícia nos últimos 7 dias; clube sem site oficial nem jornal local cadastrado; títulos de 1928 e 1930 já publicados",
    "sugestao": "Descobrir se o Amparo vai disputar a Segunda Divisão de 2027 e fazer perfil do estádio do clube com foto própria"
+  },
+  {
+   "clube": "comercial-tiete",
+   "nome": "Comercial de Tietê",
+   "quando": "2026-11-02T16:35-03:00",
+   "motivo": "Sem fato novo depois do acesso à Série A do Paulista Sub-20 (já publicado em 29/10); clube sem site oficial cadastrado",
+   "sugestao": "Acompanhar o anúncio das sedes e grupos da Copinha 2027 (Tietê foi sede em 2024, 2025 e 2026) e confirmar se o Comercial estará no torneio"
   }
  ]
 }
