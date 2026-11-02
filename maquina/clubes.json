@@ -30,10 +30,13 @@
   {
    "slug": "ad-guarulhos",
    "nome": "AD Guarulhos",
-   "cidade": "",
+   "cidade": "Guarulhos",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.fmetropolitana.com.br",
+    "https://guarulhosweb.com.br"
+   ]
   },
   {
    "slug": "amparo",
