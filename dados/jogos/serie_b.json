@@ -1756,22 +1756,43 @@
    "data": "2026-11-01T18:30:00-03:00",
    "casa": "novorizontino",
    "fora": "operario-pr",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Jorge Ismael de Biasi",
    "cidade": "Novo Horizonte",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Nicolas Careca",
+     "minuto": "34",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Bianqui",
+     "minuto": "38",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Joseph",
+     "minuto": "51",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-bate-operario-assume-lideranca-e-se-aproxima-do-acesso-na-serie-b/",
+    "https://placar.com.br/brasileirao/novorizontino-vence-o-operario-pr-por-2-a-1-e-segue-na-lideranca-da-serie-b/"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-01T21:11:00-03:00",
    "prejogo": {
     "analise": [
      "Líder da Série B, o Novorizontino recebe o Operário-PR no domingo (1º/11), às 18h30, no Jorjão, em Novo Horizonte, pela 36ª rodada. O Tigre do Vale soma 64 pontos, os mesmos do Juventude, e leva vantagem no saldo de gols (32 a 22). Logo atrás vêm Vila Nova (62) e Fortaleza (61). Pelo regulamento de 2026, só os dois primeiros sobem direto para a Série A; do 3º ao 6º, a vaga é decidida nos playoffs. Com três rodadas por jogar, cada ponto vale muito na briga pelo acesso direto.",
@@ -1830,22 +1851,43 @@
    "data": "2026-11-01T18:30:00-03:00",
    "casa": "cuiaba",
    "fora": "sao-bernardo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Pantanal",
    "cidade": "Cuiabá",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Fabrício Daniel",
+     "minuto": "14",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Calebe Costa",
+     "minuto": "45+2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Daniel Davi",
+     "minuto": "58",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/",
+    "https://www.gazetaesportiva.com/times/sao-bernardo-fc/sao-bernardo-vence-cuiaba-serie-b-rodada-36/",
+    "https://www.dgabc.com.br/Noticia/4366339/sao-bernardo-vence-cuiaba-e-mira-em-vaga-na-serie-a"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-01T21:11:00-03:00",
    "prejogo": {
     "analise": [
      "Cuiabá e São Bernardo se encontram no domingo (1º/11), às 18h30, na Arena Pantanal, pela 36ª rodada da Série B, ambos já livres do rebaixamento e com chances apenas matemáticas de playoffs. O São Bernardo é o 11º, com 49 pontos, seis atrás do CRB, que fecha o G6 com 55. O Cuiabá é o 13º, com 47, a oito do G6. Com nove pontos em disputa, só uma sequência de vitórias e uma combinação de tropeços dos rivais manteriam os dois na briga.",

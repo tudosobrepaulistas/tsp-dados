@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01T18:24:00-03:00",
+ "gerado": "2026-11-01T21:11:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -7489,14 +7489,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/"
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-pr-vence-athletic-e-quebra-sequencia-de-cinco-derrotas-na-serie-b/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-bate-operario-assume-lideranca-e-se-aproxima-do-acesso-na-serie-b/",
+    "https://placar.com.br/brasileirao/novorizontino-vence-o-operario-pr-por-2-a-1-e-segue-na-lideranca-da-serie-b/"
    ],
    "fixture": {
     "id": 91000046,
     "timestamp": 1793568600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Jorge Ismael de Biasi",
@@ -7518,8 +7520,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -7574,21 +7576,72 @@
      "atualizado": "2026-11-01T13:26:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 34,
+      "extra": null,
+      "texto": "34"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Nicolas Careca"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 38,
+      "extra": null,
+      "texto": "38"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Matheus Bianqui"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Joseph"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/"
+    "https://www.gazetaesportiva.com/times/cuiaba/cuiaba-perde-do-america-mg-e-ve-chance-de-acesso-a-serie-a-diminuir/",
+    "https://www.gazetaesportiva.com/times/sao-bernardo-fc/sao-bernardo-vence-cuiaba-serie-b-rodada-36/",
+    "https://www.dgabc.com.br/Noticia/4366339/sao-bernardo-vence-cuiaba-e-mira-em-vaga-na-serie-a"
    ],
    "fixture": {
     "id": 91000047,
     "timestamp": 1793568600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Pantanal",
@@ -7610,8 +7663,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -7666,7 +7719,56 @@
      "atualizado": "2026-11-01T13:26:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 14,
+      "extra": null,
+      "texto": "14"
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Fabrício Daniel"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+2"
+     },
+     "team": {
+      "id": 900033,
+      "name": "Cuiabá"
+     },
+     "player": {
+      "name": "Calebe Costa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Daniel Davi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -8343,6 +8445,20 @@
     [
      [
       1,
+      900021,
+      "Novorizontino",
+      67,
+      36,
+      19,
+      10,
+      7,
+      33,
+      "",
+      64,
+      31
+     ],
+     [
+      2,
       900022,
       "Juventude",
       65,
@@ -8354,20 +8470,6 @@
       "",
       47,
       25
-     ],
-     [
-      2,
-      900021,
-      "Novorizontino",
-      64,
-      35,
-      18,
-      10,
-      7,
-      32,
-      "",
-      62,
-      30
      ],
      [
       3,
@@ -8469,31 +8571,31 @@
      ],
      [
       10,
-      900029,
-      "Operário-PR",
-      51,
-      35,
+      900031,
+      "São Bernardo",
+      52,
+      36,
       14,
-      9,
+      10,
       12,
-      -1,
+      11,
       "",
-      45,
-      46
+      51,
+      40
      ],
      [
       11,
-      900031,
-      "São Bernardo",
-      49,
-      35,
+      900029,
+      "Operário-PR",
+      51,
+      36,
+      14,
+      9,
       13,
-      10,
-      12,
-      10,
+      -2,
       "",
-      49,
-      39
+      46,
+      48
      ],
      [
       12,
@@ -8514,14 +8616,14 @@
       900033,
       "Cuiabá",
       47,
-      35,
+      36,
       11,
       14,
-      10,
-      4,
+      11,
+      3,
       "",
-      32,
-      28
+      33,
+      30
      ],
      [
       14,
@@ -8960,9 +9062,21 @@
     "gols": 1
    },
    {
+    "jogador": "Calebe Costa",
+    "time": "Cuiabá",
+    "time_id": 900033,
+    "gols": 1
+   },
+   {
     "jogador": "Crystopher",
     "time": "CRB",
     "time_id": 900026,
+    "gols": 1
+   },
+   {
+    "jogador": "Daniel Davi",
+    "time": "São Bernardo",
+    "time_id": 900031,
     "gols": 1
    },
    {
@@ -8987,6 +9101,12 @@
     "jogador": "Eduardo Brock",
     "time": "Novorizontino",
     "time_id": 900021,
+    "gols": 1
+   },
+   {
+    "jogador": "Fabrício Daniel",
+    "time": "São Bernardo",
+    "time_id": 900031,
     "gols": 1
    },
    {
@@ -9026,6 +9146,12 @@
     "gols": 1
    },
    {
+    "jogador": "Joseph",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
     "jogador": "Leandro Maciel",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -9038,6 +9164,12 @@
     "gols": 1
    },
    {
+    "jogador": "Matheus Bianqui",
+    "time": "Novorizontino",
+    "time_id": 900021,
+    "gols": 1
+   },
+   {
     "jogador": "Maílton",
     "time": "Fortaleza",
     "time_id": 900024,
@@ -9047,6 +9179,12 @@
     "jogador": "Morelli",
     "time": "Botafogo-SP",
     "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Nicolas Careca",
+    "time": "Novorizontino",
+    "time_id": 900021,
     "gols": 1
    },
    {
