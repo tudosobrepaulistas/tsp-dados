@@ -2101,22 +2101,43 @@
    "data": "2026-11-02T20:30:00-03:00",
    "casa": "goias",
    "fora": "crb",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Serrinha",
    "cidade": "Goiânia",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Djalma",
+     "minuto": "41",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Cadu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Dadá Belmonte",
+     "minuto": "79",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://crboficial.com.br/futebol/crb-faz-2x1-no-londrina-e-entra-no-g6-da-serie-b"
+    "https://crboficial.com.br/futebol/crb-faz-2x1-no-londrina-e-entra-no-g6-da-serie-b",
+    "https://www.gazetaesportiva.com/times/goias/goias-vence-crb-e-cola-no-g6-da-serie-b/",
+    "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-perde-para-o-goias-amplia-jejum-como-visitante-mas-continua-no-g-6-2-a-1-946761"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-02T23:10:00-03:00",
    "prejogo": {
     "analise": [
      "Goiás e CRB fazem na segunda-feira (2/11), às 20h30, na Serrinha, em Goiânia, o jogo que fecha a 36ª rodada da Série B, um confronto direto na briga pelo G-6. Antes da rodada, o CRB é o 6º colocado, com 55 pontos, e o Goiás aparece em 9º, com 52, três atrás do rival. Sport e Atlético-GO, com 54, estão entre os dois. Depois deste jogo restam só duas rodadas.",

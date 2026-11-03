@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-02T22:27:00-03:00",
+ "gerado": "2026-11-02T23:10:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -8171,14 +8171,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://crboficial.com.br/futebol/crb-faz-2x1-no-londrina-e-entra-no-g6-da-serie-b"
+    "https://crboficial.com.br/futebol/crb-faz-2x1-no-londrina-e-entra-no-g6-da-serie-b",
+    "https://www.gazetaesportiva.com/times/goias/goias-vence-crb-e-cola-no-g6-da-serie-b/",
+    "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-perde-para-o-goias-amplia-jejum-como-visitante-mas-continua-no-g-6-2-a-1-946761"
    ],
    "fixture": {
     "id": 91000050,
     "timestamp": 1793662200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Serrinha",
@@ -8200,8 +8202,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -8254,7 +8256,56 @@
      "atualizado": "2026-11-02T14:48:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 41,
+      "extra": null,
+      "texto": "41"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Djalma"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Cadu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 79,
+      "extra": null,
+      "texto": "79"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Dadá Belmonte"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -9294,17 +9345,31 @@
       900026,
       "CRB",
       55,
-      35,
+      36,
       16,
       7,
-      12,
-      4,
+      13,
+      3,
       "",
-      53,
-      49
+      54,
+      51
      ],
      [
       7,
+      900030,
+      "Goiás",
+      55,
+      36,
+      16,
+      7,
+      13,
+      -3,
+      "",
+      38,
+      41
+     ],
+     [
+      8,
       900027,
       "Sport",
       55,
@@ -9318,7 +9383,7 @@
       39
      ],
      [
-      8,
+      9,
       900028,
       "Atlético-GO",
       55,
@@ -9330,20 +9395,6 @@
       "",
       42,
       33
-     ],
-     [
-      9,
-      900030,
-      "Goiás",
-      52,
-      35,
-      15,
-      7,
-      13,
-      -4,
-      "",
-      36,
-      40
      ],
      [
       10,
@@ -9838,6 +9889,12 @@
     "gols": 1
    },
    {
+    "jogador": "Cadu",
+    "time": "Goiás",
+    "time_id": 900030,
+    "gols": 1
+   },
+   {
     "jogador": "Caio Dantas",
     "time": "Operário-PR",
     "time_id": 900029,
@@ -9851,6 +9908,12 @@
    },
    {
     "jogador": "Crystopher",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 1
+   },
+   {
+    "jogador": "Dadá Belmonte",
     "time": "CRB",
     "time_id": 900026,
     "gols": 1
@@ -9871,6 +9934,12 @@
     "jogador": "Diego Gonçalves",
     "time": "Criciúma",
     "time_id": 900025,
+    "gols": 1
+   },
+   {
+    "jogador": "Djalma",
+    "time": "Goiás",
+    "time_id": 900030,
     "gols": 1
    },
    {
