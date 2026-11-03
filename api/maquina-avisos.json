@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-03T11:23-03:00",
+ "gerado": "2026-11-03T16:24-03:00",
  "avisos": [
-  {
-   "clube": "centro-olimpico",
-   "nome": "Centro Olímpico",
-   "quando": "2026-10-30T11:38-03:00",
-   "motivo": "Sem notícia confirmada nos últimos 7 dias em fontes aceitas",
-   "sugestao": "Balanço do Centro Olímpico no Paulista Sub-20 Série B 2026, com dados da FPF"
-  },
-  {
-   "clube": "fernandopolis",
-   "nome": "Fernandópolis",
-   "quando": "2026-10-30T16:25-03:00",
-   "motivo": "Sem notícia recente achada; Jornal CidadãoNET (principal fonte local) não abriu para leitura e a história do clube (fundação em 1961, títulos de 1979 e 1994) só aparece na Wikipédia, sem segunda fonte.",
-   "sugestao": "Fernandópolis FC completa 65 anos em 15/11/2026: matéria de aniversário com o Ninho da Águia (Estádio Cláudio Rodante) e os títulos de 1979 e 1994, conferindo no CidadãoNET e com a diretoria."
-  },
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-10-30T21:30-03:00",
-   "motivo": "Sem notícia recente em fontes jornalísticas acessíveis; histórico só encontrado em enciclopédias, sem matéria jornalística que confirme",
-   "sugestao": "Ouvir a diretoria da Esportiva Santacruzense sobre o planejamento para a Segunda Divisão de 2027, após a queda nas oitavas de 2026 para o América; ou reportagem com o jornal Debate sobre o título da A3 de 1962"
-  },
-  {
-   "clube": "ad-guarulhos",
-   "nome": "AD Guarulhos",
-   "quando": "2026-10-30T21:31-03:00",
-   "motivo": "Sem notícia recente confirmada; histórico disponível só em enciclopédia com datas conflitantes (fundação 1964 ou 1969)",
-   "sugestao": "Entrevista com a diretoria da AD Guarulhos sobre a perda de pontos no TJD em 2026 e o planejamento para 2027"
-  },
-  {
-   "clube": "assisense",
-   "nome": "Assisense",
-   "quando": "2026-10-30T21:31-03:00",
-   "motivo": "Sem notícia nova em fontes jornalísticas desde a eliminação nas oitavas da Bezinha 2026; temas recentes já cobertos pelo site",
-   "sugestao": "Balanço da campanha de 2026 (oitavas contra a Matonense) e participação na Copinha 2026 em casa, no Tonicão, com entrevista da diretoria"
-  },
-  {
-   "clube": "paulinia",
-   "nome": "Paulínia",
-   "quando": "2026-10-30T21:35-03:00",
-   "motivo": "Notícias recentes (saída do atacante João Victor para o Lemense e da base para a Ponte Preta) com só 1 fonte (Paulínia News); site oficial do clube não abriu",
-   "sugestao": "Confirmar com o Paulínia FU e o Lemense a transferência do atacante João Victor (2 gols na Bezinha 2026) e a saída do zagueiro João Vitor para a Ponte Preta; matéria sobre o derbinho de base com o SC Paulinense"
-  },
   {
    "clube": "assisense",
    "nome": "Assisense",
@@ -420,6 +378,48 @@
    "quando": "2026-11-03T11:23-03:00",
    "motivo": "Sem notícia recente (última cobertura achada é das oitavas da Bezinha, em junho); campanha de 2025 já publicada",
    "sugestao": "Redator: checar com o Diário do Grande ABC e redes do Mauá FC o planejamento para 2027 e o técnico"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-03T16:09-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias (clube sem site oficial ativo e sem cobertura recente) e os temas históricos seguros (títulos de 1928/1930) já foram usados; fontes divergem sobre os títulos.",
+   "sugestao": "Rivalidade histórica Amparo x Floresta nos anos 1920 e a história do Estádio José de Araújo Cintra, com consulta a jornal de Amparo ou ao próprio clube (X @amparoatclub)."
+  },
+  {
+   "clube": "audax",
+   "nome": "Audax",
+   "quando": "2026-11-03T16:15-03:00",
+   "motivo": "Única notícia recente (eliminação do sub-17 feminino para o São Paulo nas quartas do Paulista, 1º/11) tem só uma fonte acessível (site do São Paulo), com divergência de data do jogo de volta; time principal sem atividade (Bezinha encerrada).",
+   "sugestao": "Eliminação do Audax sub-17 feminino nas quartas do Paulista F Sub-17 (0x2 em Osasco e 0x1 no MorumBIS), conferindo com o site do Audax e a FPF; ou balanço da base do Audax em 2026."
+  },
+  {
+   "clube": "maua",
+   "nome": "Mauá",
+   "quando": "2026-11-03T16:24-03:00",
+   "motivo": "Sem notícia do Mauá FC nos últimos 7 dias (DGABC só traz pauta da cidade); tema histórico do Estádio Pedro Benedetti tem só 1 fonte jornalística acessível (DGABC) e as páginas de história bloqueiam leitura automática.",
+   "sugestao": "Quem foi Pedro Benedetti, o zagueiro do futebol amador de Mauá que dá nome ao estádio do Mauá FC (DGABC, 29/10/2024, coluna Memória de Ademir Medici; Imprensa ABC, 17/07/2020)."
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-11-03T16:24-03:00",
+   "motivo": "Sem notícia recente (clube parado fora da Bezinha). Tema do dérbi com o União Mogi depende de matéria do ge que não pôde ser lida nesta execução.",
+   "sugestao": "Dérbi de Mogi das Cruzes: Atlético x União (retrospecto até 2023, 9x0 do União em 07/11/2020 no Nogueirão), conferindo no ge Mogi das Cruzes e Suzano e em O Diário de Mogi."
+  },
+  {
+   "clube": "barcelona-capela",
+   "nome": "Barcelona Capela",
+   "quando": "2026-11-03T16:24-03:00",
+   "motivo": "Sem notícia recente; a única fonte do jejum de três anos sem vitória (última em 04/06/2023, 1x0 no ECUS) é um blog, sem segunda fonte jornalística.",
+   "sugestao": "Barcelona Capela: três anos sem vencer na Segunda Divisão (2023 a 2026), conferindo súmulas da FPF e matérias de jornal."
+  },
+  {
+   "clube": "referencia-fc",
+   "nome": "Referência FC",
+   "quando": "2026-11-03T16:24-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; últimas menções são de jogos do Paulista Sub-20 de meses atrás.",
+   "sugestao": "Balanço do Referência FC no Paulista Sub-20 de 2026, conferindo com a FPF e os sites dos adversários (ex.: Red Bull Bragantino)."
   }
  ]
 }
