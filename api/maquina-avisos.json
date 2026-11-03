@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-03T11:17-03:00",
+ "gerado": "2026-11-03T11:23-03:00",
  "avisos": [
-  {
-   "clube": "fernandopolis",
-   "nome": "Fernandópolis",
-   "quando": "2026-10-30T11:37-03:00",
-   "motivo": "Sem notícia recente nem site oficial ou jornal local encontrado; história só disponível na Wikipedia",
-   "sugestao": "Perfil histórico do Fernandópolis FC com jornal local (ex.: Jornal Cidadão de Fernandópolis) ou a FPF: fundação, estádio e campanhas"
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-10-30T11:37-03:00",
-   "motivo": "Busca não retornou notícia recente nem fonte local confiável sobre o Atlético Mogi",
-   "sugestao": "Consultar O Diário de Mogi e Mogi News sobre o planejamento do Atlético Mogi para a Segunda Divisão de 2027"
-  },
-  {
-   "clube": "cosmopolitano",
-   "nome": "Cosmopolitano",
-   "quando": "2026-10-30T11:38-03:00",
-   "motivo": "Sem notícia recente; estreia na Copinha 2026 como sede no Estádio Thelmo de Almeida confirmada só pelo Lance! (faltou 2ª fonte aceita)",
-   "sugestao": "Cosmopolitano na Copinha 2026: a reforma do Estádio Thelmo de Almeida e a campanha de estreia, com confirmação da Prefeitura de Cosmópolis ou do clube"
-  },
   {
    "clube": "centro-olimpico",
    "nome": "Centro Olímpico",
@@ -420,6 +399,27 @@
    "quando": "2026-11-03T11:17-03:00",
    "motivo": "Sem notícia recente confirmada em fontes aceitas; tema histórico principal (títulos de 1928 e 1930) já publicado",
    "sugestao": "Redator: procurar o clube nas redes oficiais e na imprensa de Amparo sobre planejamento para a Segunda Divisão 2027 (técnico, elenco, Estádio)"
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-11-03T11:20-03:00",
+   "motivo": "Sem notícia recente em fontes aceitas (O Diário de Mogi e Futebol Interior sem matéria do clube); jejum de 2023 já publicado",
+   "sugestao": "Redator: consultar as redes oficiais do Atlético Mogi sobre o planejamento para a Bezinha 2027 e a base"
+  },
+  {
+   "clube": "referencia-fc",
+   "nome": "Referência FC",
+   "quando": "2026-11-03T11:23-03:00",
+   "motivo": "Sem notícia recente em fontes aceitas; grupos da Copinha 2027 ainda não divulgados",
+   "sugestao": "Redator: quando a FPF divulgar os grupos da Copinha 2027, conferir se o Referência FC está e em que sede joga"
+  },
+  {
+   "clube": "maua",
+   "nome": "Mauá",
+   "quando": "2026-11-03T11:23-03:00",
+   "motivo": "Sem notícia recente (última cobertura achada é das oitavas da Bezinha, em junho); campanha de 2025 já publicada",
+   "sugestao": "Redator: checar com o Diário do Grande ABC e redes do Mauá FC o planejamento para 2027 e o técnico"
   }
  ]
 }
