@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-02T16:35-03:00",
+ "gerado": "2026-11-02T21:25-03:00",
  "avisos": [
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-10-30T03:18-03:00",
-   "motivo": "Sem notícia recente em fontes aceitas; a matéria do Lance! sobre o jejum do clube não abriu para conferência",
-   "sugestao": "Situação do Atlético Mogi para a Segunda Divisão 2027 (direção, elenco, estádio) com contato do clube e jornais de Mogi das Cruzes (O Diário de Mogi, Mogi News)"
-  },
-  {
-   "clube": "olimpia",
-   "nome": "Olímpia",
-   "quando": "2026-10-30T03:20-03:00",
-   "motivo": "Site oficial sem notícias desde fev/2025 e nada recente na imprensa; história do Galo Azul só achada na Wikipédia",
-   "sugestao": "Confirmar com a diretoria se o Olímpia FC volta a disputar competição da FPF em 2027; matéria histórica do Galo Azul com acervo do jornal local (Folha de Olímpia)"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-10-30T03:21-03:00",
-   "motivo": "Sem notícia do Amparo nos últimos 7 dias em fontes aceitas; só resultados do Paulista Sub-15 em agregador",
-   "sugestao": "Balanço do Amparo no Paulista Sub-15 2026 com o clube e o jornal local; história do Amparo Athlético Club e do Estádio José de Araújo Cintra"
-  },
   {
    "clube": "referencia-fc",
    "nome": "Referência FC",
@@ -420,6 +399,27 @@
    "quando": "2026-11-02T16:35-03:00",
    "motivo": "Sem fato novo depois do acesso à Série A do Paulista Sub-20 (já publicado em 29/10); clube sem site oficial cadastrado",
    "sugestao": "Acompanhar o anúncio das sedes e grupos da Copinha 2027 (Tietê foi sede em 2024, 2025 e 2026) e confirmar se o Comercial estará no torneio"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-02T21:25-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; títulos de 1928/1930 já publicados; outras fontes históricas (estádio José de Araújo Cintra, rivalidade com o Floresta) fracas",
+   "sugestao": "História do Estádio José de Araújo Cintra e do clássico com o Floresta, com consulta a jornal de Amparo ou ao clube"
+  },
+  {
+   "clube": "nacional",
+   "nome": "Nacional",
+   "quando": "2026-11-02T21:25-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em fonte de notícia; história do Ferrinho já publicada em 30/10",
+   "sugestao": "Planejamento do Nacional para a Segunda Divisão 2027 após o rebaixamento na A4 (consultar redes oficiais do clube)"
+  },
+  {
+   "clube": "gremiocatanduvense",
+   "nome": "Grêmio Catanduvense",
+   "quando": "2026-11-02T21:25-03:00",
+   "motivo": "Sem notícia nova; site oficial bloqueia leitura automática (robots) e fontes históricas divergem na data de fundação",
+   "sugestao": "Confirmar com o clube ou O Regional a chegada de Pinho e Nei Silva e o plano para 2027"
   }
  ]
 }
