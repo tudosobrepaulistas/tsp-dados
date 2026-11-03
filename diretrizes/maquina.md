@@ -62,7 +62,7 @@ Ordem de preferência:
 3. **Wikimedia Commons ou Flickr** com licença CC BY, CC BY-SA, CC0 ou domínio público (nunca NC ou ND): crédito
    `Foto: Autor / Wikimedia Commons (CC BY-SA 4.0)`. Ótimo para estádios e matérias históricas.
 - A foto precisa mostrar o assunto (o clube, o estádio, a pessoa). Nada de foto genérica de outro clube.
-- Mínimo 600 px de largura. Não use foto de agência (Getty, AGIF, Reuters etc.) nem de jornal.
+- Mínimo 600 px de largura; **prefira 1200 px ou mais** (o Google Discover só mostra foto grande). Não use foto de agência (Getty, AGIF, Reuters etc.) nem de jornal.
 - **Não achou foto segura?** Mande sem `foto`. O site guarda a matéria como **rascunho** e avisa os redatores para
   colocar a foto e publicar (a matéria passa a contar para quem finalizar).
 

@@ -23,7 +23,7 @@ O site publica na hora (sem horário fixo) e põe o link "Como foi o jogo" na p�
 - Depois: como foi o jogo (1º e 2º tempo, lances decisivos), o que muda na tabela, **próximos jogos** de cada time
   (só se a base ou as fontes confirmarem). Falas pós-jogo só entre aspas, atribuídas e com fonte.
 - 1 a 3 `h2` em pergunta: "Quem fez os gols de Grêmio x Athletico-PR?", "Como fica a classificação?", "Qual o próximo jogo do Grêmio?".
-- `foco`: "<time A> x <time B>" (ex.: "Grêmio x Athletico-PR"). `meta_title` até 65 com placar. `tags`: os dois times, a competição.
+- `foco`: "resultado <time A> x <time B>" (ex.: "resultado Grêmio x Athletico-PR"). Não use só "<A> x <B>": essa busca é da página do jogo (onde assistir/escalações), e as duas não podem competir. `meta_title` até 65 com placar. `tags`: os dois times, a competição.
 - `faq`: placar, autores dos gols, próximo jogo. `resumo`: 3 frases.
 - Sem apostas, sem notas de jogador inventadas, sem estatísticas de bancos de dados.
 
