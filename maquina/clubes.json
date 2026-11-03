@@ -195,11 +195,14 @@
    "slug": "gremiocatanduvense",
    "nome": "Grêmio Catanduvense",
    "cidade": "Catanduva",
-   "site_oficial": "",
-   "redes": [],
+   "site_oficial": "https://www.gremiocatanduvense.com.br",
+   "redes": [
+    "https://www.instagram.com/gremiocatanduvense1970/"
+   ],
    "jornais_locais": [
     "https://oregional.com.br",
-    "https://www.catanduvacidadefeitico.com.br"
+    "https://www.catanduvacidadefeitico.com.br",
+    "https://boainformacao.com.br"
    ]
   },
   {
