@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-03T15:35-03:00",
+ "gerado": "2026-11-03T16:05-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.6.0",
@@ -13,9 +13,9 @@
    "notas": "Atualização automática; pós-jogo publicado na hora, fontes à vista, publicar fora do horário."
   },
   "tsp-relatorio": {
-   "versao": "1.6.0",
-   "zip": "tsp-relatorio-1.6.0.zip",
-   "notas": "Atualização automática pelo GitHub."
+   "versao": "1.7.0",
+   "zip": "tsp-relatorio-1.7.0.zip",
+   "notas": "Função Coordenador(a) de redação: edita matérias de todos, vê o relatório da equipe (sem valores) e avalia."
   },
   "tsp-audio": {
    "versao": "1.1.0",
@@ -23,9 +23,9 @@
    "notas": "Atualização automática pelo GitHub."
   },
   "tsp-estruturas": {
-   "versao": "1.4.0",
-   "zip": "tsp-estruturas-1.4.0.zip",
-   "notas": "Atualização automática; palpites fora da API pública."
+   "versao": "1.5.0",
+   "zip": "tsp-estruturas-1.5.0.zip",
+   "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
    "versao": "1.1.0",
