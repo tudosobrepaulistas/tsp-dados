@@ -1,13 +1,6 @@
 {
- "gerado": "2026-11-02T21:25-03:00",
+ "gerado": "2026-11-03T11:17-03:00",
  "avisos": [
-  {
-   "clube": "referencia-fc",
-   "nome": "Referência FC",
-   "quando": "2026-10-30T11:10-03:00",
-   "motivo": "Sem notícia dos últimos 7 dias nem site oficial localizado; Copinha 2026 (eliminação para o Fluminense nos pênaltis na 2ª fase) só apareceu em sites fora da lista de fontes aceitas",
-   "sugestao": "Perfil do Referência FC (fundado em 2018, SAF em 2023, parceria com Embu das Artes) e as duas Copinhas (2025 e 2026), confirmando com o clube a sede e o placar de 2026"
-  },
   {
    "clube": "fernandopolis",
    "nome": "Fernandópolis",
@@ -420,6 +413,13 @@
    "quando": "2026-11-02T21:25-03:00",
    "motivo": "Sem notícia nova; site oficial bloqueia leitura automática (robots) e fontes históricas divergem na data de fundação",
    "sugestao": "Confirmar com o clube ou O Regional a chegada de Pinho e Nei Silva e o plano para 2027"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-03T11:17-03:00",
+   "motivo": "Sem notícia recente confirmada em fontes aceitas; tema histórico principal (títulos de 1928 e 1930) já publicado",
+   "sugestao": "Redator: procurar o clube nas redes oficiais e na imprensa de Amparo sobre planejamento para a Segunda Divisão 2027 (técnico, elenco, Estádio)"
   }
  ]
 }
