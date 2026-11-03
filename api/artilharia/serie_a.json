@@ -1,5 +1,11 @@
 [
  {
+  "jogador": "Wallace Yan",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
+  "gols": 3
+ },
+ {
   "jogador": "Marino Hinestroza",
   "time": "Vasco",
   "time_id": 900013,
@@ -21,12 +27,6 @@
   "jogador": "Samuel Lino",
   "time": "Flamengo",
   "time_id": 900001,
-  "gols": 2
- },
- {
-  "jogador": "Wallace Yan",
-  "time": "Red Bull Bragantino",
-  "time_id": 900010,
   "gols": 2
  },
  {
@@ -231,6 +231,12 @@
   "jogador": "Pedro Rocha",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 1
+ },
+ {
+  "jogador": "Philippe Coutinho",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 1
  },
  {

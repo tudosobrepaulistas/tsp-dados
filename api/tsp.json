@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-02T20:26:00-03:00",
+ "gerado": "2026-11-02T22:09:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -3886,14 +3886,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-perde-bragantino-cai-nono-brasileirao-2026/",
+    "https://www.lance.com.br/futebol-nacional/santos-sofre-com-gol-contra-e-perde-para-o-bragantino-no-brasileirao.html"
    ],
    "fixture": {
     "id": 91000021,
     "timestamp": 1793660400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Cícero de Souza Marques",
@@ -3915,8 +3917,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -3969,7 +3971,56 @@
      "atualizado": "2026-11-02T14:48:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Rodinei"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Philippe Coutinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Wallace Yan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -8962,31 +9013,31 @@
      ],
      [
       8,
-      900008,
-      "Santos",
+      900010,
+      "Red Bull Bragantino",
       47,
-      33,
-      12,
-      11,
-      10,
-      2,
+      34,
+      13,
+      8,
+      13,
+      5,
       "",
-      49,
-      47
+      44,
+      39
      ],
      [
       9,
-      900010,
-      "Red Bull Bragantino",
-      44,
-      33,
+      900008,
+      "Santos",
+      47,
+      34,
       12,
-      8,
-      13,
-      4,
+      11,
+      11,
+      1,
       "",
-      42,
-      38
+      50,
+      49
      ],
      [
       10,
@@ -9435,6 +9486,12 @@
  "artilharia": {
   "serie_a": [
    {
+    "jogador": "Wallace Yan",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 3
+   },
+   {
     "jogador": "Marino Hinestroza",
     "time": "Vasco",
     "time_id": 900013,
@@ -9456,12 +9513,6 @@
     "jogador": "Samuel Lino",
     "time": "Flamengo",
     "time_id": 900001,
-    "gols": 2
-   },
-   {
-    "jogador": "Wallace Yan",
-    "time": "Red Bull Bragantino",
-    "time_id": 900010,
     "gols": 2
    },
    {
@@ -9666,6 +9717,12 @@
     "jogador": "Pedro Rocha",
     "time": "Coritiba",
     "time_id": 900012,
+    "gols": 1
+   },
+   {
+    "jogador": "Philippe Coutinho",
+    "time": "Santos",
+    "time_id": 900008,
     "gols": 1
    },
    {

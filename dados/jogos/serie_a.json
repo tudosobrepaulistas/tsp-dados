@@ -1865,22 +1865,43 @@
    "data": "2026-11-02T20:00:00-03:00",
    "casa": "bragantino",
    "fora": "santos",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Cícero de Souza Marques",
    "cidade": "Bragança Paulista",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Rodinei",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Philippe Coutinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Wallace Yan",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-perde-bragantino-cai-nono-brasileirao-2026/",
+    "https://www.lance.com.br/futebol-nacional/santos-sofre-com-gol-contra-e-perde-para-o-bragantino-no-brasileirao.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-02T22:09:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
