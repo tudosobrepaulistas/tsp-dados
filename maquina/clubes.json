@@ -189,8 +189,13 @@
    "nome": "Flamengo SP",
    "cidade": "Guarulhos",
    "site_oficial": "",
-   "redes": [],
-   "jornais_locais": []
+   "redes": [
+    "https://x.com/flaguarulhos"
+   ],
+   "jornais_locais": [
+    "https://www.guarulhoshoje.com.br",
+    "https://www.clickguarulhos.com.br"
+   ]
   },
   {
    "slug": "gremiocatanduvense",
