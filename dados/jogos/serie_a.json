@@ -2157,7 +2157,36 @@
      "https://www.jornaldocomercio.com/esportes/2026/10/1268816-com-dois-gols-de-bola-parada-gremio-vence-o-atlhetico-pr-no-campeonato-brasileiro.html",
      "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-o-gremio-e-reduz-vantagem-do-palmeiras-no-brasileirao/"
     ],
-    "atualizado": "2026-11-01T21:32:00-03:00"
+    "atualizado": "2026-11-04T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-gremio-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Leonardo Jardim",
+      "time": "Rossi; Varela, Léo Ortiz, Léo Pereira e Emerson Royal (Ayrton Lucas); Pulgar, Jorginho e Arrascaeta; Carrascal, Samuel Lino e Pedro",
+      "desfalques": "",
+      "duvidas": "Emerson Royal ou Ayrton Lucas na lateral esquerda"
+     },
+     "fora": {
+      "tecnico": "Renato Gaúcho",
+      "time": "Gabriel Grando; Gustavo Martins, Kannemann e Wallace; João Pedro, Noriega, Villasanti e Caio Paulista (Marlon); Amuzu, Aravena e Braithwaite",
+      "desfalques": "",
+      "duvidas": "Caio Paulista ou Marlon na ala esquerda"
+     },
+     "fontes": [
+      "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-gremio-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/"
+     ],
+     "atualizado": "2026-11-04T14:25:00-03:00"
+    }
    }
   },
   {
@@ -2194,7 +2223,44 @@
      "https://www.oliberal.com/esportes/pedro-e-samuel-lino-fazem-dois-cada-flamengo-goleia-vasco-e-abre-tres-pontos-na-lideranca-1.1188697",
      "https://www.jornaldocomercio.com/esportes/2026/10/1268816-com-dois-gols-de-bola-parada-gremio-vence-o-atlhetico-pr-no-campeonato-brasileiro.html"
     ],
-    "atualizado": "2026-11-01T21:32:00-03:00"
+    "atualizado": "2026-11-04T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Record",
+       "tipo": "tv aberta"
+      },
+      {
+       "nome": "CazéTV",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.lance.com.br/onde-assistir/athletico-pr-x-vasco-onde-assistir-horario-e-escalacoes.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Odair Hellmann",
+      "time": "Mycael; Arthur Dias, Aguirre e Esquivel; Gilberto, Jadson, Luiz Gustavo e Mendoza; João Cruz, Viveros e Leozinho",
+      "desfalques": "",
+      "duvidas": ""
+     },
+     "fora": {
+      "tecnico": "Pedro Emanuel",
+      "time": "Léo Jardim; Puma, Saldivia (Gabriel Pereira), Robert Renan (Lucas Freitas) e Cuiabano; Sosa (Jair), Ramon Rique e Lescano; Colidio, Adson e Brenner",
+      "desfalques": "Marino (tratamento no tornozelo, ficou no Rio)",
+      "duvidas": "Saldivia ou Gabriel Pereira, Robert Renan ou Lucas Freitas e Sosa ou Jair; Andrés Gómez volta a ser relacionado"
+     },
+     "fontes": [
+      "https://www.lance.com.br/onde-assistir/athletico-pr-x-vasco-onde-assistir-horario-e-escalacoes.html"
+     ],
+     "atualizado": "2026-11-04T14:25:00-03:00"
+    }
    }
   },
   {

@@ -32,7 +32,31 @@
      "https://www.opovo.com.br/esportes/2026/10/23/definidos-os-confrontos-das-semifinais-da-copa-do-brasil-feminina.html",
      "https://www.acessa.com/esporte/2026/10/342651-inter-e-bragantino-avancam-as-semifinais-da-copa-do-brasil-feminina.html"
     ],
-    "atualizado": "2026-11-01T21:32:00-03:00"
+    "atualizado": "2026-11-04T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "SporTV",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Lance!TV",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "X Sports",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "NSports",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-enfrentam-o-internacional-pela-partida-de-ida-das-semifinais-da-copa-do-brasil-feminina",
+      "https://www.otempo.com.br/sports/futebol-feminino/2026/11/3/semifinais-da-copa-do-brasil-feminina-comecam-nesta-terca-lancetv-transmite-inter-x-bragantino"
+     ]
+    }
    }
   },
   {
