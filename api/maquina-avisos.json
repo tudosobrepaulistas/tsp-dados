@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-03T21:29-03:00",
+ "gerado": "2026-11-03T21:36-03:00",
  "avisos": [
-  {
-   "clube": "manthiqueira",
-   "nome": "Manthiqueira",
-   "quando": "2026-10-31T11:22-03:00",
-   "motivo": "Sem notícia recente nas fontes aceitas; título da Segunda Divisão de 2017 e Copinha só aparecem na Wikipédia, sem segunda fonte jornalística",
-   "sugestao": "Redator: confirmar com o clube ou a FPF o título paulista de 2017 do Carrossel do Vale e contar a mudança do clube para Guaratinguetá em 2010 e o estádio Ninho da Garça"
-  },
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-10-31T11:24-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias nas fontes aceitas e sem tema histórico com fonte jornalística além da Wikipédia",
-   "sugestao": "Redator: pedir ao clube ou à imprensa de Santa Cruz do Rio Pardo dados da história da Santacruzense e o planejamento para a Bezinha 2027"
-  },
   {
    "clube": "santa-fe",
    "nome": "Santa Fé",
@@ -420,6 +406,20 @@
    "quando": "2026-11-03T21:29-03:00",
    "motivo": "Sem notícia nos últimos 7 dias (entressafra, clube sem site oficial ativo) e sem novo tema histórico com fonte jornalística além do já publicado (Diego Costa)",
    "sugestao": "Redator: procurar o clube no Facebook oficial e na imprensa da zona sul de SP para uma matéria sobre a fundação do Barcelona Capela e a origem do nome, ou sobre o planejamento para a Bezinha de 2027"
+  },
+  {
+   "clube": "santa-fe",
+   "nome": "Santa Fé",
+   "quando": "2026-11-03T21:36-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias (entressafra) e sem fonte jornalística suficiente para fechar a campanha do clube como sede da Copinha 2026",
+   "sugestao": "Redator: matéria sobre o Santa Fé como sede do Grupo 1 da Copinha 2026 (Chapecoense, Volta Redonda e Atlético Alagoinhas), com os resultados confirmados no site da FPF, ou se Santa Fé do Sul volta a ser sede em 2027"
+  },
+  {
+   "clube": "tupa",
+   "nome": "Tupã",
+   "quando": "2026-11-03T21:36-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; temas recentes (volta ao Alonsão, nova diretoria) já publicados; reforço do atacante Bill aos 41 anos só tem uma fonte",
+   "sugestao": "Redator: confirmar com o Tupã FC se o centroavante Bill (ex-Corinthians, 41 anos) segue no clube para 2027 e fazer perfil; ou retrospectiva da Bezinha 2026 (classificação e queda para o Independente nas oitavas)"
   }
  ]
 }
