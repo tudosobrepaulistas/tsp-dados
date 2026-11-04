@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-04T02:17-03:00",
+ "gerado": "2026-11-04T02:33-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.6.0",
@@ -28,9 +28,14 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.1.3",
-   "zip": "tsp-nova-era-1.1.3.zip",
-   "notas": "6 matérias do mesmo clube no fim da matéria; vitrine só do clube principal; códigos de terceiros removidos; segurança."
+   "versao": "1.2.0",
+   "zip": "tsp-nova-era-1.2.0.zip",
+   "notas": "Vitrine com Mercado Livre e Shopee (só do clube da página); 6 matérias do clube no rodapé; códigos de terceiros removidos."
+  },
+  "tsp-shopee": {
+   "versao": "1.0.0",
+   "zip": "tsp-shopee-1.0.0.zip",
+   "notas": "Vitrines automáticas da Shopee por clube (API de afiliados)."
   }
  }
 }
