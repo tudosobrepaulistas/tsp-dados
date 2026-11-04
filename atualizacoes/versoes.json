@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-04T15:06-03:00",
+ "gerado": "2026-11-04T16:48-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.6.1",
@@ -8,14 +8,14 @@
    "notas": "Próximos jogos não mostram mais partida que já terminou."
   },
   "tsp-maquina": {
-   "versao": "1.5.1",
-   "zip": "tsp-maquina-1.5.1.zip",
-   "notas": "Fase 2: Paulistão A4 + sem divisão."
+   "versao": "1.5.2",
+   "zip": "tsp-maquina-1.5.2.zip",
+   "notas": "Máquina: A4, feminino e sem divisão (responsável Thiago Barbalho)."
   },
   "tsp-relatorio": {
-   "versao": "1.7.0",
-   "zip": "tsp-relatorio-1.7.0.zip",
-   "notas": "Função Coordenador(a) de redação: edita matérias de todos, vê o relatório da equipe (sem valores) e avalia."
+   "versao": "1.8.0",
+   "zip": "tsp-relatorio-1.8.0.zip",
+   "notas": "Limite de ouro: no máximo 12 matérias por dia por redator (o excedente vai para o próximo dia); agenda de até 20; coordenação edita perfil dos redatores; pautas e clubes carentes só A1 a A3."
   },
   "tsp-audio": {
    "versao": "1.1.0",
