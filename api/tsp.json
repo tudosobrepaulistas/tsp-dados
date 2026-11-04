@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-03T20:33:00-03:00",
+ "gerado": "2026-11-03T21:26:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -8506,47 +8506,6 @@
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
    ],
    "fixture": {
-    "id": 91000136,
-    "timestamp": 1794007800,
-    "status": {
-     "short": "NS",
-     "elapsed": null
-    },
-    "venue": {
-     "name": "OBA",
-     "city": "Goiânia"
-    },
-    "referee": ""
-   },
-   "league": {
-    "round": "Rodada 37"
-   },
-   "teams": {
-    "home": {
-     "id": 900023,
-     "name": "Vila Nova"
-    },
-    "away": {
-     "id": 900025,
-     "name": "Criciúma"
-    }
-   },
-   "goals": {
-    "home": null,
-    "away": null
-   },
-   "penaltis": "",
-   "prejogo": {},
-   "events": []
-  },
-  {
-   "liga": "serie_b",
-   "temporada": 2026,
-   "obs": "",
-   "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
-   ],
-   "fixture": {
     "id": 91000137,
     "timestamp": 1794011400,
     "status": {
@@ -8660,6 +8619,65 @@
    },
    "penaltis": "",
    "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "Remarcado pela CBF a pedido da PM de Goiás (era sexta, 6/11, 20h30)",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://esportegoiano.com.br/vila-nova-criciuma-37-rodada-serie-b-sofre-alteracao-data-horario/"
+   ],
+   "fixture": {
+    "id": 91000136,
+    "timestamp": 1794092400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "OBA",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900023,
+     "name": "Vila Nova"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {
+    "analise": [
+     "Vila Nova e Criciúma fazem no sábado (7/11), às 20h, no OBA, em Goiânia, um confronto direto da 37ª e penúltima rodada da Série B. O Vila Nova é o 3º colocado, com 63 pontos; o Criciúma é o 4º, com 62. Os dois já estão garantidos nos playoffs (do 3º ao 6º lugar) e agora brigam pelas duas vagas de acesso direto, reservadas a campeão e vice. Acima deles estão Novorizontino (67) e Juventude (65); logo atrás, o Fortaleza também soma 62.",
+     "O Vila Nova chega sem vencer há três jogos: empatou por 2 a 2 com o Novorizontino em casa, perdeu por 3 a 2 para o São Bernardo fora e voltou a empatar por 2 a 2 com o Juventude no OBA, no sábado (31/10). Nos últimos cinco jogos, foram uma vitória, três empates e uma derrota. O time tem 52 gols marcados e 38 sofridos em 36 rodadas.",
+     "O Criciúma vive momento melhor: venceu três dos últimos cinco jogos, incluindo o 2 a 0 sobre a Ponte Preta, na sexta-feira (30/10), no Heriberto Hülse. Longe de casa, oscilou na reta final, com vitórias sobre Londrina (2 a 0) e São Bernardo (1 a 0) e derrotas para Ceará (1 a 0) e Sport (2 a 1). O meia Fellipe Mateus marcou nos dois últimos jogos do time. A defesa sofreu 30 gols, uma das menores marcas da competição.",
+     "Segundo o SC Todo Dia, o técnico Umberto Louzer não terá Gui Lobo, suspenso pelo terceiro cartão amarelo, mas recupera Romarinho. O jogo estava marcado para sexta (6/11), às 20h30, e foi transferido para sábado pela CBF a pedido da Polícia Militar de Goiás, segundo o Esporte Goiano. Bruno Arleu de Araújo (RJ) apita, com VAR de Paulo Renato Moreira da Silva Coelho (RJ). Na última rodada, o Criciúma recebe o Novorizontino."
+    ],
+    "retrospecto": "No primeiro turno desta Série B, em 18 de julho, o Criciúma venceu o Vila Nova por 2 a 0 no Heriberto Hülse, com gols de Fellipe Mateus e Marcelo Hermes, diante de 11.741 torcedores (fonte: Diário do Grande ABC).",
+    "estadio_wiki": "Estádio Onésio Brasileiro Alvarenga",
+    "fontes": [
+     "https://www.otempo.com.br/sports/futebol-nacional/2026/11/3/campeao-e-rebaixamento-o-que-pode-acontecer-na-proxima-rodada-da-serie-b",
+     "https://sctd.com.br/esporte/criciuma-garante-vaga-nos-playoffs-da-serie-b-e-mira-acesso-direto/",
+     "https://esportegoiano.com.br/vila-nova-criciuma-37-rodada-serie-b-sofre-alteracao-data-horario/",
+     "https://esportegoiano.com.br/arbitro-carioca-apita-vila-nova-x-criciuma-saiba-escala-completa",
+     "https://www.dgabc.com.br/Noticia/4336035/criciuma-bate-vila-nova-em-casa-e-abre-distancia-na-lideranca-da-serie-b"
+    ],
+    "atualizado": "2026-11-03T21:26:00-03:00"
+   },
    "events": []
   },
   {
