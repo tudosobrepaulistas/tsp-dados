@@ -551,10 +551,14 @@
    "slug": "gremio-saocarlense",
    "nome": "Grêmio São-Carlense",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "São Carlos",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.saocarlosagora.com.br/esportes/",
+    "https://jornalpp.com.br/noticias/esporte/",
+    "https://www.acidadeon.com/saocarlos/esportes/"
+   ]
   },
   {
    "slug": "independente",
