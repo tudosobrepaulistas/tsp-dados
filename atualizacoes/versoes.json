@@ -1,16 +1,16 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-04T02:33-03:00",
+ "gerado": "2026-11-04T15:06-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.6.0",
-   "zip": "tsp-jogos-1.6.0.zip",
-   "notas": "Atualização automática pelo GitHub; pós-jogo e melhorias da página do jogo."
+   "versao": "1.6.1",
+   "zip": "tsp-jogos-1.6.1.zip",
+   "notas": "Próximos jogos não mostram mais partida que já terminou."
   },
   "tsp-maquina": {
-   "versao": "1.5.0",
-   "zip": "tsp-maquina-1.5.0.zip",
-   "notas": "Atualização automática; pós-jogo publicado na hora, fontes à vista, publicar fora do horário."
+   "versao": "1.5.1",
+   "zip": "tsp-maquina-1.5.1.zip",
+   "notas": "Fase 2: Paulistão A4 + sem divisão."
   },
   "tsp-relatorio": {
    "versao": "1.7.0",
@@ -28,14 +28,14 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.2.0",
-   "zip": "tsp-nova-era-1.2.0.zip",
-   "notas": "Vitrine com Mercado Livre e Shopee (só do clube da página); 6 matérias do clube no rodapé; códigos de terceiros removidos."
+   "versao": "1.2.1",
+   "zip": "tsp-nova-era-1.2.1.zip",
+   "notas": "Vitrine no meio da matéria (também em textos com quebras de linha); vitrine geral alternando com a do clube."
   },
   "tsp-shopee": {
-   "versao": "1.0.0",
-   "zip": "tsp-shopee-1.0.0.zip",
-   "notas": "Vitrines automáticas da Shopee por clube (API de afiliados)."
+   "versao": "1.1.0",
+   "zip": "tsp-shopee-1.1.0.zip",
+   "notas": "Vitrine geral (eletrônicos e futebol) para clubes sem produtos."
   }
  }
 }
