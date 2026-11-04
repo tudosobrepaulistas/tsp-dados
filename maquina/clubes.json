@@ -554,10 +554,13 @@
    "slug": "independente",
    "nome": "Independente",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Limeira",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://rapidonoar.com.br",
+    "https://www.futebolinterior.com.br"
+   ]
   },
   {
    "slug": "jabaquara",
