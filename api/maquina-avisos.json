@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-04T06:31-03:00",
+ "gerado": "2026-11-04T11:25-03:00",
  "avisos": [
-  {
-   "clube": "ad-guarulhos",
-   "nome": "AD Guarulhos",
-   "quando": "2026-10-31T11:24-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias nas fontes aceitas e sem tema histórico com fonte jornalística além da Wikipédia",
-   "sugestao": "Redator: origem do Índio Guaru (ex-AD Vila das Palmeiras, nome atual desde 1994) com a imprensa de Guarulhos e o desfecho das punições no TJD em 2026"
-  },
-  {
-   "clube": "assisense",
-   "nome": "Assisense",
-   "quando": "2026-10-31T16:08-03:00",
-   "motivo": "Sem notícia do Assisense nos últimos 7 dias em fontes aceitas; história do clube só encontrada na Wikipédia",
-   "sugestao": "Perfil do Falcão do Vale (fundado em 1995 a partir da escolinha Peraltinha) e do Estádio Tonicão com o clube e jornal de Assis (Voz da Terra); checar planos para a Segunda Divisão 2027"
-  },
   {
    "clube": "manthiqueira",
    "nome": "Manthiqueira",
@@ -420,6 +406,20 @@
    "quando": "2026-11-04T06:31-03:00",
    "motivo": "Sem notícia recente encontrada em veículos aceitos e sem site oficial cadastrado; buscas só retornam o Barcelona da Espanha",
    "sugestao": "Redator: conferir redes oficiais do Barcelona Capela (elenco e planejamento para a Bezinha 2027) ou contar a história da fundação do clube na Capela do Socorro com fonte"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-04T11:25-03:00",
+   "motivo": "Sem notícia recente em site oficial ou jornal; títulos de 1928/1930 já usados",
+   "sugestao": "Perfil do Estádio José de Araújo Cintra ou ex-jogadores do Leão da Montanha, com fonte de jornal de Amparo"
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-11-04T11:25-03:00",
+   "motivo": "Sem notícia recente; dados do clássico com o União Mogi só na Wikipédia (desatualizados)",
+   "sugestao": "Clássico mogiano Atlético x União: retrospecto conferido com O Diário de Mogi"
   }
  ]
 }
