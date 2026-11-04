@@ -2269,28 +2269,6 @@
    }
   },
   {
-   "id": 91000137,
-   "data": "2026-11-06T21:30:00-03:00",
-   "casa": "cuiaba",
-   "fora": "juventude",
-   "status": "agendado",
-   "rodada": "37",
-   "fase": "",
-   "grupo": "",
-   "estadio": "Arena Pantanal",
-   "cidade": "Cuiabá",
-   "gols_casa": null,
-   "gols_fora": null,
-   "penaltis": "",
-   "minuto": 0,
-   "gols": [],
-   "obs": "",
-   "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
-   ],
-   "atualizado": "2026-11-02T01:54:00-03:00"
-  },
-  {
    "id": 91000138,
    "data": "2026-11-07T16:00:00-03:00",
    "casa": "avai",
@@ -2373,6 +2351,50 @@
      "https://www.dgabc.com.br/Noticia/4336035/criciuma-bate-vila-nova-em-casa-e-abre-distancia-na-lideranca-da-serie-b"
     ],
     "atualizado": "2026-11-03T21:26:00-03:00"
+   }
+  },
+  {
+   "id": 91000137,
+   "data": "2026-11-07T20:00:00-03:00",
+   "casa": "cuiaba",
+   "fora": "juventude",
+   "status": "agendado",
+   "rodada": "37",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "Remarcado pela CBF de sexta (6/11), 21h30, para sábado (7/11), 20h, por ajuste da grade de TV",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.radiocaxias.com.br/cbf-altera-horarios-e-data-das-proximas-partidas-do-juventude-da-serie-b/"
+   ],
+   "atualizado": "2026-11-03T22:26:00-03:00",
+   "prejogo": {
+    "analise": [
+     "Cuiabá e Juventude se enfrentam no sábado (7/11), às 20h (de Brasília), na Arena Pantanal, em Cuiabá, pela 37ª e penúltima rodada da Série B. O jogo foi remarcado pela CBF: estava previsto para sexta-feira (6/11), às 21h30. Para o Juventude, vale a briga pelo acesso direto: o time gaúcho é o 2º colocado, com 65 pontos, dois atrás do líder Novorizontino (67) e dois à frente do Vila Nova (63), com Criciúma e Fortaleza logo atrás, ambos com 62. Os dois primeiros sobem direto; do 3º ao 6º, as equipes disputam as outras vagas em playoffs, e o Juventude já tem pelo menos o mata-mata garantido matematicamente.",
+     "O Cuiabá é o 13º, com 47 pontos, e já não tem nada a decidir: está livre do rebaixamento e sem chance de alcançar os playoffs. A fase é ruim. O time perdeu os quatro últimos jogos — Avaí (1 a 0) e São Bernardo (2 a 1) na Arena Pantanal, Londrina (1 a 0) e América-MG (1 a 0) fora — e não vence desde o 2 a 0 sobre a Ponte Preta, em 3 de outubro. Na derrota de domingo (1º/11) para o São Bernardo, o gol foi do jovem Calebe Costa.",
+     "O Juventude chega com seis jogos de invencibilidade na Série B. Nos três mais recentes como visitante, venceu a Ponte Preta (2 a 0) e empatou com Ceará e Vila Nova, ambos por 2 a 2. No sábado (31/10), em Goiânia, o time buscou o empate duas vezes contra o Vila Nova, com gols de Lucas Alves e Alisson Safira, em gramado encharcado pela chuva.",
+     "Segundo o Olhar Esportivo, o Cuiabá somou só 4 dos últimos 21 pontos disputados, e o técnico Eduardo Barros tem dado espaço a jovens da base, como Lorenzo, Kauan Cristtyan, Calebe e David Miguel. No Juventude, o técnico Maurício Barbieri não terá o zagueiro Messias, expulso contra o Vila Nova, mas recupera Gabriel Pinheiro e Fábio Lima, que desfalcaram o time em Goiânia, de acordo com o Leouve. Na última rodada, no sábado (14/11), o Cuiabá visita o Atlético-GO."
+    ],
+    "retrospecto": "No primeiro turno da Série B de 2026, em 17 de julho, pela 18ª rodada, o Juventude venceu o Cuiabá por 2 a 0 no Alfredo Jaconi, em Caxias do Sul, com gols de Alisson Safira e Raí Silva (Gazeta Esportiva).",
+    "estadio_wiki": "Arena Pantanal",
+    "fontes": [
+     "https://www.radiocaxias.com.br/cbf-altera-horarios-e-data-das-proximas-partidas-do-juventude-da-serie-b/",
+     "https://www.tnh1.com.br/noticia/nid/serie-b-tem-quatro-times-brigando-pela-ultima-vaga-do-g6-veja-chances-de-titulo-g2-e-playoffs/",
+     "https://www.olharesportivo.com.br/no-momento-crucial-da-s%C3%A9rie-b-cuiab%C3%A1-conquista-apenas-quatro-dos-%C3%BAltimos-21-pontos-disputados",
+     "https://placar.com.br/brasileirao/sao-bernardo-vence-cuiaba-por-2-a-1-pela-serie-b/",
+     "https://www.radiocaxias.com.br/em-confronto-direto-juventude-empata-com-o-vila-nova-e-permanece-no-g-2-da-serie-b/",
+     "https://leouve.com.br/esportes/juventude-tera-desfalque-de-zagueiro-para-jogo-diante-do-cuiaba/",
+     "https://www.gazetaesportiva.com/?p=3823081",
+     "https://www.diariodepernambuco.com.br/esportes-dp/nacional/2026/02/11706995-serie-b-muda-formato-e-tera-playoffs-para-definir-acesso-veja-detalhes.html"
+    ],
+    "atualizado": "2026-11-03T22:26:00-03:00"
    }
   },
   {
