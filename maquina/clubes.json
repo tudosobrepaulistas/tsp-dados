@@ -491,10 +491,16 @@
    "slug": "america-de-rio-preto",
    "nome": "América de Rio Preto",
    "grupo": "a4",
-   "cidade": "",
-   "site_oficial": "",
-   "redes": [],
-   "jornais_locais": []
+   "cidade": "São José do Rio Preto",
+   "site_oficial": "https://www.americasp.com",
+   "redes": [
+    "https://www.instagram.com/oficialamericasp"
+   ],
+   "jornais_locais": [
+    "https://www.diariodaregiao.com.br",
+    "https://www.gazetaderiopreto.com.br",
+    "https://regiaonoroeste.com"
+   ]
   },
   {
    "slug": "barretos",
