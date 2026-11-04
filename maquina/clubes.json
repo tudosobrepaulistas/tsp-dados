@@ -1,6 +1,6 @@
 {
  "fase": 2,
- "nota": "Fase 2 (teste): Paulistão A4 (16 clubes, prioridade) + os 41 clubes sem divisão / Segunda Divisão. Próximas fases: A3, A2...",
+ "nota": "Máquina de Notícias (responsável: Thiago Barbalho): Paulistão A4 (16, prioridade), futebol feminino (8) e os 41 clubes sem divisão / Segunda Divisão. A redação cobre o Paulistão A1, A2 e A3 (48 clubes).",
  "horarios": [
   "08:00",
   "09:30",
@@ -639,6 +639,78 @@
    "slug": "vocem",
    "nome": "VOCEM",
    "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "grupo": "feminino",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "palmeiras-feminino",
+   "nome": "Palmeiras Feminino",
+   "grupo": "feminino",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "sao-paulo-feminino",
+   "nome": "São Paulo Feminino",
+   "grupo": "feminino",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "santos-feminino",
+   "nome": "Santos Feminino",
+   "grupo": "feminino",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "ferroviaria-feminino",
+   "nome": "Ferroviária Feminino",
+   "grupo": "feminino",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "red-bull-bragantino-feminino",
+   "nome": "Red Bull Bragantino Feminino",
+   "grupo": "feminino",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "grupo": "feminino",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "taubate-feminino",
+   "nome": "Taubaté Feminino",
+   "grupo": "feminino",
    "cidade": "",
    "site_oficial": "",
    "redes": [],
