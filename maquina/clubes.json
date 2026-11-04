@@ -576,10 +576,13 @@
    "slug": "jabaquara",
    "nome": "Jabaquara",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Santos",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.boqnews.com",
+    "https://www.atribuna.com.br"
+   ]
   },
   {
    "slug": "jacarei",
