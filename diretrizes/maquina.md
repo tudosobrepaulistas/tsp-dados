@@ -3,8 +3,8 @@
 Uma matéria a cada 1h30, das 8h às 23h (horários em `maquina/clubes.json`), publicada sozinha no site, sem revisão humana.
 Por isso o padrão é o do Radar Palestrino: **nada sem fonte, nada inventado, texto próprio do TSP.**
 
-**Fase 1: só os 41 clubes de `maquina/clubes.json`** (sem divisão / Segunda Divisão, a "Bezinha").
-Próximas fases: Paulistão A4, depois A3, depois A2. Não escreva sobre clube fora da lista.
+**Fase 2 (teste): Paulistão A4 (16 clubes, prioridade) + os 41 sem divisão / Segunda Divisão**, todos em `maquina/clubes.json` (campo `grupo`).
+`proximo` sugere primeiro os clubes da A4. Próximas fases: A3, depois A2. Não escreva sobre clube fora da lista.
 
 ## Varredura (como cada execução funciona)
 Cada execução é uma **varredura**: escreve de **5 a 6 matérias**, de clubes diferentes, e cada uma vai para o próximo horário livre

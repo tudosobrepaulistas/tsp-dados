@@ -1,6 +1,6 @@
 {
- "fase": 1,
- "nota": "Fase 1: só estes 41 clubes (sem divisão / Segunda Divisão). Próximas fases: Paulistão A4, depois A3, A2...",
+ "fase": 2,
+ "nota": "Fase 2 (teste): Paulistão A4 (16 clubes, prioridade) + os 41 clubes sem divisão / Segunda Divisão. Próximas fases: A3, A2...",
  "horarios": [
   "08:00",
   "09:30",
@@ -25,7 +25,8 @@
     "https://radiofreigalvao.org.br",
     "https://www.jogandojuntos.com.br",
     "https://www.jornaldeguara.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "ad-guarulhos",
@@ -36,7 +37,8 @@
    "jornais_locais": [
     "https://www.fmetropolitana.com.br",
     "https://guarulhosweb.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "amparo",
@@ -44,7 +46,8 @@
    "cidade": "Amparo",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "aracatuba",
@@ -57,7 +60,8 @@
    "jornais_locais": [
     "https://sampi.net.br/aracatuba",
     "https://lr1.com.br/cidades/aracatuba"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "assisense",
@@ -68,7 +72,8 @@
    "jornais_locais": [
     "https://www.assiscity.com",
     "https://www.jornaldasegunda.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "aster-itaqua",
@@ -79,7 +84,8 @@
    "jornais_locais": [
     "https://boainformacao.com.br",
     "https://www.futebolinterior.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "atletico-mogi",
@@ -90,7 +96,8 @@
    "jornais_locais": [
     "https://www.odiariodemogi.net.br",
     "https://www.futebolinterior.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "audax",
@@ -100,7 +107,8 @@
    "redes": [
     "https://www.flickr.com/photos/osascoaudax/"
    ],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "bandeirante_brodowski",
@@ -108,7 +116,8 @@
    "cidade": "Brodowski",
    "site_oficial": "https://cabandeirante.com.br",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "barcelona-capela",
@@ -118,7 +127,8 @@
    "redes": [
     "https://www.facebook.com/barcelonaesportivooficial"
    ],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "batatais",
@@ -128,7 +138,8 @@
    "redes": [],
    "jornais_locais": [
     "https://batatais24h.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "centro-olimpico",
@@ -139,7 +150,8 @@
    "jornais_locais": [
     "https://abcdoabc.com.br",
     "https://www.gazetasp.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "comercial-tiete",
@@ -150,7 +162,8 @@
    "jornais_locais": [
     "https://t7news.com.br",
     "https://www.futebolinterior.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "cosmopolitano",
@@ -162,7 +175,8 @@
     "https://tvjaguari.com.br",
     "https://tododia.com.br",
     "https://portalon.com.br/cosmopolis"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "ec-meia-noite",
@@ -170,7 +184,8 @@
    "cidade": "Patrocínio Paulista",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "fernandopolis",
@@ -182,7 +197,8 @@
     "https://regiaonoroeste.com",
     "https://oextra.net",
     "https://www.futebolinterior.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "flamengo-sp",
@@ -195,7 +211,8 @@
    "jornais_locais": [
     "https://www.guarulhoshoje.com.br",
     "https://www.clickguarulhos.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "gremiocatanduvense",
@@ -209,7 +226,8 @@
     "https://oregional.com.br",
     "https://www.catanduvacidadefeitico.com.br",
     "https://boainformacao.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "ibrachina",
@@ -217,7 +235,8 @@
    "cidade": "São Paulo (Mooca)",
    "site_oficial": "https://ibrachina.com.br",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "itaquaquecetuba",
@@ -229,7 +248,8 @@
     "https://portalgazetaregional.com.br",
     "https://www.odiariodemogi.net.br",
     "https://www.itaquareporter.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "josebonifacio",
@@ -237,7 +257,8 @@
    "cidade": "José Bonifácio",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "manthiqueira",
@@ -249,7 +270,8 @@
     "https://www.band.com.br/band-vale",
     "https://jogandojuntos.com.br",
     "https://www.meon.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "matonense",
@@ -260,7 +282,8 @@
    "jornais_locais": [
     "https://acomarcanet.com.br/",
     "https://www.falamatao.com.br/"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "mauaense",
@@ -271,7 +294,8 @@
    "jornais_locais": [
     "https://www.dgabc.com.br",
     "https://abcdoabc.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "maua",
@@ -282,7 +306,8 @@
    "jornais_locais": [
     "https://www.dgabc.com.br",
     "https://abcdoabc.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "mogi-mirim-ec",
@@ -294,7 +319,8 @@
     "https://opopularmm.com.br",
     "https://omogiano.com.br",
     "https://oimpactomogi.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "nacional",
@@ -304,7 +330,8 @@
    "redes": [
     "https://x.com/nacionalsp1919"
    ],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "olimpia",
@@ -314,7 +341,8 @@
    "redes": [],
    "jornais_locais": [
     "https://ifolha.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "paulinense",
@@ -322,7 +350,8 @@
    "cidade": "",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "paulinia",
@@ -332,7 +361,8 @@
    "redes": [],
    "jornais_locais": [
     "https://www.paulinianews.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "ranchariense",
@@ -340,7 +370,8 @@
    "cidade": "Rancharia",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "referencia-fc",
@@ -351,7 +382,8 @@
    "jornais_locais": [
     "https://abcdoabc.com.br",
     "https://maquinadoesporte.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "riopretano",
@@ -363,7 +395,8 @@
     "https://www.diariodaregiao.com.br",
     "https://www.dhoje.com.br",
     "https://www.gazetaderiopreto.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "santacruzense",
@@ -373,7 +406,8 @@
    "redes": [],
    "jornais_locais": [
     "https://www.futebolinterior.com.br/clube/associacao-esportiva-santacruzense/"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "santa-fe",
@@ -381,7 +415,8 @@
    "cidade": "Santa Fé do Sul",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "sao-carlos",
@@ -392,7 +427,8 @@
    "jornais_locais": [
     "https://www.saocarlosagora.com.br/esportes/",
     "https://jornalpp.com.br/"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "sfera-fc",
@@ -404,7 +440,8 @@
     "https://www.gazetaesportiva.com",
     "https://maquinadoesporte.com.br",
     "https://www.lance.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "ska-brasil",
@@ -412,7 +449,8 @@
    "cidade": "Santana de Parnaíba",
    "site_oficial": "https://www.fcskabrasil.com",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "tupa",
@@ -422,7 +460,8 @@
    "redes": [],
    "jornais_locais": [
     "https://www.radiotupa.com.br/"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "uniao-mogi",
@@ -433,7 +472,8 @@
    "jornais_locais": [
     "https://noticiasdemogi.com.br",
     "https://www.odiariodemogi.net.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
   },
   {
    "slug": "votoraty",
@@ -444,7 +484,152 @@
    "jornais_locais": [
     "https://www.jornalcruzeiro.com.br",
     "https://www.jornalipanema.com.br"
-   ]
+   ],
+   "grupo": "sem_divisao"
+  },
+  {
+   "slug": "america-de-rio-preto",
+   "nome": "América de Rio Preto",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "barretos",
+   "nome": "Barretos",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "comercial",
+   "nome": "Comercial",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "ecus",
+   "nome": "ECUS",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "gremio-saocarlense",
+   "nome": "Grêmio São-Carlense",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "independente",
+   "nome": "Independente",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "jabaquara",
+   "nome": "Jabaquara",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "jacarei",
+   "nome": "Jacareí",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "lemense",
+   "nome": "Lemense",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "saocaetano",
+   "nome": "São Caetano",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "tanabi",
+   "nome": "Tanabi",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "taquaritinga",
+   "nome": "Taquaritinga",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "uniao-suzano",
+   "nome": "União Suzano",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
+  },
+  {
+   "slug": "vocem",
+   "nome": "VOCEM",
+   "grupo": "a4",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": []
   }
  ]
 }

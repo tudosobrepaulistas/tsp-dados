@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Máquina de Notícias TSP (fase 1: 41 clubes sem divisão / Segunda Divisão).
+"""Máquina de Notícias TSP (fase 2: Paulistão A4 com prioridade + 41 clubes sem divisão / Segunda Divisão).
 
   python3 ferramentas/maquina.py proximo
       Mostra o próximo horário livre (08h às 23h59, de 1h30 em 1h30) e os clubes sugeridos para ele:
@@ -145,12 +145,16 @@ def cmd_proximo(_a):
         ult = max(ult, ult_maquina.get(c["slug"], ""))
         linhas.append((ult, c))
     linhas.sort(key=lambda x: x[0])
-    candidatos = linhas[:6]
-    random.shuffle(candidatos)
+    # Fase 2: prioridade para o Paulistão A4 (4 dos 6 sugeridos), o resto entre os sem divisão
+    a4 = [x for x in linhas if x[1].get("grupo") == "a4"][:4]
+    outros = [x for x in linhas if x[1].get("grupo") != "a4"][:6 - len(a4)]
+    random.shuffle(a4)
+    random.shuffle(outros)
+    candidatos = a4 + outros
     print(f"Próximo horário livre: {slot or '(nenhum nas próximas 48h)'}")
-    print("Clubes sugeridos (sorteio entre os 6 mais esquecidos; use o 1º, se não houver pauta passe para o próximo):")
+    print("Clubes sugeridos (A4 primeiro, depois sem divisão; os mais esquecidos de cada grupo; use o 1º, se não houver pauta passe para o próximo):")
     for ult, c in candidatos:
-        print(f"- {c['slug']} | {c['nome']} | última matéria: {ult if ult != '0000' else 'nunca'} | cidade: {c['cidade'] or '?'} | site: {c['site_oficial'] or '?'}")
+        print(f"- {c['slug']} | {c['nome']} | {'A4' if c.get('grupo') == 'a4' else 'sem divisão'} | última matéria: {ult if ult != '0000' else 'nunca'} | cidade: {c['cidade'] or '?'} | site: {c['site_oficial'] or '?'}")
     hoje = agora().strftime("%Y-%m-%d")
     feitos = [i for i in h if i["publish_at"].startswith(hoje)]
     futuros = sorted(i["publish_at"] for i in h if i["publish_at"] > agora().strftime("%Y-%m-%d %H:%M"))
