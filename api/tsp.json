@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-03T21:26:00-03:00",
+ "gerado": "2026-11-03T21:39:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -4027,14 +4027,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/mirassol-rebaixa-chape-e-abre-quatro-pontos-para-o-corinthians-no-brasileirao/",
+    "https://www.lance.com.br/futebol-nacional/chapecoense-perde-para-o-mirassol-e-e-rebaixada-no-brasileirao.html"
    ],
    "fixture": {
     "id": 91000022,
     "timestamp": 1793745000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Condá",
@@ -4056,8 +4058,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -4106,7 +4108,56 @@
      "atualizado": "2026-11-03T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Kauan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+3"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Reinaldo"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 56,
+      "extra": null,
+      "texto": "56"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Anderson"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -9267,6 +9318,20 @@
      ],
      [
       12,
+      900015,
+      "Mirassol",
+      40,
+      34,
+      10,
+      10,
+      14,
+      -9,
+      "",
+      39,
+      48
+     ],
+     [
+      13,
       900011,
       "Botafogo",
       39,
@@ -9280,7 +9345,7 @@
       53
      ],
      [
-      13,
+      14,
       900013,
       "Vasco",
       38,
@@ -9294,7 +9359,7 @@
       49
      ],
      [
-      14,
+      15,
       900014,
       "Vitória",
       38,
@@ -9308,7 +9373,7 @@
       48
      ],
      [
-      15,
+      16,
       900017,
       "Grêmio",
       37,
@@ -9320,20 +9385,6 @@
       "",
       37,
       44
-     ],
-     [
-      16,
-      900015,
-      "Mirassol",
-      37,
-      33,
-      9,
-      10,
-      14,
-      -10,
-      "",
-      37,
-      47
      ],
      [
       17,
@@ -9382,14 +9433,14 @@
       900020,
       "Chapecoense",
       21,
-      32,
+      33,
       4,
       9,
-      19,
-      -34,
+      20,
+      -35,
       "",
-      32,
-      66
+      33,
+      68
      ]
     ]
    ]
@@ -9852,6 +9903,12 @@
     "gols": 1
    },
    {
+    "jogador": "Kauan",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
     "jogador": "Leonel Picco",
     "time": "Remo",
     "time_id": 900019,
@@ -9933,6 +9990,12 @@
     "jogador": "Puma Rodríguez",
     "time": "Vasco",
     "time_id": 900013,
+    "gols": 1
+   },
+   {
+    "jogador": "Reinaldo",
+    "time": "Mirassol",
+    "time_id": 900015,
     "gols": 1
    },
    {

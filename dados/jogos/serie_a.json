@@ -1958,22 +1958,43 @@
    "data": "2026-11-03T19:30:00-03:00",
    "casa": "chapecoense",
    "fora": "mirassol",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Condá",
    "cidade": "Chapecó",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Kauan",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Reinaldo",
+     "minuto": "45+3",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Anderson",
+     "minuto": "56",
+     "tipo": "contra"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/mirassol-rebaixa-chape-e-abre-quatro-pontos-para-o-corinthians-no-brasileirao/",
+    "https://www.lance.com.br/futebol-nacional/chapecoense-perde-para-o-mirassol-e-e-rebaixada-no-brasileirao.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-03T21:39:00-03:00",
    "prejogo": {
     "analise": [
      "Chapecoense e Mirassol se enfrentam na terça-feira (3/11), às 19h30, na Arena Condá, em Chapecó, pela 34ª rodada da Série A. O Mirassol é o 16º colocado, com 37 pontos, apenas um à frente do Corinthians, primeiro time dentro da zona de rebaixamento. A Chapecoense é a lanterna, com 21 pontos em 32 jogos: com seis partidas por fazer, chega no máximo a 39.",
