@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-03T22:26:00-03:00",
+ "gerado": "2026-11-04T00:10:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -4164,14 +4164,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/internacional-vence-o-coritiba-e-deixa-o-z-4-do-brasileirao,b1ff2a64964f424fb13cf00fb57f20325x7fn22h.html",
+    "https://www.oliberal.com/esportes/internacional-marca-de-penalti-no-fim-bate-o-coritiba-e-dorme-fora-do-z-4-do-brasileirao-1.1190214"
    ],
    "fixture": {
     "id": 91000023,
     "timestamp": 1793752200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Beira-Rio",
@@ -4193,8 +4195,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -4246,7 +4248,24 @@
      "atualizado": "2026-11-03T16:26:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+4"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Alerrandro"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -9328,14 +9347,14 @@
       900012,
       "Coritiba",
       42,
-      33,
+      34,
       11,
       9,
-      13,
-      -10,
+      14,
+      -11,
       "",
       40,
-      50
+      51
      ],
      [
       12,
@@ -9395,6 +9414,20 @@
      ],
      [
       16,
+      900016,
+      "Internacional",
+      38,
+      34,
+      9,
+      11,
+      14,
+      -4,
+      "",
+      38,
+      42
+     ],
+     [
+      17,
       900017,
       "Grêmio",
       37,
@@ -9408,7 +9441,7 @@
       44
      ],
      [
-      17,
+      18,
       900018,
       "Corinthians",
       36,
@@ -9419,20 +9452,6 @@
       -6,
       "",
       36,
-      42
-     ],
-     [
-      18,
-      900016,
-      "Internacional",
-      35,
-      33,
-      8,
-      11,
-      14,
-      -5,
-      "",
-      37,
       42
      ],
      [
@@ -9787,6 +9806,12 @@
    },
    {
     "jogador": "Alan Patrick",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Alerrandro",
     "time": "Internacional",
     "time_id": 900016,
     "gols": 1

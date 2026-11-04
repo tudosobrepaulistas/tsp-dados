@@ -2047,22 +2047,31 @@
    "data": "2026-11-03T21:30:00-03:00",
    "casa": "internacional",
    "fora": "coritiba",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Beira-Rio",
    "cidade": "Porto Alegre",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Alerrandro",
+     "minuto": "90+4",
+     "tipo": "penalti"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/internacional-vence-o-coritiba-e-deixa-o-z-4-do-brasileirao,b1ff2a64964f424fb13cf00fb57f20325x7fn22h.html",
+    "https://www.oliberal.com/esportes/internacional-marca-de-penalti-no-fim-bate-o-coritiba-e-dorme-fora-do-z-4-do-brasileirao-1.1190214"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-04T00:10:00-03:00",
    "prejogo": {
     "analise": [
      "Internacional e Coritiba se enfrentam na terça-feira (3/11), às 21h30, no Beira-Rio, em Porto Alegre, pela 34ª rodada da Série A. O Inter é o 18º colocado, com 35 pontos, dentro da zona de rebaixamento: está um ponto atrás do Corinthians (17º) e dois atrás de Grêmio e Mirassol, que abrem a área de fuga. O Coritiba é o 11º, com 42 pontos, seis acima do Z4.",
