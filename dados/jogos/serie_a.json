@@ -2322,22 +2322,31 @@
    "data": "2026-11-04T21:30:00-03:00",
    "casa": "botafogo",
    "fora": "atletico-mg",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Nilton Santos",
    "cidade": "Rio de Janeiro",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Edenílson",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-se-afasta-do-z4-e-aumenta-jejum-do-atletico-mg/",
+    "https://www.otempo.com.br/sports/atletico/2026/11/4/analise-atletico-perde-a-quinta-seguida-e-aumenta-pressao-antes-de-decisao-contra-o-gremio"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-04T23:39:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -2395,22 +2404,24 @@
    "data": "2026-11-04T21:30:00-03:00",
    "casa": "sao-paulo",
    "fora": "corinthians",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Vila Belmiro",
    "cidade": "Santos",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/futebol-nacional/cbf-confirma-local-do-classico-entre-sao-paulo-e-corinthians.html"
+    "https://www.lance.com.br/futebol-nacional/cbf-confirma-local-do-classico-entre-sao-paulo-e-corinthians.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-corinthians-empate-sem-gols-brasileirao/",
+    "https://www.metropoles.com/esportes/sao-paulo-e-corinthians-empatam-sem-gols-e-timao-segue-na-zona-da-degola"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-04T23:39:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [

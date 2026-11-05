@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-04T22:26:00-03:00",
+ "gerado": "2026-11-04T23:39:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -4583,14 +4583,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-se-afasta-do-z4-e-aumenta-jejum-do-atletico-mg/",
+    "https://www.otempo.com.br/sports/atletico/2026/11/4/analise-atletico-perde-a-quinta-seguida-e-aumenta-pressao-antes-de-decisao-contra-o-gremio"
    ],
    "fixture": {
     "id": 91000026,
     "timestamp": 1793838600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Nilton Santos",
@@ -4612,8 +4614,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -4667,21 +4669,40 @@
      "atualizado": "2026-11-04T16:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Edenílson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/futebol-nacional/cbf-confirma-local-do-classico-entre-sao-paulo-e-corinthians.html"
+    "https://www.lance.com.br/futebol-nacional/cbf-confirma-local-do-classico-entre-sao-paulo-e-corinthians.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-corinthians-empate-sem-gols-brasileirao/",
+    "https://www.metropoles.com/esportes/sao-paulo-e-corinthians-empatam-sem-gols-e-timao-segue-na-zona-da-degola"
    ],
    "fixture": {
     "id": 91000027,
     "timestamp": 1793838600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Vila Belmiro",
@@ -4703,8 +4724,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -9674,14 +9695,14 @@
       900006,
       "Atlético-MG",
       50,
-      33,
+      34,
       14,
       8,
-      11,
-      5,
+      12,
+      4,
       "",
       44,
-      39
+      40
      ],
      [
       8,
@@ -9715,10 +9736,10 @@
       10,
       900009,
       "São Paulo",
-      43,
-      33,
+      44,
+      34,
       12,
-      7,
+      8,
       14,
       0,
       "",
@@ -9727,6 +9748,20 @@
      ],
      [
       11,
+      900011,
+      "Botafogo",
+      42,
+      34,
+      11,
+      9,
+      14,
+      -7,
+      "",
+      46,
+      53
+     ],
+     [
+      12,
       900012,
       "Coritiba",
       42,
@@ -9740,7 +9775,7 @@
       51
      ],
      [
-      12,
+      13,
       900013,
       "Vasco",
       41,
@@ -9754,7 +9789,7 @@
       50
      ],
      [
-      13,
+      14,
       900015,
       "Mirassol",
       40,
@@ -9766,20 +9801,6 @@
       "",
       39,
       48
-     ],
-     [
-      14,
-      900011,
-      "Botafogo",
-      39,
-      33,
-      10,
-      9,
-      14,
-      -8,
-      "",
-      45,
-      53
      ],
      [
       15,
@@ -9811,6 +9832,20 @@
      ],
      [
       17,
+      900018,
+      "Corinthians",
+      37,
+      34,
+      9,
+      10,
+      15,
+      -6,
+      "",
+      36,
+      42
+     ],
+     [
+      18,
       900017,
       "Grêmio",
       37,
@@ -9822,20 +9857,6 @@
       "",
       38,
       47
-     ],
-     [
-      18,
-      900018,
-      "Corinthians",
-      36,
-      33,
-      9,
-      9,
-      15,
-      -6,
-      "",
-      36,
-      42
      ],
      [
       19,
@@ -10261,6 +10282,12 @@
    },
    {
     "jogador": "Edenilson",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Edenílson",
     "time": "Botafogo",
     "time_id": 900011,
     "gols": 1
