@@ -1,6 +1,1017 @@
 {
- "gerado": "2026-11-05T01:53:00-03:00",
+ "gerado": "2026-11-05T02:10:00-03:00",
  "versao": 1,
+ "simulador": {
+  "serie_a": {
+   "titulo": "Simulador do Brasileirão 2026",
+   "zonas": [
+    {
+     "de": 1,
+     "ate": 4,
+     "nome": "Libertadores (fase de grupos)",
+     "cor": "#1F4E9A"
+    },
+    {
+     "de": 5,
+     "ate": 5,
+     "nome": "Pré-Libertadores",
+     "cor": "#7FA3DE"
+    },
+    {
+     "de": 6,
+     "ate": 13,
+     "nome": "Sul-Americana",
+     "cor": "#2D7A4F"
+    },
+    {
+     "de": 17,
+     "ate": 20,
+     "nome": "Rebaixamento",
+     "cor": "#C0392B"
+    }
+   ],
+   "tabela": [
+    {
+     "id": 900001,
+     "nome": "Flamengo",
+     "pts": 76,
+     "j": 34,
+     "v": 23,
+     "e": 7,
+     "d": 4,
+     "gp": 71,
+     "gc": 29
+    },
+    {
+     "id": 900002,
+     "nome": "Palmeiras",
+     "pts": 70,
+     "j": 33,
+     "v": 20,
+     "e": 10,
+     "d": 3,
+     "gp": 56,
+     "gc": 22
+    },
+    {
+     "id": 900003,
+     "nome": "Cruzeiro",
+     "pts": 57,
+     "j": 33,
+     "v": 17,
+     "e": 6,
+     "d": 10,
+     "gp": 52,
+     "gc": 46
+    },
+    {
+     "id": 900005,
+     "nome": "Fluminense",
+     "pts": 54,
+     "j": 33,
+     "v": 15,
+     "e": 9,
+     "d": 9,
+     "gp": 52,
+     "gc": 42
+    },
+    {
+     "id": 900004,
+     "nome": "Athletico-PR",
+     "pts": 54,
+     "j": 34,
+     "v": 15,
+     "e": 9,
+     "d": 10,
+     "gp": 51,
+     "gc": 43
+    },
+    {
+     "id": 900007,
+     "nome": "Bahia",
+     "pts": 53,
+     "j": 33,
+     "v": 14,
+     "e": 11,
+     "d": 8,
+     "gp": 48,
+     "gc": 42
+    },
+    {
+     "id": 900006,
+     "nome": "Atlético-MG",
+     "pts": 50,
+     "j": 34,
+     "v": 14,
+     "e": 8,
+     "d": 12,
+     "gp": 44,
+     "gc": 40
+    },
+    {
+     "id": 900010,
+     "nome": "Red Bull Bragantino",
+     "pts": 47,
+     "j": 34,
+     "v": 13,
+     "e": 8,
+     "d": 13,
+     "gp": 44,
+     "gc": 39
+    },
+    {
+     "id": 900008,
+     "nome": "Santos",
+     "pts": 47,
+     "j": 34,
+     "v": 12,
+     "e": 11,
+     "d": 11,
+     "gp": 50,
+     "gc": 49
+    },
+    {
+     "id": 900009,
+     "nome": "São Paulo",
+     "pts": 44,
+     "j": 34,
+     "v": 12,
+     "e": 8,
+     "d": 14,
+     "gp": 39,
+     "gc": 39
+    },
+    {
+     "id": 900011,
+     "nome": "Botafogo",
+     "pts": 42,
+     "j": 34,
+     "v": 11,
+     "e": 9,
+     "d": 14,
+     "gp": 46,
+     "gc": 53
+    },
+    {
+     "id": 900012,
+     "nome": "Coritiba",
+     "pts": 42,
+     "j": 34,
+     "v": 11,
+     "e": 9,
+     "d": 14,
+     "gp": 40,
+     "gc": 51
+    },
+    {
+     "id": 900013,
+     "nome": "Vasco",
+     "pts": 41,
+     "j": 33,
+     "v": 11,
+     "e": 8,
+     "d": 14,
+     "gp": 43,
+     "gc": 50
+    },
+    {
+     "id": 900015,
+     "nome": "Mirassol",
+     "pts": 40,
+     "j": 34,
+     "v": 10,
+     "e": 10,
+     "d": 14,
+     "gp": 39,
+     "gc": 48
+    },
+    {
+     "id": 900014,
+     "nome": "Vitória",
+     "pts": 38,
+     "j": 33,
+     "v": 10,
+     "e": 8,
+     "d": 15,
+     "gp": 35,
+     "gc": 48
+    },
+    {
+     "id": 900016,
+     "nome": "Internacional",
+     "pts": 38,
+     "j": 34,
+     "v": 9,
+     "e": 11,
+     "d": 14,
+     "gp": 38,
+     "gc": 42
+    },
+    {
+     "id": 900018,
+     "nome": "Corinthians",
+     "pts": 37,
+     "j": 34,
+     "v": 9,
+     "e": 10,
+     "d": 15,
+     "gp": 36,
+     "gc": 42
+    },
+    {
+     "id": 900017,
+     "nome": "Grêmio",
+     "pts": 37,
+     "j": 34,
+     "v": 9,
+     "e": 10,
+     "d": 15,
+     "gp": 38,
+     "gc": 47
+    },
+    {
+     "id": 900019,
+     "nome": "Remo",
+     "pts": 29,
+     "j": 33,
+     "v": 6,
+     "e": 11,
+     "d": 16,
+     "gp": 36,
+     "gc": 51
+    },
+    {
+     "id": 900020,
+     "nome": "Chapecoense",
+     "pts": 21,
+     "j": 33,
+     "v": 4,
+     "e": 9,
+     "d": 20,
+     "gp": 33,
+     "gc": 68
+    }
+   ],
+   "jogos": [
+    {
+     "id": 91000028,
+     "rodada": "34",
+     "data": "2026-11-05T19:30",
+     "casa": 900002,
+     "fora": 900019,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000029,
+     "rodada": "34",
+     "data": "2026-11-05T21:30",
+     "casa": 900003,
+     "fora": 900007,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000030,
+     "rodada": "34",
+     "data": "2026-11-06T20:00",
+     "casa": 900014,
+     "fora": 900005,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000145,
+     "rodada": "35",
+     "data": "2026-11-14T18:30",
+     "casa": 900015,
+     "fora": 900006,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000165,
+     "rodada": "21",
+     "data": "2026-11-14T20:30",
+     "casa": 900020,
+     "fora": 900013,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000146,
+     "rodada": "35",
+     "data": "2026-11-18T19:30",
+     "casa": 900012,
+     "fora": 900008,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000147,
+     "rodada": "35",
+     "data": "2026-11-18T20:00",
+     "casa": 900019,
+     "fora": 900020,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000148,
+     "rodada": "35",
+     "data": "2026-11-18T20:30",
+     "casa": 900001,
+     "fora": 900004,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000149,
+     "rodada": "35",
+     "data": "2026-11-18T20:30",
+     "casa": 900003,
+     "fora": 900002,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000150,
+     "rodada": "35",
+     "data": "2026-11-18T21:30",
+     "casa": 900018,
+     "fora": 900011,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000151,
+     "rodada": "35",
+     "data": "2026-11-18T21:30",
+     "casa": 900017,
+     "fora": 900007,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000152,
+     "rodada": "35",
+     "data": "2026-11-19T19:30",
+     "casa": 900013,
+     "fora": 900016,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000153,
+     "rodada": "35",
+     "data": "2026-11-19T19:30",
+     "casa": 900014,
+     "fora": 900010,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000154,
+     "rodada": "35",
+     "data": "2026-11-19T21:30",
+     "casa": 900009,
+     "fora": 900005,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000155,
+     "rodada": "36",
+     "data": "2026-11-21T16:30",
+     "casa": 900002,
+     "fora": 900001,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000156,
+     "rodada": "36",
+     "data": "2026-11-21T17:30",
+     "casa": 900007,
+     "fora": 900012,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000157,
+     "rodada": "36",
+     "data": "2026-11-21T21:00",
+     "casa": 900020,
+     "fora": 900003,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000158,
+     "rodada": "36",
+     "data": "2026-11-22T16:00",
+     "casa": 900004,
+     "fora": 900019,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000159,
+     "rodada": "36",
+     "data": "2026-11-22T18:30",
+     "casa": 900005,
+     "fora": 900015,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000160,
+     "rodada": "36",
+     "data": "2026-11-22T19:30",
+     "casa": 900010,
+     "fora": 900013,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000161,
+     "rodada": "36",
+     "data": "2026-11-23T19:30",
+     "casa": 900016,
+     "fora": 900014,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000162,
+     "rodada": "36",
+     "data": "2026-11-23T20:00",
+     "casa": 900011,
+     "fora": 900009,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000163,
+     "rodada": "36",
+     "data": "2026-11-23T21:00",
+     "casa": 900008,
+     "fora": 900017,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000164,
+     "rodada": "36",
+     "data": "2026-11-25T20:00",
+     "casa": 900006,
+     "fora": 900018,
+     "a_confirmar": false
+    },
+    {
+     "id": "x37-0",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900009,
+     "fora": 900019,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-1",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900006,
+     "fora": 900013,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-2",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900015,
+     "fora": 900004,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-3",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900014,
+     "fora": 900008,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-4",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900016,
+     "fora": 900010,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-5",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900005,
+     "fora": 900003,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-6",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900012,
+     "fora": 900001,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-7",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900020,
+     "fora": 900002,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-8",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900011,
+     "fora": 900007,
+     "a_confirmar": true
+    },
+    {
+     "id": "x37-9",
+     "rodada": "37",
+     "data": "2026-11-29",
+     "casa": 900018,
+     "fora": 900017,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-10",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900008,
+     "fora": 900011,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-11",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900013,
+     "fora": 900014,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-12",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900004,
+     "fora": 900009,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-13",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900003,
+     "fora": 900016,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-14",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900001,
+     "fora": 900020,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-15",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900010,
+     "fora": 900005,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-16",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900002,
+     "fora": 900012,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-17",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900017,
+     "fora": 900015,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-18",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900007,
+     "fora": 900006,
+     "a_confirmar": true
+    },
+    {
+     "id": "x38-19",
+     "rodada": "38",
+     "data": "2026-12-02",
+     "casa": 900019,
+     "fora": 900018,
+     "a_confirmar": true
+    }
+   ],
+   "feitos": [
+    [
+     900006,
+     900020,
+     1,
+     1
+    ],
+    [
+     900015,
+     900011,
+     2,
+     0
+    ],
+    [
+     900019,
+     900008,
+     1,
+     2
+    ],
+    [
+     900013,
+     900012,
+     5,
+     0
+    ],
+    [
+     900009,
+     900016,
+     1,
+     0
+    ],
+    [
+     900017,
+     900002,
+     0,
+     0
+    ],
+    [
+     900018,
+     900005,
+     1,
+     3
+    ],
+    [
+     900014,
+     900003,
+     1,
+     3
+    ],
+    [
+     900001,
+     900010,
+     2,
+     1
+    ],
+    [
+     900004,
+     900007,
+     2,
+     1
+    ],
+    [
+     900011,
+     900013,
+     1,
+     2
+    ],
+    [
+     900010,
+     900015,
+     1,
+     1
+    ],
+    [
+     900016,
+     900018,
+     2,
+     1
+    ],
+    [
+     900019,
+     900017,
+     1,
+     1
+    ],
+    [
+     900014,
+     900020,
+     4,
+     0
+    ],
+    [
+     900003,
+     900009,
+     2,
+     0
+    ],
+    [
+     900008,
+     900001,
+     2,
+     2
+    ],
+    [
+     900004,
+     900006,
+     2,
+     2
+    ],
+    [
+     900005,
+     900012,
+     4,
+     0
+    ],
+    [
+     900002,
+     900007,
+     1,
+     0
+    ],
+    [
+     900013,
+     900019,
+     0,
+     0
+    ],
+    [
+     900009,
+     900014,
+     2,
+     1
+    ],
+    [
+     900006,
+     900008,
+     2,
+     1
+    ],
+    [
+     900001,
+     900005,
+     1,
+     0
+    ],
+    [
+     900002,
+     900018,
+     4,
+     1
+    ],
+    [
+     900017,
+     900016,
+     1,
+     1
+    ],
+    [
+     900007,
+     900015,
+     1,
+     0
+    ],
+    [
+     900012,
+     900011,
+     1,
+     1
+    ],
+    [
+     900020,
+     900004,
+     1,
+     4
+    ],
+    [
+     900010,
+     900003,
+     4,
+     2
+    ],
+    [
+     900015,
+     900016,
+     2,
+     0
+    ],
+    [
+     900011,
+     900020,
+     1,
+     0
+    ],
+    [
+     900006,
+     900012,
+     1,
+     0
+    ],
+    [
+     900004,
+     900002,
+     0,
+     2
+    ],
+    [
+     900009,
+     900013,
+     1,
+     0
+    ],
+    [
+     900005,
+     900008,
+     1,
+     2
+    ],
+    [
+     900017,
+     900003,
+     2,
+     4
+    ],
+    [
+     900007,
+     900001,
+     0,
+     3
+    ],
+    [
+     900019,
+     900010,
+     1,
+     1
+    ],
+    [
+     900018,
+     900014,
+     1,
+     1
+    ],
+    [
+     900003,
+     900019,
+     1,
+     0
+    ],
+    [
+     900015,
+     900009,
+     1,
+     1
+    ],
+    [
+     900016,
+     900011,
+     3,
+     0
+    ],
+    [
+     900014,
+     900004,
+     1,
+     1
+    ],
+    [
+     900013,
+     900018,
+     3,
+     2
+    ],
+    [
+     900002,
+     900010,
+     2,
+     0
+    ],
+    [
+     900020,
+     900005,
+     2,
+     1
+    ],
+    [
+     900008,
+     900007,
+     1,
+     1
+    ],
+    [
+     900012,
+     900017,
+     0,
+     1
+    ],
+    [
+     900001,
+     900006,
+     3,
+     2
+    ],
+    [
+     900005,
+     900016,
+     2,
+     1
+    ],
+    [
+     900008,
+     900002,
+     0,
+     0
+    ],
+    [
+     900010,
+     900020,
+     3,
+     0
+    ],
+    [
+     900007,
+     900009,
+     3,
+     2
+    ],
+    [
+     900019,
+     900011,
+     2,
+     1
+    ],
+    [
+     900006,
+     900003,
+     0,
+     1
+    ],
+    [
+     900013,
+     900001,
+     1,
+     4
+    ],
+    [
+     900017,
+     900004,
+     2,
+     0
+    ],
+    [
+     900018,
+     900015,
+     2,
+     0
+    ],
+    [
+     900012,
+     900014,
+     2,
+     0
+    ],
+    [
+     900010,
+     900008,
+     2,
+     1
+    ],
+    [
+     900020,
+     900015,
+     1,
+     2
+    ],
+    [
+     900016,
+     900012,
+     1,
+     0
+    ],
+    [
+     900001,
+     900017,
+     3,
+     1
+    ],
+    [
+     900004,
+     900013,
+     1,
+     3
+    ],
+    [
+     900011,
+     900006,
+     1,
+     0
+    ],
+    [
+     900009,
+     900018,
+     0,
+     0
+    ]
+   ]
+  }
+ },
  "competicoes": [
   {
    "chave": "serie_a",
@@ -4962,6 +5973,867 @@
     ],
     "atualizado": "2026-11-03T20:33:00-03:00"
    },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000145,
+    "timestamp": 1794691800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Maião",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/vasco/cbf-define-data-de-jogo-atrasado-do-vasco-no-brasileirao.html"
+   ],
+   "fixture": {
+    "id": 91000165,
+    "timestamp": 1794699000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 21"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000146,
+    "timestamp": 1795041000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000147,
+    "timestamp": 1795042800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Mangueirão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900019,
+     "name": "Remo"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000148,
+    "timestamp": 1795044600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000149,
+    "timestamp": 1795044600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000150,
+    "timestamp": 1795048200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000151,
+    "timestamp": 1795048200,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000152,
+    "timestamp": 1795127400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000153,
+    "timestamp": 1795127400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000154,
+    "timestamp": 1795134600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 35"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000155,
+    "timestamp": 1795289400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000156,
+    "timestamp": 1795293000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000157,
+    "timestamp": 1795305600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000158,
+    "timestamp": 1795374000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000159,
+    "timestamp": 1795383000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900005,
+     "name": "Fluminense"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000160,
+    "timestamp": 1795386600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000161,
+    "timestamp": 1795473000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000162,
+    "timestamp": 1795474800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000163,
+    "timestamp": 1795478400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+   ],
+   "fixture": {
+    "id": 91000164,
+    "timestamp": 1795647600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 36"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
    "events": []
   },
   {

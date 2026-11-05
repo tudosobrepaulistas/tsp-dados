@@ -1,0 +1,152 @@
+{
+ "_leia": "Simulador do Brasileirão no site. 'extras' = jogos que ainda não estão na base (datas e horários a confirmar pela CBF); confrontos informados pelo dono do site a partir da tabela da CBF. Assim que o jogo entrar na base com tsp.py jogo-novo, a base passa a valer e o extra é ignorado.",
+ "titulo": "Simulador do Brasileirão 2026",
+ "zonas": [
+  {
+   "de": 1,
+   "ate": 4,
+   "nome": "Libertadores (fase de grupos)",
+   "cor": "#1F4E9A"
+  },
+  {
+   "de": 5,
+   "ate": 5,
+   "nome": "Pré-Libertadores",
+   "cor": "#7FA3DE"
+  },
+  {
+   "de": 6,
+   "ate": 13,
+   "nome": "Sul-Americana",
+   "cor": "#2D7A4F"
+  },
+  {
+   "de": 17,
+   "ate": 20,
+   "nome": "Rebaixamento",
+   "cor": "#C0392B"
+  }
+ ],
+ "extras": [
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "São Paulo",
+   "fora": "Remo"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Atlético-MG",
+   "fora": "Vasco"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Mirassol",
+   "fora": "Athletico-PR"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Vitória",
+   "fora": "Santos"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Internacional",
+   "fora": "Red Bull Bragantino"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Fluminense",
+   "fora": "Cruzeiro"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Coritiba",
+   "fora": "Flamengo"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Chapecoense",
+   "fora": "Palmeiras"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Botafogo",
+   "fora": "Bahia"
+  },
+  {
+   "rodada": "37",
+   "data": "2026-11-29",
+   "casa": "Corinthians",
+   "fora": "Grêmio"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Santos",
+   "fora": "Botafogo"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Vasco",
+   "fora": "Vitória"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Athletico-PR",
+   "fora": "São Paulo"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Cruzeiro",
+   "fora": "Internacional"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Flamengo",
+   "fora": "Chapecoense"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Red Bull Bragantino",
+   "fora": "Fluminense"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Palmeiras",
+   "fora": "Coritiba"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Grêmio",
+   "fora": "Mirassol"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Bahia",
+   "fora": "Atlético-MG"
+  },
+  {
+   "rodada": "38",
+   "data": "2026-12-02",
+   "casa": "Remo",
+   "fora": "Corinthians"
+  }
+ ]
+}

@@ -342,6 +342,40 @@ def classificar(chave, tm):
     return saida
 
 
+def simulador(classif, tm):
+    """Dados do Simulador do site: tabela atual + jogos que faltam (base + extras sem data definida)."""
+    out = {}
+    for arq in sorted((DADOS / "simulador").glob("*.json")):
+        chave = arq.stem
+        cfg = ler(arq, {})
+        g = (classif.get(chave) or {}).get("grupos") or []
+        if not g:
+            continue
+        tabela = [{"id": r[1], "nome": r[2], "pts": r[3], "j": r[4], "v": r[5], "e": r[6], "d": r[7], "gp": r[10], "gc": r[11]} for r in g[0]]
+        por_slug = {slug(v["nome"]): k for k, v in tm.items()}
+        for k, v in tm.items():
+            for ap in v.get("apelidos", []):
+                por_slug.setdefault(slug(ap), k)
+        base = jogos_de(chave)["jogos"]
+        pares = {(j["casa"], j["fora"]) for j in base}
+        jogos = []
+        for j in sorted(base, key=lambda x: (x["data"], x["id"])):
+            if j["status"] in ("encerrado", "cancelado"):
+                continue
+            jogos.append({"id": j["id"], "rodada": j.get("rodada", ""), "data": j["data"][:16], "casa": tm[j["casa"]]["id"], "fora": tm[j["fora"]]["id"], "a_confirmar": j["status"] in ("adiado", "suspenso")})
+        for i, x in enumerate(cfg.get("extras", [])):
+            c, f = por_slug.get(slug(x["casa"])), por_slug.get(slug(x["fora"]))
+            if not c or not f:
+                print(f"AVISO simulador: time não encontrado em {x}")
+                continue
+            if (c, f) in pares:
+                continue
+            jogos.append({"id": f"x{x['rodada']}-{i}", "rodada": x["rodada"], "data": x["data"], "casa": tm[c]["id"], "fora": tm[f]["id"], "a_confirmar": True})
+        feitos = [[tm[j["casa"]]["id"], tm[j["fora"]]["id"], j["gols_casa"], j["gols_fora"]] for j in base if j["status"] == "encerrado" and j["gols_casa"] is not None]
+        out[chave] = {"titulo": cfg.get("titulo", ""), "zonas": cfg.get("zonas", []), "tabela": tabela, "jogos": jogos, "feitos": feitos}
+    return out
+
+
 def cmd_calcular(a):
     tm = times()
     cps = competicoes()
@@ -383,7 +417,8 @@ def cmd_calcular(a):
         artilh[chave] = lista
         if lista:
             gravar(API / "artilharia" / f"{chave}.json", lista)
-    tsp = {"gerado": iso(agora()), "versao": 1,
+    simul = simulador(classif, tm)
+    tsp = {"gerado": iso(agora()), "versao": 1, "simulador": simul,
            "competicoes": cps,
            "times": {str(v["id"]): {"chave": k, "nome": v["nome"], "slug_tsp": v.get("slug_tsp", ""), "wiki": v.get("wiki", "")} for k, v in tm.items()},
            "jogos": fixtures, "classificacao": classif, "artilharia": {k: v for k, v in artilh.items() if v}}
