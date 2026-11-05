@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-05T17:31:00-03:00",
+ "gerado": "2026-11-05T19:26:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11154,7 +11154,23 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Ceará e América-MG se enfrentam no domingo (8/11), às 19h15, na Arena Castelão, em Fortaleza, pela 37ª e penúltima rodada da Série B. O Ceará é o 16º colocado, com 43 pontos, seis à frente do Avaí, primeiro time da zona de rebaixamento, com 37. Segundo o clube, um empate basta para garantir matematicamente a permanência do Alvinegro na Série B. O América-MG é o vice-lanterna, com 26 pontos, e já está rebaixado para a Série C de 2027.",
+     "O Ceará atravessa uma sequência ruim: venceu só um dos últimos cinco jogos (1 a 0 no Criciúma), empatou um e perdeu três. Na segunda-feira (2/11), levou a virada do Athletic por 2 a 1, em São João del-Rei; Saulo Mineiro marcou o gol cearense, segundo o Diário do Nordeste. Nos três jogos mais recentes no Castelão, foram uma vitória, um empate (2 a 2 com o Juventude) e uma derrota (2 a 0 para o Goiás). O time da comissão técnica de Daniel Paulista não terá o suspenso Zanocelo, de acordo com O Povo.",
+     "Mesmo rebaixado, o América-MG chega embalado: venceu os três últimos jogos, 1 a 0 sobre o Operário-PR e o Cuiabá, em Belo Horizonte, e 3 a 1 sobre o Londrina, fora de casa, no domingo (1/11). Antes dessa sequência, havia perdido para Fortaleza e Criciúma, ambos por 1 a 0. Nas três partidas mais recentes como visitante, o time mineiro tem uma vitória e duas derrotas.",
+     "Este é o último jogo do Ceará em casa na competição. A despedida será no sábado (14/11), às 16h30, contra o CRB, no Estádio Rei Pelé, em Maceió, segundo o GCMAIS. O clube abriu a venda de ingressos para o duelo no Castelão, informou O Povo."
+    ],
+    "retrospecto": "No primeiro turno desta Série B, pela 18ª rodada, América-MG e Ceará empataram por 1 a 1, no Independência, em Belo Horizonte (fonte: O Povo).",
+    "estadio_wiki": "Arena Castelão",
+    "fontes": [
+     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/05/rival-do-ceara-america-mg-soma-tres-vitorias-seguidas-na-serie-b.html",
+     "https://diariodonordeste.verdesmares.com.br/jogada/ceara-perde-de-virada-para-o-athletic-e-se-mantem-ameacado-de-rebaixamento-restando-duas-rodadas-1.3802970",
+     "https://gcmais.com.br/noticias/2026/11/03/ceara-recebe-o-america-mg-na-arena-castelao-em-busca-da-permanencia-na-serie-b",
+     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/05/ceara-abre-venda-de-ingressos-contra-o-america-mg-confira-valores.html"
+    ],
+    "atualizado": "2026-11-05T19:26:00-03:00"
+   },
    "events": []
   },
   {
@@ -11195,7 +11211,22 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Goiás e Ponte Preta se enfrentam no domingo (8/11), às 19h15, na Serrinha, em Goiânia, pela 37ª e penúltima rodada da Série B. Os objetivos são opostos: o Goiás é o 7º colocado, com 55 pontos, empatado com CRB (6º), Sport e Atlético-GO, e briga pela última vaga nos playoffs de acesso (do 3º ao 6º). A Ponte Preta é a lanterna, com 15 pontos em 36 jogos e apenas três vitórias, e já está rebaixada para a Série C.",
+     "O Goiás vive o melhor momento na reta final: venceu quatro dos últimos cinco jogos e empatou o outro, somando 13 pontos. Na segunda-feira (2/11), bateu o CRB por 2 a 1 na Serrinha, com gols de Djalma e Cadu, segundo o jornal O Hoje. Nos três jogos mais recentes em casa, foram duas vitórias (2 a 1 no Athletic e no CRB) e um empate (0 a 0 com o Náutico). Para este jogo, o time do técnico Mozart não terá Lucas Rodrigues e Luisão, suspensos pelo terceiro cartão amarelo.",
+     "A Ponte Preta não vence há cinco rodadas: são três derrotas e dois empates, com a mais recente por 2 a 0 diante do Criciúma, fora de casa, na sexta-feira (30/10). Como visitante, perdeu os três últimos jogos (2 a 0 para o Cuiabá, 5 a 1 para o Novorizontino e 2 a 0 para o Criciúma). Segundo a CBN Campinas, o técnico Gilson Kleina não terá o lateral Danilo Barcelos, expulso contra o Criciúma, nem o goleiro Vinicius Ferrari, que recebeu o terceiro amarelo; o goleiro Guilherme Viana volta após cerca de três meses, e o volante Gustavo Telles retorna de suspensão.",
+     "Após a vitória sobre o CRB, Mozart disse que a semana foi \"atípica\", com 14 casos de virose no elenco, e afirmou que o time está \"crescendo na hora certa\", segundo O Hoje. Para chegar ao G-6, o Goiás precisa vencer e torcer por tropeços dos rivais na mesma pontuação. Do lado campineiro, a Ponte joga para não terminar a Série B com a pior campanha de sua história, de acordo com a CBN Campinas."
+    ],
+    "retrospecto": "No primeiro turno desta Série B, em 18 de julho, o Goiás venceu a Ponte Preta por 2 a 1 no Moisés Lucarelli, em Campinas, pela 18ª rodada, com dois gols de Kadu; Elvis, de pênalti, descontou (fonte: Gazeta Esportiva).",
+    "estadio_wiki": "Estádio Hailé Pinheiro",
+    "fontes": [
+     "https://ohoje.com/2026/11/03/goias-vence-o-crb-chega-aos-55-pontos-e-fica-perto-do-g-6-da-serie-b/",
+     "https://cbncampinas.com.br/2026/11/ponte-preta-tem-desfalques-para-duelo-contra-o-goias-fora-de-casa-pela-serie-b/",
+     "https://www.gazetaesportiva.com/?p=3823387"
+    ],
+    "atualizado": "2026-11-05T19:26:00-03:00"
+   },
    "events": []
   },
   {
