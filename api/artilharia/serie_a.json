@@ -1,5 +1,17 @@
 [
  {
+  "jogador": "Pedro",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 4
+ },
+ {
+  "jogador": "Samuel Lino",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 3
+ },
+ {
   "jogador": "Wallace Yan",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
@@ -18,18 +30,6 @@
   "gols": 2
  },
  {
-  "jogador": "Pedro",
-  "time": "Flamengo",
-  "time_id": 900001,
-  "gols": 2
- },
- {
-  "jogador": "Samuel Lino",
-  "time": "Flamengo",
-  "time_id": 900001,
-  "gols": 2
- },
- {
   "jogador": "Alan Patrick",
   "time": "Internacional",
   "time_id": 900016,
@@ -39,6 +39,12 @@
   "jogador": "Alerrandro",
   "time": "Internacional",
   "time_id": 900016,
+  "gols": 1
+ },
+ {
+  "jogador": "Amuzu",
+  "time": "Grêmio",
+  "time_id": 900017,
   "gols": 1
  },
  {
@@ -84,6 +90,12 @@
   "gols": 1
  },
  {
+  "jogador": "Bruno Duarte",
+  "time": "Vasco",
+  "time_id": 900013,
+  "gols": 1
+ },
+ {
   "jogador": "Carrascal",
   "time": "Flamengo",
   "time_id": 900001,
@@ -105,6 +117,12 @@
   "jogador": "Fabrício Bruno",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Gabriel Pereira",
+  "time": "Vasco",
+  "time_id": 900013,
   "gols": 1
  },
  {
@@ -237,6 +255,12 @@
   "jogador": "Mauricio",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 1
+ },
+ {
+  "jogador": "Mendoza",
+  "time": "Athletico-PR",
+  "time_id": 900004,
   "gols": 1
  },
  {

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-04T16:33:00-03:00",
+ "gerado": "2026-11-04T21:42:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -4272,14 +4272,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-ganha-do-gremio-e-dispara-na-lideranca-do-brasileirao/",
+    "https://www.metropoles.com/esportes/brasileirao-flamengo-vence-gremio-e-abre-vantagem-de-6-pontos-na-lideranca"
    ],
    "fixture": {
     "id": 91000024,
     "timestamp": 1793831400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Maracanã",
@@ -4301,8 +4303,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -4350,21 +4352,88 @@
      "atualizado": "2026-11-04T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Amuzu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/vasco/vasco-vira-sobre-o-athletico-pr-e-abre-distancia-para-o-z4-do-brasileiro/",
+    "https://www.paranaportal.com/esporte-paranaense/vasco-vira-sobre-o-athletico-na-arena-da-baixada-e-vence-por-3-a-1-pelo-brasileirao/"
    ],
    "fixture": {
     "id": 91000025,
     "timestamp": 1793831400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena da Baixada",
@@ -4386,8 +4455,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 3
    },
    "penaltis": "",
    "prejogo": {
@@ -4442,7 +4511,72 @@
      "atualizado": "2026-11-04T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Mendoza"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Aguirre"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Bruno Duarte"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 67,
+      "extra": null,
+      "texto": "67"
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Gabriel Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -9368,15 +9502,15 @@
       1,
       900001,
       "Flamengo",
-      73,
-      33,
-      22,
+      76,
+      34,
+      23,
       7,
       4,
-      40,
+      42,
       "",
-      68,
-      28
+      71,
+      29
      ],
      [
       2,
@@ -9425,14 +9559,14 @@
       900004,
       "Athletico-PR",
       54,
-      33,
+      34,
       15,
       9,
-      9,
       10,
+      8,
       "",
-      50,
-      40
+      51,
+      43
      ],
      [
       6,
@@ -9520,6 +9654,20 @@
      ],
      [
       12,
+      900013,
+      "Vasco",
+      41,
+      33,
+      11,
+      8,
+      14,
+      -7,
+      "",
+      43,
+      50
+     ],
+     [
+      13,
       900015,
       "Mirassol",
       40,
@@ -9533,7 +9681,7 @@
       48
      ],
      [
-      13,
+      14,
       900011,
       "Botafogo",
       39,
@@ -9545,20 +9693,6 @@
       "",
       45,
       53
-     ],
-     [
-      14,
-      900013,
-      "Vasco",
-      38,
-      32,
-      10,
-      8,
-      14,
-      -9,
-      "",
-      40,
-      49
      ],
      [
       15,
@@ -9593,14 +9727,14 @@
       900017,
       "Grêmio",
       37,
-      33,
+      34,
       9,
       10,
-      14,
-      -7,
+      15,
+      -9,
       "",
-      37,
-      44
+      38,
+      47
      ],
      [
       18,
@@ -9937,6 +10071,18 @@
  "artilharia": {
   "serie_a": [
    {
+    "jogador": "Pedro",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 4
+   },
+   {
+    "jogador": "Samuel Lino",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 3
+   },
+   {
     "jogador": "Wallace Yan",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
@@ -9955,18 +10101,6 @@
     "gols": 2
    },
    {
-    "jogador": "Pedro",
-    "time": "Flamengo",
-    "time_id": 900001,
-    "gols": 2
-   },
-   {
-    "jogador": "Samuel Lino",
-    "time": "Flamengo",
-    "time_id": 900001,
-    "gols": 2
-   },
-   {
     "jogador": "Alan Patrick",
     "time": "Internacional",
     "time_id": 900016,
@@ -9976,6 +10110,12 @@
     "jogador": "Alerrandro",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Amuzu",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 1
    },
    {
@@ -10021,6 +10161,12 @@
     "gols": 1
    },
    {
+    "jogador": "Bruno Duarte",
+    "time": "Vasco",
+    "time_id": 900013,
+    "gols": 1
+   },
+   {
     "jogador": "Carrascal",
     "time": "Flamengo",
     "time_id": 900001,
@@ -10042,6 +10188,12 @@
     "jogador": "Fabrício Bruno",
     "time": "Cruzeiro",
     "time_id": 900003,
+    "gols": 1
+   },
+   {
+    "jogador": "Gabriel Pereira",
+    "time": "Vasco",
+    "time_id": 900013,
     "gols": 1
    },
    {
@@ -10174,6 +10326,12 @@
     "jogador": "Mauricio",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Mendoza",
+    "time": "Athletico-PR",
+    "time_id": 900004,
     "gols": 1
    },
    {
