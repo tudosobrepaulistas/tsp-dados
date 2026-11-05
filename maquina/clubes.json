@@ -630,10 +630,13 @@
    "slug": "taquaritinga",
    "nome": "Taquaritinga",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Taquaritinga",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://odefensor.com.br",
+    "https://www.futebolinterior.com.br/clube/clube-atletico-taquaritinga/"
+   ]
   },
   {
    "slug": "uniao-suzano",
