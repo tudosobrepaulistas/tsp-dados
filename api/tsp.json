@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-05T02:10:00-03:00",
+ "gerado": "2026-11-05T11:35:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11470,7 +11470,35 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Lance!TV",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.lance.com.br/futebol-feminino/cbf-detalha-semifinal-da-copa-do-brasil-feminina-veja-datas-horarios-e-onde-assistir.html"
+     ]
+    },
+    "analise": [
+     "Red Bull Bragantino e Internacional decidem no domingo (8/11), às 11h, no Estádio Cícero de Souza Marques, em Bragança Paulista, quem vai à final da Copa do Brasil Feminina. As paulistas precisam de uma virada: perderam a ida por 3 a 1 no Beira-Rio, na quarta-feira (4/11), e só avançam direto vencendo por três ou mais gols de diferença. Vitória por dois gols leva a decisão para os pênaltis; empate ou vitória por um gol classifica o Inter.",
+     "O Bragantino, de Humberto Simão, chega à semifinal depois de eliminar Botafogo, Ferroviária e São José. Em Porto Alegre, a equipe saiu atrás cedo, mas teve chances de diminuir antes do gol de Camila Ambrozio, nos acréscimos: quase marcou um gol olímpico no fim do primeiro tempo e desperdiçou um pênalti com Miriã, aos 14 minutos da etapa final, segundo o Lance!.",
+     "O Inter construiu a vantagem com gols de Valéria Cantuário, aos 13, e Lelê, aos 30 do primeiro tempo, e de Sole Jaimes, de pênalti, logo no início do segundo. As gaúchas, que passaram por Grêmio, Atlético-MG e Coritiba na campanha, podem perder por um gol de diferença e ainda assim chegar à decisão.",
+     "Quem avançar enfrenta o vencedor de Flamengo x Bahia, que empataram por 0 a 0 em Salvador e jogam a volta no sábado (7/11), às 21h30, no Luso-Brasileiro, no Rio. A final, em ida e volta, está prevista para 11 e 15 de novembro, com mando definido em sorteio da CBF."
+    ],
+    "retrospecto": "O único encontro entre as equipes nesta Copa do Brasil foi o jogo de ida da semifinal, na quarta-feira (4/11): Internacional 3 x 1 Red Bull Bragantino, no Beira-Rio, com gols de Valéria Cantuário, Lelê e Sole Jaimes para o Inter e de Camila Ambrozio para as paulistas.",
+    "estadio_wiki": "Estádio Cícero de Souza Marques",
+    "fontes": [
+     "https://www.lance.com.br/futebol-feminino/inter-vence-o-bragantino-abre-vantagem-e-fica-perto-da-final-da-copa-do-brasil-feminina.html",
+     "https://correiodeatibaia.com.br/2026/11/04/bragantino-cai-no-beira-rio-mas-gol-de-camila-ambrozio-mantem-equipe-viva-na-semifinal-da-copa-do-brasil-feminina/",
+     "https://www.tribunadosertao.com.br/esportes/2026/11/05/1013977-bragantinas-perdem-jogo-de-ida-da-semi-da-copa-do-brasil-feminina",
+     "https://futdasminas.com.br/copa-do-brasil-feminina-veja-os-resultados-dos-jogos-de-ida-das-semifinais/",
+     "https://www.correiodamanha.com.br/esporte/esportes/2026/10/330032-semifinais-da-copa-do-brasil-feminina.html"
+    ],
+    "atualizado": "2026-11-05T11:35:00-03:00"
+   },
    "events": []
   }
  ],
