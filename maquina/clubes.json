@@ -588,10 +588,13 @@
    "slug": "jacarei",
    "nome": "Jacareí",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Jacareí",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://sampi.net.br/ovale",
+    "https://t7news.com.br"
+   ]
   },
   {
    "slug": "lemense",
