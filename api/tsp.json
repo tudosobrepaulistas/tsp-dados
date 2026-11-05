@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-05T14:25:00-03:00",
+ "gerado": "2026-11-05T16:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -5945,7 +5945,38 @@
      "https://www.correio24horas.com.br/esportes/bahia-sofre-virada-do-cruzeiro-e-chega-ao-quinto-jogo-seguido-sem-vencer-0526",
      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-do-nordeste/ec-bahia/contra-o-cruzeiro-bahia-tentara-quebrar-tabu-como-visitante-no-brasileiro/"
     ],
-    "atualizado": "2026-11-02T22:27:00-03:00"
+    "atualizado": "2026-11-05T16:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Amazon Prime Video",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-x-bahia-onde-assistir-provaveis-escalacoes-horario-e-arbitragem-pelo-brasileirao,fc856c9e121b00700af57dfb0b4a09f27eqdw7ih.html",
+      "https://www.lance.com.br/onde-assistir/cruzeiro-x-bahia-onde-assistir-horario-e-escalacoes.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Artur Jorge",
+      "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus e Matías Viña; Lucas Romero, Zé Lucas e Gerson; Bruno Rodrigues, Arroyo e Kaio Jorge",
+      "desfalques": "William, Lucas Villalba e Matheus Pereira (suspensos, 3º amarelo) e João Marcelo (lesão no joelho direito)",
+      "duvidas": "Gabriel Rojas na lateral esquerda; Matheus Henrique e Wesley disputam vaga no meio"
+     },
+     "fora": {
+      "tecnico": "Rogério Ceni",
+      "time": "Ronaldo; Marcos Victor, David Duarte, Kanu e Luciano Juba; Acevedo, Jean Lucas e Rodrigo Nestor; Erick Pulga, Kike Olivera e Alejo Véliz",
+      "desfalques": "Marco Moreno (intoxicação alimentar)",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-x-bahia-onde-assistir-provaveis-escalacoes-horario-e-arbitragem-pelo-brasileirao,fc856c9e121b00700af57dfb0b4a09f27eqdw7ih.html",
+      "https://www.lance.com.br/onde-assistir/cruzeiro-x-bahia-onde-assistir-horario-e-escalacoes.html"
+     ],
+     "atualizado": "2026-11-05T16:25:00-03:00"
+    }
    },
    "events": []
   },
@@ -11066,7 +11097,23 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Athletic e Atlético-GO se enfrentam no domingo (8/11), às 16h, na Arena Sicredi, em São João del-Rei (MG), pela 37ª e penúltima rodada da Série B. Os objetivos são diferentes: o Athletic é o 14º colocado, com 47 pontos, e já está livre do rebaixamento. O Atlético-GO é o 9º, com 55 pontos, empatado com CRB, Goiás e Sport, que ocupam do 6º ao 8º lugar. O Dragão perde para os três no desempate e precisa vencer para seguir sonhando com a última vaga nos playoffs de acesso (do 3º ao 6º).",
+     "O Athletic chega depois de virar sobre o Ceará por 2 a 1, na segunda-feira (2/11), em casa, com gols de Assis e Jhan Pool, segundo A Crítica. A vitória encerrou uma sequência de cinco jogos sem vencer na Série B. Nos últimos cinco jogos, o time do técnico Alex Souza tem uma vitória, dois empates e duas derrotas (2 a 1 para o Goiás, 2 a 2 com o Londrina, 0 a 0 com o Avaí, 1 a 0 para o Operário-PR e o 2 a 1 sobre o Ceará).",
+     "O Atlético-GO não vence há cinco rodadas: são três empates e duas derrotas, incluindo o 3 a 1 sofrido diante do CRB, em Maceió, e o 1 a 0 para o Novorizontino, em Goiânia. Na rodada passada, segurou o 0 a 0 com o Fortaleza no Castelão, também na segunda-feira (2/11), graças a uma defesa de pênalti do goleiro Paulo Vítor na cobrança de Marlon. Nas três partidas mais recentes como visitante, somou dois empates e uma derrota.",
+     "O presidente Adson Batista disse ao Esporte Goiano que o clube segue \"na briga\" e que é preciso \"acreditar até o fim\" na classificação. Para chegar ao 6º lugar, o Atlético-GO precisa vencer o Athletic e torcer por tropeços dos três rivais na mesma pontuação. A última rodada será no sábado (14/11), às 16h30, contra o Cuiabá."
+    ],
+    "retrospecto": "No primeiro turno desta Série B, em 18 de julho, Atlético-GO e Athletic empataram por 0 a 0, em Goiânia, pela 18ª rodada (fonte: Gazeta Esportiva).",
+    "estadio_wiki": "Estádio Joaquim Portugal",
+    "fontes": [
+     "https://acritica.net/esportes/athletic-vira-sobre-ceara-serie-b-rebaixamento/",
+     "https://ohoje.com/2026/11/02/serie-b-0-a-0-com-fortaleza-deixa-atletico-go-na-8a-posicao-e-fora-do-g-6/",
+     "https://esportegoiano.com.br/acreditamos-fim-adson-batista-crava-atletico-vivo-disputa-pelo-g-6",
+     "https://www.gazetaesportiva.com/?p=3823445"
+    ],
+    "atualizado": "2026-11-05T16:25:00-03:00"
+   },
    "events": []
   },
   {
