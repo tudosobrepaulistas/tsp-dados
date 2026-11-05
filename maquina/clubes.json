@@ -533,10 +533,13 @@
    "slug": "desportivo-brasil",
    "nome": "Desportivo Brasil",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Porto Feliz",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.futebolinterior.com.br/clube/desportivo-brasil/",
+    "https://www.gazetaesportiva.com"
+   ]
   },
   {
    "slug": "ecus",
