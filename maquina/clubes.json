@@ -707,10 +707,12 @@
    "slug": "mirassol-feminino",
    "nome": "Mirassol Feminino",
    "grupo": "feminino",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Mirassol",
+   "site_oficial": "https://mirassolfc.com.br/blogs/feminino",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.lance.com.br/futebol-feminino"
+   ]
   },
   {
    "slug": "taubate-feminino",

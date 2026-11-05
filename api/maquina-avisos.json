@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-04T21:20-03:00",
+ "gerado": "2026-11-04T21:37-03:00",
  "avisos": [
-  {
-   "clube": "manthiqueira",
-   "nome": "Manthiqueira",
-   "quando": "2026-10-31T21:08-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias (clube fora de temporada) e história sem 2 fontes jornalísticas (só Wikipédia; site da Band Vale bloqueou a leitura)",
-   "sugestao": "Como o Manthiqueira (fundado em 2005) se mudou para Guaratinguetá no fim de 2010 e passou a mandar jogos no Ninho da Garça: ouvir a diretoria (presidente Geraldo Margelo Oliveira) e conferir o título de 2017 citado na Wikipédia"
-  },
-  {
-   "clube": "assisense",
-   "nome": "Assisense",
-   "quando": "2026-10-31T21:17-03:00",
-   "motivo": "Sem notícia recente (clube fora de temporada) e sem fonte jornalística para tema histórico; buscas só trazem Wikipédia e bases de estatística proibidas",
-   "sugestao": "Perfil do Clube Atlético Assisense: fundação, estádio em Assis e campanhas na Bezinha, com entrevista da diretoria e matérias da imprensa de Assis (Jornal da Segunda, Voz da Terra)"
-  },
-  {
-   "clube": "paulinense",
-   "nome": "Paulinense",
-   "quando": "2026-10-31T21:19-03:00",
-   "motivo": "Sem notícia recente e sem fonte jornalística para tema histórico (buscas não trazem nada sobre o clube fora da cobertura do próprio TSP)",
-   "sugestao": "Balanço da campanha histórica do Paulinense nas quartas da Bezinha 2026 com entrevista do presidente e planos para 2027 (elenco, técnico, Copinha)"
-  },
   {
    "clube": "santacruzense",
    "nome": "Santacruzense",
@@ -420,6 +399,27 @@
    "quando": "2026-11-04T21:20-03:00",
    "motivo": "Sem notícia confirmada dos últimos 7 dias; site oficial não abriu para conferência",
    "sugestao": "Conferir no site oficial (desportivobrasil.com.br) as notícias da base (sub-17/sub-20) e convocações recentes"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-04T21:37-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias (último post do clube sobre o feminino: 5/10, visita ao Lar dos Velhinhos)",
+   "sugestao": "Balanço da 1ª temporada das Leoas Paulistas em 2026: estreia, primeiro gol e primeiro ponto (1x1 com RB Bragantino) e planos para 2027, ouvindo a gestão do feminino"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-04T21:37-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; tema histórico já usado em 30/10 (títulos do interior)",
+   "sugestao": "Situação do Amparo para a Segunda Divisão 2027: parceria, técnico e estádio (ouvir diretoria)"
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-11-04T21:37-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; matéria histórica recente (31/10)",
+   "sugestao": "Planos do Atlético Mogi para 2027 (Segunda Divisão e base), ouvindo a diretoria ou O Diário de Mogi"
   }
  ]
 }
