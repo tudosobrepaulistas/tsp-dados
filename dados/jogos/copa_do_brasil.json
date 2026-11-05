@@ -119,7 +119,54 @@
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4349338/cbf-define-datas-e-horarios-das-semifinais-da-copa-do-brasil"
    ],
-   "atualizado": "2026-11-01T01:54:00-03:00"
+   "atualizado": "2026-11-01T01:54:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "TV Globo",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "SporTV",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      },
+      {
+       "nome": "Prime Video",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "GE TV",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://abcdoabc.com.br/palmeiras-x-vasco-confira-os-detalhes",
+      "https://tribunadejundiai.com.br/mais/esportes/vasco-x-palmeiras-no-maracana-entenda-a-situacao/"
+     ]
+    },
+    "analise": [
+     "Vasco e Palmeiras decidem no domingo (8/11), às 17h, em São Januário, a segunda vaga na final da Copa do Brasil. O Palmeiras venceu a ida por 1 a 0, no Nubank Parque, com gol de Maurício no primeiro tempo, e se classifica com um empate. O Vasco precisa ganhar: vitória por um gol leva a decisão para os pênaltis, e por dois ou mais gols dá a vaga direto ao time carioca. O campeão leva R$ 78 milhões e vaga direta na fase de grupos da Libertadores de 2027.",
+     "O Vasco chega embalado pela vitória por 3 a 1 sobre o Athletico-PR, na Arena da Baixada, na quarta-feira (4/11), pelo Brasileirão, em que ocupa o 13º lugar, com 41 pontos. Antes, porém, tinha levado 4 a 1 do Flamengo e caído na Copa Sul-Americana diante do Boca Juniors. Na Copa do Brasil, a equipe de Pedro Emanuel eliminou Vitória, Fluminense e Paysandu e tenta chegar à segunda final seguida. Terá um desfalque certo: o zagueiro uruguaio Alan Saldivia foi expulso na ida, com o segundo amarelo.",
+     "O Palmeiras, de Abel Ferreira, é o segundo colocado do Brasileirão, com 70 pontos, e perdeu só três vezes em 33 rodadas. Fora de casa, vem de empates sem gols com Santos e Grêmio e de vitória por 2 a 0 sobre o Athletico-PR. Na Copa do Brasil, passou por Jacuipense, Fortaleza e Santos sem perder e busca o quinto título (já venceu em 1998, 2012, 2015 e 2020). Antes da decisão, o time recebe o Remo na quinta-feira (5/11), pelo Brasileirão, e ainda tem pela frente a final da Libertadores contra o Estudiantes.",
+     "A ida deixou polêmica: o Vasco reclamou de um pênalti não marcado por toque de mão do zagueiro Barboza, segundo O Povo e o Jornal do Brasil. São Januário será mesmo o palco, depois que a diretoria vascaína recusou proposta para levar o jogo ao Maracanã, segundo a Tribuna de Jundiaí."
+    ],
+    "retrospecto": "É o primeiro encontro de Vasco e Palmeiras na história da Copa do Brasil. Em mata-matas em geral, os clubes já se cruzaram oito vezes, com quatro classificações ou títulos para cada lado, segundo O Povo. Em 2026, o mandante venceu todos os jogos: Vasco 2 a 1 e Palmeiras 4 a 1 pelo Brasileirão, e Palmeiras 1 a 0 na ida da semifinal.",
+    "estadio_wiki": "Estádio São Januário",
+    "fontes": [
+     "https://mais.opovo.com.br/jornal/esportes/2026/11/01/palmeiras-x-vasco-abrem-semifinais-da-copa-do-brasil.html",
+     "https://www.opovo.com.br/esportes/2026/11/02/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-a-0.html",
+     "https://diariodonordeste.verdesmares.com.br/jogada/copa-do-brasil-palmeiras-vence-vasco-com-gol-de-mauricio-e-abre-vantagem-na-semifinal-1.3802816",
+     "https://www.jb.com.br/esportes/2026/11/1061429-palmeiras-vence-vasco-por-1-a-0-e-joga-por-empate-na-volta.html",
+     "https://abcdoabc.com.br/palmeiras-x-vasco-confira-os-detalhes",
+     "https://tribunadejundiai.com.br/mais/esportes/vasco-x-palmeiras-no-maracana-entenda-a-situacao/"
+    ],
+    "atualizado": "2026-11-05T17:31:00-03:00"
+   }
   }
  ]
 }
