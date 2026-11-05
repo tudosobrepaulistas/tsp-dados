@@ -612,10 +612,13 @@
    "slug": "saocaetano",
    "nome": "São Caetano",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "São Caetano do Sul",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.dgabc.com.br",
+    "https://www.futebolinterior.com.br/clube/associacao-desportiva-sao-caetano/"
+   ]
   },
   {
    "slug": "tanabi",
