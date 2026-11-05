@@ -550,10 +550,13 @@
    "slug": "ecus",
    "nome": "ECUS",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Suzano",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.diariodesuzano.com.br",
+    "https://www.futebolinterior.com.br"
+   ]
   },
   {
    "slug": "gremio-saocarlense",
@@ -650,10 +653,13 @@
    "slug": "uniao-suzano",
    "nome": "União Suzano",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Suzano",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.diariodesuzano.com.br",
+    "https://www.futebolinterior.com.br"
+   ]
   },
   {
    "slug": "vocem",
