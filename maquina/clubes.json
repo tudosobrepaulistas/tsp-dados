@@ -687,10 +687,12 @@
    "slug": "ferroviaria-feminino",
    "nome": "Ferroviária Feminino",
    "grupo": "feminino",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Araraquara",
+   "site_oficial": "https://ferroviariasaf.com",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://portalmorada.com.br"
+   ]
   },
   {
    "slug": "red-bull-bragantino-feminino",
