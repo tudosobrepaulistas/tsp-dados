@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-04T21:42:00-03:00",
+ "gerado": "2026-11-04T22:10:00-03:00",
  "versao": 1,
  "competicoes": [
   {
@@ -9380,14 +9380,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/futebol-feminino/cbf-detalha-semifinal-da-copa-do-brasil-feminina-veja-datas-horarios-e-onde-assistir.html"
+    "https://www.lance.com.br/futebol-feminino/cbf-detalha-semifinal-da-copa-do-brasil-feminina-veja-datas-horarios-e-onde-assistir.html",
+    "https://www.lance.com.br/futebol-feminino/inter-vence-o-bragantino-abre-vantagem-e-fica-perto-da-final-da-copa-do-brasil-feminina.html",
+    "https://www.terra.com.br/esportes/futebol/internacional/internacional-abre-frente-sobre-bragantino-pela-semi-da-copa-do-br-feminina,3c7c9ba5a65a95f08332b06534d3c493citwyjig.html"
    ],
    "fixture": {
     "id": 91000132,
     "timestamp": 1793831400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Beira-Rio",
@@ -9409,8 +9411,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -9450,7 +9452,72 @@
      ]
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Valéria Cantuário"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Lelê"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Sole Jaimes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Camila Ambrozio"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "fem_copa_do_brasil",
@@ -10624,6 +10691,32 @@
     "jogador": "Maurício",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 1
+   }
+  ],
+  "fem_copa_do_brasil": [
+   {
+    "jogador": "Camila Ambrozio",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Lelê",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Sole Jaimes",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Valéria Cantuário",
+    "time": "Internacional",
+    "time_id": 900016,
     "gols": 1
    }
   ]

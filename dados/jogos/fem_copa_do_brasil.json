@@ -5,22 +5,49 @@
    "data": "2026-11-04T19:30:00-03:00",
    "casa": "internacional",
    "fora": "bragantino",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "",
    "fase": "Semifinal - ida",
    "grupo": "",
    "estadio": "Beira-Rio",
    "cidade": "Porto Alegre",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 3,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Valéria Cantuário",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Lelê",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Sole Jaimes",
+     "minuto": "51",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Camila Ambrozio",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/futebol-feminino/cbf-detalha-semifinal-da-copa-do-brasil-feminina-veja-datas-horarios-e-onde-assistir.html"
+    "https://www.lance.com.br/futebol-feminino/cbf-detalha-semifinal-da-copa-do-brasil-feminina-veja-datas-horarios-e-onde-assistir.html",
+    "https://www.lance.com.br/futebol-feminino/inter-vence-o-bragantino-abre-vantagem-e-fica-perto-da-final-da-copa-do-brasil-feminina.html",
+    "https://www.terra.com.br/esportes/futebol/internacional/internacional-abre-frente-sobre-bragantino-pela-semi-da-copa-do-br-feminina,3c7c9ba5a65a95f08332b06534d3c493citwyjig.html"
    ],
-   "atualizado": "2026-10-30T01:54:00-03:00",
+   "atualizado": "2026-11-04T22:10:00-03:00",
    "prejogo": {
     "analise": [
      "Internacional e Red Bull Bragantino abrem a semifinal da Copa do Brasil Feminina na quarta-feira (4/11), às 19h30, no Beira-Rio, em Porto Alegre. O confronto, definido em sorteio na sede da CBF em 23 de outubro, vale vaga na decisão contra o vencedor de Bahia x Flamengo. A volta será em Bragança Paulista, com mando das paulistas.",
