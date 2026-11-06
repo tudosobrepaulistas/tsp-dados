@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-06T13:19-03:00",
+ "gerado": "2026-11-06T19:23-03:00",
  "avisos": [
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-11-01T16:27-03:00",
-   "motivo": "Sem notícia nova nos últimos 7 dias; título da Segunda Divisão de 1962 só aparece em blog e Wikipédia, com data de fundação conflitante (1931 x 1935).",
-   "sugestao": "Pedir ao clube ou ao jornal local de Santa Cruz do Rio Pardo material sobre o título de 1962 e o acesso à elite (1963-1967); ou balanço da campanha no Paulista Sub-17 2026."
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-01T21:18-03:00",
-   "motivo": "Clube sem site/redes ativos encontrados e sem notícia nos últimos 7 dias; fontes históricas disponíveis só na Wikipédia, com datas de fundação conflitantes",
-   "sugestao": "Contatar a diretoria do Grêmio Catanduvense e confirmar se o clube disputa a Segunda Divisão de 2027 e quem comanda o futebol (Pinho e Nei Silva foram citados em agosto)"
-  },
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-11-01T21:18-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; site oficial não pôde ser consultado e páginas históricas encontradas (Jornal Debate, blogs) estavam bloqueadas ou eram só Wikipédia",
-   "sugestao": "Matéria sobre o título da Série A3 de 1962 e os 95 anos da Santacruzense (fundada em 25/01/1931), com consulta ao clube e ao arquivo do Jornal Debate"
-  },
-  {
-   "clube": "aracatuba",
-   "nome": "Araçatuba",
-   "quando": "2026-11-01T21:25-03:00",
-   "motivo": "Sem notícia nova da AEA nos últimos 7 dias (última apuração da Folha da Região é de agosto) e o tema histórico principal já foi publicado no site",
-   "sugestao": "Acompanhar com a diretoria de Guilherme Nishikawa a inscrição da AEA para 2027 e o andamento da SAF aprovada em fevereiro"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-02T06:09-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em fontes aceitas; história do clube confusa nas fontes (Grêmio Catanduvense de Futebol x Grêmio Esportivo Catanduvense, datas de fundação divergentes)",
-   "sugestao": "Redator: conferir com a diretoria qual é a entidade e a data de fundação e fazer 'A história do Catanduvense, do Paulistão à Bezinha' com o Estádio Silvio Salles"
-  },
-  {
-   "clube": "nacional",
-   "nome": "Nacional",
-   "quando": "2026-11-02T06:10-03:00",
-   "motivo": "Sem notícia nova em fontes aceitas nos últimos 7 dias; história, estádio e Copinhas já publicados pela Máquina em 30/10",
-   "sugestao": "Redator: perfil de um ídolo ou revelação da base do Nacional (ex.: elenco campeão da Copinha de 1988), conferido em jornal"
-  },
   {
    "clube": "aracatuba",
    "nome": "Araçatuba",
@@ -420,6 +378,48 @@
    "quando": "2026-11-06T13:19-03:00",
    "motivo": "Site oficial das Sereias não abriu; sem notícia recente confirmada em 2 fontes",
    "sugestao": "Prévia de Santos x São Paulo (17/11, Pacaembu) pelo Paulistão Feminino"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-06T19:20-03:00",
+   "motivo": "Só achei a Agência Futebol Interior (06/11) dizendo que o atacante Kadu Barone 'pode ser oficializado' nesta semana: ainda não é anúncio oficial e não há 2ª fonte.",
+   "sugestao": "Confirmar com o Barretos o anúncio de Kadu Barone (31 anos, 8 gols pela Inter de Bebedouro na A4 2026) e dos reforços Levy Moreira e Kauan Vinícius."
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-06T19:20-03:00",
+   "motivo": "Novos reforços (Denis Santos, João Monteiro, Bernardo, Giovanni Carignano, Rafinha) só na Agência Futebol Interior de 05/11; sem 2ª fonte independente encontrada.",
+   "sugestao": "Conferir nas redes do Tanabi SAF o pacote de reforços de 05/11 (zagueiro Denis Santos, volante João Monteiro, atacantes Bernardo, Giovanni Carignano e Rafinha) e publicar com o post oficial."
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-06T19:20-03:00",
+   "motivo": "Zagueiro Luizão (21 anos, ex-Ponte Preta e Sertãozinho) anunciado em 04/11 só aparece na Agência Futebol Interior; sem 2ª fonte.",
+   "sugestao": "Confirmar nas redes do Lemense a contratação do zagueiro Luizão (Luiz Eduardo da Silva Rocha) e montar matéria com o elenco já fechado para a A4 2027."
+  },
+  {
+   "clube": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "quando": "2026-11-06T19:23-03:00",
+   "motivo": "Vitória de 3x2 sobre o Palmeiras na ida da semi do Paulista F Sub-20 (31/10) só confirmada pela Agência Brasil (republicada por vários sites); não achei 2ª fonte independente nem nota oficial do clube.",
+   "sugestao": "Prévia da volta da semifinal do Paulista Feminino Sub-20 contra o Palmeiras (9/11, mando do Corinthians), com a vantagem de 3x2 da ida (gols de Dani Pereira e Jordi, 2)."
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-11-06T19:23-03:00",
+   "motivo": "Nenhuma notícia recente do Atlético Mogi em jornais nem no site/redes oficiais encontrados.",
+   "sugestao": "Perguntar ao Atlético Mogi se disputará a Segunda Divisão de 2027 e quem será o técnico."
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-06T19:23-03:00",
+   "motivo": "Sem notícia recente do Amparo Athlético; história já usada em 30/10 (limite de 30 dias).",
+   "sugestao": "Apurar com o Amparo Athlético os planos para 2027 (inscrição na Segunda Divisão, comissão técnica, categorias de base)."
   }
  ]
 }
