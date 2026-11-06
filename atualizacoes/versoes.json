@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-06T02:09-03:00",
+ "gerado": "2026-11-06T02:29-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.7.0",
-   "zip": "tsp-jogos-1.7.0.zip",
-   "notas": "Simulador TSP do Brasileirão (página /simulador-brasileirao/ criada sozinha)."
+   "versao": "1.7.1",
+   "zip": "tsp-jogos-1.7.1.zip",
+   "notas": "Simulador mostra todos os jogos de uma vez; escudos de todos os clubes (Wikipédia/Wikidata com identificação correta)."
   },
   "tsp-maquina": {
    "versao": "1.7.0",
