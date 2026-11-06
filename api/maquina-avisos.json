@@ -1,69 +1,6 @@
 {
- "gerado": "2026-11-06T07:17-03:00",
+ "gerado": "2026-11-06T13:19-03:00",
  "avisos": [
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-11-01T06:14-03:00",
-   "motivo": "Busca não trouxe notícia recente nem fonte local confiável",
-   "sugestao": "Mapear jornal de Santa Cruz do Rio Pardo e redes oficiais do clube; planejamento para a Bezinha 2027"
-  },
-  {
-   "clube": "assisense",
-   "nome": "Assisense",
-   "quando": "2026-11-01T06:14-03:00",
-   "motivo": "Busca não trouxe notícia recente nem fonte local confiável",
-   "sugestao": "Mapear jornais de Assis (ex.: Voz da Terra) e redes do Assisense; planejamento 2027"
-  },
-  {
-   "clube": "ad-guarulhos",
-   "nome": "AD Guarulhos",
-   "quando": "2026-11-01T06:14-03:00",
-   "motivo": "Busca não trouxe notícia recente; só agregadores e Wikipédia",
-   "sugestao": "Conferir redes oficiais da AD Guarulhos e jornais de Guarulhos (Guarulhos Hoje) sobre 2027"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-01T06:14-03:00",
-   "motivo": "Busca não trouxe notícia recente; só agregadores e Wikipédia",
-   "sugestao": "Consultar O Regional (Catanduva) sobre o Grêmio Catanduvense e planos para 2027"
-  },
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-11-01T11:10-03:00",
-   "motivo": "Sem notícia recente nas fontes acessíveis (temporada encerrada) e histórico disponível só em wikis, sem fonte jornalística para cruzar",
-   "sugestao": "Perfil histórico da Esportiva Santacruzense (fundada em 1931, Estádio Leônidas Camarinha, mascote locomotiva), conferindo datas e o título de 1962 com a FPF ou o jornal Debate de Santa Cruz do Rio Pardo"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-01T11:23-03:00",
-   "motivo": "Sem notícia nova confirmada desde agosto (planejamento 2027) nas fontes acessíveis; histórico só em wiki com datas de fundação conflitantes",
-   "sugestao": "Ouvir o presidente do Grêmio Catanduvense sobre a inscrição na Segunda Divisão 2027 e a chegada de Pinho e Nei Silva (pauta com O Regional, de Catanduva)"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-01T16:23-03:00",
-   "motivo": "Sem notícia nova confirmada nos últimos 7 dias; histórico disponível é fino e com datas conflitantes (fundação 1999 x 2004).",
-   "sugestao": "Ligar para o presidente Sérgio Gomes sobre o planejamento de 2027 (Pinho e Nei Silva) e o elenco para a Segunda Divisão."
-  },
-  {
-   "clube": "ad-guarulhos",
-   "nome": "AD Guarulhos",
-   "quando": "2026-11-01T16:26-03:00",
-   "motivo": "Sem notícia nova confirmada nos últimos 7 dias; documentário 'Vai Guarulhos' só tem 1 fonte (Guarulhos Hoje, 2021).",
-   "sugestao": "Procurar a diretoria da AD Guarulhos sobre a perda de pontos no TJD e o planejamento para a Segunda Divisão de 2027; ou entrevistar o diretor Fabrício Gallinucci sobre o filme 'Vai Guarulhos'."
-  },
-  {
-   "clube": "riopretano",
-   "nome": "Riopretano",
-   "quando": "2026-11-01T16:27-03:00",
-   "motivo": "Única novidade recente (contratação do jovem Wellington Gabriel, 16 anos, para o sub-20) só tem 1 fonte (O Defensor, 27/10).",
-   "sugestao": "Confirmar com o Riopretano FC (presidente Benjamin Castro Lima Neto ou o diretor Pinho) a contratação de Wellington Gabriel e o planejamento para 2027."
-  },
   {
    "clube": "santacruzense",
    "nome": "Santacruzense",
@@ -420,6 +357,69 @@
    "quando": "2026-11-06T07:17-03:00",
    "motivo": "Nenhuma notícia nova dos últimos 7 dias confirmada em 2 fontes; retorno do meia Lucas Honório aparece só no O Diário (página bloqueada, data não confirmada)",
    "sugestao": "Confirmar com o Barretos o retorno do meia Lucas Honório e o andamento da reforma do estádio para a Copinha 2027"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-06T13:16-03:00",
+   "motivo": "Pacote de reforços de 05/11 (Denis Santos, João Monteiro, Bernardo, Giovanni Carignano, Rafinha; auxiliar Papa) só saiu no Futebol Interior; sem 2ª fonte independente",
+   "sugestao": "Confirmar com o Tanabi SAF (Instagram) os reforços anunciados em 05/11 e o início da pré-temporada com Petterson Martins"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-06T13:16-03:00",
+   "motivo": "Zagueiro Luizão (ex-Ponte, 04/11) só no Futebol Interior; sem 2ª fonte",
+   "sugestao": "Confirmar com o Lemense a contratação de Luizão e a reapresentação do elenco marcada para 15/11"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-06T13:16-03:00",
+   "motivo": "Sem notícia nova nos últimos 7 dias com 2 fontes (último anúncio: atacante Levy Moreira, 26/10)",
+   "sugestao": "Apurar com o BEC as próximas contratações de Edson Paulista e o andamento da reforma do estádio para a Copinha"
+  },
+  {
+   "clube": "sao-paulo-feminino",
+   "nome": "São Paulo Feminino",
+   "quando": "2026-11-06T13:16-03:00",
+   "motivo": "Sem fato novo confirmado após o título brasileiro; próximo jogo (Santos, 17/11, Pacaembu, Paulistão F) só no calendário do clube",
+   "sugestao": "Prévia de São Paulo x Santos (17/11, Pacaembu) pelo Paulistão Feminino quando o clube divulgar ingressos/fase; volta da semifinal do Paulista F Sub-20 contra a Ferroviária"
+  },
+  {
+   "clube": "atletico-mogi",
+   "nome": "Atlético Mogi",
+   "quando": "2026-11-06T13:16-03:00",
+   "motivo": "Nenhuma notícia recente encontrada em jornais de Mogi nem no Futebol Interior",
+   "sugestao": "Perguntar ao Atlético Mogi se disputará a Segunda Divisão/Copa Paulista em 2027 e quem é o técnico"
+  },
+  {
+   "clube": "amparo",
+   "nome": "Amparo",
+   "quando": "2026-11-06T13:16-03:00",
+   "motivo": "Nenhuma notícia recente encontrada (última: 101 anos de fundação)",
+   "sugestao": "Apurar com o Amparo AC planos para 2027 e situação do Estádio Municipal"
+  },
+  {
+   "clube": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "quando": "2026-11-06T13:19-03:00",
+   "motivo": "Saída de Emily Lima já publicada no site; saída do preparador Joe Montero (04/11) só na Placar, sem 2ª fonte",
+   "sugestao": "Quem será a nova técnica das Brabas e prévia do play-in do Paulistão F contra o Red Bull Bragantino (17 e 22/11)"
+  },
+  {
+   "clube": "palmeiras-feminino",
+   "nome": "Palmeiras Feminino",
+   "quando": "2026-11-06T13:19-03:00",
+   "motivo": "Não encontrei notícia dos últimos 7 dias com 2 fontes (site oficial sem lista de notícias acessível)",
+   "sugestao": "Situação do Palmeiras no Paulistão Feminino 2026 e renovações para 2027"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-06T13:19-03:00",
+   "motivo": "Site oficial das Sereias não abriu; sem notícia recente confirmada em 2 fontes",
+   "sugestao": "Prévia de Santos x São Paulo (17/11, Pacaembu) pelo Paulistão Feminino"
   }
  ]
 }
