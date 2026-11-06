@@ -2486,22 +2486,67 @@
    "data": "2026-11-05T19:30:00-03:00",
    "casa": "palmeiras",
    "fora": "remo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Nubank Parque",
    "cidade": "São Paulo",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 6,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jhon Arias",
+     "minuto": "3",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jhon Arias",
+     "minuto": "13",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Mauricio",
+     "minuto": "20",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marcelinho",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Zé Welison",
+     "minuto": "45+1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Flaco López",
+     "minuto": "54",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Felipe Anderson",
+     "minuto": "79",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-goleia-remo-34-rodada-brasileirao-05-11-2026/",
+    "https://www.oliberal.com/esportes/remo/anotou-a-placa-palmeiras-humilha-o-remo-e-aplica-goleada-pelo-brasileirao-1.1191073"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-05T21:41:00-03:00",
    "prejogo": {
     "analise": [
      "Palmeiras e Remo se enfrentam na quinta-feira (5/11), às 19h30, no Nubank Parque, pela 34ª rodada do Brasileirão, com objetivos opostos na tabela. O Palmeiras é o vice-líder, com 70 pontos, três atrás do Flamengo (73), e precisa vencer para seguir na briga pelo título a cinco rodadas do fim. O Remo é o 19º colocado, com 29 pontos, oito atrás do Mirassol (37), 16º e primeiro time fora da zona de rebaixamento.",

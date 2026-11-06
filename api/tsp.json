@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-05T19:26:00-03:00",
+ "gerado": "2026-11-05T21:41:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -45,13 +45,13 @@
     {
      "id": 900002,
      "nome": "Palmeiras",
-     "pts": 70,
-     "j": 33,
-     "v": 20,
+     "pts": 73,
+     "j": 34,
+     "v": 21,
      "e": 10,
      "d": 3,
-     "gp": 56,
-     "gc": 22
+     "gp": 62,
+     "gc": 23
     },
     {
      "id": 900003,
@@ -233,12 +233,12 @@
      "id": 900019,
      "nome": "Remo",
      "pts": 29,
-     "j": 33,
+     "j": 34,
      "v": 6,
      "e": 11,
-     "d": 16,
-     "gp": 36,
-     "gc": 51
+     "d": 17,
+     "gp": 37,
+     "gc": 57
     },
     {
      "id": 900020,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000028,
-     "rodada": "34",
-     "data": "2026-11-05T19:30",
-     "casa": 900002,
-     "fora": 900019,
-     "a_confirmar": false
-    },
     {
      "id": 91000029,
      "rodada": "34",
@@ -1008,6 +1000,12 @@
      900018,
      0,
      0
+    ],
+    [
+     900002,
+     900019,
+     6,
+     1
     ]
    ]
   }
@@ -5804,14 +5802,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-goleia-remo-34-rodada-brasileirao-05-11-2026/",
+    "https://www.oliberal.com/esportes/remo/anotou-a-placa-palmeiras-humilha-o-remo-e-aplica-goleada-pelo-brasileirao-1.1191073"
    ],
    "fixture": {
     "id": 91000028,
     "timestamp": 1793917800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Nubank Parque",
@@ -5833,8 +5833,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 6,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -5886,7 +5886,120 @@
      "atualizado": "2026-11-05T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 3,
+      "extra": null,
+      "texto": "3"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Jhon Arias"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 13,
+      "extra": null,
+      "texto": "13"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Jhon Arias"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 20,
+      "extra": null,
+      "texto": "20"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Mauricio"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Marcelinho"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+1"
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Zé Welison"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 54,
+      "extra": null,
+      "texto": "54"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Flaco López"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 79,
+      "extra": null,
+      "texto": "79"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Felipe Anderson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -11679,15 +11792,15 @@
       2,
       900002,
       "Palmeiras",
-      70,
-      33,
-      20,
+      73,
+      34,
+      21,
       10,
       3,
-      34,
+      39,
       "",
-      56,
-      22
+      62,
+      23
      ],
      [
       3,
@@ -11918,14 +12031,14 @@
       900019,
       "Remo",
       29,
-      33,
+      34,
       6,
       11,
-      16,
-      -15,
+      17,
+      -20,
       "",
-      36,
-      51
+      37,
+      57
      ],
      [
       20,
@@ -12252,6 +12365,12 @@
     "gols": 3
    },
    {
+    "jogador": "Jhon Arias",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 2
+   },
+   {
     "jogador": "Marino Hinestroza",
     "time": "Vasco",
     "time_id": 900013,
@@ -12261,6 +12380,12 @@
     "jogador": "Matheus Bidu",
     "time": "Corinthians",
     "time_id": 900018,
+    "gols": 2
+   },
+   {
+    "jogador": "Mauricio",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 2
    },
    {
@@ -12357,6 +12482,18 @@
     "jogador": "Fabrício Bruno",
     "time": "Cruzeiro",
     "time_id": 900003,
+    "gols": 1
+   },
+   {
+    "jogador": "Felipe Anderson",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Flaco López",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 1
    },
    {
@@ -12492,12 +12629,6 @@
     "gols": 1
    },
    {
-    "jogador": "Mauricio",
-    "time": "Palmeiras",
-    "time_id": 900002,
-    "gols": 1
-   },
-   {
     "jogador": "Mendoza",
     "time": "Athletico-PR",
     "time_id": 900004,
@@ -12555,6 +12686,12 @@
     "jogador": "Tinga",
     "time": "Coritiba",
     "time_id": 900012,
+    "gols": 1
+   },
+   {
+    "jogador": "Zé Welison",
+    "time": "Remo",
+    "time_id": 900019,
     "gols": 1
    }
   ],
