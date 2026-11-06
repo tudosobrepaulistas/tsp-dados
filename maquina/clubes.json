@@ -529,10 +529,14 @@
    "slug": "comercial",
    "nome": "Comercial",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Ribeirão Preto",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://www.tribunaribeirao.com.br",
+    "https://www.acidadeon.com/ribeiraopreto",
+    "https://www.futebolinterior.com.br"
+   ]
   },
   {
    "slug": "desportivo-brasil",
