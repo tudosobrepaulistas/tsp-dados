@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-06T02:07-03:00",
+ "gerado": "2026-11-06T02:09-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.7.0",
@@ -8,9 +8,9 @@
    "notas": "Simulador TSP do Brasileirão (página /simulador-brasileirao/ criada sozinha)."
   },
   "tsp-maquina": {
-   "versao": "1.6.1",
-   "zip": "tsp-maquina-1.6.1.zip",
-   "notas": "Arte automática para matéria sem foto; pós-jogo parado há mais de 12h não sai; pedidos de pauta da Máquina em destaque para o administrador."
+   "versao": "1.7.0",
+   "zip": "tsp-maquina-1.7.0.zip",
+   "notas": "Sem arte automática (matéria sem foto volta a ser rascunho); pós-jogos assinados pela conta da redação."
   },
   "tsp-relatorio": {
    "versao": "1.8.0",
