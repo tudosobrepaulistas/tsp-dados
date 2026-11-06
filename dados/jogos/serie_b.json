@@ -2191,28 +2191,56 @@
   },
   {
    "id": 91000134,
-   "data": "2026-11-06T19:30:00-03:00",
+   "data": "2026-11-05T19:30:00-03:00",
    "casa": "botafogo-sp",
    "fora": "londrina",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Santa Cruz",
    "cidade": "Ribeirão Preto",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 4,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
-   "obs": "",
-   "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jonathan",
+     "minuto": "17",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Hygor",
+     "minuto": "44",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Wesley",
+     "minuto": "48",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Inocêncio",
+     "minuto": "70",
+     "tipo": "normal"
+    }
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "obs": "Jogo disputado na quinta-feira (5/11), e não na sexta como na tabela anterior",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-londrina-onde-assistir-escalacoes-serie-b/",
+    "https://botafogofutebolsa.com.br/botafogo-goleia-o-londrina-no-ultimo-jogo-em-casa-na-temporada",
+    "https://www.tribunaribeirao.com.br/botafogo-atropela-o-londrina-no-santa-cruz/"
+   ],
+   "atualizado": "2026-11-06T14:25:00-03:00",
    "prejogo": {
     "analise": [
-     "Botafogo-SP e Londrina se enfrentam na sexta-feira (6/11), às 19h30, no Estádio Santa Cruz, em Ribeirão Preto, pela 37ª e penúltima rodada da Série B, sem nada a decidir na tabela. O Botafogo-SP é o 12º colocado, com 48 pontos: não pode mais alcançar os 55 pontos do sexto lugar, última vaga nos playoffs de acesso, e também já não corre risco de queda, com 11 pontos de vantagem sobre o Avaí (37), 17º. O Londrina é o 18º, com 32 pontos, e já está rebaixado para a Série C de 2027.",
+     "Botafogo-SP e Londrina se enfrentam na quinta-feira (5/11), às 19h30, no Estádio Santa Cruz, em Ribeirão Preto, pela 37ª e penúltima rodada da Série B, sem nada a decidir na tabela. O Botafogo-SP é o 12º colocado, com 48 pontos: não pode mais alcançar os 55 pontos do sexto lugar, última vaga nos playoffs de acesso, e também já não corre risco de queda, com 11 pontos de vantagem sobre o Avaí (37), 17º. O Londrina é o 18º, com 32 pontos, e já está rebaixado para a Série C de 2027.",
      "O Botafogo-SP chega a este jogo com cinco partidas sem perder na Série B: venceu Operário-PR (2 a 1, em Ponta Grossa), Ceará (1 a 0, em casa), CRB (1 a 0, em Maceió) e Avaí (2 a 0, em Florianópolis) e empatou com o Sport por 1 a 1, no sábado (31/10), no Santa Cruz, com gol de Hygor.",
      "O Londrina vive o oposto. Nos últimos cinco jogos, venceu só o Cuiabá (1 a 0) e perdeu três vezes, a mais recente por 3 a 1 para o também rebaixado América-MG, no domingo (1º/11), no VGD, com protesto de torcedores vestidos de preto, segundo o Bonde. Fora de casa, o time paranaense não vence nos três jogos mais recentes como visitante: derrotas para Avaí (2 a 1) e CRB (2 a 1) e empate por 2 a 2 com o Athletic."
     ],
@@ -2225,7 +2253,7 @@
      "https://www.diariodepernambuco.com.br/esportes-dp/nacional/2026/02/11706995-serie-b-muda-formato-e-tera-playoffs-para-definir-acesso-veja-detalhes.html",
      "https://www.cnnbrasil.com.br/esportes/lances-ao-vivo/brasileiro-serie-b-2026/17-07-2026/londrina-x-botafogo-sp/"
     ],
-    "atualizado": "2026-11-03T20:33:00-03:00"
+    "atualizado": "2026-11-06T14:27:00-03:00"
    }
   },
   {
@@ -2265,7 +2293,37 @@
      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-e-sport-empatam-e-mantem-disputa-aberta-na-serie-b/",
      "https://www.diariodepernambuco.com.br/esportes-dp/nacional/2026/02/11706995-serie-b-muda-formato-e-tera-playoffs-para-definir-acesso-veja-detalhes.html"
     ],
-    "atualizado": "2026-11-03T20:33:00-03:00"
+    "atualizado": "2026-11-06T14:27:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Disney+ Premium",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/operario-pr-x-sport-onde-assistir-horario-escalacoes-serie-b/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Alberto Valentim",
+      "time": "Elias; André, Joseph e Cuenú; Maguinho, Índio, Brenno, Dudu Mosconi, Moraes e Gabriel Feliciano; Caio Dantas",
+      "desfalques": "Miranda e Vinicius Diniz (suspensos, 3º amarelo); Pablo, Ángel Torres, Boschilia, Mingotti, Zuluaga e Matheus Trindade (departamento médico)",
+      "duvidas": "Valentim pode abandonar o esquema com três zagueiros; André Dantas e Neto Paraíba são opções na defesa, e Brenno e Berto (volta de suspensão) disputam vaga no ataque"
+     },
+     "fora": {
+      "tecnico": "Sued Lima (auxiliar; Mariano Soso está suspenso)",
+      "time": "Thiago Couto; Claudinho, Marcelo Benevenuto, Habraão e Raí Lopes; Biel, Fernando Sobral e Patrick de Paula; Diego Hernández, Perotti e Chrystian Barletta",
+      "desfalques": "Willian Oliveira (lesão no pé direito)",
+      "duvidas": "Biel ou Zé Gabriel; Marcelo Ajul também é citado na zaga"
+     },
+     "fontes": [
+      "https://www.cbnrecife.com/2026/11/06/sport-enfrenta-o-operario-pr-em-busca-de-vaga-no-g6-da-serie-b/",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/operario-pr-x-sport-onde-assistir-horario-escalacoes-serie-b/"
+     ],
+     "atualizado": "2026-11-06T14:27:00-03:00"
+    }
    }
   },
   {

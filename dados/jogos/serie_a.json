@@ -2740,7 +2740,43 @@
      "https://www.fluminense.com.br/noticia/fluminense-vence-o-internacional-de-virada-pelo-campeonato-brasileiro",
      "https://www.correio24horas.com.br/esportes/vitoria-cede-empate-ao-fluminense-no-fim-e-segue-sem-vencer-fora-de-casa-no-brasileirao-0526"
     ],
-    "atualizado": "2026-11-03T20:33:00-03:00"
+    "atualizado": "2026-11-06T14:27:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "SporTV",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://bahia.ba/esporte/vitoria-x-fluminense-onde-assistir-provaveis-escalacoes-e-arbitragem-2/",
+      "https://www.bahianoticias.com.br/esportes/vitoria/31740-vitoria-x-fluminense-veja-provaveis-escalacoes-e-onde-assistir-o-duelo-pela-serie-a"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Cléber dos Santos (interino)",
+      "time": "Lucas Arcanjo; Mateus Silva, Cacá, Luan Cândido e Jamerson; Gabriel Baralhas, Emmanuel Martínez e Matheuzinho; Erick, Diego Tarzia e Renê",
+      "desfalques": "Brítez (suspenso, 3º amarelo); Fabiano, Nathan Mendes, Ramon e Dudu (departamento médico)",
+      "duvidas": "Baralhas ou Caíque no meio; Gean e Wanderson são citados nas laterais"
+     },
+     "fora": {
+      "tecnico": "Marcão",
+      "time": "Fábio; Guga, Freytes, Thiago Silva e Guilherme Arana; Hércules, Nonato e Lucho Acosta; Savarino, Canobbio e Hulk",
+      "desfalques": "Ignácio (suspenso, 3º amarelo); Millán e Martinelli (lesionados)",
+      "duvidas": "Lucho Acosta ou Ganso"
+     },
+     "fontes": [
+      "https://www.bahianoticias.com.br/esportes/vitoria/31740-vitoria-x-fluminense-veja-provaveis-escalacoes-e-onde-assistir-o-duelo-pela-serie-a",
+      "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-visita-o-vitoria-para-se-consolidar-no-g4-do-brasileirao/",
+      "https://bahia.ba/esporte/vitoria-x-fluminense-onde-assistir-provaveis-escalacoes-e-arbitragem-2/"
+     ],
+     "atualizado": "2026-11-06T14:27:00-03:00"
+    }
    }
   },
   {
