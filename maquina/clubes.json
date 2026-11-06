@@ -730,10 +730,13 @@
    "slug": "red-bull-bragantino-feminino",
    "nome": "Red Bull Bragantino Feminino",
    "grupo": "feminino",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Bragança Paulista",
+   "site_oficial": "https://www.redbullbragantino.com/br-pt/noticias",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://correiodeatibaia.com.br",
+    "https://www.terra.com.br/esportes/bragantino/"
+   ]
   },
   {
    "slug": "mirassol-feminino",
