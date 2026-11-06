@@ -234,6 +234,15 @@ def cmd_adicionar(a):
     for i in h:
         if i["clube"] == c["slug"] and (norm(i["titulo"]) == nt or norm(i["foco"]) == norm(it.get("foco", ""))):
             erros.append(f"repetido: já existe '{i['titulo']}' (foco '{i['foco']}')")
+    if it.get("tipo") == "historia":
+        dia = (it.get("publish_at") or proximo_slot())[:10]
+        hist_dia = [i for i in h if i.get("tipo") == "historia" and i["publish_at"][:10] == dia]
+        if len(hist_dia) >= 2:
+            erros.append(f"já há {len(hist_dia)} matérias históricas para {dia} (máximo 2 por dia, para não ficar repetitivo): "
+                         "use `sem-pauta CLUBE --motivo ... --sugestao ...` pedindo uma pauta à redação e passe ao próximo clube")
+        lim = (agora() - datetime.timedelta(days=30)).strftime("%Y-%m-%d")
+        if any(i["clube"] == c["slug"] and i.get("tipo") == "historia" and i["publish_at"] >= lim for i in h):
+            erros.append("este clube já teve matéria histórica nos últimos 30 dias: peça uma pauta com `sem-pauta` em vez de outra história")
     if posjogo:
         slot = agora().strftime("%Y-%m-%d %H:%M")
         if any(i.get("jogo") == it["jogo"] for i in h):
@@ -289,6 +298,11 @@ def checar_posjogo(it):
         gc, gf = j["gols_casa"], j["gols_fora"]
         if not any(x in alvo for x in (f"{gc} a {gf}", f"{gf} a {gc}", f"{gc}x{gf}", f"{gc} x {gf}")):
             erros.append(f"o placar {gc}x{gf} precisa aparecer no título ou subtítulo (ex.: '{gc} a {gf}')")
+    # Botafogo do Rio sempre identificado, para o leitor paulista não confundir com o Botafogo-SP
+    if "botafogo" in (j["casa"], j["fora"]):
+        tt = norm(it.get("titulo", ""))
+        if "botafogo" in tt and not any(x in tt for x in ("botafogo rj", "botafogorj", "botafogo do rio", "alvinegro carioca")):
+            erros.append("Botafogo do Rio: escreva 'Botafogo-RJ' no título (o leitor do TSP pensa no Botafogo-SP)")
     slug = it.get("clube") or casa.get("slug_tsp") or fora.get("slug_tsp") or ""
     it["clube"] = slug
     it["clubes"] = [x for x in (casa.get("slug_tsp"), fora.get("slug_tsp")) if x]

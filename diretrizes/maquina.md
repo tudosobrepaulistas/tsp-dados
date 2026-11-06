@@ -26,8 +26,11 @@ Faça **um commit e push depois de cada matéria** (se a execução cair no meio
 5. Decida o tipo:
    - **noticia**: fato novo confirmado por **2 fontes independentes** (o site oficial do clube + um jornal conta como 2).
    - **coletiva**: entrevista/pronunciamento publicado pelo próprio clube (vídeo ou texto). Use só falas que aparecem na fonte, entre aspas, com o nome de quem falou. Pode ser 1 fonte (o canal oficial), mas cite o link.
-   - **historia** (sem notícia nova): tema histórico/atemporal **conferido em pelo menos 1 fonte confiável** (de preferência 2): títulos, acessos, ídolos, "você sabia que Fulano jogou no clube", estádio, rivalidades, apelidos (ex.: "O que foi o Carrossel Caipira", "Os títulos do Araçatuba", "Craques que passaram pelo Matonense"). Nunca preencha lacuna com suposição: data, placar ou nome sem fonte fica de fora.
-6. Sem notícia e sem tema histórico seguro? **Não escreva.** Rode
+   - **historia** (sem notícia nova) — use com moderação: **no máximo 2 por dia** em toda a Máquina e **1 por clube a cada 30 dias**
+     (a ferramenta recusa o excesso). Nada de encher de jogos antigos e estatísticas: se não há notícia, o certo é
+     **pedir a pauta** com `sem-pauta` (o pedido aparece no painel do Thiago, que apura com o clube).
+     Tema histórico, quando usar: tema histórico/atemporal **conferido em pelo menos 1 fonte confiável** (de preferência 2): títulos, acessos, ídolos, "você sabia que Fulano jogou no clube", estádio, rivalidades, apelidos (ex.: "O que foi o Carrossel Caipira", "Os títulos do Araçatuba", "Craques que passaram pelo Matonense"). Nunca preencha lacuna com suposição: data, placar ou nome sem fonte fica de fora.
+6. Sem notícia (ou com a cota de histórias do dia cheia)? **Não escreva.** Rode
    `maquina.py sem-pauta CLUBE --motivo "..." --sugestao "pauta concreta para um redator"` e passe para o próximo clube da lista.
    Se nenhum dos 6 render, registre os avisos e termine (o horário fica vazio, sem problema).
 7. Monte o JSON (formato abaixo) em `/tmp/materia.json` e rode `maquina.py adicionar /tmp/materia.json`. A ferramenta recusa

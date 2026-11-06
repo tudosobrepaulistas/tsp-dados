@@ -17,6 +17,7 @@ O site publica na hora (sem horário fixo) e põe o link "Como foi o jogo" na p�
 4. `python3 ferramentas/maquina.py adicionar /tmp/pos.json` → commit e push → `python3 ferramentas/maquina.py avisar-site`.
 
 ## Texto (intenção de busca: resultado)
+- **Botafogo do Rio = "Botafogo-RJ"** no título e na 1ª menção (o leitor do TSP pensa no Botafogo-SP, de Ribeirão Preto). A ferramenta exige.
 - **Título** com os dois times, o verbo do resultado e o placar por extenso: "Grêmio vence o Athletico-PR por 2 a 0 e ..."
   / "Santos e Palmeiras empatam por 0 a 0 na Vila". A ferramenta exige o placar no título ou subtítulo.
 - **1º parágrafo**: placar, competição, rodada/fase, estádio, data e quem fez os gols (só os confirmados).
