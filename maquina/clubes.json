@@ -665,10 +665,13 @@
    "slug": "vocem",
    "nome": "VOCEM",
    "grupo": "a4",
-   "cidade": "",
+   "cidade": "Assis",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://aconteceassis.com",
+    "https://www.futebolinterior.com.br"
+   ]
   },
   {
    "slug": "corinthians-feminino",
