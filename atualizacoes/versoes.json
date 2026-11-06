@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-06T02:29-03:00",
+ "gerado": "2026-11-06T03:10-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.7.1",
-   "zip": "tsp-jogos-1.7.1.zip",
-   "notas": "Simulador mostra todos os jogos de uma vez; escudos de todos os clubes (Wikipédia/Wikidata com identificação correta)."
+   "versao": "1.7.2",
+   "zip": "tsp-jogos-1.7.2.zip",
+   "notas": "Simulador: botões grandes Limpar tudo, Desfazer e apagar placar de cada jogo; jogo atrasado junto da rodada de data mais próxima; escudos com identificação correta."
   },
   "tsp-maquina": {
    "versao": "1.7.0",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.3.0",
-   "zip": "tsp-nova-era-1.3.0.zip",
-   "notas": "Botão Simulador TSP Brasileirão na home, na página da Série A e nas matérias da Série A."
+   "versao": "1.3.1",
+   "zip": "tsp-nova-era-1.3.1.zip",
+   "notas": "Botão do Simulador TSP Brasileirão dentro das matérias dos clubes da Série A."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
