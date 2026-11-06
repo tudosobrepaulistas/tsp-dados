@@ -654,8 +654,10 @@
    "nome": "União Suzano",
    "grupo": "a4",
    "cidade": "Suzano",
-   "site_oficial": "",
-   "redes": [],
+   "site_oficial": "https://uniaosuzanooficial.com.br",
+   "redes": [
+    "https://www.instagram.com/uniaosuzano/"
+   ],
    "jornais_locais": [
     "https://www.diariodesuzano.com.br",
     "https://www.futebolinterior.com.br"
