@@ -746,10 +746,14 @@
    "slug": "taubate-feminino",
    "nome": "Taubaté Feminino",
    "grupo": "feminino",
-   "cidade": "",
+   "cidade": "Taubaté",
    "site_oficial": "",
    "redes": [],
-   "jornais_locais": []
+   "jornais_locais": [
+    "https://t7news.com.br",
+    "https://guiataubate.com.br",
+    "https://www.portalr3.com.br"
+   ]
   }
  ]
 }
