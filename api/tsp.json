@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-05T21:41:00-03:00",
+ "gerado": "2026-11-05T23:39:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -56,13 +56,13 @@
     {
      "id": 900003,
      "nome": "Cruzeiro",
-     "pts": 57,
-     "j": 33,
-     "v": 17,
+     "pts": 60,
+     "j": 34,
+     "v": 18,
      "e": 6,
      "d": 10,
-     "gp": 52,
-     "gc": 46
+     "gp": 55,
+     "gc": 48
     },
     {
      "id": 900005,
@@ -90,12 +90,12 @@
      "id": 900007,
      "nome": "Bahia",
      "pts": 53,
-     "j": 33,
+     "j": 34,
      "v": 14,
      "e": 11,
-     "d": 8,
-     "gp": 48,
-     "gc": 42
+     "d": 9,
+     "gp": 50,
+     "gc": 45
     },
     {
      "id": 900006,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000029,
-     "rodada": "34",
-     "data": "2026-11-05T21:30",
-     "casa": 900003,
-     "fora": 900007,
-     "a_confirmar": false
-    },
     {
      "id": 91000030,
      "rodada": "34",
@@ -1006,6 +998,12 @@
      900019,
      6,
      1
+    ],
+    [
+     900003,
+     900007,
+     3,
+     2
     ]
    ]
   }
@@ -6006,14 +6004,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-bate-bahia-com-dois-de-kaio-jorge-e-vence-a-quarta-seguida/",
+    "https://www.bahianoticias.com.br/esportes/bahia/34260-bahia-sai-na-frente-cede-a-pressao-leva-virada-do-cruzeiro-e-perde-chance-de-encostar-no-g-4"
    ],
    "fixture": {
     "id": 91000029,
     "timestamp": 1793925000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Mineirão",
@@ -6035,8 +6035,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -6091,7 +6091,88 @@
      "atualizado": "2026-11-05T16:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Kike Olivera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+1"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Bruno Rodrigues"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Alejo Véliz"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -11806,15 +11887,15 @@
       3,
       900003,
       "Cruzeiro",
-      57,
-      33,
-      17,
+      60,
+      34,
+      18,
       6,
       10,
-      6,
+      7,
       "",
-      52,
-      46
+      55,
+      48
      ],
      [
       4,
@@ -11849,14 +11930,14 @@
       900007,
       "Bahia",
       53,
-      33,
+      34,
       14,
       11,
-      8,
-      6,
+      9,
+      5,
       "",
-      48,
-      42
+      50,
+      45
      ],
      [
       7,
@@ -12353,6 +12434,12 @@
     "gols": 4
    },
    {
+    "jogador": "Kaio Jorge",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 3
+   },
+   {
     "jogador": "Samuel Lino",
     "time": "Flamengo",
     "time_id": 900001,
@@ -12392,6 +12479,12 @@
     "jogador": "Alan Patrick",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Alejo Véliz",
+    "time": "Bahia",
+    "time_id": 900007,
     "gols": 1
    },
    {
@@ -12452,6 +12545,12 @@
     "jogador": "Bruno Duarte",
     "time": "Vasco",
     "time_id": 900013,
+    "gols": 1
+   },
+   {
+    "jogador": "Bruno Rodrigues",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 1
    },
    {
@@ -12563,15 +12662,15 @@
     "gols": 1
    },
    {
-    "jogador": "Kaio Jorge",
-    "time": "Cruzeiro",
-    "time_id": 900003,
-    "gols": 1
-   },
-   {
     "jogador": "Kauan",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Kike Olivera",
+    "time": "Bahia",
+    "time_id": 900007,
     "gols": 1
    },
    {

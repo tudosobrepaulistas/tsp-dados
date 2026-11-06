@@ -2602,22 +2602,55 @@
    "data": "2026-11-05T21:30:00-03:00",
    "casa": "cruzeiro",
    "fora": "bahia",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Mineirão",
    "cidade": "Belo Horizonte",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 3,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Kike Olivera",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kaio Jorge",
+     "minuto": "45+1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bruno Rodrigues",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kaio Jorge",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Alejo Véliz",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-bate-bahia-com-dois-de-kaio-jorge-e-vence-a-quarta-seguida/",
+    "https://www.bahianoticias.com.br/esportes/bahia/34260-bahia-sai-na-frente-cede-a-pressao-leva-virada-do-cruzeiro-e-perde-chance-de-encostar-no-g-4"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-05T23:39:00-03:00",
    "prejogo": {
     "analise": [
      "Cruzeiro e Bahia se enfrentam na quinta-feira (5/11), às 21h30, no Mineirão, pela 34ª rodada do Brasileirão, num confronto direto pelas vagas da Libertadores. O Cruzeiro é o terceiro colocado, com 57 pontos. O Bahia é o sexto, com 53, um ponto atrás de Fluminense e Athletico-PR (54), que fecham o G4. Com uma vitória fora de casa, o time baiano encosta no adversário a cinco rodadas do fim.",

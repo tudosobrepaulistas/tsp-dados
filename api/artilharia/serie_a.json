@@ -6,6 +6,12 @@
   "gols": 4
  },
  {
+  "jogador": "Kaio Jorge",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 3
+ },
+ {
   "jogador": "Samuel Lino",
   "time": "Flamengo",
   "time_id": 900001,
@@ -45,6 +51,12 @@
   "jogador": "Alan Patrick",
   "time": "Internacional",
   "time_id": 900016,
+  "gols": 1
+ },
+ {
+  "jogador": "Alejo Véliz",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 1
  },
  {
@@ -105,6 +117,12 @@
   "jogador": "Bruno Duarte",
   "time": "Vasco",
   "time_id": 900013,
+  "gols": 1
+ },
+ {
+  "jogador": "Bruno Rodrigues",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {
@@ -216,15 +234,15 @@
   "gols": 1
  },
  {
-  "jogador": "Kaio Jorge",
-  "time": "Cruzeiro",
-  "time_id": 900003,
-  "gols": 1
- },
- {
   "jogador": "Kauan",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Kike Olivera",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 1
  },
  {
