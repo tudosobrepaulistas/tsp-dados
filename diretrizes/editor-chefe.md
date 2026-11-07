@@ -20,7 +20,7 @@ tamanho) o site já confere sozinho: aqui o foco é o **fato**.
      --sugestao "Trocar 'pé esquerdo' por 'pé direito' no 2º parágrafo" \
      --fonte "ge" URL1 --fonte "Site oficial do Clube" URL2
    ```
-   `media` para algo sério que não é fato errado (ex.: fala sem atribuição, conteúdo de aposta); `leve` não precisa.
+   `media` para algo sério que não é fato errado (ex.: fala sem atribuição); `leve` não precisa.
 6. No fim: `git add -A && git commit -m "editor-chefe: N apontamentos"` (com as linhas de coautoria) e `git push`,
    depois `python3 ferramentas/correcoes.py avisar-site`.
 
