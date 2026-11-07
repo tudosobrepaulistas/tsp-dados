@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-07T04:47-03:00",
+ "gerado": "2026-11-07T04:50-03:00",
  "avisos": [
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-11-02T11:15-03:00",
-   "motivo": "Sem notícia nova confirmada; site oficial e página da prefeitura bloqueiam leitura automática; história (fundação 1931, título da A3 de 1962) só em 1 fonte enciclopédica",
-   "sugestao": "Campanha da Santacruzense no Paulista Sub-17 2026 (2ª fase, grupo com Guarani) ou matéria histórica sobre o título de 1962 e o Estádio Leônidas Camarinha, conferindo no site do clube"
-  },
-  {
-   "clube": "bandeirante_brodowski",
-   "nome": "Bandeirante de Brodowski",
-   "quando": "2026-11-02T11:22-03:00",
-   "motivo": "Sem notícia nova: site oficial sem publicação desde maio; perfil histórico do clube já saiu em 30/10",
-   "sugestao": "Situação do Bandeirante no Paulista Sub-20 Série A 2026 (2ª fase) e planos para a Copinha 2027, conferindo com o clube"
-  },
-  {
-   "clube": "mogi-mirim-ec",
-   "nome": "Mogi Mirim EC",
-   "quando": "2026-11-02T11:22-03:00",
-   "motivo": "A Câmara de Mogi Mirim publicou nota sobre audiência pública da situação do clube, mas a página e o jornal O Popular (interdição do estádio) não abriram para leitura; sem 2 fontes conferidas. Tema histórico do estádio só com 1 fonte enciclopédica",
-   "sugestao": "Audiência pública na Câmara sobre a situação do Mogi Mirim e a interdição do Estádio Vail Chaves pela prefeitura (conferir data e falas na Câmara e em O Popular/O Impacto)"
-  },
   {
    "clube": "nacional",
    "nome": "Nacional",
@@ -420,6 +399,27 @@
    "quando": "2026-11-07T04:47-03:00",
    "motivo": "Kadu Barone ainda não oficializado (Futebol Interior 06/11 fala em negociação); demais reforços já publicados.",
    "sugestao": "Quando o Barretos oficializar o atacante Kadu Barone (ex-Inter de Bebedouro), noticiar com o post oficial"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-07T04:50-03:00",
+   "motivo": "Sem notícia confirmada nos últimos 7 dias; tabela da Copinha F do Santos (Grupo E, CERET) ainda não saiu em 2 fontes.",
+   "sugestao": "Quando a FPF/Santos divulgarem a tabela do Grupo E da Copinha F (Botafogo, Internacional, Sport), publicar datas e horários das Sereinhas"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-07T04:50-03:00",
+   "motivo": "Time eliminado do Paulistão F; nenhuma notícia nova nos últimos 7 dias.",
+   "sugestao": "Planejamento das Leoas para 2027 (renovações, técnico) quando o clube anunciar"
+  },
+  {
+   "clube": "independente",
+   "nome": "Independente",
+   "quando": "2026-11-07T04:50-03:00",
+   "motivo": "Única novidade recente (permanência de Tiago Miguel) já publicada em 05/11; nada novo com 2 fontes.",
+   "sugestao": "Reforços do Independente para a A4 2027 quando anunciados nas redes oficiais"
   }
  ]
 }
