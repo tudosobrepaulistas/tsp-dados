@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-07T01:55:00-03:00",
+ "gerado": "2026-11-07T10:30:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11276,7 +11276,36 @@
      "https://www.gazetaesportiva.com/?p=3823080",
      "https://www.deolhonailha.com.br/florianopolis/noticias/avai-sao-bernardo-ressacada-7-novembro-2026/"
     ],
-    "atualizado": "2026-11-04T16:33:00-03:00"
+    "atualizado": "2026-11-07T10:30:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://ndmais.com.br/futebol/avai-x-sao-bernardo-veja-escalacoes-horario-onde-assistir-e-mais-sobre-o-futuro-do-time-de-florianopolis-na-serie-b/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Marquinhos Santos",
+      "time": "Bruno Ferreira; João Vitor, Allyson, Reynaldo e Quaresma; Zé Ricardo, Paulo Vitor, Wenderson, Jean Lucas e Luiz Henrique; Léo Gamalho (Suassuna)",
+      "desfalques": "Daniel Penha (lesionado contra o Náutico)",
+      "duvidas": "Léo Gamalho ou Suassuna no ataque"
+     },
+     "fora": {
+      "tecnico": "Vinícius Bergantin",
+      "time": "Alex Alves; Rodrigo Ferreira, Jemerson, Luizão e Pará; Marcão Silva, Lucas Lima e Foguinho; Lucas Fernandes, Pedrinho e Felipe Garcia",
+      "desfalques": "",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://ndmais.com.br/futebol/avai-x-sao-bernardo-veja-escalacoes-horario-onde-assistir-e-mais-sobre-o-futuro-do-time-de-florianopolis-na-serie-b/"
+     ],
+     "atualizado": "2026-11-07T10:30:00-03:00"
+    }
    },
    "events": []
   },
@@ -11333,7 +11362,50 @@
      "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-desperdica-penalti-fica-no-empate-com-o-atletico-go-e-se-afasta-do-g-2-da-serie-b-1.3802936",
      "https://diariodonordeste.verdesmares.com.br/jogada/com-gol-de-vitinho-fortaleza-vence-novorizontino-e-assume-5-posicao-da-serie-b-1.3777904"
     ],
-    "atualizado": "2026-11-04T16:33:00-03:00"
+    "atualizado": "2026-11-07T10:30:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "ESPN 4",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "RedeTV!",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "GOAT",
+       "tipo": "YouTube"
+      }
+     ],
+     "fontes": [
+      "https://www.lance.com.br/fora-de-campo/luta-pelo-acesso-esquenta-espn-e-disney-exibem-dois-jogos-vitais-da-serie-b.html",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-x-fortaleza-onde-assistir-serie-b-2026/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Enderson Moreira",
+      "time": "Jordi; Eduardo Brock, Carlinhos, Madson e Sander; Luís Oyama, Matheus Bianqui e Diego Galo; Nicolas Careca, Reidiney e Robson",
+      "desfalques": "",
+      "duvidas": "Diego Galo"
+     },
+     "fora": {
+      "tecnico": "Paulo Autuori",
+      "time": "João Ricardo; Maurício Mucuri, Jailson, Bastos e Tomás Cardona; Kaio Henrique, Pierre e Ryan; Rodriguinho, Pedro Henrique e Chico da Costa",
+      "desfalques": "Mailton (suspenso, 3º amarelo)",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-x-fortaleza-onde-assistir-serie-b-2026/",
+      "https://diariodonordeste.verdesmares.com.br/jogada/artilheiro-do-fortaleza-na-s%C3%A9rie-b-mailton-%C3%A9-desfalque-contra-novorizontino-veja-substituto-1.3803303"
+     ],
+     "atualizado": "2026-11-07T10:30:00-03:00"
+    }
    },
    "events": []
   },
