@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-06T19:20:00-03:00",
+ "gerado": "2026-11-06T22:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -67,12 +67,12 @@
     {
      "id": 900005,
      "nome": "Fluminense",
-     "pts": 54,
-     "j": 33,
-     "v": 15,
+     "pts": 57,
+     "j": 34,
+     "v": 16,
      "e": 9,
      "d": 9,
-     "gp": 52,
+     "gp": 55,
      "gc": 42
     },
     {
@@ -189,12 +189,12 @@
      "id": 900014,
      "nome": "Vitória",
      "pts": 38,
-     "j": 33,
+     "j": 34,
      "v": 10,
      "e": 8,
-     "d": 15,
+     "d": 16,
      "gp": 35,
-     "gc": 48
+     "gc": 51
     },
     {
      "id": 900016,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000030,
-     "rodada": "34",
-     "data": "2026-11-06T20:00",
-     "casa": 900014,
-     "fora": 900005,
-     "a_confirmar": false
-    },
     {
      "id": 91000145,
      "rodada": "35",
@@ -1004,6 +996,12 @@
      900007,
      3,
      2
+    ],
+    [
+     900014,
+     900005,
+     0,
+     3
     ]
    ]
   }
@@ -6179,14 +6177,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-vence-no-barradao-e-vitoria-se-aproxima-do-z4-do-brasileirao/",
+    "https://www.metropoles.com/esportes/fluminense-bate-o-vitoria-e-vai-para-a-data-fifa-no-g4-do-brasileirao"
    ],
    "fixture": {
     "id": 91000030,
     "timestamp": 1794006000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Barradão",
@@ -6208,8 +6208,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 3
    },
    "penaltis": "",
    "prejogo": {
@@ -6265,7 +6265,56 @@
      "atualizado": "2026-11-06T14:27:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Savarino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 42,
+      "extra": null,
+      "texto": "42"
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Canobbio"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90"
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Rodrigo Castillo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -11007,14 +11056,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/11/11728570-sport-perde-de-virada-para-o-operario-pr-e-ve-vaga-no-g6-da-serie-b-praticamente-descartada.html",
+    "https://arede.info/esporte/691664/com-virada-emocionante-operario-vence-o-sport-na-despedida-de-casa-em-2026"
    ],
    "fixture": {
     "id": 91000135,
     "timestamp": 1794004200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Germano Kruger",
@@ -11036,8 +11087,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -11088,7 +11139,88 @@
      "atualizado": "2026-11-06T14:27:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 6,
+      "extra": null,
+      "texto": "6"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Carlos de Pena"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 14,
+      "extra": null,
+      "texto": "14"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Claudinho"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 38,
+      "extra": null,
+      "texto": "38"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Pedro Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+5"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Moraes Jr."
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 53,
+      "extra": null,
+      "texto": "53"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Léo Erig"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -12035,14 +12167,14 @@
       4,
       900005,
       "Fluminense",
-      54,
-      33,
-      15,
+      57,
+      34,
+      16,
       9,
       9,
-      10,
+      13,
       "",
-      52,
+      55,
       42
      ],
      [
@@ -12190,14 +12322,14 @@
       900014,
       "Vitória",
       38,
-      33,
+      34,
       10,
       8,
-      15,
-      -13,
+      16,
+      -16,
       "",
       35,
-      48
+      51
      ],
      [
       16,
@@ -12375,20 +12507,6 @@
      ],
      [
       8,
-      900027,
-      "Sport",
-      55,
-      36,
-      14,
-      13,
-      9,
-      9,
-      "",
-      48,
-      39
-     ],
-     [
-      9,
       900028,
       "Atlético-GO",
       55,
@@ -12402,7 +12520,35 @@
       33
      ],
      [
+      9,
+      900027,
+      "Sport",
+      55,
+      37,
+      14,
+      13,
       10,
+      8,
+      "",
+      50,
+      42
+     ],
+     [
+      10,
+      900029,
+      "Operário-PR",
+      54,
+      37,
+      15,
+      9,
+      13,
+      -1,
+      "",
+      49,
+      50
+     ],
+     [
+      11,
       900031,
       "São Bernardo",
       52,
@@ -12416,7 +12562,7 @@
       40
      ],
      [
-      11,
+      12,
       900032,
       "Botafogo-SP",
       51,
@@ -12428,20 +12574,6 @@
       "",
       45,
       39
-     ],
-     [
-      12,
-      900029,
-      "Operário-PR",
-      51,
-      36,
-      14,
-      9,
-      13,
-      -2,
-      "",
-      46,
-      48
      ],
      [
       13,
@@ -12688,6 +12820,12 @@
     "gols": 1
    },
    {
+    "jogador": "Canobbio",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 1
+   },
+   {
     "jogador": "Carrascal",
     "time": "Flamengo",
     "time_id": 900001,
@@ -12910,9 +13048,21 @@
     "gols": 1
    },
    {
+    "jogador": "Rodrigo Castillo",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 1
+   },
+   {
     "jogador": "Rodrigo Nestor",
     "time": "Bahia",
     "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Savarino",
+    "time": "Fluminense",
+    "time_id": 900005,
     "gols": 1
    },
    {
@@ -13005,6 +13155,12 @@
     "jogador": "Calebe Costa",
     "time": "Cuiabá",
     "time_id": 900033,
+    "gols": 1
+   },
+   {
+    "jogador": "Carlos de Pena",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 1
    },
    {
@@ -13122,6 +13278,12 @@
     "gols": 1
    },
    {
+    "jogador": "Léo Erig",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
     "jogador": "Matheus Bianqui",
     "time": "Novorizontino",
     "time_id": 900021,
@@ -13134,6 +13296,12 @@
     "gols": 1
    },
    {
+    "jogador": "Moraes Jr.",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
     "jogador": "Morelli",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -13143,6 +13311,12 @@
     "jogador": "Nicolas Careca",
     "time": "Novorizontino",
     "time_id": 900021,
+    "gols": 1
+   },
+   {
+    "jogador": "Pedro Perotti",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 1
    },
    {

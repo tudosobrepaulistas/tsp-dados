@@ -2709,22 +2709,43 @@
    "data": "2026-11-06T20:00:00-03:00",
    "casa": "vitoria",
    "fora": "fluminense",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "34",
    "fase": "",
    "grupo": "",
    "estadio": "Barradão",
    "cidade": "Salvador",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 3,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Savarino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Canobbio",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Rodrigo Castillo",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/"
+    "https://www.gazetaesportiva.com/futebol/cbf-detalha-rodadas-do-brasileirao-e-define-semifinais-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-vence-no-barradao-e-vitoria-se-aproxima-do-z4-do-brasileirao/",
+    "https://www.metropoles.com/esportes/fluminense-bate-o-vitoria-e-vai-para-a-data-fifa-no-g4-do-brasileirao"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00",
+   "atualizado": "2026-11-06T22:10:00-03:00",
    "prejogo": {
     "analise": [
      "Vitória e Fluminense se enfrentam na sexta-feira (6/11), às 20h, no Barradão, em Salvador, pela 34ª rodada do Brasileirão. O Vitória é o 14º colocado, com 38 pontos, apenas dois acima do Corinthians (36), 17º e primeiro time da zona de rebaixamento. O Fluminense é o 4º, com 54 pontos, empatado com o Athletico-PR e três atrás do Cruzeiro (57), terceiro colocado.",

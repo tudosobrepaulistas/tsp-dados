@@ -2261,22 +2261,55 @@
    "data": "2026-11-06T19:30:00-03:00",
    "casa": "operario-pr",
    "fora": "sport",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Germano Kruger",
    "cidade": "Ponta Grossa",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 3,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Carlos de Pena",
+     "minuto": "6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Claudinho",
+     "minuto": "14",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro Perotti",
+     "minuto": "38",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Moraes Jr.",
+     "minuto": "45+5",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Léo Erig",
+     "minuto": "53",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/11/11728570-sport-perde-de-virada-para-o-operario-pr-e-ve-vaga-no-g6-da-serie-b-praticamente-descartada.html",
+    "https://arede.info/esporte/691664/com-virada-emocionante-operario-vence-o-sport-na-despedida-de-casa-em-2026"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-06T22:10:00-03:00",
    "prejogo": {
     "analise": [
      "Operário-PR e Sport se enfrentam na sexta-feira (6/11), às 19h30, no Estádio Germano Krüger, em Ponta Grossa, pela 37ª e penúltima rodada da Série B. Para o Sport, é jogo decisivo: o time pernambucano é o 8º colocado, com 55 pontos, empatado com CRB, Goiás e Atlético-GO na briga pela sexta posição, a última vaga nos playoffs de acesso (os dois primeiros sobem direto; do 3º ao 6º disputam as outras duas vagas em mata-mata). O Operário-PR é o 11º, com 51 pontos, quatro atrás desse grupo, e precisa de uma combinação improvável de resultados para ainda sonhar com os playoffs.",
