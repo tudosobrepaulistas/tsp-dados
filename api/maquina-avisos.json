@@ -1,69 +1,6 @@
 {
- "gerado": "2026-11-07T06:29-03:00",
+ "gerado": "2026-11-07T11:13-03:00",
  "avisos": [
-  {
-   "clube": "comercial-tiete",
-   "nome": "Comercial de Tietê",
-   "quando": "2026-11-02T16:35-03:00",
-   "motivo": "Sem fato novo depois do acesso à Série A do Paulista Sub-20 (já publicado em 29/10); clube sem site oficial cadastrado",
-   "sugestao": "Acompanhar o anúncio das sedes e grupos da Copinha 2027 (Tietê foi sede em 2024, 2025 e 2026) e confirmar se o Comercial estará no torneio"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-02T21:25-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; títulos de 1928/1930 já publicados; outras fontes históricas (estádio José de Araújo Cintra, rivalidade com o Floresta) fracas",
-   "sugestao": "História do Estádio José de Araújo Cintra e do clássico com o Floresta, com consulta a jornal de Amparo ou ao clube"
-  },
-  {
-   "clube": "nacional",
-   "nome": "Nacional",
-   "quando": "2026-11-02T21:25-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em fonte de notícia; história do Ferrinho já publicada em 30/10",
-   "sugestao": "Planejamento do Nacional para a Segunda Divisão 2027 após o rebaixamento na A4 (consultar redes oficiais do clube)"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-02T21:25-03:00",
-   "motivo": "Sem notícia nova; site oficial bloqueia leitura automática (robots) e fontes históricas divergem na data de fundação",
-   "sugestao": "Confirmar com o clube ou O Regional a chegada de Pinho e Nei Silva e o plano para 2027"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-03T11:17-03:00",
-   "motivo": "Sem notícia recente confirmada em fontes aceitas; tema histórico principal (títulos de 1928 e 1930) já publicado",
-   "sugestao": "Redator: procurar o clube nas redes oficiais e na imprensa de Amparo sobre planejamento para a Segunda Divisão 2027 (técnico, elenco, Estádio)"
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-11-03T11:20-03:00",
-   "motivo": "Sem notícia recente em fontes aceitas (O Diário de Mogi e Futebol Interior sem matéria do clube); jejum de 2023 já publicado",
-   "sugestao": "Redator: consultar as redes oficiais do Atlético Mogi sobre o planejamento para a Bezinha 2027 e a base"
-  },
-  {
-   "clube": "referencia-fc",
-   "nome": "Referência FC",
-   "quando": "2026-11-03T11:23-03:00",
-   "motivo": "Sem notícia recente em fontes aceitas; grupos da Copinha 2027 ainda não divulgados",
-   "sugestao": "Redator: quando a FPF divulgar os grupos da Copinha 2027, conferir se o Referência FC está e em que sede joga"
-  },
-  {
-   "clube": "maua",
-   "nome": "Mauá",
-   "quando": "2026-11-03T11:23-03:00",
-   "motivo": "Sem notícia recente (última cobertura achada é das oitavas da Bezinha, em junho); campanha de 2025 já publicada",
-   "sugestao": "Redator: checar com o Diário do Grande ABC e redes do Mauá FC o planejamento para 2027 e o técnico"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-03T16:09-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias (clube sem site oficial ativo e sem cobertura recente) e os temas históricos seguros (títulos de 1928/1930) já foram usados; fontes divergem sobre os títulos.",
-   "sugestao": "Rivalidade histórica Amparo x Floresta nos anos 1920 e a história do Estádio José de Araújo Cintra, com consulta a jornal de Amparo ou ao próprio clube (X @amparoatclub)."
-  },
   {
    "clube": "audax",
    "nome": "Audax",
@@ -420,6 +357,69 @@
    "quando": "2026-11-07T06:29-03:00",
    "motivo": "Não consegui confirmar datas do play-in Santos x São Paulo do Paulistão Feminino 2026 em 2 fontes; site do Santos não abriu",
    "sugestao": "Santos x São Paulo no play-in do Paulistão Feminino 2026: datas, horários e locais (FPF / site do Santos)"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Sem notícia dos últimos 7 dias em 2 fontes; site do Santos não abriu (sem foto segura)",
+   "sugestao": "Sereias da Vila: datas e horários na Copinha Feminina 2026 (PDF da tabela da FPF + site do Santos) ou o play-in contra o São Paulo pelo lado santista"
+  },
+  {
+   "clube": "taubate-feminino",
+   "nome": "Taubaté Feminino",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Sem notícia dos últimos 7 dias",
+   "sugestao": "Taubaté na Copa Paulista Feminina 2026: grupo, adversários e estreia, quando a FPF divulgar a tabela (Guia Taubaté/Portal R3)"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Sem notícia dos últimos 7 dias; blog oficial não abriu",
+   "sugestao": "Mirassol na Copa Paulista Feminina ou entrevista com a técnica Carine Bosetti sobre a 1ª temporada"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Zagueiro Luizão anunciado em 04/11 só no Futebol Interior (falta 2ª fonte)",
+   "sugestao": "Lemense contrata zagueiro Luizão, ex-Ponte Preta, com o post oficial do clube"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Novo pacote de reforços (05/11) só no Futebol Interior; site já cobriu reforços em 04/11",
+   "sugestao": "Os novos nomes do Tanabi (Denis Santos, João Monteiro, Bernardo, Giovanni Carignano, Rafinha) com o post oficial da Tanabi SAF"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Kadu Barone ainda não oficializado (só 'deve anunciar')",
+   "sugestao": "Confirmar no Instagram do Barretos o atacante Kadu Barone e o meia Kauan Vinícius"
+  },
+  {
+   "clube": "centro-olimpico",
+   "nome": "Centro Olímpico",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Resultado da semifinal do Paulista Feminino Sub-17 (07/11) ainda não saiu em 2 fontes; sem foto do time feminino",
+   "sugestao": "Centro Olímpico x São Paulo na semifinal do Paulista F Sub-17 (volta 14/11, 10h) e a tabela da Copinha Feminina (Grupo C, Ceret)"
+  },
+  {
+   "clube": "cosmopolitano",
+   "nome": "Cosmopolitano",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Notícia boa, mas sem foto segura do clube",
+   "sugestao": "Cosmopolitano vence o Mirassol por 2 a 1 na ida das quartas do Paulista Sub-14; volta domingo (8/11), 10h40, em Bálsamo — pedir foto ao clube"
+  },
+  {
+   "clube": "santa-fe",
+   "nome": "Santa Fé",
+   "quando": "2026-11-07T11:13-03:00",
+   "motivo": "Copa CCF (Grupo 2, Bragança Paulista) sem foto oficial do clube",
+   "sugestao": "Santa Fé na Copa CCF com Bragantino, Ituano, Brasilis e Atlético Guaratinguetá, com foto pedida ao clube"
   }
  ]
 }

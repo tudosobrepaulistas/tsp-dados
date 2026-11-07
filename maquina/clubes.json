@@ -182,7 +182,7 @@
    "slug": "cosmopolitano",
    "nome": "Cosmopolitano",
    "cidade": "Cosmópolis",
-   "site_oficial": "",
+   "site_oficial": "https://cosmopolitanofc.com.br",
    "redes": [],
    "jornais_locais": [
     "https://tvjaguari.com.br",
@@ -390,8 +390,10 @@
    "slug": "referencia-fc",
    "nome": "Referência FC",
    "cidade": "Embu das Artes",
-   "site_oficial": "",
-   "redes": [],
+   "site_oficial": "https://referenciafc.com.br",
+   "redes": [
+    "https://www.instagram.com/referencia_fc/"
+   ],
    "jornais_locais": [
     "https://abcdoabc.com.br",
     "https://maquinadoesporte.com.br"
