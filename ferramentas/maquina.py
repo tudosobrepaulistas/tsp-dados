@@ -132,6 +132,13 @@ def proximo_slot():
     return ""
 
 
+def grupo_de(slug):
+    for x in clubes()["clubes"]:
+        if x["slug"] == slug:
+            return x.get("grupo", "")
+    return ""
+
+
 def cmd_proximo(_a):
     slot = proximo_slot()
     h = historico()["itens"]
@@ -145,15 +152,15 @@ def cmd_proximo(_a):
         ult = max(ult, ult_maquina.get(c["slug"], ""))
         linhas.append((ult, c))
     linhas.sort(key=lambda x: x[0])
-    # Prioridade: Paulistão A4 (3 dos 6 sugeridos), futebol feminino (1) e sem divisão (2); os mais esquecidos de cada grupo
-    a4 = [x for x in linhas if x[1].get("grupo") == "a4"][:3]
+    # Prioridade (07/11/2026): Paulistão A4 (2 dos 6 sugeridos), futebol feminino (1) e sem divisão (3); os mais esquecidos de cada grupo
+    a4 = [x for x in linhas if x[1].get("grupo") == "a4"][:2]
     fem = [x for x in linhas if x[1].get("grupo") == "feminino"][:1]
     outros = [x for x in linhas if x[1].get("grupo") not in ("a4", "feminino")][:6 - len(a4) - len(fem)]
     for g in (a4, fem, outros):
         random.shuffle(g)
     candidatos = a4 + fem + outros
     print(f"Próximo horário livre: {slot or '(nenhum nas próximas 48h)'}")
-    print("Clubes sugeridos (A4 primeiro, depois sem divisão; os mais esquecidos de cada grupo; use o 1º, se não houver pauta passe para o próximo):")
+    print("Clubes sugeridos (2 da A4, 1 do feminino, 3 sem divisão; os mais esquecidos de cada grupo; use o 1º, se não houver pauta passe para o próximo):")
     for ult, c in candidatos:
         print(f"- {c['slug']} | {c['nome']} | { {'a4': 'A4', 'feminino': 'feminino'}.get(c.get('grupo'), 'sem divisão') } | última matéria: {ult if ult != '0000' else 'nunca'} | cidade: {c['cidade'] or '?'} | site: {c['site_oficial'] or '?'}")
     hoje = agora().strftime("%Y-%m-%d")
@@ -161,6 +168,9 @@ def cmd_proximo(_a):
     futuros = sorted(i["publish_at"] for i in h if i["publish_at"] > agora().strftime("%Y-%m-%d %H:%M"))
     print(f"\nEstoque agendado à frente: {len(futuros)} matéria(s)" + (f" (até {futuros[-1]})" if futuros else ""))
     print(f"Máquina hoje: {len(feitos)} matéria(s): " + ", ".join(f"{i['publish_at'][11:]} {i['clube']}" for i in feitos))
+    sd = [i for i in feitos if grupo_de(i["clube"]) == "sem_divisao"]
+    ev = [i for i in feitos if i.get("tipo") == "historia"]
+    print(f"Sem divisão hoje: {len(sd)} (meta: pelo menos 3 por dia; sem notícia, faça evergreen) · evergreen hoje: {len(ev)} de no máximo 4")
 
 
 def cmd_historico(a):
@@ -237,8 +247,10 @@ def cmd_adicionar(a):
     if it.get("tipo") == "historia":
         dia = (it.get("publish_at") or proximo_slot())[:10]
         hist_dia = [i for i in h if i.get("tipo") == "historia" and i["publish_at"][:10] == dia]
-        if len(hist_dia) >= 2:
-            erros.append(f"já há {len(hist_dia)} matérias históricas para {dia} (máximo 2 por dia, para não ficar repetitivo): "
+        sd_dia = [i for i in hist_dia if grupo_de(i["clube"]) == "sem_divisao"]
+        # Evergreen: até 4 por dia no total (3 de clubes sem divisão, que quase não têm notícia fora da temporada, e 1 dos demais)
+        if (c.get("grupo") == "sem_divisao" and len(sd_dia) >= 3) or (c.get("grupo") != "sem_divisao" and len(hist_dia) - len(sd_dia) >= 1) or len(hist_dia) >= 4:
+            erros.append(f"já há {len(hist_dia)} matérias evergreen para {dia} (máximo 3 de clubes sem divisão + 1 dos demais, para não ficar repetitivo): "
                          "use `sem-pauta CLUBE --motivo ... --sugestao ...` pedindo uma pauta à redação e passe ao próximo clube")
         lim = (agora() - datetime.timedelta(days=30)).strftime("%Y-%m-%d")
         if any(i["clube"] == c["slug"] and i.get("tipo") == "historia" and i["publish_at"] >= lim for i in h):

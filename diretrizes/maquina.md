@@ -5,7 +5,8 @@ Por isso o padrão é o do Radar Palestrino: **nada sem fonte, nada inventado, t
 
 **Responsável: Thiago Barbalho. Clubes da Máquina: Paulistão A4 (16, prioridade), futebol feminino (8) e os 41 sem divisão / Segunda Divisão**,
 todos em `maquina/clubes.json` (campo `grupo`). A redação humana cobre o Paulistão A1, A2 e A3 (48 clubes): a Máquina NÃO escreve sobre eles.
-`proximo` sugere 3 clubes da A4, 1 do feminino e 2 sem divisão. Não escreva sobre clube fora da lista.
+`proximo` sugere 2 clubes da A4, 1 do feminino e 3 sem divisão. Não escreva sobre clube fora da lista.
+**Meta diária: pelo menos 3 matérias de clubes sem divisão por dia** (o `proximo` mostra quantas já saíram hoje).
 
 ## Varredura (como cada execução funciona)
 Cada execução é uma **varredura**: escreve de **5 a 6 matérias**, de clubes diferentes, e cada uma vai para o próximo horário livre
@@ -20,15 +21,22 @@ Faça **um commit e push depois de cada matéria** (se a execução cair no meio
 2. `python3 ferramentas/maquina.py historico CLUBE` → o que o site e a Máquina já publicaram. **Não repita assunto nem palavra-chave.**
 3. Se o clube ainda não tem cidade/site/jornais em `clubes.json`, pesquise e grave com `maquina.py clube ...`.
 4. Procure notícia dos últimos 7 dias (WebSearch + WebFetch, só páginas de notícia), nesta ordem:
-   - **site oficial e redes oficiais do clube** (fonte obrigatória de consulta): notas, contratações, coletivas, entrevistas, pronunciamentos;
+   - **site oficial e redes oficiais do clube** (fonte obrigatória de consulta): notas, contratações, coletivas, entrevistas, pronunciamentos.
+     **Instagram e YouTube oficiais do clube valem como fonte oficial** (contam como a fonte do clube): ache o post/vídeo pelo
+     WebSearch (ex.: `site:instagram.com novorizontino`, `site:youtube.com Novorizontino coletiva`) e use só o que dá para ler
+     sem login (legenda do post, título e descrição do vídeo). Cite o **link exato do post ou vídeo**. Se o Instagram pedir login
+     e o texto não aparecer, não use: procure o mesmo anúncio no site do clube ou num jornal da cidade. Nunca contorne login;
    - **jornais e portais da cidade/região do clube** (ex.: Folha da Região em Araçatuba, Diário da Região em Rio Preto, O Imparcial em Presidente Prudente, Jornal Cidade em Rio Claro, A Cidade em Ribeirão Preto, EPTV/ge regional);
    - FPF (calendário, tabela, súmulas e notas oficiais), ge, Gazeta Esportiva, UOL, Lance! e as demais de `CLAUDE.md`.
 5. Decida o tipo:
    - **noticia**: fato novo confirmado por **2 fontes independentes** (o site oficial do clube + um jornal conta como 2).
    - **coletiva**: entrevista/pronunciamento publicado pelo próprio clube (vídeo ou texto). Use só falas que aparecem na fonte, entre aspas, com o nome de quem falou. Pode ser 1 fonte (o canal oficial), mas cite o link.
-   - **historia** (sem notícia nova) — use com moderação: **no máximo 2 por dia** em toda a Máquina e **1 por clube a cada 30 dias**
-     (a ferramenta recusa o excesso). Nada de encher de jogos antigos e estatísticas: se não há notícia, o certo é
-     **pedir a pauta** com `sem-pauta` (o pedido aparece no painel do Thiago, que apura com o clube).
+   - **historia** = conteúdo **evergreen** (sem notícia nova). Clubes **sem divisão** quase não têm notícia fora da temporada:
+     para eles, sem notícia, **faça evergreen** (até **3 por dia**); para A4 e feminino, no máximo **1 por dia** (total da Máquina: 4 por dia),
+     e sempre **1 por clube a cada 30 dias** (a ferramenta recusa o excesso). Varie o formato, não só "a história do clube":
+     guia do estádio (onde fica, como chegar, capacidade), ídolos e "você sabia que Fulano jogou no clube", títulos e acessos,
+     rivalidades e clássicos regionais, apelidos e mascote, como está o clube hoje (diretoria, base, projetos) e o que esperar
+     da próxima temporada (só com fonte). Nada de lista de jogos antigos e estatísticas. Sem tema seguro, **peça a pauta** com `sem-pauta`.
      Tema histórico, quando usar: tema histórico/atemporal **conferido em pelo menos 1 fonte confiável** (de preferência 2): títulos, acessos, ídolos, "você sabia que Fulano jogou no clube", estádio, rivalidades, apelidos (ex.: "O que foi o Carrossel Caipira", "Os títulos do Araçatuba", "Craques que passaram pelo Matonense"). Nunca preencha lacuna com suposição: data, placar ou nome sem fonte fica de fora.
 6. Sem notícia (ou com a cota de histórias do dia cheia)? **Não escreva.** Rode
    `maquina.py sem-pauta CLUBE --motivo "..." --sugestao "pauta concreta para um redator"` e passe para o próximo clube da lista.
