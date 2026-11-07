@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-07T04:05-03:00",
+ "gerado": "2026-11-07T04:10-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.7.4",
@@ -13,9 +13,9 @@
    "notas": "Sem arte automática (matéria sem foto volta a ser rascunho); pós-jogos assinados pela conta da redação."
   },
   "tsp-relatorio": {
-   "versao": "1.9.0",
-   "zip": "tsp-relatorio-1.9.0.zip",
-   "notas": "Central de correções: possíveis erros viram aviso ao redator (painel e e-mail) com gravidade, motivo e sugestão; cópia para o editor-chefe; prazo (grave 6h, média 24h, leve 48h); sem correção, a comissão da matéria é cancelada. Coordenação aponta erro de informação direto no relatório."
+   "versao": "1.9.1",
+   "zip": "tsp-relatorio-1.9.1.zip",
+   "notas": "Central de correções (avisos ao redator e ao editor-chefe, gravidade, prazo, comissão cancelada sem correção). Sem checagem de apostas."
   },
   "tsp-audio": {
    "versao": "1.1.0",
