@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-07T04:50-03:00",
+ "gerado": "2026-11-07T06:29-03:00",
  "avisos": [
-  {
-   "clube": "nacional",
-   "nome": "Nacional",
-   "quando": "2026-11-02T11:22-03:00",
-   "motivo": "Sem notícia nova encontrada em páginas de notícia (só o perfil no X, que não abre); história do clube já publicada pela Máquina em 30/10",
-   "sugestao": "Planejamento do Nacional para a Segunda Divisão 2027 após o rebaixamento na A4, conferindo no X oficial @NacionalSP1919"
-  },
-  {
-   "clube": "aracatuba",
-   "nome": "Araçatuba",
-   "quando": "2026-11-02T16:26-03:00",
-   "motivo": "Sem fato novo desde a quitação da dívida com a fornecedora (já publicada em 27/10); site oficial sem notícias desde 03/10; história do clube já publicada",
-   "sugestao": "Ligar para a diretoria da AEA (presidente Guilherme Nishikawa) e perguntar sobre planejamento e inscrição para 2027 e andamento do projeto social"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-02T16:26-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias nos jornais de Catanduva (O Regional) nem em portais; clube sem site oficial; histórico recente já coberto",
-   "sugestao": "Confirmar com a diretoria se o Grêmio Catanduvense vai se inscrever na Segunda Divisão de 2027 e quem será o técnico (Pinho/Nei Silva foram citados em agosto)"
-  },
-  {
-   "clube": "nacional",
-   "nome": "Nacional",
-   "quando": "2026-11-02T16:31-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; clube sem site oficial cadastrado; história (ferrovia e Copinha) já publicada pela Máquina em 30/10",
-   "sugestao": "Matéria histórica sobre os títulos do Nacional na Série A3 (1994, 2000 e 2017), conferindo com arquivos da FPF e da Gazeta Esportiva; ou contato com a diretoria sobre o planejamento para a Segunda Divisão de 2027"
-  },
-  {
-   "clube": "santacruzense",
-   "nome": "Santacruzense",
-   "quando": "2026-11-02T16:31-03:00",
-   "motivo": "Sem notícia recente; site oficial bloqueia leitura; fontes históricas divergem (fundação em 1931 ou 1935), então o tema histórico não ficou seguro",
-   "sugestao": "Conferir com o clube ou com a FPF a data de fundação e a campanha do título da Segunda Divisão de 1962 para uma matéria histórica; ou balanço do Paulista Sub-17 2026 com o clube"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-02T16:31-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; clube sem site oficial nem jornal local cadastrado; títulos de 1928 e 1930 já publicados",
-   "sugestao": "Descobrir se o Amparo vai disputar a Segunda Divisão de 2027 e fazer perfil do estádio do clube com foto própria"
-  },
   {
    "clube": "comercial-tiete",
    "nome": "Comercial de Tietê",
@@ -420,6 +378,48 @@
    "quando": "2026-11-07T04:50-03:00",
    "motivo": "Única novidade recente (permanência de Tiago Miguel) já publicada em 05/11; nada novo com 2 fontes.",
    "sugestao": "Reforços do Independente para a A4 2027 quando anunciados nas redes oficiais"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-07T06:29-03:00",
+   "motivo": "Contratação do zagueiro Luizão (ex-Ponte Preta, 21 anos) para a A4 2027 só achada no Futebol Interior (04/11); sem 2ª fonte nem foto do clube",
+   "sugestao": "Lemense anuncia zagueiro Luizão para a Série A4 de 2027: conferir no Instagram oficial do Lemense e usar a foto do anúncio"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-07T06:29-03:00",
+   "motivo": "Atacante Kadu Barone ainda não oficializado (Futebol Interior, 06/11, diz que 'deve anunciar')",
+   "sugestao": "Se o Barretos oficializar Kadu Barone (8 gols pela Inter de Bebedouro na A4 2026), matéria com o anúncio oficial e foto do clube"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-07T06:29-03:00",
+   "motivo": "Única novidade recente (conversa por Cristopher, CBN Ribeirão 06/11) tem uma fonte só; demais pautas já cobertas pela redação",
+   "sugestao": "Comercial e o zagueiro Cristopher: executivo Ricardo Guedes admite negociação para a A4 2027 (CBN Ribeirão, 06/11)"
+  },
+  {
+   "clube": "cosmopolitano",
+   "nome": "Cosmopolitano",
+   "quando": "2026-11-07T06:29-03:00",
+   "motivo": "Cosmópolis é sede do Grupo 4 da Copa CCF (CBN Campinas 03/11 + O Curioso do Futebol 31/10), mas sem foto livre/oficial do clube",
+   "sugestao": "Cosmópolis recebe o Grupo 4 da Copa CCF em 29/11 com Cosmopolitano, Palmeiras, EC Meia Noite e Araçatuba FC; e o resultado da volta Cosmopolitano x Santos nas quartas do Paulista Sub-15 (07/11, 9h)"
+  },
+  {
+   "clube": "aracatuba",
+   "nome": "Araçatuba",
+   "quando": "2026-11-07T06:29-03:00",
+   "motivo": "O 'Araçatuba FC' da Copa CCF é o Araçatuba FC SAF, não a AEA; sem notícia nova da AEA",
+   "sugestao": "Conferir se a AEA tem planos para 2027 (Segunda Divisão) no site aearacatuba.com.br e na Folha da Região"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-07T06:29-03:00",
+   "motivo": "Não consegui confirmar datas do play-in Santos x São Paulo do Paulistão Feminino 2026 em 2 fontes; site do Santos não abriu",
+   "sugestao": "Santos x São Paulo no play-in do Paulistão Feminino 2026: datas, horários e locais (FPF / site do Santos)"
   }
  ]
 }
