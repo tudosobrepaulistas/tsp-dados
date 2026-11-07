@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-07T18:10:00-03:00",
+ "gerado": "2026-11-07T18:24:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11316,14 +11316,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-vira-sobre-fortaleza-e-conquista-acesso-inedito-a-serie-a/",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-perde-para-o-novorizontino-e-fica-sem-chances-de-acesso-direto-a-serie-a-1.3804149"
    ],
    "fixture": {
     "id": 91000139,
     "timestamp": 1794078600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Jorge Ismael de Biasi",
@@ -11345,8 +11347,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -11409,7 +11411,56 @@
      "atualizado": "2026-11-07T10:30:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Paulo Baya"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 27,
+      "extra": null,
+      "texto": "27"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Matheus Bianqui"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Luís Oyama"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -12998,15 +13049,15 @@
       1,
       900021,
       "Novorizontino",
-      67,
-      36,
-      19,
+      70,
+      37,
+      20,
       10,
       7,
-      33,
+      34,
       "",
-      64,
-      31
+      66,
+      32
      ],
      [
       2,
@@ -13055,14 +13106,14 @@
       900024,
       "Fortaleza",
       62,
-      36,
+      37,
       16,
       14,
-      6,
-      12,
+      7,
+      11,
       "",
-      43,
-      31
+      44,
+      33
      ],
      [
       6,
@@ -13691,6 +13742,12 @@
     "gols": 2
    },
    {
+    "jogador": "Matheus Bianqui",
+    "time": "Novorizontino",
+    "time_id": 900021,
+    "gols": 2
+   },
+   {
     "jogador": "Segovinha",
     "time": "América-MG",
     "time_id": 900039,
@@ -13865,15 +13922,15 @@
     "gols": 1
    },
    {
-    "jogador": "Léo Erig",
-    "time": "Operário-PR",
-    "time_id": 900029,
+    "jogador": "Luís Oyama",
+    "time": "Novorizontino",
+    "time_id": 900021,
     "gols": 1
    },
    {
-    "jogador": "Matheus Bianqui",
-    "time": "Novorizontino",
-    "time_id": 900021,
+    "jogador": "Léo Erig",
+    "time": "Operário-PR",
+    "time_id": 900029,
     "gols": 1
    },
    {
@@ -13898,6 +13955,12 @@
     "jogador": "Nicolas Careca",
     "time": "Novorizontino",
     "time_id": 900021,
+    "gols": 1
+   },
+   {
+    "jogador": "Paulo Baya",
+    "time": "Fortaleza",
+    "time_id": 900024,
     "gols": 1
    },
    {

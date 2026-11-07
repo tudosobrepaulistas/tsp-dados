@@ -24,6 +24,12 @@
   "gols": 2
  },
  {
+  "jogador": "Matheus Bianqui",
+  "time": "Novorizontino",
+  "time_id": 900021,
+  "gols": 2
+ },
+ {
   "jogador": "Segovinha",
   "time": "América-MG",
   "time_id": 900039,
@@ -198,15 +204,15 @@
   "gols": 1
  },
  {
-  "jogador": "Léo Erig",
-  "time": "Operário-PR",
-  "time_id": 900029,
+  "jogador": "Luís Oyama",
+  "time": "Novorizontino",
+  "time_id": 900021,
   "gols": 1
  },
  {
-  "jogador": "Matheus Bianqui",
-  "time": "Novorizontino",
-  "time_id": 900021,
+  "jogador": "Léo Erig",
+  "time": "Operário-PR",
+  "time_id": 900029,
   "gols": 1
  },
  {
@@ -231,6 +237,12 @@
   "jogador": "Nicolas Careca",
   "time": "Novorizontino",
   "time_id": 900021,
+  "gols": 1
+ },
+ {
+  "jogador": "Paulo Baya",
+  "time": "Fortaleza",
+  "time_id": 900024,
   "gols": 1
  },
  {

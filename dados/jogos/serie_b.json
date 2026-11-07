@@ -2435,22 +2435,43 @@
    "data": "2026-11-07T16:10:00-03:00",
    "casa": "novorizontino",
    "fora": "fortaleza",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Jorge Ismael de Biasi",
    "cidade": "Novo Horizonte",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Paulo Baya",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Bianqui",
+     "minuto": "27",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Luís Oyama",
+     "minuto": "70",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/novorizontino-vira-sobre-fortaleza-e-conquista-acesso-inedito-a-serie-a/",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-perde-para-o-novorizontino-e-fica-sem-chances-de-acesso-direto-a-serie-a-1.3804149"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-07T18:24:00-03:00",
    "prejogo": {
     "analise": [
      "Novorizontino e Fortaleza fazem no sábado (7/11), no Jorge Ismael de Biasi, em Novo Horizonte, o duelo mais importante da 37ª rodada da Série B. O Novorizontino lidera com 67 pontos e, se vencer, garante matematicamente uma das duas vagas de acesso direto à Série A de 2027, já que nenhum time abaixo do 2º lugar poderia alcançá-lo. O Fortaleza é o 5º, com 62, três pontos atrás do Juventude, 2º colocado. Os dois já têm lugar garantido ao menos nos playoffs, disputados do 3º ao 6º colocado por duas vagas extras, mas o time cearense precisa vencer para seguir sonhando com o acesso direto.",
