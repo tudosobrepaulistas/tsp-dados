@@ -1,4 +1,25 @@
 {
  "_leia": "Erros apontados pelo editor-chefe automático. O site lê de hora em hora, avisa o redator e o editor-chefe.",
- "itens": []
+ "itens": [
+  {
+   "chave": "546672-d3e834b1e3",
+   "id": 546672,
+   "titulo": "Novorizontino x Fortaleza: onde assistir ao vivo e escalações",
+   "link": "https://tudosobrepaulista.com.br/materia/novorizontino-x-fortaleza-onde-assistir-ao-vivo-e-escalacoes/",
+   "gravidade": "grave",
+   "motivo": "O adversário do Novorizontino está errado em dois trechos: a matéria fala em 'Vila Nova x Novorizontino', mas o jogo deste sábado (7/11, 16h10, Jorge Ismael de Biasi, 37ª rodada da Série B) é Novorizontino x Fortaleza, como o próprio título e o restante do texto informam. Há também erro de digitação em 'Novo Horzonte'.",
+   "sugestao": "No 1º parágrafo, trocar 'onde assistir Vila Nova x Novorizontino ao vivo' por 'onde assistir Novorizontino x Fortaleza ao vivo'; no intertítulo, trocar 'Que horas é Vila Nova x Novorizontino?' por 'Que horas é Novorizontino x Fortaleza?'; corrigir 'Novo Horzonte' para 'Novo Horizonte' (e 'Novorizonti no' para 'Novorizontino' nas perguntas frequentes).",
+   "fontes": [
+    {
+     "nome": "O Povo",
+     "url": "https://mais.opovo.com.br/jornal/esportes/2026/11/07/fortaleza-encara-lider-novorizontino-em-jogo-decisivo-para-manter-sonho-do-g-2.html"
+    },
+    {
+     "nome": "Site oficial do Fortaleza",
+     "url": "https://fortaleza1918.com.br/fortaleza-relaciona-24-atletas-para-enfrentar-o-novorizontino-pela-serie-b/"
+    }
+   ],
+   "em": "2026-11-07 13:26"
+  }
+ ]
 }
