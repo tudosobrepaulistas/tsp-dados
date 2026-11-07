@@ -2364,22 +2364,24 @@
    "data": "2026-11-07T16:00:00-03:00",
    "casa": "avai",
    "fora": "sao-bernardo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Ressacada",
    "cidade": "Florianópolis",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://ndmais.com.br/futebol/vivo-avai-vira-em-cima-do-sao-bernardo-e-torce-para-o-america-mg-vencer-o-ceara/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/avai-x-sao-bernardo/97908/"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-07T18:10:00-03:00",
    "prejogo": {
     "analise": [
      "Avaí e São Bernardo se enfrentam no sábado (7/11), às 16h, na Ressacada, pela 37ª e penúltima rodada da Série B, com objetivos bem diferentes. O Avaí é o 17º colocado, com 37 pontos, seis a menos que o Ceará, primeiro time fora da zona de rebaixamento. Ponte Preta, América-MG e Londrina já caíram, e a última vaga da degola está entre catarinenses e cearenses: o Avaí só escapa se vencer os dois jogos que restam e o Ceará perder os dois. O São Bernardo é o 10º, com 52 pontos, três atrás do grupo de quatro clubes com 55 que disputa a última vaga no G6, a zona que leva aos playoffs de acesso.",

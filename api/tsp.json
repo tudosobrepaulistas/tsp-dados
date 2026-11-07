@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-07T16:25:00-03:00",
+ "gerado": "2026-11-07T18:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11227,14 +11227,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://ndmais.com.br/futebol/vivo-avai-vira-em-cima-do-sao-bernardo-e-torce-para-o-america-mg-vencer-o-ceara/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/avai-x-sao-bernardo/97908/"
    ],
    "fixture": {
     "id": 91000138,
     "timestamp": 1794078000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Ressacada",
@@ -11256,8 +11258,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -13137,14 +13139,14 @@
       900031,
       "São Bernardo",
       52,
-      36,
+      37,
       14,
       10,
-      12,
-      11,
+      13,
+      10,
       "",
-      51,
-      40
+      52,
+      42
      ],
      [
       12,
@@ -13220,15 +13222,15 @@
       17,
       900037,
       "Avaí",
+      40,
       37,
-      36,
-      10,
+      11,
       7,
       19,
-      -13,
+      -12,
       "",
-      33,
-      46
+      35,
+      47
      ],
      [
       18,
