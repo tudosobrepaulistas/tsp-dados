@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-07T10:30:00-03:00",
+ "gerado": "2026-11-07T14:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11464,7 +11464,41 @@
      "https://esportegoiano.com.br/arbitro-carioca-apita-vila-nova-x-criciuma-saiba-escala-completa",
      "https://www.dgabc.com.br/Noticia/4336035/criciuma-bate-vila-nova-em-casa-e-abre-distancia-na-lideranca-da-serie-b"
     ],
-    "atualizado": "2026-11-03T21:26:00-03:00"
+    "atualizado": "2026-11-07T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "ESPN",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-criciuma-onde-assistir-escalacoes-e-arbitragem,a94a2d13ef4f3838391a7bfa7b9bcdb5a3i5cezw.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Guto Ferreira",
+      "time": "Helton Leite; Hayner, Jonathan Costa, Douglas Mendes e Higor; Dudu, Nathan Camargo e Marquinhos Gabriel; Everton Galdino, André Luís e Janderson",
+      "desfalques": "João Vieira (expulso contra o Juventude)",
+      "duvidas": "Nathan Camargo ou Higor Meritão no meio-campo; lateral-esquerda indefinida nas matérias"
+     },
+     "fora": {
+      "tecnico": "Umberto Louzer",
+      "time": "Airton; Willean Lepo, César Martins, Luciano Castán e Marcelo Hermes; Eduardo, Ronald, Fellipe Mateus, Otero e Jhonata Robert; Romarinho",
+      "desfalques": "Gui Lobe (suspenso por cartões amarelos)",
+      "duvidas": "Romarinho ou Nicolás no ataque"
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/vila-nova-x-criciuma-onde-assistir-escalacoes-e-arbitragem,a94a2d13ef4f3838391a7bfa7b9bcdb5a3i5cezw.html",
+      "https://www.vavel.com/br/futebol/2026/11/07/serie-b/1278393-vila-nova-x-criciuma-escalacoes-horario-e-destaques.html"
+     ],
+     "atualizado": "2026-11-07T14:25:00-03:00"
+    }
    },
    "events": []
   },
@@ -11526,7 +11560,37 @@
      "https://www.gazetaesportiva.com/?p=3823081",
      "https://www.diariodepernambuco.com.br/esportes-dp/nacional/2026/02/11706995-serie-b-muda-formato-e-tera-playoffs-para-definir-acesso-veja-detalhes.html"
     ],
-    "atualizado": "2026-11-03T22:26:00-03:00"
+    "atualizado": "2026-11-07T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.muvucapopular.com.br/2026/11/07/cuiaba-recebe-o-vice-lider-juventude-neste-sabado-e-faz-seu-ultimo-jogo-em-casa-pela-serie-b-de-2026/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Eduardo Barros",
+      "time": "João Carlos; João Basso, Calebe e Vitor Mendes; Igor Inocêncio, Raul, David Miguel e Lorenzo; Kauan Cristtyan, Vinícius Peixoto e Jean Dias",
+      "desfalques": "",
+      "duvidas": "Time pode ter mudanças por causa da final da Copa FMF"
+     },
+     "fora": {
+      "tecnico": "Maurício Barbieri",
+      "time": "Jandrei; Rodrigo Sam, Gabriel Pinheiro e Marcos Paulo; Aderlan, Gabriel Pires, Rai Silva e Diogo Barbosa; Fábio Lima, MP e Alisson Safira",
+      "desfalques": "Messias (suspenso) e Lucas Mineiro (pertence ao Cuiabá)",
+      "duvidas": "Gabriel Pinheiro ou Titi na zaga"
+     },
+     "fontes": [
+      "https://www.radiocaxias.com.br/confira-as-informacoes-para-a-partida-entre-cuiaba-e-juventude/",
+      "https://www.muvucapopular.com.br/2026/11/07/cuiaba-recebe-o-vice-lider-juventude-neste-sabado-e-faz-seu-ultimo-jogo-em-casa-pela-serie-b-de-2026/"
+     ],
+     "atualizado": "2026-11-07T14:25:00-03:00"
+    }
    },
    "events": []
   },
