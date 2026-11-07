@@ -5,15 +5,16 @@ Por isso o padrão é o do Radar Palestrino: **nada sem fonte, nada inventado, t
 
 **Responsável: Thiago Barbalho. Clubes da Máquina: Paulistão A4 (16, prioridade), futebol feminino (8) e os 41 sem divisão / Segunda Divisão**,
 todos em `maquina/clubes.json` (campo `grupo`). A redação humana cobre o Paulistão A1, A2 e A3 (48 clubes): a Máquina NÃO escreve sobre eles.
-`proximo` sugere 2 clubes da A4, 1 do feminino e 3 sem divisão. Não escreva sobre clube fora da lista.
-**Meta diária: pelo menos 3 matérias de clubes sem divisão por dia** (o `proximo` mostra quantas já saíram hoje).
+**Cota diária (07/11/2026): 24 matérias por dia = 8 da A4, 8 dos clubes sem divisão e 8 do futebol feminino**, uma a cada
+30 minutos, das 9h às 20h30. Toda matéria **com foto real e crédito** (a ferramenta recusa sem foto) e **notícia atualizada**
+sempre que existir. `proximo` mostra a cota do dia e sugere clubes dos grupos atrasados. Não escreva sobre clube fora da lista.
 
 ## Varredura (como cada execução funciona)
-Cada execução é uma **varredura**: escreve de **5 a 6 matérias**, de clubes diferentes, e cada uma vai para o próximo horário livre
-(`adicionar` preenche sozinho). Assim sempre fica um estoque agendado no site; o administrador pode soltar qualquer uma na hora
-("Publicar agora") ou deixar sair no horário. Repita os passos abaixo até ter 5 a 6 matérias na fila nesta execução
-(rode `proximo` de novo depois de cada `adicionar`: ele já tira os clubes que acabaram de entrar). Tente no máximo 10 clubes.
-Se `proximo` mostrar que já há 8 ou mais horários ocupados à frente, pare: o estoque está cheio.
+São **duas varreduras por dia**: a das 6h agenda as matérias das 9h às 14h30 e a das 10h30 agenda as das 15h às 20h30.
+Cada execução escreve **até 12 matérias** (4 de cada grupo, seguindo a cota que o `proximo` mostra), de clubes diferentes,
+e cada uma vai para o próximo horário livre de 30 em 30 minutos (`adicionar` preenche sozinho). O administrador pode soltar
+qualquer uma na hora ("Publicar agora") ou deixar sair no horário. Rode `proximo` de novo depois de cada `adicionar`.
+Tente no máximo 25 clubes por execução. Pare quando o `proximo` disser **COTA DO DIA COMPLETA** ou não houver horário livre no dia.
 Faça **um commit e push depois de cada matéria** (se a execução cair no meio, o que já foi feito não se perde).
 
 ## Passo a passo de cada matéria
@@ -75,8 +76,8 @@ Ordem de preferência:
    `Foto: Autor / Wikimedia Commons (CC BY-SA 4.0)`. Ótimo para estádios e matérias históricas.
 - A foto precisa mostrar o assunto (o clube, o estádio, a pessoa). Nada de foto genérica de outro clube.
 - Mínimo 600 px de largura; **prefira 1200 px ou mais** (o Google Discover só mostra foto grande). Não use foto de agência (Getty, AGIF, Reuters etc.) nem de jornal.
-- **Não achou foto segura?** Mande sem `foto`. O site guarda a matéria como **rascunho** e avisa os redatores para
-  colocar a foto e publicar (a matéria passa a contar para quem finalizar).
+- **Foto é obrigatória.** Sem foto segura com crédito, a ferramenta recusa: procure no site e nas redes oficiais do clube
+  (post do Instagram, miniatura do vídeo do YouTube), no Commons/Flickr livre, ou passe para outro clube do mesmo grupo.
 
 ## Formato do JSON
 ```json

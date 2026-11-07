@@ -2,17 +2,30 @@
  "fase": 2,
  "nota": "Máquina de Notícias (responsável: Thiago Barbalho): Paulistão A4 (16, prioridade), futebol feminino (8) e os 41 clubes sem divisão / Segunda Divisão. A redação cobre o Paulistão A1, A2 e A3 (48 clubes).",
  "horarios": [
-  "08:00",
+  "09:00",
   "09:30",
+  "10:00",
+  "10:30",
   "11:00",
+  "11:30",
+  "12:00",
   "12:30",
+  "13:00",
+  "13:30",
   "14:00",
+  "14:30",
+  "15:00",
   "15:30",
+  "16:00",
+  "16:30",
   "17:00",
+  "17:30",
+  "18:00",
   "18:30",
+  "19:00",
+  "19:30",
   "20:00",
-  "21:30",
-  "23:00"
+  "20:30"
  ],
  "clubes": [
   {
@@ -762,5 +775,6 @@
     "https://www.portalr3.com.br"
    ]
   }
- ]
+ ],
+ "cota": "07/11/2026: 24 matérias por dia (8 A4, 8 sem divisão, 8 feminino), de 30 em 30 minutos das 9h às 20h30, sempre com foto real e crédito."
 }

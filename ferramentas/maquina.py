@@ -132,6 +132,19 @@ def proximo_slot():
     return ""
 
 
+COTA = {"a4": 8, "sem_divisao": 8, "feminino": 8}
+
+
+def cota_do_dia(dia):
+    cont = {g: 0 for g in COTA}
+    for i in historico()["itens"]:
+        if i.get("tipo") != "posjogo" and i["publish_at"][:10] == dia:
+            g = grupo_de(i["clube"])
+            if g in cont:
+                cont[g] += 1
+    return cont
+
+
 def grupo_de(slug):
     for x in clubes()["clubes"]:
         if x["slug"] == slug:
@@ -152,15 +165,19 @@ def cmd_proximo(_a):
         ult = max(ult, ult_maquina.get(c["slug"], ""))
         linhas.append((ult, c))
     linhas.sort(key=lambda x: x[0])
-    # Prioridade (07/11/2026): Paulistão A4 (2 dos 6 sugeridos), futebol feminino (1) e sem divisão (3); os mais esquecidos de cada grupo
-    a4 = [x for x in linhas if x[1].get("grupo") == "a4"][:2]
-    fem = [x for x in linhas if x[1].get("grupo") == "feminino"][:1]
-    outros = [x for x in linhas if x[1].get("grupo") not in ("a4", "feminino")][:6 - len(a4) - len(fem)]
-    for g in (a4, fem, outros):
-        random.shuffle(g)
-    candidatos = a4 + fem + outros
+    # Cota diária (07/11/2026): 8 da A4, 8 sem divisão e 8 do feminino. Sugere primeiro o grupo mais atrasado no dia do horário livre.
+    dia_slot = (slot or agora().strftime("%Y-%m-%d"))[:10]
+    cont = cota_do_dia(dia_slot)
+    grupos = sorted([g for g in COTA if cont[g] < COTA[g]], key=lambda g: cont[g] - COTA[g])
+    candidatos = []
+    for g in grupos:
+        lista = [x for x in linhas if x[1].get("grupo") == g][:4]
+        random.shuffle(lista)
+        candidatos += lista[:2 if len(grupos) > 1 else 6]
+    candidatos = candidatos[:6]
+    print(f"Cota de {dia_slot}: A4 {cont['a4']}/8 · sem divisão {cont['sem_divisao']}/8 · feminino {cont['feminino']}/8" + ("" if grupos else " → COTA DO DIA COMPLETA"))
     print(f"Próximo horário livre: {slot or '(nenhum nas próximas 48h)'}")
-    print("Clubes sugeridos (2 da A4, 1 do feminino, 3 sem divisão; os mais esquecidos de cada grupo; use o 1º, se não houver pauta passe para o próximo):")
+    print("Clubes sugeridos (dos grupos que ainda não bateram a cota do dia; os mais esquecidos; use o 1º, se não houver pauta passe para o próximo):")
     for ult, c in candidatos:
         print(f"- {c['slug']} | {c['nome']} | { {'a4': 'A4', 'feminino': 'feminino'}.get(c.get('grupo'), 'sem divisão') } | última matéria: {ult if ult != '0000' else 'nunca'} | cidade: {c['cidade'] or '?'} | site: {c['site_oficial'] or '?'}")
     hoje = agora().strftime("%Y-%m-%d")
@@ -170,7 +187,7 @@ def cmd_proximo(_a):
     print(f"Máquina hoje: {len(feitos)} matéria(s): " + ", ".join(f"{i['publish_at'][11:]} {i['clube']}" for i in feitos))
     sd = [i for i in feitos if grupo_de(i["clube"]) == "sem_divisao"]
     ev = [i for i in feitos if i.get("tipo") == "historia"]
-    print(f"Sem divisão hoje: {len(sd)} (meta: pelo menos 3 por dia; sem notícia, faça evergreen) · evergreen hoje: {len(ev)} de no máximo 4")
+    print(f"Evergreen hoje: {len(ev)} de no máximo 4 (cota diária: 8 A4, 8 sem divisão, 8 feminino)")
 
 
 def cmd_historico(a):
@@ -232,6 +249,12 @@ def cmd_adicionar(a):
         if not f.get("nome"):
             erros.append(f"fonte sem nome do veículo: {f.get('url')}")
     foto = it.get("foto") or {}
+    if not posjogo and not foto:
+        erros.append("foto obrigatória (07/11/2026): sem foto real com crédito a matéria não entra; procure foto do clube ou passe para outro clube")
+    if not posjogo and c.get("grupo") in COTA:
+        dia_c = (it.get("publish_at") or proximo_slot())[:10]
+        if cota_do_dia(dia_c)[c["grupo"]] >= COTA[c["grupo"]]:
+            erros.append(f"a cota de {dia_c} para este grupo ({COTA[c['grupo']]} matérias) já está completa: escolha um clube de outro grupo")
     if foto:
         if not FOTO_OK.match(foto.get("url", "")):
             erros.append("foto.url precisa ser https de site permitido")
