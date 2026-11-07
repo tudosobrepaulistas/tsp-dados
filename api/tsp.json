@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-06T22:10:00-03:00",
+ "gerado": "2026-11-07T01:55:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11687,6 +11687,416 @@
     ],
     "atualizado": "2026-11-05T19:26:00-03:00"
    },
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000166,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000167,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "1º de Maio",
+     "city": "São Bernardo do Campo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000168,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Independência",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900037,
+     "name": "Avaí"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000169,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Vitorino Gonçalves Dias",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000170,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000171,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000172,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900021,
+     "name": "Novorizontino"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000173,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000174,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+   ],
+   "fixture": {
+    "id": 91000175,
+    "timestamp": 1794684600,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": "Caxias do Sul"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
    "events": []
   },
   {
