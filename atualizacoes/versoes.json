@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui.",
- "gerado": "2026-11-06T03:10-03:00",
+ "gerado": "2026-11-06T23:55-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.7.2",
-   "zip": "tsp-jogos-1.7.2.zip",
-   "notas": "Simulador: botões grandes Limpar tudo, Desfazer e apagar placar de cada jogo; jogo atrasado junto da rodada de data mais próxima; escudos com identificação correta."
+   "versao": "1.7.3",
+   "zip": "tsp-jogos-1.7.3.zip",
+   "notas": "Simulador: tabela sem achatar no computador; escudos com 3 caminhos de busca e nova tela Ferramentas → Escudos dos clubes (buscar de novo ou enviar à mão)."
   },
   "tsp-maquina": {
    "versao": "1.7.0",
