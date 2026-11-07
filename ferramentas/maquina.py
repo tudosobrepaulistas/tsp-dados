@@ -138,7 +138,7 @@ COTA = {"a4": 8, "sem_divisao": 8, "feminino": 8}
 def cota_do_dia(dia):
     cont = {g: 0 for g in COTA}
     for i in historico()["itens"]:
-        if i.get("tipo") != "posjogo" and i["publish_at"][:10] == dia:
+        if i.get("tipo") != "posjogo" and not i.get("pedido") and i["publish_at"][:10] == dia:
             g = grupo_de(i["clube"])
             if g in cont:
                 cont[g] += 1
@@ -251,7 +251,8 @@ def cmd_adicionar(a):
     foto = it.get("foto") or {}
     if not posjogo and not foto:
         erros.append("foto obrigatória (07/11/2026): sem foto real com crédito a matéria não entra; procure foto do clube ou passe para outro clube")
-    if not posjogo and c.get("grupo") in COTA:
+    pedido = bool(it.get("pedido"))  # matéria pedida pelo Thiago: fora da cota e dos limites de evergreen
+    if not posjogo and not pedido and c.get("grupo") in COTA:
         dia_c = (it.get("publish_at") or proximo_slot())[:10]
         if cota_do_dia(dia_c)[c["grupo"]] >= COTA[c["grupo"]]:
             erros.append(f"a cota de {dia_c} para este grupo ({COTA[c['grupo']]} matérias) já está completa: escolha um clube de outro grupo")
@@ -267,16 +268,16 @@ def cmd_adicionar(a):
     for i in h:
         if i["clube"] == c["slug"] and (norm(i["titulo"]) == nt or norm(i["foco"]) == norm(it.get("foco", ""))):
             erros.append(f"repetido: já existe '{i['titulo']}' (foco '{i['foco']}')")
-    if it.get("tipo") == "historia":
+    if it.get("tipo") == "historia" and not pedido:
         dia = (it.get("publish_at") or proximo_slot())[:10]
-        hist_dia = [i for i in h if i.get("tipo") == "historia" and i["publish_at"][:10] == dia]
+        hist_dia = [i for i in h if i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"][:10] == dia]
         sd_dia = [i for i in hist_dia if grupo_de(i["clube"]) == "sem_divisao"]
         # Evergreen: até 4 por dia no total (3 de clubes sem divisão, que quase não têm notícia fora da temporada, e 1 dos demais)
         if (c.get("grupo") == "sem_divisao" and len(sd_dia) >= 3) or (c.get("grupo") != "sem_divisao" and len(hist_dia) - len(sd_dia) >= 1) or len(hist_dia) >= 4:
             erros.append(f"já há {len(hist_dia)} matérias evergreen para {dia} (máximo 3 de clubes sem divisão + 1 dos demais, para não ficar repetitivo): "
                          "use `sem-pauta CLUBE --motivo ... --sugestao ...` pedindo uma pauta à redação e passe ao próximo clube")
         lim = (agora() - datetime.timedelta(days=30)).strftime("%Y-%m-%d")
-        if any(i["clube"] == c["slug"] and i.get("tipo") == "historia" and i["publish_at"] >= lim for i in h):
+        if any(i["clube"] == c["slug"] and i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"] >= lim for i in h):
             erros.append("este clube já teve matéria histórica nos últimos 30 dias: peça uma pauta com `sem-pauta` em vez de outra história")
     if posjogo:
         slot = agora().strftime("%Y-%m-%d %H:%M")
@@ -297,7 +298,7 @@ def cmd_adicionar(a):
     gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
     escrever_indice()
     d = historico()
-    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo")})
+    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None})
     d["itens"] = d["itens"][-2000:]
     gravar(M / "historico.json", d)
     print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator'})")
