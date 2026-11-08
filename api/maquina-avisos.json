@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-07T11:13-03:00",
+ "gerado": "2026-11-08T06:47-03:00",
  "avisos": [
-  {
-   "clube": "audax",
-   "nome": "Audax",
-   "quando": "2026-11-03T16:15-03:00",
-   "motivo": "Única notícia recente (eliminação do sub-17 feminino para o São Paulo nas quartas do Paulista, 1º/11) tem só uma fonte acessível (site do São Paulo), com divergência de data do jogo de volta; time principal sem atividade (Bezinha encerrada).",
-   "sugestao": "Eliminação do Audax sub-17 feminino nas quartas do Paulista F Sub-17 (0x2 em Osasco e 0x1 no MorumBIS), conferindo com o site do Audax e a FPF; ou balanço da base do Audax em 2026."
-  },
-  {
-   "clube": "maua",
-   "nome": "Mauá",
-   "quando": "2026-11-03T16:24-03:00",
-   "motivo": "Sem notícia do Mauá FC nos últimos 7 dias (DGABC só traz pauta da cidade); tema histórico do Estádio Pedro Benedetti tem só 1 fonte jornalística acessível (DGABC) e as páginas de história bloqueiam leitura automática.",
-   "sugestao": "Quem foi Pedro Benedetti, o zagueiro do futebol amador de Mauá que dá nome ao estádio do Mauá FC (DGABC, 29/10/2024, coluna Memória de Ademir Medici; Imprensa ABC, 17/07/2020)."
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-11-03T16:24-03:00",
-   "motivo": "Sem notícia recente (clube parado fora da Bezinha). Tema do dérbi com o União Mogi depende de matéria do ge que não pôde ser lida nesta execução.",
-   "sugestao": "Dérbi de Mogi das Cruzes: Atlético x União (retrospecto até 2023, 9x0 do União em 07/11/2020 no Nogueirão), conferindo no ge Mogi das Cruzes e Suzano e em O Diário de Mogi."
-  },
-  {
-   "clube": "barcelona-capela",
-   "nome": "Barcelona Capela",
-   "quando": "2026-11-03T16:24-03:00",
-   "motivo": "Sem notícia recente; a única fonte do jejum de três anos sem vitória (última em 04/06/2023, 1x0 no ECUS) é um blog, sem segunda fonte jornalística.",
-   "sugestao": "Barcelona Capela: três anos sem vencer na Segunda Divisão (2023 a 2026), conferindo súmulas da FPF e matérias de jornal."
-  },
-  {
-   "clube": "referencia-fc",
-   "nome": "Referência FC",
-   "quando": "2026-11-03T16:24-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; últimas menções são de jogos do Paulista Sub-20 de meses atrás.",
-   "sugestao": "Balanço do Referência FC no Paulista Sub-20 de 2026, conferindo com a FPF e os sites dos adversários (ex.: Red Bull Bragantino)."
-  },
   {
    "clube": "barcelona-capela",
    "nome": "Barcelona Capela",
@@ -420,6 +385,41 @@
    "quando": "2026-11-07T11:13-03:00",
    "motivo": "Copa CCF (Grupo 2, Bragança Paulista) sem foto oficial do clube",
    "sugestao": "Santa Fé na Copa CCF com Bragantino, Ituano, Brasilis e Atlético Guaratinguetá, com foto pedida ao clube"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-08T06:47-03:00",
+   "motivo": "Única novidade (zagueiro Luizão, 04/11) só no Futebol Interior; sem 2ª fonte nem foto do clube",
+   "sugestao": "Confirmar no Instagram do Lemense a chegada do zagueiro Luizão (ex-Ponte Preta) e fazer matéria com a lista de reforços para a A4 2027"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-08T06:47-03:00",
+   "motivo": "Kadu Barone ainda não oficializado (Futebol Interior, 06/11: 'pode ser oficializado nesta semana')",
+   "sugestao": "Quando o Barretos anunciar Kadu Barone (8 gols pela Inter de Bebedouro na A4 2026), matéria com o elenco montado por Edson Paulista"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-08T06:47-03:00",
+   "motivo": "Sem notícia nova das Sereias nos últimos 7 dias além do play-in (já coberto pelo lado do São Paulo)",
+   "sugestao": "Prévia do Santos para o play-in contra o São Paulo (17/11, Pacaembu), com fala da comissão técnica no canal oficial"
+  },
+  {
+   "clube": "centro-olimpico",
+   "nome": "Centro Olímpico",
+   "quando": "2026-11-08T06:47-03:00",
+   "motivo": "Empate por 1 a 1 com o São Paulo na ida da semifinal do Paulista F Sub-17 só confirmado pelo Portal Morada; sem foto segura",
+   "sugestao": "Centro Olímpico decide vaga na final do Paulista Feminino Sub-17 contra o São Paulo no sábado (14/11), 10h, no CERET"
+  },
+  {
+   "clube": "independente",
+   "nome": "Independente",
+   "quando": "2026-11-08T06:47-03:00",
+   "motivo": "Sem novidade do Independente desde a renovação de Tiago Miguel (já publicada)",
+   "sugestao": "Reforma do Agostinho Prada para a A4 2027 e primeiros reforços do Galo"
   }
  ]
 }
