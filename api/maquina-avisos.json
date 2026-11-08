@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-08T10:42-03:00",
+ "gerado": "2026-11-08T12:40-03:00",
  "avisos": [
-  {
-   "clube": "tupa",
-   "nome": "Tupã",
-   "quando": "2026-11-03T21:36-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; temas recentes (volta ao Alonsão, nova diretoria) já publicados; reforço do atacante Bill aos 41 anos só tem uma fonte",
-   "sugestao": "Redator: confirmar com o Tupã FC se o centroavante Bill (ex-Corinthians, 41 anos) segue no clube para 2027 e fazer perfil; ou retrospectiva da Bezinha 2026 (classificação e queda para o Independente nas oitavas)"
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-11-03T21:38-03:00",
-   "motivo": "Sem notícia recente nem participação confirmada em 2026 nas fontes locais (O Diário de Mogi); tema do jejum já publicado",
-   "sugestao": "Redator: apurar com o clube e O Diário de Mogi a situação do Atlético Mogi para 2027 (licença ou volta à Segunda Divisão)"
-  },
-  {
-   "clube": "barcelona-capela",
-   "nome": "Barcelona Capela",
-   "quando": "2026-11-04T06:31-03:00",
-   "motivo": "Sem notícia recente encontrada em veículos aceitos e sem site oficial cadastrado; buscas só retornam o Barcelona da Espanha",
-   "sugestao": "Redator: conferir redes oficiais do Barcelona Capela (elenco e planejamento para a Bezinha 2027) ou contar a história da fundação do clube na Capela do Socorro com fonte"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-04T11:25-03:00",
-   "motivo": "Sem notícia recente em site oficial ou jornal; títulos de 1928/1930 já usados",
-   "sugestao": "Perfil do Estádio José de Araújo Cintra ou ex-jogadores do Leão da Montanha, com fonte de jornal de Amparo"
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-11-04T11:25-03:00",
-   "motivo": "Sem notícia recente; dados do clássico com o União Mogi só na Wikipédia (desatualizados)",
-   "sugestao": "Clássico mogiano Atlético x União: retrospecto conferido com O Diário de Mogi"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-04T15:18-03:00",
-   "motivo": "Nenhuma notícia recente em jornais ou canais oficiais encontrados na busca; clube sem site oficial localizado",
-   "sugestao": "Perfil do Colorado Caieiras para a A4 2027: quem é o técnico, elenco em montagem e onde manda os jogos (checar Instagram oficial do clube)"
-  },
   {
    "clube": "jacarei",
    "nome": "Jacareí",
@@ -420,6 +378,48 @@
    "quando": "2026-11-08T10:42-03:00",
    "motivo": "Data Fifa sem jogo até 18/11; nenhuma notícia do Mirassol nas últimas 24h confirmada em 2 fontes aceitas (site oficial sem nota desde 04/11; canal oficial só com transmissões da base)",
    "sugestao": "Pré-jogo de Mirassol x Atlético-MG (18/11, Maião): situação de João Victor (radar do Athletico-PR) e reapresentação do elenco na Data Fifa, conferindo com o site oficial e o Diário da Região"
+  },
+  {
+   "clube": "paulinense",
+   "nome": "Paulinense",
+   "quando": "2026-11-08T12:40-03:00",
+   "motivo": "Notícia da Copinha 2027 confirmada em 3 fontes, mas a única imagem disponível (Divulgação no Futebol Interior) não pôde ser conferida e parece ser arte; regra de foto exige foto real",
+   "sugestao": "Paulinense confirma estreia na Copinha 2027 (Futebol Interior, TV Jaguari, Diário de Paulínia de 06/11) - usar foto real do elenco"
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-08T12:40-03:00",
+   "motivo": "Pauta da Copa CCF em Porto Feliz pronta, mas só há arte da FPF como imagem (proibida pela regra de foto)",
+   "sugestao": "Desportivo Brasil sedia grupo da Copa CCF em Porto Feliz em 29/11, com Novorizontino - com foto real do clube"
+  },
+  {
+   "clube": "centro-olimpico",
+   "nome": "Centro Olímpico",
+   "quando": "2026-11-08T12:40-03:00",
+   "motivo": "1x1 com o São Paulo na ida da semi do Paulista Feminino Sub-17 confirmado, sem foto segura do time",
+   "sugestao": "Centro Olímpico decide vaga na final do Paulista F Sub-17 contra o São Paulo no CERET, sábado 14/11, 10h"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-08T12:40-03:00",
+   "motivo": "Sem notícia confirmada nos últimos 7 dias",
+   "sugestao": "Barretos oficializa o atacante Kadu Barone para a A4 2027 (quando houver anúncio)"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-08T12:40-03:00",
+   "motivo": "Assuntos com fonte são de setembro/outubro",
+   "sugestao": "Situação do leilão da SAF do São Caetano"
+  },
+  {
+   "clube": "taubate-feminino",
+   "nome": "Taubaté Feminino",
+   "quando": "2026-11-08T12:40-03:00",
+   "motivo": "Nenhuma notícia nos últimos 7 dias",
+   "sugestao": "Planejamento do Taubaté Feminino para a Série A2 de 2027"
   }
  ]
 }
