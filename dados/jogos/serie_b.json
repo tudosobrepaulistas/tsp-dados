@@ -2801,22 +2801,55 @@
    "data": "2026-11-08T16:00:00-03:00",
    "casa": "athletic-mg",
    "fora": "atletico-go",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Sicredi",
    "cidade": "São João del-Rei",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 3,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Max",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavão",
+     "minuto": "60",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "João Pedro",
+     "minuto": "66",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/atletico-go-vira-athletic-segue-vivo-acesso-serie-a/",
+    "https://esportegoiano.com.br/apos-sair-perdendo-2-0-atletico-vira-fim-bate-athletic-segue-vivo-acesso"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-08T18:10:00-03:00",
    "prejogo": {
     "analise": [
      "Athletic e Atlético-GO se enfrentam no domingo (8/11), às 16h, na Arena Sicredi, em São João del-Rei (MG), pela 37ª e penúltima rodada da Série B. Os objetivos são diferentes: o Athletic é o 14º colocado, com 47 pontos, e já está livre do rebaixamento. O Atlético-GO é o 9º, com 55 pontos, empatado com CRB, Goiás e Sport, que ocupam do 6º ao 8º lugar. O Dragão perde para os três no desempate e precisa vencer para seguir sonhando com a última vaga nos playoffs de acesso (do 3º ao 6º).",
