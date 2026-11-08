@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-08T03:00-03:00",
+ "gerado": "2026-11-08T11:25-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.7.7",
@@ -13,9 +13,9 @@
    "notas": "Versões por clube (só na página do clube) e troca de foto de matéria já publicada."
   },
   "tsp-relatorio": {
-   "versao": "1.9.2",
-   "zip": "tsp-relatorio-1.9.2.zip",
-   "notas": "Versões por clube não contam no relatório nem no pagamento; central de correções."
+   "versao": "1.9.3",
+   "zip": "tsp-relatorio-1.9.3.zip",
+   "notas": "Trava de publicação: redator com erro de informação (grave) sem corrigir não consegue publicar matéria nova até corrigir."
   },
   "tsp-audio": {
    "versao": "1.1.0",
