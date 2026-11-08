@@ -589,6 +589,8 @@ def checar_posjogo(it):
     slug = it.get("clube") or casa.get("slug_tsp") or fora.get("slug_tsp") or ""
     it["clube"] = slug
     it["clubes"] = list(dict.fromkeys([x for x in (casa.get("slug_tsp"), fora.get("slug_tsp"), it.get("clube")) if x]))
+    if str(comp).startswith("fem_") and it.get("clube") and it["clube"].endswith("-feminino"):
+        it["clubes"] = [it["clube"]]  # feminino: só a página/bloco do time feminino, não o masculino
     it["competicao"] = comp
     return {"slug": slug or f"jogo-{j['id']}", "nome": casa.get("nome", "")}, erros
 

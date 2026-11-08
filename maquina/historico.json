@@ -1597,18 +1597,6 @@
    "video": null
   },
   {
-   "id": "ma3698920b8f7",
-   "clube": "bragantino",
-   "titulo": "Red Bull Bragantino vence o Internacional por 2 a 0, mas cai nos pênaltis na Copa do Brasil Feminina",
-   "foco": "resultado Bragantino x Internacional feminino",
-   "tipo": "posjogo",
-   "publish_at": "2026-11-08 14:17",
-   "foto": true,
-   "jogo": 91000144,
-   "pedido": null,
-   "video": null
-  },
-  {
    "id": "m9024d156d0a4",
    "clube": "santos",
    "titulo": "Santos vence o Cosmopolitano por 3 a 2 e vai à semifinal do Paulista Sub-15: veja os gols",
@@ -1715,6 +1703,18 @@
    "jogo": null,
    "pedido": null,
    "video": "kxWGCy-KDmM"
+  },
+  {
+   "id": "m5c40cc84ce43",
+   "clube": "red-bull-bragantino-feminino",
+   "titulo": "Red Bull Bragantino vence o Internacional por 2 a 0, mas cai nos pênaltis na Copa do Brasil Feminina",
+   "foco": "resultado Bragantino x Internacional feminino",
+   "tipo": "posjogo",
+   "publish_at": "2026-11-08 17:15",
+   "foto": true,
+   "jogo": 91000144,
+   "pedido": null,
+   "video": null
   }
  ]
 }
