@@ -74,7 +74,16 @@ Ordem de preferência:
    crédito `Foto: Reprodução/YouTube Nome do Clube`.
 3. **Wikimedia Commons ou Flickr** com licença CC BY, CC BY-SA, CC0 ou domínio público (nunca NC ou ND): crédito
    `Foto: Autor / Wikimedia Commons (CC BY-SA 4.0)`. Ótimo para estádios e matérias históricas.
-- A foto precisa mostrar o assunto (o clube, o estádio, a pessoa). Nada de foto genérica de outro clube.
+- **A foto tem que mostrar exatamente o assunto da matéria** (regra endurecida em 08/11/2026, a pedido do Thiago):
+  - matéria de **jogo** (prévia, decisão, "contra o X"): foto **de jogo**, de preferência **entre os mesmos dois times**
+    (o jogo do 1º turno, a ida). Se não houver, foto de jogo recente do clube. Nunca retrato, coletiva ou estádio vazio.
+  - matéria de **título, acesso ou conquista**: foto **daquela conquista** (taça, comemoração, festa no campo daquele ano).
+  - matéria **histórica**: foto da época ou do personagem; se não existir livre, foto do clube na conquista mais próxima do tema.
+  - matéria sobre **uma pessoa** (técnico, jogador, dirigente): foto dessa pessoa.
+  - Nunca: arte, card, montagem, escudo, logo, foto de outro clube, foto que não tem ligação com o título.
+- Campo **`foto.mostra` obrigatório**: uma frase dizendo o que a foto mostra (quem, qual jogo ou momento, data). A ferramenta
+  confere se cita o clube, se é foto de jogo em matéria de jogo e foto de conquista em matéria de título, e recusa se não for.
+  Descreva com honestidade o que está na imagem: se não bate com a matéria, procure outra.
 - Mínimo 600 px de largura; **prefira 1200 px ou mais** (o Google Discover só mostra foto grande). Não use foto de agência (Getty, AGIF, Reuters etc.) nem de jornal.
 - **Foto é obrigatória.** Sem foto segura com crédito, a ferramenta recusa: procure no site e nas redes oficiais do clube
   (post do Instagram, miniatura do vídeo do YouTube), no Commons/Flickr livre, ou passe para outro clube do mesmo grupo.
@@ -94,7 +103,7 @@ Ordem de preferência:
   "meta_desc": "...",
   "tags": ["Araçatuba", "Segunda Divisão", "..."],
   "fontes": [{"nome": "Site oficial do Araçatuba", "url": "https://..."}, {"nome": "Folha da Região", "url": "https://..."}],
-  "foto": {"url": "https://...", "credito": "Foto: Reprodução/Site oficial do Araçatuba", "fonte": "https://página-da-foto", "alt": "descrição da foto"}
+  "foto": {"url": "https://...", "credito": "Foto: Reprodução/Site oficial do Araçatuba", "fonte": "https://página-da-foto", "alt": "descrição da foto", "mostra": "Jogadores do Araçatuba comemoram gol contra o Penapolense no Adhemar de Barros, 12/10/2026"}
 }
 ```
 `publish_at` é preenchido sozinho com o próximo horário livre.

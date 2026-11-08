@@ -17,4 +17,12 @@ ficar mais de 6 horas sem matéria no site**. Se os redatores não publicarem, a
    - Sem notícia confirmada nas últimas 24h: `python3 ferramentas/maquina.py sem-pauta CLUBE --motivo "..." --sugestao "..."`.
 3. Commit e push depois de cada matéria (linhas de coautoria) e, no fim, `python3 ferramentas/maquina.py avisar-site`.
 
+## Blocos A1, A2 e A3 da home (mesma regra, das 8h às 23h59)
+A saída de `cobertura-6h` também mostra os **blocos A1, A2 e A3** que estão há 6 horas ou mais sem matéria (contando
+das 8h às 23h59). Para cada bloco atrasado, publique **1 matéria** de um dos clubes que ele lista (o mais esquecido primeiro):
+- **Use primeiro as pautas recentes** que aparecem embaixo do bloco (vieram do pauteiro e a redação não aproveitou):
+  abra os links, confirme em 2 fontes e escreva. Sem pauta útil, procure notícia das últimas 48 horas.
+- Só notícia ou coletiva (nada de evergreen), foto obrigatória e com `foto.mostra` (veja `diretrizes/maquina.md`).
+- Sem notícia confirmada em nenhum clube do bloco: `sem-pauta` para o primeiro e siga para o próximo bloco.
+
 As matérias saem pela conta da Máquina e não contam para os redatores.

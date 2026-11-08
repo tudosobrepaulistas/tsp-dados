@@ -47,8 +47,18 @@ def clubes(_a):
             print("Nenhum clube (o plugin do Relatório 1.4 ainda não está no site).")
             return
         raise
+    if not isinstance(c, dict):
+        c = {}
+    # Sem depender dos redatores marcarem times: entram sempre os clubes da Série A/B e dos blocos A1-A3.
+    try:
+        mq = json.loads((RAIZ / "maquina" / "clubes.json").read_text(encoding="utf-8"))["clubes"]
+        for k in mq:
+            if k.get("grupo") in ("nacional", "redacao") and k.get("slug"):
+                c.setdefault(k["slug"], k.get("nome", k["slug"]))
+    except Exception:
+        pass
     if not c:
-        print("Nenhum redator marcou times ainda.")
+        print("Nenhum clube para pautar.")
         return
     limite = (agora() - datetime.timedelta(hours=24)).isoformat()
     ja = {}

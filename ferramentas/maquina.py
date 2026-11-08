@@ -248,13 +248,42 @@ def cmd_versoes_pendentes(a):
     print(f"\n{total} versão(ões) pendente(s)." if total else "nenhuma")
 
 
+def _sem_acento(t):
+    import unicodedata
+    return "".join(ch for ch in unicodedata.normalize("NFD", t.lower()) if unicodedata.category(ch) != "Mn")
+
+
+def checar_mostra(foto, titulo, nome_clube):
+    """Critério de foto (08/11/2026): a foto tem que mostrar exatamente o assunto da matéria."""
+    m = _sem_acento(foto.get("mostra", ""))
+    t = _sem_acento(titulo)
+    if len(m) < 25:
+        return ["foto.mostra obrigatório: descreva em uma frase o que a foto mostra (quem, qual jogo/momento, quando). Ex.: \"Jogadores do Novorizontino e do Criciúma disputam bola no Jorjão, 21/07/2026\""]
+    e = []
+    palavras = [w for w in re.findall(r"[a-z]{4,}", _sem_acento(nome_clube)) if w not in ("clube", "esporte", "futebol", "associacao", "atletico", "sport", "feminino")]
+    if palavras and not any(w in m for w in palavras):
+        e.append(f"foto.mostra precisa citar o clube ({nome_clube}): a foto tem que ser do clube da matéria")
+    if re.search(r"titulo|campe|acesso|conquist", t) and not re.search(r"decid|busca|pode |briga|sonha|disputa|rumo|luta|vai |precisa|chance", t) and not re.search(r"titulo|campe|taca|trofeu|comemor|festa|acesso|conquist", m):
+        e.append("matéria de título/acesso/conquista: a foto tem que ser da conquista (taça, comemoração), não foto genérica")
+    if re.search(r" x |contra |decide|enfrenta|duelo|jogo|partida|rodada", t) and not re.search(r" x |jogo|partida|lance|disputa|gol|rodada|campo|treino|escala", m) and not re.search(r"titulo|campe|comemor", m):
+        e.append("matéria de jogo: a foto tem que ser de jogo (de preferência entre os mesmos times), não retrato, estádio vazio ou arte")
+    if re.search(r"\barte\b|logo|escudo|montagem|card |banner", m):
+        e.append("arte, escudo, logo ou montagem não servem como foto principal")
+    return e
+
+
 def cmd_trocar_foto(a):
     alvo = a[0]
     def opt(n):
         return a[a.index(n) + 1] if n in a else ""
-    foto = {"url": opt("--url"), "credito": opt("--credito"), "fonte": opt("--fonte"), "alt": opt("--alt")}
+    foto = {"url": opt("--url"), "credito": opt("--credito"), "fonte": opt("--fonte"), "alt": opt("--alt"), "mostra": opt("--mostra")}
     if not FOTO_OK.match(foto["url"]) or not foto["credito"] or not foto["fonte"]:
-        raise SystemExit("ERRO: --url (https), --credito e --fonte são obrigatórios")
+        raise SystemExit("ERRO: --url (https), --credito, --fonte e --mostra são obrigatórios")
+    h = next((i for i in historico()["itens"] if i["id"] == alvo), None)
+    cl = next((k for k in json.loads((RAIZ / "maquina" / "clubes.json").read_text(encoding="utf-8"))["clubes"] if h and k["slug"] == h.get("clube")), {})
+    err = checar_mostra(foto, (h or {}).get("titulo", ""), cl.get("nome", ""))
+    if err:
+        raise SystemExit("ERRO:\n" + "\n".join(err))
     if not any(i["id"] == alvo for i in historico()["itens"]):
         raise SystemExit(f"ERRO: matéria {alvo} não está no histórico da Máquina")
     slot = agora().strftime("%Y-%m-%d %H:%M")
@@ -264,6 +293,31 @@ def cmd_trocar_foto(a):
     gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
     escrever_indice()
     print(f"OK: troca de foto na fila ({nome}). Commit, push e avisar-site.")
+
+
+BLOCOS = {"A1": ["botafogosp", "capivariano", "corinthians", "ferroviaria", "guarani", "juventus", "mirassol", "noroeste", "novorizontino", "palmeiras", "portuguesa", "primavera", "bragantino", "santos", "saobernardo", "saopaulo"], "A2": ["aguasanta", "interdelimeira", "ituano", "linense", "marilia", "monteazul", "osasco-sporting", "pontepreta", "portuguesasantista", "santoandre", "saojose", "sertaozinho", "taubate", "veloclube", "votuporanguense", "xvdepiracicaba"], "A3": ["bandeirante", "catanduva", "ec-sao-bernardo", "francana", "prudente", "inter-de-bebedouro", "itapirense", "paulista-jundiai", "penapolense", "rio-branco", "rioclaro", "rio-preto", "saobento", "uniao-barbarense", "uniao-sao-joao", "xv-de-jau"]}
+
+
+def ultima_materia_de(slugs):
+    """Matéria mais recente do site entre os clubes (slugs da classificação Times): (horas, título, data)."""
+    ts = baixar("https://tudosobrepaulista.com.br/wp-json/wp/v2/times?per_page=100&_fields=id,slug&slug=" + ",".join(slugs))
+    ids = [str(t["id"]) for t in ts]
+    if not ids:
+        return 999, "(nenhuma)"
+    ms = baixar("https://tudosobrepaulista.com.br/wp-json/wp/v2/materia?per_page=1&_fields=date,title&times=" + ",".join(ids))
+    if not ms:
+        return 999, "(nenhuma)"
+    d = datetime.datetime.fromisoformat(ms[0]["date"]).replace(tzinfo=BR)
+    return (agora() - d).total_seconds() / 3600, re.sub("<[^>]+>", "", ms[0]["title"]["rendered"])
+
+
+def pautas_de(slugs):
+    try:
+        d = json.loads((RAIZ / "api" / "pautas.json").read_text(encoding="utf-8"))
+    except Exception:  # noqa
+        return []
+    lim = (agora() - datetime.timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M")
+    return [x for x in d.get("itens", []) if x.get("clube") in slugs and str(x.get("gerado") or x.get("quando") or "") >= lim]
 
 
 def cmd_cobertura(a):
@@ -283,11 +337,31 @@ def cmd_cobertura(a):
             h, tit = 999, "(nenhuma)"
         if h >= limite:
             out.append((h, c, tit))
-    if not out:
-        print("nenhum")
-        return
+    # Blocos da home do Paulistão A1, A2 e A3 (redação): das 8h às 23h59, nenhum bloco fica 6h sem matéria nova
+    nac = {c["slug"] for c in clubes()["clubes"] if c.get("grupo") == "nacional"}
+    blocos = []
+    if 8 <= t.hour <= 23:
+        for nome, slugs in BLOCOS.items():
+            sl = [x for x in slugs if x not in nac]
+            h, tit = ultima_materia_de(sl)
+            if h >= limite:
+                esquec = []
+                for x in sl:
+                    hx, _ = ultima_materia_de([x])
+                    esquec.append((hx, x))
+                esquec.sort(reverse=True)
+                blocos.append((nome, h, tit, [x for _, x in esquec[:4]], pautas_de(sl)))
     for h, c, tit in sorted(out, key=lambda x: -x[0]):
         print(f"- {c['slug']} | {c['nome']} ({c.get('divisao', '')}) | última matéria há {h:.1f}h: {tit}")
+        for p in pautas_de([c["slug"]])[:2]:
+            print(f"    pauta da redação: {p['titulo']} | fontes: " + ", ".join(f['url'] for f in p.get('fontes', [])))
+    for nome, h, tit, esq, ps in blocos:
+        print(f"- BLOCO Paulistão {nome} | última matéria do bloco há {h:.1f}h: {tit}")
+        print(f"    clubes mais esquecidos: {', '.join(esq)} (escreva 1 matéria para o bloco, de preferência de uma pauta abaixo)")
+        for p in ps[:4]:
+            print(f"    pauta da redação ({p['clube']}): {p['titulo']} | fontes: " + ", ".join(f['url'] for f in p.get('fontes', [])))
+    if not out and not blocos:
+        print("nenhum")
 
 
 def cmd_original(a):
@@ -401,6 +475,7 @@ def cmd_adicionar(a):
             erros.append("foto.url precisa ser https de site permitido")
         if not foto.get("credito") or not foto.get("fonte"):
             erros.append("foto precisa de credito e fonte (página de onde veio)")
+        erros += checar_mostra(foto, it.get("titulo", ""), c.get("nome", ""))
     if PROIBIDO.search(json.dumps(it, ensure_ascii=False)):
         erros.append("conteúdo de aposta não pode")
     h = historico()["itens"]
@@ -408,9 +483,9 @@ def cmd_adicionar(a):
     for i in h:
         if i["clube"] == c["slug"] and (norm(i["titulo"]) == nt or norm(i["foco"]) == norm(it.get("foco", ""))):
             erros.append(f"repetido: já existe '{i['titulo']}' (foco '{i['foco']}')")
-    if c.get("grupo") == "nacional" and it.get("tipo") not in ("noticia", "coletiva") and not posjogo:
-        erros.append("clube da Série A/B: só notícia ou coletiva atualizada (nada de evergreen)")
-    if c.get("grupo") == "nacional" and not it.get("publish_at"):
+    if c.get("grupo") in ("nacional", "redacao") and it.get("tipo") not in ("noticia", "coletiva") and not posjogo and not pedido:
+        erros.append("clube da redação (Séries A/B, A1 a A3): só notícia ou coletiva atualizada (nada de evergreen)")
+    if c.get("grupo") in ("nacional", "redacao") and not it.get("publish_at"):
         it["publish_at"] = (agora() + datetime.timedelta(minutes=5)).strftime("%Y-%m-%d %H:%M")
     if it.get("tipo") == "historia" and not pedido:
         dia = (it.get("publish_at") or proximo_slot())[:10]

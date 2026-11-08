@@ -876,6 +876,386 @@
    "redes": [],
    "jornais_locais": [],
    "divisao": "Série B"
+  },
+  {
+   "slug": "capivariano",
+   "nome": "Capivariano",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A1"
+  },
+  {
+   "slug": "ferroviaria",
+   "nome": "Ferroviária",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A1"
+  },
+  {
+   "slug": "guarani",
+   "nome": "Guarani",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A1"
+  },
+  {
+   "slug": "juventus",
+   "nome": "Juventus",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A1"
+  },
+  {
+   "slug": "noroeste",
+   "nome": "Noroeste",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A1"
+  },
+  {
+   "slug": "portuguesa",
+   "nome": "Portuguesa",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A1"
+  },
+  {
+   "slug": "primavera",
+   "nome": "Primavera",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A1"
+  },
+  {
+   "slug": "aguasanta",
+   "nome": "Água Santa",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "interdelimeira",
+   "nome": "Inter de Limeira",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "ituano",
+   "nome": "Ituano",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "linense",
+   "nome": "Linense",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "marilia",
+   "nome": "Marília",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "monteazul",
+   "nome": "Monte Azul",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "osasco-sporting",
+   "nome": "Osasco Sporting",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "portuguesasantista",
+   "nome": "Portuguesa Santista",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "santoandre",
+   "nome": "Santo André",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "saojose",
+   "nome": "São José",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "sertaozinho",
+   "nome": "Sertãozinho",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "taubate",
+   "nome": "Taubaté",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "veloclube",
+   "nome": "Velo Clube",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "votuporanguense",
+   "nome": "Votuporanguense",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A2"
+  },
+  {
+   "slug": "bandeirante",
+   "nome": "Bandeirante",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "catanduva",
+   "nome": "Catanduva",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "ec-sao-bernardo",
+   "nome": "EC São Bernardo",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "francana",
+   "nome": "Francana",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "prudente",
+   "nome": "Grêmio Prudente",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "inter-de-bebedouro",
+   "nome": "Inter de Bebedouro",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "itapirense",
+   "nome": "Itapirense",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "paulista-jundiai",
+   "nome": "Paulista Jundiaí",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "penapolense",
+   "nome": "Penapolense",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "rio-branco",
+   "nome": "Rio Branco",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "rioclaro",
+   "nome": "Rio Claro",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "rio-preto",
+   "nome": "Rio Preto",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "saobento",
+   "nome": "São Bento",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "uniao-barbarense",
+   "nome": "União Barbarense",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "uniao-sao-joao",
+   "nome": "União São João",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
+  },
+  {
+   "slug": "xv-de-jau",
+   "nome": "XV de Jaú",
+   "grupo": "redacao",
+   "cidade": "",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Paulistão A3"
   }
  ],
  "cota": "07/11/2026: 24 matérias por dia (8 A4, 8 sem divisão, 8 feminino), de 30 em 30 minutos das 9h às 20h30, sempre com foto real e crédito.",
