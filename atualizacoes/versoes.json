@@ -1,16 +1,16 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-08T02:00-03:00",
+ "gerado": "2026-11-08T02:30-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.7.5",
-   "zip": "tsp-jogos-1.7.5.zip",
-   "notas": "Chaveamento das copas (Copa do Brasil, Libertadores, Copa do Brasil Feminina) e painel do Paulistão Feminino; título da copa sem repetição."
+   "versao": "1.7.6",
+   "zip": "tsp-jogos-1.7.6.zip",
+   "notas": "Tabela das copas no estilo ida e volta lado a lado, com navegação entre as fases (semifinal, final) e link \"Saiba como foi\"."
   },
   "tsp-maquina": {
-   "versao": "1.8.0",
-   "zip": "tsp-maquina-1.8.0.zip",
-   "notas": "Versões por clube: a matéria do redator com vários clubes ganha uma versão para cada clube, só na página dele, com a mesma foto e assinada pela Redação."
+   "versao": "1.8.1",
+   "zip": "tsp-maquina-1.8.1.zip",
+   "notas": "Versões por clube (só na página do clube) e troca de foto de matéria já publicada."
   },
   "tsp-relatorio": {
    "versao": "1.9.2",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.3.7",
-   "zip": "tsp-nova-era-1.3.7.zip",
-   "notas": "Versões por clube fora da home (só na página do clube, com aviso e link para a original); destaque da copa só com notícias do clube que joga; chaveamentos."
+   "versao": "1.3.8",
+   "zip": "tsp-nova-era-1.3.8.zip",
+   "notas": "Dia de copa: destaque da copa e, logo abaixo, a tabela; a tabela do Brasileirão volta ao lugar; versões por clube fora da home."
   },
   "tsp-shopee": {
    "versao": "1.1.0",

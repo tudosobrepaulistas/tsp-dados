@@ -246,6 +246,24 @@ def cmd_versoes_pendentes(a):
     print(f"\n{total} versão(ões) pendente(s)." if total else "nenhuma")
 
 
+def cmd_trocar_foto(a):
+    alvo = a[0]
+    def opt(n):
+        return a[a.index(n) + 1] if n in a else ""
+    foto = {"url": opt("--url"), "credito": opt("--credito"), "fonte": opt("--fonte"), "alt": opt("--alt")}
+    if not FOTO_OK.match(foto["url"]) or not foto["credito"] or not foto["fonte"]:
+        raise SystemExit("ERRO: --url (https), --credito e --fonte são obrigatórios")
+    if not any(i["id"] == alvo for i in historico()["itens"]):
+        raise SystemExit(f"ERRO: matéria {alvo} não está no histórico da Máquina")
+    slot = agora().strftime("%Y-%m-%d %H:%M")
+    it = {"id": "f" + hashlib.md5((alvo + foto["url"]).encode()).hexdigest()[:12], "tipo": "troca_foto", "alvo": alvo, "foto": foto}
+    z = base64.b64encode(gzip.compress(json.dumps(it, ensure_ascii=False).encode("utf-8"))).decode()
+    nome = f"{slot.replace('-', '').replace(' ', '-').replace(':', '')}-foto-{alvo}.json"
+    gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
+    escrever_indice()
+    print(f"OK: troca de foto na fila ({nome}). Commit, push e avisar-site.")
+
+
 def cmd_original(a):
     m = baixar(f"https://tudosobrepaulista.com.br/wp-json/wp/v2/materia/{int(a[0])}?_fields=id,date,link,title,content,times")
     import html as _h
@@ -520,4 +538,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
