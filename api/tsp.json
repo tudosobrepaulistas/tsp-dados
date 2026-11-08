@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08T00:32:00-03:00",
+ "gerado": "2026-11-08T01:33:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -15003,50 +15003,90 @@
   {
    "nome": "Paulistão Feminino 2026",
    "fase": "Play-in (ida e volta)",
-   "classificacao_titulo": "Classificação final da 1ª fase",
+   "classificacao_titulo": "Paulistão Feminino · classificação final da 1ª fase",
    "classificacao": [
     [
      "1",
      "Ferroviária",
-     "16"
+     "16",
+     "7",
+     "5",
+     "1",
+     "1",
+     "10"
     ],
     [
      "2",
      "Palmeiras",
-     "16"
+     "16",
+     "7",
+     "5",
+     "1",
+     "1",
+     "10"
     ],
     [
      "3",
      "Corinthians",
-     "13"
+     "13",
+     "7",
+     "4",
+     "1",
+     "2",
+     "12"
     ],
     [
      "4",
      "São Paulo",
-     "12"
+     "12",
+     "7",
+     "4",
+     "0",
+     "3",
+     "0"
     ],
     [
      "5",
      "Santos",
-     "9"
+     "9",
+     "7",
+     "2",
+     "3",
+     "2",
+     "0"
     ],
     [
      "6",
      "Red Bull Bragantino",
-     "7"
+     "7",
+     "7",
+     "1",
+     "4",
+     "2",
+     "-8"
     ],
     [
      "7",
      "Taubaté",
-     "4"
+     "4",
+     "7",
+     "1",
+     "1",
+     "5",
+     "-7"
     ],
     [
      "8",
      "Mirassol",
-     "1"
+     "1",
+     "7",
+     "0",
+     "1",
+     "6",
+     "-17"
     ]
    ],
-   "nota_classificacao": "Ferroviária e Palmeiras foram direto à semifinal; do 3º ao 6º jogam o play-in.",
+   "nota_classificacao": "1º e 2º direto na semifinal; 3º ao 6º no play-in; 7º e 8º vão para a Copa Paulista Feminina.",
    "confrontos": [
     {
      "fase": "Play-in",
@@ -15078,9 +15118,20 @@
     }
    ],
    "fontes": [
+    "https://www.futebolinterior.com.br/campeonato/paulistao-feminino-unica-2026/",
     "https://www.olimpiadatododia.com.br/futebol/761174-paulista-feminino-2026-play-in-semifinais-classificados/",
     "https://www.infotimao.com.br/post/corinthians-red-bull-bragantino-play-in-paulistao-feminino",
     "https://www.lance.com.br/futebol-feminino/paulistao-feminino-2026-tabela-formato-onde-assistir.html"
+   ],
+   "colunas": [
+    "#",
+    "Time",
+    "P",
+    "J",
+    "V",
+    "E",
+    "D",
+    "SG"
    ]
   }
  ]
