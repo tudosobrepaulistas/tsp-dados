@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-08T12:40-03:00",
+ "gerado": "2026-11-08T14:36-03:00",
  "avisos": [
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-04T21:14-03:00",
-   "motivo": "Sem notícia dos últimos 7 dias; páginas sobre a troca de nome (Band Vale) não abriram para conferência",
-   "sugestao": "Matéria histórica: do Atlético Joseense ao Jacareí FC (fundação em 1998, troca de nome em jan/2026 por falta do Martins Pereira), conferindo Band Vale e THMais"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-04T21:14-03:00",
-   "motivo": "Sem notícia dos últimos 7 dias em jornais e portais; história do clube (fundado em 2019) sem 2 fontes jornalísticas conferidas",
-   "sugestao": "Planejamento do Colorado para a A4 2027: ligar para a diretoria (presidente José de Araújo Cândido) sobre técnico e apresentação do elenco"
-  },
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-04T21:20-03:00",
-   "motivo": "Sem notícia confirmada dos últimos 7 dias; site oficial não abriu para conferência",
-   "sugestao": "Conferir no site oficial (desportivobrasil.com.br) as notícias da base (sub-17/sub-20) e convocações recentes"
-  },
   {
    "clube": "mirassol-feminino",
    "nome": "Mirassol Feminino",
@@ -420,6 +399,27 @@
    "quando": "2026-11-08T12:40-03:00",
    "motivo": "Nenhuma notícia nos últimos 7 dias",
    "sugestao": "Planejamento do Taubaté Feminino para a Série A2 de 2027"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-08T14:36-03:00",
+   "motivo": "Cobertura 6h: sem notícia nova confirmada em 2 fontes nas últimas 24h (Data Fifa; jogo com o Atlético-MG em 14/11 e promoção de ingressos já publicados).",
+   "sugestao": "Coletiva/treino da reapresentação do Mirassol para o Atlético-MG (Maião, 14/11); fala de Domínguez (O Tempo, 08/11) dizendo que o Galo foca no Mirassol mesmo com a final da Sul-Americana"
+  },
+  {
+   "clube": "saopaulo",
+   "nome": "São Paulo",
+   "quando": "2026-11-08T14:36-03:00",
+   "motivo": "Cobertura 6h: há notícia (Bobadilla convocado pelo Paraguai para amistosos com Japão e Singapura, 13 e 17/11, em Singapura; Tupi e ABCD Jornal, 07/11), mas não achei foto horizontal do Bobadilla que eu conseguisse conferir.",
+   "sugestao": "Bobadilla convocado pelo Paraguai na Data Fifa: volta só depois do dia 17 e corre contra o tempo para o São Paulo x Fluminense (19/11, Morumbis). Usar foto oficial do Bobadilla (saopaulofc.net/Flickr)."
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-08T14:36-03:00",
+   "motivo": "Cobertura 6h: sem notícia nova nas últimas 24h além da derrota para o Avaí e da perda da chance de acesso, já publicadas.",
+   "sugestao": "Bastidores do São Bernardo para 2027: renovações, futuro de Bergantin e calendário do Paulistão após o fim da Série B contra o Athletic"
   }
  ]
 }
