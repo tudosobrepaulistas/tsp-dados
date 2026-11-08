@@ -1,0 +1,19 @@
+{
+ "_leia": "Painel do futebol feminino na home (campeonatos em disputa que não estão na base de jogos). Só dados confirmados em 2 fontes.",
+ "competicoes": [
+  {
+   "nome": "Paulistão Feminino 2026",
+   "fase": "Play-in (ida e volta)",
+   "classificacao_titulo": "Classificação final da 1ª fase",
+   "classificacao": [["1", "Ferroviária", "16"], ["2", "Palmeiras", "16"], ["3", "Corinthians", "13"], ["4", "São Paulo", "12"], ["5", "Santos", "9"], ["6", "Red Bull Bragantino", "7"], ["7", "Taubaté", "4"], ["8", "Mirassol", "1"]],
+   "nota_classificacao": "Ferroviária e Palmeiras foram direto à semifinal; do 3º ao 6º jogam o play-in.",
+   "confrontos": [
+    {"fase": "Play-in", "casa": "Red Bull Bragantino", "fora": "Corinthians", "quando": "18/11 e 22/11", "obs": "Corinthians decide em casa"},
+    {"fase": "Play-in", "casa": "Santos", "fora": "São Paulo", "quando": "18/11 e 22/11", "obs": "São Paulo decide em casa"},
+    {"fase": "Semifinal", "casa": "Ferroviária e Palmeiras", "fora": "vencedores do play-in", "quando": "9/12 e 13/12", "obs": ""},
+    {"fase": "Final", "casa": "", "fora": "", "quando": "16/12 e 20/12", "obs": "Datas-base da FPF"}
+   ],
+   "fontes": ["https://www.olimpiadatododia.com.br/futebol/761174-paulista-feminino-2026-play-in-semifinais-classificados/", "https://www.infotimao.com.br/post/corinthians-red-bull-bragantino-play-in-paulistao-feminino", "https://www.lance.com.br/futebol-feminino/paulistao-feminino-2026-tabela-formato-onde-assistir.html"]
+  }
+ ]
+}

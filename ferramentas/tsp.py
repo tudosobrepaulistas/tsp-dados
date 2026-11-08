@@ -479,7 +479,8 @@ def cmd_calcular(a):
            "competicoes": cps,
            "times": {str(v["id"]): {"chave": k, "nome": v["nome"], "slug_tsp": v.get("slug_tsp", ""), "wiki": v.get("wiki", "")} for k, v in tm.items()},
            "jogos": fixtures, "classificacao": classif, "artilharia": {k: v for k, v in artilh.items() if v},
-           "chaves": chaves(cps, tm)}
+           "chaves": chaves(cps, tm),
+           "painel_feminino": ler(DADOS / "painel_feminino.json", {}).get("competicoes", [])}
     gravar(API / "tsp.json", tsp)
     print(f"OK: api/tsp.json com {len(fixtures)} jogos, {len(classif)} classificações")
 
