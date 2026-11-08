@@ -7,6 +7,9 @@
           --sugestao "como corrigir" --fonte "Nome" URL [--fonte "Nome" URL]
       Grava o apontamento em api/correcoes.json. Erro de informação (grave) exige 2 fontes independentes.
       Depois: commit, push e `python3 ferramentas/correcoes.py avisar-site` (o site avisa o redator e o Vinicios na hora).
+  python3 ferramentas/correcoes.py plagio ID --url URL_COPIADA --nome "Veículo" --trecho "trecho igual (1 a 3 frases)"
+      Plágio: texto copiado de outro site sem crédito. O site tira a matéria do ar (fica Pendente), trava o redator
+      e avisa o Thiago e o Vinicios na hora. Só use com o trecho copiado em mãos (mesmas frases, não só o mesmo assunto).
   python3 ferramentas/correcoes.py avisar-site
 """
 import datetime
@@ -89,6 +92,32 @@ def apontar(args):
     print(f"OK: apontado na matéria {pid} ({g}).")
 
 
+def plagio(args):
+    pid = int(args[0])
+    def opt(n, d=""):
+        return args[args.index(n) + 1] if n in args else d
+    url, nome, trecho = opt("--url"), opt("--nome"), opt("--trecho").strip()
+    if not url.startswith("https://") or re.match(r"^https://[^/]+/?$", url) or "tudosobrepaulista.com.br" in url and "/materia/" not in url:
+        sys.exit("--url precisa ser o link exato da página copiada")
+    if len(trecho) < 80:
+        sys.exit("--trecho: cole o trecho copiado (pelo menos 80 caracteres iguais)")
+    m = pegar(f"{SITE}/wp-json/wp/v2/materia/{pid}?_fields=id,title,link,content")
+    norm = lambda t: re.sub(r"\W+", " ", t.lower()).strip()
+    if norm(trecho)[:60] not in norm(limpo(m["content"]["rendered"])):
+        sys.exit("O trecho não aparece na matéria do TSP: copie exatamente como está no texto do redator.")
+    d = carregar()
+    chave = f"{pid}-plagio"
+    if any(x["chave"] == chave for x in d["itens"]):
+        sys.exit("Plágio desta matéria já apontado.")
+    d["itens"].append({"chave": chave, "id": pid, "tipo": "plagio", "titulo": html.unescape(m["title"]["rendered"]), "link": m["link"],
+                       "gravidade": "grave", "motivo": f"Plágio: trecho copiado de {nome or url} sem crédito",
+                       "sugestao": "Reescrever com texto próprio e citar a fonte", "trecho": trecho[:600],
+                       "fontes": [{"nome": nome or "página copiada", "url": url}], "em": datetime.datetime.now().strftime("%Y-%m-%d %H:%M")})
+    d["itens"] = d["itens"][-300:]
+    ARQ.write_text(json.dumps(d, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"OK: plágio apontado na matéria {pid}. Commit, push e avisar-site.")
+
+
 def avisar():
     try:
         print(pegar(f"{SITE}/wp-json/tsp/v1/correcoes-ler?x={int(datetime.datetime.now().timestamp())}"))
@@ -104,6 +133,8 @@ if __name__ == "__main__":
         listar(a[1:])
     elif a[0] == "apontar":
         apontar(a[1:])
+    elif a[0] == "plagio":
+        plagio(a[1:])
     elif a[0] == "avisar-site":
         avisar()
     else:
