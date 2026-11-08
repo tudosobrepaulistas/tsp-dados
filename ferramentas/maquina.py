@@ -17,6 +17,10 @@
   python3 ferramentas/maquina.py posjogo-pendentes
       Jogos da base que terminaram (início + 1h50) nas últimas 30 horas e ainda não têm matéria pós-jogo.
       Se não houver nenhum, mostra "nenhum" e a execução pode terminar.
+  python3 ferramentas/maquina.py versoes-pendentes [--horas 36]
+      Matérias de redatores com 2 ou mais clubes paulistas marcados e as versões por clube que faltam (diretrizes/versoes.md).
+  python3 ferramentas/maquina.py original ID
+      Texto limpo da matéria original (para escrever a versão).
   python3 ferramentas/maquina.py avisar-site
       Pede ao site para ler a fila na hora (usado depois do push de um pós-jogo).
   python3 ferramentas/maquina.py limpar
@@ -208,8 +212,96 @@ def norm(s):
     return re.sub(r"[^a-z0-9 ]", "", "".join(ch for ch in s if unicodedata.category(ch) != "Mn"))
 
 
+MAQ_AUTORES = {3, 39}  # Máquina e Redação TSP: matérias delas não geram versões
+
+
+def termos_times(ids):
+    if not ids:
+        return {}
+    url = "https://tudosobrepaulista.com.br/wp-json/wp/v2/times?per_page=100&_fields=id,slug,name&include=" + ",".join(str(i) for i in ids)
+    return {t["id"]: t for t in baixar(url)}
+
+
+def cmd_versoes_pendentes(a):
+    horas = int(a[a.index("--horas") + 1]) if "--horas" in a else 36
+    depois = (agora() - datetime.timedelta(hours=horas)).strftime("%Y-%m-%dT%H:%M:%S")
+    ms = baixar(f"https://tudosobrepaulista.com.br/wp-json/wp/v2/materia?after={depois}&per_page=100&_fields=id,date,author,times,title,link")
+    feitos = {(i.get("versao_de"), i["clube"]) for i in historico()["itens"] if i.get("tipo") == "versao"}
+    ms = [m for m in ms if m["author"] not in MAQ_AUTORES and len(m.get("times") or []) >= 2]
+    tt = termos_times(sorted({t for m in ms for t in m["times"]}))
+    total = 0
+    for m in sorted(ms, key=lambda x: x["date"]):
+        tit = re.sub("<[^>]+>", "", m["title"]["rendered"])
+        nt = norm(tit)
+        clubes_m = [tt[t] for t in m["times"] if t in tt]
+        pos = sorted(clubes_m, key=lambda c: (nt.find(norm(c["name"])) if norm(c["name"]) in nt else 9999))
+        principal = pos[0]
+        faltam = [c for c in clubes_m if c["id"] != principal["id"] and (m["id"], c["slug"]) not in feitos]
+        if not faltam:
+            continue
+        total += len(faltam)
+        print(f"- matéria {m['id']} | {m['date'][:16]} | {tit}")
+        print(f"  {m['link']}")
+        print(f"  ótica original: {principal['name']} ({principal['slug']}) | versões que faltam: " + ", ".join(f"{c['name']} ({c['slug']})" for c in faltam))
+    print(f"\n{total} versão(ões) pendente(s)." if total else "nenhuma")
+
+
+def cmd_original(a):
+    m = baixar(f"https://tudosobrepaulista.com.br/wp-json/wp/v2/materia/{int(a[0])}?_fields=id,date,link,title,content,times")
+    import html as _h
+    txt = re.sub(r"<(script|style|figure)[^>]*>.*?</\1>", " ", m["content"]["rendered"], flags=re.S)
+    txt = re.sub(r"</(p|h2|h3|li|blockquote)>", "\n", txt)
+    txt = _h.unescape(re.sub(r"<[^>]+>", "", txt))
+    print(f"ID {m['id']} | {m['date'][:16]} | {m['link']}")
+    print(_h.unescape(m["title"]["rendered"]))
+    print("clubes marcados:", ", ".join(f"{t['name']} ({t['slug']})" for t in termos_times(m.get("times") or []).values()))
+    print("-" * 60)
+    print(re.sub(r"\n\s*\n+", "\n\n", txt).strip())
+
+
+def adicionar_versao(it):
+    erros = []
+    for k in ("versao_de", "clube", "clube_nome", "titulo", "subtitulo", "corpo", "resumo", "foco", "meta_title", "meta_desc", "tags", "fontes"):
+        if not it.get(k):
+            erros.append(f"falta '{k}'")
+    if sum(1 for b in it.get("corpo", []) if isinstance(b, dict) and b.get("p")) < 4:
+        erros.append("corpo precisa de pelo menos 4 parágrafos")
+    for b in it.get("corpo", []):
+        if not (isinstance(b, dict) and len(b) == 1 and list(b)[0] in ("p", "h2", "citacao")):
+            erros.append(f"bloco mal formado {b!r}")
+    if len(it.get("titulo", "")) > 100 or len(it.get("meta_title", "")) > 65 or len(it.get("meta_desc", "")) > 160:
+        erros.append("titulo (100), meta_title (65) ou meta_desc (160) longos demais")
+    if norm(it.get("clube_nome", "x")).split()[0] not in norm(it.get("titulo", "")):
+        erros.append("o nome do clube da versão precisa estar no título")
+    if not any(f"tudosobrepaulista.com.br" in str(f.get("url", "")) for f in it.get("fontes", [])):
+        erros.append("a 1ª fonte é a matéria original do redator (link do TSP)")
+    if PROIBIDO.search(json.dumps(it, ensure_ascii=False)):
+        erros.append("conteúdo de aposta não pode")
+    h = historico()["itens"]
+    if any(i.get("tipo") == "versao" and i.get("versao_de") == it.get("versao_de") and i["clube"] == it.get("clube") for i in h):
+        erros.append("esta versão já existe")
+    if erros:
+        raise SystemExit("ERRO:\n" + "\n".join(erros))
+    slot = agora().strftime("%Y-%m-%d %H:%M")
+    it["publish_at"] = slot
+    it["tipo"] = "versao"
+    it["id"] = "v" + hashlib.md5(f"{it['versao_de']}-{it['clube']}".encode()).hexdigest()[:12]
+    FILA.mkdir(parents=True, exist_ok=True)
+    z = base64.b64encode(gzip.compress(json.dumps(it, ensure_ascii=False).encode("utf-8"))).decode()
+    nome = f"{slot.replace('-', '').replace(' ', '-').replace(':', '')}-v{it['versao_de']}-{it['clube']}.json"
+    gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
+    escrever_indice()
+    d = historico()
+    d["itens"].append({"id": it["id"], "clube": it["clube"], "titulo": it["titulo"], "foco": it["foco"], "tipo": "versao", "publish_at": slot, "foto": True, "versao_de": it["versao_de"]})
+    d["itens"] = d["itens"][-2000:]
+    gravar(M / "historico.json", d)
+    print(f"OK: versão de {it['clube']} da matéria {it['versao_de']} na fila ({nome}). Commit, push e avisar-site.")
+
+
 def cmd_adicionar(a):
     it = json.loads(Path(a[0]).read_text(encoding="utf-8"))
+    if it.get("tipo") == "versao":
+        return adicionar_versao(it)
     erros = []
     posjogo = it.get("tipo") == "posjogo"
     if posjogo:
@@ -428,4 +520,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
