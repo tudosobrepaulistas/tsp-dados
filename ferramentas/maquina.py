@@ -215,6 +215,10 @@ def cmd_adicionar(a):
     if posjogo:
         c, erro_pj = checar_posjogo(it)
         erros += erro_pj
+    elif it.get("pedido") and not any(x["slug"] == it.get("clube") for x in clubes()["clubes"]):
+        # Pedido do Thiago sobre clube fora da lista da Máquina (ex.: Palmeiras): vale com o endereço do clube no site
+        slug = it.get("clube", "")
+        c = {"slug": slug, "nome": it.get("clube_nome") or slug.replace("-", " ").title(), "grupo": ""}
     else:
         c = achar_clube(it.get("clube", ""))
     for k in ("titulo", "subtitulo", "corpo", "resumo", "faq", "meta_title", "meta_desc", "foco", "tags", "fontes", "tipo"):
