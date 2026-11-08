@@ -19,6 +19,8 @@
       Se não houver nenhum, mostra "nenhum" e a execução pode terminar.
   python3 ferramentas/maquina.py versoes-pendentes [--horas 36]
       Matérias de redatores com 2 ou mais clubes paulistas marcados e as versões por clube que faltam (diretrizes/versoes.md).
+  python3 ferramentas/maquina.py cobertura-6h
+      Clubes paulistas das Séries A e B sem matéria no site há 6h ou mais (a Máquina cobre: diretrizes/cobertura.md).
   python3 ferramentas/maquina.py original ID
       Texto limpo da matéria original (para escrever a versão).
   python3 ferramentas/maquina.py avisar-site
@@ -264,6 +266,30 @@ def cmd_trocar_foto(a):
     print(f"OK: troca de foto na fila ({nome}). Commit, push e avisar-site.")
 
 
+def cmd_cobertura(a):
+    """Clubes paulistas das Séries A e B sem matéria no site há 6 horas ou mais."""
+    limite = float(a[a.index("--horas") + 1]) if "--horas" in a else 6
+    t = agora()
+    out = []
+    for c in clubes()["clubes"]:
+        if c.get("grupo") != "nacional":
+            continue
+        ms = materias_site(c["slug"], 1)
+        if ms:
+            d = datetime.datetime.fromisoformat(ms[0]["date"]).replace(tzinfo=BR)
+            h = (t - d).total_seconds() / 3600
+            tit = re.sub("<[^>]+>", "", ms[0]["title"]["rendered"])
+        else:
+            h, tit = 999, "(nenhuma)"
+        if h >= limite:
+            out.append((h, c, tit))
+    if not out:
+        print("nenhum")
+        return
+    for h, c, tit in sorted(out, key=lambda x: -x[0]):
+        print(f"- {c['slug']} | {c['nome']} ({c.get('divisao', '')}) | última matéria há {h:.1f}h: {tit}")
+
+
 def cmd_original(a):
     m = baixar(f"https://tudosobrepaulista.com.br/wp-json/wp/v2/materia/{int(a[0])}?_fields=id,date,link,title,content,times")
     import html as _h
@@ -382,6 +408,10 @@ def cmd_adicionar(a):
     for i in h:
         if i["clube"] == c["slug"] and (norm(i["titulo"]) == nt or norm(i["foco"]) == norm(it.get("foco", ""))):
             erros.append(f"repetido: já existe '{i['titulo']}' (foco '{i['foco']}')")
+    if c.get("grupo") == "nacional" and it.get("tipo") not in ("noticia", "coletiva") and not posjogo:
+        erros.append("clube da Série A/B: só notícia ou coletiva atualizada (nada de evergreen)")
+    if c.get("grupo") == "nacional" and not it.get("publish_at"):
+        it["publish_at"] = (agora() + datetime.timedelta(minutes=5)).strftime("%Y-%m-%d %H:%M")
     if it.get("tipo") == "historia" and not pedido:
         dia = (it.get("publish_at") or proximo_slot())[:10]
         hist_dia = [i for i in h if i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"][:10] == dia]
@@ -538,4 +568,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])

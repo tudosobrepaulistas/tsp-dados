@@ -776,7 +776,108 @@
     "https://guiataubate.com.br",
     "https://www.portalr3.com.br"
    ]
+  },
+  {
+   "slug": "palmeiras",
+   "nome": "Palmeiras",
+   "grupo": "nacional",
+   "cidade": "São Paulo",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série A"
+  },
+  {
+   "slug": "santos",
+   "nome": "Santos",
+   "grupo": "nacional",
+   "cidade": "Santos",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série A"
+  },
+  {
+   "slug": "saopaulo",
+   "nome": "São Paulo",
+   "grupo": "nacional",
+   "cidade": "São Paulo",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série A"
+  },
+  {
+   "slug": "corinthians",
+   "nome": "Corinthians",
+   "grupo": "nacional",
+   "cidade": "São Paulo",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série A"
+  },
+  {
+   "slug": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "grupo": "nacional",
+   "cidade": "Bragança Paulista",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série A"
+  },
+  {
+   "slug": "mirassol",
+   "nome": "Mirassol",
+   "grupo": "nacional",
+   "cidade": "Mirassol",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série A"
+  },
+  {
+   "slug": "novorizontino",
+   "nome": "Novorizontino",
+   "grupo": "nacional",
+   "cidade": "Novo Horizonte",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série B"
+  },
+  {
+   "slug": "saobernardo",
+   "nome": "São Bernardo",
+   "grupo": "nacional",
+   "cidade": "São Bernardo do Campo",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série B"
+  },
+  {
+   "slug": "botafogosp",
+   "nome": "Botafogo-SP",
+   "grupo": "nacional",
+   "cidade": "Ribeirão Preto",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série B"
+  },
+  {
+   "slug": "pontepreta",
+   "nome": "Ponte Preta",
+   "grupo": "nacional",
+   "cidade": "Campinas",
+   "site_oficial": "",
+   "redes": [],
+   "jornais_locais": [],
+   "divisao": "Série B"
   }
  ],
- "cota": "07/11/2026: 24 matérias por dia (8 A4, 8 sem divisão, 8 feminino), de 30 em 30 minutos das 9h às 20h30, sempre com foto real e crédito."
+ "cota": "07/11/2026: 24 matérias por dia (8 A4, 8 sem divisão, 8 feminino), de 30 em 30 minutos das 9h às 20h30, sempre com foto real e crédito.",
+ "nota_nacional": "07/11/2026: clubes paulistas das Séries A e B (grupo \"nacional\") são da redação, mas não podem ficar mais de 6h sem matéria; se ficarem, a Máquina escreve (diretrizes/cobertura.md)."
 }
