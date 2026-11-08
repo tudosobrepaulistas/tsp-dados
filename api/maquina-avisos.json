@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-08T17:39-03:00",
+ "gerado": "2026-11-08T20:37-03:00",
  "avisos": [
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-05T21:27-03:00",
-   "motivo": "Única novidade da semana (contratação de Kauan Vinicius, 03/11) só aparece no Futebol Interior; sem 2ª fonte. História do clube já publicada.",
-   "sugestao": "Confirmar no Instagram oficial do Barretos o anúncio do Kauan Vinicius (ex-Desportivo Brasil) e publicar com a lista de reforços para a A4 2027"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-06T07:16-03:00",
-   "motivo": "Pacotão de reforços (Denis Santos, João Monteiro, Bernardo, Giovanni Carignano, Rafinha) só achado no Futebol Interior (05/11); faltou 2ª fonte independente (Instagram do clube não acessível)",
-   "sugestao": "Confirmar com o Tanabi SAF os reforços anunciados em 05/11 (Futebol Interior: https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/) e publicar a lista do elenco 2027"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-06T07:16-03:00",
-   "motivo": "Contratação do zagueiro Luizão (04/11) e peneiras da base de 10 a 12/11 só com 1 fonte cada (Futebol Interior; Porto Ferreira Hoje citando a Prefeitura de Leme)",
-   "sugestao": "Confirmar com o Lemense a contratação do zagueiro Luizão (https://www.futebolinterior.com.br/paulista-a4-lemense-contratacao-luizao/) e as peneiras sub-11 a sub-13 no Bruno Lazarini em 10, 11 e 12/11"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-06T07:17-03:00",
-   "motivo": "Nenhuma notícia nova dos últimos 7 dias confirmada em 2 fontes; retorno do meia Lucas Honório aparece só no O Diário (página bloqueada, data não confirmada)",
-   "sugestao": "Confirmar com o Barretos o retorno do meia Lucas Honório e o andamento da reforma do estádio para a Copinha 2027"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-06T13:16-03:00",
-   "motivo": "Pacote de reforços de 05/11 (Denis Santos, João Monteiro, Bernardo, Giovanni Carignano, Rafinha; auxiliar Papa) só saiu no Futebol Interior; sem 2ª fonte independente",
-   "sugestao": "Confirmar com o Tanabi SAF (Instagram) os reforços anunciados em 05/11 e o início da pré-temporada com Petterson Martins"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-06T13:16-03:00",
-   "motivo": "Zagueiro Luizão (ex-Ponte, 04/11) só no Futebol Interior; sem 2ª fonte",
-   "sugestao": "Confirmar com o Lemense a contratação de Luizão e a reapresentação do elenco marcada para 15/11"
-  },
   {
    "clube": "barretos",
    "nome": "Barretos",
@@ -420,6 +378,48 @@
    "quando": "2026-11-08T17:39-03:00",
    "motivo": "Cobertura 6h (08/11, 17h30): só há notícias do site oficial de sábado (base e convocação), e a Máquina não conseguiu abrir as fotos do clube para conferir (acesso bloqueado nesta execução).",
    "sugestao": "Base do São Paulo: Sub-15 vence o Palmeiras por 2 a 1 e vai à semifinal do Paulista; Sub-17 bate o Corinthians por 3 a 1 no Parque São Jorge na ida das quartas (volta terça, 10, 10h, em Cotia). Fonte: https://www.saopaulofc.net/sub-15-vence-o-palmeiras-e-avanca-a-semifinal-do-paulista-sub-17-supera-o-corinthians-fora-de-casa/ (fotos de Fernando Roberto/São Paulo FC). Outra: Bobadilla convocado pelo Paraguai para amistosos com Singapura (13) e Japão (17)."
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-08T20:37-03:00",
+   "motivo": "Cobertura 6h (20h30 de 08/11): Data Fifa, nenhuma notícia nova do Mirassol nas últimas 24h em 2 fontes; pedido do Atlético-MG à CBF sobre o jogo de 18/11 é de outubro.",
+   "sugestao": "Mirassol x Atlético-MG (18/11): bastidores da reapresentação na Data Fifa e situação contra o Z-4"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-08T20:37-03:00",
+   "motivo": "Cobertura 6h: única notícia das últimas 24h (feminino cai nos pênaltis para o Inter) já publicada pela Máquina às 17h15 no perfil do feminino; nada novo do time principal na Data Fifa.",
+   "sugestao": "Bragantino na Data Fifa: convocados, DM e preparação para a reta final do Brasileirão"
+  },
+  {
+   "clube": "saopaulo",
+   "nome": "São Paulo",
+   "quando": "2026-11-08T20:37-03:00",
+   "motivo": "Cobertura 6h: pautas recentes (desfalques para o Fluminense e amistoso com o Noroeste) já publicadas em 07/11 e 08/11; nada novo confirmado em 2 fontes nas últimas 24h.",
+   "sugestao": "São Paulo: preços dos ingressos (a partir de R$ 90) e organização do amistoso em Bauru na sexta (13)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-08T20:37-03:00",
+   "motivo": "Cobertura 6h: única notícia das últimas 24h (fim do sonho do acesso, DGABC) já publicada no site; nada novo confirmado.",
+   "sugestao": "São Bernardo x Athletic (14/11): despedida da Série B no Primeiro de Maio e planejamento para 2027"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-08T20:37-03:00",
+   "motivo": "Bloco A1: pauta do amistoso com o São Paulo confirmada (Lance!, Terra, JCNET, Tribuna de Jundiaí), mas não achei foto de jogo do Noroeste com crédito oficial que eu pudesse abrir e conferir. Primavera, Ferroviária, Guarani e Juventus sem notícia nova em 48h.",
+   "sugestao": "Noroeste x São Paulo (13/11, 20h, Alfredão): ingressos de R$ 90 a R$ 360, desconto de R$ 30 ao sócio, jogo organizado pela AEC Participações (JCNET); usar foto de jogo do Noroeste"
+  },
+  {
+   "clube": "linense",
+   "nome": "Linense",
+   "quando": "2026-11-08T20:37-03:00",
+   "motivo": "Bloco A2: Linense, Velo Clube, Água Santa e Santo André sem notícia nova confirmada em 2 fontes nas últimas 48h (última do Santo André é de 03/11).",
+   "sugestao": "Santo André: montagem do elenco para a Série A2 de 2027 após a chegada de Júlio Vaz"
   }
  ]
 }
