@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-08T14:36-03:00",
+ "gerado": "2026-11-08T17:39-03:00",
  "avisos": [
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-04T21:37-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias (último post do clube sobre o feminino: 5/10, visita ao Lar dos Velhinhos)",
-   "sugestao": "Balanço da 1ª temporada das Leoas Paulistas em 2026: estreia, primeiro gol e primeiro ponto (1x1 com RB Bragantino) e planos para 2027, ouvindo a gestão do feminino"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-04T21:37-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; tema histórico já usado em 30/10 (títulos do interior)",
-   "sugestao": "Situação do Amparo para a Segunda Divisão 2027: parceria, técnico e estádio (ouvir diretoria)"
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-11-04T21:37-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; matéria histórica recente (31/10)",
-   "sugestao": "Planos do Atlético Mogi para 2027 (Segunda Divisão e base), ouvindo a diretoria ou O Diário de Mogi"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-05T16:09-03:00",
-   "motivo": "Única novidade nova (atacante Levy Moreira, ex-Manaus) só aparece no Futebol Interior de 26/10; sem 2ª fonte independente nem tema histórico novo seguro (história e reforma do estádio já publicadas).",
-   "sugestao": "Confirmar no Instagram oficial do Barretos a contratação do atacante Levy Moreira (21 anos, ex-Manaus, Princesa do Solimões e Fast) e fazer matéria do reforço; ou matéria sobre o vice da Segunda Divisão de 1998."
-  },
   {
    "clube": "barretos",
    "nome": "Barretos",
@@ -420,6 +392,34 @@
    "quando": "2026-11-08T14:36-03:00",
    "motivo": "Cobertura 6h: sem notícia nova nas últimas 24h além da derrota para o Avaí e da perda da chance de acesso, já publicadas.",
    "sugestao": "Bastidores do São Bernardo para 2027: renovações, futuro de Bergantin e calendário do Paulistão após o fim da Série B contra o Athletic"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-08T17:39-03:00",
+   "motivo": "Cobertura 6h (08/11, 17h30): sem notícia nova do Mirassol nas últimas 24h (Data Fifa; site oficial sem novidade desde 04/11).",
+   "sugestao": "Preparação do Mirassol para receber o Atlético-MG no Maião, sábado (14), 18h30: reapresentação, desfalques e venda de ingressos."
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-08T17:39-03:00",
+   "motivo": "Cobertura 6h (08/11, 17h30): sem notícia nova do São Bernardo nas últimas 24h além da derrota para o Avaí, já publicada.",
+   "sugestao": "Despedida da Série B: São Bernardo x Athletic no Primeiro de Maio, sábado (14), 16h30; balanço da campanha e futuro de Bergantin para 2027."
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-08T17:39-03:00",
+   "motivo": "Cobertura 6h (08/11, 17h30): pauta confirmada (comunicado do clube + Terra), mas a Máquina não conseguiu abrir a foto do site do clube para conferir (acesso bloqueado nesta execução).",
+   "sugestao": "Corinthians x Red Bull Bragantino, ida da semifinal do Paulista Sub-20, hoje (08/11), 21h15, no Parque São Jorge; volta quinta (12), 15h, no CPD em Atibaia. Braga teve a melhor campanha da 1ª fase (39 pontos em 14 jogos). Fontes: https://www.redbullbragantino.com/br-pt/noticias/paulista-sub-20-2026-abrindo-a-semifinal-braga-visita-o-corinthians e https://www.terra.com.br/esportes/corinthians/corinthians-x-bragantino-sub-20-onde-assistir-e-escalacoes,c8ce955fddc0b32583af77906b2ab4c4qm9f0d4c.html. Foto do clube: Tuca Moreira (Bruno Sousa/Red Bull Bragantino)."
+  },
+  {
+   "clube": "saopaulo",
+   "nome": "São Paulo",
+   "quando": "2026-11-08T17:39-03:00",
+   "motivo": "Cobertura 6h (08/11, 17h30): só há notícias do site oficial de sábado (base e convocação), e a Máquina não conseguiu abrir as fotos do clube para conferir (acesso bloqueado nesta execução).",
+   "sugestao": "Base do São Paulo: Sub-15 vence o Palmeiras por 2 a 1 e vai à semifinal do Paulista; Sub-17 bate o Corinthians por 3 a 1 no Parque São Jorge na ida das quartas (volta terça, 10, 10h, em Cotia). Fonte: https://www.saopaulofc.net/sub-15-vence-o-palmeiras-e-avanca-a-semifinal-do-paulista-sub-17-supera-o-corinthians-fora-de-casa/ (fotos de Fernando Roberto/São Paulo FC). Outra: Bobadilla convocado pelo Paraguai para amistosos com Singapura (13) e Japão (17)."
   }
  ]
 }
