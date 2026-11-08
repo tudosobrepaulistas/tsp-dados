@@ -2698,22 +2698,43 @@
    "data": "2026-11-07T21:30:00-03:00",
    "casa": "nautico",
    "fora": "crb",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Aflitos",
    "cidade": "Recife",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 3,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Mikael",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Thiaguinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Danielzinho",
+     "minuto": "60",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/times/crb/crb-vence-nautico-no-recife-e-vai-para-ultima-rodada-da-serie-b-no-g-6/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728606-nautico-e-dominado-pelo-crb-e-perde-por-3-a-0-nos-aflitos.html"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-08T00:10:00-03:00",
    "prejogo": {
     "analise": [
      "Náutico e CRB se enfrentam no sábado (7/11), às 21h30, nos Aflitos, em Recife, pela 37ª e penúltima rodada da Série B. Os objetivos são opostos: o Náutico, 15º colocado com 46 pontos, já garantiu matematicamente a permanência na Série B de 2027 e não tem mais pelo que brigar. O CRB é o 6º, com 55 pontos, e ocupa a última vaga dos playoffs de acesso (os dois primeiros sobem direto; do 3º ao 6º disputam as outras duas vagas em mata-mata). O Galo divide a pontuação com Goiás, Sport e Atlético-GO e leva vantagem no desempate pelo número de vitórias (16) e pelo saldo de gols (+3).",

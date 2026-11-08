@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-07T22:25:00-03:00",
+ "gerado": "2026-11-08T00:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11673,14 +11673,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/times/crb/crb-vence-nautico-no-recife-e-vai-para-ultima-rodada-da-serie-b-no-g-6/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728606-nautico-e-dominado-pelo-crb-e-perde-por-3-a-0-nos-aflitos.html"
    ],
    "fixture": {
     "id": 91000140,
     "timestamp": 1794097800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Aflitos",
@@ -11702,8 +11704,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 3
    },
    "penaltis": "",
    "prejogo": {
@@ -11766,7 +11768,56 @@
      "atualizado": "2026-11-07T16:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Thiaguinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 60,
+      "extra": null,
+      "texto": "60"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Danielzinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -13140,14 +13191,14 @@
       6,
       900026,
       "CRB",
-      55,
-      36,
-      16,
+      58,
+      37,
+      17,
       7,
       13,
-      3,
+      6,
       "",
-      54,
+      57,
       51
      ],
      [
@@ -13267,14 +13318,14 @@
       900036,
       "Náutico",
       46,
-      36,
+      37,
       12,
       10,
-      14,
-      -6,
+      15,
+      -9,
       "",
       40,
-      46
+      49
      ],
      [
       16,
@@ -13745,6 +13796,12 @@
     "gols": 2
    },
    {
+    "jogador": "Danielzinho",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 2
+   },
+   {
     "jogador": "Fellipe Mateus",
     "time": "Criciúma",
     "time_id": 900025,
@@ -13844,12 +13901,6 @@
     "jogador": "Daniel Davi",
     "time": "São Bernardo",
     "time_id": 900031,
-    "gols": 1
-   },
-   {
-    "jogador": "Danielzinho",
-    "time": "CRB",
-    "time_id": 900026,
     "gols": 1
    },
    {
@@ -13967,6 +14018,12 @@
     "gols": 1
    },
    {
+    "jogador": "Mikael",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 1
+   },
+   {
     "jogador": "Moraes Jr.",
     "time": "Operário-PR",
     "time_id": 900029,
@@ -14012,6 +14069,12 @@
     "jogador": "Rodriguinho",
     "time": "Fortaleza",
     "time_id": 900024,
+    "gols": 1
+   },
+   {
+    "jogador": "Thiaguinho",
+    "time": "CRB",
+    "time_id": 900026,
     "gols": 1
    },
    {
