@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-08T00:05-03:00",
+ "gerado": "2026-11-08T00:40-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.7.4",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.3.4",
-   "zip": "tsp-nova-era-1.3.4.zip",
-   "notas": "Perfis de treinadores que vieram do Divi (Thiago Oliveira, Raphael Pereira, Fernando Marchiori, Vaguinho Santos, Vinícius Munhoz e Marcelo Lima) remontados sem as anotações de montagem; botões topo/fim; Série B antes do feminino."
+   "versao": "1.3.5",
+   "zip": "tsp-nova-era-1.3.5.zip",
+   "notas": "Limpeza do Divi no site todo: 54 páginas do módulo de código remontadas sem anotações; tabelas de plugin antigo fora de 468 matérias; páginas de tabela vazias levam ao campeonato; restos do ChatGPT removidos."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
