@@ -1,13 +1,6 @@
 {
- "gerado": "2026-11-08T07:36-03:00",
+ "gerado": "2026-11-08T10:42-03:00",
  "avisos": [
-  {
-   "clube": "santa-fe",
-   "nome": "Santa Fé",
-   "quando": "2026-11-03T21:36-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias (entressafra) e sem fonte jornalística suficiente para fechar a campanha do clube como sede da Copinha 2026",
-   "sugestao": "Redator: matéria sobre o Santa Fé como sede do Grupo 1 da Copinha 2026 (Chapecoense, Volta Redonda e Atlético Alagoinhas), com os resultados confirmados no site da FPF, ou se Santa Fé do Sul volta a ser sede em 2027"
-  },
   {
    "clube": "tupa",
    "nome": "Tupã",
@@ -420,6 +413,13 @@
    "quando": "2026-11-08T07:36-03:00",
    "motivo": "Data Fifa: sem notícia nova do Mirassol nas últimas 24h; site oficial com última nota em 04/11 e promoção de ingressos para o Atlético-MG já publicada no TSP",
    "sugestao": "Mirassol x Atlético-MG (sábado, 14/11, 18h30, Maião): como o Leão usa a pausa da Data Fifa, situação do departamento médico e quem volta de suspensão; conferir coletiva/treino no canal oficial do clube"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-08T10:42-03:00",
+   "motivo": "Data Fifa sem jogo até 18/11; nenhuma notícia do Mirassol nas últimas 24h confirmada em 2 fontes aceitas (site oficial sem nota desde 04/11; canal oficial só com transmissões da base)",
+   "sugestao": "Pré-jogo de Mirassol x Atlético-MG (18/11, Maião): situação de João Victor (radar do Athletico-PR) e reapresentação do elenco na Data Fifa, conferindo com o site oficial e o Diário da Região"
   }
  ]
 }
