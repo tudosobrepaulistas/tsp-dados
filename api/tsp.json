@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08T14:15:00-03:00",
+ "gerado": "2026-11-08T14:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11990,7 +11990,41 @@
      "https://gcmais.com.br/noticias/2026/11/03/ceara-recebe-o-america-mg-na-arena-castelao-em-busca-da-permanencia-na-serie-b",
      "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/05/ceara-abre-venda-de-ingressos-contra-o-america-mg-confira-valores.html"
     ],
-    "atualizado": "2026-11-05T19:26:00-03:00"
+    "atualizado": "2026-11-08T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "ESPN",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://opovo.com.br/esportes/futebol/times/ceara/2026/11/07/ceara-recebe-o-america-mg-em-nova-chance-de-garantir-vaga-na-serie-b-de-2027.html",
+      "https://www.lance.com.br/onde-assistir/ceara-x-america-mg-onde-assistir-horario-e-escalacoes.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Daniel Paulista",
+      "time": "Richard; Bryan Borges, Gabriel Rocha, Luiz Otávio e Sávio; João Gabriel, Richardson e Melk; Matheus Araújo, Renzo López e Enzo Lodovico",
+      "desfalques": "Saulo Mineiro (incômodo muscular) e Vinicius Zanocelo (suspenso, 3º amarelo)",
+      "duvidas": "Júlio César (em transição física)"
+     },
+     "fora": {
+      "tecnico": "Moacir Júnior",
+      "time": "Bruno Brígido; Otávio, Ricardo Silva, Emerson e Ostchega; Felipe Amaral, Barreto, Segovinha e Guilherme Parede; Willian Bigode e Paulo Victor",
+      "desfalques": "Rafa Barcelos (suspenso, 3º amarelo), Fábio (lesão muscular na coxa), Alex Silva (lesão no joelho) e Heitor (cirurgia no púbis)",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://opovo.com.br/esportes/futebol/times/ceara/2026/11/07/ceara-recebe-o-america-mg-em-nova-chance-de-garantir-vaga-na-serie-b-de-2027.html"
+     ],
+     "atualizado": "2026-11-08T14:25:00-03:00"
+    }
    },
    "events": []
   },
@@ -12046,7 +12080,41 @@
      "https://cbncampinas.com.br/2026/11/ponte-preta-tem-desfalques-para-duelo-contra-o-goias-fora-de-casa-pela-serie-b/",
      "https://www.gazetaesportiva.com/?p=3823387"
     ],
-    "atualizado": "2026-11-05T19:26:00-03:00"
+    "atualizado": "2026-11-08T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "ESPN",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/goias-x-ponte-preta-onde-assistir-serie-b-37-rodada/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Mozart",
+      "time": "Tadeu; Djalma Silva, Luiz Felipe, Lucas Ribeiro e Nicolas; Filipe Machado, Juninho, Lourenço e Lucas Lima; Kadu Sousa e Felipe Clemente",
+      "desfalques": "",
+      "duvidas": "Juninho ou Lucas Rodrigues no meio-campo"
+     },
+     "fora": {
+      "tecnico": "Gilson Kleina",
+      "time": "Guilherme Viana; Di Mauro, Sérgio Palacios, Gabriel Caran e Júlio (Ryan Andrade); Rodrigo Souza, Karl e Gustavo Telles; David da Hora, Brandão e Danilo Peu (Miguel)",
+      "desfalques": "Vinícius Ferrari (suspenso, 3º amarelo), Danilo Barcelos (suspenso, expulso na última rodada) e Dênis Borges (deixou o clube na temporada)",
+      "duvidas": "Júlio ou Ryan Andrade na lateral; Danilo Peu ou Miguel"
+     },
+     "fontes": [
+      "https://horacampinas.com.br/ponte-chega-a-penultima-rodada-com-a-meta-de-vencer-ao-menos-1-dos-ultimos-2-jogos",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/goias-x-ponte-preta-onde-assistir-serie-b-37-rodada/"
+     ],
+     "atualizado": "2026-11-08T14:25:00-03:00"
+    }
    },
    "events": []
   },
