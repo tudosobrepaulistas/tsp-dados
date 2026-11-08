@@ -341,7 +341,7 @@ def checar_posjogo(it):
             erros.append("Botafogo do Rio: escreva 'Botafogo-RJ' no título (o leitor do TSP pensa no Botafogo-SP)")
     slug = it.get("clube") or casa.get("slug_tsp") or fora.get("slug_tsp") or ""
     it["clube"] = slug
-    it["clubes"] = [x for x in (casa.get("slug_tsp"), fora.get("slug_tsp")) if x]
+    it["clubes"] = list(dict.fromkeys([x for x in (casa.get("slug_tsp"), fora.get("slug_tsp"), it.get("clube")) if x]))
     it["competicao"] = comp
     return {"slug": slug or f"jogo-{j['id']}", "nome": casa.get("nome", "")}, erros
 
