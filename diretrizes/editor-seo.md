@@ -16,6 +16,15 @@ de SEO, AEO e GEO, sem trabalho extra da redação. O site só completa o que es
    - **tags**: 3 a 6 (clube, adversário, competição, jogador ou técnico citados).
    - **intertitulos**: só se a matéria tiver 6 ou mais parágrafos e NÃO tiver intertítulos: 1 a 3 H2 em forma de pergunta
      ("O que disse o técnico?", "Quando é o próximo jogo?"), indicando o número do parágrafo ANTES do qual entram (p >= 3).
+   - **dicas** (só quando a saída marcar `REDATOR`, regra de 08/11/2026): 1 a 4 dicas curtas e educadas para o redator
+     melhorar o SEO desta e das próximas matérias, cada uma dizendo **o que** e **como**, com exemplo tirado da própria
+     matéria. Ex.: "O título não tem o nome do clube no começo: 'Palmeiras renova com Belé até 2031' rende mais busca
+     que 'Renovação confirmada'"; "As tags 'futebol paulista' e 'palmeiras notícias' são genéricas: use o nome do jogador
+     e do adversário (Erick Belé, Vasco)"; "O 1º parágrafo não diz quando: coloque a data (domingo, 8/11)"; "Faltam
+     intertítulos: divida o texto em 2 ou 3 H2 em pergunta". Nada de bronca; não é correção obrigatória (não trava o redator).
+     O site manda as dicas para o redator no painel e por e-mail.
+   - Tags genéricas ("futebol paulista", "X notícias", "mercado da bola", "brasileirão") não contam: o site acrescenta as
+     suas tags quando a matéria tem menos de 3 tags boas.
    Regras: português do Brasil; nada de apostas; opinião só atribuída; sem datas relativas sem a data ("sábado (31/10)").
    Padrão SEO/AEO/GEO (diagnóstico de 29/10/2026):
    - meta_title em frase natural, sem o molde "Jogador no Clube: ..." (ruim: "Lucas Moura São Paulo: Atacante critica...";

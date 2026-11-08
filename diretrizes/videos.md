@@ -1,15 +1,17 @@
 # Vídeos dos canais oficiais dos clubes (coletivas, entrevistas, bastidores, gols)
 
-Regra do Thiago (08/11/2026): **todo vídeo publicado no YouTube oficial dos clubes que cobrimos vira matéria no TSP**,
+Regra do Thiago (08/11/2026): **toda entrevista e coletiva publicada no YouTube oficial dos clubes que cobrimos vira matéria no TSP**
+(a ideia é entrevista: história de torcedor, live de jogo, gols e propaganda **não** entram; a ferramenta já filtra),
 com o vídeo do canal oficial dentro da matéria, a miniatura do vídeo como foto ("Foto: Reprodução/YouTube Canal") e o
 canal do clube citado. A ideia é levar o conteúdo dos clubes para o portal.
 
 ## Passo a passo (cada execução)
 1. `python3 ferramentas/maquina.py videos --horas 36`. Se mostrar `nenhum`, vá ao passo 6.
-2. Pule: Shorts (a ferramenta já tira), transmissões ao vivo de jogo inteiro ("AO VIVO", "JOGO COMPLETO") quando o jogo
-   ainda não terminou, e vídeo que é só propaganda de patrocinador ou de produto. Todo o resto entra, nesta ordem:
-   coletiva e entrevista → bastidores/pré-jogo/boletim → gols e melhores momentos → história e torcida.
-   No máximo 8 matérias por execução (as mais antigas primeiro; as outras ficam para a próxima).
+2. Só entrevistas e coletivas (a ferramenta já mostra só elas). No máximo 8 matérias por execução, as mais antigas primeiro.
+   **Lugar certo no site** (obrigatório):
+   - entrevista do **futebol feminino**: `"clube": "<clube>-feminino"` (ex.: `palmeiras-feminino`), nunca o clube masculino;
+   - entrevista da **base**: escreva a categoria no título ("Sub-20", "Sub-17"...): o site leva para o bloco de base;
+   - profissional masculino: o clube normal. Assim cada vídeo vai para o bloco certo da home.
 3. Para cada vídeo, escreva com o que dá para **confirmar sem inventar**:
    - título e descrição do vídeo (o que a ferramenta mostra) e a miniatura (baixe e olhe a imagem com Read);
    - contexto da base do TSP (último jogo, próximo jogo, tabela: `api/tsp.json`) e de notícias aceitas pelo `CLAUDE.md`;

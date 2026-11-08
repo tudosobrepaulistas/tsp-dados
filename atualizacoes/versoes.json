@@ -1,21 +1,21 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-08T14:45-03:00",
+ "gerado": "2026-11-08T18:10-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.7.7",
-   "zip": "tsp-jogos-1.7.7.zip",
-   "notas": "Tabela das copas ida e volta com navegação entre fases; classificação do Paulistão Feminino no padrão da Série A e B."
+   "versao": "1.7.8",
+   "zip": "tsp-jogos-1.7.8.zip",
+   "notas": "Dicas de SEO para o redator (painel, e-mail e caixa no editor) e tags melhores quando as da matéria são genéricas."
   },
   "tsp-maquina": {
-   "versao": "1.8.3",
-   "zip": "tsp-maquina-1.8.3.zip",
-   "notas": "Matérias de vídeo dos canais oficiais: vídeo do YouTube dentro da matéria, com o canal citado."
+   "versao": "1.8.4",
+   "zip": "tsp-maquina-1.8.4.zip",
+   "notas": "Lixeira de rascunho criado pela Máquina; vídeos dos canais oficiais dentro da matéria."
   },
   "tsp-relatorio": {
-   "versao": "1.9.4",
-   "zip": "tsp-relatorio-1.9.4.zip",
-   "notas": "Trava total: qualquer correção pendente impede publicar; plágio tira do ar e avisa Thiago e Vinicios; limpeza automática de restos de IA/prompt."
+   "versao": "1.9.5",
+   "zip": "tsp-relatorio-1.9.5.zip",
+   "notas": "Audiência: cliques por matéria, Top do dia e do mês, ranking dos redatores. Trava total, plágio e limpeza de prompt."
   },
   "tsp-audio": {
    "versao": "1.1.0",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.4.1",
-   "zip": "tsp-nova-era-1.4.1.zip",
-   "notas": "Blocos novos no fim da home: Categorias de base (destaque Sub-20 + Sub-17/15/13/11) e Futebol feminino de base (1 + 3). Crédito embaixo da foto, textos das fotos, vínculo obrigatório e notícias de CBF/FPF nos blocos."
+   "versao": "1.4.2",
+   "zip": "tsp-nova-era-1.4.2.zip",
+   "notas": "Bloco da copa só com matérias da copa; Libertadores no bloco do Brasileirão com chapéu; links internos automáticos (clubes, campeonatos, jogadores); vitrine com convite e aviso de responsabilidade dos marketplaces; base fora dos vídeos."
   },
   "tsp-shopee": {
    "versao": "1.1.0",

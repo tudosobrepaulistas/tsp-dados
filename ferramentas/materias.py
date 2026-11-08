@@ -9,7 +9,8 @@
 
 Item: {"id": 123, "resumo": ["3 a 5 tópicos curtos"], "faq": [["pergunta", "resposta"], ...],
        "meta_title": "até 60 caracteres", "meta_desc": "até 155 caracteres", "foco": "palavra-chave",
-       "tags": ["3 a 6"], "intertitulos": [{"p": 4, "h2": "Intertítulo antes do 4º parágrafo"}]}
+       "tags": ["3 a 6"], "intertitulos": [{"p": 4, "h2": "Intertítulo antes do 4º parágrafo"}],
+       "dicas": ["só em matéria de REDATOR: até 5 dicas de SEO, cada uma dizendo o que melhorar e como"]}
 O site só preenche o que estiver vazio na matéria; nunca reescreve o texto do jornalista.
 """
 import datetime
@@ -57,7 +58,7 @@ def pendentes(a):
     lista = []
     for tipo in ("materia", "posts"):
         try:
-            lista += baixar(f"{SITE}{tipo}?after={desde}&per_page=30&_fields=id,link,title,content,times,tags")
+            lista += baixar(f"{SITE}{tipo}?after={desde}&per_page=30&_fields=id,link,title,content,times,tags,author")
         except Exception as e:  # noqa: BLE001
             print(f"AVISO: não consegui ler {tipo}: {e}", file=sys.stderr)
     for m in lista:
@@ -65,7 +66,8 @@ def pendentes(a):
             continue
         print(f"=== ID {m['id']} | {html.unescape(m['title']['rendered'])}\n{m['link']}")
         tem_h2 = bool(re.search(r"<h[23][\s>]", m["content"]["rendered"], re.I))
-        print(f"(tem intertítulos: {'sim' if tem_h2 else 'não'}; tags: {len(m.get('tags', []))})")
+        redator = m.get("author") not in (1, 3, 39)
+        print(f"(tem intertítulos: {'sim' if tem_h2 else 'não'}; tags: {len(m.get('tags', []))}; autor {m.get('author')}{' = REDATOR: escreva dicas' if redator else ''})")
         for i, p in enumerate(texto(m["content"]["rendered"]), 1):
             print(f"[{i}] {p}")
         print()
@@ -92,6 +94,9 @@ def adicionar(a):
         for x in it.get("intertitulos", []):
             if not (isinstance(x.get("p"), int) and x["p"] > 1 and x.get("h2")):
                 erros.append(f"{n}: intertítulo mal formado {x!r}")
+        dc = it.get("dicas", [])
+        if not isinstance(dc, list) or len(dc) > 5 or any(not isinstance(x, str) or len(x) < 15 for x in dc):
+            erros.append(f"{n}: dicas = lista de até 5 frases (cada uma com o que melhorar e como)")
     if erros:
         raise SystemExit("ERRO:\n" + "\n".join(erros))
     d = ler()

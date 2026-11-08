@@ -286,6 +286,18 @@ def checar_mostra(foto, titulo, nome_clube):
     return e
 
 
+def cmd_lixeira(a):
+    """lixeira MAQ_ID: manda para a lixeira o RASCUNHO dessa matéria da Máquina (publicada não é tocada)."""
+    alvo = a[0]
+    slot = agora().strftime("%Y-%m-%d %H:%M")
+    it = {"id": "x" + hashlib.md5(alvo.encode()).hexdigest()[:12], "tipo": "lixeira", "alvo": alvo}
+    z = base64.b64encode(gzip.compress(json.dumps(it).encode("utf-8"))).decode()
+    nome = f"{slot.replace('-', '').replace(' ', '-').replace(':', '')}-lixeira-{alvo}.json"
+    gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
+    escrever_indice()
+    print(f"OK: {nome}. Commit, push e avisar-site.")
+
+
 def cmd_trocar_foto(a):
     alvo = a[0]
     def opt(n):
@@ -627,6 +639,8 @@ def cmd_avisar_site(_a):
 
 
 UA_YT = {"User-Agent": "Mozilla/5.0 (TSP-Maquina)"}
+ENTREVISTA = re.compile(r"coletiva|entrevista|\bfala\b|falou|pronunciamento|apresentac|zona mista|exclusiv|bate-papo|papo com|conversa|declarac|apos (a )?(vitoria|derrota|empate|jogo)|pos-jogo|pre-jogo")
+NAO_ENTREVISTA = re.compile(r"ao vivo com imagens|jogo completo|melhores momentos|\bgols\b|torcedor|torcida|#shorts|sorteio|promoc|loja|camisa nova|unboxing")
 
 
 def _get(url):
@@ -680,6 +694,9 @@ def cmd_videos(a):
             if pub < lim or vid in feitos or "/shorts/" in link:
                 continue
             tit = html.unescape(re.search(r"<title>(.*?)</title>", ent).group(1))
+            # Só entrevista/coletiva (regra de 08/11/2026): torcida, história, lives e gols ficam de fora
+            if not ENTREVISTA.search(_sem_acento(tit)) or NAO_ENTREVISTA.search(_sem_acento(tit)):
+                continue
             desc = html.unescape((re.search(r"<media:description>(.*?)</media:description>", ent, re.S) or re.search(r"()", "")).group(1))
             achados.append((pub, k["slug"], yt["nome"], vid, tit, desc))
     achados.sort()
@@ -691,6 +708,7 @@ def cmd_videos(a):
         print(f"  {tit}")
         if desc.strip():
             print("  descrição: " + re.sub(r"\s+", " ", desc)[:600])
+    print("(Só entrevistas e coletivas aparecem aqui. Feminino: use o clube '<clube>-feminino'. Base: 'Sub-20', 'Sub-17'... no título.)")
     print(f"\n{len(achados)} vídeo(s) novos. Clubes sem canal cadastrado ({len(sem)}): {', '.join(sem[:60])}")
 
 
@@ -741,4 +759,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
