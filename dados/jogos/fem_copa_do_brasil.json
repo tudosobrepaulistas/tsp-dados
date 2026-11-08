@@ -139,22 +139,37 @@
    "data": "2026-11-08T11:00:00-03:00",
    "casa": "bragantino",
    "fora": "internacional",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "",
    "fase": "Semifinal - volta",
    "grupo": "",
    "estadio": "Cícero de Souza Marques",
    "cidade": "Bragança Paulista",
-   "gols_casa": null,
-   "gols_fora": null,
-   "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "4x5",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Mylena",
+     "minuto": "76",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jé Soares",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-conhecem-datas-e-horarios-da-semifinal-da-copa-do-brasil-2026"
+    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-conhecem-datas-e-horarios-da-semifinal-da-copa-do-brasil-2026",
+    "https://www.gazetaesportiva.com/times/internacional/internacional-elimina-bragantino-nos-penaltis-e-vai-a-final-da-copa-do-brasil-feminina/",
+    "https://www.lance.com.br/futebol-feminino/internacional-vence-bragantino-nos-penaltis-e-esta-na-final-da-copa-do-brasil-feminina.html"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-08T14:15:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [

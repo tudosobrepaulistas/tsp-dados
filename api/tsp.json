@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08T12:24:00-03:00",
+ "gerado": "2026-11-08T14:15:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -13260,14 +13260,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-conhecem-datas-e-horarios-da-semifinal-da-copa-do-brasil-2026"
+    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-conhecem-datas-e-horarios-da-semifinal-da-copa-do-brasil-2026",
+    "https://www.gazetaesportiva.com/times/internacional/internacional-elimina-bragantino-nos-penaltis-e-vai-a-final-da-copa-do-brasil-feminina/",
+    "https://www.lance.com.br/futebol-feminino/internacional-vence-bragantino-nos-penaltis-e-esta-na-final-da-copa-do-brasil-feminina.html"
    ],
    "fixture": {
     "id": 91000144,
     "timestamp": 1794146400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "PEN",
+     "elapsed": 90
     },
     "venue": {
      "name": "Cícero de Souza Marques",
@@ -13289,10 +13291,10 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 0
    },
-   "penaltis": "",
+   "penaltis": "4x5",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -13358,7 +13360,40 @@
      "atualizado": "2026-11-08T00:31:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Mylena"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Jé Soares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   }
  ],
  "classificacao": {
@@ -14652,9 +14687,21 @@
     "gols": 1
    },
    {
+    "jogador": "Jé Soares",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
     "jogador": "Lelê",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Mylena",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
     "gols": 1
    },
    {
@@ -14989,10 +15036,13 @@
        ],
        "agregado": [
         3,
-        1
+        3
        ],
-       "penaltis": null,
-       "vencedor": null,
+       "penaltis": [
+        5,
+        4
+       ],
+       "vencedor": 900016,
        "jogos": [
         {
          "id": 91000132,
@@ -15011,10 +15061,10 @@
          "data": "2026-11-08T11:00",
          "casa": 900010,
          "fora": 900016,
-         "gc": null,
-         "gf": null,
-         "pen": "",
-         "status": "agendado",
+         "gc": 2,
+         "gf": 0,
+         "pen": "4x5",
+         "status": "encerrado",
          "estadio": "Cícero de Souza Marques",
          "cidade": "Bragança Paulista"
         }
@@ -15037,11 +15087,11 @@
       {
        "times": [
         900001,
-        null
+        900016
        ],
        "nomes": [
         "Flamengo",
-        "Vencedor de Internacional x Red Bull Bragantino"
+        "Internacional"
        ],
        "agregado": null,
        "penaltis": null,
