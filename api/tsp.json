@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08T18:10:00-03:00",
+ "gerado": "2026-11-08T20:11:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -12862,14 +12862,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.dgabc.com.br/Noticia/4349338/cbf-define-datas-e-horarios-das-semifinais-da-copa-do-brasil"
+    "https://www.dgabc.com.br/Noticia/4349338/cbf-define-datas-e-horarios-das-semifinais-da-copa-do-brasil",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vasco-semifinal-copa-do-brasil-08-11-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/carlos-miguel-brilha-palmeiras-bate-vasco-e-vai-a-final-da-copa-do-brasil/"
    ],
    "fixture": {
     "id": 91000133,
     "timestamp": 1794168000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "PEN",
+     "elapsed": 90
     },
     "venue": {
      "name": "São Januário",
@@ -12891,10 +12893,10 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
-   "penaltis": "",
+   "penaltis": "4x5",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -12961,7 +12963,56 @@
      "atualizado": "2026-11-08T12:24:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 15,
+      "extra": null,
+      "texto": "15"
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Colidio"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Piquerez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Puma Rodríguez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "libertadores",
@@ -14842,9 +14893,27 @@
     "gols": 1
    },
    {
+    "jogador": "Colidio",
+    "time": "Vasco",
+    "time_id": 900013,
+    "gols": 1
+   },
+   {
     "jogador": "Maurício",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Piquerez",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Puma Rodríguez",
+    "time": "Vasco",
+    "time_id": 900013,
     "gols": 1
    },
    {
@@ -14910,11 +14979,14 @@
         "Vasco"
        ],
        "agregado": [
-        1,
-        0
+        2,
+        2
        ],
-       "penaltis": null,
-       "vencedor": null,
+       "penaltis": [
+        5,
+        4
+       ],
+       "vencedor": 900002,
        "jogos": [
         {
          "id": 91000130,
@@ -14933,10 +15005,10 @@
          "data": "2026-11-08T17:00",
          "casa": 900013,
          "fora": 900002,
-         "gc": null,
-         "gf": null,
-         "pen": "",
-         "status": "agendado",
+         "gc": 2,
+         "gf": 1,
+         "pen": "4x5",
+         "status": "encerrado",
          "estadio": "São Januário",
          "cidade": "Rio de Janeiro"
         }
@@ -15004,11 +15076,11 @@
      "confrontos": [
       {
        "times": [
-        null,
+        900002,
         900017
        ],
        "nomes": [
-        "Vencedor de Palmeiras x Vasco",
+        "Palmeiras",
         "Grêmio"
        ],
        "agregado": null,

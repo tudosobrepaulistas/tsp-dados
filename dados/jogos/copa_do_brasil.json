@@ -165,22 +165,43 @@
    "data": "2026-11-08T17:00:00-03:00",
    "casa": "vasco",
    "fora": "palmeiras",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "",
    "fase": "Semifinal - volta",
    "grupo": "",
    "estadio": "São Januário",
    "cidade": "Rio de Janeiro",
-   "gols_casa": null,
-   "gols_fora": null,
-   "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "4x5",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Colidio",
+     "minuto": "15",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Piquerez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Puma Rodríguez",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.dgabc.com.br/Noticia/4349338/cbf-define-datas-e-horarios-das-semifinais-da-copa-do-brasil"
+    "https://www.dgabc.com.br/Noticia/4349338/cbf-define-datas-e-horarios-das-semifinais-da-copa-do-brasil",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vasco-semifinal-copa-do-brasil-08-11-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/carlos-miguel-brilha-palmeiras-bate-vasco-e-vai-a-final-da-copa-do-brasil/"
    ],
-   "atualizado": "2026-11-01T01:54:00-03:00",
+   "atualizado": "2026-11-08T20:11:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
