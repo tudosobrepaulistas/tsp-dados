@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08T00:24:00-03:00",
+ "gerado": "2026-11-08T00:32:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -13243,12 +13243,26 @@
     "onde_assistir": {
      "canais": [
       {
+       "nome": "SporTV",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "XSports",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "NSports",
+       "tipo": "streaming"
+      },
+      {
        "nome": "Lance!TV",
        "tipo": "streaming"
       }
      ],
      "fontes": [
-      "https://www.lance.com.br/futebol-feminino/cbf-detalha-semifinal-da-copa-do-brasil-feminina-veja-datas-horarios-e-onde-assistir.html"
+      "https://www.terra.com.br/esportes/bragantino/bragantino-x-internacional-feminino-onde-assistir-escalacoes-e-arbitragem,64c46a91d26f845969ad552fd7992096kaceu5h1.html",
+      "https://www.gazetaesportiva.com/times/internacional/bragantino-x-internacional-provaveis-escalacoes-e-onde-assistir-a-semifinal-da-copa-do-brasil-feminina/",
+      "https://www.lance.com.br/onde-assistir/bragantino-x-internacional-onde-assistir-a-semifinal-da-copa-do-brasil-feminina.html"
      ]
     },
     "analise": [
@@ -13260,13 +13274,35 @@
     "retrospecto": "O único encontro entre as equipes nesta Copa do Brasil foi o jogo de ida da semifinal, na quarta-feira (4/11): Internacional 3 x 1 Red Bull Bragantino, no Beira-Rio, com gols de Valéria Cantuário, Lelê e Sole Jaimes para o Inter e de Camila Ambrozio para as paulistas.",
     "estadio_wiki": "Estádio Cícero de Souza Marques",
     "fontes": [
-     "https://www.lance.com.br/futebol-feminino/inter-vence-o-bragantino-abre-vantagem-e-fica-perto-da-final-da-copa-do-brasil-feminina.html",
+     "https://www.redbullbragantino.com/br-pt/noticias/entrada-gratuita-bragantinas-contam-com-apoio-da-torcida-por-vaga-na-final-da-copa-do-brasil",
+     "https://www.gazetaesportiva.com/times/internacional/bragantino-x-internacional-provaveis-escalacoes-e-onde-assistir-a-semifinal-da-copa-do-brasil-feminina/",
+     "https://www.terra.com.br/esportes/bragantino/bragantino-x-internacional-feminino-onde-assistir-escalacoes-e-arbitragem,64c46a91d26f845969ad552fd7992096kaceu5h1.html",
      "https://correiodeatibaia.com.br/2026/11/04/bragantino-cai-no-beira-rio-mas-gol-de-camila-ambrozio-mantem-equipe-viva-na-semifinal-da-copa-do-brasil-feminina/",
-     "https://www.tribunadosertao.com.br/esportes/2026/11/05/1013977-bragantinas-perdem-jogo-de-ida-da-semi-da-copa-do-brasil-feminina",
      "https://futdasminas.com.br/copa-do-brasil-feminina-veja-os-resultados-dos-jogos-de-ida-das-semifinais/",
-     "https://www.correiodamanha.com.br/esporte/esportes/2026/10/330032-semifinais-da-copa-do-brasil-feminina.html"
+     "https://www.correiodamanha.com.br/esporte/esportes/2026/10/330032-semifinais-da-copa-do-brasil-feminina.html",
+     "https://www.lance.com.br/futebol-feminino/inter-vence-o-bragantino-abre-vantagem-e-fica-perto-da-final-da-copa-do-brasil-feminina.html",
+     "https://www.tribunadosertao.com.br/esportes/2026/11/05/1013977-bragantinas-perdem-jogo-de-ida-da-semi-da-copa-do-brasil-feminina"
     ],
-    "atualizado": "2026-11-05T11:35:00-03:00"
+    "atualizado": "2026-11-08T00:31:00-03:00",
+    "provaveis": {
+     "casa": {
+      "tecnico": "Humberto Simão",
+      "time": "Karol Alves; Catarina, Camila Ambrózio, Jé Soares e Tamires; Carol Tavares, Mylena, Karol Bermúdez e Rafa Mineira; Duda Rodrigues e Miriã",
+      "desfalques": "",
+      "duvidas": ""
+     },
+     "fora": {
+      "tecnico": "Fred Constantino",
+      "time": "Gabi Barbieri; Bianca Martins, Débora e Sorriso; Paola, Lelê, Pati Llanos, Julia Bianchi e Aninha; Valéria Cantuário e Sole Jaimes",
+      "desfalques": "",
+      "duvidas": ""
+     },
+     "fontes": [
+      "https://www.gazetaesportiva.com/times/internacional/bragantino-x-internacional-provaveis-escalacoes-e-onde-assistir-a-semifinal-da-copa-do-brasil-feminina/",
+      "https://www.terra.com.br/esportes/bragantino/bragantino-x-internacional-feminino-onde-assistir-escalacoes-e-arbitragem,64c46a91d26f845969ad552fd7992096kaceu5h1.html"
+     ],
+     "atualizado": "2026-11-08T00:31:00-03:00"
+    }
    },
    "events": []
   }
