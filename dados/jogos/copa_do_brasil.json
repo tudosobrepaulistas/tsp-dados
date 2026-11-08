@@ -100,6 +100,67 @@
    }
   },
   {
+   "id": 91000176,
+   "data": "2026-11-01T18:30:00-03:00",
+   "casa": "gremio",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cbf-define-datas-das-semifinais-de-2026/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/gremio-segura-empate-com-o-atletico-e-esta-na-final-da-copa-do-brasil,bc329834afaaf2d567f936d201f9b570eevam3rz.html",
+    "https://revistaoeste.com/esporte/final-copa-do-brasil-2026-data-local-ingressos/"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  },
+  {
+   "id": 91000177,
+   "data": "2026-11-07T18:00:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Renan Lodi",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Carlos Vinícius",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cbf-define-datas-das-semifinais-de-2026/",
+    "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/gremio-elimina-atletico-semifinal-copa-do-brasil-07-11-2026/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/gremio-segura-empate-com-o-atletico-e-esta-na-final-da-copa-do-brasil,bc329834afaaf2d567f936d201f9b570eevam3rz.html"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  },
+  {
    "id": 91000133,
    "data": "2026-11-08T17:00:00-03:00",
    "casa": "vasco",

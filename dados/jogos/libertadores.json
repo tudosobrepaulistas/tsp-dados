@@ -1,0 +1,122 @@
+{
+ "jogos": [
+  {
+   "id": 91000178,
+   "data": "2026-10-14T21:30:00-03:00",
+   "casa": "fluminense",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.oliberal.com/esportes/palmeiras-sofre-em-casa-mas-vence-fluminense-nos-penaltis-para-ir-a-final-da-libertadores-1.1185369",
+    "https://m.imirante.com/esporte/brasil/2026/10/21/palmeiras-elimina-fluminense-penaltis-avanca-final"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  },
+  {
+   "id": 91000180,
+   "data": "2026-10-15T21:30:00-03:00",
+   "casa": "estudiantes",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Estádio Jorge Luis Hirschi",
+   "cidade": "La Plata (ARG)",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-segura-pressao-do-estudiantes-na-ida-da-semifinal-da-libertadores/",
+    "https://www.gazetaesportiva.com/times/flamengo/estudiantes-flamengo-libertadores-semifinal-ida-2026/"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  },
+  {
+   "id": 91000179,
+   "data": "2026-10-21T21:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Nubank Parque",
+   "cidade": "São Paulo",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "5x3",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.oliberal.com/esportes/palmeiras-sofre-em-casa-mas-vence-fluminense-nos-penaltis-para-ir-a-final-da-libertadores-1.1185369",
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  },
+  {
+   "id": 91000181,
+   "data": "2026-10-22T21:30:00-03:00",
+   "casa": "flamengo",
+   "fora": "estudiantes",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "2x3",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.jb.com.br/esportes/2026/10/1061320-flamengo-e-eliminado-pelo-estudiantes-nos-penaltis-na-libertadores.html",
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  },
+  {
+   "id": 91000184,
+   "data": "2026-11-28T17:00:00-03:00",
+   "casa": "palmeiras",
+   "fora": "estudiantes",
+   "status": "agendado",
+   "rodada": "",
+   "fase": "Final",
+   "grupo": "",
+   "estadio": "Estádio Centenário",
+   "cidade": "Montevidéu (URU)",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "Final em jogo único em Montevidéu. Horário de 17h divulgado pela imprensa; a Conmebol ainda confirma.",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  }
+ ]
+}

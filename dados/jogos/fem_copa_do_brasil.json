@@ -1,6 +1,30 @@
 {
  "jogos": [
   {
+   "id": 91000182,
+   "data": "2026-11-03T19:00:00-03:00",
+   "casa": "bahia",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-brasil-feminino/a/cbf-divulga-tabela-detalhada-da-semifinal-da-copa-do-brasil-feminina",
+    "https://www.flamengo.com.br/noticias/futebol-feminino/flamengo-empata-com-o-bahia-e-vai-decidir-vaga-para-a-final-no-rio",
+    "https://www.lance.com.br/futebol-feminino/flamengo-vence-o-bahia-e-e-o-primeiro-finalista-da-copa-do-brasil-feminina-2.html"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
+  },
+  {
    "id": 91000132,
    "data": "2026-11-04T19:30:00-03:00",
    "casa": "internacional",
@@ -85,6 +109,30 @@
      ]
     }
    }
+  },
+  {
+   "id": 91000183,
+   "data": "2026-11-07T21:30:00-03:00",
+   "casa": "flamengo",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Luso Brasileiro",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-brasil-feminino/a/cbf-divulga-tabela-detalhada-da-semifinal-da-copa-do-brasil-feminina",
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-bahia-e-garante-vaga-nas-finais-da-copa-do-brasil-feminina/",
+    "https://www.lance.com.br/futebol-feminino/flamengo-vence-o-bahia-e-e-o-primeiro-finalista-da-copa-do-brasil-feminina-2.html"
+   ],
+   "atualizado": "2026-11-08T00:20:00-03:00"
   },
   {
    "id": 91000144,

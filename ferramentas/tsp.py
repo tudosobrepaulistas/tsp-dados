@@ -376,6 +376,63 @@ def simulador(classif, tm):
     return out
 
 
+def chaves(cps, tm):
+    """Chaveamento das competições de mata-mata: confrontos por fase, agregado, pênaltis e quem avançou."""
+    idt = {k: v["id"] for k, v in tm.items()}
+    out = {}
+    for c in cps:
+        if c.get("formato") != "mata":
+            continue
+        js = sorted(jogos_de(c["chave"])["jogos"], key=lambda j: j["data"])
+        if not js:
+            continue
+        fases, ordem = {}, []
+        for j in js:
+            nome = re.sub(r"\s*-\s*(ida|volta|jogo \d)$", "", j.get("fase") or "Jogos", flags=re.I).strip() or "Jogos"
+            if nome not in fases:
+                fases[nome] = {}
+                ordem.append(nome)
+            par = tuple(sorted([j["casa"], j["fora"]]))
+            fases[nome].setdefault(par, []).append(j)
+        lista = []
+        for nome in ordem:
+            confs = []
+            for par, jj in fases[nome].items():
+                ag = {par[0]: 0, par[1]: 0}
+                fim = all(x["status"] == "encerrado" for x in jj)
+                pen = None
+                for x in jj:
+                    if x["gols_casa"] is not None:
+                        ag[x["casa"]] += x["gols_casa"]
+                        ag[x["fora"]] += x["gols_fora"]
+                    if x.get("penaltis"):
+                        a, b = [int(v) for v in x["penaltis"].lower().split("x")]
+                        pen = {x["casa"]: a, x["fora"]: b}
+                venc = None
+                if fim:
+                    if ag[par[0]] != ag[par[1]]:
+                        venc = max(par, key=lambda t: ag[t])
+                    elif pen:
+                        venc = max(par, key=lambda t: pen[t])
+                primeiro = jj[0]["casa"], jj[0]["fora"]
+                confs.append({"times": [idt[primeiro[0]], idt[primeiro[1]]], "nomes": [tm[primeiro[0]]["nome"], tm[primeiro[1]]["nome"]],
+                              "agregado": [ag[primeiro[0]], ag[primeiro[1]]] if any(x["gols_casa"] is not None for x in jj) else None,
+                              "penaltis": [pen[primeiro[0]], pen[primeiro[1]]] if pen else None,
+                              "vencedor": idt[venc] if venc else None,
+                              "jogos": [{"id": x["id"], "data": x["data"][:16], "casa": idt[x["casa"]], "fora": idt[x["fora"]], "gc": x["gols_casa"], "gf": x["gols_fora"],
+                                         "pen": x.get("penaltis", ""), "status": x["status"], "estadio": x.get("estadio", ""), "cidade": x.get("cidade", "")} for x in jj]})
+            lista.append({"nome": nome, "confrontos": confs})
+        f = c.get("final")
+        if f and not any(x["nome"].lower().startswith("final") for x in lista):
+            ult = lista[-1]["confrontos"] if lista else []
+            venc = [(x["vencedor"], next((n for t, n in zip(x["times"], x["nomes"]) if t == x["vencedor"]), "")) for x in ult]
+            lista.append({"nome": f.get("fase", "Final"), "prevista": True, "info": f,
+                          "confrontos": [{"times": [v[0] for v in venc], "nomes": [v[1] or ("Vencedor de " + " x ".join(x["nomes"])) for v, x in zip(venc, ult)],
+                                          "agregado": None, "penaltis": None, "vencedor": None, "jogos": []}]})
+        out[c["chave"]] = {"nome": c["nome"], "fases": lista}
+    return out
+
+
 def cmd_calcular(a):
     tm = times()
     cps = competicoes()
@@ -421,7 +478,8 @@ def cmd_calcular(a):
     tsp = {"gerado": iso(agora()), "versao": 1, "simulador": simul,
            "competicoes": cps,
            "times": {str(v["id"]): {"chave": k, "nome": v["nome"], "slug_tsp": v.get("slug_tsp", ""), "wiki": v.get("wiki", "")} for k, v in tm.items()},
-           "jogos": fixtures, "classificacao": classif, "artilharia": {k: v for k, v in artilh.items() if v}}
+           "jogos": fixtures, "classificacao": classif, "artilharia": {k: v for k, v in artilh.items() if v},
+           "chaves": chaves(cps, tm)}
     gravar(API / "tsp.json", tsp)
     print(f"OK: api/tsp.json com {len(fixtures)} jogos, {len(classif)} classificações")
 

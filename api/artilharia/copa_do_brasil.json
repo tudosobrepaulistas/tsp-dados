@@ -1,8 +1,20 @@
 [
  {
+  "jogador": "Carlos Vinícius",
+  "time": "Grêmio",
+  "time_id": 900017,
+  "gols": 1
+ },
+ {
   "jogador": "Maurício",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 1
+ },
+ {
+  "jogador": "Renan Lodi",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  }
 ]

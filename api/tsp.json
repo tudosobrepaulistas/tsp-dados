@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08T00:10:00-03:00",
+ "gerado": "2026-11-08T00:21:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1026,7 +1026,19 @@
    "nome": "Copa do Brasil",
    "temporada": 2026,
    "formato": "mata",
-   "status": "ativa"
+   "status": "ativa",
+   "final": {
+    "fase": "Final",
+    "jogo_unico": true,
+    "data": "2026-12-06",
+    "estadio": "Mané Garrincha",
+    "cidade": "Brasília",
+    "obs": "Jogo único; horário a definir pela CBF.",
+    "fontes": [
+     "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cbf-define-datas-das-semifinais-de-2026/",
+     "https://revistaoeste.com/esporte/final-copa-do-brasil-2026-data-local-ingressos/"
+    ]
+   }
   },
   {
    "chave": "libertadores",
@@ -1061,7 +1073,15 @@
    "nome": "Copa do Brasil Feminina",
    "temporada": 2026,
    "formato": "mata",
-   "status": "ativa"
+   "status": "ativa",
+   "final": {
+    "fase": "Final",
+    "jogo_unico": false,
+    "obs": "Ida e volta; datas e mandos definidos em sorteio da CBF.",
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-bahia-e-garante-vaga-nas-finais-da-copa-do-brasil-feminina/"
+    ]
+   }
   },
   {
    "chave": "fem_libertadores",
@@ -1388,6 +1408,12 @@
    "nome": "Ponte Preta",
    "slug_tsp": "pontepreta",
    "wiki": "Associação Atlética Ponte Preta"
+  },
+  "900041": {
+   "chave": "estudiantes",
+   "nome": "Estudiantes",
+   "slug_tsp": "",
+   "wiki": ""
   }
  },
  "jogos": [
@@ -12531,6 +12557,125 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cbf-define-datas-das-semifinais-de-2026/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/gremio-segura-empate-com-o-atletico-e-esta-na-final-da-copa-do-brasil,bc329834afaaf2d567f936d201f9b570eevam3rz.html",
+    "https://revistaoeste.com/esporte/final-copa-do-brasil-2026-data-local-ingressos/"
+   ],
+   "fixture": {
+    "id": 91000176,
+    "timestamp": 1793568600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cbf-define-datas-das-semifinais-de-2026/",
+    "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/gremio-elimina-atletico-semifinal-copa-do-brasil-07-11-2026/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/gremio-segura-empate-com-o-atletico-e-esta-na-final-da-copa-do-brasil,bc329834afaaf2d567f936d201f9b570eevam3rz.html"
+   ],
+   "fixture": {
+    "id": 91000177,
+    "timestamp": 1794085200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Renan Lodi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Carlos Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.dgabc.com.br/Noticia/4349338/cbf-define-datas-e-horarios-das-semifinais-da-copa-do-brasil"
    ],
    "fixture": {
@@ -12611,6 +12756,262 @@
     ],
     "atualizado": "2026-11-05T17:31:00-03:00"
    },
+   "events": []
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.oliberal.com/esportes/palmeiras-sofre-em-casa-mas-vence-fluminense-nos-penaltis-para-ir-a-final-da-libertadores-1.1185369",
+    "https://m.imirante.com/esporte/brasil/2026/10/21/palmeiras-elimina-fluminense-penaltis-avanca-final"
+   ],
+   "fixture": {
+    "id": 91000178,
+    "timestamp": 1792024200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900005,
+     "name": "Fluminense"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/flamengo-segura-pressao-do-estudiantes-na-ida-da-semifinal-da-libertadores/",
+    "https://www.gazetaesportiva.com/times/flamengo/estudiantes-flamengo-libertadores-semifinal-ida-2026/"
+   ],
+   "fixture": {
+    "id": 91000180,
+    "timestamp": 1792110600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Estádio Jorge Luis Hirschi",
+     "city": "La Plata (ARG)"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900041,
+     "name": "Estudiantes"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.oliberal.com/esportes/palmeiras-sofre-em-casa-mas-vence-fluminense-nos-penaltis-para-ir-a-final-da-libertadores-1.1185369",
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+   ],
+   "fixture": {
+    "id": 91000179,
+    "timestamp": 1792629000,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "5x3",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/libertadores-tudo-sobre-as-semifinais/",
+    "https://www.jb.com.br/esportes/2026/10/1061320-flamengo-e-eliminado-pelo-estudiantes-nos-penaltis-na-libertadores.html",
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+   ],
+   "fixture": {
+    "id": 91000181,
+    "timestamp": 1792715400,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900041,
+     "name": "Estudiantes"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "2x3",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "Final em jogo único em Montevidéu. Horário de 17h divulgado pela imprensa; a Conmebol ainda confirma.",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/"
+   ],
+   "fixture": {
+    "id": 91000184,
+    "timestamp": 1795896000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Estádio Centenário",
+     "city": "Montevidéu (URU)"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900041,
+     "name": "Estudiantes"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
+  },
+  {
+   "liga": "fem_copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-brasil-feminino/a/cbf-divulga-tabela-detalhada-da-semifinal-da-copa-do-brasil-feminina",
+    "https://www.flamengo.com.br/noticias/futebol-feminino/flamengo-empata-com-o-bahia-e-vai-decidir-vaga-para-a-final-no-rio",
+    "https://www.lance.com.br/futebol-feminino/flamengo-vence-o-bahia-e-e-o-primeiro-finalista-da-copa-do-brasil-feminina-2.html"
+   ],
+   "fixture": {
+    "id": 91000182,
+    "timestamp": 1793743200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
    "events": []
   },
   {
@@ -12756,6 +13157,49 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "fem_copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/copa-brasil-feminino/a/cbf-divulga-tabela-detalhada-da-semifinal-da-copa-do-brasil-feminina",
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-bahia-e-garante-vaga-nas-finais-da-copa-do-brasil-feminina/",
+    "https://www.lance.com.br/futebol-feminino/flamengo-vence-o-bahia-e-e-o-primeiro-finalista-da-copa-do-brasil-feminina-2.html"
+   ],
+   "fixture": {
+    "id": 91000183,
+    "timestamp": 1794097800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Luso Brasileiro",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "events": []
   },
   {
    "liga": "fem_copa_do_brasil",
@@ -14092,9 +14536,21 @@
   ],
   "copa_do_brasil": [
    {
+    "jogador": "Carlos Vinícius",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
     "jogador": "Maurício",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Renan Lodi",
+    "time": "Atlético-MG",
+    "time_id": 900006,
     "gols": 1
    }
   ],
@@ -14124,5 +14580,387 @@
     "gols": 1
    }
   ]
+ },
+ "chaves": {
+  "copa_do_brasil": {
+   "nome": "Copa do Brasil",
+   "fases": [
+    {
+     "nome": "Semifinal",
+     "confrontos": [
+      {
+       "times": [
+        900002,
+        900013
+       ],
+       "nomes": [
+        "Palmeiras",
+        "Vasco"
+       ],
+       "agregado": [
+        1,
+        0
+       ],
+       "penaltis": null,
+       "vencedor": null,
+       "jogos": [
+        {
+         "id": 91000130,
+         "data": "2026-11-01T16:00",
+         "casa": 900002,
+         "fora": 900013,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nubank Parque",
+         "cidade": "São Paulo"
+        },
+        {
+         "id": 91000133,
+         "data": "2026-11-08T17:00",
+         "casa": 900013,
+         "fora": 900002,
+         "gc": null,
+         "gf": null,
+         "pen": "",
+         "status": "agendado",
+         "estadio": "São Januário",
+         "cidade": "Rio de Janeiro"
+        }
+       ]
+      },
+      {
+       "times": [
+        900017,
+        900006
+       ],
+       "nomes": [
+        "Grêmio",
+        "Atlético-MG"
+       ],
+       "agregado": [
+        3,
+        1
+       ],
+       "penaltis": null,
+       "vencedor": 900017,
+       "jogos": [
+        {
+         "id": 91000176,
+         "data": "2026-11-01T18:30",
+         "casa": 900017,
+         "fora": 900006,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena do Grêmio",
+         "cidade": "Porto Alegre"
+        },
+        {
+         "id": 91000177,
+         "data": "2026-11-07T18:00",
+         "casa": 900006,
+         "fora": 900017,
+         "gc": 1,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena MRV",
+         "cidade": "Belo Horizonte"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Final",
+     "prevista": true,
+     "info": {
+      "fase": "Final",
+      "jogo_unico": true,
+      "data": "2026-12-06",
+      "estadio": "Mané Garrincha",
+      "cidade": "Brasília",
+      "obs": "Jogo único; horário a definir pela CBF.",
+      "fontes": [
+       "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cbf-define-datas-das-semifinais-de-2026/",
+       "https://revistaoeste.com/esporte/final-copa-do-brasil-2026-data-local-ingressos/"
+      ]
+     },
+     "confrontos": [
+      {
+       "times": [
+        null,
+        900017
+       ],
+       "nomes": [
+        "Vencedor de Palmeiras x Vasco",
+        "Grêmio"
+       ],
+       "agregado": null,
+       "penaltis": null,
+       "vencedor": null,
+       "jogos": []
+      }
+     ]
+    }
+   ]
+  },
+  "libertadores": {
+   "nome": "Libertadores",
+   "fases": [
+    {
+     "nome": "Semifinal",
+     "confrontos": [
+      {
+       "times": [
+        900005,
+        900002
+       ],
+       "nomes": [
+        "Fluminense",
+        "Palmeiras"
+       ],
+       "agregado": [
+        2,
+        2
+       ],
+       "penaltis": [
+        3,
+        5
+       ],
+       "vencedor": 900002,
+       "jogos": [
+        {
+         "id": 91000178,
+         "data": "2026-10-14T21:30",
+         "casa": 900005,
+         "fora": 900002,
+         "gc": 1,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Maracanã",
+         "cidade": "Rio de Janeiro"
+        },
+        {
+         "id": 91000179,
+         "data": "2026-10-21T21:30",
+         "casa": 900002,
+         "fora": 900005,
+         "gc": 0,
+         "gf": 1,
+         "pen": "5x3",
+         "status": "encerrado",
+         "estadio": "Nubank Parque",
+         "cidade": "São Paulo"
+        }
+       ]
+      },
+      {
+       "times": [
+        900041,
+        900001
+       ],
+       "nomes": [
+        "Estudiantes",
+        "Flamengo"
+       ],
+       "agregado": [
+        0,
+        0
+       ],
+       "penaltis": [
+        3,
+        2
+       ],
+       "vencedor": 900041,
+       "jogos": [
+        {
+         "id": 91000180,
+         "data": "2026-10-15T21:30",
+         "casa": 900041,
+         "fora": 900001,
+         "gc": 0,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Estádio Jorge Luis Hirschi",
+         "cidade": "La Plata (ARG)"
+        },
+        {
+         "id": 91000181,
+         "data": "2026-10-22T21:30",
+         "casa": 900001,
+         "fora": 900041,
+         "gc": 0,
+         "gf": 0,
+         "pen": "2x3",
+         "status": "encerrado",
+         "estadio": "Maracanã",
+         "cidade": "Rio de Janeiro"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Final",
+     "confrontos": [
+      {
+       "times": [
+        900002,
+        900041
+       ],
+       "nomes": [
+        "Palmeiras",
+        "Estudiantes"
+       ],
+       "agregado": null,
+       "penaltis": null,
+       "vencedor": null,
+       "jogos": [
+        {
+         "id": 91000184,
+         "data": "2026-11-28T17:00",
+         "casa": 900002,
+         "fora": 900041,
+         "gc": null,
+         "gf": null,
+         "pen": "",
+         "status": "agendado",
+         "estadio": "Estádio Centenário",
+         "cidade": "Montevidéu (URU)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "fem_copa_do_brasil": {
+   "nome": "Copa do Brasil Feminina",
+   "fases": [
+    {
+     "nome": "Semifinal",
+     "confrontos": [
+      {
+       "times": [
+        900007,
+        900001
+       ],
+       "nomes": [
+        "Bahia",
+        "Flamengo"
+       ],
+       "agregado": [
+        2,
+        3
+       ],
+       "penaltis": null,
+       "vencedor": 900001,
+       "jogos": [
+        {
+         "id": 91000182,
+         "data": "2026-11-03T19:00",
+         "casa": 900007,
+         "fora": 900001,
+         "gc": 0,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena Fonte Nova",
+         "cidade": "Salvador"
+        },
+        {
+         "id": 91000183,
+         "data": "2026-11-07T21:30",
+         "casa": 900001,
+         "fora": 900007,
+         "gc": 3,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Luso Brasileiro",
+         "cidade": "Rio de Janeiro"
+        }
+       ]
+      },
+      {
+       "times": [
+        900016,
+        900010
+       ],
+       "nomes": [
+        "Internacional",
+        "Red Bull Bragantino"
+       ],
+       "agregado": [
+        3,
+        1
+       ],
+       "penaltis": null,
+       "vencedor": null,
+       "jogos": [
+        {
+         "id": 91000132,
+         "data": "2026-11-04T19:30",
+         "casa": 900016,
+         "fora": 900010,
+         "gc": 3,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Beira-Rio",
+         "cidade": "Porto Alegre"
+        },
+        {
+         "id": 91000144,
+         "data": "2026-11-08T11:00",
+         "casa": 900010,
+         "fora": 900016,
+         "gc": null,
+         "gf": null,
+         "pen": "",
+         "status": "agendado",
+         "estadio": "Cícero de Souza Marques",
+         "cidade": "Bragança Paulista"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Final",
+     "prevista": true,
+     "info": {
+      "fase": "Final",
+      "jogo_unico": false,
+      "obs": "Ida e volta; datas e mandos definidos em sorteio da CBF.",
+      "fontes": [
+       "https://www.gazetaesportiva.com/times/flamengo/flamengo-vence-bahia-e-garante-vaga-nas-finais-da-copa-do-brasil-feminina/"
+      ]
+     },
+     "confrontos": [
+      {
+       "times": [
+        900001,
+        null
+       ],
+       "nomes": [
+        "Flamengo",
+        "Vencedor de Internacional x Red Bull Bragantino"
+       ],
+       "agregado": null,
+       "penaltis": null,
+       "vencedor": null,
+       "jogos": []
+      }
+     ]
+    }
+   ]
+  }
  }
 }
