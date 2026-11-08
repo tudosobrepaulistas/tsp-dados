@@ -785,7 +785,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Série A"
+   "divisao": "Série A",
+   "youtube": {
+    "id": "UCBKc-rPDivvwFiWdG-81wxw",
+    "nome": "TV Palmeiras",
+    "url": "https://www.youtube.com/@Palmeiras"
+   }
   },
   {
    "slug": "santos",
@@ -795,7 +800,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Série A"
+   "divisao": "Série A",
+   "youtube": {
+    "id": "UC0uRT_armQXqds_rjTjqJ0g",
+    "nome": "SantosTV",
+    "url": "https://www.youtube.com/@SantosFC"
+   }
   },
   {
    "slug": "saopaulo",
@@ -805,7 +815,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Série A"
+   "divisao": "Série A",
+   "youtube": {
+    "id": "UCX3zTAsEoZ61rQMYb_08Tow",
+    "nome": "São Paulo FC",
+    "url": "https://www.youtube.com/spfctv"
+   }
   },
   {
    "slug": "corinthians",
@@ -815,7 +830,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Série A"
+   "divisao": "Série A",
+   "youtube": {
+    "id": "UCqRraVICLr0asn90cAvkIZQ",
+    "nome": "Corinthians TV",
+    "url": "https://www.youtube.com/@corinthians"
+   }
   },
   {
    "slug": "bragantino",

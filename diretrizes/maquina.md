@@ -64,6 +64,12 @@ Faça **um commit e push depois de cada matéria** (se a execução cair no meio
   (veja `historico`) para não canibalizar. **meta_title** até 65, **meta_desc** até 160 com a palavra-chave.
 - **tags**: 3 a 6 (clube, cidade, competição, pessoa citada).
 - **resumo**: 3 a 4 frases curtas ("O que você precisa saber"). **faq**: 3 a 5 perguntas e respostas curtas, só com fatos das fontes.
+- **Fontes no rodapé, não no texto** (boas práticas, 08/11/2026): o campo `fontes` já vira a lista "Fontes" no fim da
+  matéria. No texto, **não** escreva "segundo o site X", "confirmado também por Y", "de acordo com as fontes" em cada
+  frase. Cite o veículo ou jornalista **só** quando a informação for exclusiva dele (furo: "a informação foi publicada
+  primeiro pelo ge") ou quando ele fizer parte da notícia. Nota oficial e coletiva: atribua uma vez ("em nota, o clube
+  informou"; "na coletiva, o técnico disse"). Fala entre aspas sempre com quem disse. A ferramenta recusa texto com
+  mais de 2 "segundo o/de acordo com" ou que fale da checagem.
 - Proibido: apostas/odds/palpites, boato, "segundo informações" sem dizer de quem, opinião ofensiva.
 
 ## Foto (sempre com crédito)
@@ -81,6 +87,11 @@ Ordem de preferência:
   - matéria **histórica**: foto da época ou do personagem; se não existir livre, foto do clube na conquista mais próxima do tema.
   - matéria sobre **uma pessoa** (técnico, jogador, dirigente): foto dessa pessoa.
   - Nunca: arte, card, montagem, escudo, logo, foto de outro clube, foto que não tem ligação com o título.
+- **Olhe a foto antes de usar** (obrigatório desde 08/11/2026): baixe a imagem (`curl -sL URL -o /tmp/foto.jpg`) e abra com
+  Read. Se não conseguir baixar, use a página da notícia no navegador ou escolha outra foto: **nunca descreva uma foto que
+  você não viu**. Selfie, retrato de celular, print de rede social com interface, foto vertical estreita ou com menos de
+  600 px de largura não servem como foto principal. Se o clube não publicou foto daquele jogo, use foto de outro jogo
+  da mesma categoria e do mesmo clube (e diga isso no `mostra`), ou passe para outra matéria.
 - Campo **`foto.mostra` obrigatório**: uma frase dizendo o que a foto mostra (quem, qual jogo ou momento, data). A ferramenta
   confere se cita o clube, se é foto de jogo em matéria de jogo e foto de conquista em matéria de título, e recusa se não for.
   Descreva com honestidade o que está na imagem: se não bate com a matéria, procure outra.

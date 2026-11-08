@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-08T14:10-03:00",
+ "gerado": "2026-11-08T14:45-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.7.7",
@@ -8,9 +8,9 @@
    "notas": "Tabela das copas ida e volta com navegação entre fases; classificação do Paulistão Feminino no padrão da Série A e B."
   },
   "tsp-maquina": {
-   "versao": "1.8.2",
-   "zip": "tsp-maquina-1.8.2.zip",
-   "notas": "Descrição da foto (o que ela mostra) vai para a biblioteca de mídia."
+   "versao": "1.8.3",
+   "zip": "tsp-maquina-1.8.3.zip",
+   "notas": "Matérias de vídeo dos canais oficiais: vídeo do YouTube dentro da matéria, com o canal citado."
   },
   "tsp-relatorio": {
    "versao": "1.9.4",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.4.0",
-   "zip": "tsp-nova-era-1.4.0.zip",
-   "notas": "Crédito embaixo da foto; textos das fotos (alt, título, legenda, descrição) preenchidos sozinhos, inclusive nas antigas; matéria só publica com clube ou campeonato; notícias de CBF/FPF entram no bloco do campeonato."
+   "versao": "1.4.1",
+   "zip": "tsp-nova-era-1.4.1.zip",
+   "notas": "Blocos novos no fim da home: Categorias de base (destaque Sub-20 + Sub-17/15/13/11) e Futebol feminino de base (1 + 3). Crédito embaixo da foto, textos das fotos, vínculo obrigatório e notícias de CBF/FPF nos blocos."
   },
   "tsp-shopee": {
    "versao": "1.1.0",

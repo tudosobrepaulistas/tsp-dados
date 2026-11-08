@@ -34,6 +34,7 @@ import base64
 import datetime
 import gzip
 import hashlib
+import html
 import json
 import random
 import re
@@ -120,7 +121,7 @@ def historico():
 
 
 def slots_ocupados():
-    return {i["publish_at"] for i in historico()["itens"] if i.get("tipo") != "posjogo"}
+    return {i["publish_at"] for i in historico()["itens"] if i.get("tipo") not in ("posjogo", "video", "versao")}
 
 
 def proximo_slot():
@@ -144,7 +145,7 @@ COTA = {"a4": 8, "sem_divisao": 8, "feminino": 8}
 def cota_do_dia(dia):
     cont = {g: 0 for g in COTA}
     for i in historico()["itens"]:
-        if i.get("tipo") != "posjogo" and not i.get("pedido") and i["publish_at"][:10] == dia:
+        if i.get("tipo") not in ("posjogo", "video", "versao") and not i.get("pedido") and i["publish_at"][:10] == dia:
             g = grupo_de(i["clube"])
             if g in cont:
                 cont[g] += 1
@@ -246,6 +247,19 @@ def cmd_versoes_pendentes(a):
         print(f"  {m['link']}")
         print(f"  ótica original: {principal['name']} ({principal['slug']}) | versões que faltam: " + ", ".join(f"{c['name']} ({c['slug']})" for c in faltam))
     print(f"\n{total} versão(ões) pendente(s)." if total else "nenhuma")
+
+
+def checar_citacoes(corpo):
+    """Boas práticas (08/11/2026): fonte vai no rodapé (campo fontes), não repetida no texto."""
+    txt = " ".join(str(b.get("p", "")) for b in corpo if isinstance(b, dict))
+    t = _sem_acento(txt)
+    e = []
+    if re.search(r"(tambem foi confirmad|confirmad[oa]s? (tambem )?(por|pelo|pela)|duas fontes|fontes consultadas|segundo as fontes|de acordo com as fontes|checad[oa] (em|com))", t):
+        e.append("não escreva sobre a checagem no texto ('confirmado também por X', 'duas fontes'): as fontes já aparecem no rodapé da matéria")
+    n = len(re.findall(r"\b(segundo (o|a|os|as)|de acordo com (o|a)|conforme (o|a|publicou|informou)|informou (o|a)|publicou (o|a)|apurou (o|a)|divulgou (o|a))\b", t))
+    if n > 2:
+        e.append(f"excesso de atribuição no texto ({n}x 'segundo o/de acordo com'): cite o veículo só se a informação for exclusiva dele ou se ele for parte da notícia; nota oficial e coletiva: 'em nota', 'na coletiva', uma vez")
+    return e
 
 
 def _sem_acento(t):
@@ -422,6 +436,7 @@ def cmd_adicionar(a):
         return adicionar_versao(it)
     erros = []
     posjogo = it.get("tipo") == "posjogo"
+    video = it.get("tipo") == "video"
     if posjogo:
         c, erro_pj = checar_posjogo(it)
         erros += erro_pj
@@ -434,15 +449,26 @@ def cmd_adicionar(a):
     for k in ("titulo", "subtitulo", "corpo", "resumo", "faq", "meta_title", "meta_desc", "foco", "tags", "fontes", "tipo"):
         if not it.get(k):
             erros.append(f"falta '{k}'")
-    if it.get("tipo") not in ("noticia", "historia", "coletiva", "posjogo"):
-        erros.append("tipo: noticia, historia, coletiva ou posjogo")
+    if it.get("tipo") not in ("noticia", "historia", "coletiva", "posjogo", "video"):
+        erros.append("tipo: noticia, historia, coletiva, posjogo ou video")
+    if video:
+        v = it.get("video") or {}
+        if not re.fullmatch(r"[A-Za-z0-9_-]{11}", str(v.get("id", ""))) or not v.get("canal"):
+            erros.append("video: {id: 'ID de 11 letras do YouTube', canal: 'nome do canal oficial'}")
+        elif any(i.get("video") == v["id"] for i in historico()["itens"]):
+            erros.append("este vídeo já tem matéria")
+        elif not any(v["id"] in f.get("url", "") for f in it.get("fontes", [])):
+            erros.append("a 1ª fonte é o próprio vídeo (https://www.youtube.com/watch?v=ID)")
+        if "youtube" not in json.dumps(it.get("foto") or {}).lower() and "ytimg" not in json.dumps(it.get("foto") or {}):
+            erros.append("foto de vídeo: miniatura do próprio vídeo (i.ytimg.com/vi/ID/maxresdefault.jpg), crédito 'Foto: Reprodução/YouTube Canal'")
     if len(it.get("titulo", "")) > 100 or len(it.get("meta_title", "")) > 65 or len(it.get("meta_desc", "")) > 160:
         erros.append("titulo (100), meta_title (65) ou meta_desc (160) longos demais")
     if not posjogo and c["nome"].split()[0].lower() not in norm(it.get("titulo", "")) and norm(c["nome"]).split()[0] not in norm(it.get("titulo", "")):
         erros.append("o nome do clube precisa estar no título")
     corpo = it.get("corpo", [])
-    if sum(1 for b in corpo if b.get("p")) < 5:
-        erros.append("corpo precisa de pelo menos 5 parágrafos")
+    if sum(1 for b in corpo if b.get("p")) < (4 if video else 5):
+        erros.append("corpo precisa de pelo menos 5 parágrafos (vídeo: 4)")
+    erros += checar_citacoes(corpo)
     if not any(b.get("h2") for b in corpo):
         erros.append("corpo precisa de 1 a 3 intertítulos (h2) em forma de pergunta")
     for b in corpo:
@@ -453,7 +479,7 @@ def cmd_adicionar(a):
     fontes = it.get("fontes", [])
     if it.get("tipo") in ("noticia", "posjogo") and len({f.get("url") for f in fontes}) < 2:
         erros.append("notícia precisa de 2 fontes independentes")
-    if it.get("tipo") in ("historia", "coletiva") and len(fontes) < 1:
+    if it.get("tipo") in ("historia", "coletiva", "video") and len(fontes) < 1:
         erros.append("precisa de fonte")
     for f in fontes:
         if not str(f.get("url", "")).startswith("https://") or FONTE_PROIBIDA.search(f.get("url", "")):
@@ -466,7 +492,7 @@ def cmd_adicionar(a):
     if not posjogo and not foto:
         erros.append("foto obrigatória (07/11/2026): sem foto real com crédito a matéria não entra; procure foto do clube ou passe para outro clube")
     pedido = bool(it.get("pedido"))  # matéria pedida pelo Thiago: fora da cota e dos limites de evergreen
-    if not posjogo and not pedido and c.get("grupo") in COTA:
+    if not posjogo and not video and not pedido and c.get("grupo") in COTA:
         dia_c = (it.get("publish_at") or proximo_slot())[:10]
         if cota_do_dia(dia_c)[c["grupo"]] >= COTA[c["grupo"]]:
             erros.append(f"a cota de {dia_c} para este grupo ({COTA[c['grupo']]} matérias) já está completa: escolha um clube de outro grupo")
@@ -483,7 +509,7 @@ def cmd_adicionar(a):
     for i in h:
         if i["clube"] == c["slug"] and (norm(i["titulo"]) == nt or norm(i["foco"]) == norm(it.get("foco", ""))):
             erros.append(f"repetido: já existe '{i['titulo']}' (foco '{i['foco']}')")
-    if c.get("grupo") in ("nacional", "redacao") and it.get("tipo") not in ("noticia", "coletiva") and not posjogo and not pedido:
+    if c.get("grupo") in ("nacional", "redacao") and it.get("tipo") not in ("noticia", "coletiva", "video") and not posjogo and not pedido:
         erros.append("clube da redação (Séries A/B, A1 a A3): só notícia ou coletiva atualizada (nada de evergreen)")
     if c.get("grupo") in ("nacional", "redacao") and not it.get("publish_at"):
         it["publish_at"] = (agora() + datetime.timedelta(minutes=5)).strftime("%Y-%m-%d %H:%M")
@@ -498,7 +524,9 @@ def cmd_adicionar(a):
         lim = (agora() - datetime.timedelta(days=30)).strftime("%Y-%m-%d")
         if any(i["clube"] == c["slug"] and i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"] >= lim for i in h):
             erros.append("este clube já teve matéria histórica nos últimos 30 dias: peça uma pauta com `sem-pauta` em vez de outra história")
-    if posjogo:
+    if video:
+        slot = (agora() + datetime.timedelta(minutes=3)).strftime("%Y-%m-%d %H:%M")
+    elif posjogo:
         slot = agora().strftime("%Y-%m-%d %H:%M")
         if any(i.get("jogo") == it["jogo"] for i in h):
             erros.append("este jogo já tem matéria pós-jogo")
@@ -513,11 +541,11 @@ def cmd_adicionar(a):
     it["id"] = "m" + hashlib.md5((c["slug"] + it["titulo"]).encode()).hexdigest()[:12]
     FILA.mkdir(parents=True, exist_ok=True)
     z = base64.b64encode(gzip.compress(json.dumps(it, ensure_ascii=False).encode("utf-8"))).decode()
-    nome = f"{slot.replace('-', '').replace(' ', '-').replace(':', '')}-{c['slug']}.json"
+    nome = f"{slot.replace('-', '').replace(' ', '-').replace(':', '')}-{c['slug']}{'-v' + it['video']['id'] if video else ''}.json"
     gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
     escrever_indice()
     d = historico()
-    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None})
+    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id")})
     d["itens"] = d["itens"][-2000:]
     gravar(M / "historico.json", d)
     print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator'})")
@@ -596,6 +624,74 @@ def cmd_avisar_site(_a):
         print("não consegui avisar o site:", e, "(o site lê a fila sozinho em até 15 min)")
 
 
+UA_YT = {"User-Agent": "Mozilla/5.0 (TSP-Maquina)"}
+
+
+def _get(url):
+    with urllib.request.urlopen(urllib.request.Request(url, headers=UA_YT), timeout=30) as r:
+        return r.read().decode("utf-8", "replace"), r.geturl()
+
+
+def cmd_youtube_canal(a):
+    """youtube-canal SLUG URL_DO_CANAL  (ex.: https://www.youtube.com/@saopaulofc). Grava o canal oficial do clube."""
+    slug, url = a[0], a[1]
+    html_, final = _get(url)
+    m = re.search(r'https://www\.youtube\.com/channel/(UC[A-Za-z0-9_-]{22})', html_) or re.search(r'"channelId":"(UC[A-Za-z0-9_-]{22})"', html_)
+    if not m:
+        raise SystemExit("não achei o ID do canal nessa página")
+    cid = m.group(1)
+    feed, _ = _get(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
+    nome = html.unescape(re.search(r"<title>(.*?)</title>", feed).group(1))
+    datas = re.findall(r"<entry>.*?<published>(.*?)</published>", feed, re.S)
+    if not datas or datas[0][:10] < (agora() - datetime.timedelta(days=60)).strftime("%Y-%m-%d"):
+        raise SystemExit(f"canal '{nome}' parado (último vídeo: {datas[0][:10] if datas else 'nenhum'}): não é o canal oficial ativo; procure o link do YouTube no site oficial do clube")
+    d = clubes()
+    for k in d["clubes"]:
+        if k["slug"] == slug:
+            k["youtube"] = {"id": cid, "nome": nome, "url": final}
+            gravar(M / "clubes.json", d)
+            print(f"OK: {slug} → {nome} ({cid}). Confira se é o canal OFICIAL do clube.")
+            return
+    raise SystemExit(f"clube {slug} não está em maquina/clubes.json")
+
+
+def cmd_videos(a):
+    """videos [--horas 36]: vídeos novos dos canais oficiais (sem matéria ainda), do mais antigo para o mais novo."""
+    horas = int(opc(a, "--horas", "36"))
+    lim = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=horas)
+    feitos = {i.get("video") for i in historico()["itens"] if i.get("video")}
+    achados, sem = [], []
+    for k in clubes()["clubes"]:
+        yt = k.get("youtube")
+        if not yt:
+            sem.append(k["slug"])
+            continue
+        try:
+            feed, _ = _get(f"https://www.youtube.com/feeds/videos.xml?channel_id={yt['id']}")
+        except Exception as e:  # noqa: BLE001
+            print(f"! {k['slug']}: feed falhou ({e})")
+            continue
+        for ent in re.findall(r"<entry>(.*?)</entry>", feed, re.S):
+            vid = re.search(r"<yt:videoId>(.*?)</yt:videoId>", ent).group(1)
+            pub = datetime.datetime.fromisoformat(re.search(r"<published>(.*?)</published>", ent).group(1))
+            link = re.search(r'<link rel="alternate" href="([^"]+)"', ent).group(1)
+            if pub < lim or vid in feitos or "/shorts/" in link:
+                continue
+            tit = html.unescape(re.search(r"<title>(.*?)</title>", ent).group(1))
+            desc = html.unescape((re.search(r"<media:description>(.*?)</media:description>", ent, re.S) or re.search(r"()", "")).group(1))
+            achados.append((pub, k["slug"], yt["nome"], vid, tit, desc))
+    achados.sort()
+    if not achados:
+        print("nenhum")
+    for pub, slug, canal, vid, tit, desc in achados:
+        print("=" * 70)
+        print(f"{slug} | canal: {canal} | {pub.astimezone(BR).strftime('%d/%m %H:%M')} | https://www.youtube.com/watch?v={vid}")
+        print(f"  {tit}")
+        if desc.strip():
+            print("  descrição: " + re.sub(r"\s+", " ", desc)[:600])
+    print(f"\n{len(achados)} vídeo(s) novos. Clubes sem canal cadastrado ({len(sem)}): {', '.join(sem[:60])}")
+
+
 def opc(a, n, p=""):
     return a[a.index(n) + 1] if n in a and a.index(n) + 1 < len(a) else p
 
@@ -643,4 +739,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
