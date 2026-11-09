@@ -130,7 +130,12 @@
    "site_oficial": "https://cabandeirante.com.br",
    "redes": [],
    "jornais_locais": [],
-   "grupo": "sem_divisao"
+   "grupo": "sem_divisao",
+   "youtube": {
+    "id": "UCQ40ry4eEI70pS9XLpTT8WQ",
+    "nome": "TV Jaburú",
+    "url": "https://www.youtube.com/@cabande"
+   }
   },
   {
    "slug": "barcelona-capela",
@@ -249,7 +254,12 @@
    "site_oficial": "https://ibrachina.com.br",
    "redes": [],
    "jornais_locais": [],
-   "grupo": "sem_divisao"
+   "grupo": "sem_divisao",
+   "youtube": {
+    "id": "UCIQWRwaldw6yXOilAw-dnNw",
+    "nome": "Ibrachina Oficial",
+    "url": "https://www.youtube.com/channel/UCIQWRwaldw6yXOilAw-dnNw"
+   }
   },
   {
    "slug": "itaquaquecetuba",
@@ -262,7 +272,12 @@
     "https://www.odiariodemogi.net.br",
     "https://www.itaquareporter.com.br"
    ],
-   "grupo": "sem_divisao"
+   "grupo": "sem_divisao",
+   "youtube": {
+    "id": "UCgWZZ9YzJ1edLjhgzqXxGHg",
+    "nome": "IAC TV",
+    "url": "https://www.youtube.com/@iactvoficial"
+   }
   },
   {
    "slug": "josebonifacio",
@@ -515,7 +530,12 @@
     "https://www.diariodaregiao.com.br",
     "https://www.gazetaderiopreto.com.br",
     "https://regiaonoroeste.com"
-   ]
+   ],
+   "youtube": {
+    "id": "UCAieK1DZy5INGhnVPtsYgHw",
+    "nome": "TV Mecão",
+    "url": "https://www.youtube.com/@oficialamericasp"
+   }
   },
   {
    "slug": "barretos",
