@@ -1377,6 +1377,64 @@
      ],
      "atualizado": "2026-10-30T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Umberto Louzer",
+     "time": "Airton; Willean Lepo, César Martins, Luciano Castán, Marcelo Hermes; Ronald, Gui Lobo, Fellipe Mateus; Jhonata Robert, Otero, Nicolas",
+     "entraram": [
+      {
+       "jogador": "Marcinho",
+       "saiu": "Willean Lepo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo",
+       "saiu": "Gui Lobo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Waguininho",
+       "saiu": "Fellipe Mateus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Gonçalves",
+       "saiu": "Jhonata Robert",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yuri Tanque",
+       "saiu": "Nicolas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Gilson Kleina",
+     "time": "Vinícius Ferrari; Di Mauro, Gabriel Caran, Palacios, Danilo Barcelos; Rodrigo Souza, Karl, Dênis Borges; David da Hora, Danilo Peu, Brandão",
+     "entraram": [
+      {
+       "jogador": "Gustavo Almeida",
+       "saiu": "Dênis Borges",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Andrade",
+       "saiu": "David da Hora",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel",
+       "saiu": "Danilo Peu",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.futebolinterior.com.br/criciuma-2-x-0-ponte-preta-tigre-segue-vivo-e-macaca-fica-perto-de-marca-negativa/"
+    ],
+    "atualizado": "2026-11-09T03:47:00-03:00"
    }
   },
   {
@@ -1939,6 +1997,74 @@
      ],
      "atualizado": "2026-11-01T13:26:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Barros",
+     "time": "João Carlos; Igor Inocêncio, João Basso, Vitor Mendes, Lorenzo; Raul, Calebe, David Miguel; Vinícius Peixoto, Kauan Cristthyan, Jean Dias",
+     "entraram": [
+      {
+       "jogador": "Pedro Carminatti",
+       "saiu": "Igor Inocêncio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Mansano",
+       "saiu": "Raul",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Cruz",
+       "saiu": "Vinícius Peixoto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliel",
+       "saiu": "Jean Dias",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Vinícius Bergantin",
+     "time": "Alex Alves; Hugo Sanches, Jemerson, Luizão, Pará; Marcão Silva, Lucas Lima, Foguinho, Lucas Fernandes; Fabrício Daniel, Pedrinho",
+     "entraram": [
+      {
+       "jogador": "Hélder",
+       "saiu": "Jemerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Augusto",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galdino",
+       "saiu": "Foguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Breninho",
+       "saiu": "Lucas Fernandes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Davi",
+       "saiu": "Fabrício Daniel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Garcia",
+       "saiu": "Pedrinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.futebolinterior.com.br/cuiaba-1-x-2-sao-bernardo-2a-vitoria/"
+    ],
+    "atualizado": "2026-11-09T03:48:00-03:00"
    }
   },
   {
@@ -2254,6 +2380,69 @@
      "https://www.cnnbrasil.com.br/esportes/lances-ao-vivo/brasileiro-serie-b-2026/17-07-2026/londrina-x-botafogo-sp/"
     ],
     "atualizado": "2026-11-06T14:27:00-03:00"
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Jordan; Jonathan, Vilar, Darlan; Gabriel Inocêncio, Leandro Maciel, Morelli, Rafael Gava, Patrick Brey; Wesley, Hygor",
+     "entraram": [
+      {
+       "jogador": "Pedrinho",
+       "saiu": "Jonathan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Vieira",
+       "saiu": "Patrick Brey",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Moraes",
+       "saiu": "Wesley",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Hugo",
+       "saiu": "Hygor",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Hugo Emanuel",
+     "time": "Kozlinski; Caio, Wallace, Matheus; André Dhominique, Lucas Marques, Geovane, João Andrade, Artur; Hebert, Igor Bahia",
+     "entraram": [
+      {
+       "jogador": "Nino Paraíba",
+       "saiu": "André Dhominique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cainã",
+       "saiu": "Lucas Marques",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tárik",
+       "saiu": "Geovane",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pablo Dyego",
+       "saiu": "João Andrade",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauã",
+       "saiu": "Igor Bahia",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://botafogofutebolsa.com.br/botafogo-goleia-o-londrina-no-ultimo-jogo-em-casa-na-temporada"
+    ],
+    "atualizado": "2026-11-09T03:45:00-03:00"
    }
   },
   {
@@ -2428,6 +2617,75 @@
      ],
      "atualizado": "2026-11-07T10:30:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marquinhos Santos",
+     "time": "Igor Bohn; João Vitor, Allyson, Reynaldo, Quaresma; Zé Ricardo, Hyan, Wenderson; Luiz Henrique, Jean Lucas; Léo Gamalho",
+     "entraram": [
+      {
+       "jogador": "Wallison",
+       "saiu": "João Vitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gaspar",
+       "saiu": "Hyan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Cipriano",
+       "saiu": "Wenderson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauã Gabriel",
+       "saiu": "Luiz Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcio Vitor",
+       "saiu": "Léo Gamalho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Vinícius Bergantin",
+     "time": "Alex Alves; Hugo Sanches, Marcão Silva, Jemerson, Luizão, Pará; Dudu Miraíma, Lucas Lima, Lucas Fernandes; Pedrinho, Fabrício Daniel",
+     "entraram": [
+      {
+       "jogador": "Daniel Amorim",
+       "saiu": "Hugo Sanches",
+       "minuto": ""
+      },
+      {
+       "jogador": "Foguinho",
+       "saiu": "Dudu Miraíma",
+       "minuto": ""
+      },
+      {
+       "jogador": "Breninho",
+       "saiu": "Lucas Fernandes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Davi",
+       "saiu": "Pedrinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Garcia",
+       "saiu": "Fabrício Daniel",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://avai.com.br/avai-vence-o-sao-bernardo-pela-37a-rodada-da-serie-b/",
+     "https://www.lance.com.br/futebol-nacional/avai-vence-sao-bernardo-por-2-a-1-no-brasileirao-serie-b-2026.html"
+    ],
+    "atualizado": "2026-11-09T03:44:00-03:00"
    }
   },
   {
@@ -2531,6 +2789,69 @@
      ],
      "atualizado": "2026-11-07T10:30:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Enderson Moreira",
+     "time": "Jordi; Madson, Carlinhos, Patrick, Sander; Matheus Bianqui, Luís Oyama, Rômulo; Nicolas Careca, Robson, Reidiney",
+     "entraram": [
+      {
+       "jogador": "Eduardo Brock",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Matheus Bianqui",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maykon Jesus",
+       "saiu": "Rômulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlão",
+       "saiu": "Robson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ronald Barcellos",
+       "saiu": "Reidiney",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Paulo Autuori",
+     "time": "João Ricardo; Lucas Gazal, Bastos, Cardona; Paulinho, Pierre, Jailson, Rodriguinho; Lucas Emanoel, Paulo Baya, Pedro Henrique",
+     "entraram": [
+      {
+       "jogador": "Kaio Henrique",
+       "saiu": "Paulinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Sasha",
+       "saiu": "Pierre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan",
+       "saiu": "Paulo Baya",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cantillo",
+       "saiu": "Pedro Henrique",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.terra.com.br/esportes/futebol/novorizontino-bate-fortaleza-de-virada-e-garante-acesso-inedito-a-elite-do-futebol-brasileiro,bf6850c341b02eb9c8f5477c24859a60cf8y0afr.html"
+    ],
+    "atualizado": "2026-11-09T03:45:00-03:00"
    }
   },
   {
@@ -3064,6 +3385,74 @@
      ],
      "atualizado": "2026-11-08T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mozart",
+     "time": "Tadeu; Djalma, Lucas Ribeiro, Luiz Felipe, Nicolas; Filipe Machado, Lourenço, Lucas Lima; Cadu, Kadu Sousa, Felipe Clemente",
+     "entraram": [
+      {
+       "jogador": "Rodrigo Soares",
+       "saiu": "Djalma",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Menezes",
+       "saiu": "Lucas Ribeiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wellington Rato",
+       "saiu": "Lucas Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Carlos",
+       "saiu": "Cadu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Anselmo Ramon",
+       "saiu": "Felipe Clemente",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Gilson Kleina",
+     "time": "Guilherme Viana; Di Mauro, Gabriel Caran, Palacios, Gustavo Almeida; Rodrigo Souza, Gustavo Telles, Manu, Karl; Danilo Peu, Brandão",
+     "entraram": [
+      {
+       "jogador": "Vitor Ribeiro",
+       "saiu": "Di Mauro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júlio",
+       "saiu": "Gustavo Telles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Andrade",
+       "saiu": "Manu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Rodrigues",
+       "saiu": "Karl",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel",
+       "saiu": "Danilo Peu",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.futebolinterior.com.br/goias-1-x-0-ponte-preta-serie-b/"
+    ],
+    "atualizado": "2026-11-09T03:48:00-03:00"
    }
   },
   {

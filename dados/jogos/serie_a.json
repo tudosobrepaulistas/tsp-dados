@@ -1777,6 +1777,74 @@
      ],
      "atualizado": "2026-10-30T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Clarence Seedorf",
+     "time": "Hugo Souza; Matheuzinho, André Ramalho, Gustavo Henrique, Angileri; André, Breno Bidon, Rodrigo Garro; Kaio César, Yuri Alberto, Matheus Bidu",
+     "entraram": [
+      {
+       "jogador": "Pedro Milans",
+       "saiu": "Matheuzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Angileri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Charles",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Rodrigo Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Carrillo",
+       "saiu": "Kaio César",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Willian Machado, Reinaldo; Neto Moura, Wallisson, Eduardo, Alesson; Bruno Santos, Edson Carioca",
+     "entraram": [
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Denilson",
+       "saiu": "Wallisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luís",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Alesson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Knesowitsch",
+       "saiu": "Edson Carioca",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4366111/corinthians-bate-mirassol-e-tumultua-briga-contra-o-rebaixamento"
+    ],
+    "atualizado": "2026-11-09T03:46:00-03:00"
    }
   },
   {
@@ -2040,6 +2108,75 @@
      ],
      "atualizado": "2026-11-03T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Heitor, Kauan, Eduardo Doma, Bruno Pacheco; Camilo, Yago Felipe, Giovanni Augusto; Marcinho, Túlio Eduardo, Bolasie",
+     "entraram": [
+      {
+       "jogador": "David",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel Carvalho",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Borrero",
+       "saiu": "Marcinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Franco Rossi",
+       "saiu": "Túlio Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kevin Ramírez",
+       "saiu": "Bolasie",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Lucas Oliveira, Reinaldo; Neto Moura, Denilson, Eduardo, Shaylon; Alesson, André Luís",
+     "entraram": [
+      {
+       "jogador": "Willian Machado",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Aldo Filho",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.futebolinterior.com.br/chapecoense-1-x-2-mirassol-leao-vira-e-decreta-1o-rebaixado-no-brasileirao/",
+     "https://mirassolfc.com.br/blogs/news/de-virada-mirassol-vence-chapecoense-na-arena-conda-e-chega-a-40-pontos"
+    ],
+    "atualizado": "2026-11-09T03:47:00-03:00"
    }
   },
   {
@@ -2479,6 +2616,28 @@
      ],
      "atualizado": "2026-11-04T16:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Newton, Arboleda, Tolói; Pedro Lima, Bobadilla, Djhordney, Iago; Artur, Lucas, Luciano",
+     "entraram": []
+    },
+    "fora": {
+     "tecnico": "Clarence Seedorf",
+     "time": "Hugo Souza; Pedro Milans, André Ramalho, Gustavo Henrique, Fabrizio Angileri; Breno Bidon, André, Rodrigo Garro; Matheus Bidu, Kaio César, Yuri Alberto",
+     "entraram": [
+      {
+       "jogador": "Vitinho",
+       "saiu": "Rodrigo Garro",
+       "minuto": "38"
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.lance.com.br/futebol-nacional/ao-vivo-acompanhe-sao-paulo-x-corinthians-pelo-brasileirao.html"
+    ],
+    "atualizado": "2026-11-09T03:45:00-03:00"
    }
   },
   {
@@ -2595,6 +2754,69 @@
      ],
      "atualizado": "2026-11-05T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Gustavo Gómez, Fuchs, Murilo; Khellven, Marlon Freitas, Andreas Pereira, Arthur; Jhon Arias, Vitor Roque, Mauricio",
+     "entraram": [
+      {
+       "jogador": "Barboza",
+       "saiu": "Gustavo Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Evangelista",
+       "saiu": "Marlon Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Flaco López",
+       "saiu": "Jhon Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Mauricio",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Thiago Carpini",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Marlon; Zé Welison, Picco, Patrick; Jajá, Taliari, David Braga",
+     "entraram": [
+      {
+       "jogador": "Yago Pikachu",
+       "saiu": "Marcelinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Ivaldo",
+       "saiu": "Tchamba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mayk",
+       "saiu": "Marlon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Fernando",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Melo",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4367174/palmeiras-passeia-em-casa-faz-6-no-remo-e-se-mantem-na-cola-do-flamengo"
+    ],
+    "atualizado": "2026-11-09T03:46:00-03:00"
    }
   },
   {

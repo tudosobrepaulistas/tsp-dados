@@ -97,6 +97,69 @@
      ],
      "atualizado": "2026-11-01T10:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Murilo, Gustavo Gómez, Barboza; Giay, Marlon Freitas, Lucas Evangelista, Piquerez; Mauricio, Jhon Arias, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Arthur",
+       "saiu": "Barboza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick Belé",
+       "saiu": "Giay",
+       "minuto": ""
+      },
+      {
+       "jogador": "Andreas Pereira",
+       "saiu": "Lucas Evangelista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Roque",
+       "saiu": "Mauricio",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Paulo Henrique, Saldivia, Robert Renan, Piton; Santiago Sosa, Thiago Mendes, Lescano; Adson, Colidio, Bruno Duarte",
+     "entraram": [
+      {
+       "jogador": "Cuiabano",
+       "saiu": "Piton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Rique",
+       "saiu": "Lescano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Adson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Pereira",
+       "saiu": "Colidio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hinestroza",
+       "saiu": "Bruno Duarte",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4366313/palmeiras-pressiona-mas-fica-no-1x0-contra-o-vasco"
+    ],
+    "atualizado": "2026-11-09T03:48:00-03:00"
    }
   },
   {
@@ -267,6 +330,69 @@
      ],
      "atualizado": "2026-11-08T12:24:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Paulo Henrique, Gabriel Pereira, Robert Renan, Cuiabano; Thiago Mendes, Lescano, Sosa; Colidio, Andrés Gómez, Bruno Duarte",
+     "entraram": [
+      {
+       "jogador": "Puma Rodríguez",
+       "saiu": "Paulo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Gabriel Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Piton",
+       "saiu": "Cuiabano",
+       "minuto": ""
+      },
+      {
+       "jogador": "David",
+       "saiu": "Bruno Duarte",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Gustavo Gómez, Murilo, Barboza; Giay, Marlon Freitas, Lucas Evangelista, Piquerez; Jhon Arias, Mauricio, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Fuchs",
+       "saiu": "Murilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramón Sosa",
+       "saiu": "Piquerez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Andreas Pereira",
+       "saiu": "Jhon Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur",
+       "saiu": "Mauricio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Roque",
+       "saiu": "Flaco López",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vasco-semifinal-copa-do-brasil-08-11-2026/"
+    ],
+    "atualizado": "2026-11-09T03:49:00-03:00"
    }
   }
  ]
