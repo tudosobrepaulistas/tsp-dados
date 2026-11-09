@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-09T00:10-03:00",
+ "gerado": "2026-11-09T01:00-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.7.9",
-   "zip": "tsp-jogos-1.7.9.zip",
-   "notas": "Páginas de confronto (/confronto/time-a-x-time-b/) e páginas de jogo com resposta rápida, perguntas frequentes e link de confrontos; dicas de SEO para o redator."
+   "versao": "1.8.0",
+   "zip": "tsp-jogos-1.8.0.zip",
+   "notas": "Páginas de time completas (números da temporada, forma, artilheiros, mais utilizados com campinho, elenco, confrontos, perguntas frequentes) e escalações confirmadas nas páginas de jogo; páginas de confronto."
   },
   "tsp-maquina": {
    "versao": "1.8.5",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.4.2",
-   "zip": "tsp-nova-era-1.4.2.zip",
-   "notas": "Bloco da copa só com matérias da copa; Libertadores no bloco do Brasileirão com chapéu; links internos automáticos (clubes, campeonatos, jogadores); vitrine com convite e aviso de responsabilidade dos marketplaces; base fora dos vídeos."
+   "versao": "1.4.3",
+   "zip": "tsp-nova-era-1.4.3.zip",
+   "notas": "Números da temporada na página dos clubes paulistas; links internos; vitrine com aviso; base e copa nos blocos certos."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
