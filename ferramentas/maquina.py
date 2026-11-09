@@ -729,6 +729,28 @@ def cmd_videos(a):
     print(f"\n{len(achados)} vídeo(s) novos. Clubes sem canal cadastrado ({len(sem)}): {', '.join(sem[:60])}")
 
 
+GRANDES = ("palmeiras", "corinthians", "saopaulo", "santos")
+
+
+def cmd_grandes(a):
+    """grandes: horas desde a última matéria de cada um dos 4 grandes (qualquer autor), o mais esquecido primeiro,
+    com as pautas das últimas 24h de cada um. Regra (09/11/2026): 1 matéria dos 4 grandes a cada 1h30."""
+    linhas = []
+    for s in GRANDES:
+        try:
+            h, t = ultima_materia_de([s])
+        except Exception as e:  # noqa: BLE001
+            h, t = 99, f"(não consegui ler o site: {e})"
+        linhas.append((h, s, t))
+    linhas.sort(reverse=True)
+    mais_recente = min(x[0] for x in linhas)
+    print(f"Última matéria dos 4 grandes: há {mais_recente:.1f}h" + ("  → em dia (menos de 1h20), pode terminar" if mais_recente < 1.33 else "  → PUBLICAR 1 agora"))
+    for h, s, t in linhas:
+        print(f"- {s}: {h:.1f}h sem matéria | última: {t}")
+        for p_ in pautas_de([s])[:4]:
+            print(f"    pauta {p_.get('quando', '')}: {p_['titulo']} | " + " ".join(f['url'] for f in p_.get('fontes', [])))
+
+
 def opc(a, n, p=""):
     return a[a.index(n) + 1] if n in a and a.index(n) + 1 < len(a) else p
 
@@ -776,4 +798,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
