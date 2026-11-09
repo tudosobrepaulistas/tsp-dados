@@ -27,7 +27,10 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
 7. **Suspenso, adiado ou cancelado:** `ocorrencia` com `--obs` dizendo o que aconteceu (ex.: "Suspenso aos 30 do 2º tempo
    por falta de luz; CBF decide a continuação") e, se houver, `--parcial 1x0 --minuto 75`. Não conta na tabela.
 8. **Fontes discordam:** não registra; nova conferência em 30 min. Depois de 3 tentativas sem acordo, deixa como está e avisa no resumo.
-9. **O que acompanhar:** em competição de pontos corridos (Série A, Série B, Paulistão A2/A3/A4) registre **todos** os jogos
+9. **Temporada completa (09/11/2026):** além do que está abaixo, a base guarda TODOS os jogos oficiais da temporada dos
+   times das Séries A e B (estaduais, Nordestão, Copa do Brasil, continentais), com escalações, para as páginas de time e
+   jogador. Regras de fonte iguais (2 fontes no placar). Como fazer: `diretrizes/temporada.md`.
+   **O que acompanhar:** em competição de pontos corridos (Série A, Série B, Paulistão A2/A3/A4) registre **todos** os jogos
    da rodada (a tabela depende disso). Em mata-mata, só os jogos com clube paulista. Em fase de grupos, todos os jogos
    dos grupos que têm clube paulista.
 10. Commit em português: "resultado: Santos 1x2 Palmeiras (serie_a)", "calendário: rodada 34 da Série B", etc.

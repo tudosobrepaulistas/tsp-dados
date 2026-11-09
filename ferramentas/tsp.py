@@ -23,11 +23,18 @@ Comandos (rodar na raiz do repositório):
   python3 ferramentas/tsp.py elenco CHAVE --json ARQUIVO.json
       Elenco atual do time (site oficial do clube): {"fonte": "https://...", "jogadores": [{"nome": "Weverton", "posicao": "Goleiro", "numero": 21}, ...]}
       posicao: Goleiro, Zagueiro, Lateral, Volante, Meia, Atacante.
+  python3 ferramentas/tsp.py competicao-nova --chave baiano --nome "Campeonato Baiano" [--temporada 2026] [--formato historico]
+      Competição da temporada dos times das Séries A e B (estaduais, Nordestão, Copa Verde...). "historico" = sem tabela calculada.
+  python3 ferramentas/tsp.py jogo-passado --comp baiano --data "2026-01-18 16:00" --casa "Vitória" --fora "Bahia" --placar 1x1
+      --fontes URL1 URL2 [--fase "Final - ida"] [--rodada 3] [--estadio X] [--cidade Y] [--penaltis 4x3] [--gols "..."] [--esc ARQUIVO.json]
+      Jogo já disputado (preenchimento da temporada): cria, registra o resultado (2 fontes) e, com --esc, a escalação.
   python3 ferramentas/tsp.py calcular      → gera api/tsp.json (o que o site lê), classificações e artilharia
   python3 ferramentas/tsp.py validar       → confere a base (placar x gols, times, datas)
 Horários sempre de Brasília (UTC-3).
 """
 import datetime
+import sys as _sys
+_sys.path.insert(0, str(__import__("pathlib").Path(__file__).resolve().parent))
 import json
 import re
 import sys
@@ -37,6 +44,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 DADOS = RAIZ / "dados"
 API = RAIZ / "api"
+PREV = {}
 BRT = datetime.timezone(datetime.timedelta(hours=-3))
 CONFERIR_APOS = datetime.timedelta(hours=2, minutes=10)
 FINAIS = {"encerrado"}
@@ -485,6 +493,11 @@ def cmd_elenco(a):
     for x in js:
         if not x.get("nome") or x.get("posicao") not in POSICOES:
             erros.append(f"jogador mal formado (posicao: {', '.join(POSICOES)}): {x!r}")
+        f = x.get("foto")
+        if f and (not str(f.get("url", "")).startswith("https://") or not f.get("credito") or not f.get("fonte")):
+            erros.append(f"{x.get('nome')}: foto precisa de url https, credito e fonte (página oficial do jogador)")
+        if x.get("nascimento") and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(x["nascimento"])):
+            erros.append(f"{x.get('nome')}: nascimento = AAAA-MM-DD")
     if erros:
         raise SystemExit("ERRO:\n" + "\n".join(erros[:12]))
     gravar(DADOS / "elencos" / f"{k}.json", {"time": k, "atualizado": iso(agora()), "fonte": e["fonte"], "jogadores": js})
@@ -523,10 +536,91 @@ def cmd_jogos_sem_escalacao(a):
     print(f"{n} jogo(s) sem escalação")
 
 
+def cmd_competicao_nova(a):
+    d = ler(DADOS / "competicoes.json")
+    k = slug(opc(a, "--chave")).replace("-", "_")
+    if not k or not opc(a, "--nome"):
+        raise SystemExit("ERRO: --chave e --nome")
+    if any(c["chave"] == k for c in d["competicoes"]):
+        print(f"JÁ EXISTE: {k}")
+        return
+    d["competicoes"].append({"chave": k, "nome": opc(a, "--nome"), "temporada": int(opc(a, "--temporada", "2026")),
+                             "formato": opc(a, "--formato", "historico"), "status": "historico"})
+    gravar(DADOS / "competicoes.json", d)
+    if not (DADOS / "jogos" / f"{k}.json").exists():
+        gravar(DADOS / "jogos" / f"{k}.json", {"competicao": k, "jogos": []})
+    print(f"OK: competição {k} criada")
+
+
+def cmd_jogo_passado(a):
+    import io
+    import contextlib
+    if data(opc(a, "--data")) > agora():
+        raise SystemExit("ERRO: jogo-passado é para jogo já disputado (use jogo-novo para os próximos)")
+    if len(set(opc_lista(a, "--fontes"))) < 2:
+        raise SystemExit("ERRO: resultado só entra com 2 fontes diferentes (--fontes URL1 URL2)")
+    buf = io.StringIO()
+    with contextlib.redirect_stdout(buf):
+        cmd_jogo_novo(a)
+    saida = buf.getvalue()
+    m = re.search(r"(?:jogo |JÁ EXISTE: jogo )(\d{8})", saida)
+    if not m:
+        raise SystemExit("ERRO: não consegui criar o jogo:\n" + saida)
+    jid = m.group(1)
+    if "JÁ EXISTE" in saida:
+        _c, _d, j = achar(jid)
+        if j["status"] == "encerrado":
+            print(f"JÁ EXISTE e já tem resultado: jogo {jid}")
+            if opc(a, "--esc") and not j.get("escalacoes"):
+                cmd_escalacao([jid, "--json", opc(a, "--esc")])
+            return
+    resto = [jid, "--placar", opc(a, "--placar"), "--fontes"] + opc_lista(a, "--fontes")
+    for x in ("--gols", "--penaltis", "--obs"):
+        if opc(a, x):
+            resto += [x, opc(a, x)]
+    cmd_resultado(resto)
+    if opc(a, "--esc"):
+        cmd_escalacao([jid, "--json", opc(a, "--esc")])
+
+
+def cmd_temporada(a):
+    """temporada [CHAVE]: sem chave, a fila dos times das Séries A e B (menos jogos registrados primeiro);
+    com chave, os jogos do time por competição e quais estão sem escalação."""
+    tm = times()
+    seriais = set()
+    for c in ("serie_a", "serie_b"):
+        for j in jogos_de(c)["jogos"]:
+            seriais.update((j["casa"], j["fora"]))
+    por_time = {}
+    for c, j in todos_os_jogos():
+        if c.startswith("fem_"):
+            continue
+        for k in (j["casa"], j["fora"]):
+            por_time.setdefault(k, []).append((c, j))
+    if not a:
+        fila = sorted(seriais, key=lambda k: (len([1 for c, j in por_time.get(k, []) if j["status"] == "encerrado"]), k))
+        for k in fila:
+            js = [j for c, j in por_time.get(k, []) if j["status"] == "encerrado"]
+            comps = sorted({c for c, j in por_time.get(k, [])})
+            print(f"{k} | {tm[k]['nome']} | {len(js)} jogos encerrados ({sum(1 for j in js if j.get('escalacoes'))} com escalação) | {', '.join(comps)}")
+        return
+    k = a[0]
+    for c in sorted({c for c, j in por_time.get(k, [])}):
+        js = sorted((j for cc, j in por_time[k] if cc == c), key=lambda x: x["data"])
+        print(f"== {c} ({len(js)} jogos)")
+        for j in js:
+            pl = f"{j['gols_casa']}x{j['gols_fora']}" if j["gols_casa"] is not None else "x"
+            print(f"  {j['id']} {j['data'][:10]} {tm[j['casa']]['nome']} {pl} {tm[j['fora']]['nome']} | {j['status']}{'' if j.get('escalacoes') or j['status'] != 'encerrado' else ' | SEM ESCALAÇÃO'}")
+
+
 def cmd_calcular(a):
     tm = times()
     cps = competicoes()
     fixtures, classif, artilh = [], {}, {}
+    import estatisticas
+    global PREV
+    jpc = {c["chave"]: jogos_de(c["chave"])["jogos"] for c in cps}
+    PREV = estatisticas.previsoes(jpc)
     for c in cps:
         chave = c["chave"]
         artilh[chave] = {}
@@ -554,9 +648,10 @@ def cmd_calcular(a):
                 "teams": {"home": {"id": casa["id"], "name": casa["nome"]}, "away": {"id": fora["id"], "name": fora["nome"]}},
                 "goals": {"home": j["gols_casa"], "away": j["gols_fora"]}, "penaltis": j.get("penaltis", ""),
                 "prejogo": j.get("prejogo", {}),
-                "escalacoes": j.get("escalacoes", {}),
+                "escalacoes": j.get("escalacoes", {}) if ini > agora() - datetime.timedelta(days=60) else {},
+                "previsao": PREV.get(j["id"]),
                 "events": eventos})
-        if c["formato"] in ("pontos", "grupos") and ((DADOS / "base" / f"{chave}.json").exists() or jogos_de(chave)["jogos"]):
+        if c.get("formato") in ("pontos", "grupos") and ((DADOS / "base" / f"{chave}.json").exists() or jogos_de(chave)["jogos"]):
             g = classificar(chave, tm)
             if g and g[0]:
                 classif[chave] = {"grupos": g}
@@ -574,7 +669,8 @@ def cmd_calcular(a):
            "painel_feminino": ler(DADOS / "painel_feminino.json", {}).get("competicoes", []),
            "elencos": {str(tm[f.stem]["id"]): ler(f) for f in sorted((DADOS / "elencos").glob("*.json")) if f.stem in tm}}
     gravar(API / "tsp.json", tsp)
-    print(f"OK: api/tsp.json com {len(fixtures)} jogos, {len(classif)} classificações")
+    n_t = estatisticas.gerar(jpc, tm, cps, iso(agora()))
+    print(f"OK: api/tsp.json com {len(fixtures)} jogos, {len(classif)} classificações, {n_t} páginas de time, {len(PREV)} previsões")
 
 
 def cmd_validar(a):
@@ -606,4 +702,4 @@ if __name__ == "__main__":
         sys.exit(0)
     c, resto = sys.argv[1], sys.argv[2:]
     {"agenda": cmd_agenda, "jogo-novo": cmd_jogo_novo, "remarcar": cmd_remarcar, "resultado": cmd_resultado,
-     "ocorrencia": cmd_ocorrencia, "prejogo": cmd_prejogo, "escalacao": cmd_escalacao, "elenco": cmd_elenco, "elencos-faltando": cmd_elencos_faltando, "jogos-sem-escalacao": cmd_jogos_sem_escalacao, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)
+     "ocorrencia": cmd_ocorrencia, "prejogo": cmd_prejogo, "escalacao": cmd_escalacao, "elenco": cmd_elenco, "elencos-faltando": cmd_elencos_faltando, "competicao-nova": cmd_competicao_nova, "temporada": cmd_temporada, "jogo-passado": cmd_jogo_passado, "jogos-sem-escalacao": cmd_jogos_sem_escalacao, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)
