@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-09T16:50-03:00",
+ "gerado": "2026-11-09T17:20-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.8.2",
@@ -8,9 +8,9 @@
    "notas": "Mapa do site das páginas de time, jogador e confronto (no Yoast e no robots.txt); ficha completa do time e do jogador; prognóstico."
   },
   "tsp-maquina": {
-   "versao": "1.8.5",
-   "zip": "tsp-maquina-1.8.5.zip",
-   "notas": "Pauta usada pela Máquina sai da lista dos redatores; lixeira de rascunho; vídeos oficiais."
+   "versao": "1.8.6",
+   "zip": "tsp-maquina-1.8.6.zip",
+   "notas": "Nova tela \"Aprovação\" no topo do menu: matérias esperando você (pôr foto/jogar fora, botão para as que caducaram), agendadas (publicar agora/cancelar) e pautas (eu faço/descartar)."
   },
   "tsp-relatorio": {
    "versao": "1.9.6",
