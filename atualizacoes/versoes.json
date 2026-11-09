@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-09T03:10-03:00",
+ "gerado": "2026-11-09T03:30-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.8.1",
-   "zip": "tsp-jogos-1.8.1.zip",
-   "notas": "Ficha completa do time (todos os jogos oficiais por competição, jogadores que entraram em campo com minutos, gols, cartões e aproveitamento com/sem cada um, elenco com fotos), página do jogador e prognóstico estatístico nas páginas de jogo."
+   "versao": "1.8.2",
+   "zip": "tsp-jogos-1.8.2.zip",
+   "notas": "Mapa do site das páginas de time, jogador e confronto (no Yoast e no robots.txt); ficha completa do time e do jogador; prognóstico."
   },
   "tsp-maquina": {
    "versao": "1.8.5",
