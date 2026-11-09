@@ -870,7 +870,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Série B"
+   "divisao": "Série B",
+   "youtube": {
+    "id": "UCUQG_P8Y_POiYW7LqAldQVg",
+    "nome": "TV Novorizontino",
+    "url": "https://www.youtube.com/user/gremionovorizontino1"
+   }
   },
   {
    "slug": "saobernardo",
@@ -900,7 +905,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Série B"
+   "divisao": "Série B",
+   "youtube": {
+    "id": "UCx-3QAHIYTasV4ChAAO0UuA",
+    "nome": "PonTV",
+    "url": "https://www.youtube.com/@PonTV"
+   }
   },
   {
    "slug": "capivariano",
