@@ -1,6 +1,130 @@
 {
  "jogos": [
   {
+   "id": 91000185,
+   "data": "2026-06-27T11:00:00-03:00",
+   "casa": "operario-pr",
+   "fora": "america-mg",
+   "status": "encerrado",
+   "rodada": "15",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Germano Krüger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Moraes",
+     "minuto": "64",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3811992",
+    "https://www.oliberal.com/esportes/operario-pr-passa-pelo-lanterna-america-mg-e-encosta-no-g2-da-serie-b-1.1138327"
+   ],
+   "atualizado": "2026-11-09T05:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luizinho Lopes",
+     "time": "Vágner; Mikael Doka, Cuenú, Miranda, Gabriel Feliciano; Matheus Trindade, Vinícius Diniz, Boschilia; Aylon, Pablo, Hildeberto Pereira",
+     "entraram": [
+      {
+       "jogador": "Neto Paraíba",
+       "saiu": "Gabriel Feliciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Índio",
+       "saiu": "Vinícius Diniz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Moraes",
+       "saiu": "Aylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Dantas",
+       "saiu": "Pablo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Augusto",
+       "saiu": "Hildeberto Pereira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Hildeberto Pereira",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Umberto Louzer",
+     "time": "Gustavo; Jhonny, Ricardo Silva, Rafa Barcelos, Dalbert; Felipe Amaral, Eduardo Person, Segovinha; Gabriel Barros, Willian Bigode, Éverton Brito",
+     "entraram": [
+      {
+       "jogador": "Léo Alaba",
+       "saiu": "Jhonny",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jorge Jiménez",
+       "saiu": "Felipe Amaral",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Souza",
+       "saiu": "Eduardo Person",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mastriani",
+       "saiu": "Gabriel Barros",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Victor",
+       "saiu": "Éverton Brito",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Yago Souza",
+        "minuto": ""
+       },
+       {
+        "jogador": "Eduardo Person",
+        "minuto": ""
+       },
+       {
+        "jogador": "Éverton Brito",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/operario-pr-passa-pelo-lanterna-america-mg-e-encosta-no-g2-da-serie-b-1.1138327"
+    ],
+    "atualizado": "2026-11-09T05:39:00-03:00"
+   }
+  },
+  {
    "id": 91000091,
    "data": "2026-10-01T20:30:00-03:00",
    "casa": "athletic-mg",

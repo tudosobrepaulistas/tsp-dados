@@ -160,6 +160,13 @@
    "temporada": 2027,
    "formato": "grupos",
    "status": "aguardando"
+  },
+  {
+   "chave": "mineiro",
+   "nome": "Campeonato Mineiro",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09T04:05:00-03:00",
+ "gerado": "2026-11-09T05:40:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1166,6 +1166,13 @@
    "temporada": 2027,
    "formato": "grupos",
    "status": "aguardando"
+  },
+  {
+   "chave": "mineiro",
+   "nome": "Campeonato Mineiro",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ],
  "times": {
@@ -6741,17 +6748,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
-    "empate": 27,
+    "casa": 55,
+    "empate": 29,
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.41,
-     0.58
+     1.29,
+     0.52
     ],
     "base": [
      7,
-     9
+     10
     ]
    },
    "events": []
@@ -6802,8 +6809,8 @@
     "fora": 78,
     "placar": "0x2",
     "gols_esperados": [
-     0.81,
-     2.74
+     0.82,
+     2.76
     ],
     "base": [
      7,
@@ -6858,8 +6865,8 @@
     "fora": 65,
     "placar": "0x1",
     "gols_esperados": [
-     0.51,
-     1.61
+     0.52,
+     1.62
     ],
     "base": [
      7,
@@ -6910,11 +6917,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 61,
-    "empate": 23,
+    "empate": 22,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.81,
+     1.84,
      0.83
     ],
     "base": [
@@ -6966,12 +6973,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 84,
-    "empate": 11,
+    "empate": 10,
     "fora": 6,
     "placar": "3x0",
     "gols_esperados": [
-     3.17,
-     0.75
+     3.21,
+     0.76
     ],
     "base": [
      9,
@@ -7026,8 +7033,8 @@
     "fora": 45,
     "placar": "1x1",
     "gols_esperados": [
-     1.15,
-     1.5
+     1.17,
+     1.51
     ],
     "base": [
      7,
@@ -7082,8 +7089,8 @@
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.51,
-     0.89
+     1.53,
+     0.9
     ],
     "base": [
      7,
@@ -7138,7 +7145,7 @@
     "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.94,
+     1.96,
      0.86
     ],
     "base": [
@@ -7190,12 +7197,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 54,
-    "empate": 25,
-    "fora": 22,
+    "empate": 24,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.65,
-     0.94
+     1.67,
+     0.95
     ],
     "base": [
      9,
@@ -7250,8 +7257,8 @@
     "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
-     1.36,
-     1.98
+     1.38,
+     2.0
     ],
     "base": [
      7,
@@ -7301,13 +7308,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
+    "casa": 29,
     "empate": 29,
     "fora": 42,
     "placar": "0x1",
     "gols_esperados": [
-     0.93,
-     1.2
+     0.94,
+     1.21
     ],
     "base": [
      7,
@@ -7357,12 +7364,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
-    "empate": 30,
+    "casa": 49,
+    "empate": 29,
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.24,
+     1.26,
      0.74
     ],
     "base": [
@@ -7418,7 +7425,7 @@
     "fora": 8,
     "placar": "1x0",
     "gols_esperados": [
-     1.96,
+     1.99,
      0.5
     ],
     "base": [
@@ -7471,11 +7478,11 @@
    "previsao": {
     "casa": 5,
     "empate": 9,
-    "fora": 85,
+    "fora": 86,
     "placar": "0x3",
     "gols_esperados": [
-     0.85,
-     3.52
+     0.86,
+     3.55
     ],
     "base": [
      7,
@@ -7530,8 +7537,8 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.27,
-     0.99
+     2.3,
+     1.0
     ],
     "base": [
      7,
@@ -7586,8 +7593,8 @@
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.41,
-     0.77
+     1.43,
+     0.78
     ],
     "base": [
      9,
@@ -7642,8 +7649,8 @@
     "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.94,
-     1.54
+     1.96,
+     1.55
     ],
     "base": [
      7,
@@ -7693,13 +7700,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
+    "casa": 63,
     "empate": 22,
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.81,
-     0.77
+     1.84,
+     0.78
     ],
     "base": [
      7,
@@ -7754,8 +7761,8 @@
     "fora": 41,
     "placar": "0x0",
     "gols_esperados": [
-     0.66,
-     0.96
+     0.67,
+     0.97
     ],
     "base": [
      7,
@@ -7810,8 +7817,8 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.32,
-     1.06
+     1.34,
+     1.07
     ],
     "base": [
      7,
@@ -7861,20 +7868,81 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
-    "empate": 24,
-    "fora": 23,
-    "placar": "1x1",
+    "casa": 52,
+    "empate": 25,
+    "fora": 22,
+    "placar": "1x0",
     "gols_esperados": [
-     1.72,
-     1.03
+     1.57,
+     0.93
     ],
     "base": [
-     9,
+     10,
      7
     ]
    },
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3811992",
+    "https://www.oliberal.com/esportes/operario-pr-passa-pelo-lanterna-america-mg-e-encosta-no-g2-da-serie-b-1.1138327"
+   ],
+   "fixture": {
+    "id": 91000185,
+    "timestamp": 1782568800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 15"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 64,
+      "extra": null,
+      "texto": "64"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Moraes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -13476,17 +13544,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 27,
+    "casa": 23,
     "empate": 29,
-    "fora": 44,
+    "fora": 48,
     "placar": "0x1",
     "gols_esperados": [
-     0.91,
-     1.24
+     0.8,
+     1.28
     ],
     "base": [
      7,
-     7
+     8
     ]
    },
    "events": []
@@ -13532,13 +13600,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 65,
+    "casa": 66,
     "empate": 18,
     "fora": 17,
     "placar": "2x1",
     "gols_esperados": [
-     2.49,
-     1.21
+     2.52,
+     1.22
     ],
     "base": [
      7,
@@ -13588,16 +13656,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 39,
-    "empate": 45,
-    "fora": 16,
+    "casa": 32,
+    "empate": 50,
+    "fora": 18,
     "placar": "0x0",
     "gols_esperados": [
-     0.68,
-     0.34
+     0.54,
+     0.32
     ],
     "base": [
-     7,
+     9,
      7
     ]
    },
@@ -13649,8 +13717,8 @@
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.36,
-     0.41
+     1.38,
+     0.42
     ],
     "base": [
      7,
@@ -13705,8 +13773,8 @@
     "fora": 30,
     "placar": "1x0",
     "gols_esperados": [
-     1.19,
-     0.96
+     1.2,
+     0.97
     ],
     "base": [
      7,
@@ -13761,7 +13829,7 @@
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.06,
+     1.07,
      0.44
     ],
     "base": [
@@ -13817,7 +13885,7 @@
     "fora": 40,
     "placar": "0x0",
     "gols_esperados": [
-     0.66,
+     0.67,
      0.94
     ],
     "base": [
@@ -13873,8 +13941,8 @@
     "fora": 43,
     "placar": "0x1",
     "gols_esperados": [
-     0.94,
-     1.24
+     0.96,
+     1.25
     ],
     "base": [
      7,
@@ -13924,12 +13992,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
+    "casa": 65,
     "empate": 22,
-    "fora": 14,
+    "fora": 13,
     "placar": "1x0",
     "gols_esperados": [
-     1.81,
+     1.84,
      0.69
     ],
     "base": [
@@ -13981,12 +14049,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 32,
-    "empate": 31,
+    "empate": 30,
     "fora": 37,
     "placar": "0x1",
     "gols_esperados": [
-     0.96,
-     1.06
+     0.98,
+     1.07
     ],
     "base": [
      7,
@@ -15130,6 +15198,50 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3765136",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/nos-penaltis-atletico-mg-vence-o-america-mg-e-esta-na-final-do-mineiro/"
+   ],
+   "fixture": {
+    "id": 91000186,
+    "timestamp": 1772398800,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Independência",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "2x4",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   }
  ],
  "classificacao": {
@@ -16350,6 +16462,12 @@
     "jogador": "Mikael",
     "time": "CRB",
     "time_id": 900026,
+    "gols": 1
+   },
+   {
+    "jogador": "Moraes",
+    "time": "Operário-PR",
+    "time_id": 900029,
     "gols": 1
    },
    {
