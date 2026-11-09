@@ -22,6 +22,10 @@ Tudo vem do campo "prejogo" do jogo, gravado com `python3 ferramentas/tsp.py pre
    "fontes": ["https://...", "https://..."]},
  "analise": ["2 a 6 parágrafos ..."],
  "retrospecto": "1 parágrafo sobre o histórico do confronto, com números e a fonte",
+   (desde 08/11/2026 ele também vira a seção "Histórico do confronto" da página /confronto/time-a-x-time-b/: traga o retrospecto
+   geral SÓ se uma matéria jornalística ou o site oficial citar os números, o último encontro e 1 ou 2 jogos marcantes
+   da história do clássico (decisão, goleada, título) com data e placar confirmados. Nunca tire números de oGol,
+   Sofascore, Transfermarkt ou afins; sem fonte para o total, fale só dos jogos marcantes.)
  "estadio_wiki": "Estádio Heriberto Hülse",
  "fontes": ["https://... usadas na análise e no retrospecto"]
 }

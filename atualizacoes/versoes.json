@@ -1,21 +1,21 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-08T18:10-03:00",
+ "gerado": "2026-11-09T00:10-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.7.8",
-   "zip": "tsp-jogos-1.7.8.zip",
-   "notas": "Dicas de SEO para o redator (painel, e-mail e caixa no editor) e tags melhores quando as da matéria são genéricas."
+   "versao": "1.7.9",
+   "zip": "tsp-jogos-1.7.9.zip",
+   "notas": "Páginas de confronto (/confronto/time-a-x-time-b/) e páginas de jogo com resposta rápida, perguntas frequentes e link de confrontos; dicas de SEO para o redator."
   },
   "tsp-maquina": {
-   "versao": "1.8.4",
-   "zip": "tsp-maquina-1.8.4.zip",
-   "notas": "Lixeira de rascunho criado pela Máquina; vídeos dos canais oficiais dentro da matéria."
+   "versao": "1.8.5",
+   "zip": "tsp-maquina-1.8.5.zip",
+   "notas": "Pauta usada pela Máquina sai da lista dos redatores; lixeira de rascunho; vídeos oficiais."
   },
   "tsp-relatorio": {
-   "versao": "1.9.5",
-   "zip": "tsp-relatorio-1.9.5.zip",
-   "notas": "Audiência: cliques por matéria, Top do dia e do mês, ranking dos redatores. Trava total, plágio e limpeza de prompt."
+   "versao": "1.9.6",
+   "zip": "tsp-relatorio-1.9.6.zip",
+   "notas": "Pautas de todos os clubes para o administrador; pauta feita por ele ou pela Máquina sai da lista dos redatores; pautas pedidas pela Máquina vão para quem cobre o clube. Audiência e ranking."
   },
   "tsp-audio": {
    "versao": "1.1.0",
