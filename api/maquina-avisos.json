@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-09T17:24-03:00",
+ "gerado": "2026-11-09T20:37-03:00",
  "avisos": [
-  {
-   "clube": "centro-olimpico",
-   "nome": "Centro Olímpico",
-   "quando": "2026-11-07T11:13-03:00",
-   "motivo": "Resultado da semifinal do Paulista Feminino Sub-17 (07/11) ainda não saiu em 2 fontes; sem foto do time feminino",
-   "sugestao": "Centro Olímpico x São Paulo na semifinal do Paulista F Sub-17 (volta 14/11, 10h) e a tabela da Copinha Feminina (Grupo C, Ceret)"
-  },
-  {
-   "clube": "cosmopolitano",
-   "nome": "Cosmopolitano",
-   "quando": "2026-11-07T11:13-03:00",
-   "motivo": "Notícia boa, mas sem foto segura do clube",
-   "sugestao": "Cosmopolitano vence o Mirassol por 2 a 1 na ida das quartas do Paulista Sub-14; volta domingo (8/11), 10h40, em Bálsamo — pedir foto ao clube"
-  },
-  {
-   "clube": "santa-fe",
-   "nome": "Santa Fé",
-   "quando": "2026-11-07T11:13-03:00",
-   "motivo": "Copa CCF (Grupo 2, Bragança Paulista) sem foto oficial do clube",
-   "sugestao": "Santa Fé na Copa CCF com Bragantino, Ituano, Brasilis e Atlético Guaratinguetá, com foto pedida ao clube"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-08T06:47-03:00",
-   "motivo": "Única novidade (zagueiro Luizão, 04/11) só no Futebol Interior; sem 2ª fonte nem foto do clube",
-   "sugestao": "Confirmar no Instagram do Lemense a chegada do zagueiro Luizão (ex-Ponte Preta) e fazer matéria com a lista de reforços para a A4 2027"
-  },
   {
    "clube": "barretos",
    "nome": "Barretos",
@@ -420,6 +392,34 @@
    "quando": "2026-11-09T17:24-03:00",
    "motivo": "Cobertura 6h bloco A2 (09/11): nenhuma notícia das últimas 48h confirmada para Linense, Velo Clube, Água Santa ou Santo André (último anúncio do Santo André, Sérgio Raphael, é de 04/11, e já há matéria recente de reforços).",
    "sugestao": "Redação: Linense - reforços anunciados para a Série A2 do centenário (conferir Instagram oficial e Jornal Debate de Lins); Velo Clube - definição do técnico para a A2 2027 (Jornal Cidade de Rio Claro)."
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-09T20:37-03:00",
+   "motivo": "Notícia confirmada (CBF antecipou Ponte x Operário-PR para quinta 12/11, 19h, no Ítalo Limongi, em Indaiatuba; antes sábado 14/11, 16h30, no Majestoso — CBN Campinas, Diário dos Campos e aRede), mas sem foto de jogo utilizável: site da Ponte bloqueado para a Máquina e nenhum vídeo do canal oficial encontrado",
+   "sugestao": "Ponte Preta x Operário-PR antecipado pela CBF para quinta (12/11), às 19h, em Indaiatuba; usar foto de jogo do site oficial da Ponte"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-09T20:37-03:00",
+   "motivo": "Pauta fresca: sub-20 venceu o Corinthians por 1x0 na Fazendinha (ida da semi do Paulista, gol de Luís Gustavo; volta quinta 12/11, 15h, CT de Atibaia — site do clube e Terra), mas a foto do site do clube não pôde ser baixada e conferida; vídeo da FPF só tem arte. Eliminação do feminino já passou de 24h",
+   "sugestao": "Bragantino sub-20 vence o Corinthians fora e joga pelo empate na volta da semifinal do Paulista, quinta (12/11), em Atibaia"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-09T20:37-03:00",
+   "motivo": "Nenhum fato novo nas últimas 24h confirmado em 2 fontes (só análise do DGABC sobre a campanha); última rodada contra o Athletic ainda sem data/horário confirmados em 2 fontes",
+   "sugestao": "Balanço da campanha do São Bernardo na Série B (DGABC 09/11) e serviço do jogo contra o Athletic no Primeiro de Maio"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-09T20:37-03:00",
+   "motivo": "Sem fato novo nas últimas 24h além do acesso e da decisão do título em Criciúma, já publicados no site",
+   "sugestao": "Bastidores da semana do Novorizontino antes da decisão do título contra o Criciúma (treinos, desfalques, torcida)"
   }
  ]
 }
