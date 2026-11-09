@@ -1,55 +1,6 @@
 {
- "gerado": "2026-11-08T23:40-03:00",
+ "gerado": "2026-11-09T08:37-03:00",
  "avisos": [
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-06T13:19-03:00",
-   "motivo": "Site oficial das Sereias não abriu; sem notícia recente confirmada em 2 fontes",
-   "sugestao": "Prévia de Santos x São Paulo (17/11, Pacaembu) pelo Paulistão Feminino"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-06T19:20-03:00",
-   "motivo": "Só achei a Agência Futebol Interior (06/11) dizendo que o atacante Kadu Barone 'pode ser oficializado' nesta semana: ainda não é anúncio oficial e não há 2ª fonte.",
-   "sugestao": "Confirmar com o Barretos o anúncio de Kadu Barone (31 anos, 8 gols pela Inter de Bebedouro na A4 2026) e dos reforços Levy Moreira e Kauan Vinícius."
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-06T19:20-03:00",
-   "motivo": "Novos reforços (Denis Santos, João Monteiro, Bernardo, Giovanni Carignano, Rafinha) só na Agência Futebol Interior de 05/11; sem 2ª fonte independente encontrada.",
-   "sugestao": "Conferir nas redes do Tanabi SAF o pacote de reforços de 05/11 (zagueiro Denis Santos, volante João Monteiro, atacantes Bernardo, Giovanni Carignano e Rafinha) e publicar com o post oficial."
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-06T19:20-03:00",
-   "motivo": "Zagueiro Luizão (21 anos, ex-Ponte Preta e Sertãozinho) anunciado em 04/11 só aparece na Agência Futebol Interior; sem 2ª fonte.",
-   "sugestao": "Confirmar nas redes do Lemense a contratação do zagueiro Luizão (Luiz Eduardo da Silva Rocha) e montar matéria com o elenco já fechado para a A4 2027."
-  },
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-06T19:23-03:00",
-   "motivo": "Vitória de 3x2 sobre o Palmeiras na ida da semi do Paulista F Sub-20 (31/10) só confirmada pela Agência Brasil (republicada por vários sites); não achei 2ª fonte independente nem nota oficial do clube.",
-   "sugestao": "Prévia da volta da semifinal do Paulista Feminino Sub-20 contra o Palmeiras (9/11, mando do Corinthians), com a vantagem de 3x2 da ida (gols de Dani Pereira e Jordi, 2)."
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-11-06T19:23-03:00",
-   "motivo": "Nenhuma notícia recente do Atlético Mogi em jornais nem no site/redes oficiais encontrados.",
-   "sugestao": "Perguntar ao Atlético Mogi se disputará a Segunda Divisão de 2027 e quem será o técnico."
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-06T19:23-03:00",
-   "motivo": "Sem notícia recente do Amparo Athlético; história já usada em 30/10 (limite de 30 dias).",
-   "sugestao": "Apurar com o Amparo Athlético os planos para 2027 (inscrição na Segunda Divisão, comissão técnica, categorias de base)."
-  },
   {
    "clube": "lemense",
    "nome": "Lemense",
@@ -420,6 +371,55 @@
    "quando": "2026-11-08T23:40-03:00",
    "motivo": "Bloco A2 Cobertura 6h (23h30 de 08/11): Linense, Velo Clube, Água Santa e Santo André sem notícia nova confirmada em 2 fontes nas últimas 48h e sem pauta da redação.",
    "sugestao": "Montagem do elenco do Linense para a Série A2 de 2027"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-09T08:36-03:00",
+   "motivo": "Data Fifa: sem fato novo confirmado em 2 fontes nas últimas 24h (jogo com o Atlético-MG em 14/11 já coberto). Base: resultados sub-14/sub-15 só em sites fora da lista de fontes. Fotos: sites dos clubes e Flickr bloqueados na rede desta execução.",
+   "sugestao": "Mirassol se prepara para receber o Atlético-MG no sábado (14/11, 18h30, Maião) durante a Data Fifa: desfalques e treinos da semana"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-09T08:36-03:00",
+   "motivo": "Pauta achada (sub-20 venceu o Corinthians por 1 a 0 na Fazendinha, ida da semi do Paulista; Terra + site oficial), mas sem foto do jogo acessível: site oficial e Flickr bloqueados na rede desta execução e o clube não tem canal do YouTube cadastrado.",
+   "sugestao": "Sub-20 do Bragantino vence o Corinthians por 1 a 0 na Fazendinha (gol de Luís Gustavo) e joga a volta da semi do Paulista na quinta (12/11, 15h, CT de Atibaia) com vantagem do empate"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-09T08:36-03:00",
+   "motivo": "Sem notícia nova nas últimas 24h após a derrota para o Avaí (já coberta); fotos do clube inacessíveis na rede desta execução.",
+   "sugestao": "São Bernardo: balanço da Série B e quem fica para 2027 antes do jogo de despedida contra o Athletic no Primeiro de Maio"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-09T08:36-03:00",
+   "motivo": "Sem fato novo nas últimas 24h além do acesso e da decisão do título (já cobertos); fotos do clube inacessíveis na rede desta execução.",
+   "sugestao": "Novorizontino: ingressos, viagem e provável time para decidir o título da Série B em Criciúma na última rodada"
+  },
+  {
+   "clube": "primavera",
+   "nome": "Primavera",
+   "quando": "2026-11-09T08:36-03:00",
+   "motivo": "Bloco A1: a pauta do Noroeste x São Paulo (amistoso, 13/11, 20h, Alfredo de Castilho; Gazeta + Terra) é jogo e exige foto de jogo; sites dos clubes e Flickr bloqueados na rede desta execução.",
+   "sugestao": "Noroeste recebe o São Paulo em amistoso no Alfredo de Castilho na sexta, 13/11, às 20h"
+  },
+  {
+   "clube": "linense",
+   "nome": "Linense",
+   "quando": "2026-11-09T08:36-03:00",
+   "motivo": "Bloco A2: sem pauta recente na saída e sem foto acessível (sites dos clubes e Flickr bloqueados na rede desta execução).",
+   "sugestao": "Linense/Velo Clube/Água Santa/Santo André: reforços e comissão técnica para a Série A2 de 2027"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-09T08:37-03:00",
+   "motivo": "Bloco A3: sem pauta recente na saída e sem foto acessível (sites dos clubes e Flickr bloqueados na rede desta execução).",
+   "sugestao": "Catanduva/Paulista/Rio Preto/Prudente: anúncios de elenco para a Série A3 de 2027"
   }
  ]
 }
