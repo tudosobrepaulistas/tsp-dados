@@ -39,3 +39,8 @@ Igual ao de `diretrizes/maquina.md`, com:
 {"tipo": "posjogo", "jogo": 91000019, "clube": "", "foto_do_jogo": true, "...": "..."}
 ```
 `clube` pode ficar vazio: a ferramenta preenche com o(s) clube(s) paulista(s) do jogo, se houver.
+
+## Escalações confirmadas (desde 08/11/2026)
+Ao registrar o resultado, se a fonte trouxer a **ficha técnica**, grave também as escalações com
+`python3 ferramentas/tsp.py escalacao ID --json /tmp/esc.json` (formato em `diretrizes/banco-times.md`). Elas alimentam
+"jogadores mais utilizados" e o campinho das páginas de time. Sem ficha, não grave.

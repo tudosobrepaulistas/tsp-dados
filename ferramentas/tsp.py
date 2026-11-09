@@ -16,6 +16,13 @@ Comandos (rodar na raiz do repositório):
   python3 ferramentas/tsp.py prejogo ID --json ARQUIVO.json
       Grava o pré-jogo (onde assistir, prováveis escalações, análise, retrospecto, estádio). Formato em diretrizes/prejogo.md.
       Só os campos enviados mudam; envie "provaveis" de novo para atualizar perto do jogo.
+  python3 ferramentas/tsp.py escalacao ID --json ARQUIVO.json
+      Escalações CONFIRMADAS do jogo (da ficha técnica de matéria aceita ou do site oficial), linhas separadas por ";":
+      {"casa": {"tecnico": "Abel Ferreira", "time": "Weverton; Giay, Gustavo Gómez, Murilo, Piquerez; Aníbal, Andreas; Felipe Anderson, Vitor Roque, Facundo Torres",
+                "entraram": [{"jogador": "Maurício", "saiu": "Andreas", "minuto": "60"}]}, "fora": {...}, "fontes": ["https://..."]}
+  python3 ferramentas/tsp.py elenco CHAVE --json ARQUIVO.json
+      Elenco atual do time (site oficial do clube): {"fonte": "https://...", "jogadores": [{"nome": "Weverton", "posicao": "Goleiro", "numero": 21}, ...]}
+      posicao: Goleiro, Zagueiro, Lateral, Volante, Meia, Atacante.
   python3 ferramentas/tsp.py calcular      → gera api/tsp.json (o que o site lê), classificações e artilharia
   python3 ferramentas/tsp.py validar       → confere a base (placar x gols, times, datas)
 Horários sempre de Brasília (UTC-3).
@@ -433,6 +440,89 @@ def chaves(cps, tm):
     return out
 
 
+FONTE_RUIM = re.compile(r"sofascore|flashscore|ogol|transfermarkt|fotmob|google\.com/search|espn\.com\.br/futebol/partida|footystats|besoccer|zerozero", re.I)
+POSICOES = ("Goleiro", "Zagueiro", "Lateral", "Volante", "Meia", "Atacante")
+
+
+def cmd_escalacao(a):
+    chave, d, j = achar(a[0])
+    e = json.loads(Path(opc(a, "--json")).read_text(encoding="utf-8"))
+    erros = []
+    if j["status"] != "encerrado":
+        erros.append("escalação confirmada só de jogo encerrado (antes do jogo use prejogo/provaveis)")
+    for lado in ("casa", "fora"):
+        x = e.get(lado) or {}
+        linhas = [l for l in str(x.get("time", "")).split(";") if l.strip()]
+        nomes = [n.strip() for l in linhas for n in l.split(",") if n.strip()]
+        if len(nomes) != 11:
+            erros.append(f"{lado}: o time titular precisa de 11 nomes (achei {len(nomes)}), linhas separadas por ';' e nomes por ','")
+        for s_ in x.get("entraram", []):
+            if not s_.get("jogador"):
+                erros.append(f"{lado}: substituição sem jogador {s_!r}")
+    f = e.get("fontes", [])
+    if not f or any(not str(u).startswith("https://") or FONTE_RUIM.search(str(u)) for u in f):
+        erros.append("fontes: link exato da ficha técnica (matéria aceita no CLAUDE.md ou site oficial); bancos de estatística são proibidos")
+    if erros:
+        raise SystemExit("ERRO:\n" + "\n".join(erros))
+    e["atualizado"] = iso(agora())
+    j["escalacoes"] = e
+    salvar_comp(chave, d)
+    print(f"OK: escalações do jogo {j['id']} gravadas")
+
+
+def cmd_elenco(a):
+    tm = times()
+    k = a[0]
+    if k not in tm:
+        raise SystemExit(f"time '{k}' não está em dados/times.json")
+    e = json.loads(Path(opc(a, "--json")).read_text(encoding="utf-8"))
+    erros = []
+    if not str(e.get("fonte", "")).startswith("https://") or FONTE_RUIM.search(str(e.get("fonte", ""))):
+        erros.append("fonte: página do elenco no site oficial do clube (bancos de estatística são proibidos)")
+    js = e.get("jogadores", [])
+    if len(js) < 15:
+        erros.append("elenco com menos de 15 jogadores: confira a página")
+    for x in js:
+        if not x.get("nome") or x.get("posicao") not in POSICOES:
+            erros.append(f"jogador mal formado (posicao: {', '.join(POSICOES)}): {x!r}")
+    if erros:
+        raise SystemExit("ERRO:\n" + "\n".join(erros[:12]))
+    gravar(DADOS / "elencos" / f"{k}.json", {"time": k, "atualizado": iso(agora()), "fonte": e["fonte"], "jogadores": js})
+    print(f"OK: elenco de {tm[k]['nome']} ({len(js)} jogadores)")
+
+
+def cmd_elencos_faltando(a):
+    """Times sem elenco (ou com elenco de mais de 30 dias), dos que jogam antes primeiro."""
+    tm = times()
+    prox = {}
+    for _c, j in todos_os_jogos():
+        if j.get("status") in ABERTOS:
+            for k in (j["casa"], j["fora"]):
+                prox[k] = min(prox.get(k, "9999"), j["data"])
+    lim = iso(agora() - datetime.timedelta(days=30))
+    falta = []
+    for k, v in tm.items():
+        e = ler(DADOS / "elencos" / f"{k}.json")
+        if not e or e.get("atualizado", "") < lim:
+            falta.append((prox.get(k, "9999"), k, v["nome"], "velho" if e else "sem"))
+    for d, k, n, st in sorted(falta):
+        print(f"{k} | {n} | próximo jogo: {d[:16] if d != '9999' else '-'} | elenco: {st}")
+    print(f"{len(falta)} time(s)")
+
+
+def cmd_jogos_sem_escalacao(a):
+    """Jogos encerrados nos últimos N dias (padrão 10) sem escalação confirmada."""
+    dias = int(opc(a, "--dias", "10"))
+    lim = iso(agora() - datetime.timedelta(days=dias))
+    tm = times()
+    n = 0
+    for j in sorted((x for _c, x in todos_os_jogos()), key=lambda x: x["data"], reverse=True):
+        if j.get("status") == "encerrado" and j["data"] >= lim and not j.get("escalacoes"):
+            print(f"{j['id']} | {j['data'][:16]} | {tm[j['casa']]['nome']} {j['gols_casa']}x{j['gols_fora']} {tm[j['fora']]['nome']}")
+            n += 1
+    print(f"{n} jogo(s) sem escalação")
+
+
 def cmd_calcular(a):
     tm = times()
     cps = competicoes()
@@ -464,6 +554,7 @@ def cmd_calcular(a):
                 "teams": {"home": {"id": casa["id"], "name": casa["nome"]}, "away": {"id": fora["id"], "name": fora["nome"]}},
                 "goals": {"home": j["gols_casa"], "away": j["gols_fora"]}, "penaltis": j.get("penaltis", ""),
                 "prejogo": j.get("prejogo", {}),
+                "escalacoes": j.get("escalacoes", {}),
                 "events": eventos})
         if c["formato"] in ("pontos", "grupos") and ((DADOS / "base" / f"{chave}.json").exists() or jogos_de(chave)["jogos"]):
             g = classificar(chave, tm)
@@ -480,7 +571,8 @@ def cmd_calcular(a):
            "times": {str(v["id"]): {"chave": k, "nome": v["nome"], "slug_tsp": v.get("slug_tsp", ""), "wiki": v.get("wiki", "")} for k, v in tm.items()},
            "jogos": fixtures, "classificacao": classif, "artilharia": {k: v for k, v in artilh.items() if v},
            "chaves": chaves(cps, tm),
-           "painel_feminino": ler(DADOS / "painel_feminino.json", {}).get("competicoes", [])}
+           "painel_feminino": ler(DADOS / "painel_feminino.json", {}).get("competicoes", []),
+           "elencos": {str(tm[f.stem]["id"]): ler(f) for f in sorted((DADOS / "elencos").glob("*.json")) if f.stem in tm}}
     gravar(API / "tsp.json", tsp)
     print(f"OK: api/tsp.json com {len(fixtures)} jogos, {len(classif)} classificações")
 
@@ -514,4 +606,4 @@ if __name__ == "__main__":
         sys.exit(0)
     c, resto = sys.argv[1], sys.argv[2:]
     {"agenda": cmd_agenda, "jogo-novo": cmd_jogo_novo, "remarcar": cmd_remarcar, "resultado": cmd_resultado,
-     "ocorrencia": cmd_ocorrencia, "prejogo": cmd_prejogo, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)
+     "ocorrencia": cmd_ocorrencia, "prejogo": cmd_prejogo, "escalacao": cmd_escalacao, "elenco": cmd_elenco, "elencos-faltando": cmd_elencos_faltando, "jogos-sem-escalacao": cmd_jogos_sem_escalacao, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)

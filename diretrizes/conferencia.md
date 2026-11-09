@@ -14,3 +14,8 @@
    run_once_at = agora + 30 min em RFC3339 -03:00, initiation "human_schedule", notifications {}, prompt
    "Conferência de resultados do TSP. Siga diretrizes/conferencia.md do repositório tudosobrepaulistas/tsp-dados para os jogos <IDs que faltam>."
 5. Resumo de 1 a 3 linhas: o que entrou (placares), o que ficou para reconferir e por quê.
+
+## Escalações confirmadas (desde 08/11/2026)
+Ao registrar o resultado, se a fonte trouxer a **ficha técnica**, grave também as escalações com
+`python3 ferramentas/tsp.py escalacao ID --json /tmp/esc.json` (formato em `diretrizes/banco-times.md`). Elas alimentam
+"jogadores mais utilizados" e o campinho das páginas de time. Sem ficha, não grave.
