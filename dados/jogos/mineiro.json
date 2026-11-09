@@ -2,6 +2,498 @@
  "competicao": "mineiro",
  "jogos": [
   {
+   "id": 91000187,
+   "data": "2026-01-11T19:30:00-03:00",
+   "casa": "america-mg",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena Independência",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Person",
+     "minuto": "1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Thauan Willians",
+     "minuto": "36",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Everton Brito",
+     "minuto": "86",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/estreantes-brilham-america-domina-athletic-e-goleia-na-estreia-do-mineiro-2026",
+    "https://www.otempo.com.br/sports/america/2026/1/11/america-joga-bem-e-vence-o-athletic-na-estreia-do-mineiro-com-direito-a-golaco-de-estreante"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Alberto Valentim",
+     "time": "Gustavo; Léo Alaba, Ricardo Silva, Emerson, Artur; Felipe Amaral, Person, Yago Souza; Gabriel Barros, Thauan Willians, Paulo Victor",
+     "entraram": [
+      {
+       "jogador": "Paulinho Ibelli",
+       "saiu": "Artur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Santos",
+       "saiu": "Felipe Amaral",
+       "minuto": ""
+      },
+      {
+       "jogador": "Val Soares",
+       "saiu": "Person",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fer Elizari",
+       "saiu": "Yago Souza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Brito",
+       "saiu": "Thauan Willians",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Paulo Victor",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rui Duarte",
+     "time": "Glauco; Douglas Silva, Jhonatan Silva, Edson, Felipe Vieira; Gian Cabezas, Leandro Alves, Kauan Lindes; Alessio da Cruz, Luiz Felipe, Ronaldo Tavares",
+     "entraram": [
+      {
+       "jogador": "Gabriel Índio",
+       "saiu": "Edson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enzo",
+       "saiu": "Felipe Vieira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauã",
+       "saiu": "Leandro Alves",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Bonny",
+       "saiu": "Kauan Lindes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Carioca",
+       "saiu": "Ronaldo Tavares",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kauan Lindes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Edson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/estreantes-brilham-america-domina-athletic-e-goleia-na-estreia-do-mineiro-2026",
+     "https://www.otempo.com.br/sports/america/2026/1/11/america-joga-bem-e-vence-o-athletic-na-estreia-do-mineiro-com-direito-a-golaco-de-estreante"
+    ],
+    "atualizado": "2026-11-09T13:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000188,
+   "data": "2026-01-14T19:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "urt",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena Sicredi (Joaquim Portugal)",
+   "cidade": "São João del-Rei",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Cesinha",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/athletic-perde-para-a-urt-em-casa-e-segue-sem-vencer-no-campeonato-mineiro",
+    "https://www.otempo.com.br/sports/futebol-nacional/2026/1/14/urt-vence-o-athletic-e-assume-lideranca-do-grupo-a-do-campeonato-mineiro"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00"
+  },
+  {
+   "id": 91000189,
+   "data": "2026-01-17T18:00:00-03:00",
+   "casa": "democrata-gv",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Mamudão",
+   "cidade": "Governador Valadares",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/democrata-segura-empate-com-athletic-que-segue-sem-vencer-no-mineiro",
+    "https://www.otempo.com.br/sports/futebol-nacional/athletic/2026/1/17/democrata-tem-gol-anulado-no-fim-e-empata-com-athletic-no-mamudao"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00"
+  },
+  {
+   "id": 91000190,
+   "data": "2026-01-21T19:00:00-03:00",
+   "casa": "pouso-alegre",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Manduzão",
+   "cidade": "Pouso Alegre",
+   "gols_casa": 3,
+   "gols_fora": 4,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Nathan Palafoz",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ronaldo Tavares",
+     "minuto": "22",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ronaldo Tavares",
+     "minuto": "25",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Luiz Felipe",
+     "minuto": "27",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Romário",
+     "minuto": "44",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Thiago Rubim",
+     "minuto": "53",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ronaldo Tavares",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/com-hat-trick-de-ronaldo-tavares-athletic-vence-pouso-alegre-em-jogo-de",
+    "https://www.otempo.com.br/sports/futebol-nacional/athletic/2026/1/21/em-jogo-de-sete-gols-e-hat-trick-athletic-bate-o-pouso-alegre-e-vence-a-primeira-no-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/pouso-alegre-x-athletic-club/93126/"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00"
+  },
+  {
+   "id": 91000191,
+   "data": "2026-01-25T20:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "betim",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena Sicredi (Joaquim Portugal)",
+   "cidade": "São João del-Rei",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Dixon Vera",
+     "minuto": "34",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Erick Salles",
+     "minuto": "71",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.otempo.com.br/sports/futebol-nacional/2026/1/25/athletic-empata-com-betim-e-cola-no-cruzeiro",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/betim-sai-atras-tem-jogador-expulso-mas-busca-empate-contra-o-athletic-no-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/athletic-club-x-betim/93242/"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00"
+  },
+  {
+   "id": 91000192,
+   "data": "2026-01-31T18:30:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "uberlandia",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena Sicredi (Joaquim Portugal)",
+   "cidade": "São João del-Rei",
+   "gols_casa": 0,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/uberlandia-goleia-athletic-e-respira-na-briga-contra-o-rebaixamento-no-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/athletic-club-x-uberlandia/93391/"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00"
+  },
+  {
+   "id": 91000193,
+   "data": "2026-02-07T18:30:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Renan Lodi",
+     "minuto": "4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ronaldo Tavares",
+     "minuto": "60",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/atletico-cede-empate-ao-athletic-na-arena-mrv-e-desperdica-chance-no-mineiro",
+    "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-cede-empate-ao-athletic-e-desperdica-chance-no-mineirao/"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Jorge Sampaoli",
+     "time": "Everson; Natanael, Ruan, Vitor Hugo, Renan Lodi; Maycon, Cissé, Igor Gomes, Gustavo Scarpa; Cuello, Reinier",
+     "entraram": [
+      {
+       "jogador": "Cassierra",
+       "saiu": "Natanael",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Hugo",
+       "saiu": "Cissé",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bernard",
+       "saiu": "Igor Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu",
+       "saiu": "Gustavo Scarpa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hulk",
+       "saiu": "Reinier",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Ruan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Cuello",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rui Duarte",
+     "time": "Glauco; Zeca, Jhonatan Silva, Gabriel Índio, Enzo; Ian Luccas, Kauan Rodrigues, David Braga; Douglas Pelé, Ruan Assis, Ronaldo Tavares",
+     "entraram": [
+      {
+       "jogador": "Dixon Vera",
+       "saiu": "Enzo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Copete",
+       "saiu": "Ian Luccas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Lindes",
+       "saiu": "David Braga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leandro Alves",
+       "saiu": "Douglas Pelé",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Felipe",
+       "saiu": "Ruan Assis",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zeca",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ruan Assis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Glauco",
+        "minuto": ""
+       },
+       {
+        "jogador": "Copete",
+        "minuto": ""
+       },
+       {
+        "jogador": "Leandro Alves",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/atletico-cede-empate-ao-athletic-na-arena-mrv-e-desperdica-chance-no-mineiro"
+    ],
+    "atualizado": "2026-11-09T13:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000194,
+   "data": "2026-02-14T19:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "tombense",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena Sicredi (Joaquim Portugal)",
+   "cidade": "São João del-Rei",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Felipe Vieira",
+     "minuto": "2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro Oliveira",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/athletic-empata-com-tombense-e-e-rebaixado-no-campeonato-mineiro",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/2/14/confira-todos-os-resultados-e-jogos-da-ultima-rodada-do-campeonato-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/athletic-club-x-tombense/93640/"
+   ],
+   "atualizado": "2026-11-09T13:34:00-03:00"
+  },
+  {
    "id": 91000186,
    "data": "2026-03-01T18:00:00-03:00",
    "casa": "america-mg",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09T05:40:00-03:00",
+ "gerado": "2026-11-09T13:34:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1419,6 +1419,42 @@
   "900041": {
    "chave": "estudiantes",
    "nome": "Estudiantes",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900042": {
+   "chave": "urt",
+   "nome": "URT",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900043": {
+   "chave": "democrata-gv",
+   "nome": "Democrata-GV",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900044": {
+   "chave": "pouso-alegre",
+   "nome": "Pouso Alegre",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900045": {
+   "chave": "betim",
+   "nome": "Betim",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900046": {
+   "chave": "uberlandia",
+   "nome": "Uberlândia",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900047": {
+   "chave": "tombense",
+   "nome": "Tombense",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -6748,17 +6784,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
-    "empate": 29,
-    "fora": 15,
+    "casa": 54,
+    "empate": 30,
+    "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.29,
-     0.52
+     1.25,
+     0.54
     ],
     "base": [
      7,
-     10
+     11
     ]
    },
    "events": []
@@ -6805,12 +6841,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 8,
-    "empate": 14,
-    "fora": 78,
+    "empate": 13,
+    "fora": 79,
     "placar": "0x2",
     "gols_esperados": [
-     0.82,
-     2.76
+     0.81,
+     2.81
     ],
     "base": [
      7,
@@ -6865,8 +6901,8 @@
     "fora": 65,
     "placar": "0x1",
     "gols_esperados": [
-     0.52,
-     1.62
+     0.51,
+     1.65
     ],
     "base": [
      7,
@@ -6916,13 +6952,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 22,
+    "casa": 60,
+    "empate": 23,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.84,
-     0.83
+     1.81,
+     0.85
     ],
     "base": [
      7,
@@ -6973,12 +7009,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 84,
-    "empate": 10,
+    "empate": 11,
     "fora": 6,
     "placar": "3x0",
     "gols_esperados": [
-     3.21,
-     0.76
+     3.17,
+     0.77
     ],
     "base": [
      9,
@@ -7029,12 +7065,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 29,
-    "empate": 26,
-    "fora": 45,
+    "empate": 25,
+    "fora": 46,
     "placar": "1x1",
     "gols_esperados": [
-     1.17,
-     1.51
+     1.15,
+     1.53
     ],
     "base": [
      7,
@@ -7084,13 +7120,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
+    "casa": 51,
     "empate": 26,
-    "fora": 22,
+    "fora": 23,
     "placar": "1x0",
     "gols_esperados": [
-     1.53,
-     0.9
+     1.51,
+     0.92
     ],
     "base": [
      7,
@@ -7140,13 +7176,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 62,
     "empate": 21,
     "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.96,
-     0.86
+     1.94,
+     0.88
     ],
     "base": [
      9,
@@ -7196,13 +7232,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
-    "empate": 24,
-    "fora": 21,
+    "casa": 53,
+    "empate": 25,
+    "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.67,
-     0.95
+     1.65,
+     0.96
     ],
     "base": [
      9,
@@ -7253,12 +7289,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 26,
-    "empate": 22,
-    "fora": 52,
-    "placar": "1x1",
+    "empate": 21,
+    "fora": 53,
+    "placar": "1x2",
     "gols_esperados": [
-     1.38,
-     2.0
+     1.36,
+     2.03
     ],
     "base": [
      7,
@@ -7308,13 +7344,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 29,
+    "casa": 28,
     "empate": 29,
-    "fora": 42,
+    "fora": 43,
     "placar": "0x1",
     "gols_esperados": [
-     0.94,
-     1.21
+     0.93,
+     1.23
     ],
     "base": [
      7,
@@ -7364,13 +7400,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
-    "empate": 29,
+    "casa": 48,
+    "empate": 30,
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.26,
-     0.74
+     1.24,
+     0.75
     ],
     "base": [
      11,
@@ -7420,13 +7456,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 73,
+    "casa": 72,
     "empate": 19,
-    "fora": 8,
+    "fora": 9,
     "placar": "1x0",
     "gols_esperados": [
-     1.99,
-     0.5
+     1.97,
+     0.51
     ],
     "base": [
      7,
@@ -7481,8 +7517,8 @@
     "fora": 86,
     "placar": "0x3",
     "gols_esperados": [
-     0.86,
-     3.55
+     0.85,
+     3.61
     ],
     "base": [
      7,
@@ -7534,11 +7570,11 @@
    "previsao": {
     "casa": 66,
     "empate": 19,
-    "fora": 15,
-    "placar": "2x0",
+    "fora": 16,
+    "placar": "2x1",
     "gols_esperados": [
-     2.3,
-     1.0
+     2.27,
+     1.01
     ],
     "base": [
      7,
@@ -7590,11 +7626,11 @@
    "previsao": {
     "casa": 52,
     "empate": 27,
-    "fora": 20,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.43,
-     0.78
+     1.41,
+     0.79
     ],
     "base": [
      9,
@@ -7644,13 +7680,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 46,
     "empate": 22,
-    "fora": 31,
+    "fora": 32,
     "placar": "1x1",
     "gols_esperados": [
-     1.96,
-     1.55
+     1.94,
+     1.58
     ],
     "base": [
      7,
@@ -7700,13 +7736,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 62,
     "empate": 22,
-    "fora": 15,
+    "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.84,
-     0.78
+     1.81,
+     0.79
     ],
     "base": [
      7,
@@ -7758,11 +7794,11 @@
    "previsao": {
     "casa": 24,
     "empate": 34,
-    "fora": 41,
+    "fora": 42,
     "placar": "0x0",
     "gols_esperados": [
-     0.67,
-     0.97
+     0.66,
+     0.99
     ],
     "base": [
      7,
@@ -7812,13 +7848,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
+    "casa": 42,
     "empate": 27,
-    "fora": 30,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.34,
-     1.07
+     1.32,
+     1.08
     ],
     "base": [
      7,
@@ -7870,14 +7906,14 @@
    "previsao": {
     "casa": 52,
     "empate": 25,
-    "fora": 22,
+    "fora": 23,
     "placar": "1x0",
     "gols_esperados": [
-     1.57,
+     1.56,
      0.93
     ],
     "base": [
-     10,
+     11,
      7
     ]
    },
@@ -13549,8 +13585,8 @@
     "fora": 48,
     "placar": "0x1",
     "gols_esperados": [
-     0.8,
-     1.28
+     0.79,
+     1.29
     ],
     "base": [
      7,
@@ -13600,17 +13636,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
-    "empate": 18,
-    "fora": 17,
+    "casa": 69,
+    "empate": 17,
+    "fora": 14,
     "placar": "2x1",
     "gols_esperados": [
-     2.52,
-     1.22
+     2.54,
+     1.08
     ],
     "base": [
      7,
-     7
+     15
     ]
    },
    "events": []
@@ -13656,16 +13692,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 32,
-    "empate": 50,
-    "fora": 18,
+    "casa": 42,
+    "empate": 45,
+    "fora": 14,
     "placar": "0x0",
     "gols_esperados": [
-     0.54,
-     0.32
+     0.71,
+     0.3
     ],
     "base": [
-     9,
+     10,
      7
     ]
    },
@@ -13717,7 +13753,7 @@
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.38,
+     1.36,
      0.42
     ],
     "base": [
@@ -13773,8 +13809,8 @@
     "fora": 30,
     "placar": "1x0",
     "gols_esperados": [
-     1.2,
-     0.97
+     1.19,
+     0.99
     ],
     "base": [
      7,
@@ -13824,13 +13860,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
+    "casa": 50,
     "empate": 34,
-    "fora": 15,
+    "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.07,
-     0.44
+     1.06,
+     0.45
     ],
     "base": [
      7,
@@ -13880,13 +13916,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 25,
-    "empate": 35,
-    "fora": 40,
+    "casa": 24,
+    "empate": 34,
+    "fora": 41,
     "placar": "0x0",
     "gols_esperados": [
-     0.67,
-     0.94
+     0.66,
+     0.96
     ],
     "base": [
      7,
@@ -13938,11 +13974,11 @@
    "previsao": {
     "casa": 28,
     "empate": 29,
-    "fora": 43,
+    "fora": 44,
     "placar": "0x1",
     "gols_esperados": [
-     0.96,
-     1.25
+     0.94,
+     1.27
     ],
     "base": [
      7,
@@ -13992,13 +14028,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 65,
+    "casa": 64,
     "empate": 22,
-    "fora": 13,
+    "fora": 14,
     "placar": "1x0",
     "gols_esperados": [
-     1.84,
-     0.69
+     1.81,
+     0.7
     ],
     "base": [
      7,
@@ -14050,11 +14086,11 @@
    "previsao": {
     "casa": 32,
     "empate": 30,
-    "fora": 37,
+    "fora": 38,
     "placar": "0x1",
     "gols_esperados": [
-     0.98,
-     1.07
+     0.96,
+     1.08
     ],
     "base": [
      7,
@@ -15193,6 +15229,639 @@
      },
      "player": {
       "name": "Jé Soares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/estreantes-brilham-america-domina-athletic-e-goleia-na-estreia-do-mineiro-2026",
+    "https://www.otempo.com.br/sports/america/2026/1/11/america-joga-bem-e-vence-o-athletic-na-estreia-do-mineiro-com-direito-a-golaco-de-estreante"
+   ],
+   "fixture": {
+    "id": 91000187,
+    "timestamp": 1768170600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Independência",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 1,
+      "extra": null,
+      "texto": "1"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Person"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 36,
+      "extra": null,
+      "texto": "36"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Thauan Willians"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 86,
+      "extra": null,
+      "texto": "86"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Everton Brito"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/athletic-perde-para-a-urt-em-casa-e-segue-sem-vencer-no-campeonato-mineiro",
+    "https://www.otempo.com.br/sports/futebol-nacional/2026/1/14/urt-vence-o-athletic-e-assume-lideranca-do-grupo-a-do-campeonato-mineiro"
+   ],
+   "fixture": {
+    "id": 91000188,
+    "timestamp": 1768428000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi (Joaquim Portugal)",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900042,
+     "name": "URT"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900042,
+      "name": "URT"
+     },
+     "player": {
+      "name": "Cesinha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/democrata-segura-empate-com-athletic-que-segue-sem-vencer-no-mineiro",
+    "https://www.otempo.com.br/sports/futebol-nacional/athletic/2026/1/17/democrata-tem-gol-anulado-no-fim-e-empata-com-athletic-no-mamudao"
+   ],
+   "fixture": {
+    "id": 91000189,
+    "timestamp": 1768683600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mamudão",
+     "city": "Governador Valadares"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900043,
+     "name": "Democrata-GV"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/com-hat-trick-de-ronaldo-tavares-athletic-vence-pouso-alegre-em-jogo-de",
+    "https://www.otempo.com.br/sports/futebol-nacional/athletic/2026/1/21/em-jogo-de-sete-gols-e-hat-trick-athletic-bate-o-pouso-alegre-e-vence-a-primeira-no-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/pouso-alegre-x-athletic-club/93126/"
+   ],
+   "fixture": {
+    "id": 91000190,
+    "timestamp": 1769032800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Manduzão",
+     "city": "Pouso Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900044,
+     "name": "Pouso Alegre"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 4
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900044,
+      "name": "Pouso Alegre"
+     },
+     "player": {
+      "name": "Nathan Palafoz"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 22,
+      "extra": null,
+      "texto": "22"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ronaldo Tavares"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 25,
+      "extra": null,
+      "texto": "25"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ronaldo Tavares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 27,
+      "extra": null,
+      "texto": "27"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Luiz Felipe"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 44,
+      "extra": null,
+      "texto": "44"
+     },
+     "team": {
+      "id": 900044,
+      "name": "Pouso Alegre"
+     },
+     "player": {
+      "name": "Romário"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 53,
+      "extra": null,
+      "texto": "53"
+     },
+     "team": {
+      "id": 900044,
+      "name": "Pouso Alegre"
+     },
+     "player": {
+      "name": "Thiago Rubim"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ronaldo Tavares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.otempo.com.br/sports/futebol-nacional/2026/1/25/athletic-empata-com-betim-e-cola-no-cruzeiro",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/betim-sai-atras-tem-jogador-expulso-mas-busca-empate-contra-o-athletic-no-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/athletic-club-x-betim/93242/"
+   ],
+   "fixture": {
+    "id": 91000191,
+    "timestamp": 1769382000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi (Joaquim Portugal)",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900045,
+     "name": "Betim"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 34,
+      "extra": null,
+      "texto": "34"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Dixon Vera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 71,
+      "extra": null,
+      "texto": "71"
+     },
+     "team": {
+      "id": 900045,
+      "name": "Betim"
+     },
+     "player": {
+      "name": "Erick Salles"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/uberlandia-goleia-athletic-e-respira-na-briga-contra-o-rebaixamento-no-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/athletic-club-x-uberlandia/93391/"
+   ],
+   "fixture": {
+    "id": 91000192,
+    "timestamp": 1769895000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi (Joaquim Portugal)",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900046,
+     "name": "Uberlândia"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/atletico-cede-empate-ao-athletic-na-arena-mrv-e-desperdica-chance-no-mineiro",
+    "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-cede-empate-ao-athletic-e-desperdica-chance-no-mineirao/"
+   ],
+   "fixture": {
+    "id": 91000193,
+    "timestamp": 1770499800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 4,
+      "extra": null,
+      "texto": "4"
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Renan Lodi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 60,
+      "extra": null,
+      "texto": "60"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ronaldo Tavares"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-mineiro/athletic-empata-com-tombense-e-e-rebaixado-no-campeonato-mineiro",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/2/14/confira-todos-os-resultados-e-jogos-da-ultima-rodada-do-campeonato-mineiro",
+    "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-mineiro/ao-vivo/athletic-club-x-tombense/93640/"
+   ],
+   "fixture": {
+    "id": 91000194,
+    "timestamp": 1771106400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi (Joaquim Portugal)",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 8"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900047,
+     "name": "Tombense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 2,
+      "extra": null,
+      "texto": "2"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Felipe Vieira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900047,
+      "name": "Tombense"
+     },
+     "player": {
+      "name": "Pedro Oliveira"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -16616,6 +17285,92 @@
     "jogador": "Valéria Cantuário",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   }
+  ],
+  "mineiro": [
+   {
+    "jogador": "Ronaldo Tavares",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 4
+   },
+   {
+    "jogador": "Cesinha",
+    "time": "URT",
+    "time_id": 900042,
+    "gols": 1
+   },
+   {
+    "jogador": "Dixon Vera",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 1
+   },
+   {
+    "jogador": "Erick Salles",
+    "time": "Betim",
+    "time_id": 900045,
+    "gols": 1
+   },
+   {
+    "jogador": "Everton Brito",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 1
+   },
+   {
+    "jogador": "Felipe Vieira",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 1
+   },
+   {
+    "jogador": "Luiz Felipe",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 1
+   },
+   {
+    "jogador": "Nathan Palafoz",
+    "time": "Pouso Alegre",
+    "time_id": 900044,
+    "gols": 1
+   },
+   {
+    "jogador": "Pedro Oliveira",
+    "time": "Tombense",
+    "time_id": 900047,
+    "gols": 1
+   },
+   {
+    "jogador": "Person",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 1
+   },
+   {
+    "jogador": "Renan Lodi",
+    "time": "Atlético-MG",
+    "time_id": 900006,
+    "gols": 1
+   },
+   {
+    "jogador": "Romário",
+    "time": "Pouso Alegre",
+    "time_id": 900044,
+    "gols": 1
+   },
+   {
+    "jogador": "Thauan Willians",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 1
+   },
+   {
+    "jogador": "Thiago Rubim",
+    "time": "Pouso Alegre",
+    "time_id": 900044,
     "gols": 1
    }
   ]
