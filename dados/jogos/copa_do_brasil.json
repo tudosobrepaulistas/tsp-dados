@@ -1,6 +1,217 @@
 {
  "jogos": [
   {
+   "id": 91000205,
+   "data": "2026-04-23T21:30:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quinta fase - ida",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-e-atletico-go-ficam-no-empate-no-jogo-de-ida-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/athletico-pr-e-atletico-go-ficam-no-empate-sem-gols-pela-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-09T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Odair Hellmann",
+     "time": "Santos; Benavídez, Carlos Terán, Arthur Dias; Gilberto, Portilla, Bruno Zapelli, João Cruz, Esquivel; Dudu Kogitzki, Kevin Viveros",
+     "entraram": [
+      {
+       "jogador": "Bruninho",
+       "saiu": "Benavídez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Gustavo",
+       "saiu": "Portilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Isaac",
+       "saiu": "Bruno Zapelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leozinho",
+       "saiu": "João Cruz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Chiqueti",
+       "saiu": "Dudu Kogitzki",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Benavídez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Portilla",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Gustavo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Souza",
+     "time": "Paulo Vitor; Ewerthon, Tito, Júnior Barreto, Guilherme Lopes; Leandro Vilela, Cristiano, Marrony, Léo Tocantins, Geovany Soares; Gustavo Coutinho",
+     "entraram": [
+      {
+       "jogador": "Léo Jacó",
+       "saiu": "Leandro Vilela",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jader",
+       "saiu": "Marrony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Assis",
+       "saiu": "Léo Tocantins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno José",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Natã Felipe",
+       "saiu": "Gustavo Coutinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Guilherme Lopes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Tito",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Coutinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Assis",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/athletico-pr-tropeca-em-casa-e-empata-com-o-atletico-go-pela-copa-do-brasil/"
+    ],
+    "atualizado": "2026-11-09T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000206,
+   "data": "2026-05-14T19:00:00-03:00",
+   "casa": "atletico-go",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quinta fase - volta",
+   "grupo": "",
+   "estadio": "Estádio Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "1x4",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/nos-penalti-athletico-pr-elimina-atletico-go-e-avanca-as-oitavas-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/atletico-go/athletico-pr-sofre-bate-atletico-go-nos-penaltis-e-vai-as-oitavas-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-09T18:37:00-03:00"
+  },
+  {
+   "id": 91000207,
+   "data": "2026-08-03T21:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - ida",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "João Cruz",
+     "minuto": "8",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Dudu",
+     "minuto": "77",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/athletico-pr-bate-vitoria-e-abre-boa-vantagem-nas-oitavas-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/athletico-pr-vence-o-vitoria-e-abre-vantagem-nas-oitavas-da-copa-do-brasil,b5c0418458cf2297c3b2c803066faa788cyay7h2.html"
+   ],
+   "atualizado": "2026-11-09T18:37:00-03:00"
+  },
+  {
+   "id": 91000208,
+   "data": "2026-08-06T20:00:00-03:00",
+   "casa": "vitoria",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - volta",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 4,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/vitoria-atropela-athletico-pr-reverte-placar-da-ida-e-vai-as-quartas-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/vitoria/noite-de-heroi-no-barradao-vitoria-goleia-o-athletico-e-avanca-na-copa-do-brasil,9a3ee6a276f02522bd169195d628cfc9hbgmb82p.html"
+   ],
+   "atualizado": "2026-11-09T18:37:00-03:00"
+  },
+  {
    "id": 91000130,
    "data": "2026-11-01T16:00:00-03:00",
    "casa": "palmeiras",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09T18:36:00-03:00",
+ "gerado": "2026-11-09T18:37:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -6821,12 +6821,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 55,
     "empate": 30,
-    "fora": 16,
+    "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.24,
+     1.26,
      0.53
     ],
     "base": [
@@ -6877,13 +6877,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 8,
+    "casa": 9,
     "empate": 14,
     "fora": 78,
     "placar": "0x2",
     "gols_esperados": [
-     0.8,
-     2.76
+     0.82,
+     2.74
     ],
     "base": [
      7,
@@ -6933,13 +6933,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 15,
+    "casa": 16,
     "empate": 27,
     "fora": 57,
     "placar": "0x1",
     "gols_esperados": [
-     0.59,
-     1.42
+     0.6,
+     1.41
     ],
     "base": [
      8,
@@ -6989,12 +6989,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 60,
-    "empate": 23,
-    "fora": 17,
+    "casa": 61,
+    "empate": 22,
+    "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.8,
+     1.83,
      0.83
     ],
     "base": [
@@ -7045,17 +7045,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
-    "empate": 18,
-    "fora": 13,
+    "casa": 71,
+    "empate": 17,
+    "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.37,
-     0.93
+     2.32,
+     0.8
     ],
     "base": [
      9,
-     17
+     21
     ]
    },
    "events": []
@@ -7101,13 +7101,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 29,
+    "casa": 30,
     "empate": 26,
-    "fora": 46,
+    "fora": 45,
     "placar": "1x1",
     "gols_esperados": [
-     1.14,
-     1.51
+     1.17,
+     1.5
     ],
     "base": [
      7,
@@ -7157,12 +7157,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
+    "casa": 52,
     "empate": 26,
-    "fora": 23,
+    "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.5,
+     1.53,
      0.9
     ],
     "base": [
@@ -7213,12 +7213,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
-    "empate": 22,
+    "casa": 63,
+    "empate": 21,
     "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.92,
+     1.96,
      0.86
     ],
     "base": [
@@ -7269,13 +7269,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
-    "empate": 25,
-    "fora": 22,
+    "casa": 54,
+    "empate": 24,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.63,
-     0.95
+     1.66,
+     0.94
     ],
     "base": [
      9,
@@ -7325,16 +7325,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
-    "empate": 22,
-    "fora": 52,
+    "casa": 35,
+    "empate": 23,
+    "fora": 43,
     "placar": "1x1",
     "gols_esperados": [
-     1.35,
-     1.99
+     1.6,
+     1.8
     ],
     "base": [
-     7,
+     9,
      7
     ]
    },
@@ -7381,13 +7381,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
+    "casa": 29,
     "empate": 29,
-    "fora": 43,
+    "fora": 42,
     "placar": "0x1",
     "gols_esperados": [
-     0.92,
-     1.21
+     0.94,
+     1.2
     ],
     "base": [
      7,
@@ -7437,12 +7437,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
-    "empate": 30,
+    "casa": 49,
+    "empate": 29,
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.23,
+     1.26,
      0.74
     ],
     "base": [
@@ -7493,12 +7493,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 65,
+    "casa": 66,
     "empate": 23,
     "fora": 12,
     "placar": "1x0",
     "gols_esperados": [
-     1.7,
+     1.74,
      0.58
     ],
     "base": [
@@ -7551,11 +7551,11 @@
    "previsao": {
     "casa": 5,
     "empate": 9,
-    "fora": 86,
+    "fora": 85,
     "placar": "0x3",
     "gols_esperados": [
-     0.84,
-     3.55
+     0.86,
+     3.53
     ],
     "base": [
      7,
@@ -7605,16 +7605,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 79,
-    "empate": 13,
-    "fora": 8,
+    "casa": 75,
+    "empate": 16,
+    "fora": 9,
     "placar": "2x0",
     "gols_esperados": [
-     2.78,
-     0.75
+     2.44,
+     0.72
     ],
     "base": [
-     17,
+     21,
      7
     ]
    },
@@ -7661,13 +7661,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
+    "casa": 53,
     "empate": 27,
-    "fora": 21,
+    "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.4,
-     0.78
+     1.43,
+     0.77
     ],
     "base": [
      9,
@@ -7717,13 +7717,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 48,
     "empate": 22,
     "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.92,
-     1.55
+     1.96,
+     1.54
     ],
     "base": [
      7,
@@ -7773,17 +7773,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
-    "empate": 23,
-    "fora": 16,
+    "casa": 55,
+    "empate": 24,
+    "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.8,
-     0.78
+     1.66,
+     0.9
     ],
     "base": [
      7,
-     7
+     9
     ]
    },
    "events": []
@@ -7831,11 +7831,11 @@
    "previsao": {
     "casa": 24,
     "empate": 34,
-    "fora": 42,
+    "fora": 41,
     "placar": "0x0",
     "gols_esperados": [
-     0.66,
-     0.97
+     0.67,
+     0.96
     ],
     "base": [
      7,
@@ -7885,13 +7885,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 42,
-    "empate": 28,
+    "casa": 43,
+    "empate": 27,
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.31,
-     1.07
+     1.34,
+     1.06
     ],
     "base": [
      7,
@@ -7941,13 +7941,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
-    "empate": 26,
+    "casa": 53,
+    "empate": 25,
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.55,
-     0.92
+     1.58,
+     0.91
     ],
     "base": [
      11,
@@ -13617,12 +13617,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
+    "casa": 27,
     "empate": 31,
-    "fora": 43,
+    "fora": 42,
     "placar": "0x1",
     "gols_esperados": [
-     0.82,
+     0.83,
      1.13
     ],
     "base": [
@@ -13673,13 +13673,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
+    "casa": 70,
     "empate": 17,
     "fora": 14,
     "placar": "2x1",
     "gols_esperados": [
-     2.52,
-     1.07
+     2.57,
+     1.06
     ],
     "base": [
      7,
@@ -13729,12 +13729,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 41,
-    "empate": 45,
-    "fora": 14,
+    "casa": 42,
+    "empate": 44,
+    "fora": 13,
     "placar": "0x0",
     "gols_esperados": [
-     0.71,
+     0.72,
      0.29
     ],
     "base": [
@@ -13785,13 +13785,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
-    "empate": 24,
+    "casa": 69,
+    "empate": 23,
     "fora": 8,
     "placar": "1x0",
     "gols_esperados": [
-     1.57,
-     0.37
+     1.6,
+     0.36
     ],
     "base": [
      9,
@@ -13843,11 +13843,11 @@
    "previsao": {
     "casa": 41,
     "empate": 29,
-    "fora": 30,
+    "fora": 29,
     "placar": "1x0",
     "gols_esperados": [
-     1.18,
-     0.97
+     1.2,
+     0.96
     ],
     "base": [
      7,
@@ -13897,16 +13897,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 50,
-    "empate": 34,
-    "fora": 15,
-    "placar": "1x0",
+    "casa": 45,
+    "empate": 40,
+    "fora": 14,
+    "placar": "0x0",
     "gols_esperados": [
-     1.05,
-     0.44
+     0.83,
+     0.34
     ],
     "base": [
-     7,
+     9,
      7
     ]
    },
@@ -13953,12 +13953,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 24,
+    "casa": 25,
     "empate": 35,
-    "fora": 41,
+    "fora": 40,
     "placar": "0x0",
     "gols_esperados": [
-     0.66,
+     0.67,
      0.94
     ],
     "base": [
@@ -14014,8 +14014,8 @@
     "fora": 43,
     "placar": "0x1",
     "gols_esperados": [
-     0.94,
-     1.25
+     0.95,
+     1.24
     ],
     "base": [
      7,
@@ -14065,12 +14065,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
+    "casa": 65,
     "empate": 22,
-    "fora": 14,
+    "fora": 13,
     "placar": "1x0",
     "gols_esperados": [
-     1.8,
+     1.83,
      0.69
     ],
     "base": [
@@ -14122,18 +14122,227 @@
    "escalacoes": {},
    "previsao": {
     "casa": 32,
-    "empate": 31,
-    "fora": 38,
+    "empate": 30,
+    "fora": 37,
     "placar": "0x1",
     "gols_esperados": [
-     0.95,
-     1.07
+     0.97,
+     1.06
     ],
     "base": [
      7,
      7
     ]
    },
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-e-atletico-go-ficam-no-empate-no-jogo-de-ida-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/athletico-pr-e-atletico-go-ficam-no-empate-sem-gols-pela-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000205,
+    "timestamp": 1776990600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quinta fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/nos-penalti-athletico-pr-elimina-atletico-go-e-avanca-as-oitavas-da-copa-do-brasil/",
+    "https://www.gazetaesportiva.com/times/atletico-go/athletico-pr-sofre-bate-atletico-go-nos-penaltis-e-vai-as-oitavas-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000206,
+    "timestamp": 1778796000,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Estádio Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quinta fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "1x4",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/athletico-pr-bate-vitoria-e-abre-boa-vantagem-nas-oitavas-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/athletico-pr-vence-o-vitoria-e-abre-vantagem-nas-oitavas-da-copa-do-brasil,b5c0418458cf2297c3b2c803066faa788cyay7h2.html"
+   ],
+   "fixture": {
+    "id": 91000207,
+    "timestamp": 1785801600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 8,
+      "extra": null,
+      "texto": "8"
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "João Cruz"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 77,
+      "extra": null,
+      "texto": "77"
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Dudu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/vitoria-atropela-athletico-pr-reverte-placar-da-ida-e-vai-as-quartas-da-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/vitoria/noite-de-heroi-no-barradao-vitoria-goleia-o-athletico-e-avanca-na-copa-do-brasil,9a3ee6a276f02522bd169195d628cfc9hbgmb82p.html"
+   ],
+   "fixture": {
+    "id": 91000208,
+    "timestamp": 1786057200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
    "events": []
   },
   {
@@ -17720,6 +17929,18 @@
     "gols": 1
    },
    {
+    "jogador": "Dudu",
+    "time": "Athletico-PR",
+    "time_id": 900004,
+    "gols": 1
+   },
+   {
+    "jogador": "João Cruz",
+    "time": "Athletico-PR",
+    "time_id": 900004,
+    "gols": 1
+   },
+   {
     "jogador": "Maurício",
     "time": "Palmeiras",
     "time_id": 900002,
@@ -17881,6 +18102,103 @@
   "copa_do_brasil": {
    "nome": "Copa do Brasil",
    "fases": [
+    {
+     "nome": "Quinta fase",
+     "confrontos": [
+      {
+       "times": [
+        900004,
+        900028
+       ],
+       "nomes": [
+        "Athletico-PR",
+        "Atlético-GO"
+       ],
+       "agregado": [
+        0,
+        0
+       ],
+       "penaltis": [
+        4,
+        1
+       ],
+       "vencedor": 900004,
+       "jogos": [
+        {
+         "id": 91000205,
+         "data": "2026-04-23T21:30",
+         "casa": 900004,
+         "fora": 900028,
+         "gc": 0,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena da Baixada",
+         "cidade": "Curitiba"
+        },
+        {
+         "id": 91000206,
+         "data": "2026-05-14T19:00",
+         "casa": 900028,
+         "fora": 900004,
+         "gc": 0,
+         "gf": 0,
+         "pen": "1x4",
+         "status": "encerrado",
+         "estadio": "Estádio Antônio Accioly",
+         "cidade": "Goiânia"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Oitavas de final",
+     "confrontos": [
+      {
+       "times": [
+        900004,
+        900014
+       ],
+       "nomes": [
+        "Athletico-PR",
+        "Vitória"
+       ],
+       "agregado": [
+        2,
+        4
+       ],
+       "penaltis": null,
+       "vencedor": 900014,
+       "jogos": [
+        {
+         "id": 91000207,
+         "data": "2026-08-03T21:00",
+         "casa": 900004,
+         "fora": 900014,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena da Baixada",
+         "cidade": "Curitiba"
+        },
+        {
+         "id": 91000208,
+         "data": "2026-08-06T20:00",
+         "casa": 900014,
+         "fora": 900004,
+         "gc": 4,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Barradão",
+         "cidade": "Salvador"
+        }
+       ]
+      }
+     ]
+    },
     {
      "nome": "Semifinal",
      "confrontos": [
