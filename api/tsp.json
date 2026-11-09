@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08T20:11:00-03:00",
+ "gerado": "2026-11-08T22:13:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -12025,14 +12025,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/08/ceara-perde-para-o-rebaixado-america-mg-e-adia-permanencia-na-serie-b.html",
+    "https://www.otempo.com.br/sports/america/2026/11/8/analise-america-faz-bom-segundo-tempo-vence-a-quarta-seguida-e-deixa-o-ceara-em-apuros-na-serie-b"
    ],
    "fixture": {
     "id": 91000142,
     "timestamp": 1794176100,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Castelão",
@@ -12054,8 +12056,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -12109,21 +12111,40 @@
      "atualizado": "2026-11-08T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Segovinha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/times/goias/goias-vence-a-ponte-com-gol-no-fim-e-segue-na-briga-pelos-playoffs-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/goias-vence-ponte-preta-no-fim-e-decide-vaga-no-g6-na-ultima-rodada,ef1eedab1e4123f493d898014e134f1eyflpeqje.html"
    ],
    "fixture": {
     "id": 91000143,
     "timestamp": 1794176100,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Serrinha",
@@ -12145,8 +12166,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -12199,7 +12220,24 @@
      "atualizado": "2026-11-08T14:25:00-03:00"
     }
    },
-   "events": []
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+5"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Nicolas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -13974,6 +14012,20 @@
      ],
      [
       7,
+      900030,
+      "Goiás",
+      58,
+      37,
+      17,
+      7,
+      13,
+      -2,
+      "",
+      39,
+      41
+     ],
+     [
+      8,
       900028,
       "Atlético-GO",
       58,
@@ -13985,20 +14037,6 @@
       "",
       45,
       35
-     ],
-     [
-      8,
-      900030,
-      "Goiás",
-      55,
-      36,
-      16,
-      7,
-      13,
-      -3,
-      "",
-      38,
-      41
      ],
      [
       9,
@@ -14103,14 +14141,14 @@
       900035,
       "Ceará",
       43,
-      36,
+      37,
       11,
       10,
-      15,
-      -8,
+      16,
+      -9,
       "",
       38,
-      46
+      47
      ],
      [
       17,
@@ -14144,14 +14182,14 @@
       19,
       900039,
       "América-MG",
-      26,
-      36,
-      7,
+      29,
+      37,
+      8,
       5,
       24,
-      -29,
+      -28,
       "",
-      26,
+      27,
       55
      ],
      [
@@ -14159,14 +14197,14 @@
       900040,
       "Ponte Preta",
       15,
-      36,
+      37,
       3,
       6,
-      27,
-      -57,
+      28,
+      -58,
       "",
       21,
-      78
+      79
      ]
     ]
    ]
@@ -14561,6 +14599,12 @@
   ],
   "serie_b": [
    {
+    "jogador": "Segovinha",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 3
+   },
+   {
     "jogador": "Chrystian Barletta",
     "time": "Sport",
     "time_id": 900027,
@@ -14600,12 +14644,6 @@
     "jogador": "Matheus Bianqui",
     "time": "Novorizontino",
     "time_id": 900021,
-    "gols": 2
-   },
-   {
-    "jogador": "Segovinha",
-    "time": "América-MG",
-    "time_id": 900039,
     "gols": 2
    },
    {
@@ -14828,6 +14866,12 @@
     "jogador": "Morelli",
     "time": "Botafogo-SP",
     "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Nicolas",
+    "time": "Goiás",
+    "time_id": 900030,
     "gols": 1
    },
    {

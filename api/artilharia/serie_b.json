@@ -1,5 +1,11 @@
 [
  {
+  "jogador": "Segovinha",
+  "time": "América-MG",
+  "time_id": 900039,
+  "gols": 3
+ },
+ {
   "jogador": "Chrystian Barletta",
   "time": "Sport",
   "time_id": 900027,
@@ -39,12 +45,6 @@
   "jogador": "Matheus Bianqui",
   "time": "Novorizontino",
   "time_id": 900021,
-  "gols": 2
- },
- {
-  "jogador": "Segovinha",
-  "time": "América-MG",
-  "time_id": 900039,
   "gols": 2
  },
  {
@@ -267,6 +267,12 @@
   "jogador": "Morelli",
   "time": "Botafogo-SP",
   "time_id": 900032,
+  "gols": 1
+ },
+ {
+  "jogador": "Nicolas",
+  "time": "Goiás",
+  "time_id": 900030,
   "gols": 1
  },
  {

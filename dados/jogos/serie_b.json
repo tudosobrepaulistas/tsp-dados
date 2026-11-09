@@ -2908,22 +2908,31 @@
    "data": "2026-11-08T19:15:00-03:00",
    "casa": "ceara",
    "fora": "america-mg",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Castelão",
    "cidade": "Fortaleza",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Segovinha",
+     "minuto": "51",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/08/ceara-perde-para-o-rebaixado-america-mg-e-adia-permanencia-na-serie-b.html",
+    "https://www.otempo.com.br/sports/america/2026/11/8/analise-america-faz-bom-segundo-tempo-vence-a-quarta-seguida-e-deixa-o-ceara-em-apuros-na-serie-b"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-08T22:13:00-03:00",
    "prejogo": {
     "analise": [
      "Ceará e América-MG se enfrentam no domingo (8/11), às 19h15, na Arena Castelão, em Fortaleza, pela 37ª e penúltima rodada da Série B. O Ceará é o 16º colocado, com 43 pontos, seis à frente do Avaí, primeiro time da zona de rebaixamento, com 37. Segundo o clube, um empate basta para garantir matematicamente a permanência do Alvinegro na Série B. O América-MG é o vice-lanterna, com 26 pontos, e já está rebaixado para a Série C de 2027.",
@@ -2981,22 +2990,31 @@
    "data": "2026-11-08T19:15:00-03:00",
    "casa": "goias",
    "fora": "ponte-preta",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Serrinha",
    "cidade": "Goiânia",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Nicolas",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/times/goias/goias-vence-a-ponte-com-gol-no-fim-e-segue-na-briga-pelos-playoffs-da-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/goias-vence-ponte-preta-no-fim-e-decide-vaga-no-g6-na-ultima-rodada,ef1eedab1e4123f493d898014e134f1eyflpeqje.html"
    ],
-   "atualizado": "2026-11-02T01:54:00-03:00",
+   "atualizado": "2026-11-08T22:13:00-03:00",
    "prejogo": {
     "analise": [
      "Goiás e Ponte Preta se enfrentam no domingo (8/11), às 19h15, na Serrinha, em Goiânia, pela 37ª e penúltima rodada da Série B. Os objetivos são opostos: o Goiás é o 7º colocado, com 55 pontos, empatado com CRB (6º), Sport e Atlético-GO, e briga pela última vaga nos playoffs de acesso (do 3º ao 6º). A Ponte Preta é a lanterna, com 15 pontos em 36 jogos e apenas três vitórias, e já está rebaixada para a Série C.",
