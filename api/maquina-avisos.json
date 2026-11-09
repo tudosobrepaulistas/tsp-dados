@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-09T11:47-03:00",
+ "gerado": "2026-11-09T14:26-03:00",
  "avisos": [
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-07T11:13-03:00",
-   "motivo": "Sem notícia dos últimos 7 dias; blog oficial não abriu",
-   "sugestao": "Mirassol na Copa Paulista Feminina ou entrevista com a técnica Carine Bosetti sobre a 1ª temporada"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-07T11:13-03:00",
-   "motivo": "Zagueiro Luizão anunciado em 04/11 só no Futebol Interior (falta 2ª fonte)",
-   "sugestao": "Lemense contrata zagueiro Luizão, ex-Ponte Preta, com o post oficial do clube"
-  },
   {
    "clube": "tanabi",
    "nome": "Tanabi",
@@ -420,6 +406,20 @@
    "quando": "2026-11-09T11:47-03:00",
    "motivo": "Bloco A3: sem pauta na saída e sem notícia confirmada com foto utilizável nas últimas 48h",
    "sugestao": "Conferir anúncios de reforços e comissão técnica para a A3 de 2027 nas redes de Catanduva, Paulista, Rio Preto e Grêmio Prudente"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-09T14:26-03:00",
+   "motivo": "Cobertura 6h: nenhuma notícia nova nas últimas 24h além da derrota para o Avaí e da despedida contra o Athletic, já publicadas (dgabc, Gazeta, site oficial sem novidade).",
+   "sugestao": "Bastidores da semana do último jogo contra o Athletic (14/11): situação de Bergantin e do elenco para 2027, coletiva da semana."
+  },
+  {
+   "clube": "linense",
+   "nome": "Linense",
+   "quando": "2026-11-09T14:26-03:00",
+   "motivo": "Cobertura 6h bloco A2: sem notícia confirmada nas últimas 48h de Linense, Velo Clube, Água Santa e Santo André (últimas: reforços do Santo André em 03-04/11, já publicados).",
+   "sugestao": "Santo André: apresentação dos reforços para 2027; Linense: novos reforços para o centenário na A2."
   }
  ]
 }
