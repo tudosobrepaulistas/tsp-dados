@@ -1,0 +1,494 @@
+{
+ "competicao": "paranaense",
+ "jogos": [
+  {
+   "id": 91000195,
+   "data": "2026-01-08T20:30:00-03:00",
+   "casa": "andraus",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/com-gols-de-chiqueti-e-bruninho-athletico-pr-bate-andraus-na-estreia-do-paranaense",
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/com-time-misto-athletico-pr-bate-o-andraus-em-estreia-no-paranaense/"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Claudemir Sturion",
+     "time": "Luís Carlos; Cleiton, Daniel Oliveira, Gabriel Recife, Ronald; Caio Lino, Thiago Primão, Felipe Valdívia, Caio Cézar; Lisboa, Lucão",
+     "entraram": [
+      {
+       "jogador": "Tiago Brito",
+       "saiu": "Ronald",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "João Correia",
+     "time": "Matheus Soares; Gilberto, Lucas Belezi, Habraão, Claudinho; Diogo Riquelme, João Cruz, Dudu Kogitzki; Felipe Chiqueti, Bruninho, Renan Peixoto",
+     "entraram": [
+      {
+       "jogador": "Gustavo Veiga",
+       "saiu": "Claudinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kayke Airton",
+       "saiu": "João Cruz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sorriso",
+       "saiu": "Felipe Chiqueti",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Marezi",
+       "saiu": "Bruninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renan Viana",
+       "saiu": "Renan Peixoto",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/com-gols-de-chiqueti-e-bruninho-athletico-pr-bate-andraus-na-estreia-do-paranaense"
+    ],
+    "atualizado": "2026-11-09T18:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000196,
+   "data": "2026-01-11T17:30:00-03:00",
+   "casa": "cianorte",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Estádio Albino Turbay",
+   "cidade": "Cianorte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3748665",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/com-garotos-e-reforco-athletico-empata-com-cianorte-pelo-paranaense"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00"
+  },
+  {
+   "id": 91000197,
+   "data": "2026-01-14T20:30:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "operario-pr",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/bruninho-brilha-e-athletico-pr-bate-operario-pr-pelo-campeonato-paranaense/",
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/giro-dos-estaduais-athletico-pr-vence-o-operario-e-segue-na-cola-do-londrina-no-paranaense/"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "João Correia",
+     "time": "Mycael; Gilberto, Habraão, Léo Pelé, Claudinho; Diogo Riquelme, Raul, João Cruz; Leozinho, Felipe Chiqueti, Luiz Fernando",
+     "entraram": [
+      {
+       "jogador": "Lucas Belezi",
+       "saiu": "Habraão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alejandro García",
+       "saiu": "Raul",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu Kogitzki",
+       "saiu": "João Cruz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruninho",
+       "saiu": "Leozinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mastriani",
+       "saiu": "Felipe Chiqueti",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Marezi",
+       "saiu": "Luiz Fernando",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Alex de Souza",
+     "time": "Elias; André, José Cuenú, JP Torres, Moraes Júnior; Índio, Vinícius Diniz, Pedro Vilhena, Gabriel Boschilia; Hildeberto Pereira, Aylon",
+     "entraram": [
+      {
+       "jogador": "Juan Zuluaga",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Paraíba",
+       "saiu": "José Cuenú",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu Mosconi",
+       "saiu": "Pedro Vilhena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Gaúcho",
+       "saiu": "Hildeberto Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauã Gomes",
+       "saiu": "Aylon",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/bruninho-brilha-e-athletico-pr-bate-operario-pr-pelo-campeonato-paranaense/"
+    ],
+    "atualizado": "2026-11-09T18:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000198,
+   "data": "2026-01-17T16:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Lucas Ronier",
+     "minuto": "48",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3750644",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/coritiba-vence-athletico-pr-pelo-estadual-e-amplia-tabu-no-classico-paranaense"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00"
+  },
+  {
+   "id": 91000199,
+   "data": "2026-01-20T20:00:00-03:00",
+   "casa": "azuriz",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Estádio Os Pioneiros",
+   "cidade": "Pato Branco",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3751695",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-sofre-virada-em-tres-minutos-e-perde-segunda-consecutiva-no-paranaense/"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00"
+  },
+  {
+   "id": 91000200,
+   "data": "2026-01-24T16:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "galo-maringa",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 4,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/garotos-brilham-athletico-pr-goleia-galo-maringa-e-garante-classificacao-no-estadual",
+    "https://www.terra.com.br/esportes/atletico-pr/athletico-goleia-galo-maringa-e-se-classifica-para-as-quartas-do-paranaense,84f721d8178593033d450c3fb46dfc45a9djrcw6.html"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00"
+  },
+  {
+   "id": 91000201,
+   "data": "2026-02-03T20:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "foz-do-iguacu",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final - ida",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 5,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/viveros-perde-dois-penaltis-mas-athletico-pr-massacra-foz-do-iguacu-pelo-paranaense/",
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/luiz-gustavo-estreia-athletico-pr-goleia-foz-do-iguacu-e-encaminha-vaga-nas-semis-do-paranaense/"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Odair Hellmann",
+     "time": "Santos; Arthur Dias, Aguirre, Esquivel; Gilberto, Juan Portilla, Bruno Zapelli, Léo Derik; Mendoza, Kevin Viveros, Felipe Chiqueti",
+     "entraram": [
+      {
+       "jogador": "Leozinho",
+       "saiu": "Gilberto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Gustavo",
+       "saiu": "Juan Portilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Cruz",
+       "saiu": "Bruno Zapelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruninho",
+       "saiu": "Mendoza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Julimar",
+       "saiu": "Kevin Viveros",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Adriano Santos",
+     "time": "André Juniô; Alan Dias, Thyller, Breno, John Lessa, Arthur Vignoli; Menezes, Junior Palmares, Hiago Monteiro; Vinicius Peixoto, Lucas Alves",
+     "entraram": [
+      {
+       "jogador": "Alex Rocha",
+       "saiu": "Thyller",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Adisa",
+       "saiu": "Junior Palmares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel",
+       "saiu": "Vinicius Peixoto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcos Uberaba",
+       "saiu": "Lucas Alves",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/viveros-perde-dois-penaltis-mas-athletico-pr-massacra-foz-do-iguacu-pelo-paranaense/"
+    ],
+    "atualizado": "2026-11-09T18:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000202,
+   "data": "2026-02-07T16:00:00-03:00",
+   "casa": "foz-do-iguacu",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final - volta",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 1,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-vence-foz-do-iguacu-novamente-e-avanca-a-semifinal-do-paranaense/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-vence-foz-do-iguacu-outra-vez-e-avanca-a-semi-do-paranaense-com-facilidade"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00"
+  },
+  {
+   "id": 91000203,
+   "data": "2026-02-15T18:30:00-03:00",
+   "casa": "londrina",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Estádio do Café",
+   "cidade": "Londrina",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-vira-mas-cede-empate-ao-londrina-na-ida-da-semi-pelo-paranaense/",
+    "https://www.lance.com.br/futebol-nacional/athletico-e-londrina-empatam-na-ida-da-semifinal-do-paranaense.html"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Allan Aal",
+     "time": "Mauricio Kozlinski; Mauricio Lima, Yago Lincoln, Wallace Reis, Kevyn; André Luiz, Lucas Marques, Paulinho Moccelin, Vitinho; Iago Teles, Bruno Santos",
+     "entraram": [
+      {
+       "jogador": "Fabiano",
+       "saiu": "Lucas Marques",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "Paulinho Moccelin",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Jacará",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Pedro",
+       "saiu": "Iago Teles",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Tavares",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "João Correia",
+     "time": "Mycael; Gilberto, Juan Felipe Aguirre, Léo Pelé, Claudinho; Diogo Riquelme, Jadson, Dudu Kogitzki; Bruninho, Felipe Chiqueti, Renan Viana",
+     "entraram": [
+      {
+       "jogador": "Raul",
+       "saiu": "Jadson",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Cruz",
+       "saiu": "Dudu Kogitzki",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sorriso",
+       "saiu": "Bruninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Amorim",
+       "saiu": "Renan Viana",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leozinho",
+       "saiu": "Lucas Amorim",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-vira-mas-cede-empate-ao-londrina-na-ida-da-semi-pelo-paranaense/"
+    ],
+    "atualizado": "2026-11-09T18:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000204,
+   "data": "2026-02-22T15:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "londrina",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-derrota-londrina-eliminacao-paranaense-semifinal/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/joao-cruz-perde-penalti-londrina-derrota-athletico-e-vai-a-final-do-paranaense"
+   ],
+   "atualizado": "2026-11-09T18:36:00-03:00"
+  }
+ ]
+}

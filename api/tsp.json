@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09T13:34:00-03:00",
+ "gerado": "2026-11-09T18:36:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1173,6 +1173,13 @@
    "temporada": 2026,
    "formato": "historico",
    "status": "historico"
+  },
+  {
+   "chave": "paranaense",
+   "nome": "Campeonato Paranaense",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ],
  "times": {
@@ -1455,6 +1462,36 @@
   "900047": {
    "chave": "tombense",
    "nome": "Tombense",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900048": {
+   "chave": "andraus",
+   "nome": "Andraus",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900049": {
+   "chave": "cianorte",
+   "nome": "Cianorte",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900050": {
+   "chave": "azuriz",
+   "nome": "Azuriz",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900051": {
+   "chave": "galo-maringa",
+   "nome": "Galo Maringá",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900052": {
+   "chave": "foz-do-iguacu",
+   "nome": "Foz do Iguaçu",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -6789,8 +6826,8 @@
     "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.25,
-     0.54
+     1.24,
+     0.53
     ],
     "base": [
      7,
@@ -6841,12 +6878,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 8,
-    "empate": 13,
-    "fora": 79,
+    "empate": 14,
+    "fora": 78,
     "placar": "0x2",
     "gols_esperados": [
-     0.81,
-     2.81
+     0.8,
+     2.76
     ],
     "base": [
      7,
@@ -6896,16 +6933,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 11,
-    "empate": 24,
-    "fora": 65,
+    "casa": 15,
+    "empate": 27,
+    "fora": 57,
     "placar": "0x1",
     "gols_esperados": [
-     0.51,
-     1.65
+     0.59,
+     1.42
     ],
     "base": [
-     7,
+     8,
      7
     ]
    },
@@ -6957,8 +6994,8 @@
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.81,
-     0.85
+     1.8,
+     0.83
     ],
     "base": [
      7,
@@ -7008,17 +7045,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 84,
-    "empate": 11,
-    "fora": 6,
-    "placar": "3x0",
+    "casa": 69,
+    "empate": 18,
+    "fora": 13,
+    "placar": "2x0",
     "gols_esperados": [
-     3.17,
-     0.77
+     2.37,
+     0.93
     ],
     "base": [
      9,
-     7
+     17
     ]
    },
    "events": []
@@ -7065,12 +7102,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 29,
-    "empate": 25,
+    "empate": 26,
     "fora": 46,
     "placar": "1x1",
     "gols_esperados": [
-     1.15,
-     1.53
+     1.14,
+     1.51
     ],
     "base": [
      7,
@@ -7125,8 +7162,8 @@
     "fora": 23,
     "placar": "1x0",
     "gols_esperados": [
-     1.51,
-     0.92
+     1.5,
+     0.9
     ],
     "base": [
      7,
@@ -7177,12 +7214,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 62,
-    "empate": 21,
+    "empate": 22,
     "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.94,
-     0.88
+     1.92,
+     0.86
     ],
     "base": [
      9,
@@ -7237,8 +7274,8 @@
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.65,
-     0.96
+     1.63,
+     0.95
     ],
     "base": [
      9,
@@ -7289,12 +7326,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 26,
-    "empate": 21,
-    "fora": 53,
-    "placar": "1x2",
+    "empate": 22,
+    "fora": 52,
+    "placar": "1x1",
     "gols_esperados": [
-     1.36,
-     2.03
+     1.35,
+     1.99
     ],
     "base": [
      7,
@@ -7349,8 +7386,8 @@
     "fora": 43,
     "placar": "0x1",
     "gols_esperados": [
-     0.93,
-     1.23
+     0.92,
+     1.21
     ],
     "base": [
      7,
@@ -7405,8 +7442,8 @@
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.24,
-     0.75
+     1.23,
+     0.74
     ],
     "base": [
      11,
@@ -7456,17 +7493,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 72,
-    "empate": 19,
-    "fora": 9,
+    "casa": 65,
+    "empate": 23,
+    "fora": 12,
     "placar": "1x0",
     "gols_esperados": [
-     1.97,
-     0.51
+     1.7,
+     0.58
     ],
     "base": [
      7,
-     7
+     8
     ]
    },
    "events": []
@@ -7517,8 +7554,8 @@
     "fora": 86,
     "placar": "0x3",
     "gols_esperados": [
-     0.85,
-     3.61
+     0.84,
+     3.55
     ],
     "base": [
      7,
@@ -7568,16 +7605,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
-    "empate": 19,
-    "fora": 16,
-    "placar": "2x1",
+    "casa": 79,
+    "empate": 13,
+    "fora": 8,
+    "placar": "2x0",
     "gols_esperados": [
-     2.27,
-     1.01
+     2.78,
+     0.75
     ],
     "base": [
-     7,
+     17,
      7
     ]
    },
@@ -7629,8 +7666,8 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.41,
-     0.79
+     1.4,
+     0.78
     ],
     "base": [
      9,
@@ -7680,13 +7717,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
+    "casa": 47,
     "empate": 22,
-    "fora": 32,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.94,
-     1.58
+     1.92,
+     1.55
     ],
     "base": [
      7,
@@ -7737,12 +7774,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 62,
-    "empate": 22,
+    "empate": 23,
     "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.81,
-     0.79
+     1.8,
+     0.78
     ],
     "base": [
      7,
@@ -7798,7 +7835,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.66,
-     0.99
+     0.97
     ],
     "base": [
      7,
@@ -7849,12 +7886,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 42,
-    "empate": 27,
-    "fora": 31,
+    "empate": 28,
+    "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.32,
-     1.08
+     1.31,
+     1.07
     ],
     "base": [
      7,
@@ -7905,12 +7942,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 52,
-    "empate": 25,
-    "fora": 23,
+    "empate": 26,
+    "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.56,
-     0.93
+     1.55,
+     0.92
     ],
     "base": [
      11,
@@ -13580,17 +13617,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 23,
-    "empate": 29,
-    "fora": 48,
+    "casa": 26,
+    "empate": 31,
+    "fora": 43,
     "placar": "0x1",
     "gols_esperados": [
-     0.79,
-     1.29
+     0.82,
+     1.13
     ],
     "base": [
      7,
-     8
+     9
     ]
    },
    "events": []
@@ -13641,8 +13678,8 @@
     "fora": 14,
     "placar": "2x1",
     "gols_esperados": [
-     2.54,
-     1.08
+     2.52,
+     1.07
     ],
     "base": [
      7,
@@ -13692,13 +13729,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 42,
+    "casa": 41,
     "empate": 45,
     "fora": 14,
     "placar": "0x0",
     "gols_esperados": [
      0.71,
-     0.3
+     0.29
     ],
     "base": [
      10,
@@ -13748,16 +13785,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 28,
-    "fora": 11,
+    "casa": 68,
+    "empate": 24,
+    "fora": 8,
     "placar": "1x0",
     "gols_esperados": [
-     1.36,
-     0.42
+     1.57,
+     0.37
     ],
     "base": [
-     7,
+     9,
      7
     ]
    },
@@ -13809,8 +13846,8 @@
     "fora": 30,
     "placar": "1x0",
     "gols_esperados": [
-     1.19,
-     0.99
+     1.18,
+     0.97
     ],
     "base": [
      7,
@@ -13862,11 +13899,11 @@
    "previsao": {
     "casa": 50,
     "empate": 34,
-    "fora": 16,
+    "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.06,
-     0.45
+     1.05,
+     0.44
     ],
     "base": [
      7,
@@ -13917,12 +13954,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 24,
-    "empate": 34,
+    "empate": 35,
     "fora": 41,
     "placar": "0x0",
     "gols_esperados": [
      0.66,
-     0.96
+     0.94
     ],
     "base": [
      7,
@@ -13974,11 +14011,11 @@
    "previsao": {
     "casa": 28,
     "empate": 29,
-    "fora": 44,
+    "fora": 43,
     "placar": "0x1",
     "gols_esperados": [
      0.94,
-     1.27
+     1.25
     ],
     "base": [
      7,
@@ -14033,8 +14070,8 @@
     "fora": 14,
     "placar": "1x0",
     "gols_esperados": [
-     1.81,
-     0.7
+     1.8,
+     0.69
     ],
     "base": [
      7,
@@ -14085,12 +14122,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 32,
-    "empate": 30,
+    "empate": 31,
     "fora": 38,
     "placar": "0x1",
     "gols_esperados": [
-     0.96,
-     1.08
+     0.95,
+     1.07
     ],
     "base": [
      7,
@@ -15911,6 +15948,463 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/com-gols-de-chiqueti-e-bruninho-athletico-pr-bate-andraus-na-estreia-do-paranaense",
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/com-time-misto-athletico-pr-bate-o-andraus-em-estreia-no-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000195,
+    "timestamp": 1767915000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900048,
+     "name": "Andraus"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3748665",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/com-garotos-e-reforco-athletico-empata-com-cianorte-pelo-paranaense"
+   ],
+   "fixture": {
+    "id": 91000196,
+    "timestamp": 1768163400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Estádio Albino Turbay",
+     "city": "Cianorte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900049,
+     "name": "Cianorte"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/bruninho-brilha-e-athletico-pr-bate-operario-pr-pelo-campeonato-paranaense/",
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/giro-dos-estaduais-athletico-pr-vence-o-operario-e-segue-na-cola-do-londrina-no-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000197,
+    "timestamp": 1768433400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3750644",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/coritiba-vence-athletico-pr-pelo-estadual-e-amplia-tabu-no-classico-paranaense"
+   ],
+   "fixture": {
+    "id": 91000198,
+    "timestamp": 1768676400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 48,
+      "extra": null,
+      "texto": "48"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Lucas Ronier"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3751695",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-sofre-virada-em-tres-minutos-e-perde-segunda-consecutiva-no-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000199,
+    "timestamp": 1768950000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Estádio Os Pioneiros",
+     "city": "Pato Branco"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900050,
+     "name": "Azuriz"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/garotos-brilham-athletico-pr-goleia-galo-maringa-e-garante-classificacao-no-estadual",
+    "https://www.terra.com.br/esportes/atletico-pr/athletico-goleia-galo-maringa-e-se-classifica-para-as-quartas-do-paranaense,84f721d8178593033d450c3fb46dfc45a9djrcw6.html"
+   ],
+   "fixture": {
+    "id": 91000200,
+    "timestamp": 1769281200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900051,
+     "name": "Galo Maringá"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/viveros-perde-dois-penaltis-mas-athletico-pr-massacra-foz-do-iguacu-pelo-paranaense/",
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/luiz-gustavo-estreia-athletico-pr-goleia-foz-do-iguacu-e-encaminha-vaga-nas-semis-do-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000201,
+    "timestamp": 1770159600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900052,
+     "name": "Foz do Iguaçu"
+    }
+   },
+   "goals": {
+    "home": 5,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-vence-foz-do-iguacu-novamente-e-avanca-a-semifinal-do-paranaense/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-vence-foz-do-iguacu-outra-vez-e-avanca-a-semi-do-paranaense-com-facilidade"
+   ],
+   "fixture": {
+    "id": 91000202,
+    "timestamp": 1770490800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900052,
+     "name": "Foz do Iguaçu"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-vira-mas-cede-empate-ao-londrina-na-ida-da-semi-pelo-paranaense/",
+    "https://www.lance.com.br/futebol-nacional/athletico-e-londrina-empatam-na-ida-da-semifinal-do-paranaense.html"
+   ],
+   "fixture": {
+    "id": 91000203,
+    "timestamp": 1771191000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Estádio do Café",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-derrota-londrina-eliminacao-paranaense-semifinal/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/joao-cruz-perde-penalti-londrina-derrota-athletico-e-vai-a-final-do-paranaense"
+   ],
+   "fixture": {
+    "id": 91000204,
+    "timestamp": 1771783200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   }
  ],
  "classificacao": {
@@ -17371,6 +17865,14 @@
     "jogador": "Thiago Rubim",
     "time": "Pouso Alegre",
     "time_id": 900044,
+    "gols": 1
+   }
+  ],
+  "paranaense": [
+   {
+    "jogador": "Lucas Ronier",
+    "time": "Coritiba",
+    "time_id": 900012,
     "gols": 1
    }
   ]
