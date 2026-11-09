@@ -33,15 +33,17 @@ Faça **um commit e push depois de cada matéria** (se a execução cair no meio
    - **noticia**: fato novo confirmado por **2 fontes independentes** (o site oficial do clube + um jornal conta como 2).
    - **coletiva**: entrevista/pronunciamento publicado pelo próprio clube (vídeo ou texto). Use só falas que aparecem na fonte, entre aspas, com o nome de quem falou. Pode ser 1 fonte (o canal oficial), mas cite o link.
    - **historia** = conteúdo **evergreen** (sem notícia nova). Clubes **sem divisão** quase não têm notícia fora da temporada:
-     para eles, sem notícia, **faça evergreen** (até **3 por dia**); para A4 e feminino, no máximo **1 por dia** (total da Máquina: 4 por dia),
-     e sempre **1 por clube a cada 30 dias** (a ferramenta recusa o excesso). Varie o formato, não só "a história do clube":
+     **A cota de 8 por grupo é obrigatória** (pedido do Thiago, 08/11/2026: A4 e sem divisão estavam com 2 a 4 por dia).
+     Sem notícia, **faça evergreen**: até **4 por dia** dos clubes sem divisão, **4 da A4** e **2 do feminino**,
+     e **1 por clube a cada 14 dias** (a ferramenta recusa o excesso). Antes de desistir de um grupo, passe por TODOS os
+     clubes dele (não só os 6 primeiros): coletiva/entrevista no canal oficial, post do site oficial, jornal da cidade. Varie o formato, não só "a história do clube":
      guia do estádio (onde fica, como chegar, capacidade), ídolos e "você sabia que Fulano jogou no clube", títulos e acessos,
      rivalidades e clássicos regionais, apelidos e mascote, como está o clube hoje (diretoria, base, projetos) e o que esperar
      da próxima temporada (só com fonte). Nada de lista de jogos antigos e estatísticas. Sem tema seguro, **peça a pauta** com `sem-pauta`.
      Tema histórico, quando usar: tema histórico/atemporal **conferido em pelo menos 1 fonte confiável** (de preferência 2): títulos, acessos, ídolos, "você sabia que Fulano jogou no clube", estádio, rivalidades, apelidos (ex.: "O que foi o Carrossel Caipira", "Os títulos do Araçatuba", "Craques que passaram pelo Matonense"). Nunca preencha lacuna com suposição: data, placar ou nome sem fonte fica de fora.
 6. Sem notícia (ou com a cota de histórias do dia cheia)? **Não escreva.** Rode
    `maquina.py sem-pauta CLUBE --motivo "..." --sugestao "pauta concreta para um redator"` e passe para o próximo clube da lista.
-   Se nenhum dos 6 render, registre os avisos e termine (o horário fica vazio, sem problema).
+   Só termine com o grupo abaixo de 8 depois de tentar todos os clubes dele; diga no resumo quantos faltaram e por quê.
 7. Monte o JSON (formato abaixo) em `/tmp/materia.json` e rode `maquina.py adicionar /tmp/materia.json`. A ferramenta recusa
    título repetido, palavra-chave repetida, fonte proibida, conteúdo de aposta e horário ocupado. Corrija e rode de novo.
 8. `git add -A && git commit -m "máquina: <clube> - <título curto>" && git push` (com as linhas de coautoria do CLAUDE.md da sessão).

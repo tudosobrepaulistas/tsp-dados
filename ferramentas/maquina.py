@@ -521,21 +521,38 @@ def cmd_adicionar(a):
     for i in h:
         if i["clube"] == c["slug"] and (norm(i["titulo"]) == nt or norm(i["foco"]) == norm(it.get("foco", ""))):
             erros.append(f"repetido: já existe '{i['titulo']}' (foco '{i['foco']}')")
-    if c.get("grupo") in ("nacional", "redacao") and it.get("tipo") not in ("noticia", "coletiva", "video") and not posjogo and not pedido:
+    efem = it.get("efemeride") or {}
+    if efem:
+        # "Neste dia" (08/11/2026): 1 por dia, jogo de 10, 15, 20, 25... anos atrás na mesma data, de qualquer divisão
+        dia_pub = (it.get("publish_at") or proximo_slot())[:10]
+        try:
+            dj = datetime.date.fromisoformat(str(efem.get("data", "")))
+            dp = datetime.date.fromisoformat(dia_pub)
+            if (dj.month, dj.day) != (dp.month, dp.day) or (dp.year - dj.year) % 5 or dp.year - dj.year < 5:
+                erros.append(f"efeméride: o jogo ({dj}) precisa ser no mesmo dia e mês da publicação ({dp}), há 5, 10, 15, 20... anos")
+        except ValueError:
+            erros.append("efeméride: data = 'AAAA-MM-DD' do jogo histórico")
+        if it.get("tipo") != "historia" or len(fontes) < 1:
+            erros.append("efeméride: tipo 'historia' com pelo menos 1 fonte (jornal da época, site oficial, FPF, Wikipédia)")
+        if any(i.get("efemeride") and i["publish_at"][:10] == dia_pub for i in historico()["itens"]):
+            erros.append(f"já há matéria 'Neste dia' para {dia_pub}")
+    if c.get("grupo") in ("nacional", "redacao") and it.get("tipo") not in ("noticia", "coletiva", "video") and not posjogo and not pedido and not efem:
         erros.append("clube da redação (Séries A/B, A1 a A3): só notícia ou coletiva atualizada (nada de evergreen)")
     if c.get("grupo") in ("nacional", "redacao") and not it.get("publish_at"):
         it["publish_at"] = (agora() + datetime.timedelta(minutes=5)).strftime("%Y-%m-%d %H:%M")
-    if it.get("tipo") == "historia" and not pedido:
+    if it.get("tipo") == "historia" and not pedido and not efem:
         dia = (it.get("publish_at") or proximo_slot())[:10]
         hist_dia = [i for i in h if i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"][:10] == dia]
         sd_dia = [i for i in hist_dia if grupo_de(i["clube"]) == "sem_divisao"]
-        # Evergreen: até 4 por dia no total (3 de clubes sem divisão, que quase não têm notícia fora da temporada, e 1 dos demais)
-        if (c.get("grupo") == "sem_divisao" and len(sd_dia) >= 3) or (c.get("grupo") != "sem_divisao" and len(hist_dia) - len(sd_dia) >= 1) or len(hist_dia) >= 4:
-            erros.append(f"já há {len(hist_dia)} matérias evergreen para {dia} (máximo 3 de clubes sem divisão + 1 dos demais, para não ficar repetitivo): "
+        # Evergreen (08/11/2026, fora de temporada A4 e sem divisão quase não têm notícia): até 4 de sem divisão + 4 da A4 + 2 do feminino por dia
+        lim_g = {"sem_divisao": 4, "a4": 4, "feminino": 2}.get(c.get("grupo"), 0)
+        do_grupo = [i for i in hist_dia if grupo_de(i["clube"]) == c.get("grupo")]
+        if len(do_grupo) >= lim_g:
+            erros.append(f"já há {len(do_grupo)} matérias evergreen deste grupo para {dia} (máximo 4 sem divisão, 4 A4, 2 feminino): "
                          "use `sem-pauta CLUBE --motivo ... --sugestao ...` pedindo uma pauta à redação e passe ao próximo clube")
-        lim = (agora() - datetime.timedelta(days=30)).strftime("%Y-%m-%d")
+        lim = (agora() - datetime.timedelta(days=14)).strftime("%Y-%m-%d")
         if any(i["clube"] == c["slug"] and i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"] >= lim for i in h):
-            erros.append("este clube já teve matéria histórica nos últimos 30 dias: peça uma pauta com `sem-pauta` em vez de outra história")
+            erros.append("este clube já teve matéria histórica nos últimos 14 dias: peça uma pauta com `sem-pauta` em vez de outra história")
     if video:
         slot = (agora() + datetime.timedelta(minutes=3)).strftime("%Y-%m-%d %H:%M")
     elif posjogo:
@@ -557,7 +574,7 @@ def cmd_adicionar(a):
     gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
     escrever_indice()
     d = historico()
-    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id")})
+    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id"), "efemeride": (it.get("efemeride") or {}).get("data")})
     d["itens"] = d["itens"][-2000:]
     gravar(M / "historico.json", d)
     print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator'})")
