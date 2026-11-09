@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-09T03:30-03:00",
+ "gerado": "2026-11-09T16:50-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.8.2",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.4.3",
-   "zip": "tsp-nova-era-1.4.3.zip",
-   "notas": "Números da temporada na página dos clubes paulistas; links internos; vitrine com aviso; base e copa nos blocos certos."
+   "versao": "1.4.4",
+   "zip": "tsp-nova-era-1.4.4.zip",
+   "notas": "Arrumação das fotos antigas em ritmo mais leve (30 matérias a cada 20 minutos) para não pesar no servidor."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
