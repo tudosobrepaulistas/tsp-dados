@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-08T20:37-03:00",
+ "gerado": "2026-11-08T23:40-03:00",
  "avisos": [
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-06T13:16-03:00",
-   "motivo": "Sem notícia nova nos últimos 7 dias com 2 fontes (último anúncio: atacante Levy Moreira, 26/10)",
-   "sugestao": "Apurar com o BEC as próximas contratações de Edson Paulista e o andamento da reforma do estádio para a Copinha"
-  },
-  {
-   "clube": "sao-paulo-feminino",
-   "nome": "São Paulo Feminino",
-   "quando": "2026-11-06T13:16-03:00",
-   "motivo": "Sem fato novo confirmado após o título brasileiro; próximo jogo (Santos, 17/11, Pacaembu, Paulistão F) só no calendário do clube",
-   "sugestao": "Prévia de São Paulo x Santos (17/11, Pacaembu) pelo Paulistão Feminino quando o clube divulgar ingressos/fase; volta da semifinal do Paulista F Sub-20 contra a Ferroviária"
-  },
-  {
-   "clube": "atletico-mogi",
-   "nome": "Atlético Mogi",
-   "quando": "2026-11-06T13:16-03:00",
-   "motivo": "Nenhuma notícia recente encontrada em jornais de Mogi nem no Futebol Interior",
-   "sugestao": "Perguntar ao Atlético Mogi se disputará a Segunda Divisão/Copa Paulista em 2027 e quem é o técnico"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-06T13:16-03:00",
-   "motivo": "Nenhuma notícia recente encontrada (última: 101 anos de fundação)",
-   "sugestao": "Apurar com o Amparo AC planos para 2027 e situação do Estádio Municipal"
-  },
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-06T13:19-03:00",
-   "motivo": "Saída de Emily Lima já publicada no site; saída do preparador Joe Montero (04/11) só na Placar, sem 2ª fonte",
-   "sugestao": "Quem será a nova técnica das Brabas e prévia do play-in do Paulistão F contra o Red Bull Bragantino (17 e 22/11)"
-  },
-  {
-   "clube": "palmeiras-feminino",
-   "nome": "Palmeiras Feminino",
-   "quando": "2026-11-06T13:19-03:00",
-   "motivo": "Não encontrei notícia dos últimos 7 dias com 2 fontes (site oficial sem lista de notícias acessível)",
-   "sugestao": "Situação do Palmeiras no Paulistão Feminino 2026 e renovações para 2027"
-  },
   {
    "clube": "santos-feminino",
    "nome": "Santos Feminino",
@@ -420,6 +378,48 @@
    "quando": "2026-11-08T20:37-03:00",
    "motivo": "Bloco A2: Linense, Velo Clube, Água Santa e Santo André sem notícia nova confirmada em 2 fontes nas últimas 48h (última do Santo André é de 03/11).",
    "sugestao": "Santo André: montagem do elenco para a Série A2 de 2027 após a chegada de Júlio Vaz"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-08T23:40-03:00",
+   "motivo": "Cobertura 6h (23h30 de 08/11): Data Fifa; a única novidade das últimas 24h é do adversário (Atlético-MG perde Alan Franco e Alan Minda, convocados pelo Equador, para o jogo de 18/11 — O Tempo e Itatiaia), mas não consegui abrir uma foto de jogo Mirassol x Atlético-MG com crédito oficial para conferir.",
+   "sugestao": "Mirassol x Atlético-MG (18/11): Galo terá desfalques de Alan Franco e Alan Minda, convocados pelo Equador (O Tempo, Itatiaia), e Domínguez falou sobre usar força máxima"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-08T23:40-03:00",
+   "motivo": "Cobertura 6h (23h30 de 08/11): única notícia das últimas 24h é a eliminação do feminino nos pênaltis (já publicada pela Máquina no perfil do feminino); a coletiva de Humberto Simão no canal oficial não tem falas transcritas em fonte que eu possa citar, e a miniatura é arte. Time principal parado na Data Fifa.",
+   "sugestao": "Coletiva de Humberto Simão (Massa Bruta TV, youtube.com/watch?v=LKnwiqe_dFo) avaliando a campanha das Bragantinas na Copa do Brasil"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-08T23:40-03:00",
+   "motivo": "Cobertura 6h (23h30 de 08/11): nada novo confirmado em 2 fontes nas últimas 24h depois do fim da chance de acesso (já publicado).",
+   "sugestao": "Planejamento do Bernô para 2027 e despedida da Série B contra o Athletic no Primeiro de Maio"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-08T23:40-03:00",
+   "motivo": "Cobertura 6h (23h30 de 08/11): pauta do acesso já publicada (jogo, coletiva de Enderson e decisão do título); nada novo confirmado nas últimas 24h, e as miniaturas do canal oficial são artes.",
+   "sugestao": "Festa do acesso em Novo Horizonte e preparação para a decisão do título contra o Criciúma"
+  },
+  {
+   "clube": "primavera",
+   "nome": "Primavera",
+   "quando": "2026-11-08T23:40-03:00",
+   "motivo": "Bloco A1 Cobertura 6h (23h30 de 08/11): pauta do Noroeste (amistoso com o São Paulo) sem foto de jogo do Noroeste com crédito oficial que eu pudesse abrir; Primavera, Ferroviária, Guarani e Juventus sem notícia nova em 48h.",
+   "sugestao": "Noroeste x São Paulo, amistoso no Alfredo de Castilho na sexta, 13, às 20h"
+  },
+  {
+   "clube": "linense",
+   "nome": "Linense",
+   "quando": "2026-11-08T23:40-03:00",
+   "motivo": "Bloco A2 Cobertura 6h (23h30 de 08/11): Linense, Velo Clube, Água Santa e Santo André sem notícia nova confirmada em 2 fontes nas últimas 48h e sem pauta da redação.",
+   "sugestao": "Montagem do elenco do Linense para a Série A2 de 2027"
   }
  ]
 }
