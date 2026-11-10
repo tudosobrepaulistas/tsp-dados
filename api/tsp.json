@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09T18:37:00-03:00",
+ "gerado": "2026-11-09T23:28:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -13579,20 +13579,22 @@
   {
    "liga": "serie_b",
    "temporada": 2026,
-   "obs": "",
+   "obs": "Antecipado pela CBF de 14/11 para 12/11 e levado ao Ítalo Mário Limongi, em Indaiatuba",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://dcmais.com.br/esportes/cbf-altera-data-e-local-da-partida-entre-operario-e-ponte-preta/",
+    "https://cbncampinas.com.br/2026/11/cbf-antecipa-duelo-entre-ponte-preta-e-operario-pr-pela-ultima-rodada-da-serie-b/"
    ],
    "fixture": {
     "id": 91000166,
-    "timestamp": 1794684600,
+    "timestamp": 1794520800,
     "status": {
      "short": "NS",
      "elapsed": null
     },
     "venue": {
-     "name": "Moisés Lucarelli",
-     "city": "Campinas"
+     "name": "Ítalo Mário Limongi",
+     "city": "Indaiatuba"
     },
     "referee": ""
    },

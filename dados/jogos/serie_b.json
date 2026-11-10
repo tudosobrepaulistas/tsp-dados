@@ -3581,25 +3581,27 @@
   },
   {
    "id": 91000166,
-   "data": "2026-11-14T16:30:00-03:00",
+   "data": "2026-11-12T19:00:00-03:00",
    "casa": "ponte-preta",
    "fora": "operario-pr",
    "status": "agendado",
    "rodada": "38",
    "fase": "",
    "grupo": "",
-   "estadio": "Moisés Lucarelli",
-   "cidade": "Campinas",
+   "estadio": "Ítalo Mário Limongi",
+   "cidade": "Indaiatuba",
    "gols_casa": null,
    "gols_fora": null,
    "penaltis": "",
    "minuto": 0,
    "gols": [],
-   "obs": "",
+   "obs": "Antecipado pela CBF de 14/11 para 12/11 e levado ao Ítalo Mário Limongi, em Indaiatuba",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://dcmais.com.br/esportes/cbf-altera-data-e-local-da-partida-entre-operario-e-ponte-preta/",
+    "https://cbncampinas.com.br/2026/11/cbf-antecipa-duelo-entre-ponte-preta-e-operario-pr-pela-ultima-rodada-da-serie-b/"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00"
+   "atualizado": "2026-11-09T23:27:00-03:00"
   },
   {
    "id": 91000167,
