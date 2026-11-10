@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-10T02:55-03:00",
+ "gerado": "2026-11-10T03:00-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.8.4",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.4.6",
-   "zip": "tsp-nova-era-1.4.6.zip",
-   "notas": "Escudos na tabela e nos jogos; colunas alinhadas; colunas sem dado somem; feminino no mesmo estilo."
+   "versao": "1.4.7",
+   "zip": "tsp-nova-era-1.4.7.zip",
+   "notas": "Quadro \"Jogos\" com a mesma altura da tabela (sem espaço vazio); a lista de jogos rola por dentro."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
