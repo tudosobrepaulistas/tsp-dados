@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-10T06:46-03:00",
+ "gerado": "2026-11-10T08:38-03:00",
  "avisos": [
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-08T20:37-03:00",
-   "motivo": "Bloco A2: Linense, Velo Clube, Água Santa e Santo André sem notícia nova confirmada em 2 fontes nas últimas 48h (última do Santo André é de 03/11).",
-   "sugestao": "Santo André: montagem do elenco para a Série A2 de 2027 após a chegada de Júlio Vaz"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-08T23:40-03:00",
-   "motivo": "Cobertura 6h (23h30 de 08/11): Data Fifa; a única novidade das últimas 24h é do adversário (Atlético-MG perde Alan Franco e Alan Minda, convocados pelo Equador, para o jogo de 18/11 — O Tempo e Itatiaia), mas não consegui abrir uma foto de jogo Mirassol x Atlético-MG com crédito oficial para conferir.",
-   "sugestao": "Mirassol x Atlético-MG (18/11): Galo terá desfalques de Alan Franco e Alan Minda, convocados pelo Equador (O Tempo, Itatiaia), e Domínguez falou sobre usar força máxima"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-08T23:40-03:00",
-   "motivo": "Cobertura 6h (23h30 de 08/11): única notícia das últimas 24h é a eliminação do feminino nos pênaltis (já publicada pela Máquina no perfil do feminino); a coletiva de Humberto Simão no canal oficial não tem falas transcritas em fonte que eu possa citar, e a miniatura é arte. Time principal parado na Data Fifa.",
-   "sugestao": "Coletiva de Humberto Simão (Massa Bruta TV, youtube.com/watch?v=LKnwiqe_dFo) avaliando a campanha das Bragantinas na Copa do Brasil"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-08T23:40-03:00",
-   "motivo": "Cobertura 6h (23h30 de 08/11): nada novo confirmado em 2 fontes nas últimas 24h depois do fim da chance de acesso (já publicado).",
-   "sugestao": "Planejamento do Bernô para 2027 e despedida da Série B contra o Athletic no Primeiro de Maio"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-08T23:40-03:00",
-   "motivo": "Cobertura 6h (23h30 de 08/11): pauta do acesso já publicada (jogo, coletiva de Enderson e decisão do título); nada novo confirmado nas últimas 24h, e as miniaturas do canal oficial são artes.",
-   "sugestao": "Festa do acesso em Novo Horizonte e preparação para a decisão do título contra o Criciúma"
-  },
-  {
-   "clube": "primavera",
-   "nome": "Primavera",
-   "quando": "2026-11-08T23:40-03:00",
-   "motivo": "Bloco A1 Cobertura 6h (23h30 de 08/11): pauta do Noroeste (amistoso com o São Paulo) sem foto de jogo do Noroeste com crédito oficial que eu pudesse abrir; Primavera, Ferroviária, Guarani e Juventus sem notícia nova em 48h.",
-   "sugestao": "Noroeste x São Paulo, amistoso no Alfredo de Castilho na sexta, 13, às 20h"
-  },
   {
    "clube": "linense",
    "nome": "Linense",
@@ -420,6 +378,48 @@
    "quando": "2026-11-10T06:46-03:00",
    "motivo": "Página oficial não carregou; sem 2ª fonte para fato novo",
    "sugestao": "Prévia de Bragantino x Corinthians, play-in em 17/11 (estádio a definir)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-10T08:38-03:00",
+   "motivo": "Sem notícia nova confirmada nas últimas 24h. Wmais e Portal Mídia Esporte (09-10/11) dizem que a CBF antecipou São Bernardo x Athletic para quinta, 12/11, 20h; o Diário do Grande ABC (09/11) ainda fala em sábado, 14/11, 16h30. Fontes discordam.",
+   "sugestao": "Conferir na tabela detalhada da CBF a data de São Bernardo x Athletic (38ª rodada) e, se mudou, atualizar a base e publicar a mudança"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-10T08:38-03:00",
+   "motivo": "Sem notícia nova nas últimas 24h (eliminação do feminino foi em 08/11; site do clube sem novidade).",
+   "sugestao": "Resultado do sorteio do Paulistão 2027 (hoje, 17h): grupo e adversários do Bragantino"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-10T08:38-03:00",
+   "motivo": "Sem notícia nova confirmada nas últimas 24h.",
+   "sugestao": "Resultado do sorteio do Paulistão 2027 (hoje, 17h) e preparação para Juventude x Botafogo-SP, sábado 14/11, 16h30"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-10T08:38-03:00",
+   "motivo": "Sem notícia nova confirmada nas últimas 24h (data do jogo com o Atlético-MG já divulgada em 30/10).",
+   "sugestao": "Mirassol x Atlético-MG, sábado 14/11, 18h30, no Maião: treinos da semana e desfalques; sorteio do Paulistão 2027 às 17h"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-10T08:38-03:00",
+   "motivo": "Bloco A1: pautas listadas já publicadas (Noroeste x São Paulo, Portuguesa) e sem notícia nova confirmada para Juventus, Primavera e Portuguesa.",
+   "sugestao": "Sorteio do Paulistão 2027 (hoje, 17h): adversários de cada clube da A1"
+  },
+  {
+   "clube": "linense",
+   "nome": "Linense",
+   "quando": "2026-11-10T08:38-03:00",
+   "motivo": "Bloco A2: sem pauta listada e sem notícia confirmada nas últimas 48h para Linense, Velo Clube, Água Santa e São José.",
+   "sugestao": "Sorteio/tabela da A2 2027 e reforços anunciados pelos clubes"
   }
  ]
 }
