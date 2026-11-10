@@ -1,5 +1,17 @@
 [
  {
+  "jogador": "Hygor",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
+  "gols": 4
+ },
+ {
+  "jogador": "Morelli",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
+  "gols": 4
+ },
+ {
   "jogador": "Gustavo Coutinho",
   "time": "Atlético-GO",
   "time_id": 900028,
@@ -36,12 +48,6 @@
   "gols": 2
  },
  {
-  "jogador": "Hygor",
-  "time": "Botafogo-SP",
-  "time_id": 900032,
-  "gols": 2
- },
- {
   "jogador": "Kadu Sousa",
   "time": "Goiás",
   "time_id": 900030,
@@ -75,6 +81,12 @@
   "jogador": "Anselmo Ramon",
   "time": "Goiás",
   "time_id": 900030,
+  "gols": 1
+ },
+ {
+  "jogador": "Badaró",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
   "gols": 1
  },
  {
@@ -138,6 +150,12 @@
   "gols": 1
  },
  {
+  "jogador": "Daniel Amorim",
+  "time": "São Bernardo",
+  "time_id": 900031,
+  "gols": 1
+ },
+ {
   "jogador": "Daniel Davi",
   "time": "São Bernardo",
   "time_id": 900031,
@@ -165,6 +183,12 @@
   "jogador": "Eduardo Brock",
   "time": "Novorizontino",
   "time_id": 900021,
+  "gols": 1
+ },
+ {
+  "jogador": "Elizari",
+  "time": "América-MG",
+  "time_id": 900039,
   "gols": 1
  },
  {
@@ -300,12 +324,6 @@
   "gols": 1
  },
  {
-  "jogador": "Morelli",
-  "time": "Botafogo-SP",
-  "time_id": 900032,
-  "gols": 1
- },
- {
   "jogador": "Nicolas",
   "time": "Goiás",
   "time_id": 900030,
@@ -342,7 +360,19 @@
   "gols": 1
  },
  {
+  "jogador": "Rodrigo Ferreira",
+  "time": "São Bernardo",
+  "time_id": 900031,
+  "gols": 1
+ },
+ {
   "jogador": "Rodriguinho",
+  "time": "Fortaleza",
+  "time_id": 900024,
+  "gols": 1
+ },
+ {
+  "jogador": "Ronald",
   "time": "Fortaleza",
   "time_id": 900024,
   "gols": 1
@@ -351,6 +381,18 @@
   "jogador": "Thiaguinho",
   "time": "CRB",
   "time_id": 900026,
+  "gols": 1
+ },
+ {
+  "jogador": "Victor Andrade",
+  "time": "Náutico",
+  "time_id": 900036,
+  "gols": 1
+ },
+ {
+  "jogador": "Vilar",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
   "gols": 1
  },
  {

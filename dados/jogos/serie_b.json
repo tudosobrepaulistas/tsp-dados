@@ -1,6 +1,280 @@
 {
  "jogos": [
   {
+   "id": 91000238,
+   "data": "2026-03-21T19:15:00-03:00",
+   "casa": "botafogo-sp",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Santa Cruz (Arena Nicnet)",
+   "cidade": "Ribeirão Preto",
+   "gols_casa": 4,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Hygor",
+     "minuto": "33",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Morelli",
+     "minuto": "37",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vilar",
+     "minuto": "45+4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Morelli",
+     "minuto": "51",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4291227/botafogo-sp-e-avassalador-e-goleia-o-fortaleza-por-4-a-0-na-estreia-da-serie-b",
+    "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-decepciona-e-toma-goleada-do-botafogo-sp-na-estreia-pela-serie-b/"
+   ],
+   "atualizado": "2026-11-10T18:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Victor Souza; Gabriel Inocêncio, Vilar, Carlos Eduardo, Patrick Brey; Leandro Maciel, Morelli, Rafael Gava, Zé Hugo; Kelvin, Hygor",
+     "entraram": [
+      {
+       "jogador": "Felipe Vieira",
+       "saiu": "Patrick Brey",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marquinho",
+       "saiu": "Leandro Maciel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Sales",
+       "saiu": "Morelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Moraes",
+       "saiu": "Rafael Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jefferson Nem",
+       "saiu": "Kelvin",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Morelli",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Thiago Carpini",
+     "time": "Brenno; Mailton, Brítez, Lucas Gazal, Gabriel Fuentes; Rodrigo Santos, Lucas Sasha, Pochettino; Vitinho, Miritello, Luiz Fernando",
+     "entraram": [
+      {
+       "jogador": "Lucas Crispim",
+       "saiu": "Rodrigo Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan",
+       "saiu": "Lucas Sasha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca Prior",
+       "saiu": "Pochettino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Welinton",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Baya",
+       "saiu": "Miritello",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Gazal",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Crispim",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Fernando",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Mailton",
+        "minuto": "89"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4291227/botafogo-sp-e-avassalador-e-goleia-o-fortaleza-por-4-a-0-na-estreia-da-serie-b"
+    ],
+    "atualizado": "2026-11-10T18:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000240,
+   "data": "2026-04-05T20:30:00-03:00",
+   "casa": "botafogo-sp",
+   "fora": "sao-bernardo",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Santa Cruz (Arena Nicnet)",
+   "cidade": "Ribeirão Preto",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Hygor",
+     "minuto": "4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Rodrigo Ferreira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Daniel Amorim",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-e-derrotado-pelo-sao-bernardo-e-perde-a-ponta-da-serie-b/",
+    "https://www.oliberal.com/esportes/sao-bernardo-surpreende-o-botafogo-sp-e-vence-de-virada-em-ribeirao-preto-pela-serie-b-1.1106333",
+    "https://www.dgabc.com.br/Noticia/4293440/sao-bernardo-fc-celebra-primeira-vitoria-na-serie-b"
+   ],
+   "atualizado": "2026-11-10T18:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Victor Souza; Jonathan, Carlos Eduardo, Vilar, Patrick Brey; Leandro Maciel, Morelli, Rafael Gava; Zé Hugo, Hygor, Kelvin",
+     "entraram": [
+      {
+       "jogador": "Pedro Henrique",
+       "saiu": "Jonathan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Sales",
+       "saiu": "Leandro Maciel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Moraes",
+       "saiu": "Rafael Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley Santos",
+       "saiu": "Kelvin",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Leandro Maciel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kelvin",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Ricardo Catalá",
+     "time": "Alex Alves; Rodrigo Ferreira, Matheus Salustiano, Augusto, Pará; Foguinho, Romisson, Dudu Miraíma; Pablo Dyego, Fabrício Daniel, Pedrinho",
+     "entraram": [
+      {
+       "jogador": "Júnior Urso",
+       "saiu": "Dudu Miraíma",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Vitor",
+       "saiu": "Pablo Dyego",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Amorim",
+       "saiu": "Fabrício Daniel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Echaporã",
+       "saiu": "Pedrinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Pará",
+        "minuto": ""
+       },
+       {
+        "jogador": "Pedro Vitor",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/sao-bernardo-surpreende-o-botafogo-sp-e-vence-de-virada-em-ribeirao-preto-pela-serie-b-1.1106333"
+    ],
+    "atualizado": "2026-11-10T18:38:00-03:00"
+   }
+  },
+  {
    "id": 91000213,
    "data": "2026-04-26T20:30:00-03:00",
    "casa": "atletico-go",
@@ -98,6 +372,132 @@
      "https://ohoje.com/2026/04/26/atletico-go-bate-o-avai-no-accioly-e-afasta-do-z-4/"
     ],
     "atualizado": "2026-11-10T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000241,
+   "data": "2026-05-02T16:00:00-03:00",
+   "casa": "botafogo-sp",
+   "fora": "nautico",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Santa Cruz (Arena Nicnet)",
+   "cidade": "Ribeirão Preto",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Morelli",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Victor Andrade",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4317291/botafogo-sp-e-nautico-empatam-por-1-a-1-e-estacionam-na-tabela-da-serie-b",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/05/11713420-apos-melhorar-no-segundo-tempo-nautico-busca-empate-contra-o-botafogo-sp-fora-de-casa-pela-serie-b.html"
+   ],
+   "atualizado": "2026-11-10T18:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Jordan; Gabriel Inocêncio, Wallace, Vilar, Patrick Brey; Leandro Maciel, Morelli, Matheus Sales; Zé Hugo, Luizão, Kelvin",
+     "entraram": [
+      {
+       "jogador": "Guilherme Mariano",
+       "saiu": "Wallace",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Gava",
+       "saiu": "Matheus Sales",
+       "minuto": ""
+      },
+      {
+       "jogador": "Márcio Maranhão",
+       "saiu": "Zé Hugo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Queiroz",
+       "saiu": "Luizão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jefferson Nem",
+       "saiu": "Kelvin",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Guilherme Mariano",
+        "minuto": ""
+       },
+       {
+        "jogador": "Márcio Maranhão",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Hélio dos Anjos",
+     "time": "Muriel; Matheus Ribeiro, Wanderson, Betão, Igor Fernandes; Wenderson, Luiz Felipe, Dodô; Júnior Todinho, Derek, Vinícius",
+     "entraram": [
+      {
+       "jogador": "Reginaldo",
+       "saiu": "Matheus Ribeiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Samuel Félix",
+       "saiu": "Wenderson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon",
+       "saiu": "Dodô",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Andrade",
+       "saiu": "Júnior Todinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Saraiva",
+       "saiu": "Derek",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luiz Felipe",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4317291/botafogo-sp-e-nautico-empatam-por-1-a-1-e-estacionam-na-tabela-da-serie-b"
+    ],
+    "atualizado": "2026-11-10T18:38:00-03:00"
    }
   },
   {
@@ -443,6 +843,253 @@
     "https://www.gazetaesportiva.com/?p=3812820"
    ],
    "atualizado": "2026-11-10T02:40:00-03:00"
+  },
+  {
+   "id": 91000239,
+   "data": "2026-07-28T21:35:00-03:00",
+   "casa": "fortaleza",
+   "fora": "botafogo-sp",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Ronald",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/07/28/fortaleza-vence-botafogo-sp-no-castelao-e-encosta-no-g-2-da-serie-b.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-vence-o-botafogo-sp-com-gol-de-ronald-e-volta-ao-g4-da-serie-b-1.3780102"
+   ],
+   "atualizado": "2026-11-10T18:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Reinan Santos",
+     "time": "João Ricardo; Mailton, Neris, Lucas Gazal, Mucuri; Lucas Sasha, Ronald, Rodriguinho; Pedro Henrique, Miritello, Vitinho",
+     "entraram": [
+      {
+       "jogador": "Rodrigo",
+       "saiu": "Lucas Sasha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cardona",
+       "saiu": "Rodriguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Fernando",
+       "saiu": "Pedro Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Fogaça",
+       "saiu": "Miritello",
+       "minuto": ""
+      },
+      {
+       "jogador": "Welliton",
+       "saiu": "Vitinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Victor Souza; Pedrinho, Ericson, Vilar, Patrick Brey; Matheus Sales, Morelli, Rafael Gava; Zé Hugo, Arthur Caíke, Wesley Santos",
+     "entraram": [
+      {
+       "jogador": "Thiago Moraes",
+       "saiu": "Matheus Sales",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marco Antônio",
+       "saiu": "Rafael Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jefferson Nem",
+       "saiu": "Zé Hugo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Queiroz",
+       "saiu": "Arthur Caíke",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Vieira",
+       "saiu": "Wesley Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vilar",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Sales",
+        "minuto": ""
+       },
+       {
+        "jogador": "Felipe Vieira",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/07/28/fortaleza-vence-botafogo-sp-no-castelao-e-encosta-no-g-2-da-serie-b.html"
+    ],
+    "atualizado": "2026-11-10T18:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000242,
+   "data": "2026-08-08T18:30:00-03:00",
+   "casa": "botafogo-sp",
+   "fora": "america-mg",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Santa Cruz (Arena Nicnet)",
+   "cidade": "Ribeirão Preto",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Elizari",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Badaró",
+     "minuto": "61",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Filipe Dahora",
+     "minuto": "",
+     "tipo": "contra"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-vence-america-mg-virada-serie-b/",
+    "https://www.dgabc.com.br/Noticia/4340124/botafogo-sp-vence-se-afasta-do-z-4-e-afunda-america-mg-na-serie-b"
+   ],
+   "atualizado": "2026-11-10T18:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Victor Souza; Gabriel Inocêncio, Ericson, Wallace, Patrick Brey; Matheus Sales, Morelli, Rafael Gava; Zé Hugo, Hygor, Wesley Santos",
+     "entraram": [
+      {
+       "jogador": "Badaró",
+       "saiu": "Ericson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marco Antônio",
+       "saiu": "Rafael Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Caíke",
+       "saiu": "Hygor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jefferson Nem",
+       "saiu": "Wesley Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jefferson Nem",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Umberto Louzer",
+     "time": "Gustavo; Filipe Dahora, Manoel, Luca Sosa, Dalbert; Felipe Amaral, Yago Souza, Elizari; Paulo Victor, Guilherme Parede, Gabriel Barros",
+     "entraram": [
+      {
+       "jogador": "Willian Bigode",
+       "saiu": "Filipe Dahora",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ostchega",
+       "saiu": "Dalbert",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jorge Jiménez",
+       "saiu": "Felipe Amaral",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Person",
+       "saiu": "Elizari",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Piñeiro",
+       "saiu": "Guilherme Parede",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mastriani",
+       "saiu": "Gabriel Barros",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Eduardo Person",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo Piñeiro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4340124/botafogo-sp-vence-se-afasta-do-z-4-e-afunda-america-mg-na-serie-b"
+    ],
+    "atualizado": "2026-11-10T18:38:00-03:00"
+   }
   },
   {
    "id": 91000212,

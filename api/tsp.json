@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-10T13:41:00-03:00",
+ "gerado": "2026-11-10T18:38:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -7463,13 +7463,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
+    "casa": 56,
     "empate": 30,
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.27,
-     0.52
+     1.28,
+     0.51
     ],
     "base": [
      7,
@@ -7521,11 +7521,11 @@
    "previsao": {
     "casa": 14,
     "empate": 19,
-    "fora": 68,
+    "fora": 67,
     "placar": "0x2",
     "gols_esperados": [
      0.9,
-     2.23
+     2.21
     ],
     "base": [
      9,
@@ -7581,7 +7581,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.61,
-     1.39
+     1.37
     ],
     "base": [
      8,
@@ -7633,10 +7633,10 @@
    "previsao": {
     "casa": 69,
     "empate": 19,
-    "fora": 13,
+    "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.17,
+     2.18,
      0.8
     ],
     "base": [
@@ -7692,8 +7692,8 @@
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.33,
-     0.79
+     2.34,
+     0.78
     ],
     "base": [
      9,
@@ -7743,13 +7743,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 30,
+    "casa": 31,
     "empate": 26,
     "fora": 44,
     "placar": "1x1",
     "gols_esperados": [
-     1.17,
-     1.47
+     1.18,
+     1.46
     ],
     "base": [
      7,
@@ -7804,8 +7804,8 @@
     "fora": 44,
     "placar": "1x1",
     "gols_esperados": [
-     1.26,
-     1.55
+     1.27,
+     1.54
     ],
     "base": [
      7,
@@ -7861,7 +7861,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.95,
-     1.02
+     1.01
     ],
     "base": [
      9,
@@ -7916,8 +7916,8 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.67,
-     0.93
+     1.68,
+     0.92
     ],
     "base": [
      9,
@@ -7969,11 +7969,11 @@
    "previsao": {
     "casa": 34,
     "empate": 23,
-    "fora": 44,
+    "fora": 43,
     "placar": "1x1",
     "gols_esperados": [
-     1.57,
-     1.82
+     1.58,
+     1.81
     ],
     "base": [
      10,
@@ -8028,8 +8028,8 @@
     "fora": 41,
     "placar": "0x1",
     "gols_esperados": [
-     0.94,
-     1.18
+     0.95,
+     1.17
     ],
     "base": [
      7,
@@ -8079,7 +8079,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
+    "casa": 50,
     "empate": 29,
     "fora": 21,
     "placar": "1x0",
@@ -8137,10 +8137,10 @@
    "previsao": {
     "casa": 74,
     "empate": 18,
-    "fora": 9,
+    "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.12,
+     2.13,
      0.56
     ],
     "base": [
@@ -8193,11 +8193,11 @@
    "previsao": {
     "casa": 10,
     "empate": 14,
-    "fora": 77,
+    "fora": 76,
     "placar": "0x2",
     "gols_esperados": [
-     0.94,
-     2.86
+     0.95,
+     2.84
     ],
     "base": [
      9,
@@ -8250,9 +8250,9 @@
     "casa": 65,
     "empate": 19,
     "fora": 16,
-    "placar": "2x1",
+    "placar": "2x0",
     "gols_esperados": [
-     2.23,
+     2.24,
      1.0
     ],
     "base": [
@@ -8309,7 +8309,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.44,
-     0.76
+     0.75
     ],
     "base": [
      9,
@@ -8359,13 +8359,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
+    "casa": 49,
     "empate": 22,
-    "fora": 30,
+    "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.97,
-     1.52
+     1.98,
+     1.5
     ],
     "base": [
      7,
@@ -8417,10 +8417,10 @@
    "previsao": {
     "casa": 58,
     "empate": 24,
-    "fora": 19,
+    "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.72,
+     1.73,
      0.86
     ],
     "base": [
@@ -8477,7 +8477,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.19,
-     0.78
+     0.77
     ],
     "base": [
      23,
@@ -8533,7 +8533,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.35,
-     1.04
+     1.03
     ],
     "base": [
      7,
@@ -8588,8 +8588,8 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.59,
-     0.9
+     1.6,
+     0.89
     ],
     "base": [
      11,
@@ -8597,6 +8597,209 @@
     ]
    },
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4291227/botafogo-sp-e-avassalador-e-goleia-o-fortaleza-por-4-a-0-na-estreia-da-serie-b",
+    "https://www.gazetaesportiva.com/times/fortaleza/fortaleza-decepciona-e-toma-goleada-do-botafogo-sp-na-estreia-pela-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000238,
+    "timestamp": 1774131300,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Santa Cruz (Arena Nicnet)",
+     "city": "Ribeirão Preto"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900024,
+     "name": "Fortaleza"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 33,
+      "extra": null,
+      "texto": "33"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Hygor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 37,
+      "extra": null,
+      "texto": "37"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Morelli"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+4"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Vilar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Morelli"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-e-derrotado-pelo-sao-bernardo-e-perde-a-ponta-da-serie-b/",
+    "https://www.oliberal.com/esportes/sao-bernardo-surpreende-o-botafogo-sp-e-vence-de-virada-em-ribeirao-preto-pela-serie-b-1.1106333",
+    "https://www.dgabc.com.br/Noticia/4293440/sao-bernardo-fc-celebra-primeira-vitoria-na-serie-b"
+   ],
+   "fixture": {
+    "id": 91000240,
+    "timestamp": 1775431800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Santa Cruz (Arena Nicnet)",
+     "city": "Ribeirão Preto"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900031,
+     "name": "São Bernardo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 4,
+      "extra": null,
+      "texto": "4"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Hygor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Rodrigo Ferreira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Daniel Amorim"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -8685,6 +8888,83 @@
      },
      "player": {
       "name": "Guilherme Marques"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4317291/botafogo-sp-e-nautico-empatam-por-1-a-1-e-estacionam-na-tabela-da-serie-b",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/05/11713420-apos-melhorar-no-segundo-tempo-nautico-busca-empate-contra-o-botafogo-sp-fora-de-casa-pela-serie-b.html"
+   ],
+   "fixture": {
+    "id": 91000241,
+    "timestamp": 1777748400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Santa Cruz (Arena Nicnet)",
+     "city": "Ribeirão Preto"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Morelli"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Victor Andrade"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -9008,6 +9288,160 @@
      },
      "type": "Goal",
      "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/07/28/fortaleza-vence-botafogo-sp-no-castelao-e-encosta-no-g-2-da-serie-b.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-vence-o-botafogo-sp-com-gol-de-ronald-e-volta-ao-g4-da-serie-b-1.3780102"
+   ],
+   "fixture": {
+    "id": 91000239,
+    "timestamp": 1785285300,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 20"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Ronald"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/botafogo-sp-vence-america-mg-virada-serie-b/",
+    "https://www.dgabc.com.br/Noticia/4340124/botafogo-sp-vence-se-afasta-do-z-4-e-afunda-america-mg-na-serie-b"
+   ],
+   "fixture": {
+    "id": 91000242,
+    "timestamp": 1786224600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Santa Cruz (Arena Nicnet)",
+     "city": "Ribeirão Preto"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 21"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Elizari"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Badaró"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Filipe Dahora"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
     }
    ]
   },
@@ -14978,13 +15412,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 27,
+    "casa": 28,
     "empate": 31,
-    "fora": 42,
+    "fora": 41,
     "placar": "0x1",
     "gols_esperados": [
      0.84,
-     1.11
+     1.1
     ],
     "base": [
      7,
@@ -15034,16 +15468,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
-    "empate": 18,
-    "fora": 15,
-    "placar": "2x1",
+    "casa": 70,
+    "empate": 17,
+    "fora": 13,
+    "placar": "2x0",
     "gols_esperados": [
-     2.42,
-     1.04
+     2.48,
+     0.99
     ],
     "base": [
-     7,
+     8,
      16
     ]
    },
@@ -15090,16 +15524,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 53,
     "empate": 37,
-    "fora": 9,
+    "fora": 10,
     "placar": "0x0",
     "gols_esperados": [
-     0.97,
-     0.23
+     0.98,
+     0.27
     ],
     "base": [
-     10,
+     11,
      14
     ]
    },
@@ -15146,17 +15580,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
-    "empate": 23,
-    "fora": 8,
+    "casa": 64,
+    "empate": 25,
+    "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.61,
-     0.36
+     1.54,
+     0.47
     ],
     "base": [
      9,
-     7
+     8
     ]
    },
    "events": []
@@ -15202,16 +15636,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 36,
-    "empate": 33,
-    "fora": 31,
-    "placar": "0x0",
+    "casa": 29,
+    "empate": 32,
+    "fora": 40,
+    "placar": "0x1",
     "gols_esperados": [
-     0.94,
-     0.84
+     0.84,
+     1.05
     ],
     "base": [
-     8,
+     10,
      9
     ]
    },
@@ -15263,7 +15697,7 @@
     "fora": 13,
     "placar": "0x0",
     "gols_esperados": [
-     0.94,
+     0.95,
      0.34
     ],
     "base": [
@@ -15314,13 +15748,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 25,
+    "casa": 26,
     "empate": 35,
-    "fora": 40,
+    "fora": 39,
     "placar": "0x0",
     "gols_esperados": [
-     0.67,
-     0.92
+     0.68,
+     0.91
     ],
     "base": [
      7,
@@ -15372,11 +15806,11 @@
    "previsao": {
     "casa": 25,
     "empate": 28,
-    "fora": 48,
+    "fora": 47,
     "placar": "0x1",
     "gols_esperados": [
      0.9,
-     1.37
+     1.36
     ],
     "base": [
      7,
@@ -15426,13 +15860,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 65,
+    "casa": 66,
     "empate": 22,
     "fora": 13,
     "placar": "1x0",
     "gols_esperados": [
      1.85,
-     0.68
+     0.67
     ],
     "base": [
      7,
@@ -15482,17 +15916,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 33,
-    "empate": 31,
-    "fora": 36,
-    "placar": "0x1",
+    "casa": 49,
+    "empate": 26,
+    "fora": 26,
+    "placar": "1x1",
     "gols_esperados": [
-     0.98,
+     1.53,
      1.04
     ],
     "base": [
      7,
-     7
+     12
     ]
    },
    "events": []
@@ -20893,6 +21327,18 @@
   ],
   "serie_b": [
    {
+    "jogador": "Hygor",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
+    "gols": 4
+   },
+   {
+    "jogador": "Morelli",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
+    "gols": 4
+   },
+   {
     "jogador": "Gustavo Coutinho",
     "time": "Atlético-GO",
     "time_id": 900028,
@@ -20929,12 +21375,6 @@
     "gols": 2
    },
    {
-    "jogador": "Hygor",
-    "time": "Botafogo-SP",
-    "time_id": 900032,
-    "gols": 2
-   },
-   {
     "jogador": "Kadu Sousa",
     "time": "Goiás",
     "time_id": 900030,
@@ -20968,6 +21408,12 @@
     "jogador": "Anselmo Ramon",
     "time": "Goiás",
     "time_id": 900030,
+    "gols": 1
+   },
+   {
+    "jogador": "Badaró",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
     "gols": 1
    },
    {
@@ -21031,6 +21477,12 @@
     "gols": 1
    },
    {
+    "jogador": "Daniel Amorim",
+    "time": "São Bernardo",
+    "time_id": 900031,
+    "gols": 1
+   },
+   {
     "jogador": "Daniel Davi",
     "time": "São Bernardo",
     "time_id": 900031,
@@ -21058,6 +21510,12 @@
     "jogador": "Eduardo Brock",
     "time": "Novorizontino",
     "time_id": 900021,
+    "gols": 1
+   },
+   {
+    "jogador": "Elizari",
+    "time": "América-MG",
+    "time_id": 900039,
     "gols": 1
    },
    {
@@ -21193,12 +21651,6 @@
     "gols": 1
    },
    {
-    "jogador": "Morelli",
-    "time": "Botafogo-SP",
-    "time_id": 900032,
-    "gols": 1
-   },
-   {
     "jogador": "Nicolas",
     "time": "Goiás",
     "time_id": 900030,
@@ -21235,7 +21687,19 @@
     "gols": 1
    },
    {
+    "jogador": "Rodrigo Ferreira",
+    "time": "São Bernardo",
+    "time_id": 900031,
+    "gols": 1
+   },
+   {
     "jogador": "Rodriguinho",
+    "time": "Fortaleza",
+    "time_id": 900024,
+    "gols": 1
+   },
+   {
+    "jogador": "Ronald",
     "time": "Fortaleza",
     "time_id": 900024,
     "gols": 1
@@ -21244,6 +21708,18 @@
     "jogador": "Thiaguinho",
     "time": "CRB",
     "time_id": 900026,
+    "gols": 1
+   },
+   {
+    "jogador": "Victor Andrade",
+    "time": "Náutico",
+    "time_id": 900036,
+    "gols": 1
+   },
+   {
+    "jogador": "Vilar",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
     "gols": 1
    },
    {
