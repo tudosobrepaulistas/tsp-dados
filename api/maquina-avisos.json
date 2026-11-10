@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-10T08:38-03:00",
+ "gerado": "2026-11-10T10:57-03:00",
  "avisos": [
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-08T23:40-03:00",
-   "motivo": "Bloco A2 Cobertura 6h (23h30 de 08/11): Linense, Velo Clube, Água Santa e Santo André sem notícia nova confirmada em 2 fontes nas últimas 48h e sem pauta da redação.",
-   "sugestao": "Montagem do elenco do Linense para a Série A2 de 2027"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-09T08:36-03:00",
-   "motivo": "Data Fifa: sem fato novo confirmado em 2 fontes nas últimas 24h (jogo com o Atlético-MG em 14/11 já coberto). Base: resultados sub-14/sub-15 só em sites fora da lista de fontes. Fotos: sites dos clubes e Flickr bloqueados na rede desta execução.",
-   "sugestao": "Mirassol se prepara para receber o Atlético-MG no sábado (14/11, 18h30, Maião) durante a Data Fifa: desfalques e treinos da semana"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-09T08:36-03:00",
-   "motivo": "Pauta achada (sub-20 venceu o Corinthians por 1 a 0 na Fazendinha, ida da semi do Paulista; Terra + site oficial), mas sem foto do jogo acessível: site oficial e Flickr bloqueados na rede desta execução e o clube não tem canal do YouTube cadastrado.",
-   "sugestao": "Sub-20 do Bragantino vence o Corinthians por 1 a 0 na Fazendinha (gol de Luís Gustavo) e joga a volta da semi do Paulista na quinta (12/11, 15h, CT de Atibaia) com vantagem do empate"
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +399,27 @@
    "quando": "2026-11-10T08:38-03:00",
    "motivo": "Bloco A2: sem pauta listada e sem notícia confirmada nas últimas 48h para Linense, Velo Clube, Água Santa e São José.",
    "sugestao": "Sorteio/tabela da A2 2027 e reforços anunciados pelos clubes"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-10T10:57-03:00",
+   "motivo": "2ª varredura 10/11: pauta do play-in (Santos x São Paulo, ida 17/11, 19h, Pacaembu; calendário do SPFC + Gazeta) confirmada, mas sem foto segura: site do Santos e jornais bloqueados nesta rede; vídeos oficiais têm marca de patrocinador de apostas",
+   "sugestao": "Prévia do play-in Santos x São Paulo (17/11, 19h, Pacaembu; volta em 22/11) com foto oficial das Sereias"
+  },
+  {
+   "clube": "ferroviaria-feminino",
+   "nome": "Ferroviária Feminino",
+   "quando": "2026-11-10T10:57-03:00",
+   "motivo": "Renovação da meia paraguaia Diana Benítez até 2028 (site oficial, 09/11) sem 2ª fonte e foto do site inacessível nesta rede",
+   "sugestao": "Diana Benítez renova com a Ferroviária até 2028 (foto Rafael Zocco/Ferroviária no site oficial)"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-10T10:57-03:00",
+   "motivo": "A4 em pré-temporada: nenhuma notícia de A4 nos últimos 7 dias com 2 fontes; todos os 16 clubes tiveram evergreen nos últimos 14 dias",
+   "sugestao": "Anúncios de técnicos/elencos de 2027 da A4 (União Suzano, Barretos, Jabaquara, Jacareí, Tanabi, Taquaritinga, América, Independente ainda sem técnico divulgado em outubro)"
   }
  ]
 }
