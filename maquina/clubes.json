@@ -950,7 +950,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Paulistão A1"
+   "divisao": "Paulistão A1",
+   "youtube": {
+    "id": "UCZBFWeZLFOKTVPZ9QBSGmkA",
+    "nome": "TV Ferroviária OFICIAL",
+    "url": "https://www.youtube.com/channel/UCZBFWeZLFOKTVPZ9QBSGmkA"
+   }
   },
   {
    "slug": "guarani",
@@ -1020,7 +1025,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Paulistão A2"
+   "divisao": "Paulistão A2",
+   "youtube": {
+    "id": "UCDn4Nfe1ifgXZbvNvY32FHw",
+    "nome": "TV Vai Leão - Inter de Limeira",
+    "url": "https://www.youtube.com/@TvVaiLeao"
+   }
   },
   {
    "slug": "ituano",
@@ -1100,7 +1110,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Paulistão A2"
+   "divisao": "Paulistão A2",
+   "youtube": {
+    "id": "UCAiVd0cecIm87IHwHlkRLOQ",
+    "nome": "TV Águia",
+    "url": "https://www.youtube.com/@tvaguiaoficial"
+   }
   },
   {
    "slug": "sertaozinho",
@@ -1150,7 +1165,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Paulistão A2"
+   "divisao": "Paulistão A2",
+   "youtube": {
+    "id": "UCffWPAG61_QwvQ9veImx99Q",
+    "nome": "XVTV",
+    "url": "https://www.youtube.com/@XVdePiracicabaTV"
+   }
   },
   {
    "slug": "bandeirante",
@@ -1280,7 +1300,12 @@
    "site_oficial": "",
    "redes": [],
    "jornais_locais": [],
-   "divisao": "Paulistão A3"
+   "divisao": "Paulistão A3",
+   "youtube": {
+    "id": "UCojjl5_WKiNiuamMwRy0z8A",
+    "nome": "Bento TV",
+    "url": "https://www.youtube.com/channel/UCojjl5_WKiNiuamMwRy0z8A"
+   }
   },
   {
    "slug": "uniao-barbarense",
