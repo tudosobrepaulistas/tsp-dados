@@ -1,5 +1,11 @@
 [
  {
+  "jogador": "Gustavo Coutinho",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 3
+ },
+ {
   "jogador": "Segovinha",
   "time": "América-MG",
   "time_id": 900039,
@@ -18,15 +24,15 @@
   "gols": 2
  },
  {
-  "jogador": "Fellipe Mateus",
-  "time": "Criciúma",
-  "time_id": 900025,
+  "jogador": "Dudu",
+  "time": "Vila Nova",
+  "time_id": 900023,
   "gols": 2
  },
  {
-  "jogador": "Gustavo Coutinho",
-  "time": "Atlético-GO",
-  "time_id": 900028,
+  "jogador": "Fellipe Mateus",
+  "time": "Criciúma",
+  "time_id": 900025,
   "gols": 2
  },
  {
@@ -66,6 +72,12 @@
   "gols": 1
  },
  {
+  "jogador": "Anselmo Ramon",
+  "time": "Goiás",
+  "time_id": 900030,
+  "gols": 1
+ },
+ {
   "jogador": "Borasi",
   "time": "Náutico",
   "time_id": 900036,
@@ -75,6 +87,18 @@
   "jogador": "Brandão",
   "time": "Ponte Preta",
   "time_id": 900040,
+  "gols": 1
+ },
+ {
+  "jogador": "Bruno Sávio",
+  "time": "Goiás",
+  "time_id": 900030,
+  "gols": 1
+ },
+ {
+  "jogador": "Bruno Xavier",
+  "time": "Vila Nova",
+  "time_id": 900023,
   "gols": 1
  },
  {
@@ -126,15 +150,15 @@
   "gols": 1
  },
  {
-  "jogador": "Djalma",
-  "time": "Goiás",
-  "time_id": 900030,
+  "jogador": "Dixon Vera",
+  "time": "Athletic",
+  "time_id": 900034,
   "gols": 1
  },
  {
-  "jogador": "Dudu",
-  "time": "Vila Nova",
-  "time_id": 900023,
+  "jogador": "Djalma",
+  "time": "Goiás",
+  "time_id": 900030,
   "gols": 1
  },
  {
@@ -159,6 +183,12 @@
   "jogador": "Gabriel Inocêncio",
   "time": "Botafogo-SP",
   "time_id": 900032,
+  "gols": 1
+ },
+ {
+  "jogador": "Guilherme Marques",
+  "time": "Atlético-GO",
+  "time_id": 900028,
   "gols": 1
  },
  {
@@ -321,6 +351,12 @@
   "jogador": "Thiaguinho",
   "time": "CRB",
   "time_id": 900026,
+  "gols": 1
+ },
+ {
+  "jogador": "Walace",
+  "time": "Avaí",
+  "time_id": 900037,
   "gols": 1
  },
  {

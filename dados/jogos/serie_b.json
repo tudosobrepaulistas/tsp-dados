@@ -1,6 +1,296 @@
 {
  "jogos": [
   {
+   "id": 91000213,
+   "data": "2026-04-26T20:30:00-03:00",
+   "casa": "atletico-go",
+   "fora": "avai",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "20",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Walace",
+     "minuto": "68",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Guilherme Marques",
+     "minuto": "73",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/atletico-goianiense-saf-x-avai/832937",
+    "https://ohoje.com/2026/04/26/atletico-go-bate-o-avai-no-accioly-e-afasta-do-z-4/"
+   ],
+   "atualizado": "2026-11-10T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Souza",
+     "time": "Paulo Vitor; Ewerthon, Guilherme Lopes, Natã, Felipe Guimarães; Cristiano, Leandro Vilela, Assis; Geovany Soares, Gustavo Coutinho, Marrony",
+     "entraram": [
+      {
+       "jogador": "Guilherme Marques",
+       "saiu": "Assis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ariel",
+       "saiu": "Leandro Vilela",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Tocantins",
+       "saiu": "Marrony",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Mozart Santos",
+     "time": "Léo Aragão; Gabriel Simples, Allyson, Baldini, DG; Zé Ricardo, Willian Maranhão, Jean Lucas; Marquinhos Gabriel, Walace, Thayllon",
+     "entraram": [
+      {
+       "jogador": "Hyan",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Henrique",
+       "saiu": "Willian Maranhão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Bilu",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Avenatti",
+       "saiu": "Walace",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sorriso",
+       "saiu": "Thayllon",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://ohoje.com/2026/04/26/atletico-go-bate-o-avai-no-accioly-e-afasta-do-z-4/"
+    ],
+    "atualizado": "2026-11-10T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000209,
+   "data": "2026-05-10T18:30:00-03:00",
+   "casa": "avai",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ressacada",
+   "cidade": "Florianópolis",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/avai-x-fortaleza-saf/832958",
+    "https://diariodonordeste.verdesmares.com.br/jogada/avai-x-fortaleza-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3762835"
+   ],
+   "atualizado": "2026-11-10T02:39:00-03:00"
+  },
+  {
+   "id": 91000210,
+   "data": "2026-05-17T18:00:00-03:00",
+   "casa": "vila-nova",
+   "fora": "avai",
+   "status": "encerrado",
+   "rodada": "9",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Onésio Brasileiro Alvarenga",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Bruno Xavier",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Dudu",
+     "minuto": "45",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/vila-nova-x-avai/832971",
+    "https://ohoje.com/2026/05/17/vila-nova-bate-o-avai-no-oba-encerra-jejum-e-retoma-lugar-no-g4-da-serie-b/"
+   ],
+   "atualizado": "2026-11-10T02:39:00-03:00"
+  },
+  {
+   "id": 91000211,
+   "data": "2026-05-24T19:00:00-03:00",
+   "casa": "avai",
+   "fora": "goias",
+   "status": "encerrado",
+   "rodada": "10",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ressacada",
+   "cidade": "Florianópolis",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Bruno Sávio",
+     "minuto": "71",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Anselmo Ramon",
+     "minuto": "77",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/avai-x-goias/832978",
+    "https://ohoje.com/2026/05/24/goias-vence-avai-e-encosta-na-lideranca-da-serie-b/"
+   ],
+   "atualizado": "2026-11-10T02:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cauan de Almeida",
+     "time": "Léo Aragão; Wesley Gasolina, Allyson, Baldini, Quaresma; Zé Ricardo, Paulo Vitor, Luiz Henrique, Daniel Penha; Rafael Bilu, Sorriso",
+     "entraram": [
+      {
+       "jogador": "Wallison",
+       "saiu": "Quaresma",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wenderson",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Lucas",
+       "saiu": "Luiz Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Walace France",
+       "saiu": "Rafael Bilu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thayllon",
+       "saiu": "Sorriso",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jean Lucas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Daniel Penha",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Daniel Paulista",
+     "time": "Thiago Rodrigues; Diego Caito, Ramon Menezes, Lucas Ribeiro, Nicolas; Baldória, Lucas Rodrigues, Gegê, Lucas Lima; Jean Carlos, Kadu Sousa",
+     "entraram": [
+      {
+       "jogador": "Djalma",
+       "saiu": "Nicolas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Anselmo Ramon",
+       "saiu": "Baldória",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Gegê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Esli García",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Sávio",
+       "saiu": "Kadu Sousa",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Nicolas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Lima",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://ohoje.com/2026/05/24/goias-vence-avai-e-encosta-na-lideranca-da-serie-b/"
+    ],
+    "atualizado": "2026-11-10T02:39:00-03:00"
+   }
+  },
+  {
    "id": 91000185,
    "data": "2026-06-27T11:00:00-03:00",
    "casa": "operario-pr",
@@ -123,6 +413,82 @@
     ],
     "atualizado": "2026-11-09T05:39:00-03:00"
    }
+  },
+  {
+   "id": 91000214,
+   "data": "2026-06-28T16:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "avai",
+   "status": "encerrado",
+   "rodada": "15",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Sicredi",
+   "cidade": "São João del-Rei",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Dixon Vera",
+     "minuto": "89",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/athletic-saf-x-avai/833024",
+    "https://www.gazetaesportiva.com/?p=3812820"
+   ],
+   "atualizado": "2026-11-10T02:40:00-03:00"
+  },
+  {
+   "id": 91000212,
+   "data": "2026-09-14T21:30:00-03:00",
+   "casa": "avai",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "28",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ressacada",
+   "cidade": "Florianópolis",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/avai-x-vila-nova/833159",
+    "https://ohoje.com/2026/09/15/vila-nova-empata-com-avai-e-perde-chance-de-assumir-a-lideranca-da-serie-b/"
+   ],
+   "atualizado": "2026-11-10T02:39:00-03:00"
+  },
+  {
+   "id": 91000215,
+   "data": "2026-09-20T16:00:00-03:00",
+   "casa": "goias",
+   "fora": "avai",
+   "status": "encerrado",
+   "rodada": "29",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Hailé Pinheiro (Serrinha)",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/09/20/goias-vira-sobre-o-avai-na-serrinha-e-fica-mais-perto-do-g-6/",
+    "https://tribunadoplanalto.com.br/?p=112065"
+   ],
+   "atualizado": "2026-11-10T02:40:00-03:00"
   },
   {
    "id": 91000091,
