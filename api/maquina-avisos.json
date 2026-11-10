@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-10T10:57-03:00",
+ "gerado": "2026-11-10T11:35-03:00",
  "avisos": [
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-09T08:36-03:00",
-   "motivo": "Sem notícia nova nas últimas 24h após a derrota para o Avaí (já coberta); fotos do clube inacessíveis na rede desta execução.",
-   "sugestao": "São Bernardo: balanço da Série B e quem fica para 2027 antes do jogo de despedida contra o Athletic no Primeiro de Maio"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-09T08:36-03:00",
-   "motivo": "Sem fato novo nas últimas 24h além do acesso e da decisão do título (já cobertos); fotos do clube inacessíveis na rede desta execução.",
-   "sugestao": "Novorizontino: ingressos, viagem e provável time para decidir o título da Série B em Criciúma na última rodada"
-  },
-  {
-   "clube": "primavera",
-   "nome": "Primavera",
-   "quando": "2026-11-09T08:36-03:00",
-   "motivo": "Bloco A1: a pauta do Noroeste x São Paulo (amistoso, 13/11, 20h, Alfredo de Castilho; Gazeta + Terra) é jogo e exige foto de jogo; sites dos clubes e Flickr bloqueados na rede desta execução.",
-   "sugestao": "Noroeste recebe o São Paulo em amistoso no Alfredo de Castilho na sexta, 13/11, às 20h"
-  },
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-09T08:36-03:00",
-   "motivo": "Bloco A2: sem pauta recente na saída e sem foto acessível (sites dos clubes e Flickr bloqueados na rede desta execução).",
-   "sugestao": "Linense/Velo Clube/Água Santa/Santo André: reforços e comissão técnica para a Série A2 de 2027"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-09T08:37-03:00",
-   "motivo": "Bloco A3: sem pauta recente na saída e sem foto acessível (sites dos clubes e Flickr bloqueados na rede desta execução).",
-   "sugestao": "Catanduva/Paulista/Rio Preto/Prudente: anúncios de elenco para a Série A3 de 2027"
-  },
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-09T11:19-03:00",
-   "motivo": "Notícia confirmada (Ferroviária 1x0 São Paulo em 08/11 na Fonte Luminosa, gol de Miga; está na final do Paulista Feminino Sub-20), mas sem foto oficial ou livre acessível nesta execução",
-   "sugestao": "Ferroviária na final do Paulista Feminino Sub-20: vitória por 1x0 sobre o São Paulo (ida 1x1), gol de Miga; espera o vencedor de Corinthians x Palmeiras (09/11, 21h). Fontes: saopaulofc.net e Futebol Interior. Usar foto do site da Ferroviária."
-  },
   {
    "clube": "palmeiras-feminino",
    "nome": "Palmeiras Feminino",
@@ -420,6 +378,48 @@
    "quando": "2026-11-10T10:57-03:00",
    "motivo": "A4 em pré-temporada: nenhuma notícia de A4 nos últimos 7 dias com 2 fontes; todos os 16 clubes tiveram evergreen nos últimos 14 dias",
    "sugestao": "Anúncios de técnicos/elencos de 2027 da A4 (União Suzano, Barretos, Jabaquara, Jacareí, Tanabi, Taquaritinga, América, Independente ainda sem técnico divulgado em outubro)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-10T11:35-03:00",
+   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Pauta possível: CBF mudou São Bernardo x Athletic para quinta 12/11, 20h (W Mais), ainda sem 2ª fonte.",
+   "sugestao": "Redação: São Bernardo x Athletic antecipado para quinta (12/11), 20h, no 1º de Maio — confirmar no site do clube/CBF e usar foto oficial do Tigre"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-10T11:35-03:00",
+   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Pauta confirmada (site oficial + Terra 10/11): sub-20 venceu o Corinthians 1x0 no Parque São Jorge, gol de Luís Gustavo; volta quinta 12/11, 15h, em Atibaia.",
+   "sugestao": "Redação: Bragantino sub-20 leva vantagem para a volta da semi do Paulista (12/11, 15h, CT de Atibaia), com a foto do site do clube"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-10T11:35-03:00",
+   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Nenhum fato novo nas últimas 24h confirmado em 2 fontes.",
+   "sugestao": "Prévia de Juventude x Botafogo-SP (sábado 14/11, 16h30), última rodada, com foto oficial do Pantera"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-10T11:35-03:00",
+   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Pauta confirmada (O Tempo 10/11 + Itatiaia): Atlético-MG volta aos treinos com 6 jogos sem vencer e de olho na final da Sul-Americana (21/11); Mirassol x Atlético é sábado 14/11, 18h30, no Maião; Tomás Pérez suspenso.",
+   "sugestao": "Redação: Mirassol (14º, 40 pts, 3 acima do Z4) recebe Atlético-MG em crise e de olho na final da Sul-Americana, com foto oficial de jogo do Leão"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-10T11:35-03:00",
+   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Bloco A1: pauta Noroeste x São Paulo (amistoso, sexta 13/11, 20h, Alfredo de Castilho; Gazeta + Terra) exige foto de jogo.",
+   "sugestao": "Redação: prévia de Noroeste x São Paulo com foto oficial do Noroeste"
+  },
+  {
+   "clube": "linense",
+   "nome": "Linense",
+   "quando": "2026-11-10T11:35-03:00",
+   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Bloco A2: sem pauta na saída.",
+   "sugestao": "Conferir reforços para a A2 2027 nas redes de Linense, Velo Clube, Água Santa e São José"
   }
  ]
 }
