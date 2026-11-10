@@ -1,6 +1,138 @@
 {
  "jogos": [
   {
+   "id": 91000226,
+   "data": "2026-04-21T17:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "chapecoense",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quinta fase - ida",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Alex Telles",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-chapecoense-gol-alex-telles-copa-do-brasil/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/botafogo-bate-chape-em-jogo-de-abertura-da-5a-fase-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-10T13:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Neto; Vitinho, Bastos, Ferraresi, Caio Roque; Allan, Danilo, Montoro; Matheus Martins, Kadir, Júnior Santos",
+     "entraram": [
+      {
+       "jogador": "Alex Telles",
+       "saiu": "Caio Roque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Medina",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Matheus Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Correa",
+       "saiu": "Kadir",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edenílson",
+       "saiu": "Júnior Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Caio Roque",
+        "minuto": ""
+       },
+       {
+        "jogador": "Montoro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fábio Matias",
+     "time": "Anderson; Victor Caetano, Rafael Thyere, Eduardo Doma; Marcos Vinícius, Camilo, Higor Meritão, Bruno Pacheco; Jean Carlos, Maurício Garcez, Marcinho",
+     "entraram": [
+      {
+       "jogador": "Bruno Leonardo",
+       "saiu": "Rafael Thyere",
+       "minuto": ""
+      },
+      {
+       "jogador": "Walter Clar",
+       "saiu": "Bruno Pacheco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rubens Tadeu",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Vitor",
+       "saiu": "Maurício Garcez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ênio",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Camilo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rafael Thyere",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marcinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Anderson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-chapecoense-gol-alex-telles-copa-do-brasil/"
+    ],
+    "atualizado": "2026-11-10T13:36:00-03:00"
+   }
+  },
+  {
    "id": 91000218,
    "data": "2026-04-22T19:00:00-03:00",
    "casa": "bahia",
@@ -294,6 +426,136 @@
     "https://atarde.com.br/esportes/ecbahia/ceni-inventa-juba-na-zaga-e-bahia-confirma-vexame-na-copa-do-brasil-1388808"
    ],
    "atualizado": "2026-11-10T05:33:00-03:00"
+  },
+  {
+   "id": 91000227,
+   "data": "2026-05-14T18:00:00-03:00",
+   "casa": "chapecoense",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quinta fase - volta",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Marcinho",
+     "minuto": "19",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bolasie",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/chapecoense-elimina-botafogo-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/chapecoense-supera-botafogo-e-avanca-as-oitavas-da-copa-do-brasil,43ce0d26b64aacbdd62a0eb723c3116143gz4v3c.html"
+   ],
+   "atualizado": "2026-11-10T13:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fábio Matias",
+     "time": "Anderson; Eduardo Doma, Bruno Leonardo, João Paulo; Everton, Camilo, Rafael Carvalheira, Bruno Pacheco; Ênio, Bolasie, Marcinho",
+     "entraram": [
+      {
+       "jogador": "Victor Caetano",
+       "saiu": "Bruno Leonardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Vitor",
+       "saiu": "Bruno Pacheco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Giovanni Augusto",
+       "saiu": "Ênio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maurício Garcez",
+       "saiu": "Bolasie",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ítalo",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bruno Pacheco",
+        "minuto": ""
+       },
+       {
+        "jogador": "Anderson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Neto; Vitinho, Bastos, Alexander Barboza, Marçal; Medina, Edenílson, Danilo, Montoro; Júnior Santos, Arthur Cabral",
+     "entraram": [
+      {
+       "jogador": "Villalba",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alex Telles",
+       "saiu": "Marçal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Santi Rodríguez",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Correa",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kadir",
+       "saiu": "Júnior Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Arthur Cabral",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/chapecoense-elimina-botafogo-copa-do-brasil/"
+    ],
+    "atualizado": "2026-11-10T13:36:00-03:00"
+   }
   },
   {
    "id": 91000206,

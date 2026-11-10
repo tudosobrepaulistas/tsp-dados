@@ -136,6 +136,121 @@
    }
   },
   {
+   "id": 91000222,
+   "data": "2026-02-18T21:30:00-03:00",
+   "casa": "nacional-potosi",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Pré-Libertadores - 2ª fase - ida",
+   "grupo": "",
+   "estadio": "Víctor Agustín Ugarte",
+   "cidade": "Potosí",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Baldomar",
+     "minuto": "46",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-perde-em-potosi-pela-pre-libertadores-e-sofre-a-sexta-derrota-seguida/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-carioca/botafogo/botafogo-perde-o-sexto-jogo-seguido-mas-tem-trunfo-por-vaga-na-libertadores/"
+   ],
+   "atualizado": "2026-11-10T13:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Egüez",
+     "time": "Galindo; Baldomar, Restrepo, Demiquel, Torrico; Azogue, Nuñez, Otormin, Solis; Álvarez, Villalba",
+     "entraram": [
+      {
+       "jogador": "Orellana",
+       "saiu": "Torrico",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rojas",
+       "saiu": "Nuñez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hoyos",
+       "saiu": "Otormin",
+       "minuto": ""
+      },
+      {
+       "jogador": "Abastoflor",
+       "saiu": "Solis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tobar",
+       "saiu": "Villalba",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Martín Anselmi",
+     "time": "Léo Linck; Alexander Barboza, Bastos, Mateo Ponte; Vitinho, Wallace Davi, Newton, Alex Telles; Montoro, Barrera, Matheus Martins",
+     "entraram": [
+      {
+       "jogador": "Ythallo",
+       "saiu": "Mateo Ponte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villalba",
+       "saiu": "Wallace Davi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Toledo",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marquinhos",
+       "saiu": "Barrera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kadir",
+       "saiu": "Matheus Martins",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Mateo Ponte",
+        "minuto": ""
+       },
+       {
+        "jogador": "Newton",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barrera",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-perde-em-potosi-pela-pre-libertadores-e-sofre-a-sexta-derrota-seguida/"
+    ],
+    "atualizado": "2026-11-10T13:34:00-03:00"
+   }
+  },
+  {
    "id": 91000217,
    "data": "2026-02-25T19:00:00-03:00",
    "casa": "bahia",
@@ -272,6 +387,285 @@
     ],
     "atualizado": "2026-11-10T05:33:00-03:00"
    }
+  },
+  {
+   "id": 91000223,
+   "data": "2026-02-25T21:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "nacional-potosi",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Pré-Libertadores - 2ª fase - volta",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Alex Telles",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/botafogo-vence-o-nacional-potosi-e-avanca-na-pre-libertadores-1.1089797",
+    "https://gazetaesportiva.com/times/botafogo/danilo-marca-botafogo-bate-nacional-potosi-e-avanca-na-pre-libertadores/"
+   ],
+   "atualizado": "2026-11-10T13:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Martín Anselmi",
+     "time": "Léo Linck; Mateo Ponte, Bastos, Alexander Barboza; Vitinho, Newton, Danilo, Alex Telles; Barrera, Matheus Martins, Montoro",
+     "entraram": [
+      {
+       "jogador": "Justino",
+       "saiu": "Mateo Ponte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Artur",
+       "saiu": "Barrera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Matheus Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Correa",
+       "saiu": "Montoro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Mateo Ponte",
+        "minuto": ""
+       },
+       {
+        "jogador": "Alex Telles",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Leonardo Eguez",
+     "time": "Galindo; Baldomar, Restrepo, Demiquel, Orellana; Azoque, Hoyos, Rojas; Wilan Álvarez, Solis, Otormin",
+     "entraram": [
+      {
+       "jogador": "Schneider Peña",
+       "saiu": "Baldomar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Torrico",
+       "saiu": "Orellana",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maxi Núñez",
+       "saiu": "Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villalba",
+       "saiu": "Wilan Álvarez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pavia",
+       "saiu": "Otormin",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Solis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Maxi Núñez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Pavia",
+        "minuto": ""
+       },
+       {
+        "jogador": "Orellana",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/botafogo-vence-o-nacional-potosi-e-avanca-na-pre-libertadores-1.1089797"
+    ],
+    "atualizado": "2026-11-10T13:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000224,
+   "data": "2026-03-03T21:30:00-03:00",
+   "casa": "barcelona-de-guayaquil",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Pré-Libertadores - 3ª fase - ida",
+   "grupo": "",
+   "estadio": "Monumental Banco Pichincha",
+   "cidade": "Guayaquil",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Villalba",
+     "minuto": "22",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Matheus Martins",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-busca-empate-fora-de-casa-contra-o-barcelona-pela-libertadores/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/pre-libertadores-botafogo-arranca-empate-com-barcelona-em-guayaquil"
+   ],
+   "atualizado": "2026-11-10T13:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "César Farías",
+     "time": "Contreras; Vallecilla, Rangel, Baéz, Carabalí; Quiñonez, Celiz, Martínez; Rojas, Villalba, Benedetto",
+     "entraram": [
+      {
+       "jogador": "Montaño",
+       "saiu": "Celiz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mina",
+       "saiu": "Martínez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wila",
+       "saiu": "Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gómez",
+       "saiu": "Villalba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nuñez",
+       "saiu": "Benedetto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Quiñonez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rojas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Martín Anselmi",
+     "time": "Léo Linck; Alexander Barboza, Bastos, Mateo Ponte; Vitinho, Danilo, Newton, Alex Telles; Montoro, Barrera, Matheus Martins",
+     "entraram": [
+      {
+       "jogador": "Villalba",
+       "saiu": "Mateo Ponte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Correa",
+       "saiu": "Barrera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Matheus Martins",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Montoro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-busca-empate-fora-de-casa-contra-o-barcelona-pela-libertadores/"
+    ],
+    "atualizado": "2026-11-10T13:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000225,
+   "data": "2026-03-10T21:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "barcelona-de-guayaquil",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Pré-Libertadores - 3ª fase - volta",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Celiz",
+     "minuto": "7",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/botafogo-perde-em-casa-do-barcelona-e-e-eliminado-na-pre-libertadores/",
+    "https://www.terra.com.br/esportes/botafogo/barcelona-de-guayaquil-surpreende-no-nilton-santos-e-elimina-botafogo-na-pre-libertadores,d326c19d10fc9174951eb54c9e9776d3mndqbuc6.html"
+   ],
+   "atualizado": "2026-11-10T13:34:00-03:00"
   },
   {
    "id": 91000178,

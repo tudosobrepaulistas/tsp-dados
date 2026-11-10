@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-10T05:36:00-03:00",
+ "gerado": "2026-11-10T13:40:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1511,6 +1511,42 @@
   "900054": {
    "chave": "juazeirense",
    "nome": "Juazeirense",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900055": {
+   "chave": "nacional-potosi",
+   "nome": "Nacional Potosí",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900056": {
+   "chave": "barcelona-de-guayaquil",
+   "nome": "Barcelona de Guayaquil",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900057": {
+   "chave": "caracas",
+   "nome": "Caracas",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900058": {
+   "chave": "racing",
+   "nome": "Racing",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900059": {
+   "chave": "independiente-petrolero",
+   "nome": "Independiente Petrolero",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900060": {
+   "chave": "cienciano",
+   "nome": "Cienciano",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -7464,16 +7500,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 9,
-    "empate": 14,
-    "fora": 77,
+    "casa": 14,
+    "empate": 19,
+    "fora": 68,
     "placar": "0x2",
     "gols_esperados": [
-     0.82,
-     2.73
+     0.89,
+     2.23
     ],
     "base": [
-     7,
+     9,
      9
     ]
    },
@@ -7521,12 +7557,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 16,
-    "empate": 27,
-    "fora": 57,
+    "empate": 28,
+    "fora": 56,
     "placar": "0x1",
     "gols_esperados": [
      0.6,
-     1.4
+     1.39
     ],
     "base": [
      8,
@@ -7576,17 +7612,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 77,
-    "empate": 14,
-    "fora": 8,
+    "casa": 69,
+    "empate": 19,
+    "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.62,
-     0.75
+     2.16,
+     0.8
     ],
     "base": [
      9,
-     7
+     9
     ]
    },
    "events": []
@@ -7638,7 +7674,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.32,
-     0.8
+     0.79
     ],
     "base": [
      9,
@@ -7690,11 +7726,11 @@
    "previsao": {
     "casa": 30,
     "empate": 26,
-    "fora": 45,
+    "fora": 44,
     "placar": "1x1",
     "gols_esperados": [
      1.17,
-     1.49
+     1.47
     ],
     "base": [
      7,
@@ -7744,17 +7780,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
-    "empate": 26,
-    "fora": 22,
-    "placar": "1x0",
+    "casa": 33,
+    "empate": 25,
+    "fora": 42,
+    "placar": "1x1",
     "gols_esperados": [
-     1.53,
-     0.89
+     1.33,
+     1.53
     ],
     "base": [
      7,
-     7
+     21
     ]
    },
    "events": []
@@ -7800,13 +7836,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 58,
+    "casa": 59,
     "empate": 22,
-    "fora": 20,
+    "fora": 19,
     "placar": "1x1",
     "gols_esperados": [
      1.94,
-     1.03
+     1.02
     ],
     "base": [
      9,
@@ -7856,13 +7892,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 55,
     "empate": 24,
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
      1.67,
-     0.94
+     0.93
     ],
     "base": [
      9,
@@ -7913,12 +7949,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 33,
-    "empate": 22,
+    "empate": 23,
     "fora": 44,
     "placar": "1x1",
     "gols_esperados": [
      1.57,
-     1.84
+     1.82
     ],
     "base": [
      10,
@@ -7969,12 +8005,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 29,
-    "empate": 29,
-    "fora": 42,
+    "empate": 30,
+    "fora": 41,
     "placar": "0x1",
     "gols_esperados": [
      0.94,
-     1.19
+     1.18
     ],
     "base": [
      7,
@@ -8026,11 +8062,11 @@
    "previsao": {
     "casa": 49,
     "empate": 29,
-    "fora": 22,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
      1.26,
-     0.73
+     0.72
     ],
     "base": [
      11,
@@ -8086,7 +8122,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.11,
-     0.57
+     0.56
     ],
     "base": [
      13,
@@ -8136,16 +8172,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 5,
-    "empate": 9,
-    "fora": 85,
-    "placar": "0x3",
+    "casa": 9,
+    "empate": 14,
+    "fora": 77,
+    "placar": "0x2",
     "gols_esperados": [
-     0.86,
-     3.51
+     0.94,
+     2.87
     ],
     "base": [
-     7,
+     9,
      7
     ]
    },
@@ -8198,7 +8234,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.22,
-     1.02
+     1.0
     ],
     "base": [
      21,
@@ -8254,7 +8290,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.43,
-     0.77
+     0.76
     ],
     "base": [
      9,
@@ -8310,7 +8346,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.96,
-     1.53
+     1.52
     ],
     "base": [
      7,
@@ -8360,13 +8396,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
+    "casa": 58,
     "empate": 24,
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
      1.71,
-     0.87
+     0.86
     ],
     "base": [
      7,
@@ -8416,16 +8452,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 25,
-    "empate": 34,
-    "fora": 41,
-    "placar": "0x0",
+    "casa": 44,
+    "empate": 30,
+    "fora": 26,
+    "placar": "1x0",
     "gols_esperados": [
-     0.67,
-     0.96
+     1.16,
+     0.82
     ],
     "base": [
-     7,
+     21,
      7
     ]
    },
@@ -8478,7 +8514,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.34,
-     1.06
+     1.04
     ],
     "base": [
      7,
@@ -8530,11 +8566,11 @@
    "previsao": {
     "casa": 53,
     "empate": 25,
-    "fora": 22,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
      1.58,
-     0.91
+     0.9
     ],
     "base": [
      11,
@@ -14929,7 +14965,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.83,
-     1.12
+     1.11
     ],
     "base": [
      7,
@@ -14985,7 +15021,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.41,
-     1.06
+     1.04
     ],
     "base": [
      7,
@@ -15153,7 +15189,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.94,
-     0.85
+     0.84
     ],
     "base": [
      8,
@@ -15209,7 +15245,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.94,
-     0.35
+     0.34
     ],
     "base": [
      10,
@@ -15265,7 +15301,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.67,
-     0.93
+     0.92
     ],
     "base": [
      7,
@@ -15316,12 +15352,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 24,
-    "empate": 27,
+    "empate": 28,
     "fora": 48,
     "placar": "0x1",
     "gols_esperados": [
      0.89,
-     1.39
+     1.37
     ],
     "base": [
      7,
@@ -15377,7 +15413,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.84,
-     0.69
+     0.68
     ],
     "base": [
      7,
@@ -15429,11 +15465,11 @@
    "previsao": {
     "casa": 33,
     "empate": 31,
-    "fora": 37,
+    "fora": 36,
     "placar": "0x1",
     "gols_esperados": [
      0.98,
-     1.06
+     1.04
     ],
     "base": [
      7,
@@ -15441,6 +15477,67 @@
     ]
    },
    "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-chapecoense-gol-alex-telles-copa-do-brasil/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-04/botafogo-bate-chape-em-jogo-de-abertura-da-5a-fase-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000226,
+    "timestamp": 1776801600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quinta fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90"
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Alex Telles"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -15682,6 +15779,83 @@
      },
      "player": {
       "name": "Leonel Picco"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/chapecoense-elimina-botafogo-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/chapecoense-supera-botafogo-e-avanca-as-oitavas-da-copa-do-brasil,43ce0d26b64aacbdd62a0eb723c3116143gz4v3c.html"
+   ],
+   "fixture": {
+    "id": 91000227,
+    "timestamp": 1778792400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quinta fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 19,
+      "extra": null,
+      "texto": "19"
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Marcinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Bolasie"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -16454,6 +16628,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-perde-em-potosi-pela-pre-libertadores-e-sofre-a-sexta-derrota-seguida/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-carioca/botafogo/botafogo-perde-o-sexto-jogo-seguido-mas-tem-trunfo-por-vaga-na-libertadores/"
+   ],
+   "fixture": {
+    "id": 91000222,
+    "timestamp": 1771461000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Víctor Agustín Ugarte",
+     "city": "Potosí"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Pré-Libertadores - 2ª fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900055,
+     "name": "Nacional Potosí"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 46,
+      "extra": null,
+      "texto": "46"
+     },
+     "team": {
+      "id": 900055,
+      "name": "Nacional Potosí"
+     },
+     "player": {
+      "name": "Baldomar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.bahianoticias.com.br/esportes/bahia/33380-nos-penaltis-bahia-e-eliminado-pelo-ohiggins-e-fica-sem-calendario-internacional-em-2026",
     "https://atarde.com.br/esportes/bahia-perde-nos-penaltis-e-da-adeus-a-libertadores-1380917"
    ],
@@ -16536,6 +16771,221 @@
      },
      "player": {
       "name": "Arnaldo Castillo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/botafogo-vence-o-nacional-potosi-e-avanca-na-pre-libertadores-1.1089797",
+    "https://gazetaesportiva.com/times/botafogo/danilo-marca-botafogo-bate-nacional-potosi-e-avanca-na-pre-libertadores/"
+   ],
+   "fixture": {
+    "id": 91000223,
+    "timestamp": 1772065800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Pré-Libertadores - 2ª fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900055,
+     "name": "Nacional Potosí"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Alex Telles"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-busca-empate-fora-de-casa-contra-o-barcelona-pela-libertadores/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-03/pre-libertadores-botafogo-arranca-empate-com-barcelona-em-guayaquil"
+   ],
+   "fixture": {
+    "id": 91000224,
+    "timestamp": 1772584200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Monumental Banco Pichincha",
+     "city": "Guayaquil"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Pré-Libertadores - 3ª fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900056,
+     "name": "Barcelona de Guayaquil"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 22,
+      "extra": null,
+      "texto": "22"
+     },
+     "team": {
+      "id": 900056,
+      "name": "Barcelona de Guayaquil"
+     },
+     "player": {
+      "name": "Villalba"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Matheus Martins"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/botafogo-perde-em-casa-do-barcelona-e-e-eliminado-na-pre-libertadores/",
+    "https://www.terra.com.br/esportes/botafogo/barcelona-de-guayaquil-surpreende-no-nilton-santos-e-elimina-botafogo-na-pre-libertadores,d326c19d10fc9174951eb54c9e9776d3mndqbuc6.html"
+   ],
+   "fixture": {
+    "id": 91000225,
+    "timestamp": 1773189000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Pré-Libertadores - 3ª fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900056,
+     "name": "Barcelona de Guayaquil"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 7,
+      "extra": null,
+      "texto": "7"
+     },
+     "team": {
+      "id": 900056,
+      "name": "Barcelona de Guayaquil"
+     },
+     "player": {
+      "name": "Celiz"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -16758,6 +17208,683 @@
    "goals": {
     "home": null,
     "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/botafogo/na-estreia-de-franclim-carvalho-botafogo-empata-com-caracas-pela-sul-americana,6c487c029b06520d53990750abab9f06otckytja.html",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-x-caracas-veja-os-melhores-momentos-do-jogo-da-sul-americana/"
+   ],
+   "fixture": {
+    "id": 91000228,
+    "timestamp": 1775772000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 1 - Grupo E"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900057,
+     "name": "Caracas"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 42,
+      "extra": null,
+      "texto": "42"
+     },
+     "team": {
+      "id": 900057,
+      "name": "Caracas"
+     },
+     "player": {
+      "name": "Wilfred Correa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 50,
+      "extra": null,
+      "texto": "50"
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Arthur Cabral"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-racing-copa-sul-americana-grupo-e/",
+    "https://www.cnnbrasil.com.br/esportes/danilo-decide-no-fim-e-botafogo-vence-o-racing-na-sul-americana/"
+   ],
+   "fixture": {
+    "id": 91000229,
+    "timestamp": 1776290400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Presidente Perón",
+     "city": "Avellaneda"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 2 - Grupo E"
+   },
+   "teams": {
+    "home": {
+     "id": 900058,
+     "name": "Racing"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900058,
+      "name": "Racing"
+     },
+     "player": {
+      "name": "Santiago Sosa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Arthur Cabral"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 41,
+      "extra": null,
+      "texto": "41"
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Júnior Santos"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900058,
+      "name": "Racing"
+     },
+     "player": {
+      "name": "Adrián Martínez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-independiente-petrolero-lider-sul-americana/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-atropela-independiente-petrolero-e-lidera-grupo-na-sul-americana/"
+   ],
+   "fixture": {
+    "id": 91000230,
+    "timestamp": 1777413600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 3 - Grupo E"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900059,
+     "name": "Independiente Petrolero"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 15,
+      "extra": null,
+      "texto": "15"
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Mateo Ponte"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 62,
+      "extra": null,
+      "texto": "62"
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Montoro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Newton"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/botafogo/botafogo-vence-racing-e-garante-pelo-menos-ida-aos-playoffs-da-sul-americana/?amp=",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/danilo-brilha-botafogo-vence-racing-e-fica-perto-de-vaga-na-sul-americana/"
+   ],
+   "fixture": {
+    "id": 91000231,
+    "timestamp": 1778113800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 4 - Grupo E"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900058,
+     "name": "Racing"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Di Cesare"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900058,
+      "name": "Racing"
+     },
+     "player": {
+      "name": "Adrián Martínez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "Autoria do 3º gol diverge entre as fontes (gol contra de Eduardo Porto x Joaquín Correa); só o placar registrado.",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-independiente-petrolero-sul-americana-grupo-e/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-vence-independiente-petrolero-e-avanca-na-copa-sul-americanas/"
+   ],
+   "fixture": {
+    "id": 91000232,
+    "timestamp": 1779321600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": "Sucre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 5 - Grupo E"
+   },
+   "teams": {
+    "home": {
+     "id": 900059,
+     "name": "Independiente Petrolero"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "Autoria do gol do Caracas diverge entre as fontes; só o placar registrado.",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-classificacao-oitavas-sul-americana-caracas/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-vira-vence-o-caracas-e-garante-melhor-campanha-da-sul-americana/"
+   ],
+   "fixture": {
+    "id": 91000233,
+    "timestamp": 1779919200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Olímpico da UCV",
+     "city": "Caracas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 6 - Grupo E"
+   },
+   "teams": {
+    "home": {
+     "id": 900057,
+     "name": "Caracas"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/cienciano-x-botafogo-copa-sul-americana-13-08-26/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-leva-baile-na-altitude-e-e-goleado-pelo-cienciano-na-sul-americana/"
+   ],
+   "fixture": {
+    "id": 91000234,
+    "timestamp": 1786667400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Inca Garcilaso de la Vega",
+     "city": "Cusco"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900060,
+     "name": "Cienciano"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 6,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900060,
+      "name": "Cienciano"
+     },
+     "player": {
+      "name": "Succar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900060,
+      "name": "Cienciano"
+     },
+     "player": {
+      "name": "Bandiera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900060,
+      "name": "Cienciano"
+     },
+     "player": {
+      "name": "Succar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900060,
+      "name": "Cienciano"
+     },
+     "player": {
+      "name": "Martinich"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Matheus Martins"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900060,
+      "name": "Cienciano"
+     },
+     "player": {
+      "name": "Bandiera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900060,
+      "name": "Cienciano"
+     },
+     "player": {
+      "name": "Succar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "sul_americana",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/botafogo/botafogo-vence-em-casa-mas-se-despede-da-sul-americana.html",
+    "https://www.gazetaesportiva.com/times/botafogo/veja-os-melhores-momentos-de-botafogo-1-x-0-cienciano-pela-sul-americana/"
+   ],
+   "fixture": {
+    "id": 91000235,
+    "timestamp": 1787272200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900060,
+     "name": "Cienciano"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {},
@@ -19974,6 +21101,18 @@
     "gols": 1
    },
    {
+    "jogador": "Alex Telles",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Bolasie",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
     "jogador": "Carlos Vinícius",
     "time": "Grêmio",
     "time_id": 900017,
@@ -20007,6 +21146,12 @@
     "jogador": "Leonel Picco",
     "time": "Remo",
     "time_id": 900019,
+    "gols": 1
+   },
+   {
+    "jogador": "Marcinho",
+    "time": "Chapecoense",
+    "time_id": 900020,
     "gols": 1
    },
    {
@@ -20066,15 +21211,131 @@
     "gols": 2
    },
    {
+    "jogador": "Alex Telles",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
     "jogador": "Arnaldo Castillo",
     "time": "O'Higgins",
     "time_id": 900053,
     "gols": 1
    },
    {
+    "jogador": "Baldomar",
+    "time": "Nacional Potosí",
+    "time_id": 900055,
+    "gols": 1
+   },
+   {
+    "jogador": "Celiz",
+    "time": "Barcelona de Guayaquil",
+    "time_id": 900056,
+    "gols": 1
+   },
+   {
+    "jogador": "Danilo",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
     "jogador": "Francisco González",
     "time": "O'Higgins",
     "time_id": 900053,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Martins",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Villalba",
+    "time": "Barcelona de Guayaquil",
+    "time_id": 900056,
+    "gols": 1
+   }
+  ],
+  "sul_americana": [
+   {
+    "jogador": "Succar",
+    "time": "Cienciano",
+    "time_id": 900060,
+    "gols": 3
+   },
+   {
+    "jogador": "Adrián Martínez",
+    "time": "Racing",
+    "time_id": 900058,
+    "gols": 2
+   },
+   {
+    "jogador": "Arthur Cabral",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 2
+   },
+   {
+    "jogador": "Bandiera",
+    "time": "Cienciano",
+    "time_id": 900060,
+    "gols": 2
+   },
+   {
+    "jogador": "Danilo",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 2
+   },
+   {
+    "jogador": "Júnior Santos",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Martinich",
+    "time": "Cienciano",
+    "time_id": 900060,
+    "gols": 1
+   },
+   {
+    "jogador": "Mateo Ponte",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Martins",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Montoro",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Newton",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Santiago Sosa",
+    "time": "Racing",
+    "time_id": 900058,
+    "gols": 1
+   },
+   {
+    "jogador": "Wilfred Correa",
+    "time": "Caracas",
+    "time_id": 900057,
     "gols": 1
    }
   ],
@@ -20268,6 +21529,48 @@
     {
      "nome": "Quinta fase",
      "confrontos": [
+      {
+       "times": [
+        900011,
+        900020
+       ],
+       "nomes": [
+        "Botafogo",
+        "Chapecoense"
+       ],
+       "agregado": [
+        1,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900020,
+       "jogos": [
+        {
+         "id": 91000226,
+         "data": "2026-04-21T17:00",
+         "casa": 900011,
+         "fora": 900020,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
+        },
+        {
+         "id": 91000227,
+         "data": "2026-05-14T18:00",
+         "casa": 900020,
+         "fora": 900011,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena Condá",
+         "cidade": "Chapecó"
+        }
+       ]
+      },
       {
        "times": [
         900007,
@@ -20580,6 +21883,95 @@
          "cidade": "Salvador"
         }
        ]
+      },
+      {
+       "times": [
+        900055,
+        900011
+       ],
+       "nomes": [
+        "Nacional Potosí",
+        "Botafogo"
+       ],
+       "agregado": [
+        1,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900011,
+       "jogos": [
+        {
+         "id": 91000222,
+         "data": "2026-02-18T21:30",
+         "casa": 900055,
+         "fora": 900011,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Víctor Agustín Ugarte",
+         "cidade": "Potosí"
+        },
+        {
+         "id": 91000223,
+         "data": "2026-02-25T21:30",
+         "casa": 900011,
+         "fora": 900055,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Pré-Libertadores - 3ª fase",
+     "confrontos": [
+      {
+       "times": [
+        900056,
+        900011
+       ],
+       "nomes": [
+        "Barcelona de Guayaquil",
+        "Botafogo"
+       ],
+       "agregado": [
+        2,
+        1
+       ],
+       "penaltis": null,
+       "vencedor": 900056,
+       "jogos": [
+        {
+         "id": 91000224,
+         "data": "2026-03-03T21:30",
+         "casa": 900056,
+         "fora": 900011,
+         "gc": 1,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Monumental Banco Pichincha",
+         "cidade": "Guayaquil"
+        },
+        {
+         "id": 91000225,
+         "data": "2026-03-10T21:30",
+         "casa": 900011,
+         "fora": 900056,
+         "gc": 0,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
+        }
+       ]
       }
      ]
     },
@@ -20705,6 +22097,189 @@
          "status": "agendado",
          "estadio": "Estádio Centenário",
          "cidade": "Montevidéu (URU)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "sul_americana": {
+   "nome": "Sul-Americana",
+   "fases": [
+    {
+     "nome": "Fase de grupos",
+     "confrontos": [
+      {
+       "times": [
+        900011,
+        900057
+       ],
+       "nomes": [
+        "Botafogo",
+        "Caracas"
+       ],
+       "agregado": [
+        4,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900011,
+       "jogos": [
+        {
+         "id": 91000228,
+         "data": "2026-04-09T19:00",
+         "casa": 900011,
+         "fora": 900057,
+         "gc": 1,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
+        },
+        {
+         "id": 91000233,
+         "data": "2026-05-27T19:00",
+         "casa": 900057,
+         "fora": 900011,
+         "gc": 1,
+         "gf": 3,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Olímpico da UCV",
+         "cidade": "Caracas"
+        }
+       ]
+      },
+      {
+       "times": [
+        900058,
+        900011
+       ],
+       "nomes": [
+        "Racing",
+        "Botafogo"
+       ],
+       "agregado": [
+        3,
+        5
+       ],
+       "penaltis": null,
+       "vencedor": 900011,
+       "jogos": [
+        {
+         "id": 91000229,
+         "data": "2026-04-15T19:00",
+         "casa": 900058,
+         "fora": 900011,
+         "gc": 2,
+         "gf": 3,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Presidente Perón",
+         "cidade": "Avellaneda"
+        },
+        {
+         "id": 91000231,
+         "data": "2026-05-06T21:30",
+         "casa": 900011,
+         "fora": 900058,
+         "gc": 2,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
+        }
+       ]
+      },
+      {
+       "times": [
+        900011,
+        900059
+       ],
+       "nomes": [
+        "Botafogo",
+        "Independiente Petrolero"
+       ],
+       "agregado": [
+        6,
+        0
+       ],
+       "penaltis": null,
+       "vencedor": 900011,
+       "jogos": [
+        {
+         "id": 91000230,
+         "data": "2026-04-28T19:00",
+         "casa": 900011,
+         "fora": 900059,
+         "gc": 3,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
+        },
+        {
+         "id": 91000232,
+         "data": "2026-05-20T21:00",
+         "casa": 900059,
+         "fora": 900011,
+         "gc": 0,
+         "gf": 3,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "",
+         "cidade": "Sucre"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Oitavas de final",
+     "confrontos": [
+      {
+       "times": [
+        900060,
+        900011
+       ],
+       "nomes": [
+        "Cienciano",
+        "Botafogo"
+       ],
+       "agregado": [
+        6,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900060,
+       "jogos": [
+        {
+         "id": 91000234,
+         "data": "2026-08-13T21:30",
+         "casa": 900060,
+         "fora": 900011,
+         "gc": 6,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Inca Garcilaso de la Vega",
+         "cidade": "Cusco"
+        },
+        {
+         "id": 91000235,
+         "data": "2026-08-20T21:30",
+         "casa": 900011,
+         "fora": 900060,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
         }
        ]
       }

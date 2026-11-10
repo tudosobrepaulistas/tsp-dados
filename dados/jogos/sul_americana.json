@@ -1,0 +1,841 @@
+{
+ "jogos": [
+  {
+   "id": 91000228,
+   "data": "2026-04-09T19:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "caracas",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Wilfred Correa",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Arthur Cabral",
+     "minuto": "50",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/botafogo/na-estreia-de-franclim-carvalho-botafogo-empata-com-caracas-pela-sul-americana,6c487c029b06520d53990750abab9f06otckytja.html",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-x-caracas-veja-os-melhores-momentos-do-jogo-da-sul-americana/"
+   ],
+   "atualizado": "2026-11-10T13:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Raul; Vitinho, Bastos, Alexander Barboza, Caio Roque; Allan, Danilo, Santi Rodríguez, Montoro; Júnior Santos, Matheus Martins",
+     "entraram": [
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Matheus Martins",
+       "minuto": "45"
+      },
+      {
+       "jogador": "Mateo Ponte",
+       "saiu": "Vitinho",
+       "minuto": "62"
+      },
+      {
+       "jogador": "Barrera",
+       "saiu": "Santi Rodríguez",
+       "minuto": "62"
+      },
+      {
+       "jogador": "Jhoan Hernández",
+       "saiu": "Caio Roque",
+       "minuto": "69"
+      },
+      {
+       "jogador": "Kadir",
+       "saiu": "Júnior Santos",
+       "minuto": "79"
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bastos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barrera",
+        "minuto": ""
+       },
+       {
+        "jogador": "Allan",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Aristeguieta",
+     "time": "Benítez; Fereira, Quintero, Mago, Yendis; Larotonda, Figueroa, Wilfred Correa; Lezama, Sebastián González, Covea",
+     "entraram": [
+      {
+       "jogador": "Adrián Fernández",
+       "saiu": "Sebastián González",
+       "minuto": "54"
+      },
+      {
+       "jogador": "Chris Martínez",
+       "saiu": "Lezama",
+       "minuto": "55"
+      },
+      {
+       "jogador": "Reinoso",
+       "saiu": "Figueroa",
+       "minuto": "74"
+      },
+      {
+       "jogador": "Uribe",
+       "saiu": "Covea",
+       "minuto": "74"
+      },
+      {
+       "jogador": "La Mantia",
+       "saiu": "Wilfred Correa",
+       "minuto": "83"
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.terra.com.br/esportes/botafogo/na-estreia-de-franclim-carvalho-botafogo-empata-com-caracas-pela-sul-americana,6c487c029b06520d53990750abab9f06otckytja.html"
+    ],
+    "atualizado": "2026-11-10T13:39:00-03:00"
+   }
+  },
+  {
+   "id": 91000229,
+   "data": "2026-04-15T19:00:00-03:00",
+   "casa": "racing",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "estadio": "Presidente Perón",
+   "cidade": "Avellaneda",
+   "gols_casa": 2,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Santiago Sosa",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Arthur Cabral",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Júnior Santos",
+     "minuto": "41",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Adrián Martínez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-racing-copa-sul-americana-grupo-e/",
+    "https://www.cnnbrasil.com.br/esportes/danilo-decide-no-fim-e-botafogo-vence-o-racing-na-sul-americana/"
+   ],
+   "atualizado": "2026-11-10T13:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Gustavo Costas",
+     "time": "Cambeses; Cannavo, Pardo, Colombo, Ignácio Rodríguez; Santiago Sosa, Baltasar Rodríguez, Gonzalo Sosa, Martirena; Adrián Martínez, Conechy",
+     "entraram": [
+      {
+       "jogador": "Zuculini",
+       "saiu": "Baltasar Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Adrián Fernández",
+       "saiu": "Gonzalo Sosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vergara",
+       "saiu": "Martirena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Solari",
+       "saiu": "Conechy",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Baltasar Rodríguez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Cannavo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Adrián Fernández",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Neto; Mateo Ponte, Ferraresi, Alexander Barboza, Alex Telles; Allan, Edenílson, Medina; Matheus Martins, Júnior Santos, Arthur Cabral",
+     "entraram": [
+      {
+       "jogador": "Caio Roque",
+       "saiu": "Alex Telles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Barrera",
+       "saiu": "Matheus Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villalba",
+       "saiu": "Júnior Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kadir",
+       "saiu": "Arthur Cabral",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Allan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Arthur Cabral",
+        "minuto": ""
+       },
+       {
+        "jogador": "Mateo Ponte",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-racing-copa-sul-americana-grupo-e/"
+    ],
+    "atualizado": "2026-11-10T13:39:00-03:00"
+   }
+  },
+  {
+   "id": 91000230,
+   "data": "2026-04-28T19:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "independiente-petrolero",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Mateo Ponte",
+     "minuto": "15",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Montoro",
+     "minuto": "62",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Newton",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-independiente-petrolero-lider-sul-americana/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-atropela-independiente-petrolero-e-lidera-grupo-na-sul-americana/"
+   ],
+   "atualizado": "2026-11-10T13:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Neto; Mateo Ponte, Bastos, Alexander Barboza, Alex Telles; Allan, Medina, Montoro; Kadir, Edenílson, Arthur Cabral",
+     "entraram": [
+      {
+       "jogador": "Marçal",
+       "saiu": "Alex Telles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Santi Rodríguez",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Correa",
+       "saiu": "Kadir",
+       "minuto": ""
+      },
+      {
+       "jogador": "Newton",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chris Ramos",
+       "saiu": "Arthur Cabral",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bastos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Santi Rodríguez",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Thiago Leitão",
+     "time": "Johan Gutiérrez; Torres, Palma, Eduardo Porto, Francisco Rodríguez; Vargas, Daniel Rojas, Willie; Wagner, Jonathan Cristaldo, Rudy Cardozo",
+     "entraram": [
+      {
+       "jogador": "Leanos",
+       "saiu": "Francisco Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Cristaldo",
+       "saiu": "Vargas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lutkowski",
+       "saiu": "Wagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Rivas",
+       "saiu": "Jonathan Cristaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mercado",
+       "saiu": "Rudy Cardozo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Eduardo Porto",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Eduardo Porto",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-independiente-petrolero-lider-sul-americana/"
+    ],
+    "atualizado": "2026-11-10T13:39:00-03:00"
+   }
+  },
+  {
+   "id": 91000231,
+   "data": "2026-05-06T21:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "racing",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Di Cesare",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Adrián Martínez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/botafogo/botafogo-vence-racing-e-garante-pelo-menos-ida-aos-playoffs-da-sul-americana/?amp=",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/danilo-brilha-botafogo-vence-racing-e-fica-perto-de-vaga-na-sul-americana/"
+   ],
+   "atualizado": "2026-11-10T13:39:00-03:00"
+  },
+  {
+   "id": 91000232,
+   "data": "2026-05-20T21:00:00-03:00",
+   "casa": "independiente-petrolero",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "estadio": "",
+   "cidade": "Sucre",
+   "gols_casa": 0,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "Autoria do 3º gol diverge entre as fontes (gol contra de Eduardo Porto x Joaquín Correa); só o placar registrado.",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-independiente-petrolero-sul-americana-grupo-e/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-vence-independiente-petrolero-e-avanca-na-copa-sul-americanas/"
+   ],
+   "atualizado": "2026-11-10T13:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Thiago Leitão",
+     "time": "Gutiérrez; Eduardo Porto, Palma, Ronny Montero, Francisco Rodríguez; Rojas, Rudy Cardozo, Navarro, Willie, Gustavo Cristaldo, Rivas",
+     "entraram": [
+      {
+       "jogador": "Wagner",
+       "saiu": "Ronny Montero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leanos",
+       "saiu": "Francisco Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mercado",
+       "saiu": "Navarro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Adelan da Silva",
+       "saiu": "Willie",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lutkowski",
+       "saiu": "Gustavo Cristaldo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Eduardo Porto",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ronny Montero",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lutkowski",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Neto; Mateo Ponte, Ferraresi, Alexander Barboza, Alex Telles; Huguinho, Medina, Montoro; Villalba, Arthur Cabral, Kauan Toledo",
+     "entraram": [
+      {
+       "jogador": "Santi Rodríguez",
+       "saiu": "Huguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Barrera",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Valle",
+       "saiu": "Villalba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chris Ramos",
+       "saiu": "Arthur Cabral",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Correa",
+       "saiu": "Kauan Toledo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-independiente-petrolero-sul-americana-grupo-e/"
+    ],
+    "atualizado": "2026-11-10T13:39:00-03:00"
+   }
+  },
+  {
+   "id": 91000233,
+   "data": "2026-05-27T19:00:00-03:00",
+   "casa": "caracas",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Fase de grupos",
+   "grupo": "E",
+   "estadio": "Olímpico da UCV",
+   "cidade": "Caracas",
+   "gols_casa": 1,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "Autoria do gol do Caracas diverge entre as fontes; só o placar registrado.",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-classificacao-oitavas-sul-americana-caracas/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-vira-vence-o-caracas-e-garante-melhor-campanha-da-sul-americana/"
+   ],
+   "atualizado": "2026-11-10T13:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Henry Meléndez",
+     "time": "Wuilker Benítez; Daniel Fereira, Quintero, Rubert Mago, Yendis; Larotonda, Irving Gudiño, Wilfred Correa, Covea; Robert Hernández, Adrián Fernández",
+     "entraram": [
+      {
+       "jogador": "Juan Vegas",
+       "saiu": "Wuilker Benítez",
+       "minuto": ""
+      },
+      {
+       "jogador": "La Mantía",
+       "saiu": "Quintero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mauricio Márquez",
+       "saiu": "Wilfred Correa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chris Martínez",
+       "saiu": "Robert Hernández",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sebastián González",
+       "saiu": "Adrián Fernández",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Raul; Vitinho, Ythallo, Justino, Marçal; Wallace Davi, Edenílson, Santi Rodríguez, Barrera; Joaquín Correa, Chris Ramos",
+     "entraram": [
+      {
+       "jogador": "Kadu",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Medina",
+       "saiu": "Wallace Davi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Valle",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Martins",
+       "saiu": "Barrera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Toledo",
+       "saiu": "Chris Ramos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vitinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wallace Davi",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Martins",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-classificacao-oitavas-sul-americana-caracas/"
+    ],
+    "atualizado": "2026-11-10T13:39:00-03:00"
+   }
+  },
+  {
+   "id": 91000234,
+   "data": "2026-08-13T21:30:00-03:00",
+   "casa": "cienciano",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - ida",
+   "grupo": "",
+   "estadio": "Inca Garcilaso de la Vega",
+   "cidade": "Cusco",
+   "gols_casa": 6,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Succar",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bandiera",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Succar",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Martinich",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Matheus Martins",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bandiera",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Succar",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/cienciano-x-botafogo-copa-sul-americana-13-08-26/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/botafogo-leva-baile-na-altitude-e-e-goleado-pelo-cienciano-na-sul-americana/"
+   ],
+   "atualizado": "2026-11-10T13:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Horacio Melgarejo",
+     "time": "Espinoza; Cabello, Amondarain, Becerra, Martinich; Barreto, Romagnoli, Hohberg; Souza, Bandiera, Succar",
+     "entraram": [
+      {
+       "jogador": "Aguirre",
+       "saiu": "Barreto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Robles",
+       "saiu": "Romagnoli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sandoval",
+       "saiu": "Souza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caparó",
+       "saiu": "Bandiera",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Robles",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Warleson; Mateo Ponte, Ferraresi, Justino, Marçal; Huguinho, Danilo, Medina, Montoro; Matheus Martins, Kadir",
+     "entraram": [
+      {
+       "jogador": "Alex Telles",
+       "saiu": "Marçal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Santi Rodríguez",
+       "saiu": "Danilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edenílson",
+       "saiu": "Medina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Toledo",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Kadir",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Justino",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/cienciano-x-botafogo-copa-sul-americana-13-08-26/"
+    ],
+    "atualizado": "2026-11-10T13:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000235,
+   "data": "2026-08-20T21:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "cienciano",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - volta",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/botafogo/botafogo-vence-em-casa-mas-se-despede-da-sul-americana.html",
+    "https://www.gazetaesportiva.com/times/botafogo/veja-os-melhores-momentos-de-botafogo-1-x-0-cienciano-pela-sul-americana/"
+   ],
+   "atualizado": "2026-11-10T13:40:00-03:00"
+  }
+ ]
+}
