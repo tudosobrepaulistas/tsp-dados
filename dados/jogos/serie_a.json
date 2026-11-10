@@ -619,7 +619,96 @@
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/bahia-x-mirassol-campeonato-brasileiro-11-10-26/",
     "https://www.terra.com.br/esportes/futebol/mirassol-perde-penalti-no-apagar-das-luzes-bahia-vence-e-entra-no-g5,19876039ae173da3e541e1044c367edfqvudhai6.html"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Marco Moreno, Luciano Juba; Jean Lucas, Caio Alexandre, Rodrigo Nestor; Kike Olivera, Erick Pulga, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Román Gómez",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick",
+       "saiu": "Caio Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Ribeiro",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Kike Olivera",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jean Lucas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Muralha; Igor Formiga, Lucas Oliveira, William Machado, Reinaldo; Denilson, Neto Moura, Chico Kim; Gustavo Silva, Bruno Santos, Alesson",
+     "entraram": [
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo",
+       "saiu": "Chico Kim",
+       "minuto": ""
+      },
+      {
+       "jogador": "Shaylon",
+       "saiu": "Gustavo Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luis",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Carioca",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Chico Kim",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carlos Eduardo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Neto Moura",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/bahia/bahia-x-mirassol-campeonato-brasileiro-11-10-26/"
+    ],
+    "atualizado": "2026-11-10T05:35:00-03:00"
+   }
   },
   {
    "id": 91000077,
@@ -1478,7 +1567,101 @@
     "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-oscila-apos-inicio-avassalador-mas-vence-o-sao-paulo-no-brasileirao/",
     "https://www.terra.com.br/esportes/futebol/bahia-vence-sao-paulo-na-fonte-nova-e-encosta-no-g-5-do-brasileirao,4987d2bd7f38ac4fbc66b3415b6a16671v9kow03.html"
    ],
-   "atualizado": "2026-10-29T01:41:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Marco Moreno, Luciano Juba; Acevedo, Jean Lucas, Rodrigo Nestor; Kike Olivera, Erick Pulga, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Everton Ribeiro",
+       "saiu": "Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araujo",
+       "saiu": "Kike Olivera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcos Victor",
+        "minuto": ""
+       },
+       {
+        "jogador": "David Duarte",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Newton, Arboleda, Sabino; Pedro Lima, Bobadilla, Pablo Maia, Wendell; Lucas Moura, Luciano, Calleri",
+     "entraram": [
+      {
+       "jogador": "Danielzinho",
+       "saiu": "Sabino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Sá",
+       "saiu": "Bobadilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo",
+       "saiu": "Pablo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauly",
+       "saiu": "Wendell",
+       "minuto": ""
+      },
+      {
+       "jogador": "Djhordney",
+       "saiu": "Luciano",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Sabino",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Moura",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.bahianoticias.com.br/esportes/bahia/34232-bahia-sai-na-frente-leva-banho-de-agua-fria-mas-reage-e-vence-o-sao-paulo-pelo-brasileirao"
+    ],
+    "atualizado": "2026-11-10T05:36:00-03:00"
+   }
   },
   {
    "id": 91000015,

@@ -1,6 +1,130 @@
 {
  "jogos": [
   {
+   "id": 91000218,
+   "data": "2026-04-22T19:00:00-03:00",
+   "casa": "bahia",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quinta fase - ida",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Tchamba",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Willian José",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Yago Pikachu",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Alef Manga",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3781137",
+    "https://www.bahianoticias.com.br/esportes/bahia/33626-com-gritos-de-ole-da-propria-torcida-bahia-perde-para-o-remo-e-larga-em-desvantagem-na-copa-do-brasil"
+   ],
+   "atualizado": "2026-11-10T05:33:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Léo Vieira; Acevedo, David Duarte, Ramos Mingo, Luciano Juba; Caio Alexandre, Jean Lucas, Everton Ribeiro; Kike Olivera, Erick Pulga, Willian José",
+     "entraram": [
+      {
+       "jogador": "Erick",
+       "saiu": "Caio Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Nestor",
+       "saiu": "Everton Ribeiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Kike Olivera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everaldo",
+       "saiu": "Willian José",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luciano Juba",
+        "minuto": ""
+       },
+       {
+        "jogador": "Caio Alexandre",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; Zé Ricardo, Zé Welison, Yago Pikachu, Patrick, Jajá; Gabriel Taliari",
+     "entraram": [
+      {
+       "jogador": "Leonel Picco",
+       "saiu": "Zé Welison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jaderson",
+       "saiu": "Yago Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alef Manga",
+       "saiu": "Jajá",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Hernández",
+       "saiu": "Gabriel Taliari",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3781137"
+    ],
+    "atualizado": "2026-11-10T05:33:00-03:00"
+   }
+  },
+  {
    "id": 91000205,
    "data": "2026-04-23T21:30:00-03:00",
    "casa": "athletico-pr",
@@ -128,6 +252,48 @@
     ],
     "atualizado": "2026-11-09T18:37:00-03:00"
    }
+  },
+  {
+   "id": 91000219,
+   "data": "2026-05-13T21:30:00-03:00",
+   "casa": "remo",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quinta fase - volta",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Erick",
+     "minuto": "22",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Patrick",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Leonel Picco",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://acritica.net/esportes/remo-vence-bahia-novamente-e-avanca-na-copa-do-brasil/",
+    "https://atarde.com.br/esportes/ecbahia/ceni-inventa-juba-na-zaga-e-bahia-confirma-vexame-na-copa-do-brasil-1388808"
+   ],
+   "atualizado": "2026-11-10T05:33:00-03:00"
   },
   {
    "id": 91000206,

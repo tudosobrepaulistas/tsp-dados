@@ -1,6 +1,279 @@
 {
  "jogos": [
   {
+   "id": 91000216,
+   "data": "2026-02-18T19:00:00-03:00",
+   "casa": "o-higgins",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Pré-Libertadores - 2ª fase - ida",
+   "grupo": "",
+   "estadio": "El Teniente",
+   "cidade": "Rancagua",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Francisco González",
+     "minuto": "4",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/bahia-estreia-na-copa-libertadores-com-derrota-para-ohiggins-no-chile/",
+    "https://www.oliberal.com/esportes/bahia-perde-para-o-o-higgins-e-larga-em-desvantagem-na-pre-libertadores-1.1086719"
+   ],
+   "atualizado": "2026-11-10T05:32:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Lucas Bovaglio",
+     "time": "Carabalí; Faúndez, Robledo, Brizuela, Luis Pavez; Felipe Ogaz, Juan Leiva, Bryan Rabello; Francisco González, Sarrafiore, Arnaldo Castillo",
+     "entraram": [
+      {
+       "jogador": "Schamine",
+       "saiu": "Juan Leiva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yáñez",
+       "saiu": "Bryan Rabello",
+       "minuto": ""
+      },
+      {
+       "jogador": "Benjamín Rojas",
+       "saiu": "Sarrafiore",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vecino",
+       "saiu": "Arnaldo Castillo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Felipe Ogaz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Juan Leiva",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Román Gómez, Gabriel Xavier, Ramos Mingo, Luciano Juba; Acevedo, Erick, Jean Lucas; Ademir, Kike Olivera, Willian José",
+     "entraram": [
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Erick",
+       "minuto": "30"
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "Román Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everaldo",
+       "saiu": "Ademir",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick Pulga",
+       "saiu": "Kike Olivera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Willian José",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Román Gómez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gilberto",
+        "minuto": ""
+       },
+       {
+        "jogador": "Acevedo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ademir",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kike Olivera",
+        "minuto": ""
+       },
+       {
+        "jogador": "Everaldo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/bahia-estreia-na-copa-libertadores-com-derrota-para-ohiggins-no-chile/"
+    ],
+    "atualizado": "2026-11-10T05:32:00-03:00"
+   }
+  },
+  {
+   "id": 91000217,
+   "data": "2026-02-25T19:00:00-03:00",
+   "casa": "bahia",
+   "fora": "o-higgins",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Pré-Libertadores - 2ª fase - volta",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "3x4",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Willian José",
+     "minuto": "1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Willian José",
+     "minuto": "44",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Arnaldo Castillo",
+     "minuto": "53",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.bahianoticias.com.br/esportes/bahia/33380-nos-penaltis-bahia-e-eliminado-pelo-ohiggins-e-fica-sem-calendario-internacional-em-2026",
+    "https://atarde.com.br/esportes/bahia-perde-nos-penaltis-e-da-adeus-a-libertadores-1380917"
+   ],
+   "atualizado": "2026-11-10T05:32:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Román Gómez, Gabriel Xavier, Ramos Mingo, Luciano Juba; Caio Alexandre, Jean Lucas, Everton Ribeiro; Ademir, Erick Pulga, Willian José",
+     "entraram": [
+      {
+       "jogador": "Acevedo",
+       "saiu": "Caio Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Nestor",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dell",
+       "saiu": "Ademir",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kike Olivera",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everaldo",
+       "saiu": "Willian José",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luciano Juba",
+        "minuto": ""
+       },
+       {
+        "jogador": "Acevedo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Xavier",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ramos Mingo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Lucas Bovaglio",
+     "time": "Carabalí; Faúndez, Robledo, Brizuela, Luis Pavez; Juan Leiva, Felipe Ogaz, Francisco González, Bryan Rabello, Sarrafiore; Benega",
+     "entraram": [
+      {
+       "jogador": "Benjamín Rojas",
+       "saiu": "Bryan Rabello",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yáñez",
+       "saiu": "Sarrafiore",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luis Pavez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Felipe Ogaz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Juan Leiva",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carabalí",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.bahianoticias.com.br/esportes/bahia/33380-nos-penaltis-bahia-e-eliminado-pelo-ohiggins-e-fica-sem-calendario-internacional-em-2026",
+     "https://atarde.com.br/esportes/bahia-perde-nos-penaltis-e-da-adeus-a-libertadores-1380917"
+    ],
+    "atualizado": "2026-11-10T05:33:00-03:00"
+   }
+  },
+  {
    "id": 91000178,
    "data": "2026-10-14T21:30:00-03:00",
    "casa": "fluminense",

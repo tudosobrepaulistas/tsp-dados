@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-10T03:51:00-03:00",
+ "gerado": "2026-11-10T05:36:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1180,6 +1180,13 @@
    "temporada": 2026,
    "formato": "historico",
    "status": "historico"
+  },
+  {
+   "chave": "baiano",
+   "nome": "Campeonato Baiano",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ],
  "times": {
@@ -1492,6 +1499,18 @@
   "900052": {
    "chave": "foz-do-iguacu",
    "nome": "Foz do Iguaçu",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900053": {
+   "chave": "o-higgins",
+   "nome": "O'Higgins",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900054": {
+   "chave": "juazeirense",
+   "nome": "Juazeirense",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -2681,7 +2700,95 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Marco Moreno, Luciano Juba; Jean Lucas, Caio Alexandre, Rodrigo Nestor; Kike Olivera, Erick Pulga, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Román Gómez",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick",
+       "saiu": "Caio Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Ribeiro",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Kike Olivera",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jean Lucas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Muralha; Igor Formiga, Lucas Oliveira, William Machado, Reinaldo; Denilson, Neto Moura, Chico Kim; Gustavo Silva, Bruno Santos, Alesson",
+     "entraram": [
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo",
+       "saiu": "Chico Kim",
+       "minuto": ""
+      },
+      {
+       "jogador": "Shaylon",
+       "saiu": "Gustavo Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luis",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Carioca",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Chico Kim",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carlos Eduardo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Neto Moura",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/bahia/bahia-x-mirassol-campeonato-brasileiro-11-10-26/"
+    ],
+    "atualizado": "2026-11-10T05:35:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -4376,7 +4483,100 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Marco Moreno, Luciano Juba; Acevedo, Jean Lucas, Rodrigo Nestor; Kike Olivera, Erick Pulga, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Everton Ribeiro",
+       "saiu": "Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araujo",
+       "saiu": "Kike Olivera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcos Victor",
+        "minuto": ""
+       },
+       {
+        "jogador": "David Duarte",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Newton, Arboleda, Sabino; Pedro Lima, Bobadilla, Pablo Maia, Wendell; Lucas Moura, Luciano, Calleri",
+     "entraram": [
+      {
+       "jogador": "Danielzinho",
+       "saiu": "Sabino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Sá",
+       "saiu": "Bobadilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo",
+       "saiu": "Pablo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauly",
+       "saiu": "Wendell",
+       "minuto": ""
+      },
+      {
+       "jogador": "Djhordney",
+       "saiu": "Luciano",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Sabino",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Moura",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.bahianoticias.com.br/esportes/bahia/34232-bahia-sai-na-frente-leva-banho-de-agua-fria-mas-reage-e-vence-o-sao-paulo-pelo-brasileirao"
+    ],
+    "atualizado": "2026-11-10T05:36:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -7213,8 +7413,8 @@
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.28,
-     0.53
+     1.27,
+     0.52
     ],
     "base": [
      7,
@@ -7266,11 +7466,11 @@
    "previsao": {
     "casa": 9,
     "empate": 14,
-    "fora": 78,
+    "fora": 77,
     "placar": "0x2",
     "gols_esperados": [
-     0.83,
-     2.77
+     0.82,
+     2.73
     ],
     "base": [
      7,
@@ -7325,8 +7525,8 @@
     "fora": 57,
     "placar": "0x1",
     "gols_esperados": [
-     0.61,
-     1.42
+     0.6,
+     1.4
     ],
     "base": [
      8,
@@ -7376,16 +7576,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 22,
-    "fora": 16,
-    "placar": "1x0",
+    "casa": 77,
+    "empate": 14,
+    "fora": 8,
+    "placar": "2x0",
     "gols_esperados": [
-     1.85,
-     0.83
+     2.62,
+     0.75
     ],
     "base": [
-     7,
+     9,
      7
     ]
    },
@@ -7437,8 +7637,8 @@
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.34,
-     0.81
+     2.32,
+     0.8
     ],
     "base": [
      9,
@@ -7489,12 +7689,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 30,
-    "empate": 25,
+    "empate": 26,
     "fora": 45,
     "placar": "1x1",
     "gols_esperados": [
-     1.18,
-     1.51
+     1.17,
+     1.49
     ],
     "base": [
      7,
@@ -7549,8 +7749,8 @@
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.55,
-     0.9
+     1.53,
+     0.89
     ],
     "base": [
      7,
@@ -7600,17 +7800,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
-    "empate": 21,
-    "fora": 16,
-    "placar": "1x0",
+    "casa": 58,
+    "empate": 22,
+    "fora": 20,
+    "placar": "1x1",
     "gols_esperados": [
-     1.98,
-     0.86
+     1.94,
+     1.03
     ],
     "base": [
      9,
-     7
+     13
     ]
    },
    "events": []
@@ -7656,13 +7856,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
+    "casa": 54,
     "empate": 24,
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.68,
-     0.95
+     1.67,
+     0.94
     ],
     "base": [
      9,
@@ -7712,16 +7912,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 35,
+    "casa": 33,
     "empate": 22,
-    "fora": 43,
+    "fora": 44,
     "placar": "1x1",
     "gols_esperados": [
-     1.62,
-     1.81
+     1.57,
+     1.84
     ],
     "base": [
-     9,
+     10,
      7
     ]
    },
@@ -7773,8 +7973,8 @@
     "fora": 42,
     "placar": "0x1",
     "gols_esperados": [
-     0.95,
-     1.21
+     0.94,
+     1.19
     ],
     "base": [
      7,
@@ -7829,8 +8029,8 @@
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.27,
-     0.74
+     1.26,
+     0.73
     ],
     "base": [
      11,
@@ -7880,16 +8080,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
-    "empate": 22,
-    "fora": 12,
-    "placar": "1x0",
+    "casa": 73,
+    "empate": 18,
+    "fora": 9,
+    "placar": "2x0",
     "gols_esperados": [
-     1.76,
-     0.58
+     2.11,
+     0.57
     ],
     "base": [
-     7,
+     13,
      8
     ]
    },
@@ -7941,8 +8141,8 @@
     "fora": 85,
     "placar": "0x3",
     "gols_esperados": [
-     0.87,
-     3.56
+     0.86,
+     3.51
     ],
     "base": [
      7,
@@ -7992,17 +8192,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 76,
-    "empate": 15,
-    "fora": 9,
-    "placar": "2x0",
+    "casa": 65,
+    "empate": 19,
+    "fora": 16,
+    "placar": "2x1",
     "gols_esperados": [
-     2.47,
-     0.72
+     2.22,
+     1.02
     ],
     "base": [
      21,
-     7
+     9
     ]
    },
    "events": []
@@ -8053,8 +8253,8 @@
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.44,
-     0.78
+     1.43,
+     0.77
     ],
     "base": [
      9,
@@ -8106,11 +8306,11 @@
    "previsao": {
     "casa": 48,
     "empate": 22,
-    "fora": 31,
+    "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.98,
-     1.56
+     1.96,
+     1.53
     ],
     "base": [
      7,
@@ -8160,17 +8360,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
+    "casa": 57,
     "empate": 24,
-    "fora": 20,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.68,
-     0.91
+     1.71,
+     0.87
     ],
     "base": [
      7,
-     9
+     10
     ]
    },
    "events": []
@@ -8221,8 +8421,8 @@
     "fora": 41,
     "placar": "0x0",
     "gols_esperados": [
-     0.68,
-     0.97
+     0.67,
+     0.96
     ],
     "base": [
      7,
@@ -8274,11 +8474,11 @@
    "previsao": {
     "casa": 43,
     "empate": 27,
-    "fora": 30,
+    "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.35,
-     1.07
+     1.34,
+     1.06
     ],
     "base": [
      7,
@@ -8333,8 +8533,8 @@
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.6,
-     0.92
+     1.58,
+     0.91
     ],
     "base": [
      11,
@@ -14728,8 +14928,8 @@
     "fora": 42,
     "placar": "0x1",
     "gols_esperados": [
-     0.84,
-     1.13
+     0.83,
+     1.12
     ],
     "base": [
      7,
@@ -14784,8 +14984,8 @@
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.43,
-     1.07
+     2.41,
+     1.06
     ],
     "base": [
      7,
@@ -14840,7 +15040,7 @@
     "fora": 9,
     "placar": "0x0",
     "gols_esperados": [
-     0.97,
+     0.96,
      0.23
     ],
     "base": [
@@ -14896,8 +15096,8 @@
     "fora": 8,
     "placar": "1x0",
     "gols_esperados": [
-     1.62,
-     0.37
+     1.61,
+     0.36
     ],
     "base": [
      9,
@@ -14952,8 +15152,8 @@
     "fora": 31,
     "placar": "0x0",
     "gols_esperados": [
-     0.95,
-     0.86
+     0.94,
+     0.85
     ],
     "base": [
      8,
@@ -15008,7 +15208,7 @@
     "fora": 13,
     "placar": "0x0",
     "gols_esperados": [
-     0.95,
+     0.94,
      0.35
     ],
     "base": [
@@ -15064,8 +15264,8 @@
     "fora": 40,
     "placar": "0x0",
     "gols_esperados": [
-     0.68,
-     0.94
+     0.67,
+     0.93
     ],
     "base": [
      7,
@@ -15117,11 +15317,11 @@
    "previsao": {
     "casa": 24,
     "empate": 27,
-    "fora": 49,
+    "fora": 48,
     "placar": "0x1",
     "gols_esperados": [
-     0.9,
-     1.4
+     0.89,
+     1.39
     ],
     "base": [
      7,
@@ -15176,7 +15376,7 @@
     "fora": 13,
     "placar": "1x0",
     "gols_esperados": [
-     1.85,
+     1.84,
      0.69
     ],
     "base": [
@@ -15228,12 +15428,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 33,
-    "empate": 30,
+    "empate": 31,
     "fora": 37,
     "placar": "0x1",
     "gols_esperados": [
-     0.99,
-     1.07
+     0.98,
+     1.06
     ],
     "base": [
      7,
@@ -15241,6 +15441,115 @@
     ]
    },
    "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3781137",
+    "https://www.bahianoticias.com.br/esportes/bahia/33626-com-gritos-de-ole-da-propria-torcida-bahia-perde-para-o-remo-e-larga-em-desvantagem-na-copa-do-brasil"
+   ],
+   "fixture": {
+    "id": 91000218,
+    "timestamp": 1776895200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quinta fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Tchamba"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Willian José"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Yago Pikachu"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+5"
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Alef Manga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -15285,6 +15594,99 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://acritica.net/esportes/remo-vence-bahia-novamente-e-avanca-na-copa-do-brasil/",
+    "https://atarde.com.br/esportes/ecbahia/ceni-inventa-juba-na-zaga-e-bahia-confirma-vexame-na-copa-do-brasil-1388808"
+   ],
+   "fixture": {
+    "id": 91000219,
+    "timestamp": 1778718600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mangueirão",
+     "city": "Belém"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quinta fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900019,
+     "name": "Remo"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 22,
+      "extra": null,
+      "texto": "22"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Erick"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Patrick"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Leonel Picco"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -15980,6 +16382,160 @@
      },
      "player": {
       "name": "Puma Rodríguez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/bahia-estreia-na-copa-libertadores-com-derrota-para-ohiggins-no-chile/",
+    "https://www.oliberal.com/esportes/bahia-perde-para-o-o-higgins-e-larga-em-desvantagem-na-pre-libertadores-1.1086719"
+   ],
+   "fixture": {
+    "id": 91000216,
+    "timestamp": 1771452000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "El Teniente",
+     "city": "Rancagua"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Pré-Libertadores - 2ª fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900053,
+     "name": "O'Higgins"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 4,
+      "extra": null,
+      "texto": "4"
+     },
+     "team": {
+      "id": 900053,
+      "name": "O'Higgins"
+     },
+     "player": {
+      "name": "Francisco González"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.bahianoticias.com.br/esportes/bahia/33380-nos-penaltis-bahia-e-eliminado-pelo-ohiggins-e-fica-sem-calendario-internacional-em-2026",
+    "https://atarde.com.br/esportes/bahia-perde-nos-penaltis-e-da-adeus-a-libertadores-1380917"
+   ],
+   "fixture": {
+    "id": 91000217,
+    "timestamp": 1772056800,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Pré-Libertadores - 2ª fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900053,
+     "name": "O'Higgins"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "3x4",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 1,
+      "extra": null,
+      "texto": "1"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Willian José"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 44,
+      "extra": null,
+      "texto": "44"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Willian José"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 53,
+      "extra": null,
+      "texto": "53"
+     },
+     "team": {
+      "id": 900053,
+      "name": "O'Higgins"
+     },
+     "player": {
+      "name": "Arnaldo Castillo"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -17839,6 +18395,240 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "baiano",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-baiano/bahia-vence-juazeirense-e-avanca-a-final-do-campeonato-baiano/",
+    "https://www.bahianoticias.com.br/esportes/bahia/33396-mesmo-ao-som-de-vaias-e-time-pipoqueiro-bahia-vence-juazeirense-e-se-classifica-para-final-do-baianao"
+   ],
+   "fixture": {
+    "id": 91000221,
+    "timestamp": 1772308800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900054,
+     "name": "Juazeirense"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Willian José"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Erick Pulga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Kike Olivera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900054,
+      "name": "Juazeirense"
+     },
+     "player": {
+      "name": "Bino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 87,
+      "extra": null,
+      "texto": "87"
+     },
+     "team": {
+      "id": 900054,
+      "name": "Juazeirense"
+     },
+     "player": {
+      "name": "Vitinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+2"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Sanabria"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "baiano",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-baiano/jean-lucas-decide-bahia-vira-sobre-vitoria-e-e-campeao-baiano-de-2026/",
+    "https://www.gazetaesportiva.com/times/bahia/jean-lucas-faz-dois-bahia-vira-sobre-o-vitoria-e-conquista-o-titulo-do-baiano/"
+   ],
+   "fixture": {
+    "id": 91000220,
+    "timestamp": 1772913600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Baralhas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 53,
+      "extra": null,
+      "texto": "53"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Jean Lucas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 65,
+      "extra": null,
+      "texto": "65"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Jean Lucas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   }
  ],
  "classificacao": {
@@ -19178,6 +19968,12 @@
   ],
   "copa_do_brasil": [
    {
+    "jogador": "Alef Manga",
+    "time": "Remo",
+    "time_id": 900019,
+    "gols": 1
+   },
+   {
     "jogador": "Carlos Vinícius",
     "time": "Grêmio",
     "time_id": 900017,
@@ -19196,15 +19992,33 @@
     "gols": 1
    },
    {
+    "jogador": "Erick",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   },
+   {
     "jogador": "João Cruz",
     "time": "Athletico-PR",
     "time_id": 900004,
     "gols": 1
    },
    {
+    "jogador": "Leonel Picco",
+    "time": "Remo",
+    "time_id": 900019,
+    "gols": 1
+   },
+   {
     "jogador": "Maurício",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Patrick",
+    "time": "Remo",
+    "time_id": 900019,
     "gols": 1
    },
    {
@@ -19223,6 +20037,44 @@
     "jogador": "Renan Lodi",
     "time": "Atlético-MG",
     "time_id": 900006,
+    "gols": 1
+   },
+   {
+    "jogador": "Tchamba",
+    "time": "Remo",
+    "time_id": 900019,
+    "gols": 1
+   },
+   {
+    "jogador": "Willian José",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Yago Pikachu",
+    "time": "Remo",
+    "time_id": 900019,
+    "gols": 1
+   }
+  ],
+  "libertadores": [
+   {
+    "jogador": "Willian José",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 2
+   },
+   {
+    "jogador": "Arnaldo Castillo",
+    "time": "O'Higgins",
+    "time_id": 900053,
+    "gols": 1
+   },
+   {
+    "jogador": "Francisco González",
+    "time": "O'Higgins",
+    "time_id": 900053,
     "gols": 1
    }
   ],
@@ -19357,6 +20209,56 @@
     "time_id": 900012,
     "gols": 1
    }
+  ],
+  "baiano": [
+   {
+    "jogador": "Jean Lucas",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 2
+   },
+   {
+    "jogador": "Baralhas",
+    "time": "Vitória",
+    "time_id": 900014,
+    "gols": 1
+   },
+   {
+    "jogador": "Bino",
+    "time": "Juazeirense",
+    "time_id": 900054,
+    "gols": 1
+   },
+   {
+    "jogador": "Erick Pulga",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Kike Olivera",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Sanabria",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Vitinho",
+    "time": "Juazeirense",
+    "time_id": 900054,
+    "gols": 1
+   },
+   {
+    "jogador": "Willian José",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 1
+   }
   ]
  },
  "chaves": {
@@ -19366,6 +20268,48 @@
     {
      "nome": "Quinta fase",
      "confrontos": [
+      {
+       "times": [
+        900007,
+        900019
+       ],
+       "nomes": [
+        "Bahia",
+        "Remo"
+       ],
+       "agregado": [
+        2,
+        5
+       ],
+       "penaltis": null,
+       "vencedor": 900019,
+       "jogos": [
+        {
+         "id": 91000218,
+         "data": "2026-04-22T19:00",
+         "casa": 900007,
+         "fora": 900019,
+         "gc": 1,
+         "gf": 3,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena Fonte Nova",
+         "cidade": "Salvador"
+        },
+        {
+         "id": 91000219,
+         "data": "2026-05-13T21:30",
+         "casa": 900019,
+         "fora": 900007,
+         "gc": 2,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mangueirão",
+         "cidade": "Belém"
+        }
+       ]
+      },
       {
        "times": [
         900004,
@@ -19589,6 +20533,56 @@
   "libertadores": {
    "nome": "Libertadores",
    "fases": [
+    {
+     "nome": "Pré-Libertadores - 2ª fase",
+     "confrontos": [
+      {
+       "times": [
+        900053,
+        900007
+       ],
+       "nomes": [
+        "O'Higgins",
+        "Bahia"
+       ],
+       "agregado": [
+        2,
+        2
+       ],
+       "penaltis": [
+        4,
+        3
+       ],
+       "vencedor": 900053,
+       "jogos": [
+        {
+         "id": 91000216,
+         "data": "2026-02-18T19:00",
+         "casa": 900053,
+         "fora": 900007,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "El Teniente",
+         "cidade": "Rancagua"
+        },
+        {
+         "id": 91000217,
+         "data": "2026-02-25T19:00",
+         "casa": 900007,
+         "fora": 900053,
+         "gc": 2,
+         "gf": 1,
+         "pen": "3x4",
+         "status": "encerrado",
+         "estadio": "Arena Fonte Nova",
+         "cidade": "Salvador"
+        }
+       ]
+      }
+     ]
+    },
     {
      "nome": "Semifinal",
      "confrontos": [

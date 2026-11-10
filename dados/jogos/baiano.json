@@ -1,0 +1,301 @@
+{
+ "competicao": "baiano",
+ "jogos": [
+  {
+   "id": 91000221,
+   "data": "2026-02-28T17:00:00-03:00",
+   "casa": "bahia",
+   "fora": "juazeirense",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 4,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Willian José",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Erick Pulga",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kike Olivera",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vitinho",
+     "minuto": "87",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Sanabria",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-baiano/bahia-vence-juazeirense-e-avanca-a-final-do-campeonato-baiano/",
+    "https://www.bahianoticias.com.br/esportes/bahia/33396-mesmo-ao-som-de-vaias-e-time-pipoqueiro-bahia-vence-juazeirense-e-se-classifica-para-final-do-baianao"
+   ],
+   "atualizado": "2026-11-10T05:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Román Gómez, Gabriel Xavier, Ramos Mingo, Luciano Juba; Caio Alexandre, Jean Lucas, Everton Ribeiro; Ademir, Erick Pulga, Willian José",
+     "entraram": [
+      {
+       "jogador": "Acevedo",
+       "saiu": "Caio Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Nestor",
+       "saiu": "Everton Ribeiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kike Olivera",
+       "saiu": "Ademir",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kike Olivera",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Carlos Rabelo",
+     "time": "Pedro Campanelli; Vitinho, Zé Romário, Eduardo Rosado, Leandro; Elivélton, Bruno Sena, Douglas Nathan; Luan, Anderson Pato, Bravo",
+     "entraram": [
+      {
+       "jogador": "Mandacarú",
+       "saiu": "Leandro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bino",
+       "saiu": "Elivélton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pardal",
+       "saiu": "Bravo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Leandro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Romário",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vitinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.bahianoticias.com.br/esportes/bahia/33396-mesmo-ao-som-de-vaias-e-time-pipoqueiro-bahia-vence-juazeirense-e-se-classifica-para-final-do-baianao"
+    ],
+    "atualizado": "2026-11-10T05:35:00-03:00"
+   }
+  },
+  {
+   "id": 91000220,
+   "data": "2026-03-07T17:00:00-03:00",
+   "casa": "bahia",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Baralhas",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jean Lucas",
+     "minuto": "53",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jean Lucas",
+     "minuto": "65",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-baiano/jean-lucas-decide-bahia-vira-sobre-vitoria-e-e-campeao-baiano-de-2026/",
+    "https://www.gazetaesportiva.com/times/bahia/jean-lucas-faz-dois-bahia-vira-sobre-o-vitoria-e-conquista-o-titulo-do-baiano/"
+   ],
+   "atualizado": "2026-11-10T05:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Román Gómez, Gabriel Xavier, Ramos Mingo, Luciano Juba; Acevedo, Jean Lucas, Everton Ribeiro; Ademir, Erick Pulga, Willian José",
+     "entraram": [
+      {
+       "jogador": "Erick",
+       "saiu": "Román Gómez",
+       "minuto": "46"
+      },
+      {
+       "jogador": "Kike Olivera",
+       "saiu": "Ademir",
+       "minuto": "46"
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Nestor",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "David Martins",
+       "saiu": "Everton Ribeiro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Román Gómez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Jean Lucas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo Nestor",
+        "minuto": ""
+       },
+       {
+        "jogador": "Everton Ribeiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ademir",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kike Olivera",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Jair Ventura",
+     "time": "Lucas Arcanjo; Nathan Mendes, Camutanga, Edu, Ramon; Edenílson, Baralhas, Emmanuel Martínez, Matheuzinho; Erick, Renato Kayzer",
+     "entraram": [
+      {
+       "jogador": "Mateus Silva",
+       "saiu": "Nathan Mendes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabri",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marinho",
+       "saiu": "Emmanuel Martínez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cantalapiedra",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Osvaldo",
+       "saiu": "Renato Kayzer",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Ramon",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-baiano/jean-lucas-decide-bahia-vira-sobre-vitoria-e-e-campeao-baiano-de-2026/"
+    ],
+    "atualizado": "2026-11-10T05:35:00-03:00"
+   }
+  }
+ ]
+}
