@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-10T11:35-03:00",
+ "gerado": "2026-11-10T14:27-03:00",
  "avisos": [
-  {
-   "clube": "palmeiras-feminino",
-   "nome": "Palmeiras Feminino",
-   "quando": "2026-11-09T11:19-03:00",
-   "motivo": "Pauta do dia sem foto segura (fotos livres do Commons são de agência)",
-   "sugestao": "Prévia: Corinthians x Palmeiras, volta da semifinal do Paulista Feminino Sub-20, hoje (09/11) às 21h no Parque São Jorge; Corinthians venceu a ida por 3x2 e joga pelo empate. Vencedor pega a Ferroviária na final."
-  },
-  {
-   "clube": "red-bull-bragantino-feminino",
-   "nome": "Red Bull Bragantino Feminino",
-   "quando": "2026-11-09T11:19-03:00",
-   "motivo": "Coletiva nova no canal oficial, mas sem acesso ao conteúdo falado para citar com segurança",
-   "sugestao": "Coletiva de Humberto Simão avaliando a campanha das Bragantinas na Copa do Brasil (YouTube Massa Bruta, 08/11): https://www.youtube.com/watch?v=LKnwiqe_dFo"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-09T11:19-03:00",
-   "motivo": "Notícia com 1 fonte (Futebol Interior, 05/11) e sem foto oficial acessível",
-   "sugestao": "Tanabi anuncia reforços para a Série A4 2027: zagueiro Denis Santos, volante João Monteiro, Daniel Dandan, Bernardo, Giovanni Carignano e Rafinha; renovação do lateral Rafael Gatto; técnico Petterson Martins. Conferir no Instagram do clube."
-  },
-  {
-   "clube": "vocem",
-   "nome": "VOCEM",
-   "quando": "2026-11-09T11:19-03:00",
-   "motivo": "Notícia de 29/10 (fora dos 7 dias) e sem foto acessível",
-   "sugestao": "Paulinho McLaren volta ao comando do VOCEM para a Série A4 2027 (Grupo 1, estreia 14/02/2027). Fonte: Futebol Interior."
-  },
   {
    "clube": "america-de-rio-preto",
    "nome": "América de Rio Preto",
@@ -420,6 +392,34 @@
    "quando": "2026-11-10T11:35-03:00",
    "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Bloco A2: sem pauta na saída.",
    "sugestao": "Conferir reforços para a A2 2027 nas redes de Linense, Velo Clube, Água Santa e São José"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-10T14:27-03:00",
+   "motivo": "Pauta do dia (O Tempo e BH 24 Horas, 10/11): Mirassol tem nove jogadores ex-Cruzeiro/América antes de receber o Atlético, que perde Alan Franco e Alan Minda para o Equador. Sem foto de jogo do Mirassol que desse para conferir (site oficial bloqueado para download; YouTube oficial só tem artes).",
+   "sugestao": "Mirassol x Atlético-MG (14/11, 18h30, Maião): Leão tem nove ex-jogadores de Cruzeiro e América (Georgemy, Lucas Oliveira, Neto Moura, Wallisson, Daniel Borges, Shaylon...) e Galo vem sem Alan Franco e Alan Minda. Fontes: otempo.com.br (10/11), bh24horas.com.br, ncnews.com.br, br.bolavip.com. Foto: Pedro Zacchi/Mirassol do jogo em Chapecó (mirassolfc.com.br)."
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-10T14:27-03:00",
+   "motivo": "Nada novo confirmado em 2 fontes nas últimas 24h; Série B encerrada para o clube, último jogo sábado (14) contra o Athletic.",
+   "sugestao": "Análise do DGABC (09/11): tropeços contra times da parte de baixo (Ponte, América-MG, Londrina, Avaí, Ceará) custaram o G-6; ou prévia de São Bernardo x Athletic na sexta com escalação provável e despedida da 1ª Série B."
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-10T14:27-03:00",
+   "motivo": "Data Fifa: nada novo confirmado em 2 fontes nas últimas 24h; sorteio do Paulistão só às 17h.",
+   "sugestao": "Lucas Barbosa suspenso (3º amarelo) contra o Vitória em 19/11 no Barradão (ChicoSabeTudo/Futebol Baiano, 09/11); após as 17h, adversários do Bragantino no sorteio do Paulistão 2027."
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-10T14:27-03:00",
+   "motivo": "Assunto das últimas 24h é o acesso, já coberto; vídeo de bastidores do acesso (parte 2) não é entrevista.",
+   "sugestao": "Após as 17h, adversários do Novorizontino no sorteio do Paulistão 2027; semana de treinos para a final da Série B contra o Criciúma (14/11, Heriberto Hülse)."
   }
  ]
 }
