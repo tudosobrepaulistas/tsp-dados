@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09T23:28:00-03:00",
+ "gerado": "2026-11-10T00:36:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -13616,7 +13616,21 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Ponte Preta e Operário-PR fecham a Série B na quinta-feira (12/11), às 19h, no Ítalo Mário Limongi, em Indaiatuba, em jogo antecipado pela CBF do dia 14. A rodada 38 vale pouco na tabela para os dois: a Ponte, já rebaixada desde outubro, é a lanterna com 15 pontos em 37 jogos (3 vitórias, 6 empates e 28 derrotas), e o Operário é o 10º, com 54, sem chance de alcançar o G4, fechado em 62 pontos.",
+     "Para a Ponte, o que resta é a marca histórica. O pior desempenho da Série B na era dos pontos corridos é do Duque de Caxias, com 17 pontos em 2011, como lembrou o Correio da Manhã. Com 15, a Macaca só deixa de ter a pior campanha se vencer: o empate a levaria a 16. O time de Gilson Kleina vem de três derrotas e dois empates nos últimos cinco jogos (perdeu de Novorizontino, Criciúma e Goiás e empatou com Atlético-GO e Fortaleza), tem o pior ataque (21 gols) e a pior defesa (79 sofridos) da competição e ainda não venceu como mandante em Indaiatuba, onde joga enquanto o gramado do Moisés Lucarelli passa por obras.",
+     "O Operário chega depois de vencer o Sport por 3 a 2 em Ponta Grossa, na rodada passada. Nos últimos cinco jogos foram duas vitórias e três derrotas, e fora de casa o retrospecto recente pesa contra: perdeu as três últimas partidas como visitante (Juventude, América-MG e Novorizontino). O time paranaense tem 15 vitórias, 9 empates e 13 derrotas, com 49 gols marcados e 50 sofridos."
+    ],
+    "retrospecto": "No primeiro turno, em 22 de julho de 2026, pela 19ª rodada, o Operário venceu a Ponte Preta por 3 a 2 no Germano Krüger, em Ponta Grossa, de virada: Brandão fez os dois gols da Ponte, e Pablo, Hildeberto Pereira e Caio Dantas, nos acréscimos, marcaram para o Fantasma (Gazeta Esportiva e Itatiaia).",
+    "estadio_wiki": "Estádio Ítalo Mário Limongi",
+    "fontes": [
+     "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/regiao-de-campinas/2026/10/329155-ponte-preta-tenta-evitar-a-pior-campanha-da-historia-na-serie-b.html",
+     "https://www.gazetaesportiva.com/?p=3825117",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-gol-nos-acrescimos-operario-vence-ponte-preta-pela-serie-b/"
+    ],
+    "atualizado": "2026-11-10T00:36:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 27,
