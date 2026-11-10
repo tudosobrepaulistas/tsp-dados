@@ -1,0 +1,76 @@
+{
+ "competicao": "carioca",
+ "jogos": [
+  {
+   "id": 91000236,
+   "data": "2026-02-28T19:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "boavista",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Taça Rio - Semifinal - volta",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/carioca/botafogo-empata-mas-avanca-final-taca-rio/",
+    "https://www.lance.com.br/botafogo/botafogo-empata-sem-gols-com-o-boavista-em-jogo-ruim-e-vai-a-final-da-taca-rio.html"
+   ],
+   "atualizado": "2026-11-10T13:41:00-03:00"
+  },
+  {
+   "id": 91000237,
+   "data": "2026-03-07T18:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "bangu",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Taça Rio - Final",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Edenílson",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Caio Valle",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Joaquín Correa",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Luizinho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/botafogo/botafogo-supera-bangu-e-conquista-a-taca-rio-pela-10a-vez/?amp=",
+    "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/edenilson-marca-botafogo-vence-bangu-e-conquista-taca-rio-veja-ranking/"
+   ],
+   "atualizado": "2026-11-10T13:41:00-03:00"
+  }
+ ]
+}

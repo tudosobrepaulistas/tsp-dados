@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-10T13:40:00-03:00",
+ "gerado": "2026-11-10T13:41:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1187,6 +1187,13 @@
    "temporada": 2026,
    "formato": "historico",
    "status": "historico"
+  },
+  {
+   "chave": "carioca",
+   "nome": "Campeonato Carioca",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ],
  "times": {
@@ -1547,6 +1554,18 @@
   "900060": {
    "chave": "cienciano",
    "nome": "Cienciano",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900061": {
+   "chave": "boavista",
+   "nome": "Boavista",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900062": {
+   "chave": "bangu",
+   "nome": "Bangu",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -7505,7 +7524,7 @@
     "fora": 68,
     "placar": "0x2",
     "gols_esperados": [
-     0.89,
+     0.9,
      2.23
     ],
     "base": [
@@ -7561,7 +7580,7 @@
     "fora": 56,
     "placar": "0x1",
     "gols_esperados": [
-     0.6,
+     0.61,
      1.39
     ],
     "base": [
@@ -7617,7 +7636,7 @@
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.16,
+     2.17,
      0.8
     ],
     "base": [
@@ -7673,7 +7692,7 @@
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.32,
+     2.33,
      0.79
     ],
     "base": [
@@ -7780,17 +7799,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 33,
+    "casa": 31,
     "empate": 25,
-    "fora": 42,
+    "fora": 44,
     "placar": "1x1",
     "gols_esperados": [
-     1.33,
-     1.53
+     1.26,
+     1.55
     ],
     "base": [
      7,
-     21
+     23
     ]
    },
    "events": []
@@ -7841,7 +7860,7 @@
     "fora": 19,
     "placar": "1x1",
     "gols_esperados": [
-     1.94,
+     1.95,
      1.02
     ],
     "base": [
@@ -7948,7 +7967,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 33,
+    "casa": 34,
     "empate": 23,
     "fora": 44,
     "placar": "1x1",
@@ -8065,7 +8084,7 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.26,
+     1.27,
      0.72
     ],
     "base": [
@@ -8116,12 +8135,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 73,
+    "casa": 74,
     "empate": 18,
     "fora": 9,
     "placar": "2x0",
     "gols_esperados": [
-     2.11,
+     2.12,
      0.56
     ],
     "base": [
@@ -8172,13 +8191,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 9,
+    "casa": 10,
     "empate": 14,
     "fora": 77,
     "placar": "0x2",
     "gols_esperados": [
      0.94,
-     2.87
+     2.86
     ],
     "base": [
      9,
@@ -8233,7 +8252,7 @@
     "fora": 16,
     "placar": "2x1",
     "gols_esperados": [
-     2.22,
+     2.23,
      1.0
     ],
     "base": [
@@ -8289,7 +8308,7 @@
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.43,
+     1.44,
      0.76
     ],
     "base": [
@@ -8345,7 +8364,7 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.96,
+     1.97,
      1.52
     ],
     "base": [
@@ -8401,7 +8420,7 @@
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.71,
+     1.72,
      0.86
     ],
     "base": [
@@ -8452,16 +8471,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 44,
+    "casa": 46,
     "empate": 30,
-    "fora": 26,
+    "fora": 24,
     "placar": "1x0",
     "gols_esperados": [
-     1.16,
-     0.82
+     1.19,
+     0.78
     ],
     "base": [
-     21,
+     23,
      7
     ]
    },
@@ -8508,12 +8527,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
+    "casa": 44,
     "empate": 27,
     "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.34,
+     1.35,
      1.04
     ],
     "base": [
@@ -8564,12 +8583,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
+    "casa": 54,
     "empate": 25,
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.58,
+     1.59,
      0.9
     ],
     "base": [
@@ -14964,7 +14983,7 @@
     "fora": 42,
     "placar": "0x1",
     "gols_esperados": [
-     0.83,
+     0.84,
      1.11
     ],
     "base": [
@@ -15015,12 +15034,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
+    "casa": 68,
     "empate": 18,
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.41,
+     2.42,
      1.04
     ],
     "base": [
@@ -15076,7 +15095,7 @@
     "fora": 9,
     "placar": "0x0",
     "gols_esperados": [
-     0.96,
+     0.97,
      0.23
     ],
     "base": [
@@ -15239,7 +15258,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
+    "casa": 50,
     "empate": 37,
     "fora": 13,
     "placar": "0x0",
@@ -15351,12 +15370,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 24,
+    "casa": 25,
     "empate": 28,
     "fora": 48,
     "placar": "0x1",
     "gols_esperados": [
-     0.89,
+     0.9,
      1.37
     ],
     "base": [
@@ -15412,7 +15431,7 @@
     "fora": 13,
     "placar": "1x0",
     "gols_esperados": [
-     1.84,
+     1.85,
      0.68
     ],
     "base": [
@@ -19756,6 +19775,159 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "carioca",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/carioca/botafogo-empata-mas-avanca-final-taca-rio/",
+    "https://www.lance.com.br/botafogo/botafogo-empata-sem-gols-com-o-boavista-em-jogo-ruim-e-vai-a-final-da-taca-rio.html"
+   ],
+   "fixture": {
+    "id": 91000236,
+    "timestamp": 1772317800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Taça Rio - Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900061,
+     "name": "Boavista"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "carioca",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/botafogo/botafogo-supera-bangu-e-conquista-a-taca-rio-pela-10a-vez/?amp=",
+    "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/edenilson-marca-botafogo-vence-bangu-e-conquista-taca-rio-veja-ranking/"
+   ],
+   "fixture": {
+    "id": 91000237,
+    "timestamp": 1772917200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Taça Rio - Final"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900062,
+     "name": "Bangu"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Edenílson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Caio Valle"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Joaquín Correa"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900062,
+      "name": "Bangu"
+     },
+     "player": {
+      "name": "Luizinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   }
  ],
  "classificacao": {
@@ -21518,6 +21690,32 @@
     "jogador": "Willian José",
     "time": "Bahia",
     "time_id": 900007,
+    "gols": 1
+   }
+  ],
+  "carioca": [
+   {
+    "jogador": "Caio Valle",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Edenílson",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Joaquín Correa",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Luizinho",
+    "time": "Bangu",
+    "time_id": 900062,
     "gols": 1
    }
   ]
