@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-10T14:27-03:00",
+ "gerado": "2026-11-10T17:34-03:00",
  "avisos": [
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-09T11:19-03:00",
-   "motivo": "Sem notícia nova e sem foto livre (categoria do Teixeirão no Wikimedia Commons sem imagens)",
-   "sugestao": "Guia do Teixeirão ou prévia do Grupo 1 da A4 2027 (com VOCEM, Barretos, Comercial, Grêmio São-Carlense, Lemense, Tanabi e Taquaritinga), com foto do site oficial do América"
-  },
-  {
-   "clube": "comercial-tiete",
-   "nome": "Comercial de Tietê",
-   "quando": "2026-11-09T11:19-03:00",
-   "motivo": "Sem notícia nova nos últimos 7 dias e sem foto livre ou oficial acessível nesta execução",
-   "sugestao": "Evergreen sobre o Comercial de Tietê (história, estádio, base no Paulista Sub-17 de 2026) com foto do Instagram oficial"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-09T11:47-03:00",
-   "motivo": "Data Fifa: nenhum fato novo do clube nas últimas 24h em 2 fontes (site oficial parado desde 04/11; só jogos da base no YouTube)",
-   "sugestao": "Prévia de Mirassol x Atlético-MG (sábado, 14/11, 18h30, Maião, 35ª rodada): situação contra o Z4 e desfalques quando o elenco treinar"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-09T11:47-03:00",
-   "motivo": "Pauta das Bragantinas (2x0 no Inter, eliminação por 5x4 nos pênaltis) confirmada no site oficial e no Lance!, mas sem foto de jogo utilizável: o site do clube bloqueia download e a miniatura da coletiva é arte",
-   "sugestao": "Redator com acesso ao site do Bragantino: usar a foto de Carla Cenci/Red Bull Bragantino da matéria oficial de 08/11 e escrever a eliminação na semifinal da Copa do Brasil Feminina (gols de Mylena e Jéssica Soares; Rafa Mineira perdeu a 4ª cobrança)"
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +392,34 @@
    "quando": "2026-11-10T14:27-03:00",
    "motivo": "Assunto das últimas 24h é o acesso, já coberto; vídeo de bastidores do acesso (parte 2) não é entrevista.",
    "sugestao": "Após as 17h, adversários do Novorizontino no sorteio do Paulistão 2027; semana de treinos para a final da Série B contra o Criciúma (14/11, Heriberto Hülse)."
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-10T17:34-03:00",
+   "motivo": "Sem notícia nova confirmada em 2 fontes nas últimas 24h; resultado do sorteio do Paulistão 2027 ainda não publicado pelas fontes às 17h35",
+   "sugestao": "Resultado do sorteio do Paulistão 2027 (FPF, 10/11 às 17h): grupo e adversários do clube na 1ª fase, assim que ge/Lance/FPF publicarem"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-10T17:34-03:00",
+   "motivo": "Sem notícia do profissional nas últimas 24h em 2 fontes (Sub-20 venceu o Corinthians na ida da semi em 08/11, fora da janela); resultado do sorteio do Paulistão 2027 ainda não publicado às 17h35",
+   "sugestao": "Resultado do sorteio do Paulistão 2027 (FPF, 10/11 às 17h): grupo e adversários do clube na 1ª fase, assim que ge/Lance/FPF publicarem; ou prévia da volta da semi do Paulista Sub-20 contra o Corinthians, quinta (12/11) às 15h no CPD em Atibaia"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-10T17:34-03:00",
+   "motivo": "Sem notícia confirmada em 2 fontes nas últimas 24h; fontes divergem sobre a data do jogo com o Atlético-MG (O Tempo: 14/11 18h30; outras: 18/11); sorteio ainda não publicado às 17h35",
+   "sugestao": "Resultado do sorteio do Paulistão 2027 (FPF, 10/11 às 17h): grupo e adversários do clube na 1ª fase, assim que ge/Lance/FPF publicarem; ou conferir na CBF a data de Mirassol x Atlético-MG e fazer a prévia"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-10T17:34-03:00",
+   "motivo": "Sem notícia nova confirmada em 2 fontes nas últimas 24h (site oficial sem nota desde 08/11); sorteio ainda não publicado às 17h35",
+   "sugestao": "Resultado do sorteio do Paulistão 2027 (FPF, 10/11 às 17h): grupo e adversários do clube na 1ª fase, assim que ge/Lance/FPF publicarem; ou prévia de Criciúma x Novorizontino, jogo do título da Série B"
   }
  ]
 }
