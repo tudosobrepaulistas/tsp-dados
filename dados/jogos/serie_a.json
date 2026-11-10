@@ -2019,6 +2019,74 @@
      ],
      "atualizado": "2026-11-02T14:48:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Ryan Augusto, Guzmán Rodríguez, Gustavo Marques, Juninho Capixaba; Fabinho, Eric Ramires, Wallace Yan; Lucas Barbosa, Henry Mosquera, Eduardo Sasha",
+     "entraram": [
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Fabinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel",
+       "saiu": "Eric Ramires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Herrera",
+       "saiu": "Wallace Yan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinícius",
+       "saiu": "Henry Mosquera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pitta",
+       "saiu": "Eduardo Sasha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Luan Peres, Barreal; Christian Oliva, Gustavo Henrique, Gabriel Bontempo, Philippe Coutinho; Everton Cebolinha, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Rafael Gonzaga",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur",
+       "saiu": "Christian Oliva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caballero",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-perde-bragantino-cai-nono-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   },
   {
@@ -2351,6 +2419,69 @@
      ],
      "atualizado": "2026-11-04T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Léo Pereira, Ayrton Lucas; Pulgar, Jorginho, Arrascaeta; Carrascal, Pedro, Samuel Lino",
+     "entraram": [
+      {
+       "jogador": "Emerson Royal",
+       "saiu": "Ayrton Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Araújo",
+       "saiu": "Carrascal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Freitas",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Renato Gaúcho",
+     "time": "Gabriel Grando; Marcos Rocha, Gustavo Martins, Kannemann, Pedro Gabriel; Noriega, Tetê, Villasanti, Dodi, Caio Paulista; Braithwaite",
+     "entraram": [
+      {
+       "jogador": "João Pedro",
+       "saiu": "Marcos Rocha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Krovinovic",
+       "saiu": "Kannemann",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enamorado",
+       "saiu": "Pedro Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Amuzu",
+       "saiu": "Tetê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Nacimento",
+       "saiu": "Braithwaite",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-ganha-do-gremio-e-dispara-na-lideranca-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   },
   {
@@ -2452,6 +2583,74 @@
      ],
      "atualizado": "2026-11-04T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Odair Hellmann",
+     "time": "Mycael; Dantas, Aguirre, Arthur Dias; Benavídez, Luiz Gustavo, Jadson, Esquivel; Mendoza, Viveros, Vargas",
+     "entraram": [
+      {
+       "jogador": "Leozinho",
+       "saiu": "Aguirre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "Benavídez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Portilla",
+       "saiu": "Jadson",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Cruz",
+       "saiu": "Mendoza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rivaldo",
+       "saiu": "Vargas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Gabriel Pereira, Saldivia, Robert Renan; Puma Rodríguez, Santiago Sosa, Thiago Mendes, Lescano, Cuiabano; Andrés Gómez, Brenner",
+     "entraram": [
+      {
+       "jogador": "Paulo Henrique",
+       "saiu": "Puma Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Colidio",
+       "saiu": "Santiago Sosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Rique",
+       "saiu": "Lescano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jair",
+       "saiu": "Andrés Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Duarte",
+       "saiu": "Brenner",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/vasco/vasco-vira-sobre-o-athletico-pr-e-abre-distancia-para-o-z4-do-brasileiro/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   },
   {
@@ -2534,6 +2733,64 @@
      ],
      "atualizado": "2026-11-04T16:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Tite",
+     "time": "Gabriel Batista; Ferraresi, Gabriel Justino, Marçal; Vitinho, Edenílson, Huguinho, Cristian Medina, Paulinho; Danilo Pereira, Tiquinho Soares",
+     "entraram": [
+      {
+       "jogador": "Alex Telles",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Domingos Andrade",
+       "saiu": "Cristian Medina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Toledo",
+       "saiu": "Paulinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Martins",
+       "saiu": "Danilo Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Tiquinho Soares",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Preciado, Vitão, Léo Duarte, Kauã Pascini; Tomás Pérez, Cissé, Alexsander; Gustavo Scarpa, Dudu, Cauã",
+     "entraram": [
+      {
+       "jogador": "Vitor Hugo",
+       "saiu": "Vitão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gutte",
+       "saiu": "Tomás Pérez",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Gabriel",
+       "saiu": "Cissé",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-se-afasta-do-z4-e-aumenta-jejum-do-atletico-mg/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   },
   {
@@ -2924,6 +3181,74 @@
      ],
      "atualizado": "2026-11-05T16:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Rojas; Zé Lucas, Lucas Romero, Gérson, Bruno Rodrigues, Arroyo, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Kauã Moraes",
+       "saiu": "Fagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matias Viña",
+       "saiu": "Fabrício Bruno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Bruno Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marquinhos",
+       "saiu": "Arroyo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Acevedo, Erick, Rodrigo Nestor; Everton Ribeiro, Kike Oliveira, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Román Gómez",
+       "saiu": "Kanu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Lucas",
+       "saiu": "Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araújo",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick Pulga",
+       "saiu": "Everton Ribeiro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-bate-bahia-com-dois-de-kaio-jorge-e-vence-a-quarta-seguida/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   },
   {
@@ -3020,6 +3345,74 @@
      ],
      "atualizado": "2026-11-06T14:27:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cleber dos Santos",
+     "time": "Lucas Arcanjo; Jamerson, Luan Cândido, Cacá, Mateusinho; Caique; Matheuzinho, Emmanuel Martínez, Baralhas, Erick; Renê",
+     "entraram": [
+      {
+       "jogador": "Ismael",
+       "saiu": "Mateusinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Caique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renato Kayzer",
+       "saiu": "Matheuzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Vitor",
+       "saiu": "Emmanuel Martínez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alex Bruno",
+       "saiu": "Renê",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Renê, Freytes, Thiago Silva, Guga; Nonato, Hércules; Savarino, Lucho Acosta, Canobbio; Hulk",
+     "entraram": [
+      {
+       "jogador": "Samuel Xavier",
+       "saiu": "Guga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Savarino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Soteldo",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Castillo",
+       "saiu": "Hulk",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-vence-no-barradao-e-vitoria-se-aproxima-do-z4-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   },
   {

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-10T02:51:00-03:00",
+ "gerado": "2026-11-10T03:51:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -5269,7 +5269,74 @@
      "atualizado": "2026-11-02T14:48:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Ryan Augusto, Guzmán Rodríguez, Gustavo Marques, Juninho Capixaba; Fabinho, Eric Ramires, Wallace Yan; Lucas Barbosa, Henry Mosquera, Eduardo Sasha",
+     "entraram": [
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Fabinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel",
+       "saiu": "Eric Ramires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Herrera",
+       "saiu": "Wallace Yan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinícius",
+       "saiu": "Henry Mosquera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pitta",
+       "saiu": "Eduardo Sasha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Luan Peres, Barreal; Christian Oliva, Gustavo Henrique, Gabriel Bontempo, Philippe Coutinho; Everton Cebolinha, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Rafael Gonzaga",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur",
+       "saiu": "Christian Oliva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caballero",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-perde-bragantino-cai-nono-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -5724,7 +5791,69 @@
      "atualizado": "2026-11-04T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Léo Pereira, Ayrton Lucas; Pulgar, Jorginho, Arrascaeta; Carrascal, Pedro, Samuel Lino",
+     "entraram": [
+      {
+       "jogador": "Emerson Royal",
+       "saiu": "Ayrton Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Araújo",
+       "saiu": "Carrascal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Freitas",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Renato Gaúcho",
+     "time": "Gabriel Grando; Marcos Rocha, Gustavo Martins, Kannemann, Pedro Gabriel; Noriega, Tetê, Villasanti, Dodi, Caio Paulista; Braithwaite",
+     "entraram": [
+      {
+       "jogador": "João Pedro",
+       "saiu": "Marcos Rocha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Krovinovic",
+       "saiu": "Kannemann",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enamorado",
+       "saiu": "Pedro Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Amuzu",
+       "saiu": "Tetê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Nacimento",
+       "saiu": "Braithwaite",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-ganha-do-gremio-e-dispara-na-lideranca-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -5885,7 +6014,74 @@
      "atualizado": "2026-11-04T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Odair Hellmann",
+     "time": "Mycael; Dantas, Aguirre, Arthur Dias; Benavídez, Luiz Gustavo, Jadson, Esquivel; Mendoza, Viveros, Vargas",
+     "entraram": [
+      {
+       "jogador": "Leozinho",
+       "saiu": "Aguirre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "Benavídez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Portilla",
+       "saiu": "Jadson",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Cruz",
+       "saiu": "Mendoza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rivaldo",
+       "saiu": "Vargas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Gabriel Pereira, Saldivia, Robert Renan; Puma Rodríguez, Santiago Sosa, Thiago Mendes, Lescano, Cuiabano; Andrés Gómez, Brenner",
+     "entraram": [
+      {
+       "jogador": "Paulo Henrique",
+       "saiu": "Puma Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Colidio",
+       "saiu": "Santiago Sosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Rique",
+       "saiu": "Lescano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jair",
+       "saiu": "Andrés Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Duarte",
+       "saiu": "Brenner",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/vasco/vasco-vira-sobre-o-athletico-pr-e-abre-distancia-para-o-z4-do-brasileiro/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -6045,7 +6241,64 @@
      "atualizado": "2026-11-04T16:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Tite",
+     "time": "Gabriel Batista; Ferraresi, Gabriel Justino, Marçal; Vitinho, Edenílson, Huguinho, Cristian Medina, Paulinho; Danilo Pereira, Tiquinho Soares",
+     "entraram": [
+      {
+       "jogador": "Alex Telles",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Domingos Andrade",
+       "saiu": "Cristian Medina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Toledo",
+       "saiu": "Paulinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Martins",
+       "saiu": "Danilo Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Tiquinho Soares",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Preciado, Vitão, Léo Duarte, Kauã Pascini; Tomás Pérez, Cissé, Alexsander; Gustavo Scarpa, Dudu, Cauã",
+     "entraram": [
+      {
+       "jogador": "Vitor Hugo",
+       "saiu": "Vitão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gutte",
+       "saiu": "Tomás Pérez",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Gabriel",
+       "saiu": "Cissé",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-se-afasta-do-z4-e-aumenta-jejum-do-atletico-mg/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -6549,7 +6802,74 @@
      "atualizado": "2026-11-05T16:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Rojas; Zé Lucas, Lucas Romero, Gérson, Bruno Rodrigues, Arroyo, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Kauã Moraes",
+       "saiu": "Fagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matias Viña",
+       "saiu": "Fabrício Bruno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Bruno Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marquinhos",
+       "saiu": "Arroyo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Acevedo, Erick, Rodrigo Nestor; Everton Ribeiro, Kike Oliveira, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Román Gómez",
+       "saiu": "Kanu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Lucas",
+       "saiu": "Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araújo",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick Pulga",
+       "saiu": "Everton Ribeiro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-bate-bahia-com-dois-de-kaio-jorge-e-vence-a-quarta-seguida/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -6727,7 +7047,74 @@
      "atualizado": "2026-11-06T14:27:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cleber dos Santos",
+     "time": "Lucas Arcanjo; Jamerson, Luan Cândido, Cacá, Mateusinho; Caique; Matheuzinho, Emmanuel Martínez, Baralhas, Erick; Renê",
+     "entraram": [
+      {
+       "jogador": "Ismael",
+       "saiu": "Mateusinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Caique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renato Kayzer",
+       "saiu": "Matheuzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Vitor",
+       "saiu": "Emmanuel Martínez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alex Bruno",
+       "saiu": "Renê",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Renê, Freytes, Thiago Silva, Guga; Nonato, Hércules; Savarino, Lucho Acosta, Canobbio; Hulk",
+     "entraram": [
+      {
+       "jogador": "Samuel Xavier",
+       "saiu": "Guga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Savarino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Soteldo",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Castillo",
+       "saiu": "Hulk",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-vence-no-barradao-e-vitoria-se-aproxima-do-z4-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -11285,7 +11672,74 @@
      "atualizado": "2026-10-31T10:24:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Victor Souza; Inocêncio, Jonathan, Darlan, Vilar, Felipe Vieira; Leandro Maciel, Morelli, Rafael Gava; Hygor, Zé Hugo",
+     "entraram": [
+      {
+       "jogador": "Pedrinho",
+       "saiu": "Felipe Vieira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Salaes",
+       "saiu": "Leandro Maciel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Caíke",
+       "saiu": "Rafael Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Morais",
+       "saiu": "Hygor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley",
+       "saiu": "Zé Hugo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Mariano Soso",
+     "time": "Thiago Couto; Claudinho, Marcelo Benevenuto, Habraão, Raí Lopes; Willian Oliveira, Patrick de Paula, Fernando Sobral; Diego Hernández, Barletta, Perotti",
+     "entraram": [
+      {
+       "jogador": "Alano",
+       "saiu": "Claudinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcelo Ajul",
+       "saiu": "Willian Oliveira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Biel",
+       "saiu": "Fernando Sobral",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon",
+       "saiu": "Diego Hernández",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Pessoa",
+       "saiu": "Perotti",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/10/11728111-sport-empata-com-botafogo-sp-e-se-complica-na-luta-pelo-g-6-da-serie-b.html"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -12727,7 +13181,74 @@
      "atualizado": "2026-11-06T14:27:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Alberto Valentim",
+     "time": "Elias Curzel; Maguinho, Cuenú, Joseph, Nicolas Schulz; Índio, André Dantas, Dudu Mosconi; Moraes Jr., Brenno, Caio Dantas",
+     "entraram": [
+      {
+       "jogador": "Gabriel Feliciano",
+       "saiu": "Nicolas Schulz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mikael Doka",
+       "saiu": "André Dantas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Charles",
+       "saiu": "Dudu Mosconi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maxwell",
+       "saiu": "Moraes Jr.",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Erig",
+       "saiu": "Brenno",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Sued Lima (auxiliar técnico)",
+     "time": "Thiago Couto; Claudinho, Marcelo Benevenuto, Habraão, Raí Lopes; Biel Fonseca, Patrick de Paula, Carlos de Pena; Diego Hernández, Barletta, Perotti",
+     "entraram": [
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Claudinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kervin Andrade",
+       "saiu": "Habraão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando Sobral",
+       "saiu": "Biel Fonseca",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Pessoa",
+       "saiu": "Carlos de Pena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Clayson",
+       "saiu": "Diego Hernández",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/11/11728570-sport-perde-de-virada-para-o-operario-pr-e-ve-vaga-no-g6-da-serie-b-praticamente-descartada.html"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -13496,7 +14017,69 @@
      "atualizado": "2026-11-07T16:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Bruno Pivetti",
+     "time": "Guruceaga; Reginaldo, Wanderson, Betão, Luiz Paulo; Samuel, Luiz Felipe, Luiz Cláudio; Derek, Victor Andrade, Kauã Maranhão",
+     "entraram": [
+      {
+       "jogador": "Ryan",
+       "saiu": "Luiz Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Uchôa",
+       "saiu": "Luiz Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everson",
+       "saiu": "Luiz Cláudio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Isaque",
+       "saiu": "Kauã Maranhão",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Fábio Matias",
+     "time": "Vitor Caetano; Hereda, Bressan, Lyncon, Reverson; Pedro Castro, Crystopher, Danielzinho; Thiaguinho, Dadá Belmonte, Mikael",
+     "entraram": [
+      {
+       "jogador": "Henri",
+       "saiu": "Bressan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Alemão",
+       "saiu": "Lyncon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Geovane",
+       "saiu": "Crystopher",
+       "minuto": ""
+      },
+      {
+       "jogador": "Douglas Baggio",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Neto",
+       "saiu": "Mikael",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728606-nautico-e-dominado-pelo-crb-e-perde-por-3-a-0-nos-aflitos.html"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -13817,7 +14400,74 @@
      "atualizado": "2026-11-08T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Daniel Paulista",
+     "time": "Richard; Bryan Borges, Luiz Otávio, Gabriel Rocha, Sávio; Richardson, João Gabriel, Melk; Rian Santana, Renzo López, Enzo Lodovico",
+     "entraram": [
+      {
+       "jogador": "Lucas Mugni",
+       "saiu": "Bryan Borges",
+       "minuto": ""
+      },
+      {
+       "jogador": "Janderson",
+       "saiu": "Sávio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Araújo",
+       "saiu": "Richardson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lenny Lobato",
+       "saiu": "Rian Santana",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Renzo López",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Moacir Júnior",
+     "time": "Bruno Brígido; Otávio, Ricardo Silva, Emerson, Ostchega; Jorge Jiménez, Barreto, Segovinha; Guilherme Parede, Willian Bigode, Paulo Victor",
+     "entraram": [
+      {
+       "jogador": "Gabriel da Silva",
+       "saiu": "Otávio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luidy",
+       "saiu": "Ostchega",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Amaral",
+       "saiu": "Segovinha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcelo Maçola",
+       "saiu": "Willian Bigode",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Person",
+       "saiu": "Paulo Victor",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/america-vence-ceara-e-vira-fiel-da-balanca-na-luta-contra-rebaixamento-da-serie-b/"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -15681,7 +16331,74 @@
      ]
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fred Constantino",
+     "time": "Gabi Barbieri; Sorriso, Débora, Bianca; Paola, Lelê, Pati Llanos, Julia Bianchi, Aninha; Valéria, Sole Jaimes",
+     "entraram": [
+      {
+       "jogador": "Caty",
+       "saiu": "Paola",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mayara Vaz",
+       "saiu": "Pati Llanos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joana",
+       "saiu": "Julia Bianchi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinha",
+       "saiu": "Valéria",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sarah",
+       "saiu": "Sole Jaimes",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Humberto Simão",
+     "time": "Karol Alves; Carol Tavares, Jé Soares, Carol Ambrózio, Catarina, Tamires; Karol Bermúdez, Mylena, Rafa Mineira; Miriã, Duda Rodrigues",
+     "entraram": [
+      {
+       "jogador": "Lurdinha",
+       "saiu": "Carol Tavares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Géssica",
+       "saiu": "Catarina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gaby Santos",
+       "saiu": "Tamires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ana Carla",
+       "saiu": "Karol Bermúdez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Martina",
+       "saiu": "Rafa Mineira",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://internacional.com.br/noticias/feminino/gurias-batem-bragantino-por-3-a-1-e-abrem-vantagem-na-semifinal-da-copa-do-brasil"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -15900,7 +16617,59 @@
      "atualizado": "2026-11-08T00:31:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Humberto Simão",
+     "time": "Karol Alves; Catarina, Carol Ambrózio, Jé Soares; Lurdinha, Mylena, Ana Carla, Tamires, Rafa Mineira; Miriã, Duda Rodrigues",
+     "entraram": [
+      {
+       "jogador": "Carol Tavares",
+       "saiu": "Tamires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gaby Santos",
+       "saiu": "Miriã",
+       "minuto": ""
+      },
+      {
+       "jogador": "Martina del Trecco",
+       "saiu": "Duda Rodrigues",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Fred Constantino",
+     "time": "Gabi Barbieri; Sorriso, Débora, Bianca; Paola, Pati Llanos, Lelê, Julia Bianchi, Aninha; Valéria, Sole Jaimes",
+     "entraram": [
+      {
+       "jogador": "Paulinha",
+       "saiu": "Paola",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mayara Vaz",
+       "saiu": "Pati Llanos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sarah",
+       "saiu": "Julia Bianchi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caty",
+       "saiu": "Sole Jaimes",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://internacional.com.br/noticias/feminino/gurias-vencem-nos-penaltis-e-avancam-para-a-final-da-copa-do-brasil"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -19552,6 +20321,151 @@
     }
    ]
   },
+  "900035": {
+   "time": "ceara",
+   "atualizado": "2026-11-10T03:51:00-03:00",
+   "fonte": "https://m.cearasc.com/elenco/Profissional/",
+   "jogadores": [
+    {
+     "nome": "Caíque",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Gustavo Martins",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Matheus Nogueira",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Richard",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Eder",
+     "posicao": "Zagueiro",
+     "numero": 33
+    },
+    {
+     "nome": "Júlio César",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Luiz Otávio",
+     "posicao": "Zagueiro",
+     "numero": 13
+    },
+    {
+     "nome": "Luizão",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Pedro Gilmar",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Thalisson",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Bryan Borges",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Rafael Ramos",
+     "posicao": "Lateral",
+     "numero": 2
+    },
+    {
+     "nome": "Sanchez",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Sávio",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Giovanni Pavani",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "João Gabriel",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Lucas Mugni",
+     "posicao": "Meia",
+     "numero": 11
+    },
+    {
+     "nome": "Matheus Araújo",
+     "posicao": "Meia",
+     "numero": 8
+    },
+    {
+     "nome": "Pedro Esli",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Richardson",
+     "posicao": "Meia",
+     "numero": 6
+    },
+    {
+     "nome": "Vina",
+     "posicao": "Meia",
+     "numero": 29
+    },
+    {
+     "nome": "Vinicius Zanocelo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Enzo Lodovico",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Gabriel Amaral",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Lenny Lobato",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Lucca",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Melk",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Nico Ferreira",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Renzo López",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Rian Santana",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Saulo Mineiro",
+     "posicao": "Atacante",
+     "numero": 73
+    },
+    {
+     "nome": "Wendel Silva",
+     "posicao": "Atacante"
+    }
+   ]
+  },
   "900015": {
    "time": "mirassol",
    "atualizado": "2026-11-09T03:54:00-03:00",
@@ -19749,6 +20663,157 @@
      "nome": "Alesson",
      "posicao": "Atacante",
      "numero": 77
+    }
+   ]
+  },
+  "900021": {
+   "time": "novorizontino",
+   "atualizado": "2026-11-10T03:51:00-03:00",
+   "fonte": "https://www.gremionovorizontino.com.br/elenco/",
+   "jogadores": [
+    {
+     "nome": "César Augusto",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "João Scapin",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Jordi",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Lucas Ribeiro",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Paulo Henrique",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Arthur Barbosa",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Lora",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Madson",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Maykon Jesus",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Sander",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Carlinhos",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Eduardo Brock",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "GABRIEL BAHIA",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Ivan Alvariño",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Patrick",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Renato Palm",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Juninho",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Léo Naldi",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Luís Oyama",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Miguel Contiero",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Diego Galo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Hector",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Marlon",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Matheus Bianqui",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Rômulo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Tavinho",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Carlão",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Diego Mathias",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Hélio Borges",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Jardiel",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Nicolas Careca",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Reidiney",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Robson",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Ronald Barcellos",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Titi Ortiz",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Vinícius Paiva",
+     "posicao": "Atacante"
     }
    ]
   }

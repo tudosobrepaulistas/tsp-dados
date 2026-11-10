@@ -108,6 +108,74 @@
       "https://www.otempo.com.br/sports/futebol-feminino/2026/11/3/semifinais-da-copa-do-brasil-feminina-comecam-nesta-terca-lancetv-transmite-inter-x-bragantino"
      ]
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fred Constantino",
+     "time": "Gabi Barbieri; Sorriso, Débora, Bianca; Paola, Lelê, Pati Llanos, Julia Bianchi, Aninha; Valéria, Sole Jaimes",
+     "entraram": [
+      {
+       "jogador": "Caty",
+       "saiu": "Paola",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mayara Vaz",
+       "saiu": "Pati Llanos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joana",
+       "saiu": "Julia Bianchi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinha",
+       "saiu": "Valéria",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sarah",
+       "saiu": "Sole Jaimes",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Humberto Simão",
+     "time": "Karol Alves; Carol Tavares, Jé Soares, Carol Ambrózio, Catarina, Tamires; Karol Bermúdez, Mylena, Rafa Mineira; Miriã, Duda Rodrigues",
+     "entraram": [
+      {
+       "jogador": "Lurdinha",
+       "saiu": "Carol Tavares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Géssica",
+       "saiu": "Catarina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gaby Santos",
+       "saiu": "Tamires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ana Carla",
+       "saiu": "Karol Bermúdez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Martina",
+       "saiu": "Rafa Mineira",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://internacional.com.br/noticias/feminino/gurias-batem-bragantino-por-3-a-1-e-abrem-vantagem-na-semifinal-da-copa-do-brasil"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   },
   {
@@ -234,6 +302,59 @@
      ],
      "atualizado": "2026-11-08T00:31:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Humberto Simão",
+     "time": "Karol Alves; Catarina, Carol Ambrózio, Jé Soares; Lurdinha, Mylena, Ana Carla, Tamires, Rafa Mineira; Miriã, Duda Rodrigues",
+     "entraram": [
+      {
+       "jogador": "Carol Tavares",
+       "saiu": "Tamires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gaby Santos",
+       "saiu": "Miriã",
+       "minuto": ""
+      },
+      {
+       "jogador": "Martina del Trecco",
+       "saiu": "Duda Rodrigues",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Fred Constantino",
+     "time": "Gabi Barbieri; Sorriso, Débora, Bianca; Paola, Pati Llanos, Lelê, Julia Bianchi, Aninha; Valéria, Sole Jaimes",
+     "entraram": [
+      {
+       "jogador": "Paulinha",
+       "saiu": "Paola",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mayara Vaz",
+       "saiu": "Pati Llanos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sarah",
+       "saiu": "Julia Bianchi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caty",
+       "saiu": "Sole Jaimes",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://internacional.com.br/noticias/feminino/gurias-vencem-nos-penaltis-e-avancam-para-a-final-da-copa-do-brasil"
+    ],
+    "atualizado": "2026-11-10T03:51:00-03:00"
    }
   }
  ]
