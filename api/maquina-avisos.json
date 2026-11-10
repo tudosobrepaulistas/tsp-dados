@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-09T20:37-03:00",
+ "gerado": "2026-11-09T23:29-03:00",
  "avisos": [
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-08T06:47-03:00",
-   "motivo": "Kadu Barone ainda não oficializado (Futebol Interior, 06/11: 'pode ser oficializado nesta semana')",
-   "sugestao": "Quando o Barretos anunciar Kadu Barone (8 gols pela Inter de Bebedouro na A4 2026), matéria com o elenco montado por Edson Paulista"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-08T06:47-03:00",
-   "motivo": "Sem notícia nova das Sereias nos últimos 7 dias além do play-in (já coberto pelo lado do São Paulo)",
-   "sugestao": "Prévia do Santos para o play-in contra o São Paulo (17/11, Pacaembu), com fala da comissão técnica no canal oficial"
-  },
-  {
-   "clube": "centro-olimpico",
-   "nome": "Centro Olímpico",
-   "quando": "2026-11-08T06:47-03:00",
-   "motivo": "Empate por 1 a 1 com o São Paulo na ida da semifinal do Paulista F Sub-17 só confirmado pelo Portal Morada; sem foto segura",
-   "sugestao": "Centro Olímpico decide vaga na final do Paulista Feminino Sub-17 contra o São Paulo no sábado (14/11), 10h, no CERET"
-  },
   {
    "clube": "independente",
    "nome": "Independente",
@@ -420,6 +399,27 @@
    "quando": "2026-11-09T20:37-03:00",
    "motivo": "Sem fato novo nas últimas 24h além do acesso e da decisão do título em Criciúma, já publicados no site",
    "sugestao": "Bastidores da semana do Novorizontino antes da decisão do título contra o Criciúma (treinos, desfalques, torcida)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-09T23:29-03:00",
+   "motivo": "Sem notícia nova confirmada em 2 fontes nas últimas 24h; só análise do DGABC (09/11) sobre tropeços contra times de baixo, fonte única",
+   "sugestao": "Prévia de São Bernardo x Athletic (sáb 14/11, 16h30, 1º de Maio): reapresentação, desfalques e planos para 2027 com Bergantin"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-09T23:29-03:00",
+   "motivo": "Pausa até 19/11 (Vitória x Bragantino); única novidade é a vaga do Sub-17 na semi do Paulista, sem foto acessível (site do clube não abre para a máquina)",
+   "sugestao": "Bragantino Sub-17 pega o Ibrachina na semi do Paulista; ou cobertura do sorteio do Paulistão 2027 nesta terça"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-09T23:29-03:00",
+   "motivo": "Nada novo confirmado em 2 fontes nas últimas 24h; reforços Heron e Gustavo Barreto só na CBN Ribeirão",
+   "sugestao": "Confirmar com o clube Heron (ex-Londrina) e Gustavo Barreto (América-MG) para 2027; prévia de Juventude x Botafogo-SP com Patrick Brey e Morelli suspensos"
   }
  ]
 }
