@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-10T03:00-03:00",
+ "gerado": "2026-11-10T03:20-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.8.4",
-   "zip": "tsp-jogos-1.8.4.zip",
-   "notas": "Ao atualizar, relê a base na hora: tabela com gols pró/contra e jogos com escudos aparecem sem esperar o próximo placar. Tabela do Paulistão Feminino no estilo do ge."
+   "versao": "1.8.5",
+   "zip": "tsp-jogos-1.8.5.zip",
+   "notas": "Chaveamento do mata-mata do Paulistão Feminino com escudos e datas; Copa do Brasil Feminina some quando não há clube paulista vivo."
   },
   "tsp-maquina": {
    "versao": "1.8.7",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.4.7",
-   "zip": "tsp-nova-era-1.4.7.zip",
-   "notas": "Quadro \"Jogos\" com a mesma altura da tabela (sem espaço vazio); a lista de jogos rola por dentro."
+   "versao": "1.4.8",
+   "zip": "tsp-nova-era-1.4.8.zip",
+   "notas": "Zonas da tabela bem visíveis (G4, pré-Libertadores, Sul-Americana, G6/acesso e Z4 com faixa e número colorido); Copa do Brasil Feminina só com paulista na disputa."
   },
   "tsp-shopee": {
    "versao": "1.1.0",

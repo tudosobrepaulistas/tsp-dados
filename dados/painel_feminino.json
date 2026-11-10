@@ -105,15 +105,22 @@
     },
     {
      "fase": "Semifinal",
-     "casa": "Ferroviária e Palmeiras",
-     "fora": "vencedores do play-in",
+     "casa": "Ferroviária",
+     "fora": "Vencedor do play-in",
+     "quando": "9/12 e 13/12",
+     "obs": ""
+    },
+    {
+     "fase": "Semifinal",
+     "casa": "Palmeiras",
+     "fora": "Vencedor do play-in",
      "quando": "9/12 e 13/12",
      "obs": ""
     },
     {
      "fase": "Final",
-     "casa": "",
-     "fora": "",
+     "casa": "Vencedor da semifinal",
+     "fora": "Vencedor da semifinal",
      "quando": "16/12 e 20/12",
      "obs": "Datas-base da FPF"
     }
