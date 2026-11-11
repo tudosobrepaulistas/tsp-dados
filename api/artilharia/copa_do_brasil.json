@@ -1,8 +1,26 @@
 [
  {
+  "jogador": "Renan Lodi",
+  "time": "Atlético-MG",
+  "time_id": 900006,
+  "gols": 2
+ },
+ {
+  "jogador": "Wendel Silva",
+  "time": "Ceará",
+  "time_id": 900035,
+  "gols": 2
+ },
+ {
   "jogador": "Alef Manga",
   "time": "Remo",
   "time_id": 900019,
+  "gols": 1
+ },
+ {
+  "jogador": "Alex Silva",
+  "time": "Ceará",
+  "time_id": 900035,
   "gols": 1
  },
  {
@@ -24,6 +42,12 @@
   "gols": 1
  },
  {
+  "jogador": "Cassierra",
+  "time": "Atlético-MG",
+  "time_id": 900006,
+  "gols": 1
+ },
+ {
   "jogador": "Colidio",
   "time": "Vasco",
   "time_id": 900013,
@@ -42,6 +66,12 @@
   "gols": 1
  },
  {
+  "jogador": "Gabriel Poveda",
+  "time": "Primavera",
+  "time_id": 900067,
+  "gols": 1
+ },
+ {
   "jogador": "João Cruz",
   "time": "Athletico-PR",
   "time_id": 900004,
@@ -54,6 +84,12 @@
   "gols": 1
  },
  {
+  "jogador": "Lucas Lima",
+  "time": "Ceará",
+  "time_id": 900035,
+  "gols": 1
+ },
+ {
   "jogador": "Marcinho",
   "time": "Chapecoense",
   "time_id": 900020,
@@ -63,6 +99,12 @@
   "jogador": "Maurício",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 1
+ },
+ {
+  "jogador": "Pascini",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  },
  {
@@ -84,12 +126,6 @@
   "gols": 1
  },
  {
-  "jogador": "Renan Lodi",
-  "time": "Atlético-MG",
-  "time_id": 900006,
-  "gols": 1
- },
- {
   "jogador": "Tchamba",
   "time": "Remo",
   "time_id": 900019,
@@ -105,6 +141,12 @@
   "jogador": "Yago Pikachu",
   "time": "Remo",
   "time_id": 900019,
+  "gols": 1
+ },
+ {
+  "jogador": "Zanocelo",
+  "time": "Ceará",
+  "time_id": 900035,
   "gols": 1
  }
 ]

@@ -195,6 +195,20 @@
    "temporada": 2026,
    "formato": "historico",
    "status": "historico"
+  },
+  {
+   "chave": "nordestao",
+   "nome": "Copa do Nordeste",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
+  },
+  {
+   "chave": "cearense",
+   "nome": "Campeonato Cearense",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ]
 }

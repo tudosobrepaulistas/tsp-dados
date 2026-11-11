@@ -1,0 +1,142 @@
+{
+ "competicao": "cearense",
+ "jogos": [
+  {
+   "id": 91000258,
+   "data": "2026-03-08T18:00:00-03:00",
+   "casa": "ceara",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final - volta",
+   "grupo": "",
+   "estadio": "Arena Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "4x5",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Luizão",
+     "minuto": "29",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Luiz Fernando",
+     "minuto": "55",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3767399",
+    "https://mais.opovo.com.br/jornal/esportes/2026/03/08/fortaleza-bate-o-ceara-nos-penaltis-e-e-campeao-cearense-pela-47-vez.html"
+   ],
+   "atualizado": "2026-11-11T05:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mozart",
+     "time": "Richard; Alex Silva, Éder, Luizão, Fernando; Zanocelo, Lucas Lima, Melk; Matheusinho, Wendel Silva, Matheus Araújo",
+     "entraram": [
+      {
+       "jogador": "Rafael Ramos",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vina",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Alano",
+       "saiu": "",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fernando",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zanocelo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vina",
+        "minuto": ""
+       },
+       {
+        "jogador": "Richard",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Thiago Carpini",
+     "time": "Brenno; Brítez, Lucas Gazal, Luan Freitas; Mailton, Lucas Sasha, Pierre, Rodrigo, Pochettino, Fuentes; Luiz Fernando",
+     "entraram": [
+      {
+       "jogador": "Lucca Prior",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ronald",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Crispim",
+       "saiu": "",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rodrigo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Brítez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Fernando",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://mais.opovo.com.br/jornal/esportes/2026/03/08/fortaleza-bate-o-ceara-nos-penaltis-e-e-campeao-cearense-pela-47-vez.html"
+    ],
+    "atualizado": "2026-11-11T05:36:00-03:00"
+   }
+  }
+ ]
+}

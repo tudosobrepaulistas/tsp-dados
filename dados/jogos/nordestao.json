@@ -1,0 +1,360 @@
+{
+ "competicao": "nordestao",
+ "jogos": [
+  {
+   "id": 91000247,
+   "data": "2026-03-25T19:00:00-03:00",
+   "casa": "ceara",
+   "fora": "abc",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "estadio": "Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Zanocelo",
+     "minuto": "22",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Wallyson",
+     "minuto": "53",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/ceara/sob-vaias-ceara-empata-com-o-abc-na-estreia-pela-copa-do-nordeste/",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-x-abc-na-copa-do-nordeste-veja-onde-assistir-horario-e-escalacoes-1.3752422"
+   ],
+   "atualizado": "2026-11-11T05:32:00-03:00"
+  },
+  {
+   "id": 91000248,
+   "data": "2026-03-28T17:00:00-03:00",
+   "casa": "retro",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "estadio": "Aflitos",
+   "cidade": "Recife",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fernandinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Radsley",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vagner Love",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Matheusinho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/interior/2026/03/11711023-em-jogo-de-despedida-de-vagner-love-retro-vence-o-ceara-pela-copa-do-nordeste.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/retro-pe-x-ceara-veja-onde-assistir-horario-e-escalacoes-1.3753113"
+   ],
+   "atualizado": "2026-11-11T05:32:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Jamesson Andrade",
+     "time": "Jefferson Paulino; Gustavo Baiano, Rayan, Wesley Junio, Lucas Sampaio; Kadi, Luiz Henrique, Radsley; Diego Guerra, Fernandinho, Vagner Love",
+     "entraram": [
+      {
+       "jogador": "David Junio",
+       "saiu": "Gustavo Baiano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Henrique",
+       "saiu": "Lucas Sampaio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danillo",
+       "saiu": "Kadi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauã Guerra",
+       "saiu": "Diego Guerra",
+       "minuto": ""
+      },
+      {
+       "jogador": "Douglas Santos",
+       "saiu": "Fernandinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kadi",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wesley Junio",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Mozart",
+     "time": "Richard; Júlio César, Gilmar, Luizão, Sánchez; Richardson, Zanocelo, Juan Alano; Melk, Wendel Silva, Fernandinho",
+     "entraram": [
+      {
+       "jogador": "Éder",
+       "saiu": "Gilmar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheusinho",
+       "saiu": "Richardson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Lima",
+       "saiu": "Zanocelo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Araújo",
+       "saiu": "Juan Alano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Giulio",
+       "saiu": "Melk",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Sánchez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zanocelo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Lima",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Lucas Lima",
+        "minuto": "80"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/interior/2026/03/11711023-em-jogo-de-despedida-de-vagner-love-retro-vence-o-ceara-pela-copa-do-nordeste.html"
+    ],
+    "atualizado": "2026-11-11T05:32:00-03:00"
+   }
+  },
+  {
+   "id": 91000249,
+   "data": "2026-04-08T21:30:00-03:00",
+   "casa": "ceara",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "estadio": "Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fernando",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alex Silva",
+     "minuto": "90+6",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3776991",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-x-fortaleza-no-classico-rei-da-copa-do-nordeste-veja-onde-assistir-horario-e-escalacoes-1.3755639"
+   ],
+   "atualizado": "2026-11-11T05:32:00-03:00"
+  },
+  {
+   "id": 91000250,
+   "data": "2026-04-14T21:30:00-03:00",
+   "casa": "ceara",
+   "fora": "jacuipense",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "estadio": "Presidente Vargas",
+   "cidade": "Fortaleza",
+   "gols_casa": 4,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Pereira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Giulio",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Júlio César",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Melk",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vina",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3778743",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-x-jacuipense-pela-copa-do-nordeste-veja-onde-assistir-horario-e-escalacoes-1.3757046"
+   ],
+   "atualizado": "2026-11-11T05:32:00-03:00"
+  },
+  {
+   "id": 91000251,
+   "data": "2026-04-29T21:30:00-03:00",
+   "casa": "maranhao",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "Fase de grupos",
+   "grupo": "C",
+   "estadio": "Castelão",
+   "cidade": "São Luís",
+   "gols_casa": 1,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Lucca",
+     "minuto": "29",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Fernandinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Matheus Araújo",
+     "minuto": "39",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vagalume",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-vence-maranhao-e-se-classifica-para-o-mata-mata-da-copa-do-nordeste-1.3760397",
+    "https://m.imirante.com/mirantenews/esporte/sao-luis/2026/04/30/gols-maranhao-1-x-3-ceara"
+   ],
+   "atualizado": "2026-11-11T05:32:00-03:00"
+  },
+  {
+   "id": 91000252,
+   "data": "2026-05-06T21:30:00-03:00",
+   "casa": "vitoria",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Renato Kayzer",
+     "minuto": "73",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/vitoria/vitoria-elimina-ceara-e-encara-o-abc-na-semifinal-da-copa-do-nordeste/",
+    "https://diariodonordeste.verdesmares.com.br/jogada/vitoria-x-ceara-pela-copa-do-nordeste-veja-onde-assistir-horario-palpites-e-escalacoes-1.3761968"
+   ],
+   "atualizado": "2026-11-11T05:32:00-03:00"
+  }
+ ]
+}
