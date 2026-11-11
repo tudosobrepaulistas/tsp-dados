@@ -1,62 +1,6 @@
 {
- "gerado": "2026-11-11T14:53-03:00",
+ "gerado": "2026-11-11T17:03-03:00",
  "avisos": [
-  {
-   "clube": "taquaritinga",
-   "nome": "Taquaritinga",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Nada nos últimos 7 dias",
-   "sugestao": "Taquarão como sede da Copinha 2027?"
-  },
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Concessão do Anacleto Campanella parada desde setembro",
-   "sugestao": "Acompanhar a votação da concessão na prefeitura"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Nada nos últimos 7 dias",
-   "sugestao": "Apresentação do elenco prevista para a 2ª quinzena de novembro"
-  },
-  {
-   "clube": "vocem",
-   "nome": "VOCEM",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Paulinho McLaren confirmado em 29/10, fora da janela",
-   "sugestao": "Reforços e início da pré-temporada"
-  },
-  {
-   "clube": "independente",
-   "nome": "Independente",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Sondagens de 27/10 não confirmadas; evergreen recente",
-   "sugestao": "Confirmar Hiago Ramiro e Guilherme Bacurau na rede oficial"
-  },
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Nada nos últimos 7 dias",
-   "sugestao": "Técnico ou reforços para 2027"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Nada desde o Conselho Técnico de outubro",
-   "sugestao": "Técnico e elenco 2027 (Portal Dois Pontos)"
-  },
-  {
-   "clube": "comercial-tiete",
-   "nome": "Comercial de Tietê",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Acesso do Sub-20 e queda no Sub-17 já cobertos; sem fonte segura para evergreen",
-   "sugestao": "Sub-20 na Série A de 2027: elenco e técnico (TV do clube e t7news)"
-  },
   {
    "clube": "santa-fe",
    "nome": "Santa Fé",
@@ -420,6 +364,62 @@
    "quando": "2026-11-11T14:53-03:00",
    "motivo": "Sem fato novo confirmado em 2 fontes de peso nas últimas 24h; prévia do jogo com o Operário e antecipação já publicadas",
    "sugestao": "Resultado da votação do orçamento de 2027 no Conselho Deliberativo da Ponte Preta, hoje (11/11) às 19h na sede (futebolinterior.com.br/ponte-preta-poe-orcamento-de-2027-em-votacao-na-vespera-da-despedida-da-serie-b/); e Danilo Barcelos com proposta da Inter de Limeira (Correio Braziliense)"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Reforços para a A4 2027 só no Futebol Interior (05/11); Instagram do clube inacessível nesta execução",
+   "sugestao": "Confirmar no Instagram @tanabiesporteclubesaf os reforços Denis Santos, João Monteiro, Giovanni Carignano, Rafinha, a volta de Daniel Dandan e Bernardo e a renovação de Rafael Gatto"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Reforços (Levy Moreira, Kauan Vinícius) só no Futebol Interior (06/11); site oficial parado desde 07/10",
+   "sugestao": "Confirmar no Instagram @barretosec Levy Moreira e Kauan Vinícius; Kadu Barone ainda sem confirmação"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Zagueiro Luizão anunciado só no Futebol Interior (04/11)",
+   "sugestao": "Conferir no Instagram do Lemense ou n'O Popular de Leme a chegada do zagueiro Luizão (ex-Ponte Preta, 21 anos)"
+  },
+  {
+   "clube": "america-de-rio-preto",
+   "nome": "América de Rio Preto",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Clube segue sem técnico para 2027 (Futebol Interior, 10/11), sem segunda fonte",
+   "sugestao": "Cobrir o anúncio do técnico, prometido pela diretoria até o fim de novembro, com site oficial e Diário da Região"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Renovação de Lucas Lima (até 31/03/2028) e Marcos Muzzi (até 01/01/2028) só na CBN Ribeirão (11/11)",
+   "sugestao": "Renovações de Lucas Lima e Muzzi assim que o clube publicar nota oficial"
+  },
+  {
+   "clube": "taquaritinga",
+   "nome": "Taquaritinga",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Posse da nova diretoria com datas divergentes entre O Defensor e Futebol Interior",
+   "sugestao": "Matéria da posse de Emerson 'Xandi' Sacomano quando ela acontecer, com data confirmada"
+  },
+  {
+   "clube": "paulinense",
+   "nome": "Paulinense",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Vaga inédita na Copinha 2027 (Futebol Interior e Diário de Paulínia, 06/11), mas sem foto livre do clube",
+   "sugestao": "Redator pega a foto oficial no Instagram do Paulinense e escreve a estreia na Copinha 2027, sem afirmar a sede"
+  },
+  {
+   "clube": "itaquaquecetuba",
+   "nome": "Itaquaquecetuba",
+   "quando": "2026-11-11T17:03-03:00",
+   "motivo": "Itaquá sede da Copinha 2027 com o IAC anfitrião só no ge (06/11); segunda fonte não abriu",
+   "sugestao": "IAC anfitrião em Itaquaquecetuba na Copinha 2027 (4ª vez da cidade como sede), com nota da prefeitura ou do clube"
   }
  ]
 }
