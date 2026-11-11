@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-11T06:55-03:00",
+ "gerado": "2026-11-11T14:53-03:00",
  "avisos": [
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Sem notícia desde setembro; evergreen feito em 05/11",
-   "sugestao": "Técnico de 2027 quando anunciado (vídeo da TV Grêmio São-Carlense)"
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Última notícia de abril",
-   "sugestao": "Técnico de 2027 e iluminação do estádio Du Cambusano"
-  },
   {
    "clube": "taquaritinga",
    "nome": "Taquaritinga",
@@ -420,6 +406,20 @@
    "quando": "2026-11-11T06:55-03:00",
    "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
    "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-11T14:53-03:00",
+   "motivo": "Notícia confirmada (Chapecoense enviou proposta até o fim de 2027 a Vinícius Bergantin; DGABC diz futuro indefinido e Futebol Interior diz que o clube avalia Cauan de Almeida), mas sem foto livre/oficial de Bergantin no São Bernardo",
+   "sugestao": "Bergantin recebe proposta da Chapecoense e tem futuro indefinido no São Bernardo (fontes: ndmais.com.br/video/chapecoense-busca-novo-tecnico-e-faz-proposta-a-vinicius-bergantin/, dgabc.com.br/Noticia/4367930, futebolinterior.com.br/sao-bernardo-avalia-cauan-de-almeida-para-substituir-vinicius-bergantin/); usar foto oficial do clube do técnico"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-11T14:53-03:00",
+   "motivo": "Sem fato novo confirmado em 2 fontes de peso nas últimas 24h; prévia do jogo com o Operário e antecipação já publicadas",
+   "sugestao": "Resultado da votação do orçamento de 2027 no Conselho Deliberativo da Ponte Preta, hoje (11/11) às 19h na sede (futebolinterior.com.br/ponte-preta-poe-orcamento-de-2027-em-votacao-na-vespera-da-despedida-da-serie-b/); e Danilo Barcelos com proposta da Inter de Limeira (Correio Braziliense)"
   }
  ]
 }
