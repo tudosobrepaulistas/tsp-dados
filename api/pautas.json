@@ -1,88 +1,6 @@
 {
  "itens": [
   {
-   "clube": "palmeiras",
-   "titulo": "Carlos Miguel pega dois pênaltis e leva o Palmeiras à final da Copa do Brasil contra o Grêmio",
-   "resumo": "O Palmeiras perdeu por 2 a 1 para o Vasco em São Januário no domingo (8), mas, com o agregado empatado em 2 a 2, venceu nos pênaltis por 5 a 4. Carlos Miguel defendeu duas cobranças e virou o herói da classificação; a final contra o Grêmio é em jogo único em 6 de dezembro, em Brasília.",
-   "angulo": "Perfil do goleiro na campanha (pênaltis defendidos na temporada pela Base TSP) e o caminho do Palmeiras até a final.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vasco-semifinal-copa-do-brasil-08-11-2026/"
-    },
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/carlos-miguel-brilha-palmeiras-bate-vasco-e-vai-a-final-da-copa-do-brasil/"
-    },
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/futebol-nacional/vasco-x-palmeiras-pela-semifinal-da-copa-do-brasil-2026.html"
-    }
-   ],
-   "id": "p13c359f4dd",
-   "gerado": "2026-11-09T16:44-03:00",
-   "quando": "09/11 16h"
-  },
-  {
-   "clube": "corinthians",
-   "titulo": "Na zona de rebaixamento, Corinthians ganha a primeira semana cheia de treinos com Seedorf",
-   "resumo": "A pausa da Data Fifa dá a Seedorf, pela primeira vez desde que chegou, uma semana inteira para treinar antes do Botafogo, em 18/11, às 21h30, na Neo Química Arena. O Corinthians é o 17º, com 37 pontos, um atrás do Internacional, a quatro rodadas do fim.",
-   "angulo": "Contas da permanência com o Simulador do Brasileirão da Base TSP e a tabela dos últimos quatro jogos.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-tera-primeira-semana-livre-para-treinos-desde-chegada-de-seedorf/"
-    }
-   ],
-   "id": "p8bde922e84",
-   "gerado": "2026-11-09T16:44-03:00",
-   "quando": "09/11 16h"
-  },
-  {
-   "clube": "santos",
-   "titulo": "Arão e Escobar perto de voltar, Brazão só em 2027: o boletim médico do Santos na reta final",
-   "resumo": "O Santos voltou aos treinos nesta segunda (9) no CT Rei Pelé. Willian Arão e Gonzalo Escobar estão perto do retorno, Lucas Veríssimo e Vinícius Lira podem voltar ainda em 2026, enquanto Gabriel Brazão (ombro) só volta na pré-temporada e Barreal não joga mais no ano. O próximo jogo é contra o Coritiba, em 18/11.",
-   "angulo": "Quadro com cada jogador, lesão e previsão de volta, mais os jogos que restam ao Santos.",
-   "fontes": [
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/santos/veja-quem-pode-voltar-lesoes-e-desfalques-do-santos-para-a-reta-final-da-temporada.html"
-    }
-   ],
-   "id": "p03c3bed69b",
-   "gerado": "2026-11-09T16:44-03:00",
-   "quando": "09/11 16h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "São Paulo tem o pior ataque entre os dez primeiros do Brasileirão",
-   "resumo": "São 39 gols em 34 rodadas (cerca de 1,15 por jogo), o mesmo número de gols sofridos, com o time em 10º, com 44 pontos. Flamengo (71) e Palmeiras (62) têm os ataques mais fortes.",
-   "angulo": "Comparar com os artilheiros do time e com temporadas anteriores usando a Base TSP.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-pior-ataque-g10-brasileirao-2026/"
-    }
-   ],
-   "id": "p952920f35d",
-   "gerado": "2026-11-09T16:44-03:00",
-   "quando": "09/11 16h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "São Paulo se reapresenta sem Bobadilla e Luciano para preparar o amistoso em Bauru",
-   "resumo": "O elenco voltou ao CT da Barra Funda nesta segunda (9), depois de quatro dias de folga. Bobadilla está com a seleção paraguaia e Luciano segue afastado para ficar com a família, sem data para voltar. O próximo jogo oficial é contra o Fluminense, em 19/11, às 21h30, no Morumbis.",
-   "fontes": [
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/sao-paulo/sao-paulo-tera-ausencias-na-reapresentacao-apos-folga-na-data-fifa.html"
-    }
-   ],
-   "id": "p09cedb532c",
-   "gerado": "2026-11-09T16:44-03:00",
-   "quando": "09/11 16h"
-  },
-  {
    "clube": "corinthians",
    "titulo": "Sorteio do Paulistão 2027 é hoje às 17h: Corinthians está no pote A e conhece seus adversários",
    "resumo": "A FPF sorteia nesta terça (10), no Teatro Dermeval Gonçalves, em São Paulo, os confrontos da primeira fase do Paulistão 2027 (8 jogos por time, sem grupos; 8 avançam e 2 caem). O Corinthians está no pote A. Os estaduais devem começar em 10 de janeiro.",
@@ -991,7 +909,127 @@
    "id": "p2c6cabccdf",
    "gerado": "2026-11-11T07:49-03:00",
    "quando": "11/11 07h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Amistoso com o Noroeste em Bauru é cancelado por alerta de temporal; ingressos serão devolvidos",
+   "resumo": "O São Paulo divulgou nota nesta quarta (11) informando que o amistoso de sexta (13) contra o Noroeste, no Alfredo de Castilho, foi cancelado pela organizadora por causa de alerta do Inmet para tempestades, ventos e granizo. O clube diz não ter responsabilidade pelo evento e que todos os ingressos serão reembolsados 100%.",
+   "angulo": "Serviço para o torcedor: como pedir o reembolso e como fica a semana de treinos até o jogo do Brasileirão.",
+   "fontes": [
+    {
+     "nome": "Site oficial do São Paulo",
+     "url": "https://www.saopaulofc.net/nota-oficial-cancelamento-do-amistoso-noroeste-x-sao-paulo/"
+    }
+   ],
+   "id": "p7f2bfdefae",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
+  },
+  {
+   "clube": "noroeste",
+   "titulo": "Noroeste x São Paulo é cancelado por alerta de tempestade em Bauru; veja como fica o reembolso",
+   "resumo": "O amistoso marcado para sexta (13) no Alfredo de Castilho foi cancelado pela empresa organizadora por motivo de segurança, após alerta do Inmet para tempestades severas e granizo. Os ingressos serão reembolsados integralmente pela plataforma de venda.",
+   "angulo": "Impacto para o Noroeste (renda e vitrine perdidas) e serviço de reembolso para o torcedor de Bauru.",
+   "fontes": [
+    {
+     "nome": "Site oficial do São Paulo",
+     "url": "https://www.saopaulofc.net/nota-oficial-cancelamento-do-amistoso-noroeste-x-sao-paulo/"
+    }
+   ],
+   "id": "p2265f0c48e",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Murilo se lesiona na coxa e vira nova baixa para Abel antes do Cruzeiro",
+   "resumo": "O Palmeiras voltou aos treinos nesta quarta (11) após duas folgas e ganhou mais um problema: o zagueiro Murilo sofreu lesão na coxa esquerda. O time encara o Cruzeiro no dia 18, às 20h30, no Mineirão, pela 35ª rodada.",
+   "angulo": "Quem pode formar a zaga no Mineirão, somando a lesão aos convocados.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/palmeiras/desfalcado-palmeiras-se-reapresenta-apos-folgas-e-inicia-trabalhos-durante-a-data-fifa/"
+    }
+   ],
+   "id": "p5650e20068",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Lingard treina sem restrição e volta a ser opção de Seedorf na luta contra o Z4",
+   "resumo": "Recuperado de fraturas na costela, Jesse Lingard treinou normalmente nesta terça (10) e deve estar à disposição contra o Botafogo, dia 18. O Corinthians é 17º, com 37 pontos, a um ponto do Internacional, primeiro fora da zona de rebaixamento.",
+   "angulo": "As contas da fuga do rebaixamento nas quatro rodadas finais, com a tabela da Base TSP.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/corinthians/raniele-avanca-em-recuperacao-e-corinthians-intensifica-treinos-durante-data-fifa/"
+    }
+   ],
+   "id": "p32c1f633a3",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
+  },
+  {
+   "clube": "guarani",
+   "titulo": "Guarani já tem reforços fechados para 2027 e apresenta elenco em 23 de novembro",
+   "resumo": "No lançamento do Paulistão 2027, o executivo Carlos Frontini disse que o planejamento está adiantado, com vários nomes fechados, folha salarial menor e Umberto Louzer nos planos. O meia-atacante João Paulo recebeu proposta de renovação.",
+   "angulo": "Como o Guarani monta o time em meio à crise financeira, de olho na primeira fase contra Palmeiras, Santos e cia.",
+   "fontes": [
+    {
+     "nome": "Hora Campinas",
+     "url": "https://horacampinas.com.br/guarani-frontini-revela-planejamento-para-2027-adiantado-em-trabalho-de-formiguinha/"
+    }
+   ],
+   "id": "p52240d9a58",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
+  },
+  {
+   "clube": "pontepreta",
+   "titulo": "Ponte Preta encerra a Série B nesta quinta contra o Operário-PR no Majestoso",
+   "resumo": "Em 15º lugar, com 42 pontos, a Ponte recebe o Operário-PR (10º) nesta quinta (12), às 19h, no Moisés Lucarelli, pela 38ª e última rodada, com transmissão do Disney+.",
+   "angulo": "Serviço completo (horário, onde assistir, provável escalação de Gilson Kleina) e balanço da temporada.",
+   "fontes": [
+    {
+     "nome": "O Tempo",
+     "url": "https://www.otempo.com.br/sports/onde-assistir/2026/11/11/ponte-preta-x-operario-pr-onde-assistir-horario-e-escalacoes"
+    }
+   ],
+   "id": "pf356ff710d",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
+  },
+  {
+   "clube": "votuporanguense",
+   "titulo": "CAV anuncia o volante Daniel Bonassa e já soma seis reforços para a Série A2",
+   "resumo": "O Votuporanguense anunciou na terça (10) o volante Daniel Bonassa, ex-Primavera, Sertãozinho e Figueirense. O técnico Marcus Viola foi mantido e o elenco será apresentado em 27 de novembro, na Arena Plínio Marin.",
+   "angulo": "Lista de quem chega e quem fica para a A2 de 2027.",
+   "fontes": [
+    {
+     "nome": "Diário de Votuporanga",
+     "url": "https://diariodevotuporanga.com.br/cav-anuncia-daniel-bonassa-e-amplia-lista-de-reforcos-para-2027/"
+    }
+   ],
+   "id": "pf53df23a58",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
+  },
+  {
+   "clube": "mirassol",
+   "titulo": "Mirassol recebe o Atlético-MG no Maião com elenco cheio de ex-jogadores de clubes mineiros",
+   "resumo": "O Mirassol, 14º com 40 pontos e três acima do Z4, recebe o Atlético-MG no sábado (14), às 18h30, pela 35ª rodada. O elenco de Rafael Guanaes tem sete ex-Cruzeiro e dois ex-América.",
+   "angulo": "Confirmar data e horário no comunicado da CBF e fazer o serviço do jogo com a situação na tabela.",
+   "fontes": [
+    {
+     "nome": "O Tempo",
+     "url": "https://www.otempo.com.br/sports/atletico/2026/11/10/adversario-do-atletico-mirassol-tem-legiao-de-jogadores-que-ja-atuaram-em-minas-veja-lista"
+    }
+   ],
+   "id": "p26ad6e5aa1",
+   "gerado": "2026-11-11T16:44-03:00",
+   "quando": "11/11 16h"
   }
  ],
- "gerado": "2026-11-11T07:49-03:00"
+ "gerado": "2026-11-11T16:44-03:00"
 }
