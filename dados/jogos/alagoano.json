@@ -1,0 +1,155 @@
+{
+ "competicao": "alagoano",
+ "jogos": [
+  {
+   "id": 91000264,
+   "data": "2026-02-18T20:00:00-03:00",
+   "casa": "crb",
+   "fora": "csa",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Mikael",
+     "minuto": "51",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Crystopher",
+     "minuto": "90+",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/crb-x-csa-ao-vivo-acompanhe-semifinal-do-alagoano-em-tempo-real/",
+    "https://www.tribunadosertao.com.br/esportes/2026/02/23/861448-crb-e-asa-voltam-a-decidir-o-alagoano-pela-quinta-vez-consecutiva-faf-define-datas-e-locais"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
+  },
+  {
+   "id": 91000265,
+   "data": "2026-02-21T16:00:00-03:00",
+   "casa": "csa",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Douglas Baggio",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vinícius Nunes",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/csa-x-crb-ao-vivo-acompanhe-semifinal-do-alagoano-em-tempo-real/",
+    "https://www.tribunadosertao.com.br/esportes/2026/02/23/861448-crb-e-asa-voltam-a-decidir-o-alagoano-pela-quinta-vez-consecutiva-faf-define-datas-e-locais"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
+  },
+  {
+   "id": 91000266,
+   "data": "2026-02-28T16:00:00-03:00",
+   "casa": "crb",
+   "fora": "asa",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final - ida",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Mikael",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Douglas Baggio",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Mikael",
+     "minuto": "65",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/crb-x-asa-ao-vivo-acompanhe-a-final-do-alagoano-em-tempo-real/",
+    "https://www.tribunadosertao.com.br/esportes/2026/03/07/868774-decisao-no-coaracy-asa-e-crb-disputam-a-taca-do-estadual-neste-sabado"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
+  },
+  {
+   "id": 91000267,
+   "data": "2026-03-07T16:00:00-03:00",
+   "casa": "asa",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final - volta",
+   "grupo": "",
+   "estadio": "Coaracy da Mata Fonseca",
+   "cidade": "Arapiraca",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fábio Aguiar",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Mikael",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/asa-x-crb-ao-vivo-acompanhe-a-final-do-alagoano-em-tempo-real/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/crb-vence-asa-no-agregado-e-conquista-pentacampeonato-alagoano/"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
+  }
+ ]
+}

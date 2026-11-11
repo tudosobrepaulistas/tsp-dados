@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11T05:36:00-03:00",
+ "gerado": "2026-11-11T13:41:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1215,6 +1215,13 @@
    "temporada": 2026,
    "formato": "historico",
    "status": "historico"
+  },
+  {
+   "chave": "alagoano",
+   "nome": "Campeonato Alagoano",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ],
  "times": {
@@ -1617,6 +1624,36 @@
   "900067": {
    "chave": "primavera",
    "nome": "Primavera",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900068": {
+   "chave": "porto-ba",
+   "nome": "Porto-BA",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900069": {
+   "chave": "sousa",
+   "nome": "Sousa",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900070": {
+   "chave": "figueirense",
+   "nome": "Figueirense",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900071": {
+   "chave": "csa",
+   "nome": "CSA",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900072": {
+   "chave": "asa",
+   "nome": "ASA",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -7581,12 +7618,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
+    "casa": 57,
     "empate": 28,
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.34,
+     1.36,
      0.55
     ],
     "base": [
@@ -7638,12 +7675,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 15,
-    "empate": 19,
+    "empate": 20,
     "fora": 66,
     "placar": "0x2",
     "gols_esperados": [
-     0.91,
-     2.17
+     0.92,
+     2.15
     ],
     "base": [
      9,
@@ -7695,11 +7732,11 @@
    "previsao": {
     "casa": 17,
     "empate": 31,
-    "fora": 52,
+    "fora": 51,
     "placar": "0x1",
     "gols_esperados": [
      0.54,
-     1.18
+     1.17
     ],
     "base": [
      8,
@@ -7754,8 +7791,8 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.2,
-     0.78
+     2.22,
+     0.77
     ],
     "base": [
      9,
@@ -7806,12 +7843,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 73,
-    "empate": 17,
+    "empate": 16,
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.36,
-     0.77
+     2.39,
+     0.76
     ],
     "base": [
      9,
@@ -7861,13 +7898,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 31,
+    "casa": 32,
     "empate": 26,
-    "fora": 43,
+    "fora": 42,
     "placar": "1x1",
     "gols_esperados": [
-     1.19,
-     1.43
+     1.2,
+     1.42
     ],
     "base": [
      7,
@@ -7917,13 +7954,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
+    "casa": 27,
     "empate": 25,
     "fora": 49,
     "placar": "1x1",
     "gols_esperados": [
-     1.12,
-     1.63
+     1.13,
+     1.62
     ],
     "base": [
      8,
@@ -7973,12 +8010,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 60,
+    "casa": 61,
     "empate": 21,
     "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.97,
+     1.99,
      0.99
     ],
     "base": [
@@ -8029,13 +8066,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
+    "casa": 57,
     "empate": 24,
-    "fora": 20,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.7,
-     0.9
+     1.71,
+     0.89
     ],
     "base": [
      9,
@@ -8087,11 +8124,11 @@
    "previsao": {
     "casa": 26,
     "empate": 23,
-    "fora": 51,
+    "fora": 50,
     "placar": "1x1",
     "gols_esperados": [
-     1.21,
-     1.79
+     1.23,
+     1.78
     ],
     "base": [
      11,
@@ -8146,8 +8183,8 @@
     "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
-     1.07,
-     1.15
+     1.08,
+     1.14
     ],
     "base": [
      8,
@@ -8197,12 +8234,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 50,
+    "casa": 51,
     "empate": 29,
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.28,
+     1.29,
      0.7
     ],
     "base": [
@@ -8258,8 +8295,8 @@
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.15,
-     0.55
+     2.17,
+     0.54
     ],
     "base": [
      13,
@@ -8309,13 +8346,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 10,
-    "empate": 14,
+    "casa": 11,
+    "empate": 15,
     "fora": 75,
     "placar": "0x2",
     "gols_esperados": [
-     0.95,
-     2.79
+     0.96,
+     2.77
     ],
     "base": [
      9,
@@ -8365,13 +8402,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
+    "casa": 67,
     "empate": 19,
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.26,
-     0.98
+     2.28,
+     0.97
     ],
     "base": [
      21,
@@ -8421,13 +8458,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 55,
     "empate": 27,
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.45,
-     0.74
+     1.47,
+     0.73
     ],
     "base": [
      9,
@@ -8478,12 +8515,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 62,
-    "empate": 20,
-    "fora": 19,
+    "empate": 19,
+    "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.23,
-     1.15
+     2.25,
+     1.14
     ],
     "base": [
      11,
@@ -8533,12 +8570,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
+    "casa": 56,
     "empate": 25,
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.59,
+     1.6,
      0.82
     ],
     "base": [
@@ -8589,12 +8626,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 44,
+    "casa": 45,
     "empate": 30,
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.2,
+     1.21,
      0.85
     ],
     "base": [
@@ -8645,13 +8682,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
+    "casa": 44,
     "empate": 30,
     "fora": 27,
     "placar": "1x0",
     "gols_esperados": [
-     1.19,
-     0.89
+     1.2,
+     0.88
     ],
     "base": [
      8,
@@ -8706,7 +8743,7 @@
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.91,
+     1.93,
      0.79
     ],
     "base": [
@@ -15530,13 +15567,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
+    "casa": 29,
     "empate": 31,
     "fora": 40,
     "placar": "0x1",
     "gols_esperados": [
-     0.85,
-     1.08
+     0.86,
+     1.07
     ],
     "base": [
      7,
@@ -15586,13 +15623,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
-    "empate": 19,
+    "casa": 69,
+    "empate": 18,
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.23,
-     0.86
+     2.25,
+     0.85
     ],
     "base": [
      9,
@@ -15645,9 +15682,9 @@
     "casa": 54,
     "empate": 36,
     "fora": 10,
-    "placar": "0x0",
+    "placar": "1x0",
     "gols_esperados": [
-     0.99,
+     1.0,
      0.27
     ],
     "base": [
@@ -15700,11 +15737,11 @@
    "previsao": {
     "casa": 65,
     "empate": 25,
-    "fora": 11,
+    "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.55,
-     0.46
+     1.57,
+     0.45
     ],
     "base": [
      9,
@@ -15754,16 +15791,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
-    "empate": 32,
-    "fora": 43,
-    "placar": "0x1",
+    "casa": 28,
+    "empate": 33,
+    "fora": 39,
+    "placar": "0x0",
     "gols_esperados": [
-     0.78,
-     1.09
+     0.8,
+     0.99
     ],
     "base": [
-     12,
+     14,
      9
     ]
    },
@@ -15810,12 +15847,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 50,
+    "casa": 51,
     "empate": 37,
-    "fora": 13,
+    "fora": 12,
     "placar": "0x0",
     "gols_esperados": [
-     0.95,
+     0.96,
      0.33
     ],
     "base": [
@@ -15866,13 +15903,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
+    "casa": 27,
     "empate": 35,
-    "fora": 39,
+    "fora": 38,
     "placar": "0x0",
     "gols_esperados": [
-     0.68,
-     0.9
+     0.69,
+     0.89
     ],
     "base": [
      7,
@@ -15924,11 +15961,11 @@
    "previsao": {
     "casa": 26,
     "empate": 28,
-    "fora": 47,
+    "fora": 46,
     "placar": "0x1",
     "gols_esperados": [
-     0.91,
-     1.33
+     0.92,
+     1.32
     ],
     "base": [
      7,
@@ -15978,16 +16015,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
-    "empate": 24,
-    "fora": 25,
-    "placar": "1x1",
+    "casa": 68,
+    "empate": 21,
+    "fora": 12,
+    "placar": "1x0",
     "gols_esperados": [
-     1.72,
-     1.12
+     1.9,
+     0.63
     ],
     "base": [
-     7,
+     16,
      19
     ]
    },
@@ -16034,12 +16071,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
+    "casa": 69,
     "empate": 18,
-    "fora": 14,
+    "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.32,
+     2.34,
      0.94
     ],
     "base": [
@@ -16147,6 +16184,50 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/crb-atropela-porto-ba-e-vai-a-terceira-fase-da-copa-do-brasil/",
+    "https://atarde.com.br/esportes/porto-e-atropelado-pelo-crb-e-perde-bolada-na-copa-do-brasil-1381524"
+   ],
+   "fixture": {
+    "id": 91000259,
+    "timestamp": 1772578800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "2ª fase"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900068,
+     "name": "Porto-BA"
+    }
+   },
+   "goals": {
+    "home": 6,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://diariodonordeste.verdesmares.com.br/jogada/maranhao-x-ceara-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3749260",
     "https://oimparcial.com.br/noticias/2026/03/mac-atira-tres-bolas-na-trave-mas-perde-para-o-ceara-e-esta-fora-da-copa/"
    ],
@@ -16208,6 +16289,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.tribunadosertao.com.br/esportes/2026/03/13/871905-galo-avanca-crb-supera-pressao-na-paraiba-vence-o-sousa-e-garante-r-16-milhao",
+    "https://www.tnh1.com.br/noticia/nid/expulsao-denuncia-de-injuria-racial-e-mais-entenda-o-que-aconteceu-durante-e-apos-sousa-x-crb/"
+   ],
+   "fixture": {
+    "id": 91000260,
+    "timestamp": 1773354600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Marizão",
+     "city": "Sousa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "3ª fase"
+   },
+   "teams": {
+    "home": {
+     "id": 900069,
+     "name": "Sousa"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Guilherme Pato"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.dgabc.com.br/Noticia/4290636/sao-bernardo-fc-perde-do-ceara-nos-penaltis-e-se-despede-da-copa-do-brasil",
     "https://diariodonordeste.verdesmares.com.br/jogada/sao-bernardo-x-ceara-na-copa-do-brasil-veja-onde-assistir-horario-e-escalacoes-1.3750603"
    ],
@@ -16246,6 +16404,67 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.tribunadosertao.com.br/esportes/2026/03/19/874983-crb-domina-figueirense-carimba-vaga-na-5a-fase-e-fatura-r-2-milhoes",
+    "https://www.tnh1.com.br/noticia/nid/com-novo-prejuizo-veja-publico-e-renda-de-crb-x-figueirense-pela-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000261,
+    "timestamp": 1773878400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "4ª fase"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900070,
+     "name": "Figueirense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Douglas Baggio"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -16411,6 +16630,99 @@
      },
      "player": {
       "name": "Alef Manga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-x-crb-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3758807",
+    "https://mais.opovo.com.br/jornal/esportes/2026/05/15/fortaleza-empata-com-crb-avanca-as-oitavas-da-copa-do-brasil-e-ganha-rs-3-milhoes.html"
+   ],
+   "fixture": {
+    "id": 91000262,
+    "timestamp": 1776900600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "5ª fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 32,
+      "extra": null,
+      "texto": "32"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 44,
+      "extra": null,
+      "texto": "44"
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Mailton"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 55,
+      "extra": null,
+      "texto": "55"
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Miritello"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -16856,6 +17168,50 @@
     "away": 0
    },
    "penaltis": "1x4",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://mais.opovo.com.br/jornal/esportes/2026/05/15/fortaleza-empata-com-crb-avanca-as-oitavas-da-copa-do-brasil-e-ganha-rs-3-milhoes.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/crb-x-fortaleza-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3763751"
+   ],
+   "fixture": {
+    "id": 91000263,
+    "timestamp": 1778799600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "5ª fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900024,
+     "name": "Fortaleza"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
    "prejogo": {},
    "escalacoes": {},
    "previsao": null,
@@ -21978,6 +22334,330 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "alagoano",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/crb-x-csa-ao-vivo-acompanhe-semifinal-do-alagoano-em-tempo-real/",
+    "https://www.tribunadosertao.com.br/esportes/2026/02/23/861448-crb-e-asa-voltam-a-decidir-o-alagoano-pela-quinta-vez-consecutiva-faf-define-datas-e-locais"
+   ],
+   "fixture": {
+    "id": 91000264,
+    "timestamp": 1771455600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900071,
+     "name": "CSA"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Crystopher"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "alagoano",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/csa-x-crb-ao-vivo-acompanhe-semifinal-do-alagoano-em-tempo-real/",
+    "https://www.tribunadosertao.com.br/esportes/2026/02/23/861448-crb-e-asa-voltam-a-decidir-o-alagoano-pela-quinta-vez-consecutiva-faf-define-datas-e-locais"
+   ],
+   "fixture": {
+    "id": 91000265,
+    "timestamp": 1771700400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900071,
+     "name": "CSA"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Douglas Baggio"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Vinícius Nunes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "alagoano",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/crb-x-asa-ao-vivo-acompanhe-a-final-do-alagoano-em-tempo-real/",
+    "https://www.tribunadosertao.com.br/esportes/2026/03/07/868774-decisao-no-coaracy-asa-e-crb-disputam-a-taca-do-estadual-neste-sabado"
+   ],
+   "fixture": {
+    "id": 91000266,
+    "timestamp": 1772305200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rei Pelé",
+     "city": "Maceió"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900026,
+     "name": "CRB"
+    },
+    "away": {
+     "id": 900072,
+     "name": "ASA"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Douglas Baggio"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 65,
+      "extra": null,
+      "texto": "65"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "alagoano",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/asa-x-crb-ao-vivo-acompanhe-a-final-do-alagoano-em-tempo-real/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/crb-vence-asa-no-agregado-e-conquista-pentacampeonato-alagoano/"
+   ],
+   "fixture": {
+    "id": 91000267,
+    "timestamp": 1772910000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Coaracy da Mata Fonseca",
+     "city": "Arapiraca"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900072,
+     "name": "ASA"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900072,
+      "name": "ASA"
+     },
+     "player": {
+      "name": "Fábio Aguiar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   }
  ],
  "classificacao": {
@@ -23359,6 +24039,12 @@
   ],
   "copa_do_brasil": [
    {
+    "jogador": "Mikael",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 2
+   },
+   {
     "jogador": "Renan Lodi",
     "time": "Atlético-MG",
     "time_id": 900006,
@@ -23413,6 +24099,12 @@
     "gols": 1
    },
    {
+    "jogador": "Douglas Baggio",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 1
+   },
+   {
     "jogador": "Dudu",
     "time": "Athletico-PR",
     "time_id": 900004,
@@ -23428,6 +24120,12 @@
     "jogador": "Gabriel Poveda",
     "time": "Primavera",
     "time_id": 900067,
+    "gols": 1
+   },
+   {
+    "jogador": "Guilherme Pato",
+    "time": "CRB",
+    "time_id": 900026,
     "gols": 1
    },
    {
@@ -23449,6 +24147,12 @@
     "gols": 1
    },
    {
+    "jogador": "Mailton",
+    "time": "Fortaleza",
+    "time_id": 900024,
+    "gols": 1
+   },
+   {
     "jogador": "Marcinho",
     "time": "Chapecoense",
     "time_id": 900020,
@@ -23458,6 +24162,12 @@
     "jogador": "Maurício",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Miritello",
+    "time": "Fortaleza",
+    "time_id": 900024,
     "gols": 1
    },
    {
@@ -24038,6 +24748,38 @@
     "time_id": 900035,
     "gols": 1
    }
+  ],
+  "alagoano": [
+   {
+    "jogador": "Mikael",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 4
+   },
+   {
+    "jogador": "Douglas Baggio",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 2
+   },
+   {
+    "jogador": "Crystopher",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 1
+   },
+   {
+    "jogador": "Fábio Aguiar",
+    "time": "ASA",
+    "time_id": 900072,
+    "gols": 1
+   },
+   {
+    "jogador": "Vinícius Nunes",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 1
+   }
   ]
  },
  "chaves": {
@@ -24076,6 +24818,36 @@
          "cidade": "Fortaleza"
         }
        ]
+      },
+      {
+       "times": [
+        900026,
+        900068
+       ],
+       "nomes": [
+        "CRB",
+        "Porto-BA"
+       ],
+       "agregado": [
+        6,
+        0
+       ],
+       "penaltis": null,
+       "vencedor": 900026,
+       "jogos": [
+        {
+         "id": 91000259,
+         "data": "2026-03-03T20:00",
+         "casa": 900026,
+         "fora": 900068,
+         "gc": 6,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Rei Pelé",
+         "cidade": "Maceió"
+        }
+       ]
       }
      ]
     },
@@ -24109,6 +24881,36 @@
          "status": "encerrado",
          "estadio": "Castelão",
          "cidade": "São Luís"
+        }
+       ]
+      },
+      {
+       "times": [
+        900069,
+        900026
+       ],
+       "nomes": [
+        "Sousa",
+        "CRB"
+       ],
+       "agregado": [
+        0,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900026,
+       "jogos": [
+        {
+         "id": 91000260,
+         "data": "2026-03-12T19:30",
+         "casa": 900069,
+         "fora": 900026,
+         "gc": 0,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Marizão",
+         "cidade": "Sousa"
         }
        ]
       }
@@ -24147,6 +24949,36 @@
          "status": "encerrado",
          "estadio": "1º de Maio",
          "cidade": "São Bernardo do Campo"
+        }
+       ]
+      },
+      {
+       "times": [
+        900026,
+        900070
+       ],
+       "nomes": [
+        "CRB",
+        "Figueirense"
+       ],
+       "agregado": [
+        1,
+        0
+       ],
+       "penaltis": null,
+       "vencedor": 900026,
+       "jogos": [
+        {
+         "id": 91000261,
+         "data": "2026-03-18T21:00",
+         "casa": 900026,
+         "fora": 900070,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Rei Pelé",
+         "cidade": "Maceió"
         }
        ]
       }
@@ -24289,6 +25121,48 @@
     {
      "nome": "5ª fase",
      "confrontos": [
+      {
+       "times": [
+        900024,
+        900026
+       ],
+       "nomes": [
+        "Fortaleza",
+        "CRB"
+       ],
+       "agregado": [
+        2,
+        1
+       ],
+       "penaltis": null,
+       "vencedor": 900024,
+       "jogos": [
+        {
+         "id": 91000262,
+         "data": "2026-04-22T20:30",
+         "casa": 900024,
+         "fora": 900026,
+         "gc": 2,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Castelão",
+         "cidade": "Fortaleza"
+        },
+        {
+         "id": 91000263,
+         "data": "2026-05-14T20:00",
+         "casa": 900026,
+         "fora": 900024,
+         "gc": 0,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Rei Pelé",
+         "cidade": "Maceió"
+        }
+       ]
+      },
       {
        "times": [
         900006,

@@ -137,6 +137,29 @@
    }
   },
   {
+   "id": 91000259,
+   "data": "2026-03-03T20:00:00-03:00",
+   "casa": "crb",
+   "fora": "porto-ba",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "2ª fase",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 6,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.tnh1.com.br/noticia/nid/crb-atropela-porto-ba-e-vai-a-terceira-fase-da-copa-do-brasil/",
+    "https://atarde.com.br/esportes/porto-e-atropelado-pelo-crb-e-perde-bolada-na-copa-do-brasil-1381524"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
+  },
+  {
    "id": 91000254,
    "data": "2026-03-12T19:30:00-03:00",
    "casa": "maranhao",
@@ -167,6 +190,42 @@
    "atualizado": "2026-11-11T05:35:00-03:00"
   },
   {
+   "id": 91000260,
+   "data": "2026-03-12T19:30:00-03:00",
+   "casa": "sousa",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "3ª fase",
+   "grupo": "",
+   "estadio": "Marizão",
+   "cidade": "Sousa",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Mikael",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Guilherme Pato",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.tribunadosertao.com.br/esportes/2026/03/13/871905-galo-avanca-crb-supera-pressao-na-paraiba-vence-o-sousa-e-garante-r-16-milhao",
+    "https://www.tnh1.com.br/noticia/nid/expulsao-denuncia-de-injuria-racial-e-mais-entenda-o-que-aconteceu-durante-e-apos-sousa-x-crb/"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
+  },
+  {
    "id": 91000255,
    "data": "2026-03-17T19:30:00-03:00",
    "casa": "sao-bernardo",
@@ -188,6 +247,36 @@
     "https://diariodonordeste.verdesmares.com.br/jogada/sao-bernardo-x-ceara-na-copa-do-brasil-veja-onde-assistir-horario-e-escalacoes-1.3750603"
    ],
    "atualizado": "2026-11-11T05:35:00-03:00"
+  },
+  {
+   "id": 91000261,
+   "data": "2026-03-18T21:00:00-03:00",
+   "casa": "crb",
+   "fora": "figueirense",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "4ª fase",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Douglas Baggio",
+     "minuto": "70",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.tribunadosertao.com.br/esportes/2026/03/19/874983-crb-domina-figueirense-carimba-vaga-na-5a-fase-e-fatura-r-2-milhoes",
+    "https://www.tnh1.com.br/noticia/nid/com-novo-prejuizo-veja-publico-e-renda-de-crb-x-figueirense-pela-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
   },
   {
    "id": 91000226,
@@ -444,6 +533,48 @@
     ],
     "atualizado": "2026-11-10T05:33:00-03:00"
    }
+  },
+  {
+   "id": 91000262,
+   "data": "2026-04-22T20:30:00-03:00",
+   "casa": "fortaleza",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "5ª fase - ida",
+   "grupo": "",
+   "estadio": "Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Mikael",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Mailton",
+     "minuto": "44",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Miritello",
+     "minuto": "55",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-x-crb-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3758807",
+    "https://mais.opovo.com.br/jornal/esportes/2026/05/15/fortaleza-empata-com-crb-avanca-as-oitavas-da-copa-do-brasil-e-ganha-rs-3-milhoes.html"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00"
   },
   {
    "id": 91000256,
@@ -936,6 +1067,97 @@
     "https://www.gazetaesportiva.com/times/atletico-go/athletico-pr-sofre-bate-atletico-go-nos-penaltis-e-vai-as-oitavas-da-copa-do-brasil/"
    ],
    "atualizado": "2026-11-09T18:37:00-03:00"
+  },
+  {
+   "id": 91000263,
+   "data": "2026-05-14T20:00:00-03:00",
+   "casa": "crb",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "5ª fase - volta",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://mais.opovo.com.br/jornal/esportes/2026/05/15/fortaleza-empata-com-crb-avanca-as-oitavas-da-copa-do-brasil-e-ganha-rs-3-milhoes.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/crb-x-fortaleza-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3763751"
+   ],
+   "atualizado": "2026-11-11T13:41:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Barroca",
+     "time": "Vitor Caetano; Hereda, Henri, Fábio Alemão, Lucas Lovat; De Lucca, Thiaguinho, Pedro Castro, Danielzinho; Dadá Belmonte, Mikael",
+     "entraram": [
+      {
+       "jogador": "Guilherme Pato",
+       "saiu": "Lucas Lovat",
+       "minuto": ""
+      },
+      {
+       "jogador": "Crystopher",
+       "saiu": "De Lucca",
+       "minuto": ""
+      },
+      {
+       "jogador": "Douglas Baggio",
+       "saiu": "Thiaguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Phellype",
+       "saiu": "Pedro Castro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Estrella",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Thiago Carpini",
+     "time": "Vinicius Silvestre; Brítez, Luan Freitas, Lucas Gazal; Mailton, Pierre, Rodrigo, Pochettino, Mucuri; Luiz Fernando, Miritello",
+     "entraram": [
+      {
+       "jogador": "Vitinho",
+       "saiu": "Mailton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sasha",
+       "saiu": "Pierre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan",
+       "saiu": "Rodrigo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Welliton",
+       "saiu": "Pochettino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodriguinho",
+       "saiu": "Luiz Fernando",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://mais.opovo.com.br/jornal/esportes/2026/05/15/fortaleza-empata-com-crb-avanca-as-oitavas-da-copa-do-brasil-e-ganha-rs-3-milhoes.html"
+    ],
+    "atualizado": "2026-11-11T13:41:00-03:00"
+   }
   },
   {
    "id": 91000207,

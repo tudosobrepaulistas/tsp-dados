@@ -1,5 +1,11 @@
 [
  {
+  "jogador": "Mikael",
+  "time": "CRB",
+  "time_id": 900026,
+  "gols": 2
+ },
+ {
   "jogador": "Renan Lodi",
   "time": "Atlético-MG",
   "time_id": 900006,
@@ -54,6 +60,12 @@
   "gols": 1
  },
  {
+  "jogador": "Douglas Baggio",
+  "time": "CRB",
+  "time_id": 900026,
+  "gols": 1
+ },
+ {
   "jogador": "Dudu",
   "time": "Athletico-PR",
   "time_id": 900004,
@@ -69,6 +81,12 @@
   "jogador": "Gabriel Poveda",
   "time": "Primavera",
   "time_id": 900067,
+  "gols": 1
+ },
+ {
+  "jogador": "Guilherme Pato",
+  "time": "CRB",
+  "time_id": 900026,
   "gols": 1
  },
  {
@@ -90,6 +108,12 @@
   "gols": 1
  },
  {
+  "jogador": "Mailton",
+  "time": "Fortaleza",
+  "time_id": 900024,
+  "gols": 1
+ },
+ {
   "jogador": "Marcinho",
   "time": "Chapecoense",
   "time_id": 900020,
@@ -99,6 +123,12 @@
   "jogador": "Maurício",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 1
+ },
+ {
+  "jogador": "Miritello",
+  "time": "Fortaleza",
+  "time_id": 900024,
   "gols": 1
  },
  {
