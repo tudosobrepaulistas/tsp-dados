@@ -148,6 +148,42 @@
    }
   },
   {
+   "id": 91000268,
+   "data": "2026-04-01T21:30:00-03:00",
+   "casa": "criciuma",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Ronaldo Tavares",
+     "minuto": "2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jhonata Robert",
+     "minuto": "61",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-um-a-mais-criciuma-empata-com-o-athletic-pela-serie-b/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-um-a-menos-athletic-segura-empate-com-criciuma-fora-de-casa-pela-serie-b/"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
    "id": 91000240,
    "data": "2026-04-05T20:30:00-03:00",
    "casa": "botafogo-sp",
@@ -501,6 +537,131 @@
    }
   },
   {
+   "id": 91000269,
+   "data": "2026-05-09T21:15:00-03:00",
+   "casa": "juventude",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-e-criciuma-ficam-no-empate-pela-serie-b-do-brasileirao/",
+    "https://www.juventude.com.br/blog/pela-serie-b-ju-fica-no-empate-diante-do-criciuma"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Gabriel Pinheiro; Nathan Santos, Lucas Mineiro, Luan Martins, Raí Silva, Diogo Barbosa; MP, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Fábio Lima",
+       "saiu": "Nathan Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Manuel Castro",
+       "saiu": "Luan Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wadson",
+       "saiu": "Diogo Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iba Ly",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Alan Kardec",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Mineiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luan Martins",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Airton; Ruan, Bruno Alves, Luciano Castán; Marcinho, Gui Lobo, Fellipe Mateus, Marcelo Hermes; Romarinho, Waguininho, Jhonata Robert",
+     "entraram": [
+      {
+       "jogador": "Willean Lepo",
+       "saiu": "Marcinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Otero",
+       "saiu": "Fellipe Mateus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Gonçalves",
+       "saiu": "Romarinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauê Santos",
+       "saiu": "Waguininho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Irmer",
+       "saiu": "Jhonata Robert",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bruno Alves",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luciano Castán",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ruan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Willean Lepo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/pela-serie-b-ju-fica-no-empate-diante-do-criciuma"
+    ],
+    "atualizado": "2026-11-11T18:43:00-03:00"
+   }
+  },
+  {
    "id": 91000209,
    "data": "2026-05-10T18:30:00-03:00",
    "casa": "avai",
@@ -691,6 +852,176 @@
    }
   },
   {
+   "id": 91000270,
+   "data": "2026-05-24T20:30:00-03:00",
+   "casa": "operario-pr",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "10",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Germano Kruger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Marcelo Hermes",
+     "minuto": "76",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Trindade",
+     "minuto": "87",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-gol-no-fim-operario-arranca-empate-do-criciuma-pela-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/operario-pr-x-criciuma/95495/"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luiz Júnior de Souza Lopes",
+     "time": "Vagner; Doka, Miranda, José Cuenú, Gabriel Feliciano; Moraes, Aylon, Vinícius Diniz, Matheus Trindade, Neto Paraíba; Pablo",
+     "entraram": [
+      {
+       "jogador": "Maguinho",
+       "saiu": "Doka",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Augusto",
+       "saiu": "Aylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Vilhena",
+       "saiu": "Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edwin Torres",
+       "saiu": "Neto Paraíba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Dantas",
+       "saiu": "Pablo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Neto Paraíba",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Trindade",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Airton; Luciano Castán, Bruno Alves, César Martins; Eduardo, Marcinho, Fellipe Mateus, Marcelo Hermes; Nicolas, Diego Gonçalves, Otero",
+     "entraram": [
+      {
+       "jogador": "Waguininho",
+       "saiu": "Nicolas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willean Lepo",
+       "saiu": "Bruno Alves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Lobo",
+       "saiu": "Fellipe Mateus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhonata Robert",
+       "saiu": "Otero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Irmer",
+       "saiu": "Eduardo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fellipe Mateus",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bruno Alves",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nicolas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/operario-pr-x-criciuma/95495/"
+    ],
+    "atualizado": "2026-11-11T18:43:00-03:00"
+   }
+  },
+  {
+   "id": 91000271,
+   "data": "2026-06-15T21:00:00-03:00",
+   "casa": "criciuma",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "13",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fellipe Mateus",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "João Gabriel",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-cede-empate-ao-ceara-e-perde-chance-de-encostar-no-g2-pela-serie-b/",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/06/15/com-gol-de-joao-gabriel-ceara-arranca-empate-do-criciuma-fora-de-casa-pela-serie-b.html"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
    "id": 91000185,
    "data": "2026-06-27T11:00:00-03:00",
    "casa": "operario-pr",
@@ -815,6 +1146,36 @@
    }
   },
   {
+   "id": 91000272,
+   "data": "2026-06-27T16:00:00-03:00",
+   "casa": "criciuma",
+   "fora": "sao-bernardo",
+   "status": "encerrado",
+   "rodada": "15",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Otero",
+     "minuto": "26",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-vence-sao-bernardo-assume-terceiro-lugar/",
+    "https://www.dgabc.com.br/Noticia/4331836/sao-bernardo-perde-para-o-criciuma-pela-serie-b"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
    "id": 91000214,
    "data": "2026-06-28T16:00:00-03:00",
    "casa": "athletic-mg",
@@ -843,6 +1204,95 @@
     "https://www.gazetaesportiva.com/?p=3812820"
    ],
    "atualizado": "2026-11-10T02:40:00-03:00"
+  },
+  {
+   "id": 91000273,
+   "data": "2026-07-08T20:00:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "17",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Moisés Lucarelli",
+   "cidade": "Campinas",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/criciuma/ponte-preta-x-criciuma-serie-b-2026-rodada-17/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/com-gol-nos-acrescimos-criciuma-bate-ponte-preta-e-vira-lider-da-serie-b,d9445ce77fb0ca3cdd7ffd866fc2454121bwvgzn.html"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000274,
+   "data": "2026-07-18T16:00:00-03:00",
+   "casa": "criciuma",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "18",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fellipe Mateus",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marcelo Hermes",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-vila-nova-e-se-isola-na-lideranca-da-serie-b/",
+    "https://www.cnnbrasil.com.br/esportes/lances-ao-vivo/brasileiro-serie-b-2026/18-07-2026/criciuma-x-vila-nova-fc/"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000275,
+   "data": "2026-07-21T19:30:00-03:00",
+   "casa": "novorizontino",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "19",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Jorge Ismael de Biasi",
+   "cidade": "Novo Horizonte",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Diego Gonçalves",
+     "minuto": "82",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-bate-novorizontino-e-segue-lider-com-invencibilidade-de-14-jogos-na-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/novorizontino-x-criciuma/96155/"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
   },
   {
    "id": 91000239,
@@ -1090,6 +1540,320 @@
     ],
     "atualizado": "2026-11-10T18:38:00-03:00"
    }
+  },
+  {
+   "id": 91000276,
+   "data": "2026-08-15T16:00:00-03:00",
+   "casa": "criciuma",
+   "fora": "goias",
+   "status": "encerrado",
+   "rodada": "22",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Luciano Castán",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-vence-goias-em-casa-e-segue-na-lideranca-do-brasileirao-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/criciuma-bate-goias-em-casa-poe-fim-a-jejum-e-segue-lider-da-serie-b,18f2d292bb526932aaadbb5166cce733zyyyjg2s.html"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000277,
+   "data": "2026-08-19T21:30:00-03:00",
+   "casa": "botafogo-sp",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Nicnet",
+   "cidade": "Ribeirão Preto",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Waguininho",
+     "minuto": "70",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vilar",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-cede-empate-ao-botafogo-sp-e-ve-juventude-se-aproximar-da-ponta-na-serie-b/",
+    "https://botafogofutebolsa.com.br/com-gol-nos-acrescimos-botafogo-empata-com-o-lider-em-casa"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Victor Souza; Gabriel Inocêncio, Ericson, Vilar, Patrick Brey; Matheus Sales, Morelli, Rafael Gava; Zé Hugo, Hygor, Wesley",
+     "entraram": [
+      {
+       "jogador": "Kelvin",
+       "saiu": "Matheus Sales",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leandro Maciel",
+       "saiu": "Rafael Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marco Antônio",
+       "saiu": "Zé Hugo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Caíke",
+       "saiu": "Hygor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jefferson Nem",
+       "saiu": "Wesley",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Airton; Rodrigo, Bruno Alves, César Martins; Waguininho, Eduardo, Ronald, Fellipe Mateus, Marcelo Hermes; Jhonata Robert, Nicolas",
+     "entraram": [
+      {
+       "jogador": "Ruan Carvalho",
+       "saiu": "Waguininho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiaguinho",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Irmer",
+       "saiu": "Ronald",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Gonçalves",
+       "saiu": "Jhonata Robert",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauê",
+       "saiu": "Nicolas",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bruno Alves",
+        "minuto": ""
+       },
+       {
+        "jogador": "Waguininho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Jhonata Robert",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://botafogofutebolsa.com.br/com-gol-nos-acrescimos-botafogo-empata-com-o-lider-em-casa"
+    ],
+    "atualizado": "2026-11-11T18:43:00-03:00"
+   }
+  },
+  {
+   "id": 91000278,
+   "data": "2026-08-23T18:30:00-03:00",
+   "casa": "criciuma",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Pedro Henrique",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Paulo Baya",
+     "minuto": "86",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-x-fortaleza-serie-b-rodada-24/",
+    "https://fortaleza1918.com.br/fortaleza-faz-grande-jogo-vence-criciuma-por-2-a-0-em-santa-catarina/",
+    "https://ibandce.com.br/fortaleza-vence-criciuma-24-rodada-serie-b-2026/"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Airton; César Martins, Rodrigo, Ruan, Marcelo Hermes; Willean Lepo, Eduardo, Gui Lobo; Fellipe Mateus, Otero, Cauê Santos",
+     "entraram": [
+      {
+       "jogador": "Hiago",
+       "saiu": "Ruan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Romarinho",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhonata Robert",
+       "saiu": "Gui Lobo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yuri Tanque",
+       "saiu": "Fellipe Mateus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nicolas",
+       "saiu": "Cauê Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Gui Lobo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Autuori",
+     "time": "João Ricardo; Mailton, Lucas Gazal, Cardona, Mucuri; Lucas Sasha, Rodrigo, Rodriguinho; Luiz Fernando, Pedro Henrique, Miritello",
+     "entraram": [
+      {
+       "jogador": "Ryan",
+       "saiu": "Mucuri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Emanoel",
+       "saiu": "Lucas Sasha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan Freitas",
+       "saiu": "Luiz Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Baya",
+       "saiu": "Pedro Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Crispim",
+       "saiu": "Miritello",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rodrigo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://fortaleza1918.com.br/fortaleza-faz-grande-jogo-vence-criciuma-por-2-a-0-em-santa-catarina/"
+    ],
+    "atualizado": "2026-11-11T18:43:00-03:00"
+   }
+  },
+  {
+   "id": 91000279,
+   "data": "2026-09-04T19:30:00-03:00",
+   "casa": "criciuma",
+   "fora": "cuiaba",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Willean Lepo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "João Basso",
+     "minuto": "53",
+     "tipo": "contra"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ex-santos-faz-contra-criciuma-bate-cuiaba-e-dorme-na-lideranca-da-serie-b/",
+    "https://www.olhardireto.com.br/noticias/cuiaba-cria-desperdica-e-perde-dourado-cai-diante-do-criciuma-e-segue-distante-do-g6"
+   ],
+   "atualizado": "2026-11-11T18:43:00-03:00"
   },
   {
    "id": 91000212,

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11T18:28:00-03:00",
+ "gerado": "2026-11-11T18:44:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -7623,8 +7623,8 @@
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.36,
-     0.55
+     1.37,
+     0.56
     ],
     "base": [
      7,
@@ -7675,12 +7675,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 15,
-    "empate": 20,
+    "empate": 19,
     "fora": 66,
     "placar": "0x2",
     "gols_esperados": [
-     0.92,
-     2.15
+     0.93,
+     2.2
     ],
     "base": [
      9,
@@ -7732,11 +7732,11 @@
    "previsao": {
     "casa": 17,
     "empate": 31,
-    "fora": 51,
+    "fora": 52,
     "placar": "0x1",
     "gols_esperados": [
-     0.54,
-     1.17
+     0.55,
+     1.2
     ],
     "base": [
      8,
@@ -7791,8 +7791,8 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.22,
-     0.77
+     2.26,
+     0.79
     ],
     "base": [
      9,
@@ -7842,13 +7842,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 73,
+    "casa": 74,
     "empate": 16,
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.39,
-     0.76
+     2.42,
+     0.78
     ],
     "base": [
      9,
@@ -7900,11 +7900,11 @@
    "previsao": {
     "casa": 32,
     "empate": 26,
-    "fora": 42,
+    "fora": 43,
     "placar": "1x1",
     "gols_esperados": [
-     1.2,
-     1.42
+     1.22,
+     1.45
     ],
     "base": [
      7,
@@ -7955,12 +7955,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 27,
-    "empate": 25,
+    "empate": 24,
     "fora": 49,
     "placar": "1x1",
     "gols_esperados": [
-     1.13,
-     1.62
+     1.15,
+     1.65
     ],
     "base": [
      8,
@@ -8013,10 +8013,10 @@
     "casa": 61,
     "empate": 21,
     "fora": 18,
-    "placar": "1x0",
+    "placar": "2x1",
     "gols_esperados": [
-     1.99,
-     0.99
+     2.02,
+     1.01
     ],
     "base": [
      9,
@@ -8068,11 +8068,11 @@
    "previsao": {
     "casa": 57,
     "empate": 24,
-    "fora": 19,
+    "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.71,
-     0.89
+     1.74,
+     0.91
     ],
     "base": [
      9,
@@ -8124,11 +8124,11 @@
    "previsao": {
     "casa": 26,
     "empate": 23,
-    "fora": 50,
+    "fora": 51,
     "placar": "1x1",
     "gols_esperados": [
-     1.23,
-     1.78
+     1.24,
+     1.82
     ],
     "base": [
      11,
@@ -8183,8 +8183,8 @@
     "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
-     1.08,
-     1.14
+     1.1,
+     1.16
     ],
     "base": [
      8,
@@ -8239,8 +8239,8 @@
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.29,
-     0.7
+     1.31,
+     0.71
     ],
     "base": [
      11,
@@ -8295,8 +8295,8 @@
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.17,
-     0.54
+     2.2,
+     0.55
     ],
     "base": [
      13,
@@ -8346,13 +8346,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 11,
-    "empate": 15,
+    "casa": 10,
+    "empate": 14,
     "fora": 75,
     "placar": "0x2",
     "gols_esperados": [
-     0.96,
-     2.77
+     0.98,
+     2.82
     ],
     "base": [
      9,
@@ -8403,12 +8403,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 67,
-    "empate": 19,
+    "empate": 18,
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.28,
-     0.97
+     2.32,
+     0.99
     ],
     "base": [
      21,
@@ -8459,12 +8459,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 55,
-    "empate": 27,
+    "empate": 26,
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.47,
-     0.73
+     1.49,
+     0.75
     ],
     "base": [
      9,
@@ -8519,8 +8519,8 @@
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.25,
-     1.14
+     2.28,
+     1.16
     ],
     "base": [
      11,
@@ -8575,8 +8575,8 @@
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.6,
-     0.82
+     1.62,
+     0.83
     ],
     "base": [
      7,
@@ -8627,12 +8627,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 45,
-    "empate": 30,
+    "empate": 29,
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.21,
-     0.85
+     1.23,
+     0.86
     ],
     "base": [
      23,
@@ -8683,12 +8683,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 44,
-    "empate": 30,
+    "empate": 29,
     "fora": 27,
     "placar": "1x0",
     "gols_esperados": [
-     1.2,
-     0.88
+     1.22,
+     0.9
     ],
     "base": [
      8,
@@ -8743,8 +8743,8 @@
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.93,
-     0.79
+     1.95,
+     0.8
     ],
     "base": [
      13,
@@ -8859,6 +8859,83 @@
      },
      "type": "Goal",
      "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-um-a-mais-criciuma-empata-com-o-athletic-pela-serie-b/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-um-a-menos-athletic-segura-empate-com-criciuma-fora-de-casa-pela-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000268,
+    "timestamp": 1775089800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 2,
+      "extra": null,
+      "texto": "2"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ronaldo Tavares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Jhonata Robert"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
     }
    ]
   },
@@ -9131,6 +9208,50 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-e-criciuma-ficam-no-empate-pela-serie-b-do-brasileirao/",
+    "https://www.juventude.com.br/blog/pela-serie-b-ju-fica-no-empate-diante-do-criciuma"
+   ],
+   "fixture": {
+    "id": 91000269,
+    "timestamp": 1778372100,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": "Caxias do Sul"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 8"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/avai-x-fortaleza-saf/832958",
     "https://diariodonordeste.verdesmares.com.br/jogada/avai-x-fortaleza-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3762835"
    ],
@@ -9329,6 +9450,160 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-gol-no-fim-operario-arranca-empate-do-criciuma-pela-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/operario-pr-x-criciuma/95495/"
+   ],
+   "fixture": {
+    "id": 91000270,
+    "timestamp": 1779665400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Kruger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 10"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Marcelo Hermes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 87,
+      "extra": null,
+      "texto": "87"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Matheus Trindade"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-cede-empate-ao-ceara-e-perde-chance-de-encostar-no-g2-pela-serie-b/",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/06/15/com-gol-de-joao-gabriel-ceara-arranca-empate-do-criciuma-fora-de-casa-pela-serie-b.html"
+   ],
+   "fixture": {
+    "id": 91000271,
+    "timestamp": 1781568000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 13"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Fellipe Mateus"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900035,
+      "name": "Ceará"
+     },
+     "player": {
+      "name": "João Gabriel"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/?p=3811992",
     "https://www.oliberal.com/esportes/operario-pr-passa-pelo-lanterna-america-mg-e-encosta-no-g2-da-serie-b-1.1138327"
    ],
@@ -9390,6 +9665,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-vence-sao-bernardo-assume-terceiro-lugar/",
+    "https://www.dgabc.com.br/Noticia/4331836/sao-bernardo-perde-para-o-criciuma-pela-serie-b"
+   ],
+   "fixture": {
+    "id": 91000272,
+    "timestamp": 1782586800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 15"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900031,
+     "name": "São Bernardo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 26,
+      "extra": null,
+      "texto": "26"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Otero"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/athletic-saf-x-avai/833024",
     "https://www.gazetaesportiva.com/?p=3812820"
    ],
@@ -9440,6 +9776,188 @@
      },
      "player": {
       "name": "Dixon Vera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/criciuma/ponte-preta-x-criciuma-serie-b-2026-rodada-17/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/com-gol-nos-acrescimos-criciuma-bate-ponte-preta-e-vira-lider-da-serie-b,d9445ce77fb0ca3cdd7ffd866fc2454121bwvgzn.html"
+   ],
+   "fixture": {
+    "id": 91000273,
+    "timestamp": 1783551600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 17"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/criciuma/criciuma-vence-vila-nova-e-se-isola-na-lideranca-da-serie-b/",
+    "https://www.cnnbrasil.com.br/esportes/lances-ao-vivo/brasileiro-serie-b-2026/18-07-2026/criciuma-x-vila-nova-fc/"
+   ],
+   "fixture": {
+    "id": 91000274,
+    "timestamp": 1784401200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Fellipe Mateus"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Marcelo Hermes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-bate-novorizontino-e-segue-lider-com-invencibilidade-de-14-jogos-na-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/novorizontino-x-criciuma/96155/"
+   ],
+   "fixture": {
+    "id": 91000275,
+    "timestamp": 1784673000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Jorge Ismael de Biasi",
+     "city": "Novo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 19"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 82,
+      "extra": null,
+      "texto": "82"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Diego Gonçalves"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -9594,6 +10112,299 @@
      },
      "player": {
       "name": "Filipe Dahora"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-vence-goias-em-casa-e-segue-na-lideranca-do-brasileirao-serie-b/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/criciuma-bate-goias-em-casa-poe-fim-a-jejum-e-segue-lider-da-serie-b,18f2d292bb526932aaadbb5166cce733zyyyjg2s.html"
+   ],
+   "fixture": {
+    "id": 91000276,
+    "timestamp": 1786820400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Luciano Castán"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-cede-empate-ao-botafogo-sp-e-ve-juventude-se-aproximar-da-ponta-na-serie-b/",
+    "https://botafogofutebolsa.com.br/com-gol-nos-acrescimos-botafogo-empata-com-o-lider-em-casa"
+   ],
+   "fixture": {
+    "id": 91000277,
+    "timestamp": 1787185800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Nicnet",
+     "city": "Ribeirão Preto"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Waguininho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Vilar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-x-fortaleza-serie-b-rodada-24/",
+    "https://fortaleza1918.com.br/fortaleza-faz-grande-jogo-vence-criciuma-por-2-a-0-em-santa-catarina/",
+    "https://ibandce.com.br/fortaleza-vence-criciuma-24-rodada-serie-b-2026/"
+   ],
+   "fixture": {
+    "id": 91000278,
+    "timestamp": 1787520600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 24"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900024,
+     "name": "Fortaleza"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 42,
+      "extra": null,
+      "texto": "42"
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Pedro Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 86,
+      "extra": null,
+      "texto": "86"
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Paulo Baya"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ex-santos-faz-contra-criciuma-bate-cuiaba-e-dorme-na-lideranca-da-serie-b/",
+    "https://www.olhardireto.com.br/noticias/cuiaba-cria-desperdica-e-perde-dourado-cai-diante-do-criciuma-e-segue-distante-do-g6"
+   ],
+   "fixture": {
+    "id": 91000279,
+    "timestamp": 1788561000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 26"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Willean Lepo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 53,
+      "extra": null,
+      "texto": "53"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "João Basso"
      },
      "type": "Goal",
      "detail": "Own Goal"
@@ -15567,17 +16378,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 29,
-    "empate": 31,
+    "casa": 30,
+    "empate": 30,
     "fora": 40,
     "placar": "0x1",
     "gols_esperados": [
-     0.86,
-     1.07
+     0.92,
+     1.11
     ],
     "base": [
-     7,
-     9
+     8,
+     10
     ]
    },
    "events": []
@@ -15637,17 +16448,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
-    "empate": 18,
-    "fora": 13,
+    "casa": 64,
+    "empate": 21,
+    "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.25,
+     2.01,
      0.85
     ],
     "base": [
-     9,
-     16
+     10,
+     17
     ]
    },
    "events": []
@@ -15698,7 +16509,7 @@
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.0,
+     1.01,
      0.27
     ],
     "base": [
@@ -15750,12 +16561,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 65,
-    "empate": 25,
+    "empate": 24,
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.57,
-     0.45
+     1.59,
+     0.46
     ],
     "base": [
      9,
@@ -15821,17 +16632,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
-    "empate": 33,
-    "fora": 39,
+    "casa": 37,
+    "empate": 32,
+    "fora": 30,
     "placar": "0x0",
     "gols_esperados": [
-     0.8,
-     0.99
+     0.98,
+     0.85
     ],
     "base": [
-     14,
-     9
+     15,
+     10
     ]
    },
    "events": []
@@ -15877,17 +16688,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
-    "empate": 37,
-    "fora": 12,
-    "placar": "0x0",
+    "casa": 57,
+    "empate": 34,
+    "fora": 10,
+    "placar": "1x0",
     "gols_esperados": [
-     0.96,
-     0.33
+     1.1,
+     0.29
     ],
     "base": [
      10,
-     7
+     8
     ]
    },
    "events": []
@@ -15948,17 +16759,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 27,
-    "empate": 35,
-    "fora": 38,
+    "casa": 31,
+    "empate": 36,
+    "fora": 33,
     "placar": "0x0",
     "gols_esperados": [
-     0.69,
-     0.89
+     0.77,
+     0.8
     ],
     "base": [
-     7,
-     7
+     19,
+     8
     ]
    },
    "events": []
@@ -16004,17 +16815,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
-    "empate": 28,
-    "fora": 46,
+    "casa": 30,
+    "empate": 29,
+    "fora": 42,
     "placar": "0x1",
     "gols_esperados": [
-     0.92,
-     1.32
+     0.98,
+     1.21
     ],
     "base": [
      7,
-     9
+     10
     ]
    },
    "events": []
@@ -16062,15 +16873,15 @@
    "previsao": {
     "casa": 68,
     "empate": 21,
-    "fora": 12,
+    "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.9,
-     0.63
+     1.92,
+     0.64
     ],
     "base": [
      16,
-     19
+     20
     ]
    },
    "events": []
@@ -16129,17 +16940,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
-    "empate": 18,
-    "fora": 13,
+    "casa": 66,
+    "empate": 20,
+    "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.34,
-     0.94
+     2.08,
+     0.82
     ],
     "base": [
-     7,
-     13
+     8,
+     14
     ]
    },
    "events": []
@@ -23681,6 +24492,12 @@
   ],
   "serie_b": [
    {
+    "jogador": "Fellipe Mateus",
+    "time": "Criciúma",
+    "time_id": 900025,
+    "gols": 4
+   },
+   {
     "jogador": "Hygor",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -23717,15 +24534,15 @@
     "gols": 2
    },
    {
-    "jogador": "Dudu",
-    "time": "Vila Nova",
-    "time_id": 900023,
+    "jogador": "Diego Gonçalves",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 2
    },
    {
-    "jogador": "Fellipe Mateus",
-    "time": "Criciúma",
-    "time_id": 900025,
+    "jogador": "Dudu",
+    "time": "Vila Nova",
+    "time_id": 900023,
     "gols": 2
    },
    {
@@ -23735,9 +24552,27 @@
     "gols": 2
    },
    {
+    "jogador": "Marcelo Hermes",
+    "time": "Criciúma",
+    "time_id": 900025,
+    "gols": 2
+   },
+   {
     "jogador": "Matheus Bianqui",
     "time": "Novorizontino",
     "time_id": 900021,
+    "gols": 2
+   },
+   {
+    "jogador": "Paulo Baya",
+    "time": "Fortaleza",
+    "time_id": 900024,
+    "gols": 2
+   },
+   {
+    "jogador": "Vilar",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
     "gols": 2
    },
    {
@@ -23843,12 +24678,6 @@
     "gols": 1
    },
    {
-    "jogador": "Diego Gonçalves",
-    "time": "Criciúma",
-    "time_id": 900025,
-    "gols": 1
-   },
-   {
     "jogador": "Dixon Vera",
     "time": "Athletic",
     "time_id": 900034,
@@ -23927,6 +24756,12 @@
     "gols": 1
    },
    {
+    "jogador": "Jhonata Robert",
+    "time": "Criciúma",
+    "time_id": 900025,
+    "gols": 1
+   },
+   {
     "jogador": "Jonathan",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -23936,6 +24771,12 @@
     "jogador": "Joseph",
     "time": "Operário-PR",
     "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "João Gabriel",
+    "time": "Ceará",
+    "time_id": 900035,
     "gols": 1
    },
    {
@@ -23957,6 +24798,12 @@
     "gols": 1
    },
    {
+    "jogador": "Luciano Castán",
+    "time": "Criciúma",
+    "time_id": 900025,
+    "gols": 1
+   },
+   {
     "jogador": "Luís Oyama",
     "time": "Novorizontino",
     "time_id": 900021,
@@ -23972,6 +24819,12 @@
     "jogador": "Marquinhos Gabriel",
     "time": "Vila Nova",
     "time_id": 900023,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Trindade",
+    "time": "Operário-PR",
+    "time_id": 900029,
     "gols": 1
    },
    {
@@ -24017,7 +24870,13 @@
     "gols": 1
    },
    {
-    "jogador": "Paulo Baya",
+    "jogador": "Otero",
+    "time": "Criciúma",
+    "time_id": 900025,
+    "gols": 1
+   },
+   {
+    "jogador": "Pedro Henrique",
     "time": "Fortaleza",
     "time_id": 900024,
     "gols": 1
@@ -24059,6 +24918,12 @@
     "gols": 1
    },
    {
+    "jogador": "Ronaldo Tavares",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 1
+   },
+   {
     "jogador": "Thiaguinho",
     "time": "CRB",
     "time_id": 900026,
@@ -24071,9 +24936,9 @@
     "gols": 1
    },
    {
-    "jogador": "Vilar",
-    "time": "Botafogo-SP",
-    "time_id": 900032,
+    "jogador": "Waguininho",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 1
    },
    {
@@ -24086,6 +24951,12 @@
     "jogador": "Wesley",
     "time": "Botafogo-SP",
     "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Willean Lepo",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 1
    },
    {
