@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-11T17:31-03:00",
+ "gerado": "2026-11-11T20:24-03:00",
  "avisos": [
-  {
-   "clube": "aracatuba",
-   "nome": "Araçatuba",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Único fato recente é o sorteio da Copa CCF (31/10); sem foto",
-   "sugestao": "Araçatuba estreia na Copa CCF em 29/11 em Cosmópolis, com o Palmeiras no grupo"
-  },
-  {
-   "clube": "ec-meia-noite",
-   "nome": "EC Meia Noite",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Único fato recente é o sorteio da Copa CCF (31/10); sem foto",
-   "sugestao": "Meia Noite estreia na Copa CCF em 29/11 em Cosmópolis"
-  },
   {
    "clube": "audax",
    "nome": "Audax",
@@ -420,6 +406,20 @@
    "quando": "2026-11-11T17:31-03:00",
    "motivo": "Cobertura 6h: sem notícia nova do Bragantino masculino confirmada em 2 fontes nas últimas 24h (elenco em data Fifa; suspensão de Lucas Barbosa é de 09/11)",
    "sugestao": "Vitória x Bragantino (qui 19/11, 19h30, Barradão): arbitragem Ramon Abatti Abel/VAR Pablo Ramon (Chico Sabe Tudo, 10/11) e suspensão de Lucas Barbosa; conferir escala oficial da CBF"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-11T20:24-03:00",
+   "motivo": "Sem notícia nova confirmada nas últimas 24h (sorteio do Paulistão e recurso de Bruno Santos já publicados); site oficial sem notas desde 04/11",
+   "sugestao": "Prévia de Mirassol x Atlético-MG (sábado, 14/11, 18h30, Maião, 35ª rodada): desfalques e provável escalação após o treino de quinta"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-11T20:24-03:00",
+   "motivo": "Sem notícia nova confirmada nas últimas 24h (sorteio do Paulistão já publicado); time só volta a jogar em 19/11",
+   "sugestao": "Semifinal do Paulista Sub-20 contra o Corinthians (Braga venceu a ida fora de casa) e suspensão de Lucas Barbosa para Vitória x Bragantino (19/11, Barradão)"
   }
  ]
 }
