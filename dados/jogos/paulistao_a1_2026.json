@@ -1,0 +1,465 @@
+{
+ "competicao": "paulistao_a1_2026",
+ "jogos": [
+  {
+   "id": 91000243,
+   "data": "2026-01-15T19:30:00-03:00",
+   "casa": "bragantino",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jhon Jhon",
+     "minuto": "34",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jhon Jhon",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Henry Mosquera",
+     "minuto": "76",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3750081",
+    "https://trivela.com.br/brasil/jhon-jhon-bragantino-derrota-corinthians/"
+   ],
+   "atualizado": "2026-11-11T02:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Cleiton; Hurtado, Gustavo Marques, Alix Vinícius, Juninho Capixaba; Gabriel, Gustavo Neves, Jhon Jhon; Lucas Barbosa, Henry Mosquera, Eduardo Sasha",
+     "entraram": [
+      {
+       "jogador": "Pedro Henrique",
+       "saiu": "Hurtado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sosa",
+       "saiu": "Gustavo Neves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eric Ramires",
+       "saiu": "Jhon Jhon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinicinho",
+       "saiu": "Henry Mosquera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Eduardo Sasha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Barbosa",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Dorival Júnior",
+     "time": "Hugo Souza; Cacá, Gabriel Paulista, João Pedro Tchoca, Hugo; Charles, Luiz Gustavo, Dieguinho, Vitinho; Gui Negão, Pedro Raul",
+     "entraram": [
+      {
+       "jogador": "Matheuzinho",
+       "saiu": "João Pedro Tchoca",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Bidu",
+       "saiu": "Hugo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yuri Alberto",
+       "saiu": "Charles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Breno Bidon",
+       "saiu": "Luiz Gustavo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carrillo",
+       "saiu": "Pedro Raul",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luiz Gustavo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Cacá",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3750081"
+    ],
+    "atualizado": "2026-11-11T02:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000244,
+   "data": "2026-01-18T18:30:00-03:00",
+   "casa": "bragantino",
+   "fora": "botafogo-sp",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 5,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Eduardo Sasha",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Fernandes",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Pedro Henrique",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ignacio Sosa",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marcelinho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/bragantino/bragantino-goleia-o-botafogo-sp-e-desbanca-o-palmeiras-na-ponta-do-paulista/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/lider-do-paulistao-red-bull-bragantino-goleia-botafogo-sp-e-segue-100/"
+   ],
+   "atualizado": "2026-11-11T02:36:00-03:00"
+  },
+  {
+   "id": 91000245,
+   "data": "2026-01-25T16:00:00-03:00",
+   "casa": "santos",
+   "fora": "bragantino",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://jornaldebrasilia.com.br/torcida/santos-e-bragantino-empatam-em-jogo-sem-emocao-e-palmeiras-segue-lider/",
+    "https://www.90min.com/pt-br/santos-empate-bragantino-vojvoda-criticas-torcida-paulistao-25-01-2026"
+   ],
+   "atualizado": "2026-11-11T02:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Mayke, Adonis Frías, Luan Peres, Escobar; Willian Arão, Zé Rafael, Gabriel Menino; Miguelito, Lautaro Díaz, Gabriel Barbosa",
+     "entraram": [
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Willian Arão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Robinho Jr.",
+       "saiu": "Zé Rafael",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tomás Rincón",
+       "saiu": "Gabriel Menino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Miguelito",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mateus Xavier",
+       "saiu": "Lautaro Díaz",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Escobar",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Vagner Mancini",
+     "time": "Cleiton; Agustín Sant'anna, Alix Vinícius, Gustavo Marques, Juninho Capixaba; Gabriel, Eric Ramires, Gustavinho; Lucas Barbosa, Vinicinho, Eduardo Sasha",
+     "entraram": [
+      {
+       "jogador": "Hurtado",
+       "saiu": "Agustín Sant'anna",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Eric Ramires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nacho Sosa",
+       "saiu": "Gustavinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mosquera",
+       "saiu": "Vinicinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Eduardo Sasha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Gabriel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nacho Sosa",
+        "minuto": ""
+       },
+       {
+        "jogador": "Eduardo Sasha",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Barbosa",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://jornaldebrasilia.com.br/torcida/santos-e-bragantino-empatam-em-jogo-sem-emocao-e-palmeiras-segue-lider/"
+    ],
+    "atualizado": "2026-11-11T02:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000246,
+   "data": "2026-02-21T18:30:00-03:00",
+   "casa": "bragantino",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "D. Bobadilla",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lucas",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Marques",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.saopaulofc.net/sao-paulo-vence-o-red-bull-bragantino-e-avanca-a-semifinal-do-paulistao/",
+    "https://abcdoabc.com.br/sao-paulo-quebra-semifinais-do-paulistao-2026/"
+   ],
+   "atualizado": "2026-11-11T02:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Cleiton; Andrés Hurtado, Gustavo Marques, Alix Vinicius, Juninho Capixaba; Gabriel, Matheus Fernandes, Gustavinho; Lucas Barbosa, Henry Mosquera, Isidro Pitta",
+     "entraram": [
+      {
+       "jogador": "Herrera",
+       "saiu": "Matheus Fernandes",
+       "minuto": "55"
+      },
+      {
+       "jogador": "Eduardo Sasha",
+       "saiu": "Henry Mosquera",
+       "minuto": "55"
+      },
+      {
+       "jogador": "Ignacio Sosa",
+       "saiu": "Gabriel",
+       "minuto": "63"
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Isidro Pitta",
+       "minuto": "63"
+      },
+      {
+       "jogador": "Vinicinho",
+       "saiu": "Andrés Hurtado",
+       "minuto": "81"
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Barbosa",
+        "minuto": "36"
+       },
+       {
+        "jogador": "Ignacio Sosa",
+        "minuto": "87"
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Juninho Capixaba",
+        "minuto": "90+12"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Hernán Crespo",
+     "time": "Rafael; Lucas Ramon, A. Franco, Sabino, Enzo; D. Bobadilla, Danielzinho, Marcos A., Lucas; Luciano, Calleri",
+     "entraram": [
+      {
+       "jogador": "Pablo Maia",
+       "saiu": "Danielzinho",
+       "minuto": "63"
+      },
+      {
+       "jogador": "Tapia",
+       "saiu": "Lucas",
+       "minuto": "73"
+      },
+      {
+       "jogador": "Ferraresi",
+       "saiu": "Luciano",
+       "minuto": "73"
+      },
+      {
+       "jogador": "Cauly",
+       "saiu": "Marcos A.",
+       "minuto": "84"
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "D. Bobadilla",
+        "minuto": "18"
+       },
+       {
+        "jogador": "Enzo",
+        "minuto": "36"
+       },
+       {
+        "jogador": "A. Franco",
+        "minuto": "62"
+       },
+       {
+        "jogador": "Pablo Maia",
+        "minuto": "90+5"
+       },
+       {
+        "jogador": "Calleri",
+        "minuto": "90+5"
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "A. Franco",
+        "minuto": "90+1"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.saopaulofc.net/sao-paulo-vence-o-red-bull-bragantino-e-avanca-a-semifinal-do-paulistao/"
+    ],
+    "atualizado": "2026-11-11T02:36:00-03:00"
+   }
+  }
+ ]
+}

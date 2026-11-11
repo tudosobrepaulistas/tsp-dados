@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11T01:53:00-03:00",
+ "gerado": "2026-11-11T02:36:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1191,6 +1191,13 @@
   {
    "chave": "carioca",
    "nome": "Campeonato Carioca",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
+  },
+  {
+   "chave": "paulistao_a1_2026",
+   "nome": "Paulistão A1 2026",
    "temporada": 2026,
    "formato": "historico",
    "status": "historico"
@@ -7464,7 +7471,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 56,
-    "empate": 30,
+    "empate": 29,
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
@@ -7521,11 +7528,11 @@
    "previsao": {
     "casa": 14,
     "empate": 19,
-    "fora": 67,
+    "fora": 66,
     "placar": "0x2",
     "gols_esperados": [
      0.9,
-     2.21
+     2.18
     ],
     "base": [
      9,
@@ -7575,17 +7582,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 16,
-    "empate": 28,
-    "fora": 56,
+    "casa": 17,
+    "empate": 31,
+    "fora": 52,
     "placar": "0x1",
     "gols_esperados": [
-     0.61,
-     1.37
+     0.53,
+     1.19
     ],
     "base": [
      8,
-     7
+     8
     ]
    },
    "events": []
@@ -7631,13 +7638,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
-    "empate": 19,
+    "casa": 70,
+    "empate": 18,
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.18,
-     0.8
+     2.2,
+     0.79
     ],
     "base": [
      9,
@@ -7687,13 +7694,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 72,
+    "casa": 73,
     "empate": 17,
-    "fora": 11,
+    "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.34,
-     0.78
+     2.35,
+     0.77
     ],
     "base": [
      9,
@@ -7745,11 +7752,11 @@
    "previsao": {
     "casa": 31,
     "empate": 26,
-    "fora": 44,
+    "fora": 43,
     "placar": "1x1",
     "gols_esperados": [
-     1.18,
-     1.46
+     1.19,
+     1.44
     ],
     "base": [
      7,
@@ -7799,16 +7806,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 31,
+    "casa": 26,
     "empate": 25,
-    "fora": 44,
+    "fora": 49,
     "placar": "1x1",
     "gols_esperados": [
-     1.27,
-     1.54
+     1.12,
+     1.64
     ],
     "base": [
-     7,
+     8,
      23
     ]
    },
@@ -7855,13 +7862,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 59,
-    "empate": 22,
+    "casa": 60,
+    "empate": 21,
     "fora": 19,
-    "placar": "1x1",
+    "placar": "1x0",
     "gols_esperados": [
-     1.95,
-     1.01
+     1.97,
+     1.0
     ],
     "base": [
      9,
@@ -7911,13 +7918,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
+    "casa": 56,
     "empate": 24,
-    "fora": 21,
+    "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.68,
-     0.92
+     1.69,
+     0.91
     ],
     "base": [
      9,
@@ -7967,17 +7974,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 34,
-    "empate": 23,
-    "fora": 43,
+    "casa": 24,
+    "empate": 22,
+    "fora": 55,
     "placar": "1x1",
     "gols_esperados": [
-     1.58,
-     1.81
+     1.24,
+     1.98
     ],
     "base": [
      10,
-     7
+     11
     ]
    },
    "events": []
@@ -8023,16 +8030,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 29,
-    "empate": 30,
-    "fora": 41,
-    "placar": "0x1",
+    "casa": 33,
+    "empate": 29,
+    "fora": 38,
+    "placar": "1x1",
     "gols_esperados": [
-     0.95,
-     1.17
+     1.07,
+     1.15
     ],
     "base": [
-     7,
+     8,
      9
     ]
    },
@@ -8084,8 +8091,8 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.27,
-     0.72
+     1.28,
+     0.71
     ],
     "base": [
      11,
@@ -8136,12 +8143,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 74,
-    "empate": 18,
+    "empate": 17,
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.13,
-     0.56
+     2.14,
+     0.55
     ],
     "base": [
      13,
@@ -8197,7 +8204,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.95,
-     2.84
+     2.8
     ],
     "base": [
      9,
@@ -8247,13 +8254,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 65,
+    "casa": 66,
     "empate": 19,
-    "fora": 16,
+    "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.24,
-     1.0
+     2.25,
+     0.98
     ],
     "base": [
      21,
@@ -8303,13 +8310,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
+    "casa": 54,
     "empate": 27,
-    "fora": 20,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.44,
-     0.75
+     1.45,
+     0.74
     ],
     "base": [
      9,
@@ -8359,16 +8366,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
-    "empate": 22,
-    "fora": 29,
-    "placar": "1x1",
+    "casa": 61,
+    "empate": 20,
+    "fora": 19,
+    "placar": "2x1",
     "gols_esperados": [
-     1.98,
-     1.5
+     2.22,
+     1.15
     ],
     "base": [
-     7,
+     11,
      9
     ]
    },
@@ -8415,13 +8422,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 58,
-    "empate": 24,
+    "casa": 59,
+    "empate": 23,
     "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.73,
-     0.86
+     1.74,
+     0.84
     ],
     "base": [
      7,
@@ -8471,17 +8478,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
+    "casa": 44,
     "empate": 30,
-    "fora": 24,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.19,
-     0.77
+     1.2,
+     0.86
     ],
     "base": [
      23,
-     7
+     8
     ]
    },
    "events": []
@@ -8527,16 +8534,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 44,
-    "empate": 27,
-    "fora": 29,
-    "placar": "1x1",
+    "casa": 43,
+    "empate": 30,
+    "fora": 28,
+    "placar": "1x0",
     "gols_esperados": [
-     1.35,
-     1.03
+     1.19,
+     0.89
     ],
     "base": [
-     7,
+     8,
      9
     ]
    },
@@ -8583,17 +8590,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
-    "empate": 25,
-    "fora": 21,
+    "casa": 60,
+    "empate": 23,
+    "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.6,
-     0.89
+     1.73,
+     0.77
     ],
     "base": [
      11,
-     7
+     8
     ]
    },
    "events": []
@@ -15417,8 +15424,8 @@
     "fora": 41,
     "placar": "0x1",
     "gols_esperados": [
-     0.84,
-     1.1
+     0.85,
+     1.08
     ],
     "base": [
      7,
@@ -15473,8 +15480,8 @@
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.48,
-     0.99
+     2.5,
+     0.97
     ],
     "base": [
      8,
@@ -15529,7 +15536,7 @@
     "fora": 10,
     "placar": "0x0",
     "gols_esperados": [
-     0.98,
+     0.99,
      0.27
     ],
     "base": [
@@ -15585,8 +15592,8 @@
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.54,
-     0.47
+     1.55,
+     0.46
     ],
     "base": [
      9,
@@ -15638,11 +15645,11 @@
    "previsao": {
     "casa": 29,
     "empate": 32,
-    "fora": 40,
+    "fora": 39,
     "placar": "0x1",
     "gols_esperados": [
-     0.84,
-     1.05
+     0.85,
+     1.03
     ],
     "base": [
      10,
@@ -15698,7 +15705,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.95,
-     0.34
+     0.33
     ],
     "base": [
      10,
@@ -15754,7 +15761,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.68,
-     0.91
+     0.9
     ],
     "base": [
      7,
@@ -15809,8 +15816,8 @@
     "fora": 47,
     "placar": "0x1",
     "gols_esperados": [
-     0.9,
-     1.36
+     0.91,
+     1.34
     ],
     "base": [
      7,
@@ -15861,12 +15868,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 66,
-    "empate": 22,
+    "empate": 21,
     "fora": 13,
     "placar": "1x0",
     "gols_esperados": [
-     1.85,
-     0.67
+     1.86,
+     0.66
     ],
     "base": [
      7,
@@ -15916,17 +15923,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
-    "empate": 26,
-    "fora": 26,
-    "placar": "1x1",
+    "casa": 68,
+    "empate": 18,
+    "fora": 14,
+    "placar": "2x0",
     "gols_esperados": [
-     1.53,
-     1.04
+     2.31,
+     0.95
     ],
     "base": [
      7,
-     12
+     13
     ]
    },
    "events": []
@@ -20362,6 +20369,361 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3750081",
+    "https://trivela.com.br/brasil/jhon-jhon-bragantino-derrota-corinthians/"
+   ],
+   "fixture": {
+    "id": 91000243,
+    "timestamp": 1768516200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 34,
+      "extra": null,
+      "texto": "34"
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Jhon Jhon"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Jhon Jhon"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Henry Mosquera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/bragantino/bragantino-goleia-o-botafogo-sp-e-desbanca-o-palmeiras-na-ponta-do-paulista/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/lider-do-paulistao-red-bull-bragantino-goleia-botafogo-sp-e-segue-100/"
+   ],
+   "fixture": {
+    "id": 91000244,
+    "timestamp": 1768771800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 5,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Eduardo Sasha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Matheus Fernandes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Pedro Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Ignacio Sosa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Marcelinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://jornaldebrasilia.com.br/torcida/santos-e-bragantino-empatam-em-jogo-sem-emocao-e-palmeiras-segue-lider/",
+    "https://www.90min.com/pt-br/santos-empate-bragantino-vojvoda-criticas-torcida-paulistao-25-01-2026"
+   ],
+   "fixture": {
+    "id": 91000245,
+    "timestamp": 1769367600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.saopaulofc.net/sao-paulo-vence-o-red-bull-bragantino-e-avanca-a-semifinal-do-paulistao/",
+    "https://abcdoabc.com.br/sao-paulo-quebra-semifinais-do-paulistao-2026/"
+   ],
+   "fixture": {
+    "id": 91000246,
+    "timestamp": 1771709400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "D. Bobadilla"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Lucas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Gustavo Marques"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   }
  ],
  "classificacao": {
@@ -22192,6 +22554,68 @@
     "jogador": "Luizinho",
     "time": "Bangu",
     "time_id": 900062,
+    "gols": 1
+   }
+  ],
+  "paulistao_a1_2026": [
+   {
+    "jogador": "Jhon Jhon",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 2
+   },
+   {
+    "jogador": "D. Bobadilla",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Eduardo Sasha",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Gustavo Marques",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Henry Mosquera",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Ignacio Sosa",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucas",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Marcelinho",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Fernandes",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Pedro Henrique",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
     "gols": 1
    }
   ]
