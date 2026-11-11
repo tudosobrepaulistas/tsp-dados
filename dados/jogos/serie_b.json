@@ -5624,6 +5624,29 @@
    }
   },
   {
+   "id": 91000169,
+   "data": "2026-11-11T19:00:00-03:00",
+   "casa": "londrina",
+   "fora": "nautico",
+   "status": "agendado",
+   "rodada": "38",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vitorino Gonçalves Dias",
+   "cidade": "Londrina",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "Antecipado pela CBF; sem público por punição do STJD",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728857-londrina-e-nautico-abrem-a-ultima-rodada-antes-dos-playoffs-da-serie-b.html"
+   ],
+   "atualizado": "2026-11-11T20:25:00-03:00"
+  },
+  {
    "id": 91000166,
    "data": "2026-11-12T19:00:00-03:00",
    "casa": "ponte-preta",
@@ -5664,7 +5687,7 @@
   },
   {
    "id": 91000167,
-   "data": "2026-11-14T16:30:00-03:00",
+   "data": "2026-11-12T20:00:00-03:00",
    "casa": "sao-bernardo",
    "fora": "athletic-mg",
    "status": "agendado",
@@ -5678,11 +5701,12 @@
    "penaltis": "",
    "minuto": 0,
    "gols": [],
-   "obs": "",
+   "obs": "Remarcado pela CBF",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.lance.com.br/onde-assistir/sao-bernardo-x-athletic-club-mg-onde-assistir-horario-e-escalacoes.html"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00",
+   "atualizado": "2026-11-11T20:25:00-03:00",
    "prejogo": {
     "analise": [
      "São Bernardo e Athletic se despedem da Série B no sábado (14/11), às 16h30, no estádio 1º de Maio, em São Bernardo do Campo, sem objetivos na tabela. O São Bernardo é o 11º, com 52 pontos, e perdeu a chance de chegar aos playoffs do acesso ao levar a virada do Avaí por 2 a 1 na Ressacada, no sábado passado (7/11). O Athletic é o 14º, com 47, já livre do rebaixamento.",
@@ -5719,29 +5743,22 @@
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00"
-  },
-  {
-   "id": 91000169,
-   "data": "2026-11-14T16:30:00-03:00",
-   "casa": "londrina",
-   "fora": "nautico",
-   "status": "agendado",
-   "rodada": "38",
-   "fase": "",
-   "grupo": "",
-   "estadio": "Vitorino Gonçalves Dias",
-   "cidade": "Londrina",
-   "gols_casa": null,
-   "gols_fora": null,
-   "penaltis": "",
-   "minuto": 0,
-   "gols": [],
-   "obs": "",
-   "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
-   ],
-   "atualizado": "2026-11-07T01:55:00-03:00"
+   "atualizado": "2026-11-07T01:55:00-03:00",
+   "prejogo": {
+    "analise": [
+     "América-MG e Avaí se enfrentam no sábado (14/11), às 16h30, na Arena Independência, em Belo Horizonte, pela 38ª e última rodada da Série B. O jogo decide o último rebaixado: o Avaí, 17º com 40 pontos, precisa vencer e torcer por uma derrota do Ceará (43), que joga no mesmo horário contra o CRB, em Maceió.",
+     "Se isso acontecer, os dois terminam com 43 pontos, e o Avaí fica à frente pelo número de vitórias (12 a 11), primeiro critério de desempate, como explicou o Futebol Interior. Um empate do Ceará já rebaixa o time catarinense. O projeto Probabilidade no Futebol, da UFMG, apontava 80,7% de risco de queda para o Avaí, segundo a mesma matéria.",
+     "O América-MG, 19º com 29 pontos, já está rebaixado, ao lado de Londrina e Ponte Preta, mas vive sua melhor fase no campeonato: venceu quatro dos últimos cinco jogos, incluindo o 1 a 0 sobre o Ceará no Castelão, em 8 de novembro, com gol de Segovinha. Em casa, bateu Operário-PR e Cuiabá por 1 a 0.",
+     "O Avaí ganhou sobrevida ao virar sobre o São Bernardo por 2 a 1, na Ressacada, em 7 de novembro. Antes, havia perdido para Náutico (1 a 0) e Botafogo-SP (2 a 0) e empatado com o Athletic. Nos jogos fora de casa registrados pela Base TSP, venceu um e perdeu cinco."
+    ],
+    "estadio_wiki": "Estádio Independência",
+    "fontes": [
+     "https://www.futebolinterior.com.br/rebaixamento-sem-daniel-paulista-ceara-joga-por-um-ponto-avai-precisa-vencer-e-torcer/",
+     "https://www.futebolinterior.com.br/cenario-38a-rodada-serie-b-2026/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/titulo-acesso-e-rebaixamento-o-que-esta-em-jogo-na-ultima-rodada-da-serie-b/"
+    ],
+    "atualizado": "2026-11-11T20:28:00-03:00"
+   }
   },
   {
    "id": 91000170,
@@ -5802,7 +5819,21 @@
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00"
+   "atualizado": "2026-11-07T01:55:00-03:00",
+   "prejogo": {
+    "analise": [
+     "Atlético-GO e Cuiabá se enfrentam no sábado (14/11), às 16h30, no Antônio Accioly, em Goiânia, pela 38ª e última rodada da Série B. O Dragão é o 8º colocado, com 58 pontos, os mesmos de CRB (6º) e Goiás (7º), e briga pela última vaga nos playoffs de acesso, que reúnem do 3º ao 6º colocado.",
+     "Para ficar com a vaga, o Atlético-GO precisa vencer e torcer por tropeço do CRB, que recebe o Ceará; numa igualdade com o Goiás, que visita o Sport, valem os critérios de desempate, segundo o Futebol Interior. O time tem 15 vitórias, contra 17 de CRB e Goiás, o que pesa no primeiro critério.",
+     "O Atlético-GO chega embalado pela vitória por 3 a 2 sobre o Athletic, fora de casa, em 8 de novembro. Antes, empatou sem gols com o Fortaleza e perdeu para o Novorizontino por 1 a 0 em Goiânia. Nos últimos cinco jogos foram uma vitória, três empates e uma derrota.",
+     "O Cuiabá, 13º com 47 pontos, não briga mais por nada e vive uma sequência ruim: perdeu os últimos cinco jogos, para Avaí, Londrina, América-MG, São Bernardo e Juventude, marcando só dois gols nesse período."
+    ],
+    "estadio_wiki": "Estádio Antonio Accioly",
+    "fontes": [
+     "https://www.futebolinterior.com.br/cenario-38a-rodada-serie-b-2026/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/titulo-acesso-e-rebaixamento-o-que-esta-em-jogo-na-ultima-rodada-da-serie-b/"
+    ],
+    "atualizado": "2026-11-11T20:28:00-03:00"
+   }
   },
   {
    "id": 91000172,
@@ -5884,7 +5915,22 @@
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00"
+   "atualizado": "2026-11-07T01:55:00-03:00",
+   "prejogo": {
+    "analise": [
+     "CRB e Ceará se enfrentam no sábado (14/11), às 16h30, no Estádio Rei Pelé, em Maceió, pela 38ª e última rodada da Série B, num jogo que mexe com as duas pontas da tabela. O CRB, 6º com 58 pontos, garante matematicamente a vaga nos playoffs com uma vitória. O Ceará, 16º com 43, escapa do rebaixamento com um empate.",
+     "Se empatar, o CRB depende de Goiás e Atlético-GO, que também têm 58 pontos, não vencerem; se perder, precisa que os dois rivais percam, segundo a Gazeta de Alagoas. Em igualdade de pontos, o CRB tem 17 vitórias, como o Goiás, mas saldo melhor (+6 contra -2). Do lado do Ceará, uma derrota só rebaixa se o Avaí vencer o América-MG, em Belo Horizonte.",
+     "O CRB vem de vitória por 3 a 0 sobre o Náutico, nos Aflitos, em 7 de novembro, e soma duas vitórias, um empate e duas derrotas nos últimos cinco jogos. Em casa, perdeu para o Botafogo-SP (1 a 0) e venceu o Londrina (2 a 1) no período.",
+     "O Ceará chega pressionado. Perdeu quatro dos últimos cinco jogos, o último por 1 a 0 para o América-MG, no Castelão, em 8 de novembro, resultado que levou à saída do técnico Daniel Paulista. O time será comandado de forma interina pelo coordenador técnico Anderson Batatais e pelo auxiliar Alisson Henry. Na terça-feira (10/11), integrantes da principal torcida organizada se reuniram com o elenco e cobraram comprometimento; o zagueiro Luiz Otávio prometeu dedicação máxima, segundo O Povo."
+    ],
+    "estadio_wiki": "Estádio Rei Pelé",
+    "fontes": [
+     "https://www.gazetaweb.com/noticias/esportes/alagoano/adversario-do-crb-ceara-tera-comando-interino-na-ultima-rodada-da-serie-b-948094",
+     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/11/organizada-se-reune-com-elenco-do-ceara-e-cobra-comprometimento-antes-de-final.html",
+     "https://www.futebolinterior.com.br/cenario-38a-rodada-serie-b-2026/"
+    ],
+    "atualizado": "2026-11-11T20:28:00-03:00"
+   }
   },
   {
    "id": 91000175,

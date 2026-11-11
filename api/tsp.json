@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11T18:44:00-03:00",
+ "gerado": "2026-11-11T20:28:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -7615,7 +7615,23 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Mirassol e Atlético-MG se enfrentam no sábado (14/11), às 18h30, no Maião, pela 35ª rodada do Brasileirão. O Mirassol é o 14º colocado, com 40 pontos, três a mais que o Corinthians, primeiro time dentro da zona de rebaixamento, e joga em casa para abrir distância a quatro rodadas do fim. O Atlético é o 7º, com 50 pontos.",
+     "O time de Rafael Guanaes vem de vitória por 2 a 1 sobre a Chapecoense, fora de casa, em 3 de novembro. Nos últimos cinco jogos foram duas vitórias, um empate e duas derrotas: perdeu para Bahia (1 a 0) e Corinthians (2 a 0), venceu o Internacional por 2 a 0 no Maião e empatou com o São Paulo por 1 a 1. Depois do Atlético, o Mirassol ainda enfrenta Fluminense (fora), Athletico-PR (em casa) e Grêmio (fora), segundo O Tempo.",
+     "O Atlético vive o pior momento da temporada: são seis jogos sem vencer, com cinco derrotas e um empate, e a eliminação para o Grêmio na semifinal da Copa do Brasil, no sábado (7/11). No Brasileirão, perdeu os últimos três jogos (Flamengo, Cruzeiro e Botafogo). Reinier e Thiago Borbas estão lesionados, e Mateo Cassierra volta de lesão, de acordo com O Tempo.",
+     "Eduardo Domínguez teve a semana livre para trabalhar o time antes da viagem para São José do Rio Preto, na sexta-feira (13/11). Uma vitória levaria o Atlético, ao menos provisoriamente, ao 6º lugar, igualado com o Bahia em 53 pontos e com mais vitórias. Na semana seguinte, o clube decide a final da Copa Sul-Americana contra o Boca Juniors, no dia 21/11, em Barranquilla, na Colômbia."
+    ],
+    "retrospecto": "No primeiro turno, em 16 de maio de 2026, pela 16ª rodada, o Atlético venceu o Mirassol por 3 a 1 na Arena MRV, com gols de Alan Minda, Maycon (pênalti) e Cissé; William Machado descontou (Itatiaia). No Maião, em 2025, o jogo terminou 2 a 2: Edson Carioca abriu o placar, Hulk e Rony viraram e Reinaldo empatou nos acréscimos (O Tempo).",
+    "estadio_wiki": "Estádio Municipal José Maria de Campos Maia",
+    "fontes": [
+     "https://www.otempo.com.br/sports/atletico/2026/11/9/atletico-define-logistica-para-duelo-com-mirassol-elenco-volta-aos-treinos-na-terca-10",
+     "https://www.otempo.com.br/sports/atletico/2026/11/9/eliminacao-para-o-gremio-nao-acaba-com-o-sonho-do-atletico-de-ir-a-libertadores-em-2027",
+     "https://www.otempo.com.br/sports/atletico/2026/11/10/adversario-do-atletico-mirassol-tem-legiao-de-jogadores-que-ja-atuaram-em-minas-veja-lista",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-domina-mirassol-vence-em-casa-e-sobe-na-tabela-do-brasileiro/"
+    ],
+    "atualizado": "2026-11-11T20:28:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 57,
@@ -16324,6 +16340,63 @@
   {
    "liga": "serie_b",
    "temporada": 2026,
+   "obs": "Antecipado pela CBF; sem público por punição do STJD",
+   "fontes": [
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728857-londrina-e-nautico-abrem-a-ultima-rodada-antes-dos-playoffs-da-serie-b.html"
+   ],
+   "fixture": {
+    "id": 91000169,
+    "timestamp": 1794434400,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Vitorino Gonçalves Dias",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 65,
+    "empate": 24,
+    "fora": 10,
+    "placar": "1x0",
+    "gols_esperados": [
+     1.59,
+     0.46
+    ],
+    "base": [
+     9,
+     8
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
    "obs": "Antecipado pela CBF de 14/11 para 12/11 e levado ao Ítalo Mário Limongi, em Indaiatuba",
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
@@ -16396,13 +16469,14 @@
   {
    "liga": "serie_b",
    "temporada": 2026,
-   "obs": "",
+   "obs": "Remarcado pela CBF",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.lance.com.br/onde-assistir/sao-bernardo-x-athletic-club-mg-onde-assistir-horario-e-escalacoes.html"
    ],
    "fixture": {
     "id": 91000167,
-    "timestamp": 1794684600,
+    "timestamp": 1794524400,
     "status": {
      "short": "NS",
      "elapsed": null
@@ -16501,7 +16575,21 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "América-MG e Avaí se enfrentam no sábado (14/11), às 16h30, na Arena Independência, em Belo Horizonte, pela 38ª e última rodada da Série B. O jogo decide o último rebaixado: o Avaí, 17º com 40 pontos, precisa vencer e torcer por uma derrota do Ceará (43), que joga no mesmo horário contra o CRB, em Maceió.",
+     "Se isso acontecer, os dois terminam com 43 pontos, e o Avaí fica à frente pelo número de vitórias (12 a 11), primeiro critério de desempate, como explicou o Futebol Interior. Um empate do Ceará já rebaixa o time catarinense. O projeto Probabilidade no Futebol, da UFMG, apontava 80,7% de risco de queda para o Avaí, segundo a mesma matéria.",
+     "O América-MG, 19º com 29 pontos, já está rebaixado, ao lado de Londrina e Ponte Preta, mas vive sua melhor fase no campeonato: venceu quatro dos últimos cinco jogos, incluindo o 1 a 0 sobre o Ceará no Castelão, em 8 de novembro, com gol de Segovinha. Em casa, bateu Operário-PR e Cuiabá por 1 a 0.",
+     "O Avaí ganhou sobrevida ao virar sobre o São Bernardo por 2 a 1, na Ressacada, em 7 de novembro. Antes, havia perdido para Náutico (1 a 0) e Botafogo-SP (2 a 0) e empatado com o Athletic. Nos jogos fora de casa registrados pela Base TSP, venceu um e perdeu cinco."
+    ],
+    "estadio_wiki": "Estádio Independência",
+    "fontes": [
+     "https://www.futebolinterior.com.br/rebaixamento-sem-daniel-paulista-ceara-joga-por-um-ponto-avai-precisa-vencer-e-torcer/",
+     "https://www.futebolinterior.com.br/cenario-38a-rodada-serie-b-2026/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/titulo-acesso-e-rebaixamento-o-que-esta-em-jogo-na-ultima-rodada-da-serie-b/"
+    ],
+    "atualizado": "2026-11-11T20:28:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 54,
@@ -16515,62 +16603,6 @@
     "base": [
      11,
      14
-    ]
-   },
-   "events": []
-  },
-  {
-   "liga": "serie_b",
-   "temporada": 2026,
-   "obs": "",
-   "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
-   ],
-   "fixture": {
-    "id": 91000169,
-    "timestamp": 1794684600,
-    "status": {
-     "short": "NS",
-     "elapsed": null
-    },
-    "venue": {
-     "name": "Vitorino Gonçalves Dias",
-     "city": "Londrina"
-    },
-    "referee": ""
-   },
-   "league": {
-    "round": "Rodada 38"
-   },
-   "teams": {
-    "home": {
-     "id": 900038,
-     "name": "Londrina"
-    },
-    "away": {
-     "id": 900036,
-     "name": "Náutico"
-    }
-   },
-   "goals": {
-    "home": null,
-    "away": null
-   },
-   "penaltis": "",
-   "prejogo": {},
-   "escalacoes": {},
-   "previsao": {
-    "casa": 65,
-    "empate": 24,
-    "fora": 10,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.59,
-     0.46
-    ],
-    "base": [
-     9,
-     8
     ]
    },
    "events": []
@@ -16685,7 +16717,20 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Atlético-GO e Cuiabá se enfrentam no sábado (14/11), às 16h30, no Antônio Accioly, em Goiânia, pela 38ª e última rodada da Série B. O Dragão é o 8º colocado, com 58 pontos, os mesmos de CRB (6º) e Goiás (7º), e briga pela última vaga nos playoffs de acesso, que reúnem do 3º ao 6º colocado.",
+     "Para ficar com a vaga, o Atlético-GO precisa vencer e torcer por tropeço do CRB, que recebe o Ceará; numa igualdade com o Goiás, que visita o Sport, valem os critérios de desempate, segundo o Futebol Interior. O time tem 15 vitórias, contra 17 de CRB e Goiás, o que pesa no primeiro critério.",
+     "O Atlético-GO chega embalado pela vitória por 3 a 2 sobre o Athletic, fora de casa, em 8 de novembro. Antes, empatou sem gols com o Fortaleza e perdeu para o Novorizontino por 1 a 0 em Goiânia. Nos últimos cinco jogos foram uma vitória, três empates e uma derrota.",
+     "O Cuiabá, 13º com 47 pontos, não briga mais por nada e vive uma sequência ruim: perdeu os últimos cinco jogos, para Avaí, Londrina, América-MG, São Bernardo e Juventude, marcando só dois gols nesse período."
+    ],
+    "estadio_wiki": "Estádio Antonio Accioly",
+    "fontes": [
+     "https://www.futebolinterior.com.br/cenario-38a-rodada-serie-b-2026/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/titulo-acesso-e-rebaixamento-o-que-esta-em-jogo-na-ultima-rodada-da-serie-b/"
+    ],
+    "atualizado": "2026-11-11T20:28:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 57,
@@ -16868,7 +16913,21 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "CRB e Ceará se enfrentam no sábado (14/11), às 16h30, no Estádio Rei Pelé, em Maceió, pela 38ª e última rodada da Série B, num jogo que mexe com as duas pontas da tabela. O CRB, 6º com 58 pontos, garante matematicamente a vaga nos playoffs com uma vitória. O Ceará, 16º com 43, escapa do rebaixamento com um empate.",
+     "Se empatar, o CRB depende de Goiás e Atlético-GO, que também têm 58 pontos, não vencerem; se perder, precisa que os dois rivais percam, segundo a Gazeta de Alagoas. Em igualdade de pontos, o CRB tem 17 vitórias, como o Goiás, mas saldo melhor (+6 contra -2). Do lado do Ceará, uma derrota só rebaixa se o Avaí vencer o América-MG, em Belo Horizonte.",
+     "O CRB vem de vitória por 3 a 0 sobre o Náutico, nos Aflitos, em 7 de novembro, e soma duas vitórias, um empate e duas derrotas nos últimos cinco jogos. Em casa, perdeu para o Botafogo-SP (1 a 0) e venceu o Londrina (2 a 1) no período.",
+     "O Ceará chega pressionado. Perdeu quatro dos últimos cinco jogos, o último por 1 a 0 para o América-MG, no Castelão, em 8 de novembro, resultado que levou à saída do técnico Daniel Paulista. O time será comandado de forma interina pelo coordenador técnico Anderson Batatais e pelo auxiliar Alisson Henry. Na terça-feira (10/11), integrantes da principal torcida organizada se reuniram com o elenco e cobraram comprometimento; o zagueiro Luiz Otávio prometeu dedicação máxima, segundo O Povo."
+    ],
+    "estadio_wiki": "Estádio Rei Pelé",
+    "fontes": [
+     "https://www.gazetaweb.com/noticias/esportes/alagoano/adversario-do-crb-ceara-tera-comando-interino-na-ultima-rodada-da-serie-b-948094",
+     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/11/11/organizada-se-reune-com-elenco-do-ceara-e-cobra-comprometimento-antes-de-final.html",
+     "https://www.futebolinterior.com.br/cenario-38a-rodada-serie-b-2026/"
+    ],
+    "atualizado": "2026-11-11T20:28:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 68,
