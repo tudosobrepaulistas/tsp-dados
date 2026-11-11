@@ -1,13 +1,6 @@
 {
- "gerado": "2026-11-10T20:28-03:00",
+ "gerado": "2026-11-10T23:24-03:00",
  "avisos": [
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-09T11:47-03:00",
-   "motivo": "Nenhum fato novo nas últimas 24h além do acesso, já publicado; sem foto de conquista utilizável",
-   "sugestao": "Planejamento do Novorizontino para a Série A de 2027 e prévia da decisão do título contra o Criciúma, com foto oficial da festa do acesso"
-  },
   {
    "clube": "primavera",
    "nome": "Primavera",
@@ -420,6 +413,13 @@
    "quando": "2026-11-10T20:28-03:00",
    "motivo": "Cobertura 6h (20h20): pautas do pauteiro já publicadas (derrota para o Goiás e antecipação do jogo com o Operário). Única novidade de 24h: votação do orçamento 2027 no Conselho Deliberativo (qua, 11/11, 18h30), mas só na Agência Futebol Interior (Boa Informação republica a mesma agência) e sem foto da reunião.",
    "sugestao": "Repórter: confirmar com o clube a votação do orçamento 2027 (qua, 11/11) e cobrir o resultado; ou prévia Ponte Preta x Operário-PR (qui, 12/11, 19h, Indaiatuba) com treino/provável escalação de Kleina."
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-10T23:24-03:00",
+   "motivo": "Pautas do pauteiro (derrota para o Goiás e antecipação do jogo com o Operário) já publicadas. Única novidade das últimas 24h (votação do orçamento de 2027 no Conselho Deliberativo, 11/11 às 19h) só aparece em textos da mesma agência (AFI: Futebol Interior e Boa Informação); edital oficial não localizado no site do clube.",
+   "sugestao": "Resultado da votação do orçamento de 2027 da Ponte Preta no Conselho Deliberativo (11/11, 19h, sede social) e prévia de Ponte Preta x Operário (quinta, 12/11, 19h, Indaiatuba) com treino e provável escalação de Kleina"
   }
  ]
 }
