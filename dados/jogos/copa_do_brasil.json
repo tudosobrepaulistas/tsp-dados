@@ -823,7 +823,70 @@
     "https://www.terra.com.br/esportes/futebol/copa-do-brasil/gremio-segura-empate-com-o-atletico-e-esta-na-final-da-copa-do-brasil,bc329834afaaf2d567f936d201f9b570eevam3rz.html",
     "https://revistaoeste.com/esporte/final-copa-do-brasil-2026-data-local-ingressos/"
    ],
-   "atualizado": "2026-11-08T00:20:00-03:00"
+   "atualizado": "2026-11-08T00:20:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Renato Gaúcho",
+     "time": "Weverton; Gustavo Martins, Balbuena, Wallace; João Pedro, Noriega, Villasanti, Marlon; Amuzu, Carlos Vinícius, Enamorado",
+     "entraram": [
+      {
+       "jogador": "Dodi",
+       "saiu": "Balbuena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Paulista",
+       "saiu": "Marlon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Gabriel",
+       "saiu": "Amuzu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Braithwaite",
+       "saiu": "Carlos Vinícius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Enamorado",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Gabriel Delfim; Léo Duarte, Vitor Hugo, Lyanco; Alan Franco, Castaño, Maycon, Victor Hugo, Renan Lodi; Bernard, Cuello",
+     "entraram": [
+      {
+       "jogador": "Igor Gomes",
+       "saiu": "Lyanco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauã Soares",
+       "saiu": "Castaño",
+       "minuto": ""
+      },
+      {
+       "jogador": "Natanael",
+       "saiu": "Maycon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Minda",
+       "saiu": "Victor Hugo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.jornaldocomercio.com/esportes/2026/11/1268948-gremio-derrota-atletico-mg-e-abre-boa-vantagem-por-vaga-na-final-da-copa-do-brasil.html"
+    ],
+    "atualizado": "2026-11-11T03:51:00-03:00"
+   }
   },
   {
    "id": 91000177,
@@ -860,7 +923,70 @@
     "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/gremio-elimina-atletico-semifinal-copa-do-brasil-07-11-2026/",
     "https://www.terra.com.br/esportes/futebol/copa-do-brasil/gremio-segura-empate-com-o-atletico-e-esta-na-final-da-copa-do-brasil,bc329834afaaf2d567f936d201f9b570eevam3rz.html"
    ],
-   "atualizado": "2026-11-08T00:20:00-03:00"
+   "atualizado": "2026-11-08T00:20:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Natanael, Vitão, Vitor Hugo, Renan Lodi; Alan Franco, Castaño, Igor Gomes; Cuello, Minda, Bernard",
+     "entraram": [
+      {
+       "jogador": "Cassierra",
+       "saiu": "Natanael",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fred",
+       "saiu": "Castaño",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Scarpa",
+       "saiu": "Igor Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu",
+       "saiu": "Minda",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Renato Portaluppi",
+     "time": "Weverton; Balbuena, Wallace, Kannemann; João Pedro, Noriega, Villasanti, Marlon; Enamorado, Carlos Vinícius, Amuzu",
+     "entraram": [
+      {
+       "jogador": "Marcos Rocha",
+       "saiu": "João Pedro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Paulista",
+       "saiu": "Marlon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dodi",
+       "saiu": "Enamorado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Braithwaite",
+       "saiu": "Carlos Vinícius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Amuzu",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.jornaldocomercio.com/esportes/2026/11/1269665-gremio-mostra-porque-e-copeiro-segura-o-galo-e-e-finalista-da-copa-do-brasil.html"
+    ],
+    "atualizado": "2026-11-11T03:51:00-03:00"
+   }
   },
   {
    "id": 91000133,
