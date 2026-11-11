@@ -1,118 +1,6 @@
 {
- "gerado": "2026-11-10T23:24-03:00",
+ "gerado": "2026-11-11T06:55-03:00",
  "avisos": [
-  {
-   "clube": "primavera",
-   "nome": "Primavera",
-   "quando": "2026-11-09T11:47-03:00",
-   "motivo": "Bloco A1: pauta Noroeste x São Paulo (amistoso, sexta 13/11, 20h, Alfredo de Castilho) confirmada na Gazeta Esportiva e no Lance!, mas sem foto de jogo livre (só miniaturas com arte/escudo); demais clubes sem notícia nova",
-   "sugestao": "Redator: prévia de Noroeste x São Paulo com foto oficial do Noroeste (redes do clube) e informações de ingressos"
-  },
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-09T11:47-03:00",
-   "motivo": "Bloco A2: sem pauta na saída e sem notícia confirmada com foto utilizável nas últimas 48h",
-   "sugestao": "Conferir anúncios de reforços para a A2 de 2027 nas redes de Linense, Velo Clube, Água Santa e Santo André"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-09T11:47-03:00",
-   "motivo": "Bloco A3: sem pauta na saída e sem notícia confirmada com foto utilizável nas últimas 48h",
-   "sugestao": "Conferir anúncios de reforços e comissão técnica para a A3 de 2027 nas redes de Catanduva, Paulista, Rio Preto e Grêmio Prudente"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-09T14:26-03:00",
-   "motivo": "Cobertura 6h: nenhuma notícia nova nas últimas 24h além da derrota para o Avaí e da despedida contra o Athletic, já publicadas (dgabc, Gazeta, site oficial sem novidade).",
-   "sugestao": "Bastidores da semana do último jogo contra o Athletic (14/11): situação de Bergantin e do elenco para 2027, coletiva da semana."
-  },
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-09T14:26-03:00",
-   "motivo": "Cobertura 6h bloco A2: sem notícia confirmada nas últimas 48h de Linense, Velo Clube, Água Santa e Santo André (últimas: reforços do Santo André em 03-04/11, já publicados).",
-   "sugestao": "Santo André: apresentação dos reforços para 2027; Linense: novos reforços para o centenário na A2."
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-09T17:24-03:00",
-   "motivo": "Cobertura 6h (09/11, 17h30): sem notícia nova nas últimas 24h. Clube está sem chance de acesso após derrota para o Avaí (07/11); próximo e último jogo é contra o Athletic em 21/11. Site oficial sem atualização; jornais do ABC sem matéria nova.",
-   "sugestao": "Redação: balanço da 1ª Série B do São Bernardo (campanha, artilheiro, Bergantin) e situação de Bergantin e do elenco para 2027 (renovações, Paulistão 2027), com fala do clube."
-  },
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-09T17:24-03:00",
-   "motivo": "Cobertura 6h bloco A2 (09/11): nenhuma notícia das últimas 48h confirmada para Linense, Velo Clube, Água Santa ou Santo André (último anúncio do Santo André, Sérgio Raphael, é de 04/11, e já há matéria recente de reforços).",
-   "sugestao": "Redação: Linense - reforços anunciados para a Série A2 do centenário (conferir Instagram oficial e Jornal Debate de Lins); Velo Clube - definição do técnico para a A2 2027 (Jornal Cidade de Rio Claro)."
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-09T20:37-03:00",
-   "motivo": "Notícia confirmada (CBF antecipou Ponte x Operário-PR para quinta 12/11, 19h, no Ítalo Limongi, em Indaiatuba; antes sábado 14/11, 16h30, no Majestoso — CBN Campinas, Diário dos Campos e aRede), mas sem foto de jogo utilizável: site da Ponte bloqueado para a Máquina e nenhum vídeo do canal oficial encontrado",
-   "sugestao": "Ponte Preta x Operário-PR antecipado pela CBF para quinta (12/11), às 19h, em Indaiatuba; usar foto de jogo do site oficial da Ponte"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-09T20:37-03:00",
-   "motivo": "Pauta fresca: sub-20 venceu o Corinthians por 1x0 na Fazendinha (ida da semi do Paulista, gol de Luís Gustavo; volta quinta 12/11, 15h, CT de Atibaia — site do clube e Terra), mas a foto do site do clube não pôde ser baixada e conferida; vídeo da FPF só tem arte. Eliminação do feminino já passou de 24h",
-   "sugestao": "Bragantino sub-20 vence o Corinthians fora e joga pelo empate na volta da semifinal do Paulista, quinta (12/11), em Atibaia"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-09T20:37-03:00",
-   "motivo": "Nenhum fato novo nas últimas 24h confirmado em 2 fontes (só análise do DGABC sobre a campanha); última rodada contra o Athletic ainda sem data/horário confirmados em 2 fontes",
-   "sugestao": "Balanço da campanha do São Bernardo na Série B (DGABC 09/11) e serviço do jogo contra o Athletic no Primeiro de Maio"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-09T20:37-03:00",
-   "motivo": "Sem fato novo nas últimas 24h além do acesso e da decisão do título em Criciúma, já publicados no site",
-   "sugestao": "Bastidores da semana do Novorizontino antes da decisão do título contra o Criciúma (treinos, desfalques, torcida)"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-09T23:29-03:00",
-   "motivo": "Sem notícia nova confirmada em 2 fontes nas últimas 24h; só análise do DGABC (09/11) sobre tropeços contra times de baixo, fonte única",
-   "sugestao": "Prévia de São Bernardo x Athletic (sáb 14/11, 16h30, 1º de Maio): reapresentação, desfalques e planos para 2027 com Bergantin"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-09T23:29-03:00",
-   "motivo": "Pausa até 19/11 (Vitória x Bragantino); única novidade é a vaga do Sub-17 na semi do Paulista, sem foto acessível (site do clube não abre para a máquina)",
-   "sugestao": "Bragantino Sub-17 pega o Ibrachina na semi do Paulista; ou cobertura do sorteio do Paulistão 2027 nesta terça"
-  },
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-09T23:29-03:00",
-   "motivo": "Nada novo confirmado em 2 fontes nas últimas 24h; reforços Heron e Gustavo Barreto só na CBN Ribeirão",
-   "sugestao": "Confirmar com o clube Heron (ex-Londrina) e Gustavo Barreto (América-MG) para 2027; prévia de Juventude x Botafogo-SP com Patrick Brey e Morelli suspensos"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Reforços de 05/11 só no Futebol Interior, sem 2ª fonte; sem foto acessível",
-   "sugestao": "Confirmar no Instagram oficial o pacote de reforços (Denis Santos, João Monteiro, Dandan, Bernardo, Giovanni Carignano, Rafinha; renovação de Rafael Gatto) e publicar com foto do clube"
-  },
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Notícia da Copa CCF com 2 fontes, mas sem foto real do clube acessível",
-   "sugestao": "Porto Feliz sedia grupo da Copa CCF em 29/11 (Novorizontino, Bandeirante, DS Sports, Real Soccer), com foto oficial do sub-17"
-  },
   {
    "clube": "gremio-saocarlense",
    "nome": "Grêmio São-Carlense",
@@ -420,6 +308,118 @@
    "quando": "2026-11-10T23:24-03:00",
    "motivo": "Pautas do pauteiro (derrota para o Goiás e antecipação do jogo com o Operário) já publicadas. Única novidade das últimas 24h (votação do orçamento de 2027 no Conselho Deliberativo, 11/11 às 19h) só aparece em textos da mesma agência (AFI: Futebol Interior e Boa Informação); edital oficial não localizado no site do clube.",
    "sugestao": "Resultado da votação do orçamento de 2027 da Ponte Preta no Conselho Deliberativo (11/11, 19h, sede social) e prévia de Ponte Preta x Operário (quinta, 12/11, 19h, Indaiatuba) com treino e provável escalação de Kleina"
+  },
+  {
+   "clube": "america-de-rio-preto",
+   "nome": "América de Rio Preto",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Só o Futebol Interior (10/11) diz que o clube segue sem técnico para a A4 e que Kinho Forgiarini não fica; não achei 2ª fonte. História recente (Teixeirão, 09/11) bloqueia evergreen.",
+   "sugestao": "Confirmar com o diretor Edinan Silveira o técnico da A4 2027 (prometido até o fim de novembro) e a situação de Kinho Forgiarini."
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Futebol Interior (06/11) diz que Kadu Barone 'pode ser oficializado'; sem anúncio oficial nem 2ª fonte.",
+   "sugestao": "Checar com o Barretos o anúncio de Kadu Barone (ex-Inter de Bebedouro) e a lista de reforços com Edson Paulista para a A4 2027."
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Pré-contratos (CBN, 09/11) já usados na matéria da SAF de 10/11; sem fato novo com 2 fontes.",
+   "sugestao": "Quando o Comercial divulgar os nomes dos 10 pré-contratados para a A4, fazer matéria com a lista."
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Reforços de 05/11 já cobertos pelo site (04/11); nada novo.",
+   "sugestao": "Entrevista com o técnico Petterson Martins sobre a montagem do elenco para a A4 2027."
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Nenhuma notícia do futebol do Azulão nos últimos 7 dias (DGABC só traz notícias da cidade).",
+   "sugestao": "Perguntar ao São Caetano quem será o técnico da A4 2027 (Carlos Gonçalves estava na pauta em outubro) e como anda a concessão do Anacleto Campanella."
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Paulista Cup Sub-17: classificado à 2ª fase (já publicado); adversário e datas da nova fase ainda não divulgados.",
+   "sugestao": "Quando sair a tabela da 2ª fase da Paulista Cup Sub-17, matéria com o adversário do Jabuca."
+  },
+  {
+   "clube": "vocem",
+   "nome": "VOCEM",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "independente",
+   "nome": "Independente",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "gremio-saocarlense",
+   "nome": "Grêmio São-Carlense",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "taquaritinga",
+   "nome": "Taquaritinga",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-11T06:55-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
+   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
   }
  ]
 }
