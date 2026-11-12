@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-12T11:38-03:00",
+ "gerado": "2026-11-12T14:31-03:00",
  "avisos": [
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Nenhuma notícia do futebol do Azulão nos últimos 7 dias (DGABC só traz notícias da cidade).",
-   "sugestao": "Perguntar ao São Caetano quem será o técnico da A4 2027 (Carlos Gonçalves estava na pauta em outubro) e como anda a concessão do Anacleto Campanella."
-  },
-  {
-   "clube": "jabaquara",
-   "nome": "Jabaquara",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Paulista Cup Sub-17: classificado à 2ª fase (já publicado); adversário e datas da nova fase ainda não divulgados.",
-   "sugestao": "Quando sair a tabela da 2ª fase da Paulista Cup Sub-17, matéria com o adversário do Jabuca."
-  },
-  {
-   "clube": "vocem",
-   "nome": "VOCEM",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
   {
    "clube": "independente",
    "nome": "Independente",
@@ -420,6 +399,27 @@
    "quando": "2026-11-12T11:38-03:00",
    "motivo": "Cobertura 6h (12/11, 11h40): pauta confirmada (Criciúma x Novorizontino, sábado 14/11 às 16h30 no Heriberto Hülse; empate dá o título; 1.922 ingressos para visitantes segundo o 4oito, empate confirmado também pelo Engeplus), mas sem foto de jogo verificável: miniaturas da TV Novorizontino são artes e o Wikimedia bloqueou o download.",
    "sugestao": "Novorizontino terá 1.922 ingressos no Heriberto Hülse para a decisão do título da Série B (R$ 120/R$ 60, portão 8): fontes 4oito e Engeplus; usar foto de jogo do site oficial do Novorizontino."
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-12T14:31-03:00",
+   "motivo": "Cobertura 6h (12/11, 14h30): pauta confirmada (Ponte Preta x Operário-PR hoje às 19h no Ítalo Mário Limongi, Indaiatuba, última rodada; Vinicius Ferrari e Danilo Barcelos voltam de suspensão; só a vitória evita a pior pontuação da história da Série B), mas sem foto de jogo verificável: site da Ponte e Hora Campinas bloqueados para download e o canal PonTV está parado desde setembro.",
+   "sugestao": "Prévia/resultado de Ponte Preta x Operário-PR (hoje, 19h, Indaiatuba), com foto de jogo da Ponte Press. Fontes: Hora Campinas (horacampinas.com.br/ponte-preta-se-despede-da-temporada-2026-contra-o-operario-nesta-quinta-feira/) e VAVEL/A Rede."
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-12T14:31-03:00",
+   "motivo": "Cobertura 6h (12/11, 14h30): pauta confirmada no site oficial (último treino em Novo Horizonte antes de viajar; falas de Eduardo Brock e Robson, artilheiro da Série B com 17 gols; Criciúma x Novorizontino sábado 14/11, 16h30, Heriberto Hülse), mas sem foto verificável: site do clube bloqueado para download e as miniaturas da TV Novorizontino são artes.",
+   "sugestao": "Robson, artilheiro da Série B com 17 gols, vê título 'muito vivo' contra o Criciúma: usar a matéria oficial (gremionovorizontino.com.br/2026/11/12/novorizontino-faz-ultimo-treino-em-nh-e-segue-para-duelo-que-vale-o-titulo-da-serie-b-contra-o-criciuma/) e o vídeo PRÉ-JOGO (youtube.com/watch?v=xiyNu0m0_0M), com foto do treino de 12/11 (Juan Rodrigues/Novorizontino)."
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-12T14:31-03:00",
+   "motivo": "Cobertura 6h (12/11, 14h30): pauta confirmada (volta da semifinal do Paulista Sub-20 contra o Corinthians hoje às 15h no CPD de Atibaia; Braga venceu a ida por 1 a 0 com gol de Luís Gustavo e joga pelo empate), mas sem foto verificável: site do Red Bull Bragantino bloqueado para leitura e download e só há fotos de jornal (Jogada10) do jogo de ida.",
+   "sugestao": "Resultado da semifinal do Paulista Sub-20 Bragantino x Corinthians (hoje, 15h, Atibaia) com foto oficial do clube (Ari Ferreira/Bruno Sousa/Red Bull Bragantino). Fontes: site oficial do Bragantino, Terra e Central do Timão."
   }
  ]
 }
