@@ -668,6 +668,845 @@
    "atualizado": "2026-11-10T13:34:00-03:00"
   },
   {
+   "id": 91000280,
+   "data": "2026-04-07T21:00:00-03:00",
+   "casa": "barcelona-de-guayaquil",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "estadio": "Monumental Banco Pichincha",
+   "cidade": "Guayaquil",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Matheus Pereira",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/cruzeiro/matheus-pereira-marca-e-cruzeiro-bate-barcelona-na-estreia-da-libertadores/",
+    "https://www.lance.com.br/cruzeiro/matheus-pereira-marca-e-cruzeiro-estreia-com-vitoria-na-libertadores.html"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "César Farías",
+     "time": "Contreras; Carabalí, Rangel, Báez, Sosa; Vallecilla, Lugo, Céliz, Quiñónez; Cano, Benedetto",
+     "entraram": [
+      {
+       "jogador": "Villalba",
+       "saiu": "Sosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mina",
+       "saiu": "Vallecilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Intriago",
+       "saiu": "Céliz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Martínez",
+       "saiu": "Quiñónez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Parrales",
+       "saiu": "Cano",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Céliz",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Matheus Cunha; Fagner, Fabrício Bruno, Jonathan Jesus, Kaiki Bruno; Lucas Silva, Gérson, Matheus Pereira; Christian, Arroyo, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Lucas Villalba",
+       "saiu": "Jonathan Jesus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico da Costa",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kaiki Bruno",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.lance.com.br/cruzeiro/matheus-pereira-marca-e-cruzeiro-estreia-com-vitoria-na-libertadores.html"
+    ],
+    "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000281,
+   "data": "2026-04-15T19:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "universidad-catolica",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Giani",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Jimmy Martínez",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-perde-universidad-catolica-libertadores/",
+    "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-vacila-no-fim-perde-para-a-catolica-no-mineirao-e-se-complica-na-libertadores,3d589509c4428f2bd94e04d6fac0ccd3ibc978tx.html"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00"
+  },
+  {
+   "id": 91000282,
+   "data": "2026-04-28T21:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "boca-juniors",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Villarreal",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-boca-juniors-libertadores-grupo-d/",
+    "https://www.lance.com.br/cruzeiro/cruzeiro-marca-no-fim-vence-boca-juniors-e-respira-na-libertadores.html"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Kaiki Bruno; Lucas Romero, Gérson, Christian, Matheus Pereira; Arroyo, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Kauã Moraes",
+       "saiu": "Fagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Lucas Romero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kaio Jorge",
+        "minuto": ""
+       },
+       {
+        "jogador": "Fagner",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gérson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Claudio Úbeda",
+     "time": "Brey; Weigandt, Di Lollo, Ayrton Costa, Blanco; Paredes, Ascacíbar, Delgado, Aranda; Merentiel, Bareiro",
+     "entraram": [
+      {
+       "jogador": "Figal",
+       "saiu": "Aranda",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zeballos",
+       "saiu": "Merentiel",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Paredes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bareiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Blanco",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ayrton Costa",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Bareiro",
+        "minuto": "45"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-boca-juniors-libertadores-grupo-d/"
+    ],
+    "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000283,
+   "data": "2026-05-06T23:00:00-03:00",
+   "casa": "universidad-catolica",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "estadio": "Claro Arena",
+   "cidade": "Santiago",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-empata-universidad-catolica-libertadores-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/com-um-a-menos-cruzeiro-segura-empate-com-a-catolica-na-libertadores/"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Daniel Garnero",
+     "time": "Bernedo; Arancibia, Ampuero, Juan Díaz, Mena; Jhojan Valencia, Zuqui, Cuevas; Montes, Zampedri, Giani",
+     "entraram": [
+      {
+       "jogador": "Jimmy Martínez",
+       "saiu": "Mena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Medel",
+       "saiu": "Zuqui",
+       "minuto": ""
+      },
+      {
+       "jogador": "Palavecino",
+       "saiu": "Montes",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Giani",
+        "minuto": ""
+       },
+       {
+        "jogador": "Palavecino",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Kaiki Bruno; Lucas Romero, Gérson, Matheus Pereira; Arroyo, Kaio Jorge, Christian",
+     "entraram": [
+      {
+       "jogador": "Kaique Kenji",
+       "saiu": "Lucas Romero",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Marcelo",
+       "saiu": "Christian",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kaiki Bruno",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Romero",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Arroyo",
+        "minuto": "47"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-empata-universidad-catolica-libertadores-2026/"
+    ],
+    "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000284,
+   "data": "2026-05-19T21:30:00-03:00",
+   "casa": "boca-juniors",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "estadio": "La Bombonera",
+   "cidade": "Buenos Aires",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Merentiel",
+     "minuto": "15",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Fagner",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/com-um-a-menos-cruzeiro-empata-contra-o-boca-e-dorme-na-ponta/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-boca-juniors-x-cruzeiro-merentiel-abre-o-placar-e-fagner-empata.html"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Claudio Úbeda",
+     "time": "Brey; Braida, Di Lollo, Ayrton Costa, Blanco; Paredes, Belmonte, Delgado, Aranda; Merentiel, Giménez",
+     "entraram": [
+      {
+       "jogador": "Zeballos",
+       "saiu": "Belmonte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ángel Romero",
+       "saiu": "Giménez",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Ayrton Costa",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zeballos",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Kaiki Bruno; Lucas Romero, Gérson, Christian, Matheus Pereira; Bruno Rodrigues, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Kauã Moraes",
+       "saiu": "Fagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Marcelo",
+       "saiu": "Matheus Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sinisterra",
+       "saiu": "Bruno Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fagner",
+        "minuto": ""
+       },
+       {
+        "jogador": "Villarreal",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Gérson",
+        "minuto": "67"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/com-um-a-menos-cruzeiro-empata-contra-o-boca-e-dorme-na-ponta/"
+    ],
+    "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000285,
+   "data": "2026-05-28T21:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "barcelona-de-guayaquil",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Fase de grupos",
+   "grupo": "D",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 4,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "5",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Christian",
+     "minuto": "52",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Sinisterra",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-classificado-libertadores-goleia-barcelona-equador/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-massacra-barcelona-equ-e-vai-as-oitavas-da-libertadores/"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Kaiki Bruno; Lucas Romero, Matheus Henrique, Christian, Matheus Pereira; Kaio Jorge, Sinisterra",
+     "entraram": [
+      {
+       "jogador": "Lucas Villalba",
+       "saiu": "Kaiki Bruno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Matheus Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Matheus Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arroyo",
+       "saiu": "Sinisterra",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Romero",
+        "minuto": ""
+       },
+       {
+        "jogador": "Fagner",
+        "minuto": ""
+       },
+       {
+        "jogador": "Villarreal",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "César Farías",
+     "time": "Contreras; Carabalí, Báez, Rangel, Lugo; Quiñónez, Céliz, Jandry Gómez; Villalba, Ronald Perlaza, Wila",
+     "entraram": [
+      {
+       "jogador": "Martínez",
+       "saiu": "Quiñónez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sosa",
+       "saiu": "Céliz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Núñez",
+       "saiu": "Villalba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vallecilla",
+       "saiu": "Ronald Perlaza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Montaño",
+       "saiu": "Wila",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Céliz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rangel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Contreras",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-classificado-libertadores-goleia-barcelona-equador/"
+    ],
+    "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000286,
+   "data": "2026-08-12T21:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - ida",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Arroyo",
+     "minuto": "52",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lucas Paquetá",
+     "minuto": "66",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/cruzeiro-flamengo-ida-oitavas-libertadores-12-08-2026/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-e-flamengo-empatam-pelas-oitavas-de-final-da-libertadores"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; William, Fabrício Bruno, Jonathan Jesus, Rojas; Matheus Henrique, Gérson; Arroyo, Wesley, Matheus Pereira; Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Kaique Kenji",
+       "saiu": "Wesley",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Fabrício Bruno",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Emerson Royal, Léo Pereira, Léo Ortiz, Ayrton Lucas; Jorginho, Pulgar; Samuel Lino, Arrascaeta, Plata; Bruno Henrique",
+     "entraram": [
+      {
+       "jogador": "Lucas Paquetá",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Arrascaeta",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/cruzeiro-flamengo-ida-oitavas-libertadores-12-08-2026/"
+    ],
+    "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000287,
+   "data": "2026-08-19T21:30:00-03:00",
+   "casa": "flamengo",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - volta",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Arrascaeta",
+     "minuto": "34",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lucas Romero",
+     "minuto": "51",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Samuel Lino",
+     "minuto": "61",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-cruzeiro-copa-libertadores/",
+    "https://www.lance.com.br/futebol-nacional/com-gols-de-arrascaeta-e-lino-flamengo-vence-cruzeiro-e-avanca-na-libertadores.html"
+   ],
+   "atualizado": "2026-11-12T02:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Emerson Royal, Léo Ortiz, Léo Pereira, Ayrton Lucas; Pulgar, Jorginho, Arrascaeta; Plata, Samuel Lino, Pedro",
+     "entraram": [
+      {
+       "jogador": "Varela",
+       "saiu": "Ayrton Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Paquetá",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carrascal",
+       "saiu": "Plata",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Pedro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; William, Fabrício Bruno, Jonathan Jesus, Rojas; Lucas Romero, Gérson, Matheus Pereira; Wesley, Arroyo, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Fagner",
+       "saiu": "William",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucho",
+       "saiu": "Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Costa",
+       "saiu": "Wesley",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "William",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-cruzeiro-copa-libertadores/"
+    ],
+    "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
    "id": 91000178,
    "data": "2026-10-14T21:30:00-03:00",
    "casa": "fluminense",

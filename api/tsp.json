@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11T22:27:00-03:00",
+ "gerado": "2026-11-12T02:44:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1654,6 +1654,18 @@
   "900072": {
    "chave": "asa",
    "nome": "ASA",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900073": {
+   "chave": "universidad-catolica",
+   "nome": "Universidad Católica",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900074": {
+   "chave": "boca-juniors",
+   "nome": "Boca Juniors",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -7634,17 +7646,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
+    "casa": 56,
     "empate": 28,
-    "fora": 15,
+    "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.37,
+     1.35,
      0.56
     ],
     "base": [
      7,
-     13
+     16
     ]
    },
    "events": []
@@ -7716,16 +7728,16 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 15,
-    "empate": 19,
-    "fora": 66,
+    "casa": 13,
+    "empate": 20,
+    "fora": 67,
     "placar": "0x2",
     "gols_esperados": [
-     0.93,
-     2.19
+     0.77,
+     2.02
     ],
     "base": [
-     9,
+     11,
      9
     ]
    },
@@ -7777,8 +7789,8 @@
     "fora": 52,
     "placar": "0x1",
     "gols_esperados": [
-     0.55,
-     1.19
+     0.56,
+     1.2
     ],
     "base": [
      8,
@@ -7828,17 +7840,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 70,
-    "empate": 18,
-    "fora": 12,
+    "casa": 71,
+    "empate": 19,
+    "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.25,
-     0.79
+     2.1,
+     0.65
     ],
     "base": [
      9,
-     9
+     11
     ]
    },
    "events": []
@@ -7884,16 +7896,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 74,
-    "empate": 16,
-    "fora": 10,
+    "casa": 71,
+    "empate": 17,
+    "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.42,
-     0.77
+     2.35,
+     0.82
     ],
     "base": [
-     9,
+     11,
      21
     ]
    },
@@ -7940,16 +7952,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 32,
-    "empate": 26,
-    "fora": 42,
-    "placar": "1x1",
+    "casa": 29,
+    "empate": 32,
+    "fora": 38,
+    "placar": "0x0",
     "gols_esperados": [
-     1.22,
-     1.45
+     0.84,
+     1.0
     ],
     "base": [
-     7,
+     24,
      11
     ]
    },
@@ -8001,8 +8013,8 @@
     "fora": 49,
     "placar": "1x1",
     "gols_esperados": [
-     1.15,
-     1.65
+     1.17,
+     1.66
     ],
     "base": [
      8,
@@ -8057,8 +8069,8 @@
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.02,
-     1.0
+     2.05,
+     1.01
     ],
     "base": [
      9,
@@ -8109,12 +8121,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 57,
-    "empate": 24,
-    "fora": 20,
+    "empate": 23,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.74,
-     0.91
+     1.77,
+     0.92
     ],
     "base": [
      9,
@@ -8169,8 +8181,8 @@
     "fora": 51,
     "placar": "1x1",
     "gols_esperados": [
-     1.24,
-     1.81
+     1.26,
+     1.83
     ],
     "base": [
      11,
@@ -8221,12 +8233,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 34,
-    "empate": 29,
+    "empate": 28,
     "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
-     1.1,
-     1.16
+     1.12,
+     1.17
     ],
     "base": [
      8,
@@ -8276,17 +8288,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
-    "empate": 29,
-    "fora": 20,
+    "casa": 54,
+    "empate": 27,
+    "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.31,
-     0.71
+     1.4,
+     0.69
     ],
     "base": [
      11,
-     9
+     11
     ]
    },
    "events": []
@@ -8332,13 +8344,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 75,
+    "casa": 76,
     "empate": 17,
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.2,
-     0.55
+     2.23,
+     0.56
     ],
     "base": [
      13,
@@ -8388,17 +8400,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 10,
-    "empate": 14,
-    "fora": 75,
-    "placar": "0x2",
+    "casa": 11,
+    "empate": 22,
+    "fora": 67,
+    "placar": "0x1",
     "gols_esperados": [
-     0.98,
-     2.82
+     0.55,
+     1.75
     ],
     "base": [
-     9,
-     7
+     11,
+     24
     ]
    },
    "events": []
@@ -8446,11 +8458,11 @@
    "previsao": {
     "casa": 67,
     "empate": 18,
-    "fora": 15,
+    "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.31,
-     0.99
+     2.35,
+     1.0
     ],
     "base": [
      21,
@@ -8505,7 +8517,7 @@
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.49,
+     1.51,
      0.75
     ],
     "base": [
@@ -8556,13 +8568,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
+    "casa": 63,
     "empate": 19,
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.28,
-     1.16
+     2.32,
+     1.17
     ],
     "base": [
      11,
@@ -8612,13 +8624,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
-    "empate": 25,
+    "casa": 57,
+    "empate": 24,
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.62,
-     0.83
+     1.65,
+     0.84
     ],
     "base": [
      7,
@@ -8673,8 +8685,8 @@
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.23,
-     0.86
+     1.25,
+     0.87
     ],
     "base": [
      23,
@@ -8729,8 +8741,8 @@
     "fora": 27,
     "placar": "1x0",
     "gols_esperados": [
-     1.22,
-     0.9
+     1.24,
+     0.91
     ],
     "base": [
      8,
@@ -8780,16 +8792,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
+    "casa": 66,
     "empate": 21,
-    "fora": 15,
+    "fora": 14,
     "placar": "1x0",
     "gols_esperados": [
-     1.95,
-     0.8
+     1.99,
+     0.78
     ],
     "base": [
-     13,
+     16,
      8
     ]
    },
@@ -16520,8 +16532,8 @@
     "fora": 40,
     "placar": "0x1",
     "gols_esperados": [
-     0.92,
-     1.11
+     0.93,
+     1.12
     ],
     "base": [
      8,
@@ -16586,13 +16598,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
-    "empate": 21,
+    "casa": 65,
+    "empate": 20,
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.01,
-     0.85
+     2.04,
+     0.86
     ],
     "base": [
      10,
@@ -16656,12 +16668,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
-    "empate": 36,
+    "casa": 55,
+    "empate": 35,
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.01,
+     1.03,
      0.27
     ],
     "base": [
@@ -16728,13 +16740,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 37,
-    "empate": 33,
+    "casa": 38,
+    "empate": 32,
     "fora": 30,
     "placar": "0x0",
     "gols_esperados": [
-     0.98,
-     0.85
+     0.99,
+     0.86
     ],
     "base": [
      15,
@@ -16798,12 +16810,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 57,
-    "empate": 34,
+    "empate": 33,
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.1,
-     0.29
+     1.12,
+     0.3
     ],
     "base": [
      10,
@@ -16868,13 +16880,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 31,
-    "empate": 36,
+    "casa": 32,
+    "empate": 35,
     "fora": 33,
     "placar": "0x0",
     "gols_esperados": [
-     0.77,
-     0.8
+     0.78,
+     0.81
     ],
     "base": [
      19,
@@ -16941,17 +16953,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 30,
-    "empate": 29,
-    "fora": 41,
-    "placar": "0x1",
+    "casa": 36,
+    "empate": 28,
+    "fora": 36,
+    "placar": "1x1",
     "gols_esperados": [
-     0.98,
-     1.21
+     1.18,
+     1.18
     ],
     "base": [
      7,
-     10
+     12
     ]
    },
    "events": []
@@ -17011,12 +17023,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
-    "empate": 21,
+    "casa": 69,
+    "empate": 20,
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.92,
+     1.96,
      0.64
     ],
     "base": [
@@ -17081,11 +17093,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 67,
-    "empate": 20,
+    "empate": 19,
     "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.08,
+     2.11,
      0.82
     ],
     "base": [
@@ -17650,6 +17662,115 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/goias-x-cruzeiro-empate-gol-acrescimos-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-vence-elimina-goias-e-vai-as-oitavas-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000288,
+    "timestamp": 1776895200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "5ª fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900030,
+     "name": "Goiás"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Nicolas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Arroyo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Jonathan Jesus"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+5"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Esli García"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-x-crb-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3758807",
     "https://mais.opovo.com.br/jornal/esportes/2026/05/15/fortaleza-empata-com-crb-avanca-as-oitavas-da-copa-do-brasil-e-ganha-rs-3-milhoes.html"
    ],
@@ -17874,6 +17995,67 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-garante-vaga-oitavas-copa-do-brasil-goias/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-vence-elimina-goias-e-vai-as-oitavas-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000289,
+    "timestamp": 1778632200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "5ª fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -18231,6 +18413,50 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-tem-gol-anulado-e-so-empata-com-a-chape-pela-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-e-chapecoense-empatam-sem-gols-pela-copa-do-brasil-em-chapeco/"
+   ],
+   "fixture": {
+    "id": 91000290,
+    "timestamp": 1785706200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/athletico-pr-bate-vitoria-e-abre-boa-vantagem-nas-oitavas-da-copa-do-brasil/",
     "https://www.terra.com.br/esportes/futebol/athletico-pr-vence-o-vitoria-e-abre-vantagem-nas-oitavas-da-copa-do-brasil,b5c0418458cf2297c3b2c803066faa788cyay7h2.html"
    ],
@@ -18308,6 +18534,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.otempo.com.br/sports/cruzeiro/2026/8/5/matheusinho-e-kaio-jorge-marcam-cruzeiro-vence-a-chapecoense-e-vai-as-quartas-da-copa-do-brasil",
+    "https://www.terra.com.br/esportes/chapecoense/kaio-jorge-decide-cruzeiro-bate-chape-e-avanca-na-copa-do-brasil,2643a4cd7481afe7ecb7b803f895be1cdviov0as.html"
+   ],
+   "fixture": {
+    "id": 91000291,
+    "timestamp": 1785967200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 85,
+      "extra": null,
+      "texto": "85"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/vitoria-atropela-athletico-pr-reverte-placar-da-ida-e-vai-as-quartas-da-copa-do-brasil/",
     "https://www.terra.com.br/esportes/vitoria/noite-de-heroi-no-barradao-vitoria-goleia-o-athletico-e-avanca-na-copa-do-brasil,9a3ee6a276f02522bd169195d628cfc9hbgmb82p.html"
    ],
@@ -18346,6 +18649,176 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/cruzeiro-x-atletico-copa-do-brasil-25-08-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cruzeiro-e-atletico-mg-empatam-em-classico-de-belos-gols/"
+   ],
+   "fixture": {
+    "id": 91000292,
+    "timestamp": 1787702400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Arroyo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Renan Lodi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/atletico-mg/siga-o-tempo-real-de-atletico-mg-x-cruzeiro-pela-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/fred-brilha-atletico-mg-vira-sobre-cruzeiro-e-vai-a-semi-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000293,
+    "timestamp": 1788307200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 77,
+      "extra": null,
+      "texto": "77"
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Victor Hugo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Fred"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -19430,6 +19903,621 @@
      },
      "player": {
       "name": "Celiz"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/cruzeiro/matheus-pereira-marca-e-cruzeiro-bate-barcelona-na-estreia-da-libertadores/",
+    "https://www.lance.com.br/cruzeiro/matheus-pereira-marca-e-cruzeiro-estreia-com-vitoria-na-libertadores.html"
+   ],
+   "fixture": {
+    "id": 91000280,
+    "timestamp": 1775606400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Monumental Banco Pichincha",
+     "city": "Guayaquil"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 1 - Grupo D"
+   },
+   "teams": {
+    "home": {
+     "id": 900056,
+     "name": "Barcelona de Guayaquil"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-perde-universidad-catolica-libertadores/",
+    "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-vacila-no-fim-perde-para-a-catolica-no-mineirao-e-se-complica-na-libertadores,3d589509c4428f2bd94e04d6fac0ccd3ibc978tx.html"
+   ],
+   "fixture": {
+    "id": 91000281,
+    "timestamp": 1776290400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 2 - Grupo D"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900073,
+     "name": "Universidad Católica"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900073,
+      "name": "Universidad Católica"
+     },
+     "player": {
+      "name": "Giani"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900073,
+      "name": "Universidad Católica"
+     },
+     "player": {
+      "name": "Jimmy Martínez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-boca-juniors-libertadores-grupo-d/",
+    "https://www.lance.com.br/cruzeiro/cruzeiro-marca-no-fim-vence-boca-juniors-e-respira-na-libertadores.html"
+   ],
+   "fixture": {
+    "id": 91000282,
+    "timestamp": 1777422600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 3 - Grupo D"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900074,
+     "name": "Boca Juniors"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Villarreal"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-empata-universidad-catolica-libertadores-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/com-um-a-menos-cruzeiro-segura-empate-com-a-catolica-na-libertadores/"
+   ],
+   "fixture": {
+    "id": 91000283,
+    "timestamp": 1778119200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Claro Arena",
+     "city": "Santiago"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 4 - Grupo D"
+   },
+   "teams": {
+    "home": {
+     "id": 900073,
+     "name": "Universidad Católica"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/com-um-a-menos-cruzeiro-empata-contra-o-boca-e-dorme-na-ponta/",
+    "https://www.lance.com.br/futebol-nacional/veja-gols-em-boca-juniors-x-cruzeiro-merentiel-abre-o-placar-e-fagner-empata.html"
+   ],
+   "fixture": {
+    "id": 91000284,
+    "timestamp": 1779237000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "La Bombonera",
+     "city": "Buenos Aires"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 5 - Grupo D"
+   },
+   "teams": {
+    "home": {
+     "id": 900074,
+     "name": "Boca Juniors"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 15,
+      "extra": null,
+      "texto": "15"
+     },
+     "team": {
+      "id": 900074,
+      "name": "Boca Juniors"
+     },
+     "player": {
+      "name": "Merentiel"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Fagner"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-classificado-libertadores-goleia-barcelona-equador/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-massacra-barcelona-equ-e-vai-as-oitavas-da-libertadores/"
+   ],
+   "fixture": {
+    "id": 91000285,
+    "timestamp": 1780014600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 6 - Grupo D"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900056,
+     "name": "Barcelona de Guayaquil"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 5,
+      "extra": null,
+      "texto": "5"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 52,
+      "extra": null,
+      "texto": "52"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Christian"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Sinisterra"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/cruzeiro-flamengo-ida-oitavas-libertadores-12-08-2026/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-08/cruzeiro-e-flamengo-empatam-pelas-oitavas-de-final-da-libertadores"
+   ],
+   "fixture": {
+    "id": 91000286,
+    "timestamp": 1786581000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 52,
+      "extra": null,
+      "texto": "52"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Arroyo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 66,
+      "extra": null,
+      "texto": "66"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Lucas Paquetá"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-cruzeiro-copa-libertadores/",
+    "https://www.lance.com.br/futebol-nacional/com-gols-de-arrascaeta-e-lino-flamengo-vence-cruzeiro-e-avanca-na-libertadores.html"
+   ],
+   "fixture": {
+    "id": 91000287,
+    "timestamp": 1787185800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 34,
+      "extra": null,
+      "texto": "34"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Arrascaeta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Lucas Romero"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -21471,6 +22559,160 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-pouso-alegre-com-gol-de-bruno-rodrigues-e-abre-vantagem-na-semifinal/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/cruzeiro-vence-pouso-alegre-e-abre-vantagem-na-semifinal-do-mineiro/"
+   ],
+   "fixture": {
+    "id": 91000294,
+    "timestamp": 1771709400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Manduzão",
+     "city": "Pouso Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900044,
+     "name": "Pouso Alegre"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 63,
+      "extra": null,
+      "texto": "63"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Lucas Silva"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 75,
+      "extra": null,
+      "texto": "75"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Bruno Rodrigues"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 88,
+      "extra": null,
+      "texto": "88"
+     },
+     "team": {
+      "id": 900044,
+      "name": "Pouso Alegre"
+     },
+     "player": {
+      "name": "Romarinho"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-avanca-final-pouso-alegre/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/cruzeiro-vence-pouso-alegre-e-se-garante-na-final-do-mineiro/"
+   ],
+   "fixture": {
+    "id": 91000295,
+    "timestamp": 1772314200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900044,
+     "name": "Pouso Alegre"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+6"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/?p=3765136",
     "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/nos-penaltis-atletico-mg-vence-o-america-mg-e-esta-na-final-do-mineiro/"
    ],
@@ -21509,6 +22751,67 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "mineiro",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/mineiro/cruzeiro-bate-atletico-mg-impede-hepta-e-quebra-jejum-no-mineiro/",
+    "https://www.lance.com.br/futebol-nacional/e-campeao-cruzeiro-vence-o-atletico-mg-e-conquista-o-campeonato-mineiro.html"
+   ],
+   "fixture": {
+    "id": 91000296,
+    "timestamp": 1773003600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 60,
+      "extra": null,
+      "texto": "60"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "paranaense",
@@ -25126,15 +26429,27 @@
   ],
   "copa_do_brasil": [
    {
-    "jogador": "Mikael",
-    "time": "CRB",
-    "time_id": 900026,
-    "gols": 2
+    "jogador": "Kaio Jorge",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 3
    },
    {
     "jogador": "Renan Lodi",
     "time": "Atlético-MG",
     "time_id": 900006,
+    "gols": 3
+   },
+   {
+    "jogador": "Arroyo",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 2
+   },
+   {
+    "jogador": "Mikael",
+    "time": "CRB",
+    "time_id": 900026,
     "gols": 2
    },
    {
@@ -25204,6 +26519,18 @@
     "gols": 1
    },
    {
+    "jogador": "Esli García",
+    "time": "Goiás",
+    "time_id": 900030,
+    "gols": 1
+   },
+   {
+    "jogador": "Fred",
+    "time": "Atlético-MG",
+    "time_id": 900006,
+    "gols": 1
+   },
+   {
     "jogador": "Gabriel Poveda",
     "time": "Primavera",
     "time_id": 900067,
@@ -25213,6 +26540,12 @@
     "jogador": "Guilherme Pato",
     "time": "CRB",
     "time_id": 900026,
+    "gols": 1
+   },
+   {
+    "jogador": "Jonathan Jesus",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 1
    },
    {
@@ -25246,6 +26579,12 @@
     "gols": 1
    },
    {
+    "jogador": "Matheus Henrique",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Maurício",
     "time": "Palmeiras",
     "time_id": 900002,
@@ -25255,6 +26594,12 @@
     "jogador": "Miritello",
     "time": "Fortaleza",
     "time_id": 900024,
+    "gols": 1
+   },
+   {
+    "jogador": "Nicolas",
+    "time": "Goiás",
+    "time_id": 900030,
     "gols": 1
    },
    {
@@ -25288,6 +26633,12 @@
     "gols": 1
    },
    {
+    "jogador": "Victor Hugo",
+    "time": "Atlético-MG",
+    "time_id": 900006,
+    "gols": 1
+   },
+   {
     "jogador": "Willian José",
     "time": "Bahia",
     "time_id": 900007,
@@ -25308,6 +26659,12 @@
   ],
   "libertadores": [
    {
+    "jogador": "Matheus Pereira",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 4
+   },
+   {
     "jogador": "Willian José",
     "time": "Bahia",
     "time_id": 900007,
@@ -25326,6 +26683,18 @@
     "gols": 1
    },
    {
+    "jogador": "Arrascaeta",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Arroyo",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Baldomar",
     "time": "Nacional Potosí",
     "time_id": 900055,
@@ -25338,9 +26707,21 @@
     "gols": 1
    },
    {
+    "jogador": "Christian",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Danilo",
     "time": "Botafogo",
     "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Fagner",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 1
    },
    {
@@ -25350,15 +26731,63 @@
     "gols": 1
    },
    {
+    "jogador": "Giani",
+    "time": "Universidad Católica",
+    "time_id": 900073,
+    "gols": 1
+   },
+   {
+    "jogador": "Jimmy Martínez",
+    "time": "Universidad Católica",
+    "time_id": 900073,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucas Paquetá",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucas Romero",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Matheus Martins",
     "time": "Botafogo",
     "time_id": 900011,
     "gols": 1
    },
    {
+    "jogador": "Merentiel",
+    "time": "Boca Juniors",
+    "time_id": 900074,
+    "gols": 1
+   },
+   {
+    "jogador": "Samuel Lino",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Sinisterra",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Villalba",
     "time": "Barcelona de Guayaquil",
     "time_id": 900056,
+    "gols": 1
+   },
+   {
+    "jogador": "Villarreal",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 1
    }
   ],
@@ -25488,6 +26917,18 @@
     "gols": 4
    },
    {
+    "jogador": "Kaio Jorge",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 2
+   },
+   {
+    "jogador": "Bruno Rodrigues",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Cesinha",
     "time": "URT",
     "time_id": 900042,
@@ -25518,6 +26959,12 @@
     "gols": 1
    },
    {
+    "jogador": "Lucas Silva",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 1
+   },
+   {
     "jogador": "Luiz Felipe",
     "time": "Athletic",
     "time_id": 900034,
@@ -25545,6 +26992,12 @@
     "jogador": "Renan Lodi",
     "time": "Atlético-MG",
     "time_id": 900006,
+    "gols": 1
+   },
+   {
+    "jogador": "Romarinho",
+    "time": "Pouso Alegre",
+    "time_id": 900044,
     "gols": 1
    },
    {
@@ -26210,6 +27663,48 @@
      "confrontos": [
       {
        "times": [
+        900030,
+        900003
+       ],
+       "nomes": [
+        "Goiás",
+        "Cruzeiro"
+       ],
+       "agregado": [
+        2,
+        3
+       ],
+       "penaltis": null,
+       "vencedor": 900003,
+       "jogos": [
+        {
+         "id": 91000288,
+         "data": "2026-04-22T19:00",
+         "casa": 900030,
+         "fora": 900003,
+         "gc": 2,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "",
+         "cidade": "Goiânia"
+        },
+        {
+         "id": 91000289,
+         "data": "2026-05-12T21:30",
+         "casa": 900003,
+         "fora": 900030,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mineirão",
+         "cidade": "Belo Horizonte"
+        }
+       ]
+      },
+      {
+       "times": [
         900024,
         900026
        ],
@@ -26302,6 +27797,48 @@
      "confrontos": [
       {
        "times": [
+        900020,
+        900003
+       ],
+       "nomes": [
+        "Chapecoense",
+        "Cruzeiro"
+       ],
+       "agregado": [
+        0,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900003,
+       "jogos": [
+        {
+         "id": 91000290,
+         "data": "2026-08-02T18:30",
+         "casa": 900020,
+         "fora": 900003,
+         "gc": 0,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena Condá",
+         "cidade": "Chapecó"
+        },
+        {
+         "id": 91000291,
+         "data": "2026-08-05T19:00",
+         "casa": 900003,
+         "fora": 900020,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mineirão",
+         "cidade": "Belo Horizonte"
+        }
+       ]
+      },
+      {
+       "times": [
         900004,
         900014
        ],
@@ -26339,6 +27876,53 @@
          "status": "encerrado",
          "estadio": "Barradão",
          "cidade": "Salvador"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Quartas de final",
+     "confrontos": [
+      {
+       "times": [
+        900003,
+        900006
+       ],
+       "nomes": [
+        "Cruzeiro",
+        "Atlético-MG"
+       ],
+       "agregado": [
+        2,
+        3
+       ],
+       "penaltis": null,
+       "vencedor": 900006,
+       "jogos": [
+        {
+         "id": 91000292,
+         "data": "2026-08-25T21:00",
+         "casa": 900003,
+         "fora": 900006,
+         "gc": 1,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mineirão",
+         "cidade": "Belo Horizonte"
+        },
+        {
+         "id": 91000293,
+         "data": "2026-09-01T21:00",
+         "casa": 900006,
+         "fora": 900003,
+         "gc": 2,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena MRV",
+         "cidade": "Belo Horizonte"
         }
        ]
       }
@@ -26606,6 +28190,184 @@
          "pen": "",
          "status": "encerrado",
          "estadio": "Nilton Santos",
+         "cidade": "Rio de Janeiro"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Fase de grupos",
+     "confrontos": [
+      {
+       "times": [
+        900056,
+        900003
+       ],
+       "nomes": [
+        "Barcelona de Guayaquil",
+        "Cruzeiro"
+       ],
+       "agregado": [
+        0,
+        5
+       ],
+       "penaltis": null,
+       "vencedor": 900003,
+       "jogos": [
+        {
+         "id": 91000280,
+         "data": "2026-04-07T21:00",
+         "casa": 900056,
+         "fora": 900003,
+         "gc": 0,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Monumental Banco Pichincha",
+         "cidade": "Guayaquil"
+        },
+        {
+         "id": 91000285,
+         "data": "2026-05-28T21:30",
+         "casa": 900003,
+         "fora": 900056,
+         "gc": 4,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mineirão",
+         "cidade": "Belo Horizonte"
+        }
+       ]
+      },
+      {
+       "times": [
+        900003,
+        900073
+       ],
+       "nomes": [
+        "Cruzeiro",
+        "Universidad Católica"
+       ],
+       "agregado": [
+        1,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900073,
+       "jogos": [
+        {
+         "id": 91000281,
+         "data": "2026-04-15T19:00",
+         "casa": 900003,
+         "fora": 900073,
+         "gc": 1,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mineirão",
+         "cidade": "Belo Horizonte"
+        },
+        {
+         "id": 91000283,
+         "data": "2026-05-06T23:00",
+         "casa": 900073,
+         "fora": 900003,
+         "gc": 0,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Claro Arena",
+         "cidade": "Santiago"
+        }
+       ]
+      },
+      {
+       "times": [
+        900003,
+        900074
+       ],
+       "nomes": [
+        "Cruzeiro",
+        "Boca Juniors"
+       ],
+       "agregado": [
+        2,
+        1
+       ],
+       "penaltis": null,
+       "vencedor": 900003,
+       "jogos": [
+        {
+         "id": 91000282,
+         "data": "2026-04-28T21:30",
+         "casa": 900003,
+         "fora": 900074,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mineirão",
+         "cidade": "Belo Horizonte"
+        },
+        {
+         "id": 91000284,
+         "data": "2026-05-19T21:30",
+         "casa": 900074,
+         "fora": 900003,
+         "gc": 1,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "La Bombonera",
+         "cidade": "Buenos Aires"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "nome": "Oitavas de final",
+     "confrontos": [
+      {
+       "times": [
+        900003,
+        900001
+       ],
+       "nomes": [
+        "Cruzeiro",
+        "Flamengo"
+       ],
+       "agregado": [
+        2,
+        3
+       ],
+       "penaltis": null,
+       "vencedor": 900001,
+       "jogos": [
+        {
+         "id": 91000286,
+         "data": "2026-08-12T21:30",
+         "casa": 900003,
+         "fora": 900001,
+         "gc": 1,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Mineirão",
+         "cidade": "Belo Horizonte"
+        },
+        {
+         "id": 91000287,
+         "data": "2026-08-19T21:30",
+         "casa": 900001,
+         "fora": 900003,
+         "gc": 2,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Maracanã",
          "cidade": "Rio de Janeiro"
         }
        ]

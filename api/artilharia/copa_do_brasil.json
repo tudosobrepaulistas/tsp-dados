@@ -1,14 +1,26 @@
 [
  {
-  "jogador": "Mikael",
-  "time": "CRB",
-  "time_id": 900026,
-  "gols": 2
+  "jogador": "Kaio Jorge",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 3
  },
  {
   "jogador": "Renan Lodi",
   "time": "Atlético-MG",
   "time_id": 900006,
+  "gols": 3
+ },
+ {
+  "jogador": "Arroyo",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 2
+ },
+ {
+  "jogador": "Mikael",
+  "time": "CRB",
+  "time_id": 900026,
   "gols": 2
  },
  {
@@ -78,6 +90,18 @@
   "gols": 1
  },
  {
+  "jogador": "Esli García",
+  "time": "Goiás",
+  "time_id": 900030,
+  "gols": 1
+ },
+ {
+  "jogador": "Fred",
+  "time": "Atlético-MG",
+  "time_id": 900006,
+  "gols": 1
+ },
+ {
   "jogador": "Gabriel Poveda",
   "time": "Primavera",
   "time_id": 900067,
@@ -87,6 +111,12 @@
   "jogador": "Guilherme Pato",
   "time": "CRB",
   "time_id": 900026,
+  "gols": 1
+ },
+ {
+  "jogador": "Jonathan Jesus",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {
@@ -120,6 +150,12 @@
   "gols": 1
  },
  {
+  "jogador": "Matheus Henrique",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Maurício",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -129,6 +165,12 @@
   "jogador": "Miritello",
   "time": "Fortaleza",
   "time_id": 900024,
+  "gols": 1
+ },
+ {
+  "jogador": "Nicolas",
+  "time": "Goiás",
+  "time_id": 900030,
   "gols": 1
  },
  {
@@ -159,6 +201,12 @@
   "jogador": "Tchamba",
   "time": "Remo",
   "time_id": 900019,
+  "gols": 1
+ },
+ {
+  "jogador": "Victor Hugo",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  },
  {

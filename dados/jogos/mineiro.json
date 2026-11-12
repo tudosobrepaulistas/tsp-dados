@@ -494,6 +494,168 @@
    "atualizado": "2026-11-09T13:34:00-03:00"
   },
   {
+   "id": 91000294,
+   "data": "2026-02-21T18:30:00-03:00",
+   "casa": "pouso-alegre",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Manduzão",
+   "cidade": "Pouso Alegre",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Lucas Silva",
+     "minuto": "63",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bruno Rodrigues",
+     "minuto": "75",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Romarinho",
+     "minuto": "88",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-pouso-alegre-com-gol-de-bruno-rodrigues-e-abre-vantagem-na-semifinal/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/cruzeiro-vence-pouso-alegre-e-abre-vantagem-na-semifinal-do-mineiro/"
+   ],
+   "atualizado": "2026-11-12T02:44:00-03:00"
+  },
+  {
+   "id": 91000295,
+   "data": "2026-02-28T18:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "pouso-alegre",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Kaio Jorge",
+     "minuto": "90+6",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-avanca-final-pouso-alegre/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/cruzeiro-vence-pouso-alegre-e-se-garante-na-final-do-mineiro/"
+   ],
+   "atualizado": "2026-11-12T02:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Tite",
+     "time": "Cássio; William, Fabrício Bruno, Lucas Villalba, Kaiki Bruno; Lucas Romero, Lucas Silva, Gérson, Christian; Matheus Pereira, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Lucas Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arroyo",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Christian",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Cunha",
+       "saiu": "Cássio",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Arroyo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Danilo",
+     "time": "Thiago Braga; Vitão, Xandão, Vanderley; Matheus Nunes, Alexandre Pena, Romarinho, Pedro Arthur; Gabriel Tota, Thiago Rubim, De Paula",
+     "entraram": [
+      {
+       "jogador": "Ryan",
+       "saiu": "Alexandre Pena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel",
+       "saiu": "Pedro Arthur",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Anderson",
+       "saiu": "Gabriel Tota",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcelo Cauã",
+       "saiu": "Thiago Rubim",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Palafoz",
+       "saiu": "De Paula",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "André Anderson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Nunes",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-avanca-final-pouso-alegre/"
+    ],
+    "atualizado": "2026-11-12T02:44:00-03:00"
+   }
+  },
+  {
    "id": 91000186,
    "data": "2026-03-01T18:00:00-03:00",
    "casa": "america-mg",
@@ -515,6 +677,137 @@
     "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-mineiro/nos-penaltis-atletico-mg-vence-o-america-mg-e-esta-na-final-do-mineiro/"
    ],
    "atualizado": "2026-11-09T05:39:00-03:00"
+  },
+  {
+   "id": 91000296,
+   "data": "2026-03-08T18:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Kaio Jorge",
+     "minuto": "60",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/mineiro/cruzeiro-bate-atletico-mg-impede-hepta-e-quebra-jejum-no-mineiro/",
+    "https://www.lance.com.br/futebol-nacional/e-campeao-cruzeiro-vence-o-atletico-mg-e-conquista-o-campeonato-mineiro.html"
+   ],
+   "atualizado": "2026-11-12T02:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Tite",
+     "time": "Cássio; William, Fabrício Bruno, Lucas Villalba, Kaiki Bruno; Lucas Romero, Lucas Silva, Gérson, Christian, Matheus Pereira; Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Lucas Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kaiki Bruno",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Pereira",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Villalba",
+        "minuto": ""
+       },
+       {
+        "jogador": "William",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Natanael, Ruan Tressoldi, Vitor Hugo, Renan Lodi; Alan Franco, Cissé, Victor Hugo, Bernard, Dudu, Hulk",
+     "entraram": [
+      {
+       "jogador": "Preciado",
+       "saiu": "Natanael",
+       "minuto": ""
+      },
+      {
+       "jogador": "Igor Gomes",
+       "saiu": "Cissé",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Scarpa",
+       "saiu": "Igor Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Minda",
+       "saiu": "Victor Hugo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cassierra",
+       "saiu": "Bernard",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vitor Hugo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ruan Tressoldi",
+        "minuto": ""
+       },
+       {
+        "jogador": "Natanael",
+        "minuto": ""
+       },
+       {
+        "jogador": "Renan Lodi",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.lance.com.br/futebol-nacional/e-campeao-cruzeiro-vence-o-atletico-mg-e-conquista-o-campeonato-mineiro.html",
+     "https://www.gazetaesportiva.com/campeonatos/mineiro/cruzeiro-bate-atletico-mg-impede-hepta-e-quebra-jejum-no-mineiro/"
+    ],
+    "atualizado": "2026-11-12T02:44:00-03:00"
+   }
   }
  ]
 }

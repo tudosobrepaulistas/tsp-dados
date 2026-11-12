@@ -6,6 +6,18 @@
   "gols": 4
  },
  {
+  "jogador": "Kaio Jorge",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 2
+ },
+ {
+  "jogador": "Bruno Rodrigues",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Cesinha",
   "time": "URT",
   "time_id": 900042,
@@ -36,6 +48,12 @@
   "gols": 1
  },
  {
+  "jogador": "Lucas Silva",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Luiz Felipe",
   "time": "Athletic",
   "time_id": 900034,
@@ -63,6 +81,12 @@
   "jogador": "Renan Lodi",
   "time": "Atlético-MG",
   "time_id": 900006,
+  "gols": 1
+ },
+ {
+  "jogador": "Romarinho",
+  "time": "Pouso Alegre",
+  "time_id": 900044,
   "gols": 1
  },
  {

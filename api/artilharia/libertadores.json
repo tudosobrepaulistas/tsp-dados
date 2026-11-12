@@ -1,5 +1,11 @@
 [
  {
+  "jogador": "Matheus Pereira",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 4
+ },
+ {
   "jogador": "Willian José",
   "time": "Bahia",
   "time_id": 900007,
@@ -18,6 +24,18 @@
   "gols": 1
  },
  {
+  "jogador": "Arrascaeta",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 1
+ },
+ {
+  "jogador": "Arroyo",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Baldomar",
   "time": "Nacional Potosí",
   "time_id": 900055,
@@ -30,9 +48,21 @@
   "gols": 1
  },
  {
+  "jogador": "Christian",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Danilo",
   "time": "Botafogo",
   "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Fagner",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {
@@ -42,15 +72,63 @@
   "gols": 1
  },
  {
+  "jogador": "Giani",
+  "time": "Universidad Católica",
+  "time_id": 900073,
+  "gols": 1
+ },
+ {
+  "jogador": "Jimmy Martínez",
+  "time": "Universidad Católica",
+  "time_id": 900073,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucas Paquetá",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucas Romero",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Matheus Martins",
   "time": "Botafogo",
   "time_id": 900011,
   "gols": 1
  },
  {
+  "jogador": "Merentiel",
+  "time": "Boca Juniors",
+  "time_id": 900074,
+  "gols": 1
+ },
+ {
+  "jogador": "Samuel Lino",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 1
+ },
+ {
+  "jogador": "Sinisterra",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
   "jogador": "Villalba",
   "time": "Barcelona de Guayaquil",
   "time_id": 900056,
+  "gols": 1
+ },
+ {
+  "jogador": "Villarreal",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  }
 ]

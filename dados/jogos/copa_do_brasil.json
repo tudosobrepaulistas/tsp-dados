@@ -535,6 +535,152 @@
    }
   },
   {
+   "id": 91000288,
+   "data": "2026-04-22T19:00:00-03:00",
+   "casa": "goias",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "5ª fase - ida",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Nicolas",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Arroyo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Jonathan Jesus",
+     "minuto": "76",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Esli García",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/todas-as-noticias/goias-x-cruzeiro-empate-gol-acrescimos-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-vence-elimina-goias-e-vai-as-oitavas-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-12T02:42:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Daniel Paulista",
+     "time": "Tadeu; Rodrigo Soares, Luis Fellipe, Lucas Ribeiro, Nicolas; Filipe Machado, Lucas Lima, Lourenço; Jean Carlos, Lucas Rodrigues, Anselmo Ramon",
+     "entraram": [
+      {
+       "jogador": "Esli García",
+       "saiu": "Filipe Machado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedrinho",
+       "saiu": "Lourenço",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gegê",
+       "saiu": "Lucas Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Sávio",
+       "saiu": "Anselmo Ramon",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jean Carlos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Ribeiro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Kauã Moraes, Fabrício Bruno, Jonathan Jesus, Kaiki Bruno; Lucas Romero, Lucas Silva, Matheus Pereira; Christian, Kaio Jorge, Arroyo",
+     "entraram": [
+      {
+       "jogador": "Kauã Prates",
+       "saiu": "Kaiki Bruno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Lucas Romero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kaique Kenji",
+       "saiu": "Christian",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sinisterra",
+       "saiu": "Arroyo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kauã Moraes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Jonathan Jesus",
+        "minuto": ""
+       },
+       {
+        "jogador": "Otávio",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/todas-as-noticias/goias-x-cruzeiro-empate-gol-acrescimos-copa-do-brasil/"
+    ],
+    "atualizado": "2026-11-12T02:42:00-03:00"
+   }
+  },
+  {
    "id": 91000262,
    "data": "2026-04-22T20:30:00-03:00",
    "casa": "fortaleza",
@@ -745,6 +891,125 @@
      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/athletico-pr-tropeca-em-casa-e-empata-com-o-atletico-go-pela-copa-do-brasil/"
     ],
     "atualizado": "2026-11-09T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000289,
+   "data": "2026-05-12T21:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "goias",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "5ª fase - volta",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Kaio Jorge",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-garante-vaga-oitavas-copa-do-brasil-goias/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-vence-elimina-goias-e-vai-as-oitavas-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-12T02:42:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Kauã Moraes, Fabrício Bruno, Jonathan Jesus, Kaiki Bruno; Lucas Romero, Gérson, Matheus Pereira; Arroyo, Kaio Jorge, Kaique Kenji",
+     "entraram": [
+      {
+       "jogador": "Marquinhos",
+       "saiu": "Matheus Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sinisterra",
+       "saiu": "Kaique Kenji",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Romero",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Daniel Paulista",
+     "time": "Tadeu; Rodrigo Soares, Ramon Menezes, Lucas Ribeiro, Nicolas; Filipe Machado, Lucas Rodrigues, Lucas Lima, Gegê; Kadu Sousa, Jean Carlos",
+     "entraram": [
+      {
+       "jogador": "Diego Caito",
+       "saiu": "Rodrigo Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Anselmo Ramon",
+       "saiu": "Lucas Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lourenço",
+       "saiu": "Gegê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Sávio",
+       "saiu": "Kadu Sousa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Esli García",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Lima",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bruno Sávio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lourenço",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-garante-vaga-oitavas-copa-do-brasil-goias/"
+    ],
+    "atualizado": "2026-11-12T02:42:00-03:00"
    }
   },
   {
@@ -1160,6 +1425,105 @@
    }
   },
   {
+   "id": 91000290,
+   "data": "2026-08-02T18:30:00-03:00",
+   "casa": "chapecoense",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - ida",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-tem-gol-anulado-e-so-empata-com-a-chape-pela-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-e-chapecoense-empatam-sem-gols-pela-copa-do-brasil-em-chapeco/"
+   ],
+   "atualizado": "2026-11-12T02:42:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Bruno Tubarão, Eduardo Doma, Rafael Thyere, Bruno Pacheco; Camilo, Fernando, Max Alves, Giovanni Augusto; Marcinho, Bolasie",
+     "entraram": [
+      {
+       "jogador": "David Antunes",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Matias",
+       "saiu": "Max Alves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ênio",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rubens Tadeu",
+       "saiu": "Marcinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Pessoa",
+       "saiu": "Bolasie",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Lucas Villalba; Lucas Romero, Gérson, Matheus Pereira; Kaique Kenji, Arroyo, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "William",
+       "saiu": "Fagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rojas",
+       "saiu": "Lucas Villalba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Matheus Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Morais",
+       "saiu": "Kaique Kenji",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-tem-gol-anulado-e-so-empata-com-a-chape-pela-copa-do-brasil/"
+    ],
+    "atualizado": "2026-11-12T02:42:00-03:00"
+   }
+  },
+  {
    "id": 91000207,
    "data": "2026-08-03T21:00:00-03:00",
    "casa": "athletico-pr",
@@ -1196,6 +1560,144 @@
    "atualizado": "2026-11-09T18:37:00-03:00"
   },
   {
+   "id": 91000291,
+   "data": "2026-08-05T19:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "chapecoense",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - volta",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Henrique",
+     "minuto": "45",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kaio Jorge",
+     "minuto": "85",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.otempo.com.br/sports/cruzeiro/2026/8/5/matheusinho-e-kaio-jorge-marcam-cruzeiro-vence-a-chapecoense-e-vai-as-quartas-da-copa-do-brasil",
+    "https://www.terra.com.br/esportes/chapecoense/kaio-jorge-decide-cruzeiro-bate-chape-e-avanca-na-copa-do-brasil,2643a4cd7481afe7ecb7b803f895be1cdviov0as.html"
+   ],
+   "atualizado": "2026-11-12T02:42:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; William, Fabrício Bruno, João Marcelo, Rojas; Matheus Henrique, Gérson, Matheus Pereira; Arroyo, Kaique Kenji, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Lucas Villalba",
+       "saiu": "Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Romero",
+       "saiu": "Matheus Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marquinhos",
+       "saiu": "Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Morais",
+       "saiu": "Kaique Kenji",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rojas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kaio Jorge",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Bruno Tubarão, Eduardo Doma, Rafael Thyere, Bruno Pacheco; Camilo, Max Alves, Giovanni Augusto, Fernando; Marcinho, Rubens",
+     "entraram": [
+      {
+       "jogador": "Bruno Matias",
+       "saiu": "Bruno Tubarão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ênio",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tulio",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Anderson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Camilo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marcinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Eduardo Doma",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Max Alves",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.otempo.com.br/sports/cruzeiro/2026/8/5/matheusinho-e-kaio-jorge-marcam-cruzeiro-vence-a-chapecoense-e-vai-as-quartas-da-copa-do-brasil"
+    ],
+    "atualizado": "2026-11-12T02:42:00-03:00"
+   }
+  },
+  {
    "id": 91000208,
    "data": "2026-08-06T20:00:00-03:00",
    "casa": "vitoria",
@@ -1217,6 +1719,291 @@
     "https://www.terra.com.br/esportes/vitoria/noite-de-heroi-no-barradao-vitoria-goleia-o-athletico-e-avanca-na-copa-do-brasil,9a3ee6a276f02522bd169195d628cfc9hbgmb82p.html"
    ],
    "atualizado": "2026-11-09T18:37:00-03:00"
+  },
+  {
+   "id": 91000292,
+   "data": "2026-08-25T21:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final - ida",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Arroyo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Renan Lodi",
+     "minuto": "70",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/cruzeiro-x-atletico-copa-do-brasil-25-08-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cruzeiro-e-atletico-mg-empatam-em-classico-de-belos-gols/"
+   ],
+   "atualizado": "2026-11-12T02:43:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Lucas Villalba; Gérson, Lucas Romero, Matheus Pereira; Arroyo, Wesley, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "William",
+       "saiu": "Fagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Marcelo",
+       "saiu": "Jonathan Jesus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Costa",
+       "saiu": "Wesley",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Pereira",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Alan Franco, Ruan Tressoldi, Vitor Hugo, Renan Lodi; Maycon, Kevin Castaño, Fred; Cuello, Bernard, Cassierra",
+     "entraram": [
+      {
+       "jogador": "Natanael",
+       "saiu": "Maycon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitão",
+       "saiu": "Ruan Tressoldi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Preciado",
+       "saiu": "Cuello",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Minda",
+       "saiu": "Bernard",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cissé",
+       "saiu": "Fred",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Borbas",
+       "saiu": "Cassierra",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alan Franco",
+        "minuto": ""
+       },
+       {
+        "jogador": "Cuello",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/cruzeiro-x-atletico-copa-do-brasil-25-08-2026/"
+    ],
+    "atualizado": "2026-11-12T02:43:00-03:00"
+   }
+  },
+  {
+   "id": 91000293,
+   "data": "2026-09-01T21:00:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final - volta",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Kaio Jorge",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Victor Hugo",
+     "minuto": "77",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Fred",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/atletico-mg/siga-o-tempo-real-de-atletico-mg-x-cruzeiro-pela-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/fred-brilha-atletico-mg-vira-sobre-cruzeiro-e-vai-a-semi-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-12T02:43:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Natanael, Ruan Tressoldi, Vitor Hugo, Renan Lodi; Alan Franco, Kevin Castaño, Fred; Cuello, Bernard, Cassierra",
+     "entraram": [
+      {
+       "jogador": "Gustavo Scarpa",
+       "saiu": "Natanael",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitão",
+       "saiu": "Ruan Tressoldi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Minda",
+       "saiu": "Alan Franco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Hugo",
+       "saiu": "Bernard",
+       "minuto": ""
+      },
+      {
+       "jogador": "Reinier",
+       "saiu": "Cassierra",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Natanael",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Lucas Villalba; Gérson, Lucas Romero, Matheus Pereira; Arroyo, Wesley, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "João Marcelo",
+       "saiu": "Jonathan Jesus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Gérson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rojas",
+       "saiu": "Matheus Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kaique Kenji",
+       "saiu": "Wesley",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Otávio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kaio Jorge",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Villalba",
+        "minuto": ""
+       },
+       {
+        "jogador": "Arroyo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Romero",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Lucas Villalba",
+        "minuto": "60"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/atletico-mg/siga-o-tempo-real-de-atletico-mg-x-cruzeiro-pela-copa-do-brasil/"
+    ],
+    "atualizado": "2026-11-12T02:43:00-03:00"
+   }
   },
   {
    "id": 91000130,
