@@ -383,7 +383,12 @@
     "https://tvjaguari.com.br",
     "https://www.diariodepaulinia.com.br"
    ],
-   "grupo": "sem_divisao"
+   "grupo": "sem_divisao",
+   "youtube": {
+    "id": "UC_cjJ-kqayUK3Eef3PkRVyg",
+    "nome": "TV SCP - SPORTING C PAULINENSE",
+    "url": "https://www.youtube.com/@tvscp"
+   }
   },
   {
    "slug": "paulinia",
