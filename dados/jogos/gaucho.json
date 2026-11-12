@@ -1,0 +1,827 @@
+{
+ "competicao": "gaucho",
+ "jogos": [
+  {
+   "id": 91000297,
+   "data": "2026-01-11T18:00:00-03:00",
+   "casa": "internacional",
+   "fora": "novo-hamburgo",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Allison",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "João Marcus",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Diego Coser",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/internacional-vence-novo-hamburgo-pelo-gauchao-em-jogo-marcado-por-golaco",
+    "https://www.terra.com.br/esportes/internacional/de-virada-internacional-vence-o-novo-hamburgo-na-estreia-pelo-gauchao,552e8ac39d0d7f9dc35167b6bb0addfegwpip5kl.html"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000298,
+   "data": "2026-01-15T19:00:00-03:00",
+   "casa": "monsoon",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Francisco Novelletto Neto",
+   "cidade": "",
+   "gols_casa": 0,
+   "gols_fora": 4,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "João Victor",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Borré",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Borré",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Allex",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/gaucho/inter-goleia-monsoon-e-emplaca-a-segunda-vitoria-no-gaucho/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/borre-encerra-jejum-internacional-goleia-monsoon-e-segue-100-no-gauchao"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000299,
+   "data": "2026-01-18T18:00:00-03:00",
+   "casa": "ypiranga-rs",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Colosso da Lagoa",
+   "cidade": "Erechim",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Bruno Henrique",
+     "minuto": "16",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Nicolas Schulz",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Renan Gorne",
+     "minuto": "90+3",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/inter-toma-virada-do-ypiranga-nos-acrescimos-e-perde-a-primeira-pelo-gaucho/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-gaucho/internacional-sofre-virada-e-perde-para-o-ypiranga-no-gaucho/"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000300,
+   "data": "2026-01-21T19:00:00-03:00",
+   "casa": "internacional",
+   "fora": "inter-de-santa-maria",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Alan Patrick",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Félix Torres",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/felix-torres-marca-na-estreia-e-internacional-bate-inter-sm-pelo-campeonato-gaucho",
+    "https://www.terra.com.br/esportes/com-gols-de-alan-patrick-e-felix-torres-inter-faz-2-a-0-no-inter-sm,b505b69e37d735959c45dce483e2e4d67ol4odmt.html"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000301,
+   "data": "2026-01-25T20:00:00-03:00",
+   "casa": "internacional",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 4,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Amuzu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marcos Rocha",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Edenilson",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Borré",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Borré",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bernabei",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3753386",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/borre-brilha-marca-dois-gols-e-comanda-virada-do-inter-contra-o-gremio-pelo-gauchao/"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Rochet; Bruno Gomes, Gabriel Mercado, Victor Gabriel, Bernabei; Ronaldo, Paulinho Paula, Vitinho, Alan Patrick, Carbonero; Borré",
+     "entraram": [
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Ronaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villagra",
+       "saiu": "Paulinho Paula",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Tabata",
+       "saiu": "Alan Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allex",
+       "saiu": "Carbonero",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Bezerra",
+       "saiu": "Borré",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rochet",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vitinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Luís Castro",
+     "time": "Weverton; Marcos Rocha, Noriega, Wagner Leonardo, Marlon; Arthur, Tiaguinho, Tetê, Cristaldo, Amuzu; Carlos Vinícius",
+     "entraram": [
+      {
+       "jogador": "Willian",
+       "saiu": "Arthur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dodi",
+       "saiu": "Tiaguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Henrique",
+       "saiu": "Tetê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edenilson",
+       "saiu": "Cristaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enamorado",
+       "saiu": "Amuzu",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/borre-brilha-marca-dois-gols-e-comanda-virada-do-inter-contra-o-gremio-pelo-gauchao/"
+    ],
+    "atualizado": "2026-11-12T05:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000302,
+   "data": "2026-01-31T16:30:00-03:00",
+   "casa": "caxias",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Centenário",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Prado",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/internacional/internacional-vence-caxias-e-garante-melhor-campanha-do-gauchao.html",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-vence-caxias-com-time-de-garotos-e-se-classifica-com-lider-do-grupo-no-gauchao/"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Marchiori",
+     "time": "Léo Lang; Ronei, Andrés Robles, Maurício, Roberto; Wellington Reis, Dudu Vieira, Tomas Bastos; Calyson, Douglas Skilo, Jeam",
+     "entraram": [
+      {
+       "jogador": "Victor Sá",
+       "saiu": "Roberto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhonatan Ribeiro",
+       "saiu": "Wellington Reis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joílson",
+       "saiu": "Calyson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Andrew",
+       "saiu": "Douglas Skilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Nescau",
+       "saiu": "Jeam",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Douglas Skilo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wellington Reis",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Maurício",
+        "minuto": "17"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Anthoni; Aguirre, Clayton Sampaio, Juninho, Alisson; Denis, Villagra, Bruno Tabata; João Victor, João Bezerra, Allex",
+     "entraram": [
+      {
+       "jogador": "Pablo",
+       "saiu": "Alisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Maia",
+       "saiu": "Denis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Alves",
+       "saiu": "Villagra",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Kempes",
+       "saiu": "Bruno Tabata",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Prado",
+       "saiu": "João Victor",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alisson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Clayton Sampaio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Denis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Thiago Maia",
+        "minuto": ""
+       },
+       {
+        "jogador": "Villagra",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.lance.com.br/internacional/internacional-vence-caxias-e-garante-melhor-campanha-do-gauchao.html"
+    ],
+    "atualizado": "2026-11-12T05:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000303,
+   "data": "2026-02-08T18:00:00-03:00",
+   "casa": "internacional",
+   "fora": "sao-luiz",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Aguirre",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Felipe Rangel",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bernabei",
+     "minuto": "61",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitinho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3757973",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-bate-sao-luiz-com-direito-a-golaco-e-avanca-a-semifinal-do-gauchao"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000304,
+   "data": "2026-02-15T20:30:00-03:00",
+   "casa": "ypiranga-rs",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Colosso da Lagoa",
+   "cidade": "Erechim",
+   "gols_casa": 0,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Aguirre",
+     "minuto": "2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Thiago Maia",
+     "minuto": "35",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Zé Carlos",
+     "minuto": "77",
+     "tipo": "contra"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3760486",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-goleia-ypiranga-quebra-tabu-historico-e-sai-em-vantagem-na-semi-do-gauchao"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Raul Cabral",
+     "time": "Zé Carlos; Cleiton, Walce, Willian Gomes, Nicolas Schulz; Igor Silva, Dionísio, Felipe Ferreira, Lucas Ramos, Danielzinho; Gustavo Simões",
+     "entraram": [
+      {
+       "jogador": "Zé Adilson",
+       "saiu": "Igor Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Vinicius",
+       "saiu": "Dionísio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcelinho",
+       "saiu": "Felipe Ferreira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renan Gorne",
+       "saiu": "Lucas Ramos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Adilson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marcelinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Anthoni; Aguirre, Félix Torres, Juninho, Bernabei; Bruno Henrique, Thiago Maia, Alan Rodríguez, Allex, Bruno Tabata; Alerrandro",
+     "entraram": [
+      {
+       "jogador": "Bruno Gomes",
+       "saiu": "Aguirre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Borré",
+       "saiu": "Bernabei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villagra",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Alan Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Patrick",
+       "saiu": "Bruno Tabata",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Aguirre",
+        "minuto": ""
+       },
+       {
+        "jogador": "Allex",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-goleia-ypiranga-quebra-tabu-historico-e-sai-em-vantagem-na-semi-do-gauchao"
+    ],
+    "atualizado": "2026-11-12T05:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000305,
+   "data": "2026-02-21T18:30:00-03:00",
+   "casa": "internacional",
+   "fora": "ypiranga-rs",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 4,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Borré",
+     "minuto": "7",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitinho",
+     "minuto": "67",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alerrandro",
+     "minuto": "80",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/internacional/inter-goleia-o-ypiranga-e-se-garante-na-final-do-campeonato-gaucho/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-gaucho/inter-goleia-ypiranga-e-vai-a-final-do-gaucho-com-tranquilidade/"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000306,
+   "data": "2026-03-01T18:00:00-03:00",
+   "casa": "gremio",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final - ida",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Enamorado",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Amuzu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carlos Vinícius",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "Bernabei (Internacional) expulso no 1º tempo",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/gaucho/com-um-a-mais-gremio-vence-inter-e-abre-boa-vantagem-na-final-do-gaucho/",
+    "https://gremio.net/noticias/detalhes/30075/gremio-abre-vantagem-na-decisao-do-campeonato-gaucho"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000307,
+   "data": "2026-03-08T18:00:00-03:00",
+   "casa": "internacional",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final - volta",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Martins",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alan Patrick",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "Grêmio campeão gaúcho (4x1 no agregado)",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/gaucho/gremio-campeao-gaucho-2026-empate-inter/",
+    "https://www.metropoles.com/esportes/gremio-faz-4-x-1-no-agregado-e-leva-o-titulo-do-gauchao-contra-o-inter"
+   ],
+   "atualizado": "2026-11-12T05:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Rochet; Bruno Gomes, Gabriel Mercado, Victor Gabriel, Allex; Ronaldo, Paulinho Paula, Vitinho, Alan Patrick, Carbonero; Borré",
+     "entraram": [
+      {
+       "jogador": "Juninho",
+       "saiu": "Bruno Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Rodríguez",
+       "saiu": "Allex",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alerrandro",
+       "saiu": "Ronaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Tabata",
+       "saiu": "Vitinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Luís Castro",
+     "time": "Weverton; Pavon, Gustavo Martins, Viery, Marlon; Noriega, Arthur, Enamorado, Monsalve, Amuzu; Carlos Vinícius",
+     "entraram": [
+      {
+       "jogador": "Wagner Leonardo",
+       "saiu": "Viery",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dodi",
+       "saiu": "Arthur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kannemann",
+       "saiu": "Enamorado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willian",
+       "saiu": "Monsalve",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Amuzu",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/gaucho/gremio-campeao-gaucho-2026-empate-inter/"
+    ],
+    "atualizado": "2026-11-12T05:46:00-03:00"
+   }
+  }
+ ]
+}

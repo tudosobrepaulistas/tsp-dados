@@ -723,6 +723,138 @@
    "atualizado": "2026-11-11T13:41:00-03:00"
   },
   {
+   "id": 91000308,
+   "data": "2026-04-22T20:30:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "5ª fase - ida",
+   "grupo": "",
+   "estadio": "Orlando Scarpelli",
+   "cidade": "Florianópolis",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Kauan Rodrigues",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bruno Henrique",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bernabei",
+     "minuto": "62",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/internacional/internacional-vence-athletic-virada-copa-do-brasil/?amp=",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/inter-bate-athletic-mg-de-virada-e-conquista-vantagem-na-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-12T05:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Alex Souza",
+     "time": "Jhonatan Luiz; Diogo Batista, Jhonatan, Belezi, Zeca; Ian Luccas, João Miguel, Jota, Kauan Rodrigues; Ronaldo Tavares, Dixon Vera",
+     "entraram": [
+      {
+       "jogador": "Marcelo Henrique",
+       "saiu": "Diogo Batista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Oliveira",
+       "saiu": "Ian Luccas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cabezas",
+       "saiu": "Jota",
+       "minuto": ""
+      },
+      {
+       "jogador": "Max",
+       "saiu": "Kauan Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Chú",
+       "saiu": "",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jhonatan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Belezi",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Anthoni; Bruno Gomes, Mercado, Félix Torres, Bernabei; Thiago Maia, Villagra, Bruno Henrique, Alan Patrick, Allex; Alerrandro",
+     "entraram": [
+      {
+       "jogador": "Victor Gabriel",
+       "saiu": "Mercado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho Paula",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kayky",
+       "saiu": "Allex",
+       "minuto": ""
+      },
+      {
+       "jogador": "Borré",
+       "saiu": "Alerrandro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Villagra",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://gazetaesportiva.com/times/internacional/internacional-vence-athletic-virada-copa-do-brasil/?amp="
+    ],
+    "atualizado": "2026-11-12T05:48:00-03:00"
+   }
+  },
+  {
    "id": 91000256,
    "data": "2026-04-23T19:00:00-03:00",
    "casa": "atletico-mg",
@@ -891,6 +1023,146 @@
      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/athletico-pr-tropeca-em-casa-e-empata-com-o-atletico-go-pela-copa-do-brasil/"
     ],
     "atualizado": "2026-11-09T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000309,
+   "data": "2026-05-12T19:30:00-03:00",
+   "casa": "internacional",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "5ª fase - volta",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Borré",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ian Luccas",
+     "minuto": "38",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Allex",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ian Luccas",
+     "minuto": "67",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bernabei",
+     "minuto": "69",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/internacional/inter-vence-athletic-avanca-oitavas-copa-do-brasil/?amp=",
+    "https://internacional.com.br/noticias/masculino/inter-vence-e-avanca-na-copa-do-brasil"
+   ],
+   "atualizado": "2026-11-12T05:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Rochet; Bruno Gomes, Victor Gabriel, Félix Torres, Bernabei; Allex, Villagra, Bruno Henrique, Alan Patrick, Vitinho; Borré",
+     "entraram": [
+      {
+       "jogador": "Alan Rodríguez",
+       "saiu": "Bruno Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Tabata",
+       "saiu": "Allex",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ronaldo",
+       "saiu": "Villagra",
+       "minuto": ""
+      },
+      {
+       "jogador": "Aguirre",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kayky",
+       "saiu": "Vitinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alan Patrick",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Alex Souza",
+     "time": "Luan Polli; Jhonatan, Belezi, Zeca; Douglas, Marcelo Henrique, Cabezas, Kauan Rodrigues, Ian Luccas; Gustavinho, Gabriel Moyses",
+     "entraram": [
+      {
+       "jogador": "João Miguel",
+       "saiu": "Douglas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diogo",
+       "saiu": "Marcelo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Max",
+       "saiu": "Ian Luccas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Otusanya",
+       "saiu": "Gustavinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruninho",
+       "saiu": "Gabriel Moyses",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": [
+       {
+        "jogador": "Cabezas",
+        "minuto": "51"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://gazetaesportiva.com/times/internacional/inter-vence-athletic-avanca-oitavas-copa-do-brasil/?amp="
+    ],
+    "atualizado": "2026-11-12T05:48:00-03:00"
    }
   },
   {
@@ -1524,6 +1796,42 @@
    }
   },
   {
+   "id": 91000310,
+   "data": "2026-08-02T19:30:00-03:00",
+   "casa": "internacional",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - ida",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Bahia",
+     "minuto": "60",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alan Patrick",
+     "minuto": "64",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/internacional-derrota-o-corinthians-e-abre-boa-vantagem-na-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/internacional-derrota-corinthians-e-abre-vantagem-nas-oitavas-da-copa-do-brasil,289d9580a72e0fb73c677886121aeb5dcf8x9cq3.html"
+   ],
+   "atualizado": "2026-11-12T05:48:00-03:00"
+  },
+  {
    "id": 91000207,
    "data": "2026-08-03T21:00:00-03:00",
    "casa": "athletico-pr",
@@ -1721,6 +2029,146 @@
    "atualizado": "2026-11-09T18:37:00-03:00"
   },
   {
+   "id": 91000311,
+   "data": "2026-08-06T20:00:00-03:00",
+   "casa": "corinthians",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - volta",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Henrique",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bernabei",
+     "minuto": "58",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Pedro Raul",
+     "minuto": "69",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/corinthians-vence-mas-e-eliminado-pelo-internacional-na-copa-do-brasil.html",
+    "https://www.cnnbrasil.com.br/esportes/futebol/inter-elimina-o-corinthians-que-da-adeus-ao-sonho-do-bi-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-12T05:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Diniz",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; Raniele, André, Breno Bidon, Rodrigo Garro; Pedro Raul, Kaio César",
+     "entraram": [
+      {
+       "jogador": "Allan",
+       "saiu": "Gabriel Paulista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lingard",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Rodrigo Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carrillo",
+       "saiu": "Kaio César",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheuzinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Henrique",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Matheus Cunha; Bruno Gomes, Mercado, Maripán, Matheus Bahia; Paulinho Paula, Bruno Henrique, Alan Patrick, Bernabei; Vitinho, Carbonero",
+     "entraram": [
+      {
+       "jogador": "Aguirre",
+       "saiu": "Matheus Bahia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ronaldo",
+       "saiu": "Paulinho Paula",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alerrandro",
+       "saiu": "Alan Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allex",
+       "saiu": "Carbonero",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Carbonero",
+        "minuto": ""
+       },
+       {
+        "jogador": "Paulinho Paula",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Bahia",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.lance.com.br/futebol-nacional/corinthians-vence-mas-e-eliminado-pelo-internacional-na-copa-do-brasil.html"
+    ],
+    "atualizado": "2026-11-12T05:48:00-03:00"
+   }
+  },
+  {
    "id": 91000292,
    "data": "2026-08-25T21:00:00-03:00",
    "casa": "cruzeiro",
@@ -1854,6 +2302,118 @@
      "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/cruzeiro-x-atletico-copa-do-brasil-25-08-2026/"
     ],
     "atualizado": "2026-11-12T02:43:00-03:00"
+   }
+  },
+  {
+   "id": 91000312,
+   "data": "2026-08-27T20:00:00-03:00",
+   "casa": "internacional",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final - ida",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/internacional-e-gremio-empatam-no-beira-rio-pela-ida-das-quartas-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/inter-e-gremio-empatam-em-jogo-tenso-pela-ida-das-quartas-da-copa-do-brasil/"
+   ],
+   "atualizado": "2026-11-12T05:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Matheus Cunha; Bruno Gomes, Mercado, Maripán, Matheus Bahia; Villagra, Paulinho Paula, Vitinho, Calebe, Bernabei; Carbonero",
+     "entraram": [
+      {
+       "jogador": "Aguirre",
+       "saiu": "Bruno Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Patrick",
+       "saiu": "Paulinho Paula",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Calebe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliasson",
+       "saiu": "Bernabei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Carbonero",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Bahia",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bernabei",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Luís Castro",
+     "time": "Weverton; Diego Caito, Wallace, Kannemann, Marlon; Noriega, Villasanti, Krovinovic; Pavon, Carlos Vinícius, Jovane Cabral",
+     "entraram": [
+      {
+       "jogador": "Danilo Barbosa",
+       "saiu": "Noriega",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enamorado",
+       "saiu": "Pavon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Braithwaite",
+       "saiu": "Carlos Vinícius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Amuzu",
+       "saiu": "Jovane Cabral",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Carlos Vinícius",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kannemann",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/internacional-e-gremio-empatam-no-beira-rio-pela-ida-das-quartas-da-copa-do-brasil/"
+    ],
+    "atualizado": "2026-11-12T05:48:00-03:00"
    }
   },
   {
@@ -2003,6 +2563,156 @@
      "https://www.gazetaesportiva.com/times/atletico-mg/siga-o-tempo-real-de-atletico-mg-x-cruzeiro-pela-copa-do-brasil/"
     ],
     "atualizado": "2026-11-12T02:43:00-03:00"
+   }
+  },
+  {
+   "id": 91000313,
+   "data": "2026-09-03T20:00:00-03:00",
+   "casa": "gremio",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final - volta",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Carlos Vinícius",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carlos Vinícius",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Krovinovic",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vitinho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/gremio/gremio-x-internacional-copa-do-brasil-2026/",
+    "https://www.lance.com.br/futebol-nacional/gremio-bate-o-internacional-e-avanca-as-semifinais-da-copa-do-brasil.html"
+   ],
+   "atualizado": "2026-11-12T05:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luís Castro",
+     "time": "Weverton; Diego Caito, Wallace, Kannemann, Marlon; Noriega, Villasanti, Krovinovic; Pavon, Carlos Vinícius, Amuzu",
+     "entraram": [
+      {
+       "jogador": "Gustavo Martins",
+       "saiu": "Kannemann",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enamorado",
+       "saiu": "Krovinovic",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo Barbosa",
+       "saiu": "Villasanti",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Pavon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nardoni",
+       "saiu": "Amuzu",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Pavon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Martins",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marlon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kannemann",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Matheus Cunha; Bruno Gomes, Mercado, Maripán, Matheus Bahia; Bruno Henrique, Thiago Maia, Villagra, Alan Patrick; Bernabei, Sanabria",
+     "entraram": [
+      {
+       "jogador": "Carbonero",
+       "saiu": "Matheus Bahia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho Paula",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alerrandro",
+       "saiu": "Sanabria",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Thiago Maia",
+        "minuto": ""
+       },
+       {
+        "jogador": "Alan Patrick",
+        "minuto": ""
+       },
+       {
+        "jogador": "Maripán",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.lance.com.br/futebol-nacional/gremio-bate-o-internacional-e-avanca-as-semifinais-da-copa-do-brasil.html",
+     "https://www.gazetaesportiva.com/times/gremio/gremio-x-internacional-copa-do-brasil-2026/"
+    ],
+    "atualizado": "2026-11-12T05:48:00-03:00"
    }
   },
   {

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12T03:55:00-03:00",
+ "gerado": "2026-11-12T05:49:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1222,6 +1222,13 @@
    "temporada": 2026,
    "formato": "historico",
    "status": "historico"
+  },
+  {
+   "chave": "gaucho",
+   "nome": "Campeonato Gaúcho",
+   "temporada": 2026,
+   "formato": "historico",
+   "status": "historico"
   }
  ],
  "times": {
@@ -1668,6 +1675,42 @@
    "nome": "Boca Juniors",
    "slug_tsp": "",
    "wiki": ""
+  },
+  "900075": {
+   "chave": "novo-hamburgo",
+   "nome": "Novo Hamburgo",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900076": {
+   "chave": "monsoon",
+   "nome": "Monsoon",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900077": {
+   "chave": "ypiranga-rs",
+   "nome": "Ypiranga-RS",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900078": {
+   "chave": "inter-de-santa-maria",
+   "nome": "Inter de Santa Maria",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900079": {
+   "chave": "caxias",
+   "nome": "Caxias",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900080": {
+   "chave": "sao-luiz",
+   "nome": "São Luiz",
+   "slug_tsp": "",
+   "wiki": ""
   }
  },
  "jogos": [
@@ -1887,7 +1930,100 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Domingos Duarte, Arboleda, Tolói; Pedro Lima, Marcos Antônio, Djhordney, Iago; Artur, Luciano, Calleri",
+     "entraram": [
+      {
+       "jogador": "Sabino",
+       "saiu": "Domingos Duarte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Ramon",
+       "saiu": "Pedro Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ferreira",
+       "saiu": "Artur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danielzinho",
+       "saiu": "Luciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Silva",
+       "saiu": "Calleri",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Calleri",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Anthoni; Vitinho, Bruno Gomes, Maripán, Mercado, Matheus Bahia; Paulinho Paula, Bruno Henrique, Bernabei; Alan Patrick, Carbonero",
+     "entraram": [
+      {
+       "jogador": "Aguirre",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allex",
+       "saiu": "Matheus Bahia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Paulinho Paula",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Maia",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliasson",
+       "saiu": "Carbonero",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Bahia",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bruno Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Mercado",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-internacional-brasileirao-19-09-2026/"
+    ],
+    "atualizado": "2026-11-12T05:49:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -2239,7 +2375,112 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Anthoni; Bruno Gomes, Mercado, Juninho; Aguirre, Villagra, Thiago Maia, Alan Patrick, Bernabei; Vitinho, Alerrandro",
+     "entraram": [
+      {
+       "jogador": "Ronaldo",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho Paula",
+       "saiu": "Aguirre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Bahia",
+       "saiu": "Bernabei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carbonero",
+       "saiu": "Alerrandro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bernabei",
+        "minuto": ""
+       },
+       {
+        "jogador": "Villagra",
+        "minuto": ""
+       },
+       {
+        "jogador": "Paulinho Paula",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Diniz",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; Raniele, Breno Bidon, Rodrigo Garro; Memphis Depay, Yuri Alberto, Kaio César",
+     "entraram": [
+      {
+       "jogador": "Vitinho",
+       "saiu": "Gabriel Paulista",
+       "minuto": ""
+      },
+      {
+       "jogador": "André",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Rodrigo Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Memphis Depay",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Negão",
+       "saiu": "Yuri Alberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Breno Bidon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kaio César",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo Garro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.lance.com.br/futebol-nacional/inter-vence-corinthians-e-esquenta-luta-contra-o-rebaixamento.html"
+    ],
+    "atualizado": "2026-11-12T05:49:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -3119,7 +3360,121 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Reinaldo, Willian Machado, João Victor, Igor Formiga; Denilson, Neto Moura, Eduardo; Edson Carioca, Bruno Santos, Shaylon",
+     "entraram": [
+      {
+       "jogador": "Wallisson Luiz",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alesson",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Edson Carioca",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luis",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Neto Moura",
+        "minuto": ""
+       },
+       {
+        "jogador": "André Luis",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Matheus Cunha; Bruno Gomes, Mercado, Juninho; Aguirre, Villagra, Thiago Maia, Matheus Bahia; Vitinho, Bernabei, Alerrandro",
+     "entraram": [
+      {
+       "jogador": "João Victor",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Bezerra",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carbonero",
+       "saiu": "Matheus Bahia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan",
+       "saiu": "Bernabei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Félix Torres",
+       "saiu": "Alerrandro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vitinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bruno Gomes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carbonero",
+        "minuto": ""
+       },
+       {
+        "jogador": "Mercado",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kauan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Villagra",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Matheus Cunha",
+        "minuto": "15"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/internacional/mirassol-x-internacional-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-12T05:49:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -7647,12 +8002,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 56,
-    "empate": 28,
-    "fora": 16,
+    "empate": 29,
+    "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.35,
-     0.56
+     1.33,
+     0.55
     ],
     "base": [
      7,
@@ -7730,11 +8085,11 @@
    "previsao": {
     "casa": 13,
     "empate": 20,
-    "fora": 67,
-    "placar": "0x2",
+    "fora": 66,
+    "placar": "0x1",
     "gols_esperados": [
-     0.77,
-     2.02
+     0.76,
+     1.99
     ],
     "base": [
      11,
@@ -7789,8 +8144,8 @@
     "fora": 52,
     "placar": "0x1",
     "gols_esperados": [
-     0.56,
-     1.2
+     0.55,
+     1.18
     ],
     "base": [
      8,
@@ -7845,8 +8200,8 @@
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.1,
-     0.65
+     2.07,
+     0.64
     ],
     "base": [
      9,
@@ -7901,8 +8256,8 @@
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.35,
-     0.82
+     2.31,
+     0.81
     ],
     "base": [
      11,
@@ -7953,12 +8308,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 29,
-    "empate": 32,
+    "empate": 33,
     "fora": 38,
     "placar": "0x0",
     "gols_esperados": [
-     0.84,
-     1.0
+     0.82,
+     0.98
     ],
     "base": [
      24,
@@ -8008,16 +8363,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 27,
-    "empate": 24,
-    "fora": 49,
+    "casa": 28,
+    "empate": 25,
+    "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
-     1.17,
-     1.66
+     1.15,
+     1.55
     ],
     "base": [
-     8,
+     10,
      23
     ]
    },
@@ -8064,16 +8419,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 21,
-    "fora": 18,
+    "casa": 67,
+    "empate": 18,
+    "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.05,
-     1.01
+     2.37,
+     1.02
     ],
     "base": [
-     9,
+     14,
      13
     ]
    },
@@ -8120,17 +8475,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
+    "casa": 48,
     "empate": 23,
-    "fora": 19,
-    "placar": "1x0",
+    "fora": 29,
+    "placar": "1x1",
     "gols_esperados": [
-     1.77,
-     0.92
+     1.81,
+     1.38
     ],
     "base": [
      9,
-     7
+     24
     ]
    },
    "events": []
@@ -8176,13 +8531,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
+    "casa": 27,
     "empate": 23,
-    "fora": 51,
+    "fora": 50,
     "placar": "1x1",
     "gols_esperados": [
-     1.26,
-     1.83
+     1.25,
+     1.8
     ],
     "base": [
      11,
@@ -8233,12 +8588,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 34,
-    "empate": 28,
+    "empate": 29,
     "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
-     1.12,
-     1.17
+     1.1,
+     1.15
     ],
     "base": [
      8,
@@ -8289,12 +8644,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 54,
-    "empate": 27,
+    "empate": 28,
     "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.4,
-     0.69
+     1.38,
+     0.67
     ],
     "base": [
      11,
@@ -8344,13 +8699,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 76,
+    "casa": 75,
     "empate": 17,
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.23,
-     0.56
+     2.2,
+     0.55
     ],
     "base": [
      13,
@@ -8401,12 +8756,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 11,
-    "empate": 22,
-    "fora": 67,
+    "empate": 23,
+    "fora": 66,
     "placar": "0x1",
     "gols_esperados": [
      0.55,
-     1.75
+     1.72
     ],
     "base": [
      11,
@@ -8461,8 +8816,8 @@
     "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.35,
-     1.0
+     2.32,
+     0.98
     ],
     "base": [
      21,
@@ -8517,8 +8872,8 @@
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.51,
-     0.75
+     1.49,
+     0.74
     ],
     "base": [
      9,
@@ -8573,8 +8928,8 @@
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.32,
-     1.17
+     2.28,
+     1.15
     ],
     "base": [
      11,
@@ -8624,16 +8979,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
-    "empate": 24,
-    "fora": 19,
-    "placar": "1x0",
+    "casa": 73,
+    "empate": 16,
+    "fora": 11,
+    "placar": "2x0",
     "gols_esperados": [
-     1.65,
-     0.84
+     2.49,
+     0.86
     ],
     "base": [
-     7,
+     24,
      11
     ]
    },
@@ -8685,8 +9040,8 @@
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.25,
-     0.87
+     1.23,
+     0.85
     ],
     "base": [
      23,
@@ -8736,17 +9091,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 44,
-    "empate": 29,
-    "fora": 27,
-    "placar": "1x0",
+    "casa": 41,
+    "empate": 28,
+    "fora": 30,
+    "placar": "1x1",
     "gols_esperados": [
-     1.24,
-     0.91
+     1.26,
+     1.04
     ],
     "base": [
      8,
-     9
+     14
     ]
    },
    "events": []
@@ -8792,17 +9147,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
-    "empate": 21,
-    "fora": 14,
+    "casa": 63,
+    "empate": 22,
+    "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.99,
-     0.78
+     1.86,
+     0.77
     ],
     "base": [
      16,
-     8
+     10
     ]
    },
    "events": []
@@ -16853,12 +17208,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 30,
-    "empate": 30,
-    "fora": 40,
+    "empate": 31,
+    "fora": 39,
     "placar": "0x1",
     "gols_esperados": [
-     0.93,
-     1.12
+     0.92,
+     1.1
     ],
     "base": [
      8,
@@ -16923,17 +17278,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 65,
-    "empate": 20,
-    "fora": 15,
+    "casa": 67,
+    "empate": 19,
+    "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.04,
-     0.86
+     2.16,
+     0.88
     ],
     "base": [
      10,
-     17
+     19
     ]
    },
    "events": []
@@ -16994,11 +17349,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 55,
-    "empate": 35,
+    "empate": 36,
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.03,
+     1.02,
      0.27
     ],
     "base": [
@@ -17065,13 +17420,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 38,
-    "empate": 32,
+    "casa": 37,
+    "empate": 33,
     "fora": 30,
     "placar": "0x0",
     "gols_esperados": [
-     0.99,
-     0.86
+     0.98,
+     0.84
     ],
     "base": [
      15,
@@ -17139,8 +17494,8 @@
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.12,
-     0.3
+     1.1,
+     0.29
     ],
     "base": [
      10,
@@ -17205,13 +17560,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 32,
-    "empate": 35,
+    "casa": 31,
+    "empate": 36,
     "fora": 33,
     "placar": "0x0",
     "gols_esperados": [
-     0.78,
-     0.81
+     0.77,
+     0.8
     ],
     "base": [
      19,
@@ -17283,8 +17638,8 @@
     "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
-     1.18,
-     1.18
+     1.17,
+     1.15
     ],
     "base": [
      7,
@@ -17348,13 +17703,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
+    "casa": 68,
     "empate": 20,
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.96,
-     0.64
+     1.93,
+     0.63
     ],
     "base": [
      16,
@@ -17418,12 +17773,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 67,
-    "empate": 19,
-    "fora": 14,
+    "empate": 20,
+    "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.11,
-     0.82
+     2.08,
+     0.81
     ],
     "base": [
      8,
@@ -18189,6 +18544,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://gazetaesportiva.com/times/internacional/internacional-vence-athletic-virada-copa-do-brasil/?amp=",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/inter-bate-athletic-mg-de-virada-e-conquista-vantagem-na-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000308,
+    "timestamp": 1776900600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Orlando Scarpelli",
+     "city": "Florianópolis"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "5ª fase - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Kauan Rodrigues"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bruno Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 62,
+      "extra": null,
+      "texto": "62"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bernabei"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/lodi-decide-atletico-mg-vence-ceara-e-abre-vantagem-na-copa-do-brasil/",
     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/04/23/ceara-e-superado-pelo-atletico-mg-no-primeiro-jogo-da-5-fase-da-copa-do-brasil.html"
    ],
@@ -18320,6 +18768,131 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://gazetaesportiva.com/times/internacional/inter-vence-athletic-avanca-oitavas-copa-do-brasil/?amp=",
+    "https://internacional.com.br/noticias/masculino/inter-vence-e-avanca-na-copa-do-brasil"
+   ],
+   "fixture": {
+    "id": 91000309,
+    "timestamp": 1778625000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "5ª fase - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Borré"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 38,
+      "extra": null,
+      "texto": "38"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ian Luccas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Allex"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 67,
+      "extra": null,
+      "texto": "67"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ian Luccas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 69,
+      "extra": null,
+      "texto": "69"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bernabei"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -18782,6 +19355,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/internacional-derrota-o-corinthians-e-abre-boa-vantagem-na-copa-do-brasil/",
+    "https://www.terra.com.br/esportes/futebol/copa-do-brasil/internacional-derrota-corinthians-e-abre-vantagem-nas-oitavas-da-copa-do-brasil,289d9580a72e0fb73c677886121aeb5dcf8x9cq3.html"
+   ],
+   "fixture": {
+    "id": 91000310,
+    "timestamp": 1785709800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 60,
+      "extra": null,
+      "texto": "60"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Matheus Bahia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 64,
+      "extra": null,
+      "texto": "64"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Alan Patrick"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/athletico-pr-bate-vitoria-e-abre-boa-vantagem-nas-oitavas-da-copa-do-brasil/",
     "https://www.terra.com.br/esportes/futebol/athletico-pr-vence-o-vitoria-e-abre-vantagem-nas-oitavas-da-copa-do-brasil,b5c0418458cf2297c3b2c803066faa788cyay7h2.html"
    ],
@@ -18980,6 +19630,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.lance.com.br/futebol-nacional/corinthians-vence-mas-e-eliminado-pelo-internacional-na-copa-do-brasil.html",
+    "https://www.cnnbrasil.com.br/esportes/futebol/inter-elimina-o-corinthians-que-da-adeus-ao-sonho-do-bi-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000311,
+    "timestamp": 1786057200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 42,
+      "extra": null,
+      "texto": "42"
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Gustavo Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bernabei"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 69,
+      "extra": null,
+      "texto": "69"
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Pedro Raul"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/cruzeiro-x-atletico-copa-do-brasil-25-08-2026/",
     "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-cruzeiro-e-atletico-mg-empatam-em-classico-de-belos-gols/"
    ],
@@ -19051,6 +19794,50 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/copa-do-brasil/internacional-e-gremio-empatam-no-beira-rio-pela-ida-das-quartas-da-copa-do-brasil/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/inter-e-gremio-empatam-em-jogo-tenso-pela-ida-das-quartas-da-copa-do-brasil/"
+   ],
+   "fixture": {
+    "id": 91000312,
+    "timestamp": 1787871600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   },
   {
    "liga": "copa_do_brasil",
@@ -19139,6 +19926,115 @@
      },
      "player": {
       "name": "Fred"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "copa_do_brasil",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/gremio/gremio-x-internacional-copa-do-brasil-2026/",
+    "https://www.lance.com.br/futebol-nacional/gremio-bate-o-internacional-e-avanca-as-semifinais-da-copa-do-brasil.html"
+   ],
+   "fixture": {
+    "id": 91000313,
+    "timestamp": 1788476400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Carlos Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Carlos Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Krovinovic"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Vitinho"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -25295,6 +26191,1061 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/internacional-vence-novo-hamburgo-pelo-gauchao-em-jogo-marcado-por-golaco",
+    "https://www.terra.com.br/esportes/internacional/de-virada-internacional-vence-o-novo-hamburgo-na-estreia-pelo-gauchao,552e8ac39d0d7f9dc35167b6bb0addfegwpip5kl.html"
+   ],
+   "fixture": {
+    "id": 91000297,
+    "timestamp": 1768165200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900075,
+     "name": "Novo Hamburgo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900075,
+      "name": "Novo Hamburgo"
+     },
+     "player": {
+      "name": "Allison"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "João Marcus"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Diego Coser"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/gaucho/inter-goleia-monsoon-e-emplaca-a-segunda-vitoria-no-gaucho/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/borre-encerra-jejum-internacional-goleia-monsoon-e-segue-100-no-gauchao"
+   ],
+   "fixture": {
+    "id": 91000298,
+    "timestamp": 1768514400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Francisco Novelletto Neto",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900076,
+     "name": "Monsoon"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 4
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "João Victor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Borré"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Borré"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Allex"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol/inter-toma-virada-do-ypiranga-nos-acrescimos-e-perde-a-primeira-pelo-gaucho/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-gaucho/internacional-sofre-virada-e-perde-para-o-ypiranga-no-gaucho/"
+   ],
+   "fixture": {
+    "id": 91000299,
+    "timestamp": 1768770000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Colosso da Lagoa",
+     "city": "Erechim"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900077,
+     "name": "Ypiranga-RS"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 16,
+      "extra": null,
+      "texto": "16"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bruno Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900077,
+      "name": "Ypiranga-RS"
+     },
+     "player": {
+      "name": "Nicolas Schulz"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+3"
+     },
+     "team": {
+      "id": 900077,
+      "name": "Ypiranga-RS"
+     },
+     "player": {
+      "name": "Renan Gorne"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/felix-torres-marca-na-estreia-e-internacional-bate-inter-sm-pelo-campeonato-gaucho",
+    "https://www.terra.com.br/esportes/com-gols-de-alan-patrick-e-felix-torres-inter-faz-2-a-0-no-inter-sm,b505b69e37d735959c45dce483e2e4d67ol4odmt.html"
+   ],
+   "fixture": {
+    "id": 91000300,
+    "timestamp": 1769032800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900078,
+     "name": "Inter de Santa Maria"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Alan Patrick"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Félix Torres"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3753386",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/borre-brilha-marca-dois-gols-e-comanda-virada-do-inter-contra-o-gremio-pelo-gauchao/"
+   ],
+   "fixture": {
+    "id": 91000301,
+    "timestamp": 1769382000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Amuzu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Marcos Rocha"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Edenilson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Borré"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Borré"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bernabei"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/internacional/internacional-vence-caxias-e-garante-melhor-campanha-do-gauchao.html",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-vence-caxias-com-time-de-garotos-e-se-classifica-com-lider-do-grupo-no-gauchao/"
+   ],
+   "fixture": {
+    "id": 91000302,
+    "timestamp": 1769887800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Centenário",
+     "city": "Caxias do Sul"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900079,
+     "name": "Caxias"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Gustavo Prado"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3757973",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-bate-sao-luiz-com-direito-a-golaco-e-avanca-a-semifinal-do-gauchao"
+   ],
+   "fixture": {
+    "id": 91000303,
+    "timestamp": 1770584400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900080,
+     "name": "São Luiz"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Aguirre"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900080,
+      "name": "São Luiz"
+     },
+     "player": {
+      "name": "Felipe Rangel"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Bernabei"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Vitinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3760486",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-goleia-ypiranga-quebra-tabu-historico-e-sai-em-vantagem-na-semi-do-gauchao"
+   ],
+   "fixture": {
+    "id": 91000304,
+    "timestamp": 1771198200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Colosso da Lagoa",
+     "city": "Erechim"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900077,
+     "name": "Ypiranga-RS"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 2,
+      "extra": null,
+      "texto": "2"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Aguirre"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 35,
+      "extra": null,
+      "texto": "35"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Thiago Maia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 77,
+      "extra": null,
+      "texto": "77"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Zé Carlos"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/internacional/inter-goleia-o-ypiranga-e-se-garante-na-final-do-campeonato-gaucho/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-gaucho/inter-goleia-ypiranga-e-vai-a-final-do-gaucho-com-tranquilidade/"
+   ],
+   "fixture": {
+    "id": 91000305,
+    "timestamp": 1771709400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900077,
+     "name": "Ypiranga-RS"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 7,
+      "extra": null,
+      "texto": "7"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Borré"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 67,
+      "extra": null,
+      "texto": "67"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Vitinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Vitinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 80,
+      "extra": null,
+      "texto": "80"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Alerrandro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "Bernabei (Internacional) expulso no 1º tempo",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/gaucho/com-um-a-mais-gremio-vence-inter-e-abre-boa-vantagem-na-final-do-gaucho/",
+    "https://gremio.net/noticias/detalhes/30075/gremio-abre-vantagem-na-decisao-do-campeonato-gaucho"
+   ],
+   "fixture": {
+    "id": 91000306,
+    "timestamp": 1772398800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Enamorado"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Amuzu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Carlos Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "Grêmio campeão gaúcho (4x1 no agregado)",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/gaucho/gremio-campeao-gaucho-2026-empate-inter/",
+    "https://www.metropoles.com/esportes/gremio-faz-4-x-1-no-agregado-e-leva-o-titulo-do-gauchao-contra-o-inter"
+   ],
+   "fixture": {
+    "id": 91000307,
+    "timestamp": 1773003600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Gustavo Martins"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Alan Patrick"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
   }
  ],
  "classificacao": {
@@ -26754,6 +28705,18 @@
   ],
   "copa_do_brasil": [
    {
+    "jogador": "Bernabei",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 3
+   },
+   {
+    "jogador": "Carlos Vinícius",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 3
+   },
+   {
     "jogador": "Kaio Jorge",
     "time": "Cruzeiro",
     "time_id": 900003,
@@ -26772,6 +28735,12 @@
     "gols": 2
    },
    {
+    "jogador": "Ian Luccas",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 2
+   },
+   {
     "jogador": "Mikael",
     "time": "CRB",
     "time_id": 900026,
@@ -26782,6 +28751,12 @@
     "time": "Ceará",
     "time_id": 900035,
     "gols": 2
+   },
+   {
+    "jogador": "Alan Patrick",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
    },
    {
     "jogador": "Alef Manga",
@@ -26802,15 +28777,27 @@
     "gols": 1
    },
    {
+    "jogador": "Allex",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
     "jogador": "Bolasie",
     "time": "Chapecoense",
     "time_id": 900020,
     "gols": 1
    },
    {
-    "jogador": "Carlos Vinícius",
-    "time": "Grêmio",
-    "time_id": 900017,
+    "jogador": "Borré",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Bruno Henrique",
+    "time": "Internacional",
+    "time_id": 900016,
     "gols": 1
    },
    {
@@ -26868,6 +28855,12 @@
     "gols": 1
    },
    {
+    "jogador": "Gustavo Henrique",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 1
+   },
+   {
     "jogador": "Jonathan Jesus",
     "time": "Cruzeiro",
     "time_id": 900003,
@@ -26877,6 +28870,18 @@
     "jogador": "João Cruz",
     "time": "Athletico-PR",
     "time_id": 900004,
+    "gols": 1
+   },
+   {
+    "jogador": "Kauan Rodrigues",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 1
+   },
+   {
+    "jogador": "Krovinovic",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 1
    },
    {
@@ -26901,6 +28906,12 @@
     "jogador": "Marcinho",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Bahia",
+    "time": "Internacional",
+    "time_id": 900016,
     "gols": 1
    },
    {
@@ -26940,6 +28951,12 @@
     "gols": 1
    },
    {
+    "jogador": "Pedro Raul",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 1
+   },
+   {
     "jogador": "Piquerez",
     "time": "Palmeiras",
     "time_id": 900002,
@@ -26961,6 +28978,12 @@
     "jogador": "Victor Hugo",
     "time": "Atlético-MG",
     "time_id": 900006,
+    "gols": 1
+   },
+   {
+    "jogador": "Vitinho",
+    "time": "Internacional",
+    "time_id": 900016,
     "gols": 1
    },
    {
@@ -27645,6 +29668,140 @@
     "time_id": 900026,
     "gols": 1
    }
+  ],
+  "gaucho": [
+   {
+    "jogador": "Borré",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 5
+   },
+   {
+    "jogador": "Vitinho",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 3
+   },
+   {
+    "jogador": "Aguirre",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 2
+   },
+   {
+    "jogador": "Alan Patrick",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 2
+   },
+   {
+    "jogador": "Amuzu",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 2
+   },
+   {
+    "jogador": "Bernabei",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 2
+   },
+   {
+    "jogador": "Alerrandro",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Allex",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Allison",
+    "time": "Novo Hamburgo",
+    "time_id": 900075,
+    "gols": 1
+   },
+   {
+    "jogador": "Bruno Henrique",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Carlos Vinícius",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
+    "jogador": "Diego Coser",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Edenilson",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
+    "jogador": "Enamorado",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
+    "jogador": "Felipe Rangel",
+    "time": "São Luiz",
+    "time_id": 900080,
+    "gols": 1
+   },
+   {
+    "jogador": "Félix Torres",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Gustavo Martins",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
+    "jogador": "Gustavo Prado",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "João Victor",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Nicolas Schulz",
+    "time": "Ypiranga-RS",
+    "time_id": 900077,
+    "gols": 1
+   },
+   {
+    "jogador": "Renan Gorne",
+    "time": "Ypiranga-RS",
+    "time_id": 900077,
+    "gols": 1
+   },
+   {
+    "jogador": "Thiago Maia",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   }
   ]
  },
  "chaves": {
@@ -28072,6 +30229,48 @@
       },
       {
        "times": [
+        900034,
+        900016
+       ],
+       "nomes": [
+        "Athletic",
+        "Internacional"
+       ],
+       "agregado": [
+        3,
+        5
+       ],
+       "penaltis": null,
+       "vencedor": 900016,
+       "jogos": [
+        {
+         "id": 91000308,
+         "data": "2026-04-22T20:30",
+         "casa": 900034,
+         "fora": 900016,
+         "gc": 1,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Orlando Scarpelli",
+         "cidade": "Florianópolis"
+        },
+        {
+         "id": 91000309,
+         "data": "2026-05-12T19:30",
+         "casa": 900016,
+         "fora": 900034,
+         "gc": 3,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Beira-Rio",
+         "cidade": "Porto Alegre"
+        }
+       ]
+      },
+      {
+       "times": [
         900006,
         900035
        ],
@@ -28164,6 +30363,48 @@
       },
       {
        "times": [
+        900016,
+        900018
+       ],
+       "nomes": [
+        "Internacional",
+        "Corinthians"
+       ],
+       "agregado": [
+        3,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": 900016,
+       "jogos": [
+        {
+         "id": 91000310,
+         "data": "2026-08-02T19:30",
+         "casa": 900016,
+         "fora": 900018,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Beira-Rio",
+         "cidade": "Porto Alegre"
+        },
+        {
+         "id": 91000311,
+         "data": "2026-08-06T20:00",
+         "casa": 900018,
+         "fora": 900016,
+         "gc": 2,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Neo Química Arena",
+         "cidade": "São Paulo"
+        }
+       ]
+      },
+      {
+       "times": [
         900004,
         900014
        ],
@@ -28248,6 +30489,48 @@
          "status": "encerrado",
          "estadio": "Arena MRV",
          "cidade": "Belo Horizonte"
+        }
+       ]
+      },
+      {
+       "times": [
+        900016,
+        900017
+       ],
+       "nomes": [
+        "Internacional",
+        "Grêmio"
+       ],
+       "agregado": [
+        1,
+        3
+       ],
+       "penaltis": null,
+       "vencedor": 900017,
+       "jogos": [
+        {
+         "id": 91000312,
+         "data": "2026-08-27T20:00",
+         "casa": 900016,
+         "fora": 900017,
+         "gc": 0,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Beira-Rio",
+         "cidade": "Porto Alegre"
+        },
+        {
+         "id": 91000313,
+         "data": "2026-09-03T20:00",
+         "casa": 900017,
+         "fora": 900016,
+         "gc": 3,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Arena do Grêmio",
+         "cidade": "Porto Alegre"
         }
        ]
       }

@@ -1,5 +1,17 @@
 [
  {
+  "jogador": "Bernabei",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 3
+ },
+ {
+  "jogador": "Carlos Vinícius",
+  "time": "Grêmio",
+  "time_id": 900017,
+  "gols": 3
+ },
+ {
   "jogador": "Kaio Jorge",
   "time": "Cruzeiro",
   "time_id": 900003,
@@ -18,6 +30,12 @@
   "gols": 2
  },
  {
+  "jogador": "Ian Luccas",
+  "time": "Athletic",
+  "time_id": 900034,
+  "gols": 2
+ },
+ {
   "jogador": "Mikael",
   "time": "CRB",
   "time_id": 900026,
@@ -28,6 +46,12 @@
   "time": "Ceará",
   "time_id": 900035,
   "gols": 2
+ },
+ {
+  "jogador": "Alan Patrick",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 1
  },
  {
   "jogador": "Alef Manga",
@@ -48,15 +72,27 @@
   "gols": 1
  },
  {
+  "jogador": "Allex",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 1
+ },
+ {
   "jogador": "Bolasie",
   "time": "Chapecoense",
   "time_id": 900020,
   "gols": 1
  },
  {
-  "jogador": "Carlos Vinícius",
-  "time": "Grêmio",
-  "time_id": 900017,
+  "jogador": "Borré",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 1
+ },
+ {
+  "jogador": "Bruno Henrique",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 1
  },
  {
@@ -114,6 +150,12 @@
   "gols": 1
  },
  {
+  "jogador": "Gustavo Henrique",
+  "time": "Corinthians",
+  "time_id": 900018,
+  "gols": 1
+ },
+ {
   "jogador": "Jonathan Jesus",
   "time": "Cruzeiro",
   "time_id": 900003,
@@ -123,6 +165,18 @@
   "jogador": "João Cruz",
   "time": "Athletico-PR",
   "time_id": 900004,
+  "gols": 1
+ },
+ {
+  "jogador": "Kauan Rodrigues",
+  "time": "Athletic",
+  "time_id": 900034,
+  "gols": 1
+ },
+ {
+  "jogador": "Krovinovic",
+  "time": "Grêmio",
+  "time_id": 900017,
   "gols": 1
  },
  {
@@ -147,6 +201,12 @@
   "jogador": "Marcinho",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Matheus Bahia",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 1
  },
  {
@@ -186,6 +246,12 @@
   "gols": 1
  },
  {
+  "jogador": "Pedro Raul",
+  "time": "Corinthians",
+  "time_id": 900018,
+  "gols": 1
+ },
+ {
   "jogador": "Piquerez",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -207,6 +273,12 @@
   "jogador": "Victor Hugo",
   "time": "Atlético-MG",
   "time_id": 900006,
+  "gols": 1
+ },
+ {
+  "jogador": "Vitinho",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 1
  },
  {

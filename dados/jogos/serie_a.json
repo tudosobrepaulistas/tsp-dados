@@ -113,7 +113,101 @@
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-internacional-brasileirao-19-09-2026/",
     "https://www.saopaulofc.net/no-morumbis-tricolor-derrota-o-internacional-pelo-campeonato-brasileiro/"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Domingos Duarte, Arboleda, Tolói; Pedro Lima, Marcos Antônio, Djhordney, Iago; Artur, Luciano, Calleri",
+     "entraram": [
+      {
+       "jogador": "Sabino",
+       "saiu": "Domingos Duarte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Ramon",
+       "saiu": "Pedro Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ferreira",
+       "saiu": "Artur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danielzinho",
+       "saiu": "Luciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Silva",
+       "saiu": "Calleri",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Calleri",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Anthoni; Vitinho, Bruno Gomes, Maripán, Mercado, Matheus Bahia; Paulinho Paula, Bruno Henrique, Bernabei; Alan Patrick, Carbonero",
+     "entraram": [
+      {
+       "jogador": "Aguirre",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allex",
+       "saiu": "Matheus Bahia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Paulinho Paula",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Maia",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliasson",
+       "saiu": "Carbonero",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Bahia",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bruno Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Mercado",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-internacional-brasileirao-19-09-2026/"
+    ],
+    "atualizado": "2026-11-12T05:49:00-03:00"
+   }
   },
   {
    "id": 91000055,
@@ -297,7 +391,113 @@
     "https://www.lance.com.br/futebol-nacional/inter-vence-corinthians-e-esquenta-luta-contra-o-rebaixamento.html",
     "https://www.cnnbrasil.com.br/esportes/brasileirao/inter-faz-gol-relampago-e-vence-confronto-direto-contra-o-corinthians/"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Anthoni; Bruno Gomes, Mercado, Juninho; Aguirre, Villagra, Thiago Maia, Alan Patrick, Bernabei; Vitinho, Alerrandro",
+     "entraram": [
+      {
+       "jogador": "Ronaldo",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho Paula",
+       "saiu": "Aguirre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Bahia",
+       "saiu": "Bernabei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carbonero",
+       "saiu": "Alerrandro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bernabei",
+        "minuto": ""
+       },
+       {
+        "jogador": "Villagra",
+        "minuto": ""
+       },
+       {
+        "jogador": "Paulinho Paula",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Diniz",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; Raniele, Breno Bidon, Rodrigo Garro; Memphis Depay, Yuri Alberto, Kaio César",
+     "entraram": [
+      {
+       "jogador": "Vitinho",
+       "saiu": "Gabriel Paulista",
+       "minuto": ""
+      },
+      {
+       "jogador": "André",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Rodrigo Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Memphis Depay",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Negão",
+       "saiu": "Yuri Alberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Breno Bidon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kaio César",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo Garro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.lance.com.br/futebol-nacional/inter-vence-corinthians-e-esquenta-luta-contra-o-rebaixamento.html"
+    ],
+    "atualizado": "2026-11-12T05:49:00-03:00"
+   }
   },
   {
    "id": 91000063,
@@ -800,7 +1000,122 @@
     "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-aproveita-jogador-a-mais-vence-e-mantem-o-internacional-no-z4/",
     "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/com-um-mais-mirassol-vence-e-complica-internacional-no-brasileirao"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Reinaldo, Willian Machado, João Victor, Igor Formiga; Denilson, Neto Moura, Eduardo; Edson Carioca, Bruno Santos, Shaylon",
+     "entraram": [
+      {
+       "jogador": "Wallisson Luiz",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alesson",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Edson Carioca",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luis",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Neto Moura",
+        "minuto": ""
+       },
+       {
+        "jogador": "André Luis",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Matheus Cunha; Bruno Gomes, Mercado, Juninho; Aguirre, Villagra, Thiago Maia, Matheus Bahia; Vitinho, Bernabei, Alerrandro",
+     "entraram": [
+      {
+       "jogador": "João Victor",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Bezerra",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carbonero",
+       "saiu": "Matheus Bahia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan",
+       "saiu": "Bernabei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Félix Torres",
+       "saiu": "Alerrandro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vitinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bruno Gomes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carbonero",
+        "minuto": ""
+       },
+       {
+        "jogador": "Mercado",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kauan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Villagra",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Matheus Cunha",
+        "minuto": "15"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/internacional/mirassol-x-internacional-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-12T05:49:00-03:00"
+   }
   },
   {
    "id": 91000082,
