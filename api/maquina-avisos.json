@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-12T18:16-03:00",
+ "gerado": "2026-11-12T20:25-03:00",
  "avisos": [
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
-  {
-   "clube": "taquaritinga",
-   "nome": "Taquaritinga",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
   {
    "clube": "desportivo-brasil",
    "nome": "Desportivo Brasil",
@@ -420,6 +406,20 @@
    "quando": "2026-11-12T18:16-03:00",
    "motivo": "Notícia confirmada, mas sem foto do Noroeste que desse para baixar e conferir nesta execução",
    "sugestao": "Amistoso Noroeste x São Paulo de sexta (13/11) no Alfredo de Castilho foi cancelado pela organizadora AEC por alerta de tempestade do Inmet; reembolso integral pela plataforma de ingressos: CNN Brasil e Gazeta Esportiva (11/11)"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-12T20:25-03:00",
+   "motivo": "Cobertura 6h: notícia confirmada hoje (compra definitiva de Wesley até 2028, site oficial + CBN Ribeirão; Patrick Brey e Morelli suspensos contra o Juventude), mas a foto do site oficial não pôde ser baixada nem conferida (site bloqueado para a Máquina) e não achei vídeo oficial com o jogador",
+   "sugestao": "Botafogo-SP compra Wesley em definitivo até 2028 e vai a Caxias sem Patrick Brey e Morelli (fontes: https://botafogofutebolsa.com.br/botafogo-exerce-opcao-e-adquire-o-atacante-wesley-em-definitivo e https://cbnribeirao.com.br/entre-renovacoes-de-atletas-botafogo-sp-mira-preparacao-para-atingir-objetivo-de-chegar-no-top-10-da-serie-b/), foto do Wesley no site oficial"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-12T20:25-03:00",
+   "motivo": "Cobertura 6h: jogo contra o Athletic em andamento (20h desta quinta, Primeiro de Maio); prévia já publicada e sem fato novo confirmado em 2 fontes nas últimas 24h; sem foto oficial acessível",
+   "sugestao": "Resultado de São Bernardo x Athletic (38ª rodada, despedida de Bergantin) e coletiva pós-jogo; depois, busca por novo técnico (Cauan de Almeida e Luizinho Lopes citados pelo Diário do Grande ABC e Futebol Interior, sem acerto)"
   }
  ]
 }
