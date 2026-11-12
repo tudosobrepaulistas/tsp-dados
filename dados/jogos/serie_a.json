@@ -3725,7 +3725,34 @@
    "fontes": [
     "https://www.lance.com.br/vasco/cbf-define-data-de-jogo-atrasado-do-vasco-no-brasileirao.html"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00"
+   "atualizado": "2026-11-05T02:09:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/chapecoense-x-vasco-onde-assistir-ao-jogo-adiado-da-21a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Chapecoense e Vasco fazem no sábado (14/11), às 20h30, na Arena Condá, em Chapecó, o jogo atrasado da 21ª rodada do Brasileirão, remarcado pela CBF. A Chapecoense, lanterna com 21 pontos em 33 jogos, já está rebaixada: a derrota de virada para o Mirassol por 2 a 1, em 3 de novembro, tirou as últimas chances matemáticas, já que o time só pode chegar a 36 pontos. Foi o primeiro clube a cair nesta Série A e o terceiro rebaixamento da Chape na era dos pontos corridos, como registrou A Tarde.",
+     "Para o Vasco, 13º com 41 pontos e um jogo a menos que a maioria dos rivais, a partida vale distância da zona de rebaixamento: o Corinthians, 17º e primeiro time do Z4, tem 37. Com uma vitória, o time carioca chega a 44 pontos e iguala o São Paulo, 10º colocado.",
+     "A Chapecoense tem a pior campanha do campeonato, com 4 vitórias, 9 empates e 20 derrotas, o pior ataque (33 gols) e a pior defesa (68 gols sofridos). Nos jogos mais recentes em Chapecó, venceu o Fluminense por 2 a 1, mas perdeu para Athletico-PR (4 a 1) e Mirassol (2 a 1).",
+     "O Vasco chega depois de uma semana dura: foi eliminado pelo Palmeiras na semifinal da Copa do Brasil, por 5 a 4 nos pênaltis, depois de vencer por 2 a 1 em São Januário no domingo (8/11), resultado que igualou a derrota por 1 a 0 na ida. No Brasileirão, vem de vitória sobre o Athletico-PR por 3 a 1 em Curitiba, no dia 4, depois de perder o clássico com o Flamengo por 4 a 1."
+    ],
+    "retrospecto": "No primeiro turno, em 5 de fevereiro, pela 2ª rodada, Vasco e Chapecoense empataram por 1 a 1 em São Januário, segundo o Diário do Rio.",
+    "estadio_wiki": "Arena Condá",
+    "fontes": [
+     "https://diariodorio.com/esporte/2026/10/30/chapecoense-x-vasco-cbf-divulga-data-e-horario-do-jogo-atrasado-do-brasileirao.html",
+     "https://atarde.com.br/esportes/chapecoense-sofre-virada-e-e-o-primeiro-time-rebaixado-no-brasileirao-1408281",
+     "https://maquinadoesporte.com.br/onde-assistir/chapecoense-x-vasco-onde-assistir-ao-jogo-adiado-da-21a-rodada-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-11T22:27:00-03:00"
+   }
   },
   {
    "id": 91000146,

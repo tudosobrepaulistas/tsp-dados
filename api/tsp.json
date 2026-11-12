@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11T21:12:00-03:00",
+ "gerado": "2026-11-11T22:27:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -7687,7 +7687,33 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/chapecoense-x-vasco-onde-assistir-ao-jogo-adiado-da-21a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Chapecoense e Vasco fazem no sábado (14/11), às 20h30, na Arena Condá, em Chapecó, o jogo atrasado da 21ª rodada do Brasileirão, remarcado pela CBF. A Chapecoense, lanterna com 21 pontos em 33 jogos, já está rebaixada: a derrota de virada para o Mirassol por 2 a 1, em 3 de novembro, tirou as últimas chances matemáticas, já que o time só pode chegar a 36 pontos. Foi o primeiro clube a cair nesta Série A e o terceiro rebaixamento da Chape na era dos pontos corridos, como registrou A Tarde.",
+     "Para o Vasco, 13º com 41 pontos e um jogo a menos que a maioria dos rivais, a partida vale distância da zona de rebaixamento: o Corinthians, 17º e primeiro time do Z4, tem 37. Com uma vitória, o time carioca chega a 44 pontos e iguala o São Paulo, 10º colocado.",
+     "A Chapecoense tem a pior campanha do campeonato, com 4 vitórias, 9 empates e 20 derrotas, o pior ataque (33 gols) e a pior defesa (68 gols sofridos). Nos jogos mais recentes em Chapecó, venceu o Fluminense por 2 a 1, mas perdeu para Athletico-PR (4 a 1) e Mirassol (2 a 1).",
+     "O Vasco chega depois de uma semana dura: foi eliminado pelo Palmeiras na semifinal da Copa do Brasil, por 5 a 4 nos pênaltis, depois de vencer por 2 a 1 em São Januário no domingo (8/11), resultado que igualou a derrota por 1 a 0 na ida. No Brasileirão, vem de vitória sobre o Athletico-PR por 3 a 1 em Curitiba, no dia 4, depois de perder o clássico com o Flamengo por 4 a 1."
+    ],
+    "retrospecto": "No primeiro turno, em 5 de fevereiro, pela 2ª rodada, Vasco e Chapecoense empataram por 1 a 1 em São Januário, segundo o Diário do Rio.",
+    "estadio_wiki": "Arena Condá",
+    "fontes": [
+     "https://diariodorio.com/esporte/2026/10/30/chapecoense-x-vasco-cbf-divulga-data-e-horario-do-jogo-atrasado-do-brasileirao.html",
+     "https://atarde.com.br/esportes/chapecoense-sofre-virada-e-e-o-primeiro-time-rebaixado-no-brasileirao-1408281",
+     "https://maquinadoesporte.com.br/onde-assistir/chapecoense-x-vasco-onde-assistir-ao-jogo-adiado-da-21a-rodada-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-11T22:27:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 15,
@@ -16895,7 +16921,24 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Sport e Goiás se enfrentam no sábado (14/11), às 16h30, na Ilha do Retiro, pela 38ª e última rodada da Série B, em situações bem diferentes. O Goiás é o 7º, com 58 pontos, empatado com CRB (6º) e Atlético-GO (8º), na briga pela última vaga do G6, que leva aos playoffs do acesso. Pelo regulamento, do 3º ao 6º colocado jogam mata-mata em ida e volta (3º x 6º e 4º x 5º) pelas duas últimas vagas na Série A.",
+     "As contas do Goiás, segundo a CNN Brasil: uma vitória em Recife garante a vaga se o CRB não vencer o Ceará, em Maceió. Se os dois ganharem, o desempate é no número de vitórias (17 para cada um antes da rodada) e depois no saldo de gols, em que o CRB leva oito gols de vantagem (+6 contra -2). Já o Sport, 9º com 55 pontos, chegou à rodada final praticamente fora da disputa: a virada sofrida para o Operário-PR por 3 a 2, em Ponta Grossa, no dia 6, deixou o Leão dependendo de tropeços que não aconteceram, como registrou o Diario de Pernambuco.",
+     "Nos jogos mais recentes, o Sport alterna bons e maus resultados: empatou com Atlético-GO (1 a 1) e Botafogo-SP (1 a 1), venceu o Criciúma por 2 a 1 na Ilha do Retiro e perdeu para Fortaleza (0 a 2, em casa) e Operário-PR. O time marcou 50 gols e sofreu 42 em 37 jogos.",
+     "O Goiás chega embalado: venceu quatro dos últimos cinco jogos (Operário-PR, Ceará, CRB e Ponte Preta) e empatou com o Náutico. No último domingo (8/11), bateu a lanterna Ponte Preta por 1 a 0 na Serrinha, com gol de Nicolas aos 50 minutos do segundo tempo. Fora de casa, venceu três das últimas cinco partidas, entre elas Avaí, Operário-PR e Ceará, todas por 2 a 0."
+    ],
+    "retrospecto": "No primeiro turno, em 23 de julho, pela 19ª rodada, Goiás e Sport empataram por 1 a 1 em Goiânia, com o gol do time goiano saindo nos minutos finais, segundo a Gazeta Esportiva e o Mais Goiás.",
+    "estadio_wiki": "Estádio Adelmar da Costa Carvalho",
+    "fontes": [
+     "https://cnnbrasil.com.br/esportes/brasileirao/serie-b-veja-disputa-por-acesso-playoffs-e-contra-o-z4-apos-a-37a-rodada",
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/11/amp/11728590-veja-o-que-o-sport-precisa-para-ainda-sonhar-com-o-acesso-na-serie-b.html",
+     "https://www.piranot.com.br/2026/11/09/noticias/esporte/goias-sport-serie-b-playoffs/",
+     "https://www.gazetaesportiva.com/?p=3825122",
+     "https://www.maisgoias.com.br/esportes/futebol/futebol-goiano/goias-esporte-clube/goias-evita-derrota-nos-minutos-finais-e-empata-com-o-sport/"
+    ],
+    "atualizado": "2026-11-11T22:27:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 30,
