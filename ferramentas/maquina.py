@@ -37,6 +37,7 @@ import hashlib
 import html
 import json
 import random
+import math
 import re
 import sys
 import unicodedata
@@ -536,7 +537,8 @@ def cmd_adicionar(a):
             erros.append("efeméride: tipo 'historia' com pelo menos 1 fonte (jornal da época, site oficial, FPF, Wikipédia)")
         if any(i.get("efemeride") and i["publish_at"][:10] == dia_pub for i in historico()["itens"]):
             erros.append(f"já há matéria 'Neste dia' para {dia_pub}")
-    if c.get("grupo") in ("nacional", "redacao") and it.get("tipo") not in ("noticia", "coletiva", "video") and not posjogo and not pedido and not efem:
+    a23 = c["slug"] in BLOCOS["A2"] + BLOCOS["A3"] and c.get("grupo") == "redacao"
+    if c.get("grupo") in ("nacional", "redacao") and it.get("tipo") not in ("noticia", "coletiva", "video") and not posjogo and not pedido and not efem and not (a23 and it.get("tipo") == "historia"):
         erros.append("clube da redação (Séries A/B, A1 a A3): só notícia ou coletiva atualizada (nada de evergreen)")
     if c.get("grupo") in ("nacional", "redacao") and not it.get("publish_at"):
         it["publish_at"] = (agora() + datetime.timedelta(minutes=5)).strftime("%Y-%m-%d %H:%M")
@@ -547,6 +549,10 @@ def cmd_adicionar(a):
         # Evergreen (08/11/2026, fora de temporada A4 e sem divisão quase não têm notícia): até 4 de sem divisão + 4 da A4 + 2 do feminino por dia
         lim_g = {"sem_divisao": 4, "a4": 4, "feminino": 2}.get(c.get("grupo"), 0)
         do_grupo = [i for i in hist_dia if grupo_de(i["clube"]) == c.get("grupo")]
+        for bl in ("A2", "A3"):  # 12/11/2026: A2 e A3 sem notícia → até 2 histórias por bloco por dia
+            if c["slug"] in BLOCOS[bl]:
+                lim_g = 2
+                do_grupo = [i for i in hist_dia if i["clube"] in BLOCOS[bl]]
         if len(do_grupo) >= lim_g:
             erros.append(f"já há {len(do_grupo)} matérias evergreen deste grupo para {dia} (máximo 4 sem divisão, 4 A4, 2 feminino): "
                          "use `sem-pauta CLUBE --motivo ... --sugestao ...` pedindo uma pauta à redação e passe ao próximo clube")
@@ -794,8 +800,103 @@ def cmd_limpar(_a):
     print(f"OK: {n} arquivo(s) antigos apagados")
 
 
+
+# ---------- Cotas diárias por bloco da home (11-12/11/2026, regra do Thiago) ----------
+# Conta TUDO o que saiu no site hoje (redação + Máquina). Se a redação não fez, a Máquina completa.
+BASE_RE = re.compile(r"\bsub[- ]?(11|13|14|15|17|20|23)\b|categorias? de base", re.I)
+
+
+def blocos_cota():
+    cs = clubes()["clubes"]
+    nac = {c["slug"] for c in cs if c.get("grupo") == "nacional"}
+    serie_b = [c["slug"] for c in cs if c.get("divisao") == "Série B"]
+    return [
+        # (nome, clubes, meta total, mínimo por clube, horários-limite)
+        ("Mirassol + Bragantino", ["mirassol", "bragantino"], 4, 2, "1 de cada até 12h e a 2ª de cada até 18h (publish_at 12:00 e 18:00)"),
+        ("Série B", serie_b, 2 * len(serie_b), 2, "2 de cada clube por dia"),
+        ("Futebol feminino", [c["slug"] for c in cs if c.get("grupo") == "feminino"], 8, 0, "8 por dia, variando entre as 8 equipes"),
+        ("Paulistão A1 (sem Série A e B)", [x for x in BLOCOS["A1"] if x not in nac], 8, 0, "8 por dia"),
+        ("Paulistão A2", [x for x in BLOCOS["A2"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
+        ("Paulistão A3", [x for x in BLOCOS["A3"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
+        ("Paulistão A4", [c["slug"] for c in cs if c.get("grupo") == "a4"], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
+        ("Clubes sem divisão", [c["slug"] for c in cs if c.get("grupo") == "sem_divisao"], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
+    ]
+
+
+def materias_de_hoje():
+    """Tudo o que foi publicado hoje no site (qualquer autor): lista de (slugs dos clubes, título, hora)."""
+    ini = agora().strftime("%Y-%m-%dT00:00:00")
+    inv = {v: k for k, v in termos().items()}
+    out = []
+    for tipo in ("materia", "posts"):
+        for pag in range(1, 6):
+            try:
+                ms = baixar(f"{SITE}{tipo}?after={ini}&per_page=100&page={pag}&_fields=date,title,times")
+            except Exception:  # noqa: BLE001
+                break
+            for m in ms:
+                out.append(({inv.get(t, "") for t in (m.get("times") or [])}, re.sub("<[^>]+>", "", m["title"]["rendered"]), m["date"][11:16]))
+            if len(ms) < 100:
+                break
+    return out
+
+
+def cmd_cotas(a):
+    """cotas: placar do dia de cada bloco da home (redação + Máquina) e o que falta AGORA, com os clubes mais esquecidos."""
+    t = agora()
+    hoje = materias_de_hoje()
+    # meta proporcional ao horário (8h → 0, 22h → tudo), para espalhar as matérias no dia; depois das 21h vale a meta cheia
+    frac = 1.0 if t.hour >= 21 else max(0.0, min(1.0, (t.hour + t.minute / 60 - 8) / 13))
+    falta_total = 0
+    print(f"Cotas de {t:%d/%m} às {t:%H:%M} (tudo o que saiu no site hoje: redação + Máquina)")
+    for nome, slugs, meta, por_clube, regra in blocos_cota():
+        cont = {s: sum(1 for cl, _, _ in hoje if s in cl) for s in slugs}
+        feito = sum(1 for cl, _, _ in hoje if cl & set(slugs))
+        if por_clube:
+            # Mirassol/Bragantino: 1 até 12h, 2 até 18h; Série B: proporcional
+            if nome.startswith("Mirassol"):
+                alvo = 2 if t.hour >= 17 else (1 if t.hour >= 11 else 0)
+            else:
+                alvo = por_clube if t.hour >= 17 else (1 if t.hour >= 11 else 0)
+            faltam = [(s, alvo - cont[s]) for s in slugs if cont[s] < alvo]
+            n = sum(x for _, x in faltam)
+            st = f"{feito} hoje ({', '.join(f'{s} {cont[s]}' for s in slugs)})"
+        else:
+            alvo = math.ceil(meta * frac)
+            n = max(0, alvo - feito)
+            faltam = []
+            st = f"{feito}/{meta} hoje"
+        falta_total += n
+        print(f"\n## {nome}: {st} · regra: {regra}" + (f" → FALTAM {n} AGORA" if n else " → em dia"))
+        if not n:
+            continue
+        if por_clube:
+            cand = [s for s, _ in faltam]
+        else:
+            idade = []
+            for s in slugs:
+                try:
+                    h, _ = ultima_materia_de([s])
+                except Exception:  # noqa: BLE001
+                    h = 99
+                idade.append((-h, s))
+            idade.sort()
+            cand = [s for _, s in idade[:max(4, n + 2)]]
+        for s in cand:
+            linha = f"- {s} ({cont.get(s, 0)} hoje)"
+            ps = pautas_de([s])[:2]
+            print(linha + ("" if ps else " · sem pauta da redação"))
+            for p_ in ps:
+                print(f"    pauta {p_.get('quando', '')}: {p_['titulo']} | " + " ".join(f['url'] for f in p_.get('fontes', [])))
+    base = sum(1 for _, tit, _ in hoje if BASE_RE.search(tit))
+    alvo_b = math.ceil(4 * frac)
+    nb = max(0, alvo_b - base)
+    falta_total += nb
+    print(f"\n## Base (masculina e feminina): {base}/4 hoje · regra: 4 por dia, categoria no título (Sub-20, Sub-17...)" + (f" → FALTAM {nb} AGORA" if nb else " → em dia"))
+    print(f"\nTOTAL QUE FALTA AGORA: {falta_total}" + ("  → tudo em dia, pode terminar" if not falta_total else ""))
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
