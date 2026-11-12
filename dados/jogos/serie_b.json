@@ -148,6 +148,260 @@
    }
   },
   {
+   "id": 91000325,
+   "data": "2026-03-21T20:30:00-03:00",
+   "casa": "cuiaba",
+   "fora": "sport",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/sport/sport-empata-com-o-cuiaba-pela-estreia-na-serie-b-do-brasileirao/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/03/11710473-em-jogo-morno-sport-estreia-na-serie-b-com-empate-contra-o-cuiaba-fora-de-casa.html"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Barros",
+     "time": "Marcelo Carné; Raylan, Knesowitsch, Vitor Mendes, Marlon; Raul, Calebe, Pepê; Lorenzo, Vinícius Peixoto, Rodrigo Rodrigues",
+     "entraram": [
+      {
+       "jogador": "Nino Paraíba",
+       "saiu": "Raylan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luisão",
+       "saiu": "Vitor Mendes",
+       "minuto": ""
+      },
+      {
+       "jogador": "David Gabriel",
+       "saiu": "Pepê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Weverson",
+       "saiu": "Lorenzo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Santos",
+       "saiu": "Vinícius Peixoto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Knesowitsch",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Roger Silva",
+     "time": "Thiago Couto; Augusto Pucci, Zé Marcos, Ramon Menezes, Felipinho; Zé Lucas, Zé Gabriel, Yago Felipe; Iury Castilho, Gustavo Maia, Zé Roberto",
+     "entraram": [
+      {
+       "jogador": "Dedé",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lipão",
+       "saiu": "Iury Castilho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Clayson",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Micael",
+       "saiu": "Zé Roberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Yago Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Clayson",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/03/11710473-em-jogo-morno-sport-estreia-na-serie-b-com-empate-contra-o-cuiaba-fora-de-casa.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000326,
+   "data": "2026-04-01T19:00:00-03:00",
+   "casa": "sport",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Janderson",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Perotti",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711309-sem-vencer-na-serie-b-sport-empata-com-o-vila-nova-na-ilha-do-retiro.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-e-vila-nova-empatam-e-seguem-sem-vencer-pela-serie-b/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Augusto Pucci, Marcelo Ajul, Zé Marcos, Felipinho; Zé Gabriel, Yago Felipe, Biel; Barletta, Iury Castilho, Zé Roberto",
+     "entraram": [
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Augusto Pucci",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Zé Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Clayson",
+       "saiu": "Barletta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Perotti",
+       "saiu": "Zé Roberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Marcos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Yago Felipe",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Iury Castilho",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Guto Ferreira",
+     "time": "Helton Leite; Hayner, Tiago Pagnussat, Caio Marcelo, Willian Formiga; Nathan Camargo, João Vieira, Marquinhos Gabriel; Janderson, Ryan, Dellatorre",
+     "entraram": [
+      {
+       "jogador": "Elias",
+       "saiu": "Hayner",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willian Maranhão",
+       "saiu": "Nathan Camargo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dodô",
+       "saiu": "Janderson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Xavier",
+       "saiu": "Ryan",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Caio Marcelo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ryan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Hayner",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nathan Camargo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Dellatorre",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711309-sem-vencer-na-serie-b-sport-empata-com-o-vila-nova-na-ilha-do-retiro.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
    "id": 91000268,
    "data": "2026-04-01T21:30:00-03:00",
    "casa": "criciuma",
@@ -182,6 +436,118 @@
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-um-a-menos-athletic-segura-empate-com-criciuma-fora-de-casa-pela-serie-b/"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000327,
+   "data": "2026-04-04T20:30:00-03:00",
+   "casa": "londrina",
+   "fora": "sport",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vitorino Gonçalves Dias",
+   "cidade": "Londrina",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Bruno Santos",
+     "minuto": "22",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Barletta",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Perotti",
+     "minuto": "87",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711494-sport-vira-para-cima-do-londrina-e-vence-a-primeira-na-serie-b.html",
+    "https://www.gazetaesportiva.com/?p=3775822"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Allan Aal",
+     "time": "Maurício Kozlinski; Weverton, Yago Lincoln, Heron, Kevyn; André Luiz, Lucas Marques, Thalis; Vitinho Mota, Bruno Santos, Iago Teles",
+     "entraram": [
+      {
+       "jogador": "Chumbinho",
+       "saiu": "André Luiz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho Moccelin",
+       "saiu": "Thalis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Maia",
+       "saiu": "Vitinho Mota",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Iago Teles",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Thalis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Paulinho Moccelin",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Augusto Pucci, Marcelo Ajul, Zé Marcos, Felipinho; Zé Gabriel, Zé Lucas, Yago Felipe, Biel; Barletta, Perotti",
+     "entraram": [
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Augusto Pucci",
+       "minuto": ""
+      },
+      {
+       "jogador": "Clayson",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Barletta",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711494-sport-vira-para-cima-do-londrina-e-vence-a-primeira-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
   },
   {
    "id": 91000240,
@@ -308,6 +674,370 @@
      "https://www.oliberal.com/esportes/sao-bernardo-surpreende-o-botafogo-sp-e-vence-de-virada-em-ribeirao-preto-pela-serie-b-1.1106333"
     ],
     "atualizado": "2026-11-10T18:38:00-03:00"
+   }
+  },
+  {
+   "id": 91000328,
+   "data": "2026-04-11T18:00:00-03:00",
+   "casa": "sport",
+   "fora": "avai",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Luiz Henrique",
+     "minuto": "19",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Barletta",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carlos de Pena",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Sorriso",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711974-sport-sofre-gol-no-apagar-das-luzes-e-empata-com-o-avai-na-ilha-pela-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-busca-empate-com-o-sport-no-ultimo-lance-e-mantem-lideranca-da-serie-b/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Yago Felipe, Marcelo Ajul, Zé Marcos, Felipinho; Zé Gabriel, Zé Lucas, Biel; Barletta, Clayson, Perotti",
+     "entraram": [
+      {
+       "jogador": "Habraão",
+       "saiu": "Zé Marcos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Zé Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iury Castilho",
+       "saiu": "Clayson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Maia",
+       "saiu": "Perotti",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Barletta",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marlon Douglas",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Cauan de Almeida",
+     "time": "Léo Aragão; Wallison, Allyson, Bruno Baldni, Douglas Teixeira; Zé Ricardo, Paulo Vítor, Jean Lucas, Luiz Henrique; Thayllon, Walace",
+     "entraram": [
+      {
+       "jogador": "Wesley Gasolina",
+       "saiu": "Wallison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cristiano",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Del Piage",
+       "saiu": "Luiz Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sorriso",
+       "saiu": "Thayllon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Isaías",
+       "saiu": "Walace",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Wallison",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Isaías",
+        "minuto": ""
+       },
+       {
+        "jogador": "Douglas Teixeira",
+        "minuto": ""
+       },
+       {
+        "jogador": "Sorriso",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711974-sport-sofre-gol-no-apagar-das-luzes-e-empata-com-o-avai-na-ilha-pela-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000329,
+   "data": "2026-04-18T18:00:00-03:00",
+   "casa": "america-mg",
+   "fora": "sport",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Independência",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712475-sport-fica-no-empate-com-o-america-mg-em-belo-horizonte.html",
+    "https://www.gazetaesportiva.com/?p=3779982"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Roger Silva",
+     "time": "Gustavo; Jhonny, Nathan, Rafa Barcelos, Dalbert; Felipe Amaral, Val Soares, Yago Santos, Segovinha; Thauan, Mastriani",
+     "entraram": [
+      {
+       "jogador": "Paulinho",
+       "saiu": "Dalbert",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Alaba",
+       "saiu": "Felipe Amaral",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhonatan Lima",
+       "saiu": "Yago Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alê",
+       "saiu": "Segovinha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Victor",
+       "saiu": "Mastriani",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rafa Barcelos",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Augusto Pucci, Marcelo Ajul, Marcelo Benevenuto, Felipinho; Zé Gabriel, Zé Lucas, Carlos de Pena; Barletta, Iury Castilho, Perotti",
+     "entraram": [
+      {
+       "jogador": "Madson",
+       "saiu": "Augusto Pucci",
+       "minuto": ""
+      },
+      {
+       "jogador": "Habraão",
+       "saiu": "Marcelo Ajul",
+       "minuto": ""
+      },
+      {
+       "jogador": "Biel",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Iury Castilho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Iury Castilho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Augusto Pucci",
+        "minuto": ""
+       },
+       {
+        "jogador": "Madson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Gabriel",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712475-sport-fica-no-empate-com-o-america-mg-em-belo-horizonte.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000330,
+   "data": "2026-04-25T20:30:00-03:00",
+   "casa": "sport",
+   "fora": "novorizontino",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Perotti",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712937-melhorando-apos-o-intervalo-sport-bate-o-novorizontino-e-chega-a-primeira-vitoria-na-ilha-do-retiro-pela-serie-b.html",
+    "https://www.folhape.com.br/esportes/sport-supera-novorizontino-e-conquista-a-primeira-vitoria-na-ilha-do/483233/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Habraão, Marcelo Benevenuto, Felipinho; Zé Gabriel, Zé Lucas, Biel; Clayson, Barletta, Perotti",
+     "entraram": [
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patrick",
+       "saiu": "Habraão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Zé Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Felipe",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iury Castilho",
+       "saiu": "Clayson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Enderson Moreira",
+     "time": "César Augusto; Iván Alvariño, Dantas, Patrick, Maykon Jesus; Luís Oyama, Matheus Bianqui, Juninho; Tavinho, Diego Galo, Robson",
+     "entraram": [
+      {
+       "jogador": "Alemão",
+       "saiu": "Iván Alvariño",
+       "minuto": ""
+      },
+      {
+       "jogador": "Titi Ortiz",
+       "saiu": "Luís Oyama",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rômulo",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinícius Paiva",
+       "saiu": "Tavinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hélio Borges",
+       "saiu": "Diego Galo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712937-melhorando-apos-o-intervalo-sport-bate-o-novorizontino-e-chega-a-primeira-vitoria-na-ilha-do-retiro-pela-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
    }
   },
   {
@@ -537,6 +1267,286 @@
    }
   },
   {
+   "id": 91000331,
+   "data": "2026-05-03T18:00:00-03:00",
+   "casa": "sport",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Barletta",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Madson",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713462-sport-vence-confronto-direto-contra-ceara-e-pega-elevador-na-serie-b.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/sport-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3760958"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Marcelo Ajul, Marcelo Benevenuto, Felipinho; Zé Lucas, Biel, Carlos de Pena; Barletta, Perotti, Clayson",
+     "entraram": [
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Felipe",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Max",
+       "saiu": "Carlos de Pena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iury Castilho",
+       "saiu": "Barletta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Clayson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcelo Ajul",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barletta",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Mozart",
+     "time": "Bruno Ferreira; Rafael Ramos, Éder, Luiz Otávio, Fernando; Zanocelo, Matheus Araújo, Lucas Lima; Fernandinho, Lucca, Melk",
+     "entraram": [
+      {
+       "jogador": "Giulio",
+       "saiu": "Fernandinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sánchez",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Alano",
+       "saiu": "Zanocelo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Matheus Araújo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Henrique",
+       "saiu": "Melk",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bruno Ferreira",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucca",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rafael Ramos",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713462-sport-vence-confronto-direto-contra-ceara-e-pega-elevador-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000332,
+   "data": "2026-05-09T18:30:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "sport",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Moisés Lucarelli",
+   "cidade": "Campinas",
+   "gols_casa": 1,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Danilo Barcelos",
+     "minuto": "22",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Felipinho",
+     "minuto": "30",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Barletta",
+     "minuto": "45+4",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Perotti",
+     "minuto": "58",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713900-sport-vira-sobre-a-ponte-preta-assume-a-lideranca-provisoria-e-segue-invicto-na-serie-b.html",
+    "https://www.oliberal.com/esportes/sport-bate-a-ponte-preta-de-virada-em-campinas-mantem-tabu-e-invencibilidade-na-serie-b-1.1119422"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Gabriel Remédio",
+     "time": "Diogo Silva; Lucas Justen, Weverton, Márcio Silva, Kevyson; Rodrigo Souza, André Lima, Danilo Barcelos; Diego Tavares, Bryan, David da Hora",
+     "entraram": [
+      {
+       "jogador": "Thalys",
+       "saiu": "Lucas Justen",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodriguinho",
+       "saiu": "Kevyson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tárik",
+       "saiu": "Rodrigo Souza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Elvis",
+       "saiu": "André Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Baianinho",
+       "saiu": "Diego Tavares",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bryan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodriguinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Elvis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Márcio Silva",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Marcelo Ajul, Marcelo Benevenuto, Felipinho; Zé Lucas, Biel, Carlos de Pena; Barletta, Clayson, Perotti",
+     "entraram": [
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Gabriel",
+       "saiu": "Carlos de Pena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Marcos",
+       "saiu": "Clayson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcelo Ajul",
+        "minuto": ""
+       },
+       {
+        "jogador": "Felipinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barletta",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Marcelo Ajul",
+        "minuto": "69"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713900-sport-vira-sobre-a-ponte-preta-assume-a-lideranca-provisoria-e-segue-invicto-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
    "id": 91000269,
    "data": "2026-05-09T21:15:00-03:00",
    "casa": "juventude",
@@ -719,6 +1729,250 @@
     "https://ohoje.com/2026/05/17/vila-nova-bate-o-avai-no-oba-encerra-jejum-e-retoma-lugar-no-g4-da-serie-b/"
    ],
    "atualizado": "2026-11-10T02:39:00-03:00"
+  },
+  {
+   "id": 91000333,
+   "data": "2026-05-17T20:30:00-03:00",
+   "casa": "sport",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "9",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Mikael",
+     "minuto": "39",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Danielzinho",
+     "minuto": "58",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Perotti",
+     "minuto": "77",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714421-crb-coloca-agua-no-chopp-do-sport-e-vence-na-ilha-do-retiro-com-direito-a-lei-do-ex.html",
+    "https://www.oliberal.com/esportes/crb-vence-na-ilha-do-retiro-e-quebra-invencibilidade-do-sport-na-serie-b-1.1122654"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Marcelo Benevenuto, Zé Marcos, Felipinho; Zé Lucas, Biel, Carlos de Pena; Marlon Douglas, Clayson, Perotti",
+     "entraram": [
+      {
+       "jogador": "Gustavo Maia",
+       "saiu": "Marlon Douglas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iury Castilho",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Felipe",
+       "saiu": "Carlos de Pena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Lucas",
+       "saiu": "Clayson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Madson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Lucas",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Barroca",
+     "time": "Vitor Caetano; Hereda, Henri, Fábio Alemão, Lucas Lovat; Patrick De Lucca, Pedro Castro, Crystopher; Thiaguinho, Dadá Belmonte, Mikael",
+     "entraram": [
+      {
+       "jogador": "Danielzinho",
+       "saiu": "Patrick De Lucca",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luizão",
+       "saiu": "Pedro Castro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Felipe",
+       "saiu": "Thiaguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bressan",
+       "saiu": "Dadá Belmonte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Douglas Baggio",
+       "saiu": "Mikael",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714421-crb-coloca-agua-no-chopp-do-sport-e-vence-na-ilha-do-retiro-com-direito-a-lei-do-ex.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000334,
+   "data": "2026-05-23T20:30:00-03:00",
+   "casa": "juventude",
+   "fora": "sport",
+   "status": "encerrado",
+   "rodada": "10",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Iury Castilho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714872-sport-vence-juventude-fora-de-casa-quebra-tabu-e-assume-vice-lideranca-da-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-vence-juventude-vice-lider-serie-b/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Messias, Rodrigo Sam, Marcos Paulo; Nathan, Lucas Mineiro, Raí Silva, Diogo Barbosa; Fábio Lima, MP, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Aderlan",
+       "saiu": "Nathan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vadson",
+       "saiu": "Diogo Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Manuel Castro",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allanzinho",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Alan Kardec",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Messias",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Zé Marcos, Marcelo Benevenuto, Felipinho; Zé Lucas, Yago Felipe, Biel; Barletta, Clayson, Perotti",
+     "entraram": [
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Gabriel",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Lucas",
+       "saiu": "Barletta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iury Castilho",
+       "saiu": "Clayson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Biel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Perotti",
+        "minuto": ""
+       },
+       {
+        "jogador": "Felipinho",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714872-sport-vence-juventude-fora-de-casa-quebra-tabu-e-assume-vice-lideranca-da-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
   },
   {
    "id": 91000211,
@@ -986,6 +2240,383 @@
    }
   },
   {
+   "id": 91000335,
+   "data": "2026-05-30T20:30:00-03:00",
+   "casa": "sport",
+   "fora": "nautico",
+   "status": "encerrado",
+   "rodada": "11",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Barletta",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Barletta",
+     "minuto": "82",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11715406-barletta-decide-sport-vence-o-nautico-no-classico-e-dorme-na-lideranca-da-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ex-corinthians-decide-sport-bate-nautico-e-dorme-na-lideranca-da-serie-b/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Marcelo Benevenuto, Zé Marcos, Edson Lucas; Zé Lucas, Biel, Yago Felipe; Barletta, Clayson, Perotti",
+     "entraram": [
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Gabriel",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iury Castilho",
+       "saiu": "Clayson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Matheus",
+       "saiu": "Perotti",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Yago Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Marcos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Lucas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Iury Castilho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barletta",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Hélio dos Anjos",
+     "time": "Muriel; Reginaldo, Mateus Silva, Betão, Igor Fernandes; Leonai Souza, Luiz Felipe, Dodô; Vinícius, Victor Andrade, Paulo Sérgio",
+     "entraram": [
+      {
+       "jogador": "Arnaldo",
+       "saiu": "Reginaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yuri Silva",
+       "saiu": "Betão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Leonai Souza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Derek",
+       "saiu": "Victor Andrade",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júnior Todinho",
+       "saiu": "Paulo Sérgio",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Victor Andrade",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Paulo Sérgio",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11715406-barletta-decide-sport-vence-o-nautico-no-classico-e-dorme-na-lideranca-da-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000336,
+   "data": "2026-06-10T21:00:00-03:00",
+   "casa": "sport",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "12",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Augusto Pucci",
+     "minuto": "60",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ian Luccas",
+     "minuto": "65",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716285-sport-empata-com-athletic-na-ilha-e-desperdica-chance-de-reassumir-lideranca-da-serie-b.html",
+    "https://www.folhape.com.br/esportes/sport-fica-no-empate-com-athletic-e-perde-chance-de-reassumir/493225/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Marcelo Benevenuto, Zé Marcos, Felipinho; Pedro Martins, Fábio Matheus, Biel; Barletta, Edson Lucas, Perotti",
+     "entraram": [
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Edson Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Gabriel",
+       "saiu": "Pedro Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Max",
+       "saiu": "Barletta",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Carlos de Pena",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Alex de Souza",
+     "time": "Luan Polli; Jhonatan Silva, João Miguel, Belezi; Diogo Batista, Gian Cabezas, Ian Luccas, Kauan Rodrigues, Zeca; Dixon Vera, Max",
+     "entraram": [
+      {
+       "jogador": "Douglas Pelé",
+       "saiu": "Diogo Batista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jota",
+       "saiu": "Gian Cabezas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Moisés",
+       "saiu": "Ian Luccas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ruan Assis",
+       "saiu": "Dixon Vera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruninho",
+       "saiu": "Max",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716285-sport-empata-com-athletic-na-ilha-e-desperdica-chance-de-reassumir-lideranca-da-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000337,
+   "data": "2026-06-14T11:00:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "sport",
+   "status": "encerrado",
+   "rodada": "13",
+   "fase": "",
+   "grupo": "",
+   "estadio": "1º de Maio",
+   "cidade": "São Bernardo do Campo",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716530-com-um-a-mais-sport-empata-com-sao-bernardo-e-desperdica-nova-chance-de-lideranca-na-serie-b.html",
+    "https://www.gazetaesportiva.com/times/sport/com-um-a-menos-sao-bernardo-empata-com-sport-e-lidera-a-serie-b/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Ricardo Catalá",
+     "time": "Alex Alves; Rodrigo Ferreira, Jemerson, Augusto, Pará; Foguinho, Dudu Miraíma, Romisson; Pedro Vitor, Echaporã, Felipe Garcia",
+     "entraram": [
+      {
+       "jogador": "Daniel Davi",
+       "saiu": "Dudu Miraíma",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hugo Sanches",
+       "saiu": "Romisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Manzoli",
+       "saiu": "Pedro Vitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luizão",
+       "saiu": "Echaporã",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Amorim",
+       "saiu": "Felipe Garcia",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jemerson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Jemerson",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Marcelo Benevenuto, Zé Marcos, Felipinho; Zé Lucas, Yago Felipe, Biel; Barletta, Iury Castilho, Perotti",
+     "entraram": [
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Lucas",
+       "saiu": "Felipinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Biel",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Madson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marlon Douglas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Iury Castilho",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716530-com-um-a-mais-sport-empata-com-sao-bernardo-e-desperdica-nova-chance-de-lideranca-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
    "id": 91000271,
    "data": "2026-06-15T21:00:00-03:00",
    "casa": "criciuma",
@@ -1020,6 +2651,117 @@
     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/06/15/com-gol-de-joao-gabriel-ceara-arranca-empate-do-criciuma-fora-de-casa-pela-serie-b.html"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000338,
+   "data": "2026-06-18T21:00:00-03:00",
+   "casa": "sport",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "14",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Perotti",
+     "minuto": "25",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Léo Jacó",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716935-sport-cede-empate-ao-atletico-go-nos-acrescimos-e-frustra-novamente-a-torcida-na-serie-b.html",
+    "https://ohoje.com/2026/06/18/atletico-go-marca-nos-acrescimos-e-arranca-empate-contra-o-sport-na-ilha-do-retiro/"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Augusto Pucci, Marcelo Benevenuto, Zé Marcos, Felipinho; Zé Lucas, Yago Felipe, Biel; Barletta, Iury Castilho, Perotti",
+     "entraram": [
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Augusto Pucci",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Matheus",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos de Pena",
+       "saiu": "Iury Castilho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Renan Brito",
+     "time": "Paulo Henrique; Ewerthon, Tito, Junior Barreto, Guilherme Lopes; Cristiano, Leandro Vilela, Guilherme Marques; Geovany Soares, Bruno José, Marrony",
+     "entraram": [
+      {
+       "jogador": "Gabriel Paé",
+       "saiu": "Ewerthon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Jacó",
+       "saiu": "Leandro Vilela",
+       "minuto": ""
+      },
+      {
+       "jogador": "Assis",
+       "saiu": "Guilherme Marques",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Guimarães",
+       "saiu": "Bruno José",
+       "minuto": ""
+      },
+      {
+       "jogador": "Klebert",
+       "saiu": "Marrony",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Tito",
+        "minuto": ""
+       },
+       {
+        "jogador": "Guilherme Marques",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716935-sport-cede-empate-ao-atletico-go-nos-acrescimos-e-frustra-novamente-a-torcida-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
   },
   {
    "id": 91000185,
@@ -1206,6 +2948,123 @@
    "atualizado": "2026-11-10T02:40:00-03:00"
   },
   {
+   "id": 91000339,
+   "data": "2026-06-28T18:30:00-03:00",
+   "casa": "fortaleza",
+   "fora": "sport",
+   "status": "encerrado",
+   "rodada": "15",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Rodrigo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Perotti",
+     "minuto": "68",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Welliton",
+     "minuto": "90+4",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11717647-sport-leva-gol-aos-49-minutos-do-2-tempo-e-perde-de-novo-para-o-fortaleza.html",
+    "https://mais.opovo.com.br/jornal/esportes/2026/06/29/fortaleza-vence-sport-com-gol-no-fim-e-segue-na-cola-do-g-6-da-serie-b.html"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Thiago Carpini",
+     "time": "João Ricardo; Mucuri, Britez, Luan Freitas, Gabriel Fuentes; Rodrigo, Pierre, Lucas Sacha; Vitinho, Luiz Fernando, Miritello",
+     "entraram": [
+      {
+       "jogador": "Lucas Gazal",
+       "saiu": "Britez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Crispim",
+       "saiu": "Rodrigo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca Prior",
+       "saiu": "Pierre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan",
+       "saiu": "Lucas Sacha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Emanoel",
+       "saiu": "Vitinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Márcio Goiano",
+     "time": "Thiago Couto; Madson, Marcelo Benevenuto, Zé Marcos, Felipinho; Zé Lucas, Fábio Matheus, Biel; Barletta, Iury Castilho, Perotti",
+     "entraram": [
+      {
+       "jogador": "Pedro Martins",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Gabriel",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon Douglas",
+       "saiu": "Barletta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Clayson",
+       "saiu": "Iury Castilho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Felipinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marcelo Benevenuto",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11717647-sport-leva-gol-aos-49-minutos-do-2-tempo-e-perde-de-novo-para-o-fortaleza.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
    "id": 91000273,
    "data": "2026-07-08T20:00:00-03:00",
    "casa": "ponte-preta",
@@ -1227,6 +3086,164 @@
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/com-gol-nos-acrescimos-criciuma-bate-ponte-preta-e-vira-lider-da-serie-b,d9445ce77fb0ca3cdd7ffd866fc2454121bwvgzn.html"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000340,
+   "data": "2026-07-10T20:00:00-03:00",
+   "casa": "sport",
+   "fora": "botafogo-sp",
+   "status": "encerrado",
+   "rodada": "17",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ilha do Retiro",
+   "cidade": "Recife",
+   "gols_casa": 3,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Zé Hugo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Rafael Gava",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Barletta",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marcelo Benevenuto",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Patrick Brey",
+     "minuto": "76",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Barletta",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/07/11718584-sport-reage-busca-empate-contra-o-botafogo-sp-mas-amplia-jejum-de-vitorias-na-serie-b.html",
+    "https://www.gazetaesportiva.com/?p=3819813"
+   ],
+   "atualizado": "2026-11-12T18:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Gilmar Dal Pozzo",
+     "time": "Thiago Couto; Madson, Marcelo Benevenuto, Habraão, Felipinho; Zé Lucas, Fábio Matheus, Biel; Barletta, Marlon Douglas, Perotti",
+     "entraram": [
+      {
+       "jogador": "Augusto Pucci",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Gabriel",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Felipe",
+       "saiu": "Fábio Matheus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Roberto",
+       "saiu": "Biel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Clayson",
+       "saiu": "Marlon Douglas",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Lucas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Habraão",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Clayson",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Claudio Tencati",
+     "time": "Victor Souza; Yuri Felipe, Ericson, Vilar, Patrick Brey; Matheus Sales, Everton Morelli, Rafael Gava; Zé Hugo, Kelvin, Hygor",
+     "entraram": [
+      {
+       "jogador": "Leandro Maciel",
+       "saiu": "Matheus Sales",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wallace",
+       "saiu": "Rafael Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley Santos",
+       "saiu": "Zé Hugo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Vieira",
+       "saiu": "Kelvin",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Queiróz",
+       "saiu": "Hygor",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rafael Gava",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Sales",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/07/11718584-sport-reage-busca-empate-contra-o-botafogo-sp-mas-amplia-jejum-de-vitorias-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T18:37:00-03:00"
+   }
   },
   {
    "id": 91000274,

@@ -1,5 +1,17 @@
 [
  {
+  "jogador": "Barletta",
+  "time": "Sport",
+  "time_id": 900027,
+  "gols": 8
+ },
+ {
+  "jogador": "Perotti",
+  "time": "Sport",
+  "time_id": 900027,
+  "gols": 8
+ },
+ {
   "jogador": "Fellipe Mateus",
   "time": "Criciúma",
   "time_id": 900025,
@@ -18,6 +30,12 @@
   "gols": 4
  },
  {
+  "jogador": "Danielzinho",
+  "time": "CRB",
+  "time_id": 900026,
+  "gols": 3
+ },
+ {
   "jogador": "Gustavo Coutinho",
   "time": "Atlético-GO",
   "time_id": 900028,
@@ -30,15 +48,15 @@
   "gols": 3
  },
  {
-  "jogador": "Chrystian Barletta",
+  "jogador": "Carlos de Pena",
   "time": "Sport",
   "time_id": 900027,
   "gols": 2
  },
  {
-  "jogador": "Danielzinho",
-  "time": "CRB",
-  "time_id": 900026,
+  "jogador": "Chrystian Barletta",
+  "time": "Sport",
+  "time_id": 900027,
   "gols": 2
  },
  {
@@ -49,6 +67,12 @@
  },
  {
   "jogador": "Dudu",
+  "time": "Vila Nova",
+  "time_id": 900023,
+  "gols": 2
+ },
+ {
+  "jogador": "Janderson",
   "time": "Vila Nova",
   "time_id": 900023,
   "gols": 2
@@ -69,6 +93,12 @@
   "jogador": "Matheus Bianqui",
   "time": "Novorizontino",
   "time_id": 900021,
+  "gols": 2
+ },
+ {
+  "jogador": "Mikael",
+  "time": "CRB",
+  "time_id": 900026,
   "gols": 2
  },
  {
@@ -108,6 +138,12 @@
   "gols": 1
  },
  {
+  "jogador": "Augusto Pucci",
+  "time": "Sport",
+  "time_id": 900027,
+  "gols": 1
+ },
+ {
   "jogador": "Badaró",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -123,6 +159,12 @@
   "jogador": "Brandão",
   "time": "Ponte Preta",
   "time_id": 900040,
+  "gols": 1
+ },
+ {
+  "jogador": "Bruno Santos",
+  "time": "Londrina",
+  "time_id": 900038,
   "gols": 1
  },
  {
@@ -156,12 +198,6 @@
   "gols": 1
  },
  {
-  "jogador": "Carlos de Pena",
-  "time": "Sport",
-  "time_id": 900027,
-  "gols": 1
- },
- {
   "jogador": "Crystopher",
   "time": "CRB",
   "time_id": 900026,
@@ -183,6 +219,12 @@
   "jogador": "Daniel Davi",
   "time": "São Bernardo",
   "time_id": 900031,
+  "gols": 1
+ },
+ {
+  "jogador": "Danilo Barcelos",
+  "time": "Ponte Preta",
+  "time_id": 900040,
   "gols": 1
  },
  {
@@ -213,6 +255,12 @@
   "jogador": "Fabrício Daniel",
   "time": "São Bernardo",
   "time_id": 900031,
+  "gols": 1
+ },
+ {
+  "jogador": "Felipinho",
+  "time": "Sport",
+  "time_id": 900027,
   "gols": 1
  },
  {
@@ -264,15 +312,21 @@
   "gols": 1
  },
  {
+  "jogador": "Ian Luccas",
+  "time": "Athletic",
+  "time_id": 900034,
+  "gols": 1
+ },
+ {
   "jogador": "Igor Bahia",
   "time": "Londrina",
   "time_id": 900038,
   "gols": 1
  },
  {
-  "jogador": "Janderson",
-  "time": "Vila Nova",
-  "time_id": 900023,
+  "jogador": "Iury Castilho",
+  "time": "Sport",
+  "time_id": 900027,
   "gols": 1
  },
  {
@@ -330,6 +384,12 @@
   "gols": 1
  },
  {
+  "jogador": "Luiz Henrique",
+  "time": "Avaí",
+  "time_id": 900037,
+  "gols": 1
+ },
+ {
   "jogador": "Luís Oyama",
   "time": "Novorizontino",
   "time_id": 900021,
@@ -339,6 +399,24 @@
   "jogador": "Léo Erig",
   "time": "Operário-PR",
   "time_id": 900029,
+  "gols": 1
+ },
+ {
+  "jogador": "Léo Jacó",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 1
+ },
+ {
+  "jogador": "Madson",
+  "time": "Sport",
+  "time_id": 900027,
+  "gols": 1
+ },
+ {
+  "jogador": "Marcelo Benevenuto",
+  "time": "Sport",
+  "time_id": 900027,
   "gols": 1
  },
  {
@@ -363,12 +441,6 @@
   "jogador": "Maílton",
   "time": "Fortaleza",
   "time_id": 900024,
-  "gols": 1
- },
- {
-  "jogador": "Mikael",
-  "time": "CRB",
-  "time_id": 900026,
   "gols": 1
  },
  {
@@ -402,6 +474,12 @@
   "gols": 1
  },
  {
+  "jogador": "Patrick Brey",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
+  "gols": 1
+ },
+ {
   "jogador": "Pedro Henrique",
   "time": "Fortaleza",
   "time_id": 900024,
@@ -414,15 +492,21 @@
   "gols": 1
  },
  {
-  "jogador": "Perotti",
-  "time": "Sport",
-  "time_id": 900027,
+  "jogador": "Rafael Gava",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
   "gols": 1
  },
  {
   "jogador": "Raí",
   "time": "Juventude",
   "time_id": 900022,
+  "gols": 1
+ },
+ {
+  "jogador": "Rodrigo",
+  "time": "Fortaleza",
+  "time_id": 900024,
   "gols": 1
  },
  {
@@ -450,6 +534,12 @@
   "gols": 1
  },
  {
+  "jogador": "Sorriso",
+  "time": "Avaí",
+  "time_id": 900037,
+  "gols": 1
+ },
+ {
   "jogador": "Thiaguinho",
   "time": "CRB",
   "time_id": 900026,
@@ -474,6 +564,12 @@
   "gols": 1
  },
  {
+  "jogador": "Welliton",
+  "time": "Fortaleza",
+  "time_id": 900024,
+  "gols": 1
+ },
+ {
   "jogador": "Wesley",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -489,6 +585,12 @@
   "jogador": "Willian",
   "time": "América-MG",
   "time_id": 900039,
+  "gols": 1
+ },
+ {
+  "jogador": "Zé Hugo",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
   "gols": 1
  }
 ]

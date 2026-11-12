@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12T14:25:00-03:00",
+ "gerado": "2026-11-12T18:37:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -8020,12 +8020,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 64,
-    "empate": 25,
-    "fora": 10,
+    "empate": 26,
+    "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
      1.5,
-     0.43
+     0.44
     ],
     "base": [
      18,
@@ -8101,13 +8101,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 14,
+    "casa": 13,
     "empate": 20,
-    "fora": 66,
-    "placar": "0x1",
+    "fora": 67,
+    "placar": "0x2",
     "gols_esperados": [
      0.77,
-     1.99
+     2.03
     ],
     "base": [
      11,
@@ -8159,11 +8159,11 @@
    "previsao": {
     "casa": 17,
     "empate": 31,
-    "fora": 51,
+    "fora": 52,
     "placar": "0x1",
     "gols_esperados": [
      0.56,
-     1.19
+     1.21
     ],
     "base": [
      8,
@@ -8219,7 +8219,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.09,
-     0.64
+     0.65
     ],
     "base": [
      9,
@@ -8269,13 +8269,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 72,
+    "casa": 71,
     "empate": 17,
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
      2.34,
-     0.81
+     0.82
     ],
     "base": [
      11,
@@ -8327,11 +8327,11 @@
    "previsao": {
     "casa": 28,
     "empate": 34,
-    "fora": 38,
+    "fora": 39,
     "placar": "0x0",
     "gols_esperados": [
      0.76,
-     0.95
+     0.96
     ],
     "base": [
      24,
@@ -8383,11 +8383,11 @@
    "previsao": {
     "casa": 28,
     "empate": 25,
-    "fora": 46,
+    "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
      1.16,
-     1.55
+     1.58
     ],
     "base": [
      10,
@@ -8437,13 +8437,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
+    "casa": 67,
     "empate": 18,
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.4,
-     1.03
+     2.39,
+     1.04
     ],
     "base": [
      14,
@@ -8493,13 +8493,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
+    "casa": 47,
     "empate": 23,
-    "fora": 29,
+    "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
      1.83,
-     1.39
+     1.41
     ],
     "base": [
      9,
@@ -8549,13 +8549,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 27,
+    "casa": 26,
     "empate": 23,
-    "fora": 50,
+    "fora": 51,
     "placar": "1x1",
     "gols_esperados": [
      1.26,
-     1.8
+     1.83
     ],
     "base": [
      11,
@@ -8611,7 +8611,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.99,
-     1.41
+     1.43
     ],
     "base": [
      9,
@@ -8661,13 +8661,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
+    "casa": 54,
     "empate": 28,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
      1.35,
-     0.62
+     0.63
     ],
     "base": [
      12,
@@ -8723,7 +8723,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.23,
-     0.55
+     0.56
     ],
     "base": [
      13,
@@ -8774,12 +8774,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 11,
-    "empate": 23,
-    "fora": 66,
+    "empate": 22,
+    "fora": 67,
     "placar": "0x1",
     "gols_esperados": [
      0.55,
-     1.73
+     1.76
     ],
     "base": [
      11,
@@ -8829,13 +8829,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
+    "casa": 67,
     "empate": 18,
-    "fora": 14,
+    "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.35,
-     0.98
+     2.34,
+     1.0
     ],
     "base": [
      21,
@@ -8885,13 +8885,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 44,
+    "casa": 43,
     "empate": 30,
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
      1.17,
-     0.83
+     0.84
     ],
     "base": [
      9,
@@ -8947,7 +8947,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.31,
-     1.15
+     1.17
     ],
     "base": [
      11,
@@ -9003,7 +9003,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.52,
-     0.86
+     0.87
     ],
     "base": [
      24,
@@ -9053,13 +9053,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
+    "casa": 55,
     "empate": 26,
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.53,
-     0.76
+     1.52,
+     0.77
     ],
     "base": [
      23,
@@ -9109,13 +9109,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 42,
+    "casa": 41,
     "empate": 28,
-    "fora": 30,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
      1.27,
-     1.04
+     1.06
     ],
     "base": [
      8,
@@ -9165,13 +9165,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
+    "casa": 63,
     "empate": 22,
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
      1.88,
-     0.77
+     0.78
     ],
     "base": [
      16,
@@ -9294,6 +9294,127 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/times/sport/sport-empata-com-o-cuiaba-pela-estreia-na-serie-b-do-brasileirao/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/03/11710473-em-jogo-morno-sport-estreia-na-serie-b-com-empate-contra-o-cuiaba-fora-de-casa.html"
+   ],
+   "fixture": {
+    "id": 91000325,
+    "timestamp": 1774135800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711309-sem-vencer-na-serie-b-sport-empata-com-o-vila-nova-na-ilha-do-retiro.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-e-vila-nova-empatam-e-seguem-sem-vencer-pela-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000326,
+    "timestamp": 1775080800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Janderson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/com-um-a-mais-criciuma-empata-com-o-athletic-pela-serie-b/",
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-um-a-menos-athletic-segura-empate-com-criciuma-fora-de-casa-pela-serie-b/"
    ],
@@ -9363,6 +9484,99 @@
      },
      "type": "Goal",
      "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711494-sport-vira-para-cima-do-londrina-e-vence-a-primeira-na-serie-b.html",
+    "https://www.gazetaesportiva.com/?p=3775822"
+   ],
+   "fixture": {
+    "id": 91000327,
+    "timestamp": 1775345400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vitorino Gonçalves Dias",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 22,
+      "extra": null,
+      "texto": "22"
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Bruno Santos"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 87,
+      "extra": null,
+      "texto": "87"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
     }
    ]
   },
@@ -9454,6 +9668,220 @@
      },
      "player": {
       "name": "Daniel Amorim"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711974-sport-sofre-gol-no-apagar-das-luzes-e-empata-com-o-avai-na-ilha-pela-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-busca-empate-com-o-sport-no-ultimo-lance-e-mantem-lideranca-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000328,
+    "timestamp": 1775941200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900037,
+     "name": "Avaí"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 19,
+      "extra": null,
+      "texto": "19"
+     },
+     "team": {
+      "id": 900037,
+      "name": "Avaí"
+     },
+     "player": {
+      "name": "Luiz Henrique"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Carlos de Pena"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+5"
+     },
+     "team": {
+      "id": 900037,
+      "name": "Avaí"
+     },
+     "player": {
+      "name": "Sorriso"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712475-sport-fica-no-empate-com-o-america-mg-em-belo-horizonte.html",
+    "https://www.gazetaesportiva.com/?p=3779982"
+   ],
+   "fixture": {
+    "id": 91000329,
+    "timestamp": 1776546000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Independência",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712937-melhorando-apos-o-intervalo-sport-bate-o-novorizontino-e-chega-a-primeira-vitoria-na-ilha-do-retiro-pela-serie-b.html",
+    "https://www.folhape.com.br/esportes/sport-supera-novorizontino-e-conquista-a-primeira-vitoria-na-ilha-do/483233/"
+   ],
+   "fixture": {
+    "id": 91000330,
+    "timestamp": 1777159800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900021,
+     "name": "Novorizontino"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -9635,6 +10063,192 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713462-sport-vence-confronto-direto-contra-ceara-e-pega-elevador-na-serie-b.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/sport-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3760958"
+   ],
+   "fixture": {
+    "id": 91000331,
+    "timestamp": 1777842000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Madson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713900-sport-vira-sobre-a-ponte-preta-assume-a-lideranca-provisoria-e-segue-invicto-na-serie-b.html",
+    "https://www.oliberal.com/esportes/sport-bate-a-ponte-preta-de-virada-em-campinas-mantem-tabu-e-invencibilidade-na-serie-b-1.1119422"
+   ],
+   "fixture": {
+    "id": 91000332,
+    "timestamp": 1778362200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 8"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 22,
+      "extra": null,
+      "texto": "22"
+     },
+     "team": {
+      "id": 900040,
+      "name": "Ponte Preta"
+     },
+     "player": {
+      "name": "Danilo Barcelos"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 30,
+      "extra": null,
+      "texto": "30"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Felipinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+4"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-e-criciuma-ficam-no-empate-pela-serie-b-do-brasileirao/",
     "https://www.juventude.com.br/blog/pela-serie-b-ju-fica-no-empate-diante-do-criciuma"
    ],
@@ -9800,6 +10414,160 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714421-crb-coloca-agua-no-chopp-do-sport-e-vence-na-ilha-do-retiro-com-direito-a-lei-do-ex.html",
+    "https://www.oliberal.com/esportes/crb-vence-na-ilha-do-retiro-e-quebra-invencibilidade-do-sport-na-serie-b-1.1122654"
+   ],
+   "fixture": {
+    "id": 91000333,
+    "timestamp": 1779060600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 9"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 39,
+      "extra": null,
+      "texto": "39"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Danielzinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 77,
+      "extra": null,
+      "texto": "77"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714872-sport-vence-juventude-fora-de-casa-quebra-tabu-e-assume-vice-lideranca-da-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-vence-juventude-vice-lider-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000334,
+    "timestamp": 1779579000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": "Caxias do Sul"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 10"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Iury Castilho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/avai-x-goias/832978",
     "https://ohoje.com/2026/05/24/goias-vence-avai-e-encosta-na-lideranca-da-serie-b/"
    ],
@@ -9954,6 +10722,204 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11715406-barletta-decide-sport-vence-o-nautico-no-classico-e-dorme-na-lideranca-da-serie-b.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ex-corinthians-decide-sport-bate-nautico-e-dorme-na-lideranca-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000335,
+    "timestamp": 1780183800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 11"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 82,
+      "extra": null,
+      "texto": "82"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716285-sport-empata-com-athletic-na-ilha-e-desperdica-chance-de-reassumir-lideranca-da-serie-b.html",
+    "https://www.folhape.com.br/esportes/sport-fica-no-empate-com-athletic-e-perde-chance-de-reassumir/493225/"
+   ],
+   "fixture": {
+    "id": 91000336,
+    "timestamp": 1781136000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 12"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 60,
+      "extra": null,
+      "texto": "60"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Augusto Pucci"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 65,
+      "extra": null,
+      "texto": "65"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ian Luccas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716530-com-um-a-mais-sport-empata-com-sao-bernardo-e-desperdica-nova-chance-de-lideranca-na-serie-b.html",
+    "https://www.gazetaesportiva.com/times/sport/com-um-a-menos-sao-bernardo-empata-com-sport-e-lidera-a-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000337,
+    "timestamp": 1781445600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "1º de Maio",
+     "city": "São Bernardo do Campo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 13"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-cede-empate-ao-ceara-e-perde-chance-de-encostar-no-g2-pela-serie-b/",
     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/06/15/com-gol-de-joao-gabriel-ceara-arranca-empate-do-criciuma-fora-de-casa-pela-serie-b.html"
    ],
@@ -10020,6 +10986,83 @@
      },
      "player": {
       "name": "João Gabriel"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11716935-sport-cede-empate-ao-atletico-go-nos-acrescimos-e-frustra-novamente-a-torcida-na-serie-b.html",
+    "https://ohoje.com/2026/06/18/atletico-go-marca-nos-acrescimos-e-arranca-empate-contra-o-sport-na-ilha-do-retiro/"
+   ],
+   "fixture": {
+    "id": 91000338,
+    "timestamp": 1781827200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 14"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 25,
+      "extra": null,
+      "texto": "25"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+5"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Léo Jacó"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -10214,6 +11257,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/06/11717647-sport-leva-gol-aos-49-minutos-do-2-tempo-e-perde-de-novo-para-o-fortaleza.html",
+    "https://mais.opovo.com.br/jornal/esportes/2026/06/29/fortaleza-vence-sport-com-gol-no-fim-e-segue-na-cola-do-g-6-da-serie-b.html"
+   ],
+   "fixture": {
+    "id": 91000339,
+    "timestamp": 1782682200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 15"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900027,
+     "name": "Sport"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Rodrigo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 68,
+      "extra": null,
+      "texto": "68"
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+4"
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Welliton"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/times/criciuma/ponte-preta-x-criciuma-serie-b-2026-rodada-17/",
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/com-gol-nos-acrescimos-criciuma-bate-ponte-preta-e-vira-lider-da-serie-b,d9445ce77fb0ca3cdd7ffd866fc2454121bwvgzn.html"
    ],
@@ -10252,6 +11388,147 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/07/11718584-sport-reage-busca-empate-contra-o-botafogo-sp-mas-amplia-jejum-de-vitorias-na-serie-b.html",
+    "https://www.gazetaesportiva.com/?p=3819813"
+   ],
+   "fixture": {
+    "id": 91000340,
+    "timestamp": 1783724400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ilha do Retiro",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 17"
+   },
+   "teams": {
+    "home": {
+     "id": 900027,
+     "name": "Sport"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Zé Hugo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Rafael Gava"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Marcelo Benevenuto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Patrick Brey"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -17256,16 +18533,16 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 30,
-    "empate": 30,
-    "fora": 39,
+    "casa": 31,
+    "empate": 29,
+    "fora": 40,
     "placar": "0x1",
     "gols_esperados": [
-     0.93,
-     1.1
+     0.99,
+     1.17
     ],
     "base": [
-     8,
+     9,
      10
     ]
    },
@@ -17360,17 +18637,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 59,
-    "empate": 21,
-    "fora": 20,
-    "placar": "1x1",
+    "casa": 56,
+    "empate": 23,
+    "fora": 21,
+    "placar": "1x0",
     "gols_esperados": [
-     1.99,
-     1.06
+     1.79,
+     0.98
     ],
     "base": [
-     11,
-     19
+     12,
+     20
     ]
    },
    "events": []
@@ -17430,17 +18707,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
-    "empate": 35,
-    "fora": 10,
-    "placar": "1x0",
+    "casa": 53,
+    "empate": 36,
+    "fora": 11,
+    "placar": "0x0",
     "gols_esperados": [
-     1.03,
-     0.27
+     0.99,
+     0.29
     ],
     "base": [
-     11,
-     14
+     12,
+     15
     ]
    },
    "events": []
@@ -17502,17 +18779,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 38,
+    "casa": 40,
     "empate": 32,
-    "fora": 30,
-    "placar": "0x0",
+    "fora": 29,
+    "placar": "1x0",
     "gols_esperados": [
-     0.99,
+     1.05,
      0.84
     ],
     "base": [
-     15,
-     10
+     16,
+     11
     ]
    },
    "events": []
@@ -17571,17 +18848,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
-    "empate": 33,
+    "casa": 54,
+    "empate": 37,
     "fora": 10,
-    "placar": "1x0",
+    "placar": "0x0",
     "gols_esperados": [
-     1.11,
-     0.29
+     0.99,
+     0.27
     ],
     "base": [
-     10,
-     8
+     11,
+     9
     ]
    },
    "events": []
@@ -17642,17 +18919,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 32,
+    "casa": 34,
     "empate": 36,
-    "fora": 33,
+    "fora": 29,
     "placar": "0x0",
     "gols_esperados": [
-     0.78,
-     0.8
+     0.81,
+     0.72
     ],
     "base": [
      19,
-     8
+     9
     ]
    },
    "events": []
@@ -17715,16 +18992,16 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 36,
-    "empate": 28,
-    "fora": 35,
-    "placar": "1x1",
+    "casa": 41,
+    "empate": 31,
+    "fora": 28,
+    "placar": "1x0",
     "gols_esperados": [
-     1.18,
-     1.16
+     1.11,
+     0.86
     ],
     "base": [
-     7,
+     23,
      12
     ]
    },
@@ -17785,17 +19062,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
-    "empate": 20,
-    "fora": 11,
-    "placar": "1x0",
+    "casa": 71,
+    "empate": 19,
+    "fora": 10,
+    "placar": "2x0",
     "gols_esperados": [
-     1.95,
-     0.63
+     2.04,
+     0.62
     ],
     "base": [
-     16,
-     20
+     17,
+     21
     ]
    },
    "events": []
@@ -17854,17 +19131,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
-    "empate": 19,
-    "fora": 13,
+    "casa": 65,
+    "empate": 20,
+    "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.11,
-     0.81
+     2.12,
+     0.9
     ],
     "base": [
-     8,
-     14
+     9,
+     15
     ]
    },
    "events": []
@@ -29123,6 +30400,18 @@
   ],
   "serie_b": [
    {
+    "jogador": "Barletta",
+    "time": "Sport",
+    "time_id": 900027,
+    "gols": 8
+   },
+   {
+    "jogador": "Perotti",
+    "time": "Sport",
+    "time_id": 900027,
+    "gols": 8
+   },
+   {
     "jogador": "Fellipe Mateus",
     "time": "Criciúma",
     "time_id": 900025,
@@ -29141,6 +30430,12 @@
     "gols": 4
    },
    {
+    "jogador": "Danielzinho",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 3
+   },
+   {
     "jogador": "Gustavo Coutinho",
     "time": "Atlético-GO",
     "time_id": 900028,
@@ -29153,15 +30448,15 @@
     "gols": 3
    },
    {
-    "jogador": "Chrystian Barletta",
+    "jogador": "Carlos de Pena",
     "time": "Sport",
     "time_id": 900027,
     "gols": 2
    },
    {
-    "jogador": "Danielzinho",
-    "time": "CRB",
-    "time_id": 900026,
+    "jogador": "Chrystian Barletta",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 2
    },
    {
@@ -29172,6 +30467,12 @@
    },
    {
     "jogador": "Dudu",
+    "time": "Vila Nova",
+    "time_id": 900023,
+    "gols": 2
+   },
+   {
+    "jogador": "Janderson",
     "time": "Vila Nova",
     "time_id": 900023,
     "gols": 2
@@ -29192,6 +30493,12 @@
     "jogador": "Matheus Bianqui",
     "time": "Novorizontino",
     "time_id": 900021,
+    "gols": 2
+   },
+   {
+    "jogador": "Mikael",
+    "time": "CRB",
+    "time_id": 900026,
     "gols": 2
    },
    {
@@ -29231,6 +30538,12 @@
     "gols": 1
    },
    {
+    "jogador": "Augusto Pucci",
+    "time": "Sport",
+    "time_id": 900027,
+    "gols": 1
+   },
+   {
     "jogador": "Badaró",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -29246,6 +30559,12 @@
     "jogador": "Brandão",
     "time": "Ponte Preta",
     "time_id": 900040,
+    "gols": 1
+   },
+   {
+    "jogador": "Bruno Santos",
+    "time": "Londrina",
+    "time_id": 900038,
     "gols": 1
    },
    {
@@ -29279,12 +30598,6 @@
     "gols": 1
    },
    {
-    "jogador": "Carlos de Pena",
-    "time": "Sport",
-    "time_id": 900027,
-    "gols": 1
-   },
-   {
     "jogador": "Crystopher",
     "time": "CRB",
     "time_id": 900026,
@@ -29306,6 +30619,12 @@
     "jogador": "Daniel Davi",
     "time": "São Bernardo",
     "time_id": 900031,
+    "gols": 1
+   },
+   {
+    "jogador": "Danilo Barcelos",
+    "time": "Ponte Preta",
+    "time_id": 900040,
     "gols": 1
    },
    {
@@ -29336,6 +30655,12 @@
     "jogador": "Fabrício Daniel",
     "time": "São Bernardo",
     "time_id": 900031,
+    "gols": 1
+   },
+   {
+    "jogador": "Felipinho",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 1
    },
    {
@@ -29387,15 +30712,21 @@
     "gols": 1
    },
    {
+    "jogador": "Ian Luccas",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 1
+   },
+   {
     "jogador": "Igor Bahia",
     "time": "Londrina",
     "time_id": 900038,
     "gols": 1
    },
    {
-    "jogador": "Janderson",
-    "time": "Vila Nova",
-    "time_id": 900023,
+    "jogador": "Iury Castilho",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 1
    },
    {
@@ -29453,6 +30784,12 @@
     "gols": 1
    },
    {
+    "jogador": "Luiz Henrique",
+    "time": "Avaí",
+    "time_id": 900037,
+    "gols": 1
+   },
+   {
     "jogador": "Luís Oyama",
     "time": "Novorizontino",
     "time_id": 900021,
@@ -29462,6 +30799,24 @@
     "jogador": "Léo Erig",
     "time": "Operário-PR",
     "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Léo Jacó",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 1
+   },
+   {
+    "jogador": "Madson",
+    "time": "Sport",
+    "time_id": 900027,
+    "gols": 1
+   },
+   {
+    "jogador": "Marcelo Benevenuto",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 1
    },
    {
@@ -29486,12 +30841,6 @@
     "jogador": "Maílton",
     "time": "Fortaleza",
     "time_id": 900024,
-    "gols": 1
-   },
-   {
-    "jogador": "Mikael",
-    "time": "CRB",
-    "time_id": 900026,
     "gols": 1
    },
    {
@@ -29525,6 +30874,12 @@
     "gols": 1
    },
    {
+    "jogador": "Patrick Brey",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
+    "gols": 1
+   },
+   {
     "jogador": "Pedro Henrique",
     "time": "Fortaleza",
     "time_id": 900024,
@@ -29537,15 +30892,21 @@
     "gols": 1
    },
    {
-    "jogador": "Perotti",
-    "time": "Sport",
-    "time_id": 900027,
+    "jogador": "Rafael Gava",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
     "gols": 1
    },
    {
     "jogador": "Raí",
     "time": "Juventude",
     "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Rodrigo",
+    "time": "Fortaleza",
+    "time_id": 900024,
     "gols": 1
    },
    {
@@ -29573,6 +30934,12 @@
     "gols": 1
    },
    {
+    "jogador": "Sorriso",
+    "time": "Avaí",
+    "time_id": 900037,
+    "gols": 1
+   },
+   {
     "jogador": "Thiaguinho",
     "time": "CRB",
     "time_id": 900026,
@@ -29597,6 +30964,12 @@
     "gols": 1
    },
    {
+    "jogador": "Welliton",
+    "time": "Fortaleza",
+    "time_id": 900024,
+    "gols": 1
+   },
+   {
     "jogador": "Wesley",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -29612,6 +30985,12 @@
     "jogador": "Willian",
     "time": "América-MG",
     "time_id": 900039,
+    "gols": 1
+   },
+   {
+    "jogador": "Zé Hugo",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
     "gols": 1
    }
   ],
