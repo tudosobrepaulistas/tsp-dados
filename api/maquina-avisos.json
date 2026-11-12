@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-12T06:42-03:00",
+ "gerado": "2026-11-12T08:34-03:00",
  "avisos": [
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-10T10:57-03:00",
-   "motivo": "A4 em pré-temporada: nenhuma notícia de A4 nos últimos 7 dias com 2 fontes; todos os 16 clubes tiveram evergreen nos últimos 14 dias",
-   "sugestao": "Anúncios de técnicos/elencos de 2027 da A4 (União Suzano, Barretos, Jabaquara, Jacareí, Tanabi, Taquaritinga, América, Independente ainda sem técnico divulgado em outubro)"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-10T11:35-03:00",
-   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Pauta possível: CBF mudou São Bernardo x Athletic para quinta 12/11, 20h (W Mais), ainda sem 2ª fonte.",
-   "sugestao": "Redação: São Bernardo x Athletic antecipado para quinta (12/11), 20h, no 1º de Maio — confirmar no site do clube/CBF e usar foto oficial do Tigre"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-10T11:35-03:00",
-   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Pauta confirmada (site oficial + Terra 10/11): sub-20 venceu o Corinthians 1x0 no Parque São Jorge, gol de Luís Gustavo; volta quinta 12/11, 15h, em Atibaia.",
-   "sugestao": "Redação: Bragantino sub-20 leva vantagem para a volta da semi do Paulista (12/11, 15h, CT de Atibaia), com a foto do site do clube"
-  },
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-10T11:35-03:00",
-   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Nenhum fato novo nas últimas 24h confirmado em 2 fontes.",
-   "sugestao": "Prévia de Juventude x Botafogo-SP (sábado 14/11, 16h30), última rodada, com foto oficial do Pantera"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-10T11:35-03:00",
-   "motivo": "Cobertura 6h (10/11, 11h30): sem foto utilizável — a rede desta execução só alcança miniaturas do YouTube (todas com arte) e bloqueia sites dos clubes, Instagram, Flickr e Commons. Pauta confirmada (O Tempo 10/11 + Itatiaia): Atlético-MG volta aos treinos com 6 jogos sem vencer e de olho na final da Sul-Americana (21/11); Mirassol x Atlético é sábado 14/11, 18h30, no Maião; Tomás Pérez suspenso.",
-   "sugestao": "Redação: Mirassol (14º, 40 pts, 3 acima do Z4) recebe Atlético-MG em crise e de olho na final da Sul-Americana, com foto oficial de jogo do Leão"
-  },
   {
    "clube": "noroeste",
    "nome": "Noroeste",
@@ -420,6 +385,41 @@
    "quando": "2026-11-12T06:42-03:00",
    "motivo": "Sem notícia nos últimos 7 dias; Copinha 2027 em Mogi cita só o União Mogi; evergreen bloqueado",
    "sugestao": "Atlético Mogi: base e planos para a Segunda Divisão de 2027"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-12T08:34-03:00",
+   "motivo": "Cobertura 6h: notícia das últimas 24h achada (11 pendurados e retornos de Bruno Santos e Edson Carioca para o Atlético-MG, Futebol Interior 11/11), mas só 1 fonte e sem foto de jogo utilizável (miniaturas do canal oficial são artes; site do clube inacessível daqui)",
+   "sugestao": "Mirassol x Atlético-MG (sáb 14/11, 18h30, Maião): 11 pendurados (Igor Formiga, Victor Luís, Reinaldo, Lucas Oliveira, Knesowitsch, Willian Machado, Neto Moura, Wallisson, Shaylon, Carlos Eduardo, Eduardo) e voltas de Bruno Santos e Edson Carioca; árbitro Savio Pereira Sampaio (DF). Fonte: https://www.futebolinterior.com.br/mirassol-pendurados-reforcos-contra-atletico-mg/ + foto de jogo do site do Mirassol"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-12T08:34-03:00",
+   "motivo": "Cobertura 6h: pauta boa e confirmada (volta da semi do Paulista Sub-20 hoje, 15h, em Atibaia), mas sem foto de jogo utilizável (miniaturas do YouTube são artes; site do clube inacessível daqui)",
+   "sugestao": "Bragantino x Corinthians, volta da semifinal do Paulista Sub-20, quinta 12/11 às 15h, Mini Estádio do CPD em Atibaia; Braga venceu a ida por 1 a 0 no Parque São Jorge e joga pelo empate; transmissão Xsports/Ulisses TV no YouTube. Fontes: https://www.gazetaesportiva.com/times/corinthians/bragantino-x-corinthians-veja-provaveis-escalacoes-e-onde-assistir-a-semifinal-do-paulista-sub-20/ e https://www.terra.com.br/esportes/corinthians/corinthians-perde-para-bragantino-na-ida-da-semifinal-do-paulista-sub-20,a4899e89490f31c92351b3831050db885gf6e1b0.html ; foto: redbullbragantino.com (ida da semi)"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-12T08:34-03:00",
+   "motivo": "Cobertura 6h: decisão contra o Criciúma já coberta em 08/11; novidade das últimas 24h (treino de 11/11 e desfalques do Criciúma) com 1 fonte só, e miniaturas da TV Novorizontino são artes",
+   "sugestao": "Prévia Criciúma x Novorizontino (sáb 14/11, 16h30, Heriberto Hülse): Tigre (70 pts) é campeão com vitória ou empate; Criciúma sem Marcelo Hermes e Eduardo de Biasi (3º amarelo) e com Nicolas em dúvida (https://sctd.com.br/esporte/criciuma-tera-desfalques-importantes-em-decisao-contra-o-novorizontino/ — confirmar em 2ª fonte). Foto: jogo do 1º turno no Jorjão (21/07) no site do Novorizontino"
+  },
+  {
+   "clube": "marilia",
+   "nome": "Marília",
+   "quando": "2026-11-12T08:34-03:00",
+   "motivo": "Bloco A2: pautas de Marília (Alan Leite) e Votuporanguense (Daniel Bonassa) têm 1 fonte cada e não há foto do clube acessível daqui (sites e Instagram dos clubes bloqueados no ambiente da Máquina)",
+   "sugestao": "MAC anuncia o atacante Alan Leite para a Série A2 2027 (https://marilianoticia.com.br/mac/mac-anuncia-atacante-alan-leite-para-a-disputa-da-serie-a2-de-2027/) e CAV anuncia o volante Daniel Bonassa, sexto reforço (https://diariodevotuporanga.com.br/cav-anuncia-daniel-bonassa-e-amplia-lista-de-reforcos-para-2027/); confirmar no Instagram oficial e usar a foto do anúncio"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-12T08:34-03:00",
+   "motivo": "Bloco A3: nenhuma pauta recente listada e sem foto de clube acessível daqui (sites e redes dos clubes bloqueados no ambiente da Máquina)",
+   "sugestao": "Montagem de elenco para a Série A3 2027 de Catanduva, Rio Preto, Itapirense ou Francana: anúncios de técnico/reforços no Instagram oficial dos clubes e nos jornais da cidade"
   }
  ]
 }
