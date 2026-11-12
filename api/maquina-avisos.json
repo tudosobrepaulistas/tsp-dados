@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-12T11:10-03:00",
+ "gerado": "2026-11-12T11:38-03:00",
  "avisos": [
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Pré-contratos (CBN, 09/11) já usados na matéria da SAF de 10/11; sem fato novo com 2 fontes.",
-   "sugestao": "Quando o Comercial divulgar os nomes dos 10 pré-contratados para a A4, fazer matéria com a lista."
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Reforços de 05/11 já cobertos pelo site (04/11); nada novo.",
-   "sugestao": "Entrevista com o técnico Petterson Martins sobre a montagem do elenco para a A4 2027."
-  },
   {
    "clube": "saocaetano",
    "nome": "São Caetano",
@@ -420,6 +406,20 @@
    "quando": "2026-11-12T11:10-03:00",
    "motivo": "Blog do feminino parado desde 05/10",
    "sugestao": "Planos e elenco do Mirassol Feminino para 2027 com o clube"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-12T11:38-03:00",
+   "motivo": "Cobertura 6h (12/11, 11h40): profissional sem jogo nem notícia nova confirmada em 2 fontes nas últimas 24h; site oficial não carrega texto para leitura e o Sub-20 só tem 1 fonte aceita (Terra).",
+   "sugestao": "Resultado de Bragantino x Corinthians, volta da semifinal do Paulista Sub-20, hoje (12/11) às 15h no CT de Atibaia (Braga venceu a ida por 1 a 0); usar foto do site oficial do clube."
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-12T11:38-03:00",
+   "motivo": "Cobertura 6h (12/11, 11h40): pauta confirmada (Criciúma x Novorizontino, sábado 14/11 às 16h30 no Heriberto Hülse; empate dá o título; 1.922 ingressos para visitantes segundo o 4oito, empate confirmado também pelo Engeplus), mas sem foto de jogo verificável: miniaturas da TV Novorizontino são artes e o Wikimedia bloqueou o download.",
+   "sugestao": "Novorizontino terá 1.922 ingressos no Heriberto Hülse para a decisão do título da Série B (R$ 120/R$ 60, portão 8): fontes 4oito e Engeplus; usar foto de jogo do site oficial do Novorizontino."
   }
  ]
 }
