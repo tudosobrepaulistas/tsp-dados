@@ -375,10 +375,14 @@
   {
    "slug": "paulinense",
    "nome": "Paulinense",
-   "cidade": "",
-   "site_oficial": "",
+   "cidade": "Paulínia",
+   "site_oficial": "https://sportingclubpaulinense.com",
    "redes": [],
-   "jornais_locais": [],
+   "jornais_locais": [
+    "https://noticiasdepaulinia.com.br",
+    "https://tvjaguari.com.br",
+    "https://www.diariodepaulinia.com.br"
+   ],
    "grupo": "sem_divisao"
   },
   {
