@@ -12,9 +12,27 @@
   "gols": 1
  },
  {
+  "jogador": "Eduardo",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
   "jogador": "Eduardo Sasha",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
+  "gols": 1
+ },
+ {
+  "jogador": "Everton Galdino",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "Flaco López",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 1
  },
  {
@@ -36,9 +54,27 @@
   "gols": 1
  },
  {
+  "jogador": "Igor Formiga",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "José Aldo",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
   "jogador": "Lucas",
   "time": "São Paulo",
   "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucas Mugni",
+  "time": "Mirassol",
+  "time_id": 900015,
   "gols": 1
  },
  {
@@ -57,6 +93,12 @@
   "jogador": "Pedro Henrique",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
+  "gols": 1
+ },
+ {
+  "jogador": "Renato Marques",
+  "time": "Mirassol",
+  "time_id": 900015,
   "gols": 1
  }
 ]

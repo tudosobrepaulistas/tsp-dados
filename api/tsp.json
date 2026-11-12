@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12T05:49:00-03:00",
+ "gerado": "2026-11-12T13:36:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1709,6 +1709,24 @@
   "900080": {
    "chave": "sao-luiz",
    "nome": "São Luiz",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900081": {
+   "chave": "lanus",
+   "nome": "Lanús",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900082": {
+   "chave": "ldu",
+   "nome": "LDU",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900083": {
+   "chave": "always-ready",
+   "nome": "Always Ready",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -8001,16 +8019,16 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
-    "empate": 29,
-    "fora": 15,
+    "casa": 64,
+    "empate": 25,
+    "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.33,
-     0.55
+     1.5,
+     0.43
     ],
     "base": [
-     7,
+     18,
      16
     ]
    },
@@ -8083,12 +8101,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 13,
+    "casa": 14,
     "empate": 20,
     "fora": 66,
     "placar": "0x1",
     "gols_esperados": [
-     0.76,
+     0.77,
      1.99
     ],
     "base": [
@@ -8141,11 +8159,11 @@
    "previsao": {
     "casa": 17,
     "empate": 31,
-    "fora": 52,
+    "fora": 51,
     "placar": "0x1",
     "gols_esperados": [
-     0.55,
-     1.18
+     0.56,
+     1.19
     ],
     "base": [
      8,
@@ -8200,7 +8218,7 @@
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.07,
+     2.09,
      0.64
     ],
     "base": [
@@ -8251,12 +8269,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 71,
+    "casa": 72,
     "empate": 17,
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.31,
+     2.34,
      0.81
     ],
     "base": [
@@ -8307,17 +8325,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 29,
-    "empate": 33,
+    "casa": 28,
+    "empate": 34,
     "fora": 38,
     "placar": "0x0",
     "gols_esperados": [
-     0.82,
-     0.98
+     0.76,
+     0.95
     ],
     "base": [
      24,
-     11
+     12
     ]
    },
    "events": []
@@ -8365,10 +8383,10 @@
    "previsao": {
     "casa": 28,
     "empate": 25,
-    "fora": 47,
+    "fora": 46,
     "placar": "1x1",
     "gols_esperados": [
-     1.15,
+     1.16,
      1.55
     ],
     "base": [
@@ -8419,13 +8437,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
+    "casa": 68,
     "empate": 18,
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.37,
-     1.02
+     2.4,
+     1.03
     ],
     "base": [
      14,
@@ -8480,8 +8498,8 @@
     "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.81,
-     1.38
+     1.83,
+     1.39
     ],
     "base": [
      9,
@@ -8536,7 +8554,7 @@
     "fora": 50,
     "placar": "1x1",
     "gols_esperados": [
-     1.25,
+     1.26,
      1.8
     ],
     "base": [
@@ -8587,16 +8605,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 34,
-    "empate": 29,
-    "fora": 37,
-    "placar": "1x1",
+    "casa": 26,
+    "empate": 27,
+    "fora": 47,
+    "placar": "0x1",
     "gols_esperados": [
-     1.1,
-     1.15
+     0.99,
+     1.41
     ],
     "base": [
-     8,
+     9,
      9
     ]
    },
@@ -8643,16 +8661,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 55,
     "empate": 28,
-    "fora": 18,
+    "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.38,
-     0.67
+     1.35,
+     0.62
     ],
     "base": [
-     11,
+     12,
      11
     ]
    },
@@ -8699,12 +8717,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 75,
+    "casa": 76,
     "empate": 17,
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.2,
+     2.23,
      0.55
     ],
     "base": [
@@ -8761,7 +8779,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.55,
-     1.72
+     1.73
     ],
     "base": [
      11,
@@ -8811,12 +8829,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
+    "casa": 68,
     "empate": 18,
     "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.32,
+     2.35,
      0.98
     ],
     "base": [
@@ -8867,17 +8885,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
-    "empate": 26,
-    "fora": 19,
+    "casa": 44,
+    "empate": 30,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.49,
-     0.74
+     1.17,
+     0.83
     ],
     "base": [
      9,
-     7
+     18
     ]
    },
    "events": []
@@ -8928,7 +8946,7 @@
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.28,
+     2.31,
      1.15
     ],
     "base": [
@@ -8984,7 +9002,7 @@
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.49,
+     2.52,
      0.86
     ],
     "base": [
@@ -9035,17 +9053,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 45,
-    "empate": 29,
-    "fora": 26,
+    "casa": 56,
+    "empate": 26,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.23,
-     0.85
+     1.53,
+     0.76
     ],
     "base": [
      23,
-     8
+     9
     ]
    },
    "events": []
@@ -9091,12 +9109,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 41,
+    "casa": 42,
     "empate": 28,
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.26,
+     1.27,
      1.04
     ],
     "base": [
@@ -9147,12 +9165,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 64,
     "empate": 22,
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.86,
+     1.88,
      0.77
     ],
     "base": [
@@ -17208,11 +17226,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 30,
-    "empate": 31,
+    "empate": 30,
     "fora": 39,
     "placar": "0x1",
     "gols_esperados": [
-     0.92,
+     0.93,
      1.1
     ],
     "base": [
@@ -17278,16 +17296,16 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
-    "empate": 19,
-    "fora": 14,
-    "placar": "2x0",
+    "casa": 59,
+    "empate": 21,
+    "fora": 20,
+    "placar": "1x1",
     "gols_esperados": [
-     2.16,
-     0.88
+     1.99,
+     1.06
     ],
     "base": [
-     10,
+     11,
      19
     ]
    },
@@ -17349,11 +17367,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 55,
-    "empate": 36,
+    "empate": 35,
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.02,
+     1.03,
      0.27
     ],
     "base": [
@@ -17420,12 +17438,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 37,
-    "empate": 33,
+    "casa": 38,
+    "empate": 32,
     "fora": 30,
     "placar": "0x0",
     "gols_esperados": [
-     0.98,
+     0.99,
      0.84
     ],
     "base": [
@@ -17494,7 +17512,7 @@
     "fora": 10,
     "placar": "1x0",
     "gols_esperados": [
-     1.1,
+     1.11,
      0.29
     ],
     "base": [
@@ -17560,12 +17578,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 31,
+    "casa": 32,
     "empate": 36,
     "fora": 33,
     "placar": "0x0",
     "gols_esperados": [
-     0.77,
+     0.78,
      0.8
     ],
     "base": [
@@ -17635,11 +17653,11 @@
    "previsao": {
     "casa": 36,
     "empate": 28,
-    "fora": 36,
+    "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.17,
-     1.15
+     1.18,
+     1.16
     ],
     "base": [
      7,
@@ -17703,12 +17721,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
+    "casa": 69,
     "empate": 20,
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.93,
+     1.95,
      0.63
     ],
     "base": [
@@ -17773,11 +17791,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 67,
-    "empate": 20,
+    "empate": 19,
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.08,
+     2.11,
      0.81
     ],
     "base": [
@@ -21196,6 +21214,144 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3776943",
+    "https://diariodopara.com.br/bola/mirassol-vence-o-lanus-e-faz-historia-na-libertadores/"
+   ],
+   "fixture": {
+    "id": 91000314,
+    "timestamp": 1775685600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 1 - Grupo G"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900081,
+     "name": "Lanús"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 60,
+      "extra": null,
+      "texto": "60"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "João Victor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/mirassol-nao-se-encontra-e-dominado-e-perde-para-ldu-na-libertadores/",
+    "https://www.elcomercio.com/deportes/futbol/liga-de-quito-mirassol-resultado-partido-libertadores/"
+   ],
+   "fixture": {
+    "id": 91000315,
+    "timestamp": 1776218400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rodrigo Paz Delgado",
+     "city": "Quito"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 2 - Grupo G"
+   },
+   "teams": {
+    "home": {
+     "id": 900082,
+     "name": "LDU"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900082,
+      "name": "LDU"
+     },
+     "player": {
+      "name": "Yerlin Quiñoñez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 34,
+      "extra": null,
+      "texto": "34"
+     },
+     "team": {
+      "id": 900082,
+      "name": "LDU"
+     },
+     "player": {
+      "name": "José Quintero"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-perde-universidad-catolica-libertadores/",
     "https://www.terra.com.br/esportes/cruzeiro/cruzeiro-vacila-no-fim-perde-para-a-catolica-no-mineirao-e-se-complica-na-libertadores,3d589509c4428f2bd94e04d6fac0ccd3ibc978tx.html"
    ],
@@ -21350,6 +21506,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3783309",
+    "https://www.metropoles.com/sem-categoria/libertadores-mirassol-vence-always-ready-e-segue-invicto-em-casa"
+   ],
+   "fixture": {
+    "id": 91000316,
+    "timestamp": 1777500000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 3 - Grupo G"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900083,
+     "name": "Always Ready"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Eduardo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 79,
+      "extra": null,
+      "texto": "79"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Alesson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-empata-universidad-catolica-libertadores-2026/",
     "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/com-um-a-menos-cruzeiro-segura-empate-com-a-catolica-na-libertadores/"
    ],
@@ -21388,6 +21621,176 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/mirassol-vence-a-ldu-e-vira-lider-na-libertadores-veja-resultados.html",
+    "https://acritica.net/esportes/futebol/mirassol-ldu-libertadores-grupo-g-lideranca/"
+   ],
+   "fixture": {
+    "id": 91000317,
+    "timestamp": 1778191200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 4 - Grupo G"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900082,
+     "name": "LDU"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Lucas Oliveira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Reinaldo"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/mirassol/mirassol-vence-always-ready-libertadores-2026/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/em-campo-neutro-mirassol-bate-always-ready-e-vai-as-oitavas-da-libertadores/"
+   ],
+   "fixture": {
+    "id": 91000318,
+    "timestamp": 1779235200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Tigo La Huerta",
+     "city": "Assunção"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 5 - Grupo G"
+   },
+   "teams": {
+    "home": {
+     "id": 900083,
+     "name": "Always Ready"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Shaylon"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900083,
+      "name": "Always Ready"
+     },
+     "player": {
+      "name": "Maraude"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 82,
+      "extra": null,
+      "texto": "82"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Nathan Fogaça"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "libertadores",
@@ -21460,6 +21863,67 @@
      },
      "player": {
       "name": "Fagner"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3792734",
+    "https://www.em.com.br/internacional/2026/05/7428769-mirassol-perde-para-lanus-1-0-e-passa-e-2-do-grupo-na-libertadores.html"
+   ],
+   "fixture": {
+    "id": 91000319,
+    "timestamp": 1779832800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ciudad de Lanús",
+     "city": "Lanús"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Fase de grupos - Rodada 6 - Grupo G"
+   },
+   "teams": {
+    "home": {
+     "id": 900081,
+     "name": "Lanús"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 21,
+      "extra": null,
+      "texto": "21"
+     },
+     "team": {
+      "id": 900081,
+      "name": "Lanús"
+     },
+     "player": {
+      "name": "Agustín Medina"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -21657,6 +22121,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://gol.conmebol.com/libertadores/en/news/liga-de-quito-ended-mirassols-perfect-home-defensive-record-and-earned-draw-brazil",
+    "https://m.imirante.com/esporte/brasil/2026/08/13/mirassol-empata-com-a-ldu-nas-oitavas-da-libertadores"
+   ],
+   "fixture": {
+    "id": 91000320,
+    "timestamp": 1786658400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900082,
+     "name": "LDU"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 15,
+      "extra": null,
+      "texto": "15"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Eduardo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 82,
+      "extra": null,
+      "texto": "82"
+     },
+     "team": {
+      "id": 900082,
+      "name": "LDU"
+     },
+     "player": {
+      "name": "Michael Estrada"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/times/flamengo/flamengo-x-cruzeiro-copa-libertadores/",
     "https://www.lance.com.br/futebol-nacional/com-gols-de-arrascaeta-e-lino-flamengo-vence-cruzeiro-e-avanca-na-libertadores.html"
    ],
@@ -21744,6 +22285,50 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "libertadores",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://gol.conmebol.com/libertadores/en/news/liga-de-quito-ended-mirassols-dream-penalties-reach-quarter-finals",
+    "https://www.opovo.com.br/esportes/2026/08/21/libertadores-mirassol-cai-nos-penaltis-e-ldu-sera-rival-do-palmeiras.html"
+   ],
+   "fixture": {
+    "id": 91000321,
+    "timestamp": 1787263200,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Rodrigo Paz Delgado",
+     "city": "Quito"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Oitavas de final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900082,
+     "name": "LDU"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "5x4",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   },
   {
    "liga": "libertadores",
@@ -24883,6 +25468,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3748788",
+    "https://www.metropoles.com/esportes/sao-paulo-e-vice-lanterna-veja-resultados-da-1a-rodada-do-paulistao"
+   ],
+   "fixture": {
+    "id": 91000322,
+    "timestamp": 1768174200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 6,
+      "extra": null,
+      "texto": "6"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Lucas Mugni"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 20,
+      "extra": null,
+      "texto": "20"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Alan Franco"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 89,
+      "extra": null,
+      "texto": "89"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "José Aldo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/?p=3750081",
     "https://trivela.com.br/brasil/jhon-jhon-bragantino-derrota-corinthians/"
    ],
@@ -24965,6 +25643,67 @@
      },
      "player": {
       "name": "Henry Mosquera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-vence-mirassol-por-1-a-0-e-segue-invicto-no-paulistao.html",
+    "https://www.gazetaesportiva.com/campeonatos/paulista/flaco-decide-palmeiras-vence-mirassol-e-dorme-na-ponta-do-paulista/"
+   ],
+   "fixture": {
+    "id": 91000323,
+    "timestamp": 1768692600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Barueri",
+     "city": "Barueri"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 71,
+      "extra": null,
+      "texto": "71"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Flaco López"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -25090,6 +25829,115 @@
      },
      "player": {
       "name": "Marcelinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/mirassol-goleia-o-sao-bernardo-fora-de-casa-e-entra-no-g-4-do-paulistao-1.1075789",
+    "https://www.terra.com.br/esportes/mirassol/mirassol-volta-a-vencer-no-paulistao-apos-tres-rodadas,1e70638c19dbaceca619b72cf47a8787884dshl9.html"
+   ],
+   "fixture": {
+    "id": 91000324,
+    "timestamp": 1769277600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Primeiro de Maio",
+     "city": "São Bernardo do Campo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 4
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 4,
+      "extra": null,
+      "texto": "4"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Igor Formiga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 7,
+      "extra": null,
+      "texto": "7"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Renato Marques"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 46,
+      "extra": null,
+      "texto": "46"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Eduardo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 89,
+      "extra": null,
+      "texto": "89"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Everton Galdino"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -29013,10 +29861,28 @@
     "gols": 4
    },
    {
+    "jogador": "Eduardo",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 2
+   },
+   {
     "jogador": "Willian José",
     "time": "Bahia",
     "time_id": 900007,
     "gols": 2
+   },
+   {
+    "jogador": "Agustín Medina",
+    "time": "Lanús",
+    "time_id": 900081,
+    "gols": 1
+   },
+   {
+    "jogador": "Alesson",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
    },
    {
     "jogador": "Alex Telles",
@@ -29091,6 +29957,24 @@
     "gols": 1
    },
    {
+    "jogador": "José Quintero",
+    "time": "LDU",
+    "time_id": 900082,
+    "gols": 1
+   },
+   {
+    "jogador": "João Victor",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucas Oliveira",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
     "jogador": "Lucas Paquetá",
     "time": "Flamengo",
     "time_id": 900001,
@@ -29100,6 +29984,12 @@
     "jogador": "Lucas Romero",
     "time": "Cruzeiro",
     "time_id": 900003,
+    "gols": 1
+   },
+   {
+    "jogador": "Maraude",
+    "time": "Always Ready",
+    "time_id": 900083,
     "gols": 1
    },
    {
@@ -29115,9 +30005,33 @@
     "gols": 1
    },
    {
+    "jogador": "Michael Estrada",
+    "time": "LDU",
+    "time_id": 900082,
+    "gols": 1
+   },
+   {
+    "jogador": "Nathan Fogaça",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Reinaldo",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
     "jogador": "Samuel Lino",
     "time": "Flamengo",
     "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Shaylon",
+    "time": "Mirassol",
+    "time_id": 900015,
     "gols": 1
    },
    {
@@ -29136,6 +30050,12 @@
     "jogador": "Villarreal",
     "time": "Cruzeiro",
     "time_id": 900003,
+    "gols": 1
+   },
+   {
+    "jogador": "Yerlin Quiñoñez",
+    "time": "LDU",
+    "time_id": 900082,
     "gols": 1
    }
   ],
@@ -29465,9 +30385,27 @@
     "gols": 1
    },
    {
+    "jogador": "Eduardo",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
     "jogador": "Eduardo Sasha",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Everton Galdino",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Flaco López",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 1
    },
    {
@@ -29489,9 +30427,27 @@
     "gols": 1
    },
    {
+    "jogador": "Igor Formiga",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "José Aldo",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
     "jogador": "Lucas",
     "time": "São Paulo",
     "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucas Mugni",
+    "time": "Mirassol",
+    "time_id": 900015,
     "gols": 1
    },
    {
@@ -29510,6 +30466,12 @@
     "jogador": "Pedro Henrique",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
+    "gols": 1
+   },
+   {
+    "jogador": "Renato Marques",
+    "time": "Mirassol",
+    "time_id": 900015,
     "gols": 1
    }
   ],
@@ -30851,6 +31813,90 @@
       },
       {
        "times": [
+        900015,
+        900081
+       ],
+       "nomes": [
+        "Mirassol",
+        "Lanús"
+       ],
+       "agregado": [
+        1,
+        1
+       ],
+       "penaltis": null,
+       "vencedor": null,
+       "jogos": [
+        {
+         "id": 91000314,
+         "data": "2026-04-08T19:00",
+         "casa": 900015,
+         "fora": 900081,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "José Maria de Campos Maia",
+         "cidade": "Mirassol"
+        },
+        {
+         "id": 91000319,
+         "data": "2026-05-26T19:00",
+         "casa": 900081,
+         "fora": 900015,
+         "gc": 1,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Ciudad de Lanús",
+         "cidade": "Lanús"
+        }
+       ]
+      },
+      {
+       "times": [
+        900082,
+        900015
+       ],
+       "nomes": [
+        "LDU",
+        "Mirassol"
+       ],
+       "agregado": [
+        2,
+        2
+       ],
+       "penaltis": null,
+       "vencedor": null,
+       "jogos": [
+        {
+         "id": 91000315,
+         "data": "2026-04-14T23:00",
+         "casa": 900082,
+         "fora": 900015,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Rodrigo Paz Delgado",
+         "cidade": "Quito"
+        },
+        {
+         "id": 91000317,
+         "data": "2026-05-07T19:00",
+         "casa": 900015,
+         "fora": 900082,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "José Maria de Campos Maia",
+         "cidade": "Mirassol"
+        }
+       ]
+      },
+      {
+       "times": [
         900003,
         900073
        ],
@@ -30932,6 +31978,48 @@
          "cidade": "Buenos Aires"
         }
        ]
+      },
+      {
+       "times": [
+        900015,
+        900083
+       ],
+       "nomes": [
+        "Mirassol",
+        "Always Ready"
+       ],
+       "agregado": [
+        4,
+        1
+       ],
+       "penaltis": null,
+       "vencedor": 900015,
+       "jogos": [
+        {
+         "id": 91000316,
+         "data": "2026-04-29T19:00",
+         "casa": 900015,
+         "fora": 900083,
+         "gc": 2,
+         "gf": 0,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "José Maria de Campos Maia",
+         "cidade": "Mirassol"
+        },
+        {
+         "id": 91000318,
+         "data": "2026-05-19T21:00",
+         "casa": 900083,
+         "fora": 900015,
+         "gc": 1,
+         "gf": 2,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "Tigo La Huerta",
+         "cidade": "Assunção"
+        }
+       ]
       }
      ]
     },
@@ -30977,6 +32065,51 @@
          "status": "encerrado",
          "estadio": "Maracanã",
          "cidade": "Rio de Janeiro"
+        }
+       ]
+      },
+      {
+       "times": [
+        900015,
+        900082
+       ],
+       "nomes": [
+        "Mirassol",
+        "LDU"
+       ],
+       "agregado": [
+        1,
+        1
+       ],
+       "penaltis": [
+        4,
+        5
+       ],
+       "vencedor": 900082,
+       "jogos": [
+        {
+         "id": 91000320,
+         "data": "2026-08-13T19:00",
+         "casa": 900015,
+         "fora": 900082,
+         "gc": 1,
+         "gf": 1,
+         "pen": "",
+         "status": "encerrado",
+         "estadio": "José Maria de Campos Maia",
+         "cidade": "Mirassol"
+        },
+        {
+         "id": 91000321,
+         "data": "2026-08-20T19:00",
+         "casa": 900082,
+         "fora": 900015,
+         "gc": 0,
+         "gf": 0,
+         "pen": "5x4",
+         "status": "encerrado",
+         "estadio": "Rodrigo Paz Delgado",
+         "cidade": "Quito"
         }
        ]
       }

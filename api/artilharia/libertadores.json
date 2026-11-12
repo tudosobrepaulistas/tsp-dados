@@ -6,10 +6,28 @@
   "gols": 4
  },
  {
+  "jogador": "Eduardo",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 2
+ },
+ {
   "jogador": "Willian José",
   "time": "Bahia",
   "time_id": 900007,
   "gols": 2
+ },
+ {
+  "jogador": "Agustín Medina",
+  "time": "Lanús",
+  "time_id": 900081,
+  "gols": 1
+ },
+ {
+  "jogador": "Alesson",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
  },
  {
   "jogador": "Alex Telles",
@@ -84,6 +102,24 @@
   "gols": 1
  },
  {
+  "jogador": "José Quintero",
+  "time": "LDU",
+  "time_id": 900082,
+  "gols": 1
+ },
+ {
+  "jogador": "João Victor",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucas Oliveira",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
   "jogador": "Lucas Paquetá",
   "time": "Flamengo",
   "time_id": 900001,
@@ -93,6 +129,12 @@
   "jogador": "Lucas Romero",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Maraude",
+  "time": "Always Ready",
+  "time_id": 900083,
   "gols": 1
  },
  {
@@ -108,9 +150,33 @@
   "gols": 1
  },
  {
+  "jogador": "Michael Estrada",
+  "time": "LDU",
+  "time_id": 900082,
+  "gols": 1
+ },
+ {
+  "jogador": "Nathan Fogaça",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "Reinaldo",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
   "jogador": "Samuel Lino",
   "time": "Flamengo",
   "time_id": 900001,
+  "gols": 1
+ },
+ {
+  "jogador": "Shaylon",
+  "time": "Mirassol",
+  "time_id": 900015,
   "gols": 1
  },
  {
@@ -129,6 +195,12 @@
   "jogador": "Villarreal",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Yerlin Quiñoñez",
+  "time": "LDU",
+  "time_id": 900082,
   "gols": 1
  }
 ]

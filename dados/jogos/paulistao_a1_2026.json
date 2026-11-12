@@ -2,6 +2,139 @@
  "competicao": "paulistao_a1_2026",
  "jogos": [
   {
+   "id": 91000322,
+   "data": "2026-01-11T20:30:00-03:00",
+   "casa": "mirassol",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Lucas Mugni",
+     "minuto": "6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alan Franco",
+     "minuto": "20",
+     "tipo": "contra"
+    },
+    {
+     "lado": "casa",
+     "jogador": "José Aldo",
+     "minuto": "89",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3748788",
+    "https://www.metropoles.com/esportes/sao-paulo-e-vice-lanterna-veja-resultados-da-1a-rodada-do-paulistao"
+   ],
+   "atualizado": "2026-11-12T13:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Daniel Borges, João Victor, Luiz Otávio, Reinaldo; Neto Moura, José Aldo, Lucas Mugni; Shaylon, Alesson, André Luis",
+     "entraram": [
+      {
+       "jogador": "Yuri Lara",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galeano",
+       "saiu": "Lucas Mugni",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Alesson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renato Marques",
+       "saiu": "André Luis",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Neto Moura",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Hernán Crespo",
+     "time": "Rafael; Cédric, Alan Franco, Ferraresi, Sabino, Nicolas; Marcos Antônio, Bobadilla, Alisson; Luciano, Tapia",
+     "entraram": [
+      {
+       "jogador": "Maik",
+       "saiu": "Cédric",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danielzinho",
+       "saiu": "Nicolas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ferreirinha",
+       "saiu": "Alisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Luciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas",
+       "saiu": "Tapia",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Ferraresi",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Maik",
+        "minuto": "81"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3748788"
+    ],
+    "atualizado": "2026-11-12T13:36:00-03:00"
+   }
+  },
+  {
    "id": 91000243,
    "data": "2026-01-15T19:30:00-03:00",
    "casa": "bragantino",
@@ -134,6 +267,138 @@
    }
   },
   {
+   "id": 91000323,
+   "data": "2026-01-17T20:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Barueri",
+   "cidade": "Barueri",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Flaco López",
+     "minuto": "71",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-vence-mirassol-por-1-a-0-e-segue-invicto-no-paulistao.html",
+    "https://www.gazetaesportiva.com/campeonatos/paulista/flaco-decide-palmeiras-vence-mirassol-e-dorme-na-ponta-do-paulista/"
+   ],
+   "atualizado": "2026-11-12T13:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Giay, Gustavo Gómez, Bruno Fuchs, Arthur; Luís Pacheco, Marlon Freitas, Mauricio, Ramón Sosa; Bruno Rodrigues, Vitor Roque",
+     "entraram": [
+      {
+       "jogador": "Benedetti",
+       "saiu": "Gustavo Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Piquerez",
+       "saiu": "Arthur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Emi Martínez",
+       "saiu": "Luís Pacheco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme Fillipi",
+       "saiu": "Bruno Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Flaco López",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Ramón Sosa",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carlos Miguel",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Daniel Borges, João Victor, Luiz Otávio, Reinaldo; Neto Moura, Yuri Lara, Eduardo, Shaylon; Alesson, André Luis",
+     "entraram": [
+      {
+       "jogador": "Renato Marques",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mugni",
+       "saiu": "Yuri Lara",
+       "minuto": ""
+      },
+      {
+       "jogador": "José Aldo",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galeano",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Reinaldo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Renato Marques",
+        "minuto": ""
+       },
+       {
+        "jogador": "João Victor",
+        "minuto": ""
+       },
+       {
+        "jogador": "Shaylon",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-vence-mirassol-por-1-a-0-e-segue-invicto-no-paulistao.html"
+    ],
+    "atualizado": "2026-11-12T13:36:00-03:00"
+   }
+  },
+  {
    "id": 91000244,
    "data": "2026-01-18T18:30:00-03:00",
    "casa": "bragantino",
@@ -186,6 +451,160 @@
     "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/lider-do-paulistao-red-bull-bragantino-goleia-botafogo-sp-e-segue-100/"
    ],
    "atualizado": "2026-11-11T02:36:00-03:00"
+  },
+  {
+   "id": 91000324,
+   "data": "2026-01-24T15:00:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Primeiro de Maio",
+   "cidade": "São Bernardo do Campo",
+   "gols_casa": 0,
+   "gols_fora": 4,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Igor Formiga",
+     "minuto": "4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Renato Marques",
+     "minuto": "7",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Eduardo",
+     "minuto": "46",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Everton Galdino",
+     "minuto": "89",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/mirassol-goleia-o-sao-bernardo-fora-de-casa-e-entra-no-g-4-do-paulistao-1.1075789",
+    "https://www.terra.com.br/esportes/mirassol/mirassol-volta-a-vencer-no-paulistao-apos-tres-rodadas,1e70638c19dbaceca619b72cf47a8787884dshl9.html"
+   ],
+   "atualizado": "2026-11-12T13:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Ricardo Catalã",
+     "time": "Alex Alves; Hugo, Hélder, Manzoli, Pará; Foguinho, Romisson, João Paulo; Pedro Vitor, Echaporã, Felipe Garcia",
+     "entraram": [
+      {
+       "jogador": "Marcão Silva",
+       "saiu": "Foguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júnior Urso",
+       "saiu": "Romisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Andrade",
+       "saiu": "João Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabrício Daniel",
+       "saiu": "Pedro Vitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedrinho",
+       "saiu": "Echaporã",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Foguinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Felipe Garcia",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Willian Machado, Reinaldo; Yuri Lara, José Aldo, Eduardo; Galeano, Alesson, Renato Marques",
+     "entraram": [
+      {
+       "jogador": "Denilson",
+       "saiu": "Yuri Lara",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Moura",
+       "saiu": "José Aldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mugni",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Galdino",
+       "saiu": "Galeano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Fogaça",
+       "saiu": "Renato Marques",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Walter",
+        "minuto": ""
+       },
+       {
+        "jogador": "José Aldo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Eduardo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Mugni",
+        "minuto": ""
+       },
+       {
+        "jogador": "Renato Marques",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/mirassol-goleia-o-sao-bernardo-fora-de-casa-e-entra-no-g-4-do-paulistao-1.1075789"
+    ],
+    "atualizado": "2026-11-12T13:36:00-03:00"
+   }
   },
   {
    "id": 91000245,

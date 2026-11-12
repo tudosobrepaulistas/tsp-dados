@@ -783,6 +783,167 @@
    }
   },
   {
+   "id": 91000314,
+   "data": "2026-04-08T19:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "lanus",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "João Victor",
+     "minuto": "60",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3776943",
+    "https://diariodopara.com.br/bola/mirassol-vence-o-lanus-e-faz-historia-na-libertadores/"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00"
+  },
+  {
+   "id": 91000315,
+   "data": "2026-04-14T23:00:00-03:00",
+   "casa": "ldu",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "estadio": "Rodrigo Paz Delgado",
+   "cidade": "Quito",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Yerlin Quiñoñez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "José Quintero",
+     "minuto": "34",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/mirassol-nao-se-encontra-e-dominado-e-perde-para-ldu-na-libertadores/",
+    "https://www.elcomercio.com/deportes/futbol/liga-de-quito-mirassol-resultado-partido-libertadores/"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Tiago Nunes",
+     "time": "Gonzalo Valle; José Quintero, Richard Mina, Luis Segovia, Leonel Quiñoñez; Yerlin Quiñoñez, Jesús Pretell, Gabriel Villamil; Fernando Conejo, Janner Corozo, Deyverson Silva",
+     "entraram": [
+      {
+       "jogador": "Josúe Cuero",
+       "saiu": "José Quintero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gian Franco",
+       "saiu": "Yerlin Quiñoñez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alexander Alvarado",
+       "saiu": "Jesús Pretell",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodney Redes",
+       "saiu": "Janner Corozo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michael Estrada",
+       "saiu": "Deyverson Silva",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luis Segovia",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Daniel Borges, Lucas Oliveira, João Victor, Victor Luis; Neto Moura, Lucas Mugni, Eduardo; Negueba, Galeano, Nathan Fogaça",
+     "entraram": [
+      {
+       "jogador": "Denilson",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Galdino",
+       "saiu": "Lucas Mugni",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Carioca",
+       "saiu": "Negueba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tiquinho Soares",
+       "saiu": "Galeano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alesson",
+       "saiu": "Nathan Fogaça",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Oliveira",
+        "minuto": ""
+       },
+       {
+        "jogador": "Alesson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Lucas Oliveira",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/mirassol-nao-se-encontra-e-dominado-e-perde-para-ldu-na-libertadores/"
+    ],
+    "atualizado": "2026-11-12T13:35:00-03:00"
+   }
+  },
+  {
    "id": 91000281,
    "data": "2026-04-15T19:00:00-03:00",
    "casa": "cruzeiro",
@@ -946,6 +1107,143 @@
    }
   },
   {
+   "id": 91000316,
+   "data": "2026-04-29T19:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "always-ready",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Eduardo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alesson",
+     "minuto": "79",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3783309",
+    "https://www.metropoles.com/sem-categoria/libertadores-mirassol-vence-always-ready-e-segue-invicto-em-casa"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Willian Machado, Reinaldo; Neto Moura, José Aldo, Eduardo; Shaylon, Alesson, André Luis",
+     "entraram": [
+      {
+       "jogador": "Daniel Borges",
+       "saiu": "Igor Formiga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Denilson",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Fogaça",
+       "saiu": "André Luis",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alesson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Igor Formiga",
+        "minuto": ""
+       },
+       {
+        "jogador": "Walter",
+        "minuto": ""
+       },
+       {
+        "jogador": "Denilson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "João Victor",
+        "minuto": "74"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Julio César Baldivieso",
+     "time": "Alain Baroja; Hurtado, Richet Gómez, Alex Rambal, Marcelo Suarez; Héctor Cuéllar, Fernando Saucedo, Rai Lima; Joel Amoroso, Jesús Maraude, Enrique Triverio",
+     "entraram": [
+      {
+       "jogador": "Carlitos Rodriguez",
+       "saiu": "Hurtado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Godoy",
+       "saiu": "Fernando Saucedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando Nava",
+       "saiu": "Rai Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dieguito Rodriguez",
+       "saiu": "Marcelo Suarez",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fernando Saucedo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Richet Gómez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carlitos Rodriguez",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3783309"
+    ],
+    "atualizado": "2026-11-12T13:35:00-03:00"
+   }
+  },
+  {
    "id": 91000283,
    "data": "2026-05-06T23:00:00-03:00",
    "casa": "universidad-catolica",
@@ -1040,6 +1338,191 @@
      "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-empata-universidad-catolica-libertadores-2026/"
     ],
     "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000317,
+   "data": "2026-05-07T19:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "ldu",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Lucas Oliveira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Reinaldo",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/futebol-nacional/mirassol-vence-a-ldu-e-vira-lider-na-libertadores-veja-resultados.html",
+    "https://acritica.net/esportes/futebol/mirassol-ldu-libertadores-grupo-g-lideranca/"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00"
+  },
+  {
+   "id": 91000318,
+   "data": "2026-05-19T21:00:00-03:00",
+   "casa": "always-ready",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "estadio": "Tigo La Huerta",
+   "cidade": "Assunção",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Shaylon",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Maraude",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Nathan Fogaça",
+     "minuto": "82",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/mirassol/mirassol-vence-always-ready-libertadores-2026/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/em-campo-neutro-mirassol-bate-always-ready-e-vai-as-oitavas-da-libertadores/"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcelo Straccia",
+     "time": "Baroja; Carlitos Rodríguez, Richet Gómez, Marcelo Suárez, Dieguito Rodríguez; Héctor Cuéllar, Saucedo, Maraude, Darío Torrico, Nava; Triverio",
+     "entraram": [
+      {
+       "jogador": "Damian Medina",
+       "saiu": "Dieguito Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Passadore",
+       "saiu": "Saucedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rai Lima",
+       "saiu": "Darío Torrico",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Godoy",
+       "saiu": "Nava",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Maraude",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nava",
+        "minuto": ""
+       },
+       {
+        "jogador": "Saucedo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Héctor Cuéllar",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Alex Muralha; Igor Cariús, João Victor, Willian Machado, Victor Luis; Denilson, José Aldo, Shaylon; Carlos Eduardo, Edson Carioca, Alesson",
+     "entraram": [
+      {
+       "jogador": "Rodrigues",
+       "saiu": "Igor Cariús",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mugni",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Fogaça",
+       "saiu": "Edson Carioca",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galeano",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Igor Cariús",
+        "minuto": ""
+       },
+       {
+        "jogador": "Victor Luis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carlos Eduardo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Victor Luis",
+        "minuto": "90+2"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/mirassol/mirassol-vence-always-ready-libertadores-2026/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-internacional/copa-libertadores/em-campo-neutro-mirassol-bate-always-ready-e-vai-as-oitavas-da-libertadores/"
+    ],
+    "atualizado": "2026-11-12T13:35:00-03:00"
    }
   },
   {
@@ -1155,6 +1638,126 @@
      "https://www.gazetaesportiva.com/times/cruzeiro/com-um-a-menos-cruzeiro-empata-contra-o-boca-e-dorme-na-ponta/"
     ],
     "atualizado": "2026-11-12T02:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000319,
+   "data": "2026-05-26T19:00:00-03:00",
+   "casa": "lanus",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Fase de grupos",
+   "grupo": "G",
+   "estadio": "Ciudad de Lanús",
+   "cidade": "Lanús",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Agustín Medina",
+     "minuto": "21",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3792734",
+    "https://www.em.com.br/internacional/2026/05/7428769-mirassol-perde-para-lanus-1-0-e-passa-e-2-do-grupo-na-libertadores.html"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mauricio Pellegrino",
+     "time": "Losada; Gonzalo Peréz, Izquierdoz, Canale, Marcich; Agustín Cardozo, Agustín Medina; Carrera, Eduardo Salvio, Dylan Aquino, Walter Bou",
+     "entraram": [
+      {
+       "jogador": "Biafore",
+       "saiu": "Agustín Medina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Watson",
+       "saiu": "Carrera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sepúlveda",
+       "saiu": "Eduardo Salvio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Besozzi",
+       "saiu": "Dylan Aquino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Cabrera",
+       "saiu": "Walter Bou",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Agustín Cardozo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gonzalo Peréz",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Alex Muralha; Igor Cariús, João Victor, Willian Machado, Lucas Oliveira, Reinaldo; José Aldo, Chico, Eduardo; Galeano, Everton Galdino",
+     "entraram": [
+      {
+       "jogador": "Lucas Mugni",
+       "saiu": "Lucas Oliveira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Borges",
+       "saiu": "Reinaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alesson",
+       "saiu": "José Aldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luis",
+       "saiu": "Galeano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Everton Galdino",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Willian Machado",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3792734"
+    ],
+    "atualizado": "2026-11-12T13:35:00-03:00"
    }
   },
   {
@@ -1399,6 +2002,42 @@
    }
   },
   {
+   "id": 91000320,
+   "data": "2026-08-13T19:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "ldu",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - ida",
+   "grupo": "",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Eduardo",
+     "minuto": "15",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Michael Estrada",
+     "minuto": "82",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://gol.conmebol.com/libertadores/en/news/liga-de-quito-ended-mirassols-perfect-home-defensive-record-and-earned-draw-brazil",
+    "https://m.imirante.com/esporte/brasil/2026/08/13/mirassol-empata-com-a-ldu-nas-oitavas-da-libertadores"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00"
+  },
+  {
    "id": 91000287,
    "data": "2026-08-19T21:30:00-03:00",
    "casa": "flamengo",
@@ -1505,6 +2144,29 @@
     ],
     "atualizado": "2026-11-12T02:40:00-03:00"
    }
+  },
+  {
+   "id": 91000321,
+   "data": "2026-08-20T19:00:00-03:00",
+   "casa": "ldu",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Oitavas de final - volta",
+   "grupo": "",
+   "estadio": "Rodrigo Paz Delgado",
+   "cidade": "Quito",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "5x4",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://gol.conmebol.com/libertadores/en/news/liga-de-quito-ended-mirassols-dream-penalties-reach-quarter-finals",
+    "https://www.opovo.com.br/esportes/2026/08/21/libertadores-mirassol-cai-nos-penaltis-e-ldu-sera-rival-do-palmeiras.html"
+   ],
+   "atualizado": "2026-11-12T13:35:00-03:00"
   },
   {
    "id": 91000178,

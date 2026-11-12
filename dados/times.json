@@ -438,5 +438,20 @@
   "id": 900080,
   "nome": "São Luiz",
   "slug_tsp": ""
+ },
+ "lanus": {
+  "id": 900081,
+  "nome": "Lanús",
+  "slug_tsp": ""
+ },
+ "ldu": {
+  "id": 900082,
+  "nome": "LDU",
+  "slug_tsp": ""
+ },
+ "always-ready": {
+  "id": 900083,
+  "nome": "Always Ready",
+  "slug_tsp": ""
  }
 }
