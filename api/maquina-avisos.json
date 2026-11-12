@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-11T20:24-03:00",
+ "gerado": "2026-11-11T23:37-03:00",
  "avisos": [
-  {
-   "clube": "audax",
-   "nome": "Audax",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Copa CCF já coberta; placares do Torneio Feminino Sub-15/Sub-13 sem 2ª fonte",
-   "sugestao": "Resumo do Torneio Feminino Sub-15/Sub-13 Petrobras quando a FPF publicar resultados"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Sem notícia nova na semana; evergreen vetado (14 dias)",
-   "sugestao": "Prévia de Santos x São Paulo, play-in do Paulistão Feminino em 17/11 no Pacaembu"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-10T06:46-03:00",
-   "motivo": "Sem notícia na semana; evergreen vetado",
-   "sugestao": "Balanço do 1º Paulistão e planos para 2027 quando houver renovações"
-  },
   {
    "clube": "taubate-feminino",
    "nome": "Taubaté Feminino",
@@ -420,6 +399,27 @@
    "quando": "2026-11-11T20:24-03:00",
    "motivo": "Sem notícia nova confirmada nas últimas 24h (sorteio do Paulistão já publicado); time só volta a jogar em 19/11",
    "sugestao": "Semifinal do Paulista Sub-20 contra o Corinthians (Braga venceu a ida fora de casa) e suspensão de Lucas Barbosa para Vitória x Bragantino (19/11, Barradão)"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-11T23:37-03:00",
+   "motivo": "Cobertura 6h (23h30): única pauta nova é a volta da semifinal do Paulista Sub-20 contra o Corinthians (quinta 12/11, 15h, CPD Atibaia; Braga venceu a ida por 1 a 0), mas não achei foto de jogo verificável (site do clube e fotos bloqueados para download; sem vídeo oficial do jogo de ida)",
+   "sugestao": "Bragantino x Corinthians, volta da semi do Paulista Sub-20, quinta 15h no CPD Atibaia; Braga avança com empate. Fontes: https://www.terra.com.br/esportes/corinthians/corinthians-perde-para-bragantino-na-ida-da-semifinal-do-paulista-sub-20,a4899e89490f31c92351b3831050db885gf6e1b0.html e https://www.redbullbragantino.com/br-pt/noticias/massa-bruta-vence-o-corinthians-fora-de-casa-e-sai-em-vantagem-na-semi-do-paulista-sub-20-2026 (foto da ida no site do clube)"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-11T23:37-03:00",
+   "motivo": "Cobertura 6h (23h30): nada novo confirmado em 2 fontes nas últimas 24h; sorteio do Paulistão e recurso de Bruno Santos já publicados",
+   "sugestao": "Prévia de Mirassol x Atlético-MG, sábado 14/11, 18h30, no Maião (35ª rodada): relacionados e promoção de ingressos quando o clube divulgar"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-11T23:37-03:00",
+   "motivo": "Cobertura 6h (23h30): nada novo do clube em 2 fontes nas últimas 24h; foto de jogo verificável indisponível",
+   "sugestao": "Criciúma x Novorizontino, sábado 14/11, 16h30, Heriberto Hülse: empate dá o título da Série B ao Tigre; Criciúma liberou 1.922 ingressos para a torcida visitante (R$ 120/R$ 60, portão 8). Fontes: https://www.4oito.com.br/noticia/criciuma-abre-venda-de-quase-4-mil-ingressos-para-decisao-pela-serie-b-89951 e https://engeplus.com.br/noticia/criciuma-estende-promocao-de-ingressos-para-jogo-contra-o-novorizontino"
   }
  ]
 }
