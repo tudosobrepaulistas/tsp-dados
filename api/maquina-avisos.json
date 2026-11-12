@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-12T14:31-03:00",
+ "gerado": "2026-11-12T17:43-03:00",
  "avisos": [
-  {
-   "clube": "independente",
-   "nome": "Independente",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
   {
    "clube": "uniao-suzano",
    "nome": "União Suzano",
@@ -420,6 +406,20 @@
    "quando": "2026-11-12T14:31-03:00",
    "motivo": "Cobertura 6h (12/11, 14h30): pauta confirmada (volta da semifinal do Paulista Sub-20 contra o Corinthians hoje às 15h no CPD de Atibaia; Braga venceu a ida por 1 a 0 com gol de Luís Gustavo e joga pelo empate), mas sem foto verificável: site do Red Bull Bragantino bloqueado para leitura e download e só há fotos de jornal (Jogada10) do jogo de ida.",
    "sugestao": "Resultado da semifinal do Paulista Sub-20 Bragantino x Corinthians (hoje, 15h, Atibaia) com foto oficial do clube (Ari Ferreira/Bruno Sousa/Red Bull Bragantino). Fontes: site oficial do Bragantino, Terra e Central do Timão."
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-12T17:42-03:00",
+   "motivo": "Data FIFA sem jogo da Série A; Paulistão 2027 já coberto; resultado da semifinal do Paulista Sub-20 (Bragantino x Corinthians, 12/11 em Atibaia, Corinthians avançou nos pênaltis segundo sites de torcida) ainda sem confirmação em 2 fontes aceitas",
+   "sugestao": "Bragantino x Corinthians Sub-20: Massa Bruta cai nos pênaltis em Atibaia e fica fora da final do Paulista (conferir placar e cobranças no site do Bragantino e na Gazeta Esportiva/ge)"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-12T17:43-03:00",
+   "motivo": "Bloco A1: sem notícia nova confirmada em 2 fontes nas últimas 48h para Capivariano, Juventus, Primavera e Noroeste (sorteio do Paulistão já coberto; Juventus x Patrick Brey só em 1 fonte anônima; interesse em Ítalo Carvalho é de 10/11)",
+   "sugestao": "Juventus-SP: proposta por Patrick Brey (Botafogo-SP) e interesse em Ítalo Carvalho (Paysandu) - conferir com o clube ou um 2º veículo"
   }
  ]
 }
