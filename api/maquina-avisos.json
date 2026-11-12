@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-12T18:01-03:00",
+ "gerado": "2026-11-12T18:16-03:00",
  "avisos": [
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
-  {
-   "clube": "ecus",
-   "nome": "ECUS",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
   {
    "clube": "gremio-saocarlense",
    "nome": "Grêmio São-Carlense",
@@ -420,6 +406,20 @@
    "quando": "2026-11-12T18:01-03:00",
    "motivo": "Cota 18h: a única notícia das últimas 48h com 2 fontes (eliminação do Sub-20) já foi usada; site oficial não abre no leitor e não há outro fato novo confirmado (interesse no lateral Lorenzo, do Cuiabá, só tem 1 fonte)",
    "sugestao": "Coletiva/treino do profissional na Data Fifa antes do Internacional (29/11, Beira-Rio) ou semifinal do Paulista Sub-15 contra o Mirassol"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-12T18:16-03:00",
+   "motivo": "Notícia pronta, mas sem foto: nesta execução o ambiente só conseguiu baixar fotos do YouTube (site do Botafogo-SP bloqueado para download) e o canal oficial não foi achado",
+   "sugestao": "Botafogo-SP compra o atacante Wesley em definitivo (contrato até dez/2028) e renova com Gabriel Inocêncio até o fim de 2027: site oficial (botafogofutebolsa.com.br, 12/11) + CBN Ribeirão (12/11)"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-12T18:16-03:00",
+   "motivo": "Notícia confirmada, mas sem foto do Noroeste que desse para baixar e conferir nesta execução",
+   "sugestao": "Amistoso Noroeste x São Paulo de sexta (13/11) no Alfredo de Castilho foi cancelado pela organizadora AEC por alerta de tempestade do Inmet; reembolso integral pela plataforma de ingressos: CNN Brasil e Gazeta Esportiva (11/11)"
   }
  ]
 }
