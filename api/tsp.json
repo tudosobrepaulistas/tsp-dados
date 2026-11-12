@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12T02:44:00-03:00",
+ "gerado": "2026-11-12T03:55:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -14369,7 +14369,74 @@
      "atualizado": "2026-11-02T10:27:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Paulo Autuori",
+     "time": "João Ricardo; Neris, Bastos, Jailson; Maílton, Pierre, Ryan, Rodriguinho, Prior; Pedro Henrique, Chico da Costa",
+     "entraram": [
+      {
+       "jogador": "Cardona",
+       "saiu": "Neris",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Fogaça",
+       "saiu": "Jailson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Baya",
+       "saiu": "Ryan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kaio Henrique",
+       "saiu": "Prior",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Sasha",
+       "saiu": "Chico da Costa",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vítor; Warley, Adriano Martins, Junior Barreto, Guilherme Lopes; Cristiano, Henrique Freitas, Marrony; Geovany Soares, Gustavo Coutinho, Gustavo Maia",
+     "entraram": [
+      {
+       "jogador": "Ewerton",
+       "saiu": "Warley",
+       "minuto": ""
+      },
+      {
+       "jogador": "Klebert",
+       "saiu": "Henrique Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Terans",
+       "saiu": "Marrony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheusinho",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno José",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/11/02/com-penalti-perdido-por-mailton-fortaleza-decepciona-e-fica-no-empate-com-atletico-go.html"
+    ],
+    "atualizado": "2026-11-12T03:52:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -14466,7 +14533,69 @@
      "atualizado": "2026-11-02T12:43:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Alex de Souza",
+     "time": "Luan Polli; Diogo Batista, Jhan Pool, Belezi, Enzo; João Miguel, Felipe Negrucci, Jota, Kauan Rodrigues; Carlinhos, Assis",
+     "entraram": [
+      {
+       "jogador": "Douglas Pelé",
+       "saiu": "Diogo Batista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Philipe Sampaio",
+       "saiu": "Jhan Pool",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zeca",
+       "saiu": "Enzo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gian Cabezas",
+       "saiu": "Jota",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Daniel Paulista",
+     "time": "Richard; Éder, Gabriel Rocha, Luiz Otávio, Bryan Borges; Zanocelo, Richardson, Melk; Lenny Lobato, Saulo Mineiro, Enzo Lodovico",
+     "entraram": [
+      {
+       "jogador": "Sávio",
+       "saiu": "Gabriel Rocha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vina",
+       "saiu": "Richardson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rian Santana",
+       "saiu": "Lenny Lobato",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renzo López",
+       "saiu": "Saulo Mineiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Araújo",
+       "saiu": "Enzo Lodovico",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://mais.opovo.com.br/jornal/esportes/2026/11/03/ceara-perde-para-o-athletic-de-virada-e-segue-no-martirio-por-permanencia-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-12T03:52:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -15509,7 +15638,74 @@
      "atualizado": "2026-11-07T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Guto Ferreira",
+     "time": "Helton Leite; Igor Cariús, Jonathan Costa, Douglas Mendes, Higor Luiz; Dudu, Dodô, Marquinhos Gabriel; Everton Galdino, André Luis, Janderson",
+     "entraram": [
+      {
+       "jogador": "Hayner",
+       "saiu": "Igor Cariús",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tiago Pagnussat",
+       "saiu": "Douglas Mendes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willian Formiga",
+       "saiu": "Higor Luiz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Higor Meritão",
+       "saiu": "Dodô",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lincoln",
+       "saiu": "André Luis",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Umberto Louzer",
+     "time": "Airton; Rodrigo, César Martins, Luciano Castán; Willean Lepo, Ronald, Fellipe Mateus, Marcelo Hermes; Otero, Diego Gonçalves, Nícolas",
+     "entraram": [
+      {
+       "jogador": "Yuri Tanque",
+       "saiu": "Rodrigo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Romarinho",
+       "saiu": "Willean Lepo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Waguininho",
+       "saiu": "Fellipe Mateus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo de Biasi",
+       "saiu": "Diego Gonçalves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhonata Robert",
+       "saiu": "Nícolas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://engeplus.com.br/noticia/criciuma-perde-para-o-vila-nova-e-nao-tem-mais-chances-de-acesso-direto-na-serie"
+    ],
+    "atualizado": "2026-11-12T03:52:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -15622,7 +15818,74 @@
      "atualizado": "2026-11-07T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Barros",
+     "time": "João Carlos; João Basso, Calebe, Vitor Mendes; Igor Inocêncio, Raul, David, Lorenzo; Kauan Cristtyan, Vinicius Peixoto, Jean Dias",
+     "entraram": [
+      {
+       "jogador": "Busatto",
+       "saiu": "João Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley Dias",
+       "saiu": "João Basso",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eric Melo",
+       "saiu": "Raul",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliel",
+       "saiu": "Vinicius Peixoto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Mansano",
+       "saiu": "Jean Dias",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Gabriel Pinheiro, Marcos Paulo; Aderlan, Gabriel Pires, Rai Silva, Diogo Barbosa; Fábio Lima, MP, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Luan Martins",
+       "saiu": "Rai Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Titi",
+       "saiu": "Diogo Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Christian",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mandaca",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.radiocaxias.com.br/juventude-vence-o-cuiaba-e-depende-apenas-de-si-na-ultima-rodada-para-garantir-o-acesso-para-a-serie-a/"
+    ],
+    "atualizado": "2026-11-12T03:51:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -16417,7 +16680,69 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Hugo Chacon",
+     "time": "Kozlinski; Richarlyson, Tárik, Matheus, Artur; Lucas Marques, Geovane Meurer, João Andrade; Guilherme Cachoeira, Pablo Dyego, Igor Bahia",
+     "entraram": [
+      {
+       "jogador": "Zanella",
+       "saiu": "Kozlinski",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chumbinho",
+       "saiu": "Richarlyson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Monteiro",
+       "saiu": "Artur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauã Jonathan",
+       "saiu": "Geovane Meurer",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cainã",
+       "saiu": "Pablo Dyego",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Bruno Pivetti",
+     "time": "Guruceaga; Hector Silva, Índio, Wanderson, Luiz Paulo; Caio Soares, Matheus Uchôa, Halanzinho; Everson, Victor Andrade, Luiz Cláudio",
+     "entraram": [
+      {
+       "jogador": "Guilherme Ramos",
+       "saiu": "Matheus Uchôa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rosa",
+       "saiu": "Halanzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wendell",
+       "saiu": "Everson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Isaque",
+       "saiu": "Luiz Cláudio",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728921-nautico-encerra-participacao-na-serie-b-com-derrota-para-o-londrina.html"
+    ],
+    "atualizado": "2026-11-12T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -29305,6 +29630,158 @@
     }
    ]
   },
+  "900007": {
+   "time": "bahia",
+   "atualizado": "2026-11-12T03:55:00-03:00",
+   "fonte": "https://www.esporteclubebahia.com.br/elenco/masculino/",
+   "jogadores": [
+    {
+     "nome": "Ronaldo",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Léo Vieira",
+     "posicao": "Goleiro",
+     "numero": 22
+    },
+    {
+     "nome": "Guido Herrera",
+     "posicao": "Goleiro",
+     "numero": 17
+    },
+    {
+     "nome": "Zé Guilherme",
+     "posicao": "Lateral",
+     "numero": 66
+    },
+    {
+     "nome": "Roman Gomez",
+     "posicao": "Lateral",
+     "numero": 31
+    },
+    {
+     "nome": "Luciano Juba",
+     "posicao": "Lateral",
+     "numero": 46
+    },
+    {
+     "nome": "David Duarte",
+     "posicao": "Zagueiro",
+     "numero": 33
+    },
+    {
+     "nome": "Marcos Victor",
+     "posicao": "Zagueiro",
+     "numero": 44
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "posicao": "Zagueiro",
+     "numero": 43
+    },
+    {
+     "nome": "Marco Moreno",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Kanu",
+     "posicao": "Zagueiro",
+     "numero": 4
+    },
+    {
+     "nome": "Everton Ribeiro",
+     "posicao": "Meia",
+     "numero": 10
+    },
+    {
+     "nome": "Nicolás Acevedo",
+     "posicao": "Meia",
+     "numero": 5
+    },
+    {
+     "nome": "David Martins",
+     "posicao": "Meia",
+     "numero": 63
+    },
+    {
+     "nome": "Erick",
+     "posicao": "Meia",
+     "numero": 14
+    },
+    {
+     "nome": "Nestor",
+     "posicao": "Meia",
+     "numero": 11
+    },
+    {
+     "nome": "Michel Araujo",
+     "posicao": "Meia",
+     "numero": 15
+    },
+    {
+     "nome": "Lautaro Lopez",
+     "posicao": "Meia",
+     "numero": 18
+    },
+    {
+     "nome": "Caio Alexandre",
+     "posicao": "Meia",
+     "numero": 8
+    },
+    {
+     "nome": "Jean Lucas",
+     "posicao": "Meia",
+     "numero": 6
+    },
+    {
+     "nome": "Ademir",
+     "posicao": "Atacante",
+     "numero": 7
+    },
+    {
+     "nome": "Ruan Pablo",
+     "posicao": "Atacante",
+     "numero": 77
+    },
+    {
+     "nome": "Erick Pulga",
+     "posicao": "Atacante",
+     "numero": 16
+    },
+    {
+     "nome": "Willian José",
+     "posicao": "Atacante",
+     "numero": 12
+    },
+    {
+     "nome": "Sanabria",
+     "posicao": "Atacante",
+     "numero": 23
+    },
+    {
+     "nome": "Kauê Furquim",
+     "posicao": "Atacante",
+     "numero": 57
+    },
+    {
+     "nome": "Kike Olivera",
+     "posicao": "Atacante",
+     "numero": 99
+    },
+    {
+     "nome": "Alejo Veliz",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Everaldo",
+     "posicao": "Atacante",
+     "numero": 27
+    }
+   ]
+  },
   "900032": {
    "time": "botafogo-sp",
    "atualizado": "2026-11-09T03:54:00-03:00",
@@ -29597,6 +30074,153 @@
     },
     {
      "nome": "Wendel Silva",
+     "posicao": "Atacante"
+    }
+   ]
+  },
+  "900018": {
+   "time": "corinthians",
+   "atualizado": "2026-11-12T03:54:00-03:00",
+   "fonte": "https://www.corinthians.com.br/futebol/profissional/elenco",
+   "jogadores": [
+    {
+     "nome": "Felipe Longo",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Hugo Souza",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Kauê",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "André Ramalho",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Gabriel Paulista",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Gustavo Henrique",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Iago Machado",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "João Pedro",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Fabrizio Angileri",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Hugo",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "João Vitor",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Matheuzinho",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Pedro Milans",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Matheus Bidu",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Alex Santana",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Allan",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "André",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "André Carrillo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Breno Bidon",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Charles",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Dieguinho",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Gui Amorim",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Matheus Pereira",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Raniele",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Rodrigo Garro",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Gui Negão",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Kaio César",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Kayke",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Labyad",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Lingard",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Memphis",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Pedro Raul",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Vitinho",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Yuri Alberto",
      "posicao": "Atacante"
     }
    ]
@@ -29905,6 +30529,267 @@
      "nome": "Kadu Sousa",
      "posicao": "Atacante",
      "numero": 40
+    }
+   ]
+  },
+  "900017": {
+   "time": "gremio",
+   "atualizado": "2026-11-12T03:55:00-03:00",
+   "fonte": "https://gremio.net/futebol/profissional",
+   "jogadores": [
+    {
+     "nome": "Gabriel Grando",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Gabriel Menegon",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Thiago Beltrame",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Weverton",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Caio Paulista",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "João Pedro",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Marcos Rocha",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Marlon",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Pedro Gabriel",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Fabián Balbuena",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Gustavo Martins",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Kannemann",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Luis Eduardo",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Viery",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Wagner Leonardo",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Wallace",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Dodi",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Erick Noriega",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Juan Nardoni",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Leonel Pérez",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Monsalve",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Riquelme",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Roger",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Tiago",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Villasanti",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Willian",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Amuzu",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Braithwaite",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Carlos Vinícius",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Enamorado",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Gabriel Mec",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Pavon",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Tetê",
+     "posicao": "Atacante"
+    }
+   ]
+  },
+  "900016": {
+   "time": "internacional",
+   "atualizado": "2026-11-12T03:55:00-03:00",
+   "fonte": "https://internacional.com.br/equipes/masculino",
+   "jogadores": [
+    {
+     "nome": "Diego Esser",
+     "posicao": "Goleiro",
+     "numero": 32
+    },
+    {
+     "nome": "Kauan Jesus",
+     "posicao": "Goleiro",
+     "numero": 22
+    },
+    {
+     "nome": "Matheus Cunha",
+     "posicao": "Goleiro",
+     "numero": 23
+    },
+    {
+     "nome": "Sergio Rochet",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Félix Torres",
+     "posicao": "Zagueiro",
+     "numero": 4
+    },
+    {
+     "nome": "Gabriel Mercado",
+     "posicao": "Zagueiro",
+     "numero": 25
+    },
+    {
+     "nome": "Guillermo Maripán",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Juninho",
+     "posicao": "Zagueiro",
+     "numero": 18
+    },
+    {
+     "nome": "Victor Gabriel",
+     "posicao": "Zagueiro",
+     "numero": 41
+    },
+    {
+     "nome": "Bernabei",
+     "posicao": "Lateral",
+     "numero": 26
+    },
+    {
+     "nome": "Braian Aguirre",
+     "posicao": "Lateral",
+     "numero": 35
+    },
+    {
+     "nome": "Bruno Gomes",
+     "posicao": "Lateral",
+     "numero": 15
+    },
+    {
+     "nome": "Matheus Bahia",
+     "posicao": "Lateral",
+     "numero": 6
+    },
+    {
+     "nome": "Alan Patrick",
+     "posicao": "Meia",
+     "numero": 10
+    },
+    {
+     "nome": "Bruno Henrique",
+     "posicao": "Meia",
+     "numero": 8
+    },
+    {
+     "nome": "Calebe",
+     "posicao": "Meia",
+     "numero": 30
+    },
+    {
+     "nome": "Niclas Eliasson",
+     "posicao": "Meia",
+     "numero": 17
+    },
+    {
+     "nome": "Paulinho",
+     "posicao": "Meia",
+     "numero": 27
+    },
+    {
+     "nome": "Alerrandro",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Johan Carbonero",
+     "posicao": "Atacante",
+     "numero": 7
+    },
+    {
+     "nome": "Kayky",
+     "posicao": "Atacante",
+     "numero": 11
+    },
+    {
+     "nome": "Sanabria",
+     "posicao": "Atacante",
+     "numero": 19
+    },
+    {
+     "nome": "Vitinho",
+     "posicao": "Atacante",
+     "numero": 28
     }
    ]
   },
@@ -30580,6 +31465,335 @@
     {
      "nome": "Vinícius Paiva",
      "posicao": "Atacante"
+    }
+   ]
+  },
+  "900002": {
+   "time": "palmeiras",
+   "atualizado": "2026-11-12T03:54:00-03:00",
+   "fonte": "https://www.palmeiras.com.br/elenco/",
+   "jogadores": [
+    {
+     "nome": "Bruno Bertinato",
+     "posicao": "Goleiro",
+     "numero": 21
+    },
+    {
+     "nome": "Carlos Miguel",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Marcelo Lomba",
+     "posicao": "Goleiro",
+     "numero": 14
+    },
+    {
+     "nome": "Alexander Barboza",
+     "posicao": "Zagueiro",
+     "numero": 2
+    },
+    {
+     "nome": "Benedetti",
+     "posicao": "Zagueiro",
+     "numero": 43
+    },
+    {
+     "nome": "Bruno Fuchs",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Gustavo Gómez",
+     "posicao": "Zagueiro",
+     "numero": 15
+    },
+    {
+     "nome": "Murilo",
+     "posicao": "Zagueiro",
+     "numero": 26
+    },
+    {
+     "nome": "Agustín Giay",
+     "posicao": "Lateral",
+     "numero": 4
+    },
+    {
+     "nome": "Khellven",
+     "posicao": "Lateral",
+     "numero": 12
+    },
+    {
+     "nome": "Arthur",
+     "posicao": "Lateral",
+     "numero": 56
+    },
+    {
+     "nome": "Jefté",
+     "posicao": "Lateral",
+     "numero": 6
+    },
+    {
+     "nome": "Joaquín Piquerez",
+     "posicao": "Lateral",
+     "numero": 22
+    },
+    {
+     "nome": "Andreas Pereira",
+     "posicao": "Meia",
+     "numero": 8
+    },
+    {
+     "nome": "Emiliano Martínez",
+     "posicao": "Meia",
+     "numero": 32
+    },
+    {
+     "nome": "Felipe Anderson",
+     "posicao": "Meia",
+     "numero": 7
+    },
+    {
+     "nome": "Larson",
+     "posicao": "Meia",
+     "numero": 48
+    },
+    {
+     "nome": "Lucas Evangelista",
+     "posicao": "Meia",
+     "numero": 30
+    },
+    {
+     "nome": "Marlon Freitas",
+     "posicao": "Meia",
+     "numero": 17
+    },
+    {
+     "nome": "Mauricio",
+     "posicao": "Meia",
+     "numero": 18
+    },
+    {
+     "nome": "Jhon Arias",
+     "posicao": "Atacante",
+     "numero": 11
+    },
+    {
+     "nome": "López",
+     "posicao": "Atacante",
+     "numero": 42
+    },
+    {
+     "nome": "Paulinho",
+     "posicao": "Atacante",
+     "numero": 10
+    },
+    {
+     "nome": "Ramón Sosa",
+     "posicao": "Atacante",
+     "numero": 19
+    },
+    {
+     "nome": "Vitor Roque",
+     "posicao": "Atacante",
+     "numero": 9
+    }
+   ]
+  },
+  "900009": {
+   "time": "sao-paulo",
+   "atualizado": "2026-11-12T03:54:00-03:00",
+   "fonte": "https://www.saopaulofc.net/esporte/futebol-masculino-profissional/",
+   "jogadores": [
+    {
+     "nome": "Rafael Toloi",
+     "posicao": "Zagueiro",
+     "numero": 2
+    },
+    {
+     "nome": "Arboleda",
+     "posicao": "Zagueiro",
+     "numero": 5
+    },
+    {
+     "nome": "Lucas",
+     "posicao": "Atacante",
+     "numero": 7
+    },
+    {
+     "nome": "Marcos Antonio",
+     "posicao": "Volante",
+     "numero": 8
+    },
+    {
+     "nome": "Calleri",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Luciano",
+     "posicao": "Atacante",
+     "numero": 10
+    },
+    {
+     "nome": "Ferreira",
+     "posicao": "Atacante",
+     "numero": 11
+    },
+    {
+     "nome": "Iago",
+     "posicao": "Lateral",
+     "numero": 12
+    },
+    {
+     "nome": "Enzo",
+     "posicao": "Lateral",
+     "numero": 13
+    },
+    {
+     "nome": "Bobadilla",
+     "posicao": "Meia",
+     "numero": 16
+    },
+    {
+     "nome": "André Silva",
+     "posicao": "Atacante",
+     "numero": 17
+    },
+    {
+     "nome": "Wendell",
+     "posicao": "Lateral",
+     "numero": 18
+    },
+    {
+     "nome": "Lucas Ramon",
+     "posicao": "Lateral",
+     "numero": 19
+    },
+    {
+     "nome": "Buta",
+     "posicao": "Lateral",
+     "numero": 20
+    },
+    {
+     "nome": "Cédric",
+     "posicao": "Lateral",
+     "numero": 21
+    },
+    {
+     "nome": "Domingos Duarte",
+     "posicao": "Zagueiro",
+     "numero": 22
+    },
+    {
+     "nome": "Rafael",
+     "posicao": "Goleiro",
+     "numero": 23
+    },
+    {
+     "nome": "Victor Sá",
+     "posicao": "Atacante",
+     "numero": 27
+    },
+    {
+     "nome": "Newton Jr.",
+     "posicao": "Volante",
+     "numero": 28
+    },
+    {
+     "nome": "Pablo Maia",
+     "posicao": "Meia",
+     "numero": 29
+    },
+    {
+     "nome": "Coronel",
+     "posicao": "Goleiro",
+     "numero": 31
+    },
+    {
+     "nome": "Pedro Lima",
+     "posicao": "Lateral",
+     "numero": 32
+    },
+    {
+     "nome": "Tete",
+     "posicao": "Atacante",
+     "numero": 34
+    },
+    {
+     "nome": "Sabino",
+     "posicao": "Zagueiro",
+     "numero": 35
+    },
+    {
+     "nome": "Artur",
+     "posicao": "Atacante",
+     "numero": 37
+    },
+    {
+     "nome": "João Pedro Pantiga",
+     "posicao": "Goleiro",
+     "numero": 41
+    },
+    {
+     "nome": "Gustavo Santana",
+     "posicao": "Atacante",
+     "numero": 43
+    },
+    {
+     "nome": "Lucca",
+     "posicao": "Atacante",
+     "numero": 45
+    },
+    {
+     "nome": "Pedro Ferreira",
+     "posicao": "Meia",
+     "numero": 46
+    },
+    {
+     "nome": "Djhordney",
+     "posicao": "Volante",
+     "numero": 48
+    },
+    {
+     "nome": "Ryan Francisco",
+     "posicao": "Atacante",
+     "numero": 49
+    },
+    {
+     "nome": "Young",
+     "posicao": "Goleiro",
+     "numero": 50
+    },
+    {
+     "nome": "Felipe Preis",
+     "posicao": "Goleiro",
+     "numero": 52
+    },
+    {
+     "nome": "Isac",
+     "posicao": "Zagueiro",
+     "numero": 53
+    },
+    {
+     "nome": "Osorio",
+     "posicao": "Zagueiro",
+     "numero": 54
+    },
+    {
+     "nome": "Nicolas",
+     "posicao": "Lateral",
+     "numero": 56
+    },
+    {
+     "nome": "Cauly",
+     "posicao": "Meia",
+     "numero": 80
+    },
+    {
+     "nome": "Danielzinho",
+     "posicao": "Meia",
+     "numero": 94
     }
    ]
   }
