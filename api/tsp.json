@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11T20:28:00-03:00",
+ "gerado": "2026-11-11T21:12:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -7696,7 +7696,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.93,
-     2.2
+     2.19
     ],
     "base": [
      9,
@@ -7752,7 +7752,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.55,
-     1.2
+     1.19
     ],
     "base": [
      8,
@@ -7807,7 +7807,7 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.26,
+     2.25,
      0.79
     ],
     "base": [
@@ -7864,7 +7864,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.42,
-     0.78
+     0.77
     ],
     "base": [
      9,
@@ -7916,7 +7916,7 @@
    "previsao": {
     "casa": 32,
     "empate": 26,
-    "fora": 43,
+    "fora": 42,
     "placar": "1x1",
     "gols_esperados": [
      1.22,
@@ -8032,7 +8032,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.02,
-     1.01
+     1.0
     ],
     "base": [
      9,
@@ -8144,7 +8144,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.24,
-     1.82
+     1.81
     ],
     "base": [
      11,
@@ -8423,7 +8423,7 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.32,
+     2.31,
      0.99
     ],
     "base": [
@@ -16343,14 +16343,16 @@
    "obs": "Antecipado pela CBF; sem público por punição do STJD",
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
-    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728857-londrina-e-nautico-abrem-a-ultima-rodada-antes-dos-playoffs-da-serie-b.html"
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/11/11728857-londrina-e-nautico-abrem-a-ultima-rodada-antes-dos-playoffs-da-serie-b.html",
+    "https://www.gazetaesportiva.com/times/nautico/londrina-vira-sobre-o-nautico-nos-acrescimos-e-encerra-serie-b-com-vitoria/",
+    "https://www.umdoisesportes.com.br/campeonatos/serie-b/rebaixado-com-antecedencia-londrina-se-despede-da-serie-b-com-virada-no-fim/"
    ],
    "fixture": {
     "id": 91000169,
     "timestamp": 1794434400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Vitorino Gonçalves Dias",
@@ -16372,27 +16374,63 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {},
    "escalacoes": {},
-   "previsao": {
-    "casa": 65,
-    "empate": 24,
-    "fora": 10,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.59,
-     0.46
-    ],
-    "base": [
-     9,
-     8
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 80,
+      "extra": null,
+      "texto": "80"
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Halanzinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Guilherme Cachoeira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "João Andrade"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -16665,7 +16703,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 37,
-    "empate": 32,
+    "empate": 33,
     "fora": 30,
     "placar": "0x0",
     "gols_esperados": [
@@ -16862,7 +16900,7 @@
    "previsao": {
     "casa": 30,
     "empate": 29,
-    "fora": 42,
+    "fora": 41,
     "placar": "0x1",
     "gols_esperados": [
      0.98,
@@ -16999,7 +17037,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
+    "casa": 67,
     "empate": 20,
     "fora": 14,
     "placar": "2x0",
@@ -24079,14 +24117,14 @@
       900036,
       "Náutico",
       46,
-      37,
+      38,
       12,
       10,
-      15,
-      -9,
+      16,
+      -10,
       "",
-      40,
-      49
+      41,
+      51
      ],
      [
       16,
@@ -24120,15 +24158,15 @@
       18,
       900038,
       "Londrina",
-      32,
-      37,
-      8,
+      35,
+      38,
+      9,
       8,
       21,
-      -13,
+      -12,
       "",
-      45,
-      58
+      47,
+      59
      ],
      [
       19,
@@ -24779,6 +24817,12 @@
     "gols": 1
    },
    {
+    "jogador": "Guilherme Cachoeira",
+    "time": "Londrina",
+    "time_id": 900038,
+    "gols": 1
+   },
+   {
     "jogador": "Guilherme Marques",
     "time": "Atlético-GO",
     "time_id": 900028,
@@ -24794,6 +24838,12 @@
     "jogador": "Gustavão",
     "time": "Athletic",
     "time_id": 900034,
+    "gols": 1
+   },
+   {
+    "jogador": "Halanzinho",
+    "time": "Náutico",
+    "time_id": 900036,
     "gols": 1
    },
    {
@@ -24830,6 +24880,12 @@
     "jogador": "Joseph",
     "time": "Operário-PR",
     "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "João Andrade",
+    "time": "Londrina",
+    "time_id": 900038,
     "gols": 1
    },
    {
