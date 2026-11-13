@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-13T18:01-03:00",
+ "gerado": "2026-11-13T18:18-03:00",
  "avisos": [
-  {
-   "clube": "comercial-tiete",
-   "nome": "Comercial de Tietê",
-   "quando": "2026-11-12T11:10-03:00",
-   "motivo": "Tietê sede da Copinha 2027 pelo 4º ano só no Portal Brazuca (10/11); Instagram bloqueado",
-   "sugestao": "Confirmar com @cfctiete ou Prefeitura de Tietê: Comercial recebe a Copinha 2027 no Ferreirão"
-  },
-  {
-   "clube": "santa-fe",
-   "nome": "Santa Fé",
-   "quando": "2026-11-12T11:10-03:00",
-   "motivo": "Copa CCF (29/11) com fonte de 31/10, fora da janela",
-   "sugestao": "Prévia da Copa CCF na semana de 23/11 (sede Bragança Paulista)"
-  },
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-12T11:10-03:00",
-   "motivo": "Convocação de Lelê, Thaís Ferreira e Duda Sampaio (CBF/O Povo + Terra, 10/11) sem foto livre do trio (site do Corinthians bloqueado aqui)",
-   "sugestao": "Publicar a convocação do trio com foto da Agência Corinthians: amistosos com o Japão em 29/11 (Hiroshima) e 05/12 (Okayama)"
-  },
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-12T11:10-03:00",
-   "motivo": "Final Sub-20 contra o Corinthians (15/11, 11h, Araraquara) só em sites de torcedor; renovação de Diana Benítez sem 2ª fonte",
-   "sugestao": "Prévia da final com FPF/site da Ferroviária + RCI ou Portal Morada; renovação de Diana Benítez até 2028"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-12T11:10-03:00",
-   "motivo": "Tabela da Copinha F (Grupo E, CERET) só em PDF da FPF bloqueado e Costa Norte fora do ar",
-   "sugestao": "Santos na Copinha F 2026: datas e horários contra Botafogo, Inter e Sport"
-  },
   {
    "clube": "taubate-feminino",
    "nome": "Taubaté Feminino",
@@ -420,6 +385,41 @@
    "quando": "2026-11-13T18:01-03:00",
    "motivo": "13/11 18h: temporada encerrada (2x2 com o Athletic já publicado); única novidade é a sondagem a Cauan de Almeida para técnico, só no Futebol Interior (1 fonte, sem acordo)",
    "sugestao": "Quem será o técnico do São Bernardo no Paulistão 2027? Confirmar com o clube ou o Diário do Grande ABC se Cauan de Almeida (ex-Avaí) é o escolhido"
+  },
+  {
+   "clube": "santoandre",
+   "nome": "Santo André",
+   "quando": "2026-11-13T18:17-03:00",
+   "motivo": "13/11 18h: sem notícia nova confirmada e cota de evergreen da A2 já cheia hoje (2/2)",
+   "sugestao": "Guia do Brunão pronto para publicar amanhã: capacidade 15.157, recorde de ~21 mil em 1983 (0x0 com o Corinthians), reforma de 2021 com gramado sintético (fontes: DGABC 08/04/2026 e ABC do ABC)"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-13T18:18-03:00",
+   "motivo": "13/11 18h: saída do meia João Paulo confirmada (Hora Campinas e Futebol Interior), mas não há foto livre dele para a matéria",
+   "sugestao": "João Paulo recusa renovação e deixa o Guarani; Frontini fala em reapresentação em 23/11 no Brinco e elenco mais barato para 2027 (usar foto do Raphael Silvestre/Guarani FC)"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-13T18:18-03:00",
+   "motivo": "13/11 18h: só especulação de mercado (Patrick Brey, 1 fonte; Ítalo, de 10/11)",
+   "sugestao": "Confirmar com o Juventus se houve proposta por Patrick Brey (Botafogo-SP) para o Paulistão 2027"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-13T18:18-03:00",
+   "motivo": "13/11 18h: nenhuma notícia nova nas últimas 48h (última: Elio Sizenando confirmado em outubro)",
+   "sugestao": "Primeiros reforços do Capivariano para o Paulistão 2027 e andamento da reforma do estádio"
+  },
+  {
+   "clube": "rio-preto",
+   "nome": "Rio Preto",
+   "quando": "2026-11-13T18:18-03:00",
+   "motivo": "13/11 18h: sem notícia nova; estádio e história já publicados (21/10 e 20/08)",
+   "sugestao": "Reforços do Rio Preto para a A3 2027 com João Santos"
   }
  ]
 }
