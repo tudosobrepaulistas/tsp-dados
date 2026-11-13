@@ -1,363 +1,6 @@
 {
  "itens": [
   {
-   "clube": "corinthians",
-   "titulo": "Sorteio definido: os 8 adversários do Corinthians na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Corinthians enfrenta Botafogo-SP, Noroeste, São Paulo, Santos, Palmeiras, Capivariano, Novorizontino e Primavera. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p17c759e130",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "palmeiras",
-   "titulo": "Sorteio definido: os 8 adversários do Palmeiras na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Palmeiras enfrenta Primavera, Ferroviária, São Paulo, Santos, Corinthians, Red Bull Bragantino, Capivariano e Guarani. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "pc7389e23b3",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "Sorteio definido: os 8 adversários do São Paulo na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O São Paulo enfrenta Mirassol, São Bernardo, Santos, Palmeiras, Corinthians, Novorizontino, Portuguesa e Botafogo-SP. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p6a99a48f36",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "santos",
-   "titulo": "Sorteio definido: os 8 adversários do Santos na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Santos enfrenta Guarani, Juventus, São Paulo, Palmeiras, Corinthians, Portuguesa, Red Bull Bragantino e Mirassol. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p1f47cbf6f0",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "novorizontino",
-   "titulo": "Sorteio definido: os 8 adversários do Novorizontino na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Novorizontino enfrenta São Bernardo, Juventus, Portuguesa, Red Bull Bragantino, Capivariano, São Paulo, Corinthians e Botafogo-SP. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p9fedcc21d1",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "portuguesa",
-   "titulo": "Sorteio definido: os 8 adversários do Portuguesa na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Portuguesa enfrenta Juventus, Ferroviária, Novorizontino, Red Bull Bragantino, Capivariano, São Paulo, Santos e Mirassol. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "pcc6d9756e8",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "bragantino",
-   "titulo": "Sorteio definido: os 8 adversários do Red Bull Bragantino na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Red Bull Bragantino enfrenta Ferroviária, Noroeste, Novorizontino, Portuguesa, Capivariano, Santos, Palmeiras e Guarani. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p99fd2fe11b",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "capivariano",
-   "titulo": "Sorteio definido: os 8 adversários do Capivariano na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Capivariano enfrenta São Bernardo, Novorizontino, Primavera, Noroeste, Red Bull Bragantino, Portuguesa, Corinthians e Palmeiras. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "pfa6fec8b03",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "primavera",
-   "titulo": "Sorteio definido: os 8 adversários do Primavera na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Primavera enfrenta Noroeste, São Bernardo, Botafogo-SP, Mirassol, Guarani, Palmeiras, Corinthians e Capivariano. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p3eaf129551",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "mirassol",
-   "titulo": "Sorteio definido: os 8 adversários do Mirassol na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Mirassol enfrenta Juventus, Ferroviária, Botafogo-SP, Guarani, Primavera, São Paulo, Santos e Portuguesa. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p956e2279f2",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "botafogosp",
-   "titulo": "Sorteio definido: os 8 adversários do Botafogo-SP na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Botafogo-SP enfrenta São Bernardo, Juventus, Mirassol, Guarani, Primavera, São Paulo, Corinthians e Novorizontino. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p61ba11b40a",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "guarani",
-   "titulo": "Sorteio definido: os 8 adversários do Guarani na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Guarani enfrenta Ferroviária, Noroeste, Botafogo-SP, Mirassol, Primavera, Santos, Palmeiras e Red Bull Bragantino. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p0d27e567d0",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "ferroviaria",
-   "titulo": "Sorteio definido: os 8 adversários do Ferroviária na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Ferroviária enfrenta Mirassol, Guarani, São Bernardo, Juventus, Noroeste, Palmeiras, Portuguesa e Red Bull Bragantino. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "pca3e12bfb1",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "juventus",
-   "titulo": "Sorteio definido: os 8 adversários do Juventus na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Juventus enfrenta Botafogo-SP, Mirassol, São Bernardo, Ferroviária, Noroeste, Santos, Novorizontino e Portuguesa. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p7292c12eea",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "saobernardo",
-   "titulo": "Sorteio definido: os 8 adversários do São Bernardo na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O São Bernardo enfrenta Botafogo-SP, Primavera, Juventus, Ferroviária, Noroeste, São Paulo, Novorizontino e Capivariano. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p84f1c18fe9",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "noroeste",
-   "titulo": "Sorteio definido: os 8 adversários do Noroeste na primeira fase do Paulistão 2027",
-   "resumo": "A FPF sorteou na terça (10) os confrontos da fase de liga do Paulistão 2027. O Noroeste enfrenta Guarani, Primavera, São Bernardo, Juventus, Ferroviária, Corinthians, Red Bull Bragantino e Capivariano. A competição começa em 10 de janeiro, com final prevista para 7 de março; a FPF ainda vai divulgar a tabela com datas.",
-   "angulo": "Avaliar o tamanho do desafio (quantos grandes e quantos rivais diretos contra o rebaixamento) e puxar o retrospecto do clube contra cada adversário na Base TSP.",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/paulistao-2027-veja-participantes-e-como-ficaram-os-jogos-da-primeira-fase/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/estaduais/campeonato-paulista/paulistao-sorteia-os-confrontos-da-edicao-2027-veja-como-ficou,9e99ce729014bce406c9b509b10451224tombjzv.html"
-    }
-   ],
-   "id": "p455c4f0aa6",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "corinthians",
-   "titulo": "Gabriel Paulista e Raniele correm contra o tempo para enfrentar o Botafogo na volta do Brasileirão",
-   "resumo": "Raniele (menisco) já treina com o grupo em parte das atividades e tem mais chance de jogar; Gabriel Paulista (estiramento no adutor) treina separado e pode ficar no banco. O jogo é na quarta (18), às 21h30, na Neo Química Arena, pela 35ª rodada.",
-   "angulo": "Serviço completo do jogo (horário, onde assistir) e como a zaga pode ser montada com as opções disponíveis.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-trabalha-para-ter-gabriel-paulista-e-raniele-contra-o-botafogo/"
-    }
-   ],
-   "id": "p94f864f0ab",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "São Paulo usa a Data Fifa para treinar ataque antes do amistoso com o Noroeste em Bauru",
-   "resumo": "O elenco treinou na terça (10) no CT da Barra Funda com foco em jogadas ofensivas. O time enfrenta o Noroeste na sexta (13), às 20h, no Alfredo de Castilho, e volta ao Brasileirão contra o Fluminense no dia 19, às 21h30, no MorumBIS.",
-   "angulo": "Agenda do Tricolor até o fim do ano e quem pode ganhar chance no amistoso.",
-   "fontes": [
-    {
-     "nome": "Site oficial do São Paulo",
-     "url": "https://www.saopaulofc.net/elenco-conclui-mais-um-dia-de-treino-nesta-data-fifa/"
-    },
-    {
-     "nome": "ABCD Jornal",
-     "url": "https://abcdjornal.com.br/esporte/noticia/2026/11/10/sao-paulo-continua-preparacao-e-dorival-faz-trabalhos-focados-em-movimentacoes-ofensivas/"
-    }
-   ],
-   "id": "pfa28c27fd7",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
-   "clube": "botafogosp",
-   "titulo": "Botafogo-SP encerra a Série B contra o Juventude, que ainda briga pelo título, no sábado às 16h30",
-   "resumo": "Na última rodada da Série B, o Juventude precisa vencer o Botafogo-SP e torcer contra o Novorizontino para ser campeão. O jogo é no sábado (14), às 16h30, com transmissão de ESPN/Disney+, XSports e Canal GOAT.",
-   "angulo": "Pantera como 'fiel da balança' na briga pelo título e balanço da campanha na Série B.",
-   "fontes": [
-    {
-     "nome": "Placar",
-     "url": "https://placar.com.br/brasileirao/titulo-playoff-e-rebaixamento-os-cenarios-da-ultima-rodada-da-serie-b/"
-    },
-    {
-     "nome": "W Mais (Ribeirão Preto)",
-     "url": "https://wmais.com.br/wsports/cbf-tabela-38-rodada-serie-b-2026-transmissoes-botafogo-sp/"
-    }
-   ],
-   "id": "p2c6cabccdf",
-   "gerado": "2026-11-11T07:49-03:00",
-   "quando": "11/11 07h"
-  },
-  {
    "clube": "saopaulo",
    "titulo": "Amistoso com o Noroeste em Bauru é cancelado por alerta de temporal; ingressos serão devolvidos",
    "resumo": "O São Paulo divulgou nota nesta quarta (11) informando que o amistoso de sexta (13) contra o Noroeste, no Alfredo de Castilho, foi cancelado pela organizadora por causa de alerta do Inmet para tempestades, ventos e granizo. O clube diz não ter responsabilidade pelo evento e que todos os ingressos serão reembolsados 100%.",
@@ -740,7 +383,102 @@
    "id": "p86fbce5ff6",
    "gerado": "2026-11-12T16:49-03:00",
    "quando": "12/11 16h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Corinthians bate o Bragantino nos pênaltis e está na final do Paulista Sub-20; veja quando são os jogos",
+   "resumo": "Na quinta (12), em Atibaia, o Corinthians venceu por 1 a 0 (gol de Bahia, no 2º tempo), empatou o agregado e ganhou nos pênaltis por 4 a 2. A final é em ida e volta, nos dias 20 e 28 de novembro, contra o vencedor de Santos x Palmeiras.",
+   "angulo": "Serviço da final (datas, adversário possível) e caminho do Sub-20 até a decisão; a geração que pode subir para o profissional em 2027.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/escolha-do-editor/corinthians-bragantino-sub-20-penaltis-final-paulista/"
+    },
+    {
+     "nome": "Red Bull Bragantino (oficial)",
+     "url": "https://www.redbullbragantino.com/br-pt/noticias/red-bull-bragantino-e-superado-nos-penaltis-e-se-despede-do-paulista-sub-20-entre-os-quatro-melhores"
+    }
+   ],
+   "id": "pbf7a1134ab",
+   "gerado": "2026-11-13T07:50-03:00",
+   "quando": "13/11 07h"
+  },
+  {
+   "clube": "bragantino",
+   "titulo": "Dono da melhor campanha, Bragantino cai nos pênaltis para o Corinthians e se despede do Paulista Sub-20",
+   "resumo": "O Braga perdeu por 1 a 0 em Atibaia na quinta (12), depois de vencer a ida pelo mesmo placar, e foi eliminado nos pênaltis (4 a 2). Na primeira fase foram 13 vitórias em 14 jogos, 61 gols marcados e o 1º lugar geral. Próximo desafio da categoria é a Copinha, em janeiro.",
+   "angulo": "Números da campanha (goleadas de 9 a 0 e 6 a 0) e quem dessa base pode ganhar chance no profissional.",
+   "fontes": [
+    {
+     "nome": "Red Bull Bragantino (oficial)",
+     "url": "https://www.redbullbragantino.com/br-pt/noticias/red-bull-bragantino-e-superado-nos-penaltis-e-se-despede-do-paulista-sub-20-entre-os-quatro-melhores"
+    },
+    {
+     "nome": "Terra",
+     "url": "https://www.terra.com.br/esportes/bragantino/red-bull-bragantino-perde-nos-penaltis-e-da-adeus-ao-paulista-sub-20,c6a7bcea65c9144a676fba0bf16a0ef72a9rjkwt.html"
+    }
+   ],
+   "id": "p6f91623c0e",
+   "gerado": "2026-11-13T07:50-03:00",
+   "quando": "13/11 07h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Fifa tira o São Paulo da lista de transfer ban após clube quitar dívida ligada a Galoppo",
+   "resumo": "O clube pagou os US$ 300 mil devidos aos agentes de Galoppo com parte do adiantamento da Ticketmaster, e a Fifa retirou a punição aplicada em 2 de outubro. Foi o segundo transfer ban do São Paulo em 2026, e o clube fica livre para registrar reforços para 2027.",
+   "angulo": "Explicar em linguagem simples o que é o transfer ban, o risco de perda de pontos que existia e o que muda para o planejamento de 2027.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/fifa-retira-transfer-ban-do-sao-paulo-apos-quitacao-de-divida-ligada-a-galoppo/"
+    },
+    {
+     "nome": "ABCD Jornal",
+     "url": "https://abcdjornal.com.br/esporte/noticia/2026/11/12/sao-paulo-sai-da-lista-de-transfer-ban-apos-quitar-divida"
+    }
+   ],
+   "id": "pab2b07892d",
+   "gerado": "2026-11-13T07:50-03:00",
+   "quando": "13/11 07h"
+  },
+  {
+   "clube": "santos",
+   "titulo": "Neymar Pai pede à CBF e à Fifa a suspensão do registro de agente para atuar como CEO do Santos",
+   "resumo": "O pai de Neymar, anunciado CEO do Santos no dia 6, pediu a suspensão do registro de agente dele e da NN Consultoria, porque não pode acumular as duas funções. O contrato vai até dezembro, e a eleição presidencial do clube é em 12 de dezembro.",
+   "angulo": "O que o CEO faz no clube (futebol, marketing, Meninos da Vila) e como o cargo se encaixa no cenário da eleição.",
+   "fontes": [
+    {
+     "nome": "Lance!",
+     "url": "https://lance.com.br/santos/neymar-pai-solicita-suspensao-de-registro-junto-a-cbf-e-fifa-entenda.html"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/santos/neymar-pai-suspensao-agente-cbf-ceo-santos/"
+    }
+   ],
+   "id": "pbf51ba7754",
+   "gerado": "2026-11-13T07:50-03:00",
+   "quando": "13/11 07h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Murilo corre contra o tempo: veja a maratona do Palmeiras até a final da Libertadores em Montevidéu",
+   "resumo": "O zagueiro trata lesão na coxa esquerda e a expectativa é tê-lo na final contra o Estudiantes, dia 28, em Montevidéu. Antes, o Palmeiras pega Cruzeiro (18/11, Mineirão), Flamengo (21/11, Nubank Parque) e Chapecoense (24/11) na briga pelo título brasileiro.",
+   "angulo": "Calendário em formato de serviço (datas, horários, locais) e quem pode substituir Murilo na zaga.",
+   "fontes": [
+    {
+     "nome": "Terra",
+     "url": "https://www.terra.com.br/esportes/palmeiras/com-desfalques-palmeiras-treina-marcacao-e-finalizacao-em-campo-reduzido,acdcaa2216522a3b35dfb78fbe7188805wpgvza6.html"
+    },
+    {
+     "nome": "CartaCapital / Esporte News Mundo",
+     "url": "https://www.cartacapital.com.br/esporte/treino-do-palmeiras-abel-comanda-atividade-com-desfalque-na-zaga/"
+    }
+   ],
+   "id": "p67f65ebd67",
+   "gerado": "2026-11-13T07:50-03:00",
+   "quando": "13/11 07h"
   }
  ],
- "gerado": "2026-11-12T16:49-03:00"
+ "gerado": "2026-11-13T07:50-03:00"
 }
