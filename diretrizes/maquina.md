@@ -120,3 +120,9 @@ Ordem de preferência:
 }
 ```
 `publish_at` é preenchido sozinho com o próximo horário livre.
+
+
+## Não repetir assunto (13/11/2026)
+O Google deixa de indexar matérias parecidas. Antes de escrever, confira se o site já tem o mesmo fato nas últimas 48h
+(de qualquer clube): `python3 ferramentas/maquina.py ja-tem "palavras do assunto"`. Se já tiver, procure outro assunto
+ou outro clube. Assunto de vários clubes (sorteio, tabela, regulamento) = UMA matéria completa marcando todos os clubes.

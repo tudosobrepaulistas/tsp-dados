@@ -37,3 +37,13 @@ de SEO, AEO e GEO, sem trabalho extra da redação. O site só completa o que es
 4. Grave a lista em /tmp/itens.json e rode `python3 ferramentas/materias.py adicionar /tmp/itens.json` (corrija se der ERRO).
 5. Commit ("editor seo: N matérias") e push no main. O site aplica em até 15 minutos.
 6. Resumo de 1 linha (quantas matérias completadas).
+
+## Reescrita imparcial de matéria de redator sobre vários clubes (13/11/2026)
+Quando `pendentes` marcar **VÁRIOS CLUBES** (matéria de redator sobre sorteio, tabela, regulamento, grupos ou com 3+ clubes):
+1. Reescreva o texto de forma **imparcial**, cobrindo todos os clubes envolvidos (não puxe para um só), com os
+   **mesmos fatos** da matéria. Nada novo sem fonte; números, datas e nomes idênticos. Mantenha o tamanho (pelo menos 60%
+   das palavras) e os parágrafos em `<p>`; intertítulos `<h2>` se ajudarem.
+2. Grave no item: `"reescrita": {"html": "...", "clubes": ["slug1", "slug2", ...], "motivo": "assunto de vários clubes: texto imparcial e completo"}`.
+3. O site troca o texto **no mesmo endereço** (uma matéria só, nada de matéria nova), marca os clubes, guarda o texto
+   original e avisa o redator que houve ajuste por SEO. Cada matéria é reescrita uma vez só.
+4. No máximo 4 reescritas por execução (economia de limite).

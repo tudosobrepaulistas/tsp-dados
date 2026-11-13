@@ -997,8 +997,27 @@ def cmd_intencoes(a):
         tem = ", ".join(k for k in ("analise", "provaveis", "onde_assistir", "retrospecto", "arbitro") if pj.get(k)) or "nada na base"
         print(f"- {q2} | {x['intencao']} | jogo {x['jogo']} | {x['casa']} x {x['fora']} | {x['liga']} {x['rodada']} | {x['inicio']:%d/%m %H:%M} {x['estadio']} | clube: {x['clube']} | base tem: {tem}")
 
+
+def cmd_ja_tem(a):
+    """ja-tem "palavras": matérias do site das últimas 48h sobre o mesmo assunto (para não repetir)."""
+    import urllib.parse
+    termo = " ".join(a).strip()
+    ini = (agora() - datetime.timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%S")
+    achou = []
+    for tipo in ("materia", "posts"):
+        try:
+            achou += baixar(f"{SITE}{tipo}?search={urllib.parse.quote(termo)}&after={ini}&per_page=10&_fields=date,title,link")
+        except Exception:  # noqa: BLE001
+            pass
+    if not achou:
+        print("nada: pode escrever")
+        return
+    for m in achou:
+        print(f"- {m['date'][:16]} | {re.sub('<[^>]+>', '', m['title']['rendered'])} | {m['link']}")
+    print("JÁ EXISTE matéria parecida: escolha outro assunto ou outro clube")
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas, "intencoes": cmd_intencoes}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas, "intencoes": cmd_intencoes, "ja-tem": cmd_ja_tem}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
