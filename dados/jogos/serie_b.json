@@ -8019,24 +8019,39 @@
    "data": "2026-11-12T19:00:00-03:00",
    "casa": "ponte-preta",
    "fora": "operario-pr",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "38",
    "fase": "",
    "grupo": "",
    "estadio": "Ítalo Mário Limongi",
    "cidade": "Indaiatuba",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Nicolas Schulz",
+     "minuto": "72",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Dudu Mosconi",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
    "obs": "Antecipado pela CBF de 14/11 para 12/11 e levado ao Ítalo Mário Limongi, em Indaiatuba",
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
     "https://dcmais.com.br/esportes/cbf-altera-data-e-local-da-partida-entre-operario-e-ponte-preta/",
-    "https://cbncampinas.com.br/2026/11/cbf-antecipa-duelo-entre-ponte-preta-e-operario-pr-pela-ultima-rodada-da-serie-b/"
+    "https://cbncampinas.com.br/2026/11/cbf-antecipa-duelo-entre-ponte-preta-e-operario-pr-pela-ultima-rodada-da-serie-b/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/operario-pr-vence-a-rebaixada-ponte-preta-em-abertura-da-ultima-rodada-da-serie-b/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/ponte-preta-perde-para-operario-e-tem-pior-campanha-da-historia-da-serie-b/"
    ],
-   "atualizado": "2026-11-09T23:27:00-03:00",
+   "atualizado": "2026-11-12T21:49:00-03:00",
    "prejogo": {
     "analise": [
      "Ponte Preta e Operário-PR fecham a Série B na quinta-feira (12/11), às 19h, no Ítalo Mário Limongi, em Indaiatuba, em jogo antecipado pela CBF do dia 14. A rodada 38 vale pouco na tabela para os dois: a Ponte, já rebaixada desde outubro, é a lanterna com 15 pontos em 37 jogos (3 vitórias, 6 empates e 28 derrotas), e o Operário é o 10º, com 54, sem chance de alcançar o G4, fechado em 62 pontos.",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12T18:37:00-03:00",
+ "gerado": "2026-11-12T21:50:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -8215,11 +8215,11 @@
    "previsao": {
     "casa": 71,
     "empate": 19,
-    "fora": 10,
+    "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.09,
-     0.65
+     2.08,
+     0.66
     ],
     "base": [
      9,
@@ -8271,11 +8271,11 @@
    "previsao": {
     "casa": 71,
     "empate": 17,
-    "fora": 11,
+    "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.34,
-     0.82
+     2.33,
+     0.83
     ],
     "base": [
      11,
@@ -8326,12 +8326,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 28,
-    "empate": 34,
+    "empate": 33,
     "fora": 39,
     "placar": "0x0",
     "gols_esperados": [
      0.76,
-     0.96
+     0.97
     ],
     "base": [
      24,
@@ -8387,7 +8387,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.16,
-     1.58
+     1.59
     ],
     "base": [
      10,
@@ -8443,7 +8443,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.39,
-     1.04
+     1.05
     ],
     "base": [
      14,
@@ -8499,7 +8499,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.83,
-     1.41
+     1.42
     ],
     "base": [
      9,
@@ -8555,7 +8555,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.26,
-     1.83
+     1.84
     ],
     "base": [
      11,
@@ -8607,11 +8607,11 @@
    "previsao": {
     "casa": 26,
     "empate": 27,
-    "fora": 47,
+    "fora": 48,
     "placar": "0x1",
     "gols_esperados": [
      0.99,
-     1.43
+     1.44
     ],
     "base": [
      9,
@@ -8663,7 +8663,7 @@
    "previsao": {
     "casa": 54,
     "empate": 28,
-    "fora": 17,
+    "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
      1.35,
@@ -8717,12 +8717,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 76,
+    "casa": 75,
     "empate": 17,
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.23,
+     2.22,
      0.56
     ],
     "base": [
@@ -8832,7 +8832,7 @@
     "casa": 67,
     "empate": 18,
     "fora": 15,
-    "placar": "2x0",
+    "placar": "2x1",
     "gols_esperados": [
      2.34,
      1.0
@@ -8887,11 +8887,11 @@
    "previsao": {
     "casa": 43,
     "empate": 30,
-    "fora": 26,
+    "fora": 27,
     "placar": "1x0",
     "gols_esperados": [
      1.17,
-     0.84
+     0.85
     ],
     "base": [
      9,
@@ -8941,13 +8941,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 62,
     "empate": 19,
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.31,
-     1.17
+     2.3,
+     1.18
     ],
     "base": [
      11,
@@ -9002,8 +9002,8 @@
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.52,
-     0.87
+     2.51,
+     0.88
     ],
     "base": [
      24,
@@ -9059,7 +9059,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.52,
-     0.77
+     0.78
     ],
     "base": [
      23,
@@ -9171,7 +9171,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.88,
-     0.78
+     0.79
     ],
     "base": [
      16,
@@ -18452,14 +18452,16 @@
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
     "https://dcmais.com.br/esportes/cbf-altera-data-e-local-da-partida-entre-operario-e-ponte-preta/",
-    "https://cbncampinas.com.br/2026/11/cbf-antecipa-duelo-entre-ponte-preta-e-operario-pr-pela-ultima-rodada-da-serie-b/"
+    "https://cbncampinas.com.br/2026/11/cbf-antecipa-duelo-entre-ponte-preta-e-operario-pr-pela-ultima-rodada-da-serie-b/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/operario-pr-vence-a-rebaixada-ponte-preta-em-abertura-da-ultima-rodada-da-serie-b/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/ponte-preta-perde-para-operario-e-tem-pior-campanha-da-historia-da-serie-b/"
    ],
    "fixture": {
     "id": 91000166,
     "timestamp": 1794520800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Ítalo Mário Limongi",
@@ -18481,8 +18483,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -18532,21 +18534,41 @@
     }
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 31,
-    "empate": 29,
-    "fora": 40,
-    "placar": "0x1",
-    "gols_esperados": [
-     0.99,
-     1.17
-    ],
-    "base": [
-     9,
-     10
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 72,
+      "extra": null,
+      "texto": "72"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Nicolas Schulz"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+2"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Dudu Mosconi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -18642,8 +18664,8 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.79,
-     0.98
+     1.78,
+     0.99
     ],
     "base": [
      12,
@@ -19136,7 +19158,7 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.12,
+     2.11,
      0.9
     ],
     "base": [
@@ -29841,6 +29863,20 @@
      ],
      [
       9,
+      900029,
+      "Operário-PR",
+      57,
+      38,
+      16,
+      9,
+      13,
+      1,
+      "",
+      51,
+      50
+     ],
+     [
+      10,
       900027,
       "Sport",
       55,
@@ -29852,20 +29888,6 @@
       "",
       50,
       42
-     ],
-     [
-      10,
-      900029,
-      "Operário-PR",
-      54,
-      37,
-      15,
-      9,
-      13,
-      -1,
-      "",
-      49,
-      50
      ],
      [
       11,
@@ -29998,14 +30020,14 @@
       900040,
       "Ponte Preta",
       15,
-      37,
+      38,
       3,
       6,
-      28,
-      -58,
+      29,
+      -60,
       "",
       21,
-      79
+      81
      ]
     ]
    ]
@@ -30640,6 +30662,12 @@
     "gols": 1
    },
    {
+    "jogador": "Dudu Mosconi",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
     "jogador": "Eduardo Brock",
     "time": "Novorizontino",
     "time_id": 900021,
@@ -30865,6 +30893,12 @@
     "jogador": "Nicolas Careca",
     "time": "Novorizontino",
     "time_id": 900021,
+    "gols": 1
+   },
+   {
+    "jogador": "Nicolas Schulz",
+    "time": "Operário-PR",
+    "time_id": 900029,
     "gols": 1
    },
    {
