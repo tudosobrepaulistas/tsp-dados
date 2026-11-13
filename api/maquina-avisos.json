@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-13T18:18-03:00",
+ "gerado": "2026-11-13T20:35-03:00",
  "avisos": [
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-12T11:10-03:00",
-   "motivo": "Fora do Paulistão; nada publicado desde 08/11",
-   "sugestao": "Prévia de Pinda x Taubaté (15/11, 10h) pelo torneio regional, se Guia Taubaté/Portal R3 publicarem"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-12T11:10-03:00",
-   "motivo": "Blog do feminino parado desde 05/10",
-   "sugestao": "Planos e elenco do Mirassol Feminino para 2027 com o clube"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-12T11:38-03:00",
-   "motivo": "Cobertura 6h (12/11, 11h40): profissional sem jogo nem notícia nova confirmada em 2 fontes nas últimas 24h; site oficial não carrega texto para leitura e o Sub-20 só tem 1 fonte aceita (Terra).",
-   "sugestao": "Resultado de Bragantino x Corinthians, volta da semifinal do Paulista Sub-20, hoje (12/11) às 15h no CT de Atibaia (Braga venceu a ida por 1 a 0); usar foto do site oficial do clube."
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-12T11:38-03:00",
-   "motivo": "Cobertura 6h (12/11, 11h40): pauta confirmada (Criciúma x Novorizontino, sábado 14/11 às 16h30 no Heriberto Hülse; empate dá o título; 1.922 ingressos para visitantes segundo o 4oito, empate confirmado também pelo Engeplus), mas sem foto de jogo verificável: miniaturas da TV Novorizontino são artes e o Wikimedia bloqueou o download.",
-   "sugestao": "Novorizontino terá 1.922 ingressos no Heriberto Hülse para a decisão do título da Série B (R$ 120/R$ 60, portão 8): fontes 4oito e Engeplus; usar foto de jogo do site oficial do Novorizontino."
-  },
   {
    "clube": "pontepreta",
    "nome": "Ponte Preta",
@@ -420,6 +392,34 @@
    "quando": "2026-11-13T18:18-03:00",
    "motivo": "13/11 18h: sem notícia nova; estádio e história já publicados (21/10 e 20/08)",
    "sugestao": "Reforços do Rio Preto para a A3 2027 com João Santos"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-13T20:26-03:00",
+   "motivo": "Temporada encerrada em 12/11 (2x2 Athletic, já publicado); sem notícia nova confirmada nas últimas 24h (substituto de Bergantin ainda não anunciado)",
+   "sugestao": "Quando sair, anúncio do novo técnico do São Bernardo para o Paulistão 2027 (Cauan de Almeida é avaliado, segundo o Futebol Interior de 10/11)"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-13T20:34-03:00",
+   "motivo": "Pauta da redação (Juventude x Botafogo-SP decide acesso) já coberta por 3 matérias do dia; notícia nova achada (Patrick Brey e Morelli suspensos, provável escalação - CBN Ribeirão e Portal Democrata, 13/11), mas sem foto de jogo que a Máquina conseguisse abrir e conferir",
+   "sugestao": "Juventude x Botafogo-SP: Pantera vai a Caxias sem Patrick Brey e Morelli, suspensos; Jonathan é dúvida (CBN Ribeirão 13/11 e Portal Democrata 13/11). Foto sugerida: Agência Botafogo do 4x2 do 1º turno"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-13T20:35-03:00",
+   "motivo": "Notícia confirmada achada (meia João Paulo se despede do Guarani, 13/11 - CBN Campinas e Hora Campinas), mas a Máquina não conseguiu abrir nenhuma foto do jogador para conferir (sites de imagem bloqueados nesta execução)",
+   "sugestao": "João Paulo deixa o Guarani: meia de 36 anos (16 jogos, 4 gols e 3 assistências na Série C) publica despedida; clube havia feito proposta. Fontes: cbncampinas.com.br/2026/11/joao-paulo-divulga-texto-de-despedida-do-guarani/ e horacampinas.com.br (13/11). Foto: Raphael Silvestre/Guarani FC"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-13T20:35-03:00",
+   "motivo": "Bloco A3 sem matéria: a Máquina não conseguiu abrir fotos dos clubes (sites de imagem bloqueados nesta execução), então não publicou",
+   "sugestao": "Bloco A3: Rio Branco e Rio Preto têm anúncios de reforços para a A3 2027 (Futebol Interior); conferir 2ª fonte e foto do clube"
   }
  ]
 }
