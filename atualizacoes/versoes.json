@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-10T03:35-03:00",
+ "gerado": "2026-11-13T04:50-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.8.5",
-   "zip": "tsp-jogos-1.8.5.zip",
-   "notas": "Chaveamento do mata-mata do Paulistão Feminino com escudos e datas; Copa do Brasil Feminina some quando não há clube paulista vivo."
+   "versao": "1.8.6",
+   "zip": "tsp-jogos-1.8.6.zip",
+   "notas": "Limpeza do Google: endereços de spam ?t=outlet respondem \"apagado\" (410) e os feeds RSS saem do índice."
   },
   "tsp-maquina": {
    "versao": "1.8.7",
