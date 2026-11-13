@@ -1,0 +1,29 @@
+{
+ "_leia": "Fase 0 do plano de SEO: título e descrição do Google para páginas com muita impressão e CTR baixo. O site (TSP Jogos 1.8.8+) lê a cada 15 minutos e põe por cima do Yoast. Tirou o item, volta o título antigo. 'confronto' (opcional) = esta página vira a principal do confronto: ganha a caixa do próximo jogo e /confronto/time-a-x-time-b/ redireciona para ela. Título até 60 caracteres (o site acrescenta ' | TSP'), descrição até 155. Reavaliar no Search Console 14 dias depois de 'desde'.",
+ "atualizado": "2026-11-13",
+ "itens": [
+  {
+   "url": "/corinthians-x-coritiba-historico-de-confrontos-estatisticas/",
+   "titulo": "Corinthians x Coritiba: quem venceu mais, retrospecto e jogos",
+   "descricao": "Corinthians x Coritiba desde 1941: quem venceu mais, maiores goleadas, artilheiros, tabus e o próximo jogo do confronto.",
+   "confronto": "corinthians-x-coritiba",
+   "motivo": "busca 'corinthians x coritiba' com 117 mil impressões e 76 cliques (13/08 a 12/11); texto de rascunho de SEO aparecia no topo da página",
+   "desde": "2026-11-13"
+  },
+  {
+   "url": "/palmeiras-x-santos-quem-venceu-mais/",
+   "titulo": "Palmeiras x Santos: quem venceu mais? Retrospecto do clássico",
+   "descricao": "O Palmeiras venceu mais vezes o Clássico da Saudade. Veja o retrospecto completo: vitórias, empates, gols e o próximo Palmeiras x Santos.",
+   "confronto": "palmeiras-x-santos",
+   "motivo": "mesma intenção da página automática /confronto/palmeiras-x-santos/ (canibalização); título sem a palavra retrospecto",
+   "desde": "2026-11-13"
+  },
+  {
+   "url": "/inter-de-limeira-classificacao/",
+   "titulo": "Inter de Limeira: classificação, tabela e posição na Série C",
+   "descricao": "Classificação da Inter de Limeira na Série C 2026: posição, pontos, jogos, vitórias e saldo do Leão da Paulista, com a tabela completa do grupo.",
+   "motivo": "buscas 'classificações de inter de limeira' com CTR perto de 0% na posição 9 a 14",
+   "desde": "2026-11-13"
+  }
+ ]
+}

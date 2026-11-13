@@ -47,3 +47,13 @@ Quando `pendentes` marcar **VÁRIOS CLUBES** (matéria de redator sobre sorteio,
 3. O site troca o texto **no mesmo endereço** (uma matéria só, nada de matéria nova), marca os clubes, guarda o texto
    original e avisa o redator que houve ajuste por SEO. Cada matéria é reescrita uma vez só.
 4. No máximo 4 reescritas por execução (economia de limite).
+
+## Títulos de CTR baixo (13/11/2026, Fase 0 e Fase 3 do plano de SEO)
+Página com muita impressão e CTR baixo no Search Console (matéria, página-pilar, clube ou campeonato) ganha título e
+descrição novos em `api/titulos.json` (o site põe por cima do Yoast em até 15 minutos; tirou o item, volta o antigo).
+1. Título até 60 caracteres, com a busca exata no começo ("Corinthians x Coritiba: quem venceu mais, ..."), sem caça-clique.
+2. Descrição até 155 caracteres, respondendo à busca com um fato da própria página (nada de número sem fonte).
+3. Página-pilar de confronto: `"confronto": "time-a-x-time-b"` (nomes como no endereço /confronto/). A página vira a
+   principal do confronto: ganha a caixa do próximo jogo e o endereço automático /confronto/ redireciona para ela.
+4. Preencha `motivo` (impressões/cliques do período) e `desde`; 14 dias depois, compare o CTR e mantenha ou ajuste.
+5. Página de jogo (/jogo/...) não entra na lista: o título dela é automático (TSP Jogos 1.8.8).
