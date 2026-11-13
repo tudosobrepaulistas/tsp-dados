@@ -8104,23 +8104,25 @@
    "data": "2026-11-12T20:00:00-03:00",
    "casa": "sao-bernardo",
    "fora": "athletic-mg",
-   "status": "atrasado",
+   "status": "encerrado",
    "rodada": "38",
    "fase": "",
    "grupo": "",
    "estadio": "1º de Maio",
    "cidade": "São Bernardo do Campo",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "Jogo encerrado segundo agregadores (2x2), mas ainda sem 2 matérias de fontes aceitas; reconferir na próxima hora",
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
-    "https://www.lance.com.br/onde-assistir/sao-bernardo-x-athletic-club-mg-onde-assistir-horario-e-escalacoes.html"
+    "https://www.lance.com.br/onde-assistir/sao-bernardo-x-athletic-club-mg-onde-assistir-horario-e-escalacoes.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-e-athletic-ficam-no-empate-pela-ultima-rodada-da-serie-b/",
+    "https://www.terra.com.br/esportes/sao-bernardo/sao-bernardo-e-athletic-empatam-pela-ultima-rodada-da-serie-b,f4312a7a6c9126403be1061966615ef0pet578qq.html"
    ],
-   "atualizado": "2026-11-12T22:24:00-03:00",
+   "atualizado": "2026-11-12T23:10:00-03:00",
    "prejogo": {
     "analise": [
      "São Bernardo e Athletic se despedem da Série B no sábado (14/11), às 16h30, no estádio 1º de Maio, em São Bernardo do Campo, sem objetivos na tabela. O São Bernardo é o 11º, com 52 pontos, e perdeu a chance de chegar aos playoffs do acesso ao levar a virada do Avaí por 2 a 1 na Ressacada, no sábado passado (7/11). O Athletic é o 14º, com 47, já livre do rebaixamento.",

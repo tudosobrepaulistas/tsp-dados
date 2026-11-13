@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12T22:24:00-03:00",
+ "gerado": "2026-11-12T23:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -8024,7 +8024,7 @@
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.5,
+     1.49,
      0.44
     ],
     "base": [
@@ -8162,7 +8162,7 @@
     "fora": 52,
     "placar": "0x1",
     "gols_esperados": [
-     0.56,
+     0.55,
      1.21
     ],
     "base": [
@@ -8442,7 +8442,7 @@
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.39,
+     2.38,
      1.05
     ],
     "base": [
@@ -8498,7 +8498,7 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.83,
+     1.82,
      1.42
     ],
     "base": [
@@ -8554,7 +8554,7 @@
     "fora": 51,
     "placar": "1x1",
     "gols_esperados": [
-     1.26,
+     1.25,
      1.84
     ],
     "base": [
@@ -8610,7 +8610,7 @@
     "fora": 48,
     "placar": "0x1",
     "gols_esperados": [
-     0.99,
+     0.98,
      1.44
     ],
     "base": [
@@ -8666,7 +8666,7 @@
     "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.35,
+     1.34,
      0.63
     ],
     "base": [
@@ -8722,7 +8722,7 @@
     "fora": 8,
     "placar": "2x0",
     "gols_esperados": [
-     2.22,
+     2.21,
      0.56
     ],
     "base": [
@@ -8834,7 +8834,7 @@
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.34,
+     2.33,
      1.0
     ],
     "base": [
@@ -9170,7 +9170,7 @@
     "fora": 15,
     "placar": "1x0",
     "gols_esperados": [
-     1.88,
+     1.87,
      0.79
     ],
     "base": [
@@ -18576,14 +18576,16 @@
    "obs": "Jogo encerrado segundo agregadores (2x2), mas ainda sem 2 matérias de fontes aceitas; reconferir na próxima hora",
    "fontes": [
     "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
-    "https://www.lance.com.br/onde-assistir/sao-bernardo-x-athletic-club-mg-onde-assistir-horario-e-escalacoes.html"
+    "https://www.lance.com.br/onde-assistir/sao-bernardo-x-athletic-club-mg-onde-assistir-horario-e-escalacoes.html",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-e-athletic-ficam-no-empate-pela-ultima-rodada-da-serie-b/",
+    "https://www.terra.com.br/esportes/sao-bernardo/sao-bernardo-e-athletic-empatam-pela-ultima-rodada-da-serie-b,f4312a7a6c9126403be1061966615ef0pet578qq.html"
    ],
    "fixture": {
     "id": 91000167,
     "timestamp": 1794524400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "1º de Maio",
@@ -18605,8 +18607,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -18658,20 +18660,7 @@
     }
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 56,
-    "empate": 23,
-    "fora": 21,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.78,
-     0.99
-    ],
-    "base": [
-     12,
-     20
-    ]
-   },
+   "previsao": null,
    "events": []
   },
   {
@@ -18730,11 +18719,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 53,
-    "empate": 36,
+    "empate": 37,
     "fora": 11,
     "placar": "0x0",
     "gols_esperados": [
-     0.99,
+     0.98,
      0.29
     ],
     "base": [
@@ -18870,12 +18859,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 53,
     "empate": 37,
     "fora": 10,
     "placar": "0x0",
     "gols_esperados": [
-     0.99,
+     0.98,
      0.27
     ],
     "base": [
@@ -19084,12 +19073,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 71,
+    "casa": 70,
     "empate": 19,
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.04,
+     2.03,
      0.62
     ],
     "base": [
@@ -29893,15 +29882,15 @@
       11,
       900031,
       "São Bernardo",
-      52,
-      37,
+      53,
+      38,
       14,
-      10,
+      11,
       13,
       10,
       "",
-      52,
-      42
+      54,
+      44
      ],
      [
       12,
@@ -29919,6 +29908,20 @@
      ],
      [
       13,
+      900034,
+      "Athletic",
+      48,
+      38,
+      11,
+      15,
+      12,
+      0,
+      "",
+      46,
+      46
+     ],
+     [
+      14,
       900033,
       "Cuiabá",
       47,
@@ -29930,20 +29933,6 @@
       "",
       34,
       32
-     ],
-     [
-      14,
-      900034,
-      "Athletic",
-      47,
-      37,
-      11,
-      14,
-      12,
-      0,
-      "",
-      44,
-      44
      ],
      [
       15,
