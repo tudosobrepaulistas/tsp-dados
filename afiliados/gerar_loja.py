@@ -108,6 +108,18 @@ CSS = """<style>
 .tspl-card .bd{font-size:11px;font-weight:700;color:#8a4b00;background:#fff3d6;border-radius:6px;padding:2px 6px;align-self:flex-start}
 .tspl-card .bt{margin-top:auto;display:block;text-align:center;background:#ee4d2d;color:#fff;border-radius:8px;padding:9px 6px;font-weight:800;font-size:13px;text-decoration:none}
 .tspl-guia{display:block;border:2px solid var(--cor);border-radius:12px;padding:12px 14px;margin:18px 0;text-decoration:none;color:#111}
+.tspl-top{list-style:none;margin:0 0 18px;padding:0;display:flex;flex-direction:column;gap:8px;counter-reset:none}
+.tspl-top li{margin:0}
+.tspl-top a{display:flex;align-items:center;gap:10px;border:1px solid #e5e5e5;border-radius:12px;padding:8px;text-decoration:none;color:#111;background:#fff}
+.tspl-top .rk{flex:none;width:34px;text-align:center;font-weight:900;font-size:18px;color:var(--cor)}
+.tspl-top li{display:flex;align-items:center;gap:6px}
+.tspl-top li a{flex:1;min-width:0}
+.tspl-top img{width:64px;height:64px;object-fit:contain;flex:none;margin:0;border-radius:8px;background:#fafafa}
+.tspl-top .tt{display:flex;flex-direction:column;min-width:0;font-size:13px}
+.tspl-top .tt strong{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tspl-top .tt em{font-style:normal;color:#0a7a3d;font-weight:700;font-size:12px}
+.tspl-top .go{margin-left:auto;flex:none;background:#ee4d2d;color:#fff;border-radius:8px;padding:7px 10px;font-weight:800;font-size:12px}
+.tspl h2.tspl-top-t{font-size:20px;margin:18px 0 10px}
 .tspl h2{margin:26px 0 8px}.tspl h3.q{font-size:16px;margin:14px 0 4px}
 .tspl table{width:100%;border-collapse:collapse;font-size:14px}.tspl td,.tspl th{border:1px solid #e3e3e3;padding:7px;text-align:left}
 </style>"""
@@ -140,6 +152,12 @@ def main(clube):
     if extra.exists():
         vistos = {i["link"] for i in itens}
         itens += [i for i in json.loads(extra.read_text(encoding="utf-8"))["itens"] if i["link"] not in vistos]
+    minimo = conf.get("min_vendas", 30)
+    unicos = {}
+    for it in itens:
+        if vend(it["vendas"]) >= minimo and it["produto"] not in unicos:
+            unicos[it["produto"]] = it
+    itens = list(unicos.values())
     for it in itens:
         it["cat"], it["marca"], it["pub"] = categoria(it["produto"]), marca(it["produto"]), publico(it["produto"])
     itens.sort(key=lambda x: -vend(x["vendas"]))
@@ -152,10 +170,19 @@ def main(clube):
 
     p = [CSS, f'<div class="tspl" style="--cor:{conf["cor"]}">',
          f'<div class="tspl-hero"><p>{conf["hero"]}</p></div>',
+         f'<p class="tspl-aviso"><strong>Importante: o Tudo Sobre Paulista não é a loja oficial do {e(nome)} e não vende nenhum produto.</strong> '
+         'Somos um site de notícias que seleciona e recomenda itens; os botões levam para lojas parceiras (links de afiliado). Se você comprar, '
+         'recebemos uma pequena comissão, sem custo a mais para você. A compra, a entrega e a troca são feitas pela loja vendedora. '
+         f'Só listamos anúncios que se apresentam como oficiais ou licenciados e com pelo menos {minimo} vendas no mês. '
+         'Preços vistos na data indicada: confira o valor atualizado na loja.</p>',
+         f'<h2 class="tspl-top-t">Top 5 do mês: os achadinhos do {e(nome)} que mais vendem</h2>',
+         '<ol class="tspl-top">' + "".join(
+             f'<li><span class="rk">{k + 1}º</span><a href="{e(i["link"])}" target="_blank" rel="sponsored nofollow noopener">'
+             f'<img src="{e(i["imagem"])}" alt="{e(i["produto"])}" width="72" height="72" loading="lazy">'
+             f'<span class="tt"><strong>{e(i["produto"])}</strong><em>{vend(i["vendas"])} vendas no mês · {e(i["preco_13_11"])}</em></span>'
+             f'<span class="go">Ver</span></a></li>' for k, i in enumerate(itens[:5])) + '</ol>',
          f'<div class="tspl-resp"><p><strong>Resposta rápida:</strong> {conf["resposta"]}</p></div>',
-         '<p class="tspl-aviso"><strong>Transparência:</strong> os botões levam para lojas parceiras (links de afiliado). Se você comprar, o '
-         'Tudo Sobre Paulista recebe uma pequena comissão, sem custo a mais para você. Só listamos produtos anunciados como oficiais e '
-         'licenciados. Preços vistos na data indicada em cada produto: confira o valor atualizado na loja.</p>',
+         f'<h2 class="tspl-top-t">Todos os achadinhos do {e(nome)}</h2>',
          '<div class="tspl-f" role="region" aria-label="Filtros da loja">',
          '<div class="tspl-chips"><button type="button" data-v="" data-slug="" aria-pressed="true">Tudo</button>'
          + "".join(f'<button type="button" data-v="{e(c)}" data-slug="{slug(c)}" aria-pressed="false">{e(c)}</button>' for c in cats) + '</div>',
