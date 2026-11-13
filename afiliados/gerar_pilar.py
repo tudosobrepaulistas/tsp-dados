@@ -72,7 +72,7 @@ def main():
     itens = json.loads((RAIZ / "shopee-links.json").read_text(encoding="utf-8"))["itens"]
     guias = {g["slug"]: g for g in json.loads((RAIZ / "guias.json").read_text(encoding="utf-8"))}
     p = [CSS, '<div class="tspp">',
-         '<div class="tspp-hero"><h2>Achados oficiais para o torcedor paulista</h2>'
+         '<div class="tspp-hero"><h2>Achadinhos do torcedor paulista</h2>'
          '<p>Presentes e produtos <strong>oficiais e licenciados</strong> de Palmeiras, Corinthians, São Paulo e Santos, '
          'escolhidos pelo que mais vende e pelo uso no dia a dia. Black Friday em 27/11 e Natal logo depois: confira e compre com antecedência.</p>'
          '<div class="tspp-chips">'
