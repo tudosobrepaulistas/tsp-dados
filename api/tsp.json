@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12T23:10:00-03:00",
+ "gerado": "2026-11-13T03:38:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -583,6 +583,78 @@
     }
    ],
    "feitos": [
+    [
+     900012,
+     900010,
+     0,
+     1
+    ],
+    [
+     900003,
+     900012,
+     1,
+     2
+    ],
+    [
+     900020,
+     900012,
+     3,
+     3
+    ],
+    [
+     900012,
+     900009,
+     0,
+     1
+    ],
+    [
+     900018,
+     900012,
+     0,
+     2
+    ],
+    [
+     900012,
+     900019,
+     1,
+     0
+    ],
+    [
+     900015,
+     900012,
+     0,
+     1
+    ],
+    [
+     900004,
+     900012,
+     2,
+     0
+    ],
+    [
+     900012,
+     900013,
+     1,
+     1
+    ],
+    [
+     900012,
+     900005,
+     1,
+     1
+    ],
+    [
+     900011,
+     900012,
+     2,
+     2
+    ],
+    [
+     900012,
+     900006,
+     2,
+     0
+    ],
     [
      900006,
      900020,
@@ -1732,6 +1804,978 @@
   }
  },
  "jogos": [
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3754295",
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-bragantino-resultado-ficha-tecnica-brasileirao-2026/"
+   ],
+   "fixture": {
+    "id": 91000341,
+    "timestamp": 1769637600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Juninho Capixaba"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3757049",
+    "https://www.umdoisesportes.com.br/coritiba/cruzeiro-coritiba-resultado-gols-ficha-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000342,
+    "timestamp": 1770337800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 18,
+      "extra": null,
+      "texto": "18"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Lavega"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Breno Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/chapecoense-coritiba-resultado-gols-ficha-brasileirao/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/chapecoense-x-coritiba-saf/831918"
+   ],
+   "fixture": {
+    "id": 91000343,
+    "timestamp": 1770847200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 41,
+      "extra": null,
+      "texto": "41"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Breno Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45"
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Walter Clar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 56,
+      "extra": null,
+      "texto": "56"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Breno Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 59,
+      "extra": null,
+      "texto": "59"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Pedro Rocha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 71,
+      "extra": null,
+      "texto": "71"
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Eduardo Doma"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90"
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Rubens"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-sao-paulo-resultado-ficha-tecnica-brasileirao/",
+    "https://acritica.net/esportes/sao-paulo-vence-coritiba-brasileirao-quinta-vitoria-seguida/"
+   ],
+   "fixture": {
+    "id": 91000344,
+    "timestamp": 1772058600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Cauly"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3768539",
+    "https://www.umdoisesportes.com.br/coritiba/corinthians-coritiba-resultado-gols-ficha-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000346,
+    "timestamp": 1773275400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 36,
+      "extra": null,
+      "texto": "36"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Jacy"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 52,
+      "extra": null,
+      "texto": "52"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Lucas Ronier"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-remo-resultado-gol-ficha-brasileirao-2026/",
+    "https://www.oliberal.com/esportes/remo/pedro-rocha-marca-remo-perde-para-o-coritiba-e-segue-sem-vencer-no-brasileirao-1.1097172"
+   ],
+   "fixture": {
+    "id": 91000345,
+    "timestamp": 1773610200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 23,
+      "extra": null,
+      "texto": "23"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Pedro Rocha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3770718",
+    "https://www.oliberal.com/esportes/mirassol-perde-serie-invicta-de-22-jogos-em-casa-pelo-brasileirao-apos-derrota-para-o-coritiba-1.1098833"
+   ],
+   "fixture": {
+    "id": 91000348,
+    "timestamp": 1773874800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maião",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Lavega"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/athletico-vence-classico-contra-o-coritiba-pelo-brasileiro-e-encerra-jejum/",
+    "https://www.umdoisesportes.com.br/atletiba/athletico-coritiba-resultado-ficha-tecnica-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000347,
+    "timestamp": 1774206000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 8"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 22,
+      "extra": null,
+      "texto": "22"
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Dudu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Viveros"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3774978",
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-vasco-resultado-ficha-gols-brasileirao-2026/"
+   ],
+   "fixture": {
+    "id": 91000349,
+    "timestamp": 1775086200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 9"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Tchê Tchê"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Saldivia"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3775808",
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-x-fluminense-resultado-gols-ficha-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000350,
+    "timestamp": 1775345400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 10"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Tiago Cóser"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "John Kennedy"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3777945",
+    "https://acritica.net/esportes/futebol/botafogo-cede-empate-ao-coritiba-apos-falha-no-fim-e-aumenta-pressao/"
+   ],
+   "fixture": {
+    "id": 91000351,
+    "timestamp": 1776020400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 11"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Breno Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Arthur Cabral"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 78,
+      "extra": null,
+      "texto": "78"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Lavega"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-perde-para-o-coritiba-e-fica-a-dois-pontos-do-z4-do-brasileiro/",
+    "https://jornaldebrasilia.com.br/torcida/coritiba-faz-2-a-0-no-atletico-mg-pelo-brasileirao-com-direito-a-falha-bizarra/"
+   ],
+   "fixture": {
+    "id": 91000352,
+    "timestamp": 1776625200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 12"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 6,
+      "extra": null,
+      "texto": "6"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Breno Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Pedro Rocha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
   {
    "liga": "serie_a",
    "temporada": 2026,
@@ -8019,17 +9063,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
+    "casa": 63,
     "empate": 26,
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.49,
-     0.44
+     1.47,
+     0.43
     ],
     "base": [
-     18,
-     16
+     19,
+     17
     ]
    },
    "events": []
@@ -8101,17 +9145,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 13,
+    "casa": 17,
     "empate": 20,
-    "fora": 67,
+    "fora": 63,
     "placar": "0x2",
     "gols_esperados": [
-     0.77,
-     2.03
+     0.98,
+     2.09
     ],
     "base": [
-     11,
-     9
+     12,
+     10
     ]
    },
    "events": []
@@ -8157,16 +9201,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 17,
+    "casa": 37,
     "empate": 31,
-    "fora": 52,
-    "placar": "0x1",
+    "fora": 32,
+    "placar": "1x0",
     "gols_esperados": [
-     0.55,
-     1.21
+     1.05,
+     0.94
     ],
     "base": [
-     8,
+     20,
      8
     ]
    },
@@ -8213,17 +9257,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 71,
-    "empate": 19,
-    "fora": 11,
-    "placar": "2x0",
+    "casa": 64,
+    "empate": 21,
+    "fora": 15,
+    "placar": "1x0",
     "gols_esperados": [
-     2.08,
-     0.66
+     1.98,
+     0.84
     ],
     "base": [
-     9,
-     11
+     10,
+     12
     ]
    },
    "events": []
@@ -8269,17 +9313,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 71,
-    "empate": 17,
-    "fora": 12,
+    "casa": 68,
+    "empate": 19,
+    "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.33,
-     0.83
+     2.21,
+     0.85
     ],
     "base": [
      11,
-     21
+     22
     ]
    },
    "events": []
@@ -8325,16 +9369,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
+    "casa": 26,
     "empate": 33,
-    "fora": 39,
-    "placar": "0x0",
+    "fora": 41,
+    "placar": "0x1",
     "gols_esperados": [
-     0.76,
-     0.97
+     0.74,
+     1.03
     ],
     "base": [
-     24,
+     25,
      12
     ]
    },
@@ -8381,17 +9425,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
-    "empate": 25,
-    "fora": 47,
+    "casa": 25,
+    "empate": 24,
+    "fora": 51,
     "placar": "1x1",
     "gols_esperados": [
-     1.16,
-     1.59
+     1.08,
+     1.65
     ],
     "base": [
-     10,
-     23
+     11,
+     24
     ]
    },
    "events": []
@@ -8437,13 +9481,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
+    "casa": 66,
     "empate": 18,
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.38,
-     1.05
+     2.37,
+     1.06
     ],
     "base": [
      14,
@@ -8493,16 +9537,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 45,
     "empate": 23,
-    "fora": 30,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.82,
-     1.42
+     1.74,
+     1.41
     ],
     "base": [
-     9,
+     10,
      24
     ]
    },
@@ -8549,17 +9593,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
+    "casa": 24,
     "empate": 23,
-    "fora": 51,
+    "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
-     1.25,
-     1.84
+     1.14,
+     1.79
     ],
     "base": [
      11,
-     11
+     12
     ]
    },
    "events": []
@@ -8605,17 +9649,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
-    "empate": 27,
-    "fora": 48,
+    "casa": 29,
+    "empate": 29,
+    "fora": 43,
     "placar": "0x1",
     "gols_esperados": [
      0.98,
-     1.44
+     1.25
     ],
     "base": [
-     9,
-     9
+     10,
+     10
     ]
    },
    "events": []
@@ -8667,7 +9711,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.34,
-     0.63
+     0.64
     ],
     "base": [
      12,
@@ -8717,17 +9761,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 75,
-    "empate": 17,
-    "fora": 8,
-    "placar": "2x0",
+    "casa": 52,
+    "empate": 24,
+    "fora": 24,
+    "placar": "1x1",
     "gols_esperados": [
-     2.21,
-     0.56
+     1.7,
+     1.08
     ],
     "base": [
      13,
-     8
+     20
     ]
    },
    "events": []
@@ -8773,17 +9817,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 11,
+    "casa": 14,
     "empate": 22,
-    "fora": 67,
+    "fora": 64,
     "placar": "0x1",
     "gols_esperados": [
-     0.55,
-     1.76
+     0.75,
+     1.87
     ],
     "base": [
-     11,
-     24
+     12,
+     25
     ]
    },
    "events": []
@@ -8829,17 +9873,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
+    "casa": 69,
     "empate": 18,
-    "fora": 15,
-    "placar": "2x1",
+    "fora": 13,
+    "placar": "2x0",
     "gols_esperados": [
-     2.33,
-     1.0
+     2.27,
+     0.87
     ],
     "base": [
-     21,
-     9
+     22,
+     10
     ]
    },
    "events": []
@@ -8886,16 +9930,16 @@
    "escalacoes": {},
    "previsao": {
     "casa": 43,
-    "empate": 30,
-    "fora": 27,
+    "empate": 31,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.17,
-     0.85
+     1.14,
+     0.81
     ],
     "base": [
-     9,
-     18
+     10,
+     19
     ]
    },
    "events": []
@@ -8941,17 +9985,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
-    "empate": 19,
-    "fora": 18,
+    "casa": 63,
+    "empate": 20,
+    "fora": 17,
     "placar": "2x1",
     "gols_esperados": [
-     2.3,
-     1.18
+     2.16,
+     1.04
     ],
     "base": [
-     11,
-     9
+     12,
+     10
     ]
    },
    "events": []
@@ -8997,13 +10041,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 73,
+    "casa": 72,
     "empate": 16,
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.51,
-     0.88
+     2.49,
+     0.89
     ],
     "base": [
      24,
@@ -9053,17 +10097,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
-    "empate": 26,
-    "fora": 19,
+    "casa": 51,
+    "empate": 28,
+    "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.52,
-     0.78
+     1.39,
+     0.81
     ],
     "base": [
-     23,
-     9
+     24,
+     10
     ]
    },
    "events": []
@@ -9109,13 +10153,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 41,
+    "casa": 40,
     "empate": 28,
-    "fora": 31,
+    "fora": 32,
     "placar": "1x1",
     "gols_esperados": [
-     1.27,
-     1.06
+     1.26,
+     1.08
     ],
     "base": [
      8,
@@ -9165,17 +10209,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
-    "empate": 22,
-    "fora": 15,
+    "casa": 61,
+    "empate": 23,
+    "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.87,
-     0.79
+     1.76,
+     0.75
     ],
     "base": [
-     16,
-     10
+     17,
+     11
     ]
    },
    "events": []
@@ -18718,13 +19762,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
+    "casa": 52,
     "empate": 37,
     "fora": 11,
     "placar": "0x0",
     "gols_esperados": [
      0.98,
-     0.29
+     0.3
     ],
     "base": [
      12,
@@ -18790,13 +19834,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 40,
+    "casa": 39,
     "empate": 32,
     "fora": 29,
     "placar": "1x0",
     "gols_esperados": [
-     1.05,
-     0.84
+     1.04,
+     0.85
     ],
     "base": [
      16,
@@ -18932,11 +19976,11 @@
    "previsao": {
     "casa": 34,
     "empate": 36,
-    "fora": 29,
+    "fora": 30,
     "placar": "0x0",
     "gols_esperados": [
-     0.81,
-     0.72
+     0.8,
+     0.73
     ],
     "base": [
      19,
@@ -19005,11 +20049,11 @@
    "previsao": {
     "casa": 41,
     "empate": 31,
-    "fora": 28,
+    "fora": 29,
     "placar": "1x0",
     "gols_esperados": [
-     1.11,
-     0.86
+     1.1,
+     0.87
     ],
     "base": [
      23,
@@ -19075,11 +20119,11 @@
    "previsao": {
     "casa": 70,
     "empate": 19,
-    "fora": 10,
+    "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.03,
-     0.62
+     2.02,
+     0.63
     ],
     "base": [
      17,
@@ -19147,8 +20191,8 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.11,
-     0.9
+     2.1,
+     0.91
     ],
     "base": [
      9,
@@ -30025,15 +31069,33 @@
  "artilharia": {
   "serie_a": [
    {
+    "jogador": "Breno Lopes",
+    "time": "Coritiba",
+    "time_id": 900012,
+    "gols": 5
+   },
+   {
     "jogador": "Pedro",
     "time": "Flamengo",
     "time_id": 900001,
     "gols": 4
    },
    {
+    "jogador": "Pedro Rocha",
+    "time": "Coritiba",
+    "time_id": 900012,
+    "gols": 4
+   },
+   {
     "jogador": "Kaio Jorge",
     "time": "Cruzeiro",
     "time_id": 900003,
+    "gols": 3
+   },
+   {
+    "jogador": "Lavega",
+    "time": "Coritiba",
+    "time_id": 900012,
     "gols": 3
    },
    {
@@ -30103,6 +31165,12 @@
     "gols": 1
    },
    {
+    "jogador": "Arthur Cabral",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
     "jogador": "Balbuena",
     "time": "Grêmio",
     "time_id": 900017,
@@ -30163,6 +31231,24 @@
     "gols": 1
    },
    {
+    "jogador": "Cauly",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Danilo",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Dudu",
+    "time": "Athletico-PR",
+    "time_id": 900004,
+    "gols": 1
+   },
+   {
     "jogador": "Edenilson",
     "time": "Botafogo",
     "time_id": 900011,
@@ -30172,6 +31258,12 @@
     "jogador": "Edenílson",
     "time": "Botafogo",
     "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Eduardo Doma",
+    "time": "Chapecoense",
+    "time_id": 900020,
     "gols": 1
    },
    {
@@ -30247,15 +31339,33 @@
     "gols": 1
    },
    {
+    "jogador": "Jacy",
+    "time": "Coritiba",
+    "time_id": 900012,
+    "gols": 1
+   },
+   {
     "jogador": "Jajá",
     "time": "Remo",
     "time_id": 900019,
     "gols": 1
    },
    {
+    "jogador": "John Kennedy",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 1
+   },
+   {
     "jogador": "Juninho",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Juninho Capixaba",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
     "gols": 1
    },
    {
@@ -30301,6 +31411,12 @@
     "gols": 1
    },
    {
+    "jogador": "Lucas Ronier",
+    "time": "Coritiba",
+    "time_id": 900012,
+    "gols": 1
+   },
+   {
     "jogador": "Lucho Acosta",
     "time": "Fluminense",
     "time_id": 900005,
@@ -30331,15 +31447,15 @@
     "gols": 1
    },
    {
-    "jogador": "Mendoza",
-    "time": "Athletico-PR",
-    "time_id": 900004,
+    "jogador": "Matheus Pereira",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 1
    },
    {
-    "jogador": "Pedro Rocha",
-    "time": "Coritiba",
-    "time_id": 900012,
+    "jogador": "Mendoza",
+    "time": "Athletico-PR",
+    "time_id": 900004,
     "gols": 1
    },
    {
@@ -30391,15 +31507,45 @@
     "gols": 1
    },
    {
+    "jogador": "Rubens",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
     "jogador": "Savarino",
     "time": "Fluminense",
     "time_id": 900005,
     "gols": 1
    },
    {
+    "jogador": "Tchê Tchê",
+    "time": "Vasco",
+    "time_id": 900013,
+    "gols": 1
+   },
+   {
+    "jogador": "Tiago Cóser",
+    "time": "Coritiba",
+    "time_id": 900012,
+    "gols": 1
+   },
+   {
     "jogador": "Tinga",
     "time": "Coritiba",
     "time_id": 900012,
+    "gols": 1
+   },
+   {
+    "jogador": "Viveros",
+    "time": "Athletico-PR",
+    "time_id": 900004,
+    "gols": 1
+   },
+   {
+    "jogador": "Walter Clar",
+    "time": "Chapecoense",
+    "time_id": 900020,
     "gols": 1
    },
    {

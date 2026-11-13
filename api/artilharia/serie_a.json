@@ -1,14 +1,32 @@
 [
  {
+  "jogador": "Breno Lopes",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 5
+ },
+ {
   "jogador": "Pedro",
   "time": "Flamengo",
   "time_id": 900001,
   "gols": 4
  },
  {
+  "jogador": "Pedro Rocha",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 4
+ },
+ {
   "jogador": "Kaio Jorge",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 3
+ },
+ {
+  "jogador": "Lavega",
+  "time": "Coritiba",
+  "time_id": 900012,
   "gols": 3
  },
  {
@@ -78,6 +96,12 @@
   "gols": 1
  },
  {
+  "jogador": "Arthur Cabral",
+  "time": "Botafogo",
+  "time_id": 900011,
+  "gols": 1
+ },
+ {
   "jogador": "Balbuena",
   "time": "Grêmio",
   "time_id": 900017,
@@ -138,6 +162,24 @@
   "gols": 1
  },
  {
+  "jogador": "Cauly",
+  "time": "São Paulo",
+  "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Danilo",
+  "time": "Botafogo",
+  "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Dudu",
+  "time": "Athletico-PR",
+  "time_id": 900004,
+  "gols": 1
+ },
+ {
   "jogador": "Edenilson",
   "time": "Botafogo",
   "time_id": 900011,
@@ -147,6 +189,12 @@
   "jogador": "Edenílson",
   "time": "Botafogo",
   "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Eduardo Doma",
+  "time": "Chapecoense",
+  "time_id": 900020,
   "gols": 1
  },
  {
@@ -222,15 +270,33 @@
   "gols": 1
  },
  {
+  "jogador": "Jacy",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 1
+ },
+ {
   "jogador": "Jajá",
   "time": "Remo",
   "time_id": 900019,
   "gols": 1
  },
  {
+  "jogador": "John Kennedy",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 1
+ },
+ {
   "jogador": "Juninho",
   "time": "Internacional",
   "time_id": 900016,
+  "gols": 1
+ },
+ {
+  "jogador": "Juninho Capixaba",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
   "gols": 1
  },
  {
@@ -276,6 +342,12 @@
   "gols": 1
  },
  {
+  "jogador": "Lucas Ronier",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 1
+ },
+ {
   "jogador": "Lucho Acosta",
   "time": "Fluminense",
   "time_id": 900005,
@@ -306,15 +378,15 @@
   "gols": 1
  },
  {
-  "jogador": "Mendoza",
-  "time": "Athletico-PR",
-  "time_id": 900004,
+  "jogador": "Matheus Pereira",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {
-  "jogador": "Pedro Rocha",
-  "time": "Coritiba",
-  "time_id": 900012,
+  "jogador": "Mendoza",
+  "time": "Athletico-PR",
+  "time_id": 900004,
   "gols": 1
  },
  {
@@ -366,15 +438,45 @@
   "gols": 1
  },
  {
+  "jogador": "Rubens",
+  "time": "Chapecoense",
+  "time_id": 900020,
+  "gols": 1
+ },
+ {
   "jogador": "Savarino",
   "time": "Fluminense",
   "time_id": 900005,
   "gols": 1
  },
  {
+  "jogador": "Tchê Tchê",
+  "time": "Vasco",
+  "time_id": 900013,
+  "gols": 1
+ },
+ {
+  "jogador": "Tiago Cóser",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 1
+ },
+ {
   "jogador": "Tinga",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 1
+ },
+ {
+  "jogador": "Viveros",
+  "time": "Athletico-PR",
+  "time_id": 900004,
+  "gols": 1
+ },
+ {
+  "jogador": "Walter Clar",
+  "time": "Chapecoense",
+  "time_id": 900020,
   "gols": 1
  },
  {

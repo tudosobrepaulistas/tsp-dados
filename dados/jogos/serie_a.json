@@ -1,6 +1,1451 @@
 {
  "jogos": [
   {
+   "id": 91000341,
+   "data": "2026-01-28T19:00:00-03:00",
+   "casa": "coritiba",
+   "fora": "bragantino",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Juninho Capixaba",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3754295",
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-bragantino-resultado-ficha-tecnica-brasileirao-2026/"
+   ],
+   "atualizado": "2026-11-13T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; Tinga, Maicon, Tiago Cóser, Bruno Melo; Willian Oliveira, Sebastián Gómez, Josué; Lavega, Lucas Ronier, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Thiago Santos",
+       "saiu": "Bruno Melo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wallisson",
+       "saiu": "Willian Oliveira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jacy",
+       "saiu": "Lavega",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Lucas Ronier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Breno Lopes",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bruno Melo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Josué",
+        "minuto": "30"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Vagner Mancini",
+     "time": "Cleiton; Andrés Hurtado, Alix Vinicius, Gustavo Marques, Juninho Capixaba; Gabriel, Gustavinho, Matheus Fernandes; Mosquera, Lucas Barbosa, Eduardo Sasha",
+     "entraram": [
+      {
+       "jogador": "Sant'Anna",
+       "saiu": "Andrés Hurtado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Henrique",
+       "saiu": "Alix Vinicius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcelinho",
+       "saiu": "Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ignacio",
+       "saiu": "Matheus Fernandes",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alix Vinicius",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Pedro Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Fernandes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ignacio",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/coritiba-bragantino-resultado-ficha-tecnica-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-13T03:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000342,
+   "data": "2026-02-05T21:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "18",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lavega",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Breno Lopes",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3757049",
+    "https://www.umdoisesportes.com.br/coritiba/cruzeiro-coritiba-resultado-gols-ficha-brasileirao/"
+   ],
+   "atualizado": "2026-11-13T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Tite",
+     "time": "Cássio; William, Fabrício Bruno, João Marcelo, Kaiki Bruno; Lucas Romero, Gerson, Matheus Pereira; Arroyo, Christian, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Fagner",
+       "saiu": "William",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Lucas Romero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Gerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Arroyo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Kaiki Bruno",
+        "minuto": ""
+       },
+       {
+        "jogador": "Fabrício Bruno",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; Tinga, Maicon, Tiago Cóser, Bruno Melo; Willian Oliveira, Sebastián Gómez, Lucas Ronier; Breno Lopes, Lavega, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Jacy",
+       "saiu": "Tiago Cóser",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Sebastián Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Keno",
+       "saiu": "Breno Lopes",
+       "minuto": "65"
+      },
+      {
+       "jogador": "Fernando Sobral",
+       "saiu": "Lavega",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Pedro Rocha",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/cruzeiro-coritiba-resultado-gols-ficha-brasileirao/"
+    ],
+    "atualizado": "2026-11-13T03:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000343,
+   "data": "2026-02-11T19:00:00-03:00",
+   "casa": "chapecoense",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 3,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Breno Lopes",
+     "minuto": "41",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Walter Clar",
+     "minuto": "45",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Breno Lopes",
+     "minuto": "56",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro Rocha",
+     "minuto": "59",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Eduardo Doma",
+     "minuto": "71",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Rubens",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/chapecoense-coritiba-resultado-gols-ficha-brasileirao/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/chapecoense-x-coritiba-saf/831918"
+   ],
+   "atualizado": "2026-11-13T03:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Gilmar Dal Pozzo",
+     "time": "Léo Vieira; Victor Caetano, Bruno Leonardo, Eduardo Doma, Everton; Walter Clar, Camilo, Rafael Carvalheira; Jean Carlos, Marcinho, Garcez",
+     "entraram": [
+      {
+       "jogador": "Rubens",
+       "saiu": "Everton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Higor Meritão",
+       "saiu": "Camilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Vitor",
+       "saiu": "Rafael Carvalheira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Italo",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Everton",
+        "minuto": ""
+       },
+       {
+        "jogador": "Higor Meritão",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; Tinga, Maicon, Tiago Cóser, Bruno Melo; Willian Oliveira, Josué, Lucas Ronier; Lavega, Breno Lopes, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Jacy",
+       "saiu": "Maicon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando Sobral",
+       "saiu": "Willian Oliveira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Lavega",
+       "minuto": ""
+      },
+      {
+       "jogador": "Keno",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enzo Vagner",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/chapecoense-coritiba-resultado-gols-ficha-brasileirao/"
+    ],
+    "atualizado": "2026-11-13T03:35:00-03:00"
+   }
+  },
+  {
+   "id": 91000344,
+   "data": "2026-02-25T19:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Cauly",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-sao-paulo-resultado-ficha-tecnica-brasileirao/",
+    "https://acritica.net/esportes/sao-paulo-vence-coritiba-brasileirao-quinta-vitoria-seguida/"
+   ],
+   "atualizado": "2026-11-13T03:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; Tinga, Maicon, Jacy, Felipe Jonatan; Wallisson, Vini Paulista, Josué; Lucas Ronier, Pedro Rocha, Breno Lopes",
+     "entraram": [
+      {
+       "jogador": "Pedro Rangel",
+       "saiu": "Pedro Morisco",
+       "minuto": ""
+      },
+      {
+       "jogador": "JP Chermont",
+       "saiu": "Tinga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willian Oliveira",
+       "saiu": "Wallisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabinho",
+       "saiu": "Vini Paulista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lavega",
+       "saiu": "Josué",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Wallisson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Pedro Morisco",
+        "minuto": ""
+       },
+       {
+        "jogador": "Breno Lopes",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Hernán Crespo",
+     "time": "Rafael; Alan Franco, Arboleda, Rafael Tolói; Maik, Pablo Maia, Djhordney; Wendell, Ferreira, Tapia, Cauly",
+     "entraram": [
+      {
+       "jogador": "Luan",
+       "saiu": "Pablo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas",
+       "saiu": "Ferreira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Calleri",
+       "saiu": "Tapia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bobadilla",
+       "saiu": "Cauly",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Djhordney",
+        "minuto": ""
+       },
+       {
+        "jogador": "Alan Franco",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rafael Tolói",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/coritiba-sao-paulo-resultado-ficha-tecnica-brasileirao/"
+    ],
+    "atualizado": "2026-11-13T03:35:00-03:00"
+   }
+  },
+  {
+   "id": 91000346,
+   "data": "2026-03-11T21:30:00-03:00",
+   "casa": "corinthians",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Jacy",
+     "minuto": "36",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lucas Ronier",
+     "minuto": "52",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3768539",
+    "https://www.umdoisesportes.com.br/coritiba/corinthians-coritiba-resultado-gols-ficha-brasileirao/"
+   ],
+   "atualizado": "2026-11-13T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Lucas Silvestre",
+     "time": "Hugo Souza; Matheuzinho, Gustavo Henrique, Gabriel Paulista, Matheus Bidu; Allan, André, Breno Bidon, Rodrigo Garro; Memphis, Gui Negão",
+     "entraram": [
+      {
+       "jogador": "Angileri",
+       "saiu": "Matheus Bidu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carrillo",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Rodrigo Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Labyad",
+       "saiu": "Memphis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Gui Negão",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Hugo Souza",
+        "minuto": ""
+       },
+       {
+        "jogador": "Carrillo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Rangel; JP Chermont, Maicon, Jacy, Bruno Melo; Wallisson, Sebastián Gómez, Josué; Lucas Ronier, Pedro Rocha, Breno Lopes",
+     "entraram": [
+      {
+       "jogador": "Thiago Santos",
+       "saiu": "JP Chermont",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tiago Cóser",
+       "saiu": "Jacy",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Josué",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabinho",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lavega",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Ronier",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/corinthians-coritiba-resultado-gols-ficha-brasileirao/"
+    ],
+    "atualizado": "2026-11-13T03:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000345,
+   "data": "2026-03-15T18:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Pedro Rocha",
+     "minuto": "23",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-remo-resultado-gol-ficha-brasileirao-2026/",
+    "https://www.oliberal.com/esportes/remo/pedro-rocha-marca-remo-perde-para-o-coritiba-e-segue-sem-vencer-no-brasileirao-1.1097172"
+   ],
+   "atualizado": "2026-11-13T03:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Rangel; JP Chermont, Maicon, Tiago Cóser, Bruno Melo; Wallisson, Sebastián Gómez, Josué; Lucas Ronier, Pedro Rocha, Breno Lopes",
+     "entraram": [
+      {
+       "jogador": "Willian Oliveira",
+       "saiu": "Wallisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Josué",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lavega",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Sebastián Gómez",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; João Lucas, Marllon, Tchamba, Sávio; Leonel Picco, Zé Ricardo, Patrick; Vitor Bueno, Alef Manga, Jajá",
+     "entraram": [
+      {
+       "jogador": "Marcelinho",
+       "saiu": "João Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Welison",
+       "saiu": "Tchamba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kayky Almeida",
+       "saiu": "Sávio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jáderson",
+       "saiu": "Leonel Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Pikachu",
+       "saiu": "Patrick",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Lucas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marllon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Jajá",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/coritiba-remo-resultado-gol-ficha-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-13T03:35:00-03:00"
+   }
+  },
+  {
+   "id": 91000348,
+   "data": "2026-03-18T20:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maião",
+   "cidade": "Mirassol",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Lavega",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3770718",
+    "https://www.oliberal.com/esportes/mirassol-perde-serie-invicta-de-22-jogos-em-casa-pelo-brasileirao-apos-derrota-para-o-coritiba-1.1098833"
+   ],
+   "atualizado": "2026-11-13T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Willian Machado, Victor Luís; Aldo Filho, Neto Moura, Gabriel Pires; Negueba, Tiquinho Soares, Alesson",
+     "entraram": [
+      {
+       "jogador": "Daniel Borges",
+       "saiu": "Victor Luís",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Fogaça",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Shaylon",
+       "saiu": "Gabriel Pires",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luis",
+       "saiu": "Tiquinho Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galeano",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Victor Luís",
+        "minuto": ""
+       },
+       {
+        "jogador": "Aldo Filho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Rangel; JP Chermont, Tiago Cóser, Jacy, Bruno Melo; Willian Oliveira, Sebastián Gómez, Felipe Jonatan; Lucas Ronier, Pedro Rocha, Lavega",
+     "entraram": [
+      {
+       "jogador": "Wallisson",
+       "saiu": "Willian Oliveira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Sebastián Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maicon",
+       "saiu": "Felipe Jonatan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Breno Lopes",
+       "saiu": "Lucas Ronier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Josué",
+       "saiu": "Lavega",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lavega",
+        "minuto": ""
+       },
+       {
+        "jogador": "Josué",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/mirassol-perde-serie-invicta-de-22-jogos-em-casa-pelo-brasileirao-apos-derrota-para-o-coritiba-1.1098833"
+    ],
+    "atualizado": "2026-11-13T03:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000347,
+   "data": "2026-03-22T16:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Dudu",
+     "minuto": "22",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Viveros",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/athletico-vence-classico-contra-o-coritiba-pelo-brasileiro-e-encerra-jejum/",
+    "https://www.umdoisesportes.com.br/atletiba/athletico-coritiba-resultado-ficha-tecnica-brasileirao/"
+   ],
+   "atualizado": "2026-11-13T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Odair Hellmann",
+     "time": "Santos; Aguirre, Arthur Dias, Esquivel; Benavídez, Luiz Gustavo, Jadson, Mendoza; Dudu, Julimar, Viveros",
+     "entraram": [
+      {
+       "jogador": "Gilberto",
+       "saiu": "Esquivel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Portilla",
+       "saiu": "Luiz Gustavo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zapelli",
+       "saiu": "Dudu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chiqueti",
+       "saiu": "Julimar",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Rangel; JP Chermont, Maicon, Jacy, Bruno Melo; Wallisson; Sebastián Gómez, Josué; Lucas Ronier, Breno Lopes, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Felipe Jonatan",
+       "saiu": "Bruno Melo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Wallisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabinho",
+       "saiu": "Lucas Ronier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lavega",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Keno",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Breno Lopes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wallisson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Maicon",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/atletiba/athletico-coritiba-resultado-ficha-tecnica-brasileirao/"
+    ],
+    "atualizado": "2026-11-13T03:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000349,
+   "data": "2026-04-01T20:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "9",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Tchê Tchê",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Saldivia",
+     "minuto": "",
+     "tipo": "contra"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3774978",
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-vasco-resultado-ficha-gols-brasileirao-2026/"
+   ],
+   "atualizado": "2026-11-13T03:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Rangel; Tinga, Tiago Cóser, Jacy, Bruno Melo; Willian Oliveira; Sebastián Gómez, Josué; Lucas Ronier, Lavega, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "JP Chermont",
+       "saiu": "Tinga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Jonatan",
+       "saiu": "Bruno Melo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Willian Oliveira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabinho",
+       "saiu": "Sebastián Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Keno",
+       "saiu": "Lavega",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lavega",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vini Paulista",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Renato Gaúcho",
+     "time": "Léo Jardim; Paulo Henrique, Saldivia, Robert Renan, Lucas Piton; Hugo Moura, Thiago Mendes, Tchê Tchê; Nuno Moreira, Marino, David",
+     "entraram": [
+      {
+       "jogador": "Avellar",
+       "saiu": "Lucas Piton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauã Barros",
+       "saiu": "Hugo Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "França",
+       "saiu": "Nuno Moreira",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Vitor",
+       "saiu": "Marino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "David",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Paulo Henrique",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/coritiba-vasco-resultado-ficha-gols-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-13T03:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000350,
+   "data": "2026-04-04T20:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "10",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Tiago Cóser",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "John Kennedy",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3775808",
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-x-fluminense-resultado-gols-ficha-brasileirao/"
+   ],
+   "atualizado": "2026-11-13T03:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Rangel; JP Chermont, Maicon, Jacy, Bruno Melo, Felipe Jonatan; Vini Paulista, Sebastián Gómez, Josué; Lucas Ronier, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Tinga",
+       "saiu": "JP Chermont",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tiago Cóser",
+       "saiu": "Jacy",
+       "minuto": ""
+      },
+      {
+       "jogador": "Breno Lopes",
+       "saiu": "Felipe Jonatan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabinho",
+       "saiu": "Sebastián Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wallisson",
+       "saiu": "Lucas Ronier",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Sebastián Gómez",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Luis Zubeldía",
+     "time": "Fábio; Guga, Jemmes, Freytes, Guilherme Arana; Hércules, Martinelli, Ganso; Serna, Soteldo, Castillo",
+     "entraram": [
+      {
+       "jogador": "Alisson",
+       "saiu": "Hércules",
+       "minuto": ""
+      },
+      {
+       "jogador": "Otávio",
+       "saiu": "Martinelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Savarino",
+       "saiu": "Ganso",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cano",
+       "saiu": "Serna",
+       "minuto": ""
+      },
+      {
+       "jogador": "John Kennedy",
+       "saiu": "Castillo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/coritiba-x-fluminense-resultado-gols-ficha-brasileirao/"
+    ],
+    "atualizado": "2026-11-13T03:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000351,
+   "data": "2026-04-12T16:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "11",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Breno Lopes",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Arthur Cabral",
+     "minuto": "76",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lavega",
+     "minuto": "78",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3777945",
+    "https://acritica.net/esportes/futebol/botafogo-cede-empate-ao-coritiba-apos-falha-no-fim-e-aumenta-pressao/"
+   ],
+   "atualizado": "2026-11-13T03:37:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Raul; Vitinho, Bastos, Barboza, Jhoan Hernández; Danilo, Medina, Montoro; Santi Rodríguez, Barrera, Arthur Cabral",
+     "entraram": [
+      {
+       "jogador": "Chris Ramos",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Roque",
+       "saiu": "Jhoan Hernández",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edenílson",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villalba",
+       "saiu": "Santi Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Martins",
+       "saiu": "Barrera",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vitinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barboza",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Rangel; Tinga, Maicon, Jacy, Bruno Melo; Vini Paulista, Sebastián Gómez, Josué; Lucas Ronier, Breno Lopes, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Tiago Cóser",
+       "saiu": "Maicon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Jonatan",
+       "saiu": "Bruno Melo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wallisson",
+       "saiu": "Vini Paulista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thiago Santos",
+       "saiu": "Sebastián Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lavega",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renato Marques",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Wallisson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Pedro Rangel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Thiago Santos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Jacy",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3777945"
+    ],
+    "atualizado": "2026-11-13T03:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000352,
+   "data": "2026-04-19T16:00:00-03:00",
+   "casa": "coritiba",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "12",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Breno Lopes",
+     "minuto": "6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Pedro Rocha",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-perde-para-o-coritiba-e-fica-a-dois-pontos-do-z4-do-brasileiro/",
+    "https://jornaldebrasilia.com.br/torcida/coritiba-faz-2-a-0-no-atletico-mg-pelo-brasileirao-com-direito-a-falha-bizarra/"
+   ],
+   "atualizado": "2026-11-13T03:38:00-03:00"
+  },
+  {
    "id": 91000051,
    "data": "2026-09-19T16:00:00-03:00",
    "casa": "atletico-mg",
