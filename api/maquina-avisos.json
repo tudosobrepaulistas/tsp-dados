@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-12T20:25-03:00",
+ "gerado": "2026-11-12T21:55-03:00",
  "avisos": [
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-11T06:55-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em busca no site/jornais da cidade e Futebol Interior; história nos últimos 14 dias bloqueia evergreen.",
-   "sugestao": "Ligar para o clube: técnico, reforços e data de reapresentação para a Série A4 2027 (começa em 14/02)."
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-11T14:53-03:00",
-   "motivo": "Notícia confirmada (Chapecoense enviou proposta até o fim de 2027 a Vinícius Bergantin; DGABC diz futuro indefinido e Futebol Interior diz que o clube avalia Cauan de Almeida), mas sem foto livre/oficial de Bergantin no São Bernardo",
-   "sugestao": "Bergantin recebe proposta da Chapecoense e tem futuro indefinido no São Bernardo (fontes: ndmais.com.br/video/chapecoense-busca-novo-tecnico-e-faz-proposta-a-vinicius-bergantin/, dgabc.com.br/Noticia/4367930, futebolinterior.com.br/sao-bernardo-avalia-cauan-de-almeida-para-substituir-vinicius-bergantin/); usar foto oficial do clube do técnico"
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-11T14:53-03:00",
-   "motivo": "Sem fato novo confirmado em 2 fontes de peso nas últimas 24h; prévia do jogo com o Operário e antecipação já publicadas",
-   "sugestao": "Resultado da votação do orçamento de 2027 no Conselho Deliberativo da Ponte Preta, hoje (11/11) às 19h na sede (futebolinterior.com.br/ponte-preta-poe-orcamento-de-2027-em-votacao-na-vespera-da-despedida-da-serie-b/); e Danilo Barcelos com proposta da Inter de Limeira (Correio Braziliense)"
-  },
   {
    "clube": "tanabi",
    "nome": "Tanabi",
@@ -420,6 +392,34 @@
    "quando": "2026-11-12T20:25-03:00",
    "motivo": "Cobertura 6h: jogo contra o Athletic em andamento (20h desta quinta, Primeiro de Maio); prévia já publicada e sem fato novo confirmado em 2 fontes nas últimas 24h; sem foto oficial acessível",
    "sugestao": "Resultado de São Bernardo x Athletic (38ª rodada, despedida de Bergantin) e coletiva pós-jogo; depois, busca por novo técnico (Cauan de Almeida e Luizinho Lopes citados pelo Diário do Grande ABC e Futebol Interior, sem acerto)"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-12T21:53-03:00",
+   "motivo": "Cotas 21h43: sem fato novo do profissional nas últimas 48h (pausa da Data Fifa; próximo jogo Vitória x Bragantino em 19/11) e sub-20 já coberto; página do clube sobre semifinais Sub-15/Sub-17 não abre sem JavaScript",
+   "sugestao": "Semifinais dos Paulistas Sub-15 e Sub-17 do Bragantino (Sub-17 contra o Ibrachina): datas e locais na nota do clube redbullbragantino.com/br-pt/noticias/red-bull-bragantino-conhece-detalhes-das-semifinais-dos-paulistas-sub-15-e-sub-17-de-2026; ou prévia de Vitória x Bragantino (19/11, Barradão) com o desfalque de Lucas Barbosa"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-12T21:55-03:00",
+   "motivo": "Cotas 21h43: sem fato novo confirmado em 2 fontes nas últimas 48h; a proposta por Patrick Brey (Botafogo-SP) só aparece no WMais",
+   "sugestao": "Juventus faz proposta a Patrick Brey, capitão do Botafogo-SP, para o Paulistão 2027 (wmais.com.br, 12/11): confirmar com o clube ou outro veículo"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-12T21:55-03:00",
+   "motivo": "Cotas 21h43: sem fato novo nas últimas 48h; reforços da comissão técnica são de 05/11 e o cancelamento do amistoso com o São Paulo já saiu",
+   "sugestao": "Noroeste: reapresentação do elenco e reforços de jogadores para o Paulistão 2027 (JCNET/96FM Bauru)"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-12T21:55-03:00",
+   "motivo": "Cotas 21h43: sem fato novo nas últimas 48h; sorteio e formato do Paulistão 2027 já cobertos",
+   "sugestao": "Capivariano: elenco que Elio Sizenando monta para o Paulistão 2027 (CBN Campinas, Diário Campineiro)"
   }
  ]
 }
