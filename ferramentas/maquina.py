@@ -505,6 +505,16 @@ def cmd_adicionar(a):
     if not posjogo and not foto:
         erros.append("foto obrigatória (07/11/2026): sem foto real com crédito a matéria não entra; procure foto do clube ou passe para outro clube")
     pedido = bool(it.get("pedido"))  # matéria pedida pelo Thiago: fora da cota e dos limites de evergreen
+    intc = it.get("intencao") or {}
+    if intc:
+        # 12/11/2026: matéria de intenção de busca de um jogo (raio-x, escalacoes, onde-assistir): fora da cota
+        if intc.get("tipo") not in INTENCOES or not intc.get("jogo"):
+            erros.append("intencao = {\"jogo\": ID, \"tipo\": \"raio-x\" | \"escalacoes\" | \"onde-assistir\"}")
+        elif any(i.get("intencao_jogo") == intc["jogo"] and i.get("intencao") == intc["tipo"] for i in historico()["itens"]):
+            erros.append(f"já existe a matéria '{intc['tipo']}' do jogo {intc['jogo']}")
+        if not it.get("publish_at"):
+            erros.append("intenção de busca precisa de publish_at (horário que `intencoes` mostrou)")
+        pedido = True
     if not posjogo and not video and not pedido and c.get("grupo") in COTA:
         dia_c = (it.get("publish_at") or proximo_slot())[:10]
         if cota_do_dia(dia_c)[c["grupo"]] >= COTA[c["grupo"]]:
@@ -580,7 +590,7 @@ def cmd_adicionar(a):
     gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
     escrever_indice()
     d = historico()
-    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id"), "efemeride": (it.get("efemeride") or {}).get("data")})
+    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id"), "efemeride": (it.get("efemeride") or {}).get("data"), "intencao": (it.get("intencao") or {}).get("tipo"), "intencao_jogo": (it.get("intencao") or {}).get("jogo")})
     d["itens"] = d["itens"][-2000:]
     gravar(M / "historico.json", d)
     print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator'})")
@@ -895,8 +905,100 @@ def cmd_cotas(a):
     print(f"\n## Base (masculina e feminina): {base}/4 hoje · regra: 4 por dia, categoria no título (Sub-20, Sub-17...)" + (f" → FALTAM {nb} AGORA" if nb else " → em dia"))
     print(f"\nTOTAL QUE FALTA AGORA: {falta_total}" + ("  → tudo em dia, pode terminar" if not falta_total else ""))
 
+
+# ---------- Intenções de busca antes de cada jogo de clube paulista (12/11/2026, regra do Thiago) ----------
+# Entre o jogo anterior e o próximo, 3 matérias de serviço, uma por intenção, em horários "nas pontas" do dia
+# (6h, 12h e 23h59) para não disputar espaço com o noticiário nem canibalizar palavra-chave:
+#   raio-x       → "raio-x X x Y", "últimos jogos", "estatísticas", "partidas de", retrospecto (mais cedo na janela)
+#   escalacoes   → "provável escalação X x Y" (véspera)
+#   onde-assistir→ "onde assistir X x Y", horário, transmissão (último horário antes do jogo)
+INTENCOES = ("raio-x", "escalacoes", "onde-assistir")
+PONTAS = ((6, 0), (12, 0), (23, 59))
+
+
+def _pontas_entre(ini, fim):
+    out = []
+    d = ini.date()
+    while d <= fim.date():
+        for h, m in PONTAS:
+            x = datetime.datetime(d.year, d.month, d.day, h, m, tzinfo=BR)
+            if ini <= x <= fim:
+                out.append(x)
+        d += datetime.timedelta(days=1)
+    return out
+
+
+def plano_intencoes(dias=5):
+    d = ler(RAIZ / "api" / "tsp.json", {})
+    times = d.get("times", {})
+    jogos = d.get("jogos", [])
+    t = agora()
+    sp = lambda tid: (times.get(str(tid)) or {}).get("slug_tsp", "")  # noqa: E731
+    por_time = {}
+    for g in jogos:
+        for lado in ("home", "away"):
+            por_time.setdefault(g["teams"][lado]["id"], []).append(g)
+    feitos = {(i.get("intencao_jogo"), i.get("intencao")) for i in historico()["itens"] if i.get("intencao")}
+    plano = []
+    for g in jogos:
+        ts = g["fixture"]["timestamp"]
+        k = datetime.datetime.fromtimestamp(ts, BR)
+        if g["fixture"]["status"]["short"] not in ("NS", "TBD") or not (t < k <= t + datetime.timedelta(days=dias)):
+            continue
+        clubes_sp = [sp(g["teams"][l]["id"]) for l in ("home", "away") if sp(g["teams"][l]["id"])]
+        if not clubes_sp:
+            continue
+        # janela: do fim do jogo anterior (de qualquer um dos dois times) + 3h até 2h antes deste jogo
+        ant = 0
+        for l in ("home", "away"):
+            for o in por_time.get(g["teams"][l]["id"], []):
+                ot = o["fixture"]["timestamp"]
+                if ot < ts and o["fixture"]["id"] != g["fixture"]["id"]:
+                    ant = max(ant, ot)
+        ini = max(t + datetime.timedelta(minutes=20), k - datetime.timedelta(hours=72),
+                  datetime.datetime.fromtimestamp(ant, BR) + datetime.timedelta(hours=5) if ant else t)
+        fim = k - datetime.timedelta(hours=2)
+        pts = _pontas_entre(ini, fim)
+        if not pts:
+            continue
+        # raio-x no 1º horário, escalações no penúltimo, onde assistir no último (com 1 horário só, só onde assistir)
+        alvo = {"onde-assistir": pts[-1]}
+        if len(pts) >= 2:
+            alvo["escalacoes"] = pts[-2]
+        if len(pts) >= 3:
+            alvo["raio-x"] = pts[0]
+        casa, fora = g["teams"]["home"]["name"], g["teams"]["away"]["name"]
+        for it in INTENCOES:
+            if it in alvo and (g["fixture"]["id"], it) not in feitos:
+                plano.append({"jogo": g["fixture"]["id"], "intencao": it, "quando": alvo[it], "casa": casa, "fora": fora,
+                              "liga": g.get("liga", ""), "rodada": g.get("league", {}).get("round", ""), "inicio": k,
+                              "estadio": (g["fixture"].get("venue") or {}).get("name", ""), "clube": clubes_sp[0],
+                              "prejogo": g.get("prejogo") or {}})
+    plano.sort(key=lambda x: (x["quando"], x["inicio"]))
+    return plano
+
+
+def cmd_intencoes(a):
+    """intencoes [--dias 5] [--horas 30]: matérias de intenção de busca que faltam para os próximos jogos de clubes paulistas."""
+    dias = int(opc(a, "--dias", "5"))
+    horas = float(opc(a, "--horas", "30"))  # só o que sai nas próximas N horas (informação fresca)
+    pl = [x for x in plano_intencoes(dias) if x["quando"] <= agora() + datetime.timedelta(hours=horas)]
+    if not pl:
+        print("nenhuma")
+        return
+    usados = {}
+    print(f"{len(pl)} matéria(s) de intenção de busca a fazer (horário = publish_at; some +3 min se já usado):")
+    for x in pl:
+        q = x["quando"].strftime("%Y-%m-%d %H:%M")
+        n = usados.get(q, 0)
+        usados[q] = n + 1
+        q2 = (x["quando"] + datetime.timedelta(minutes=3 * n) if x["quando"].hour != 23 else x["quando"] - datetime.timedelta(minutes=3 * n)).strftime("%Y-%m-%d %H:%M")
+        pj = x["prejogo"]
+        tem = ", ".join(k for k in ("analise", "provaveis", "onde_assistir", "retrospecto", "arbitro") if pj.get(k)) or "nada na base"
+        print(f"- {q2} | {x['intencao']} | jogo {x['jogo']} | {x['casa']} x {x['fora']} | {x['liga']} {x['rodada']} | {x['inicio']:%d/%m %H:%M} {x['estadio']} | clube: {x['clube']} | base tem: {tem}")
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas, "intencoes": cmd_intencoes}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
