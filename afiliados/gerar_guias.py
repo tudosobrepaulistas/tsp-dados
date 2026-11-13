@@ -35,6 +35,19 @@ def bloco_produto(p):
     return "\n".join(out)
 
 
+def cta(g):
+    """Caixa de chamada no meio da matéria: o campeão de vendas + motivo real para decidir agora (sem escassez inventada)."""
+    p = g["produtos"][g.get("cta", 0)]
+    return ('<div style="border:2px solid #0a7a3d;border-radius:12px;padding:16px 18px;margin:24px 0;background:#f3fbf6">'
+            f'<p style="margin:0 0 6px"><strong>O mais pedido da lista: {esc(p["curto"])}</strong></p>'
+            f'<p style="margin:0 0 10px">{esc(p["dor"][0].upper() + p["dor"][1:])} É o presente que o torcedor usa no dia seguinte, '
+            'e não um enfeite que fica na gaveta. Black Friday em 27/11 e Natal logo depois: compre com antecedência '
+            'para chegar a tempo.</p>'
+            f'<p style="margin:0"><a href="{p["link"]}" target="_blank" rel="sponsored nofollow noopener" '
+            'style="display:inline-block;background:#0a7a3d;color:#fff;padding:10px 18px;border-radius:8px;'
+            f'text-decoration:none;font-weight:bold">Ver preço de hoje na Shopee</a></p></div>')
+
+
 def gerar(g):
     partes = [f'<p><em>{AVISO}</em></p>', f'<p>{g["abertura"]}</p>',
               '<h2>Resposta rápida: qual presente escolher?</h2>',
@@ -45,8 +58,10 @@ def gerar(g):
                       f'rel="sponsored nofollow noopener">{esc(p["curto"])}</a></td><td>{esc(p["preco"])}</td></tr>')
     partes.append('</tbody></table>')
     partes.append(f'<h2>{esc(g["h2_lista"])}</h2>')
-    for p in g["produtos"]:
+    for i, p in enumerate(g["produtos"]):
         partes.append(bloco_produto(p))
+        if i == 2:
+            partes.append(cta(g))
     partes.append(f'<h2>{esc(g["h2_oficial"])}</h2>')
     partes.append(f'<p>{g["oficial"]}</p>')
     partes.append('<h2>Como escolhemos os presentes desta lista?</h2>')
