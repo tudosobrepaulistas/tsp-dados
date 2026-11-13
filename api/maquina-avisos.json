@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-13T11:51-03:00",
+ "gerado": "2026-11-13T12:14-03:00",
  "avisos": [
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-12T06:42-03:00",
-   "motivo": "Sem notícia nova nos últimos 7 dias no São Carlos Agora e demais fontes; evergreen bloqueado (história em 05/11)",
-   "sugestao": "Planejamento do Grêmio São-Carlense para a A4 2027: técnico, reforços e data de reapresentação"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-12T06:42-03:00",
-   "motivo": "Reforços de 05/11 (Denis Santos, João Monteiro, Bernardo, Giovanni Carignano, Rafinha) só no Futebol Interior: falta 2ª fonte e foto livre",
-   "sugestao": "Confirmar no Instagram oficial do Tanabi o pacote de reforços de 05/11 e usar foto do clube"
-  },
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-12T06:42-03:00",
-   "motivo": "Única pauta recente (vaga na A3 por possível fusão Rio Branco/Sertãozinho) é de 07/10 e sem confirmação da FPF",
-   "sugestao": "Checar com a FPF e o São Caetano se a vaga do Rio Branco na A3 2027 vai para o Azulão"
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-12T06:42-03:00",
-   "motivo": "Sem notícia nova nos últimos 7 dias; evergreen bloqueado (história em 05/11)",
-   "sugestao": "Jacareí FC na Copinha 2027: confirmar com o clube se terá vaga e sede"
-  },
-  {
-   "clube": "red-bull-bragantino-feminino",
-   "nome": "Red Bull Bragantino Feminino",
-   "quando": "2026-11-12T06:42-03:00",
-   "motivo": "Tema evergreen (título da A2 de 2023 sobre o Fluminense, 3x0 e 1x0) tem fonte, mas não há foto livre (Commons) nem vídeo oficial acessível",
-   "sugestao": "Bicampeonato da Série A2 (2021 e 2023): pedir foto oficial do título de 2023 ao clube"
-  },
   {
    "clube": "ferroviaria-feminino",
    "nome": "Ferroviária Feminino",
@@ -420,6 +385,41 @@
    "quando": "2026-11-13T11:51-03:00",
    "motivo": "Time eliminado no Paulistão F; nada novo em 2 fontes; evergreen bloqueado (história em 06/11)",
    "sugestao": "Planejamento do Mirassol Feminino para 2027 (calendário, permanência de comissão e elenco) - consultar o site do clube"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-13T12:14-03:00",
+   "motivo": "Cobertura 6h: única notícia nova das últimas 24h é a entrevista de Nenê Santana (auxiliar, interino contra o Operário) pedindo união e criticando a oposição, confirmada por Hora Campinas e CBN Campinas; sem foto livre do Nenê (fotos são da Ponte Press/EPTV em sites de jornal, e o YouTube oficial está parado desde setembro)",
+   "sugestao": "Nenê Santana pede união e critica oposição após a pior campanha da Série B: usar foto da Ponte Press do site oficial (Hora Campinas 13/11 e CBN Campinas 13/11)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-13T12:14-03:00",
+   "motivo": "Cobertura 6h: nada novo e confirmado nas últimas 24h depois do 2x2 com o Athletic; a sondagem a Cauan de Almeida (Futebol Interior, 10/11) é antiga e de fonte única",
+   "sugestao": "Quem será o técnico do São Bernardo em 2027: acompanhar anúncio oficial e o DGABC"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-13T12:14-03:00",
+   "motivo": "Cobertura 6h: treino, viagem e coletiva de pré-jogo contra o Criciúma já publicados; nada novo nas últimas 24h em 2 fontes",
+   "sugestao": "Relacionados do Novorizontino para a decisão em Criciúma (se o clube divulgar no sábado) e pós-jogo do título"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-13T12:14-03:00",
+   "motivo": "Cobertura 6h: sem notícia nova do Botafogo-SP nas últimas 24h (só matérias da imprensa de Caxias sobre o Juventude); clube sem canal no YouTube para foto",
+   "sugestao": "Relacionados e provável escalação do Botafogo-SP contra o Juventude, no Alfredo Jaconi (site oficial + A Cidade/EPTV)"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-13T12:14-03:00",
+   "motivo": "Cobertura 6h, bloco A3: nenhuma notícia das últimas 48h confirmada em 2 fontes para Catanduva, Rio Preto, Itapirense ou Rio Branco; sem pauta recente na saída",
+   "sugestao": "Técnicos e montagem de elenco da A3 2027: Catanduva, Itapirense e Rio Branco ainda sem treinador anunciado (Futebol Interior, out/2026) — checar sites oficiais"
   }
  ]
 }
