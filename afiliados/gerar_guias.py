@@ -67,9 +67,7 @@ def gerar(g):
     partes.append('<h2>Como escolhemos os presentes desta lista?</h2>')
     partes.append(f'<p>{g["como"]}</p>')
     partes.append('<h2>Dicas para acertar no presente</h2><ul>' + "".join(f"<li>{esc(d)}</li>" for d in g["dicas"]) + '</ul>')
-    partes.append('<h2>Perguntas frequentes</h2>')
-    for q, a in g["faq"]:
-        partes.append(f'<h3>{esc(q)}</h3><p>{esc(a)}</p>')
+    # FAQ não vai no corpo: o tema mostra a seção "Perguntas frequentes" + schema a partir de api/materias.json
     partes.append(f'<p>{g["fecho"]}</p>')
     return "\n\n".join(partes)
 
