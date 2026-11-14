@@ -8177,22 +8177,37 @@
    "data": "2026-11-14T16:30:00-03:00",
    "casa": "america-mg",
    "fora": "avai",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "38",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Independência",
    "cidade": "Belo Horizonte",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gaspar",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Léo Gamalho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-vence-america-mg-mas-e-rebaixado-serie-c/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/serie-b-avai-vence-america-mas-e-rebaixado-para-a-serie-c-do-brasileiro/"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00",
+   "atualizado": "2026-11-14T20:12:00-03:00",
    "prejogo": {
     "analise": [
      "América-MG e Avaí se enfrentam no sábado (14/11), às 16h30, na Arena Independência, em Belo Horizonte, pela 38ª e última rodada da Série B. O jogo decide o último rebaixado: o Avaí, 17º com 40 pontos, precisa vencer e torcer por uma derrota do Ceará (43), que joga no mesmo horário contra o CRB, em Maceió.",
@@ -8214,22 +8229,31 @@
    "data": "2026-11-14T16:30:00-03:00",
    "casa": "fortaleza",
    "fora": "vila-nova",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "38",
    "fase": "",
    "grupo": "",
    "estadio": "Castelão",
    "cidade": "Fortaleza",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Maílton",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-1x0-vila-nova-veja-os-melhores-momentos-do-jogo-1.3805937",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-vence-vila-nova-e-garante-mando-de-campo-nos-playoffs-da-serie-b/"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00",
+   "atualizado": "2026-11-14T20:12:00-03:00",
    "prejogo": {
     "analise": [
      "Fortaleza e Vila Nova fecham a Série B no sábado (14/11), às 16h30, na Arena Castelão, num jogo que mexe com o acesso direto e com os playoffs. O Vila Nova, 3º com 66 pontos, ainda pode subir direto: ultrapassa o Juventude (68) se vencer e o time gaúcho não ganhar do Botafogo-SP, porque em igualdade de pontos teria mais vitórias. Se não chegar ao 2º lugar, já está garantido nos playoffs, contra o 6º colocado.",

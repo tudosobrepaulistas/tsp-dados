@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T20:10:00-03:00",
+ "gerado": "2026-11-14T20:12:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -9564,7 +9564,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.51,
-     0.46
+     0.47
     ],
     "base": [
      20,
@@ -9642,11 +9642,11 @@
    "previsao": {
     "casa": 26,
     "empate": 22,
-    "fora": 52,
+    "fora": 53,
     "placar": "1x1",
     "gols_esperados": [
      1.34,
-     1.99
+     2.0
     ],
     "base": [
      13,
@@ -9758,7 +9758,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.99,
-     1.06
+     1.07
     ],
     "base": [
      10,
@@ -9813,8 +9813,8 @@
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.19,
-     0.84
+     2.2,
+     0.85
     ],
     "base": [
      11,
@@ -9920,13 +9920,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
+    "casa": 27,
     "empate": 26,
     "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
      1.09,
-     1.5
+     1.51
     ],
     "base": [
      13,
@@ -9982,7 +9982,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.37,
-     1.04
+     1.05
     ],
     "base": [
      14,
@@ -10032,7 +10032,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
+    "casa": 42,
     "empate": 24,
     "fora": 34,
     "placar": "1x1",
@@ -10089,12 +10089,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 25,
-    "empate": 24,
+    "empate": 23,
     "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
      1.14,
-     1.75
+     1.76
     ],
     "base": [
      11,
@@ -10261,7 +10261,7 @@
     "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.69,
+     1.7,
      1.06
     ],
     "base": [
@@ -10312,13 +10312,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 20,
-    "empate": 23,
+    "casa": 19,
+    "empate": 22,
     "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
      0.97,
-     1.85
+     1.86
     ],
     "base": [
      13,
@@ -10426,11 +10426,11 @@
    "previsao": {
     "casa": 46,
     "empate": 29,
-    "fora": 24,
+    "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
      1.25,
-     0.82
+     0.83
     ],
     "base": [
      10,
@@ -10485,7 +10485,7 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.28,
+     2.29,
      0.99
     ],
     "base": [
@@ -10542,7 +10542,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.49,
-     0.87
+     0.88
     ],
     "base": [
      24,
@@ -10594,10 +10594,10 @@
    "previsao": {
     "casa": 46,
     "empate": 29,
-    "fora": 25,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.26,
+     1.27,
      0.87
     ],
     "base": [
@@ -10654,7 +10654,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.6,
-     1.25
+     1.26
     ],
     "base": [
      21,
@@ -20207,14 +20207,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/avai-vence-america-mg-mas-e-rebaixado-serie-c/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/serie-b-avai-vence-america-mas-e-rebaixado-para-a-serie-c-do-brasileiro/"
    ],
    "fixture": {
     "id": 91000168,
     "timestamp": 1794684600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Independência",
@@ -20236,8 +20238,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -20256,35 +20258,57 @@
     "atualizado": "2026-11-11T20:28:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 52,
-    "empate": 37,
-    "fora": 11,
-    "placar": "0x0",
-    "gols_esperados": [
-     0.98,
-     0.29
-    ],
-    "base": [
-     12,
-     15
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900037,
+      "name": "Avaí"
+     },
+     "player": {
+      "name": "Gaspar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900037,
+      "name": "Avaí"
+     },
+     "player": {
+      "name": "Léo Gamalho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-1x0-vila-nova-veja-os-melhores-momentos-do-jogo-1.3805937",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/fortaleza-vence-vila-nova-e-garante-mando-de-campo-nos-playoffs-da-serie-b/"
    ],
    "fixture": {
     "id": 91000170,
     "timestamp": 1794684600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Castelão",
@@ -20306,8 +20330,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -20328,21 +20352,25 @@
     "atualizado": "2026-11-11T18:28:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 40,
-    "empate": 32,
-    "fora": 29,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.04,
-     0.84
-    ],
-    "base": [
-     16,
-     11
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900024,
+      "name": "Fortaleza"
+     },
+     "player": {
+      "name": "Maílton"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -32001,17 +32029,31 @@
       900023,
       "Vila Nova",
       66,
-      37,
+      38,
       19,
       9,
-      9,
-      15,
+      10,
+      14,
       "",
       53,
-      38
+      39
      ],
      [
       4,
+      900024,
+      "Fortaleza",
+      65,
+      38,
+      17,
+      14,
+      7,
+      12,
+      "",
+      45,
+      33
+     ],
+     [
+      5,
       900025,
       "Criciúma",
       62,
@@ -32023,20 +32065,6 @@
       "",
       38,
       32
-     ],
-     [
-      5,
-      900024,
-      "Fortaleza",
-      62,
-      37,
-      16,
-      14,
-      7,
-      11,
-      "",
-      44,
-      33
      ],
      [
       6,
@@ -32180,6 +32208,20 @@
      ],
      [
       16,
+      900037,
+      "Avaí",
+      43,
+      38,
+      12,
+      7,
+      19,
+      -10,
+      "",
+      37,
+      47
+     ],
+     [
+      17,
       900035,
       "Ceará",
       43,
@@ -32190,20 +32232,6 @@
       -9,
       "",
       38,
-      47
-     ],
-     [
-      17,
-      900037,
-      "Avaí",
-      40,
-      37,
-      11,
-      7,
-      19,
-      -12,
-      "",
-      35,
       47
      ],
      [
@@ -32225,14 +32253,14 @@
       900039,
       "América-MG",
       29,
-      37,
+      38,
       8,
       5,
-      24,
-      -28,
+      25,
+      -30,
       "",
       27,
-      55
+      57
      ],
      [
       20,
@@ -32893,6 +32921,12 @@
     "gols": 2
    },
    {
+    "jogador": "Maílton",
+    "time": "Fortaleza",
+    "time_id": 900024,
+    "gols": 2
+   },
+   {
     "jogador": "Mikael",
     "time": "CRB",
     "time_id": 900026,
@@ -33079,6 +33113,12 @@
     "gols": 1
    },
    {
+    "jogador": "Gaspar",
+    "time": "Avaí",
+    "time_id": 900037,
+    "gols": 1
+   },
+   {
     "jogador": "Guilherme Cachoeira",
     "time": "Londrina",
     "time_id": 900038,
@@ -33211,6 +33251,12 @@
     "gols": 1
    },
    {
+    "jogador": "Léo Gamalho",
+    "time": "Avaí",
+    "time_id": 900037,
+    "gols": 1
+   },
+   {
     "jogador": "Léo Jacó",
     "time": "Atlético-GO",
     "time_id": 900028,
@@ -33244,12 +33290,6 @@
     "jogador": "Max",
     "time": "Athletic",
     "time_id": 900034,
-    "gols": 1
-   },
-   {
-    "jogador": "Maílton",
-    "time": "Fortaleza",
-    "time_id": 900024,
     "gols": 1
    },
    {

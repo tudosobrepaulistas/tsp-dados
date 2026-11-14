@@ -102,6 +102,12 @@
   "gols": 2
  },
  {
+  "jogador": "Maílton",
+  "time": "Fortaleza",
+  "time_id": 900024,
+  "gols": 2
+ },
+ {
   "jogador": "Mikael",
   "time": "CRB",
   "time_id": 900026,
@@ -288,6 +294,12 @@
   "gols": 1
  },
  {
+  "jogador": "Gaspar",
+  "time": "Avaí",
+  "time_id": 900037,
+  "gols": 1
+ },
+ {
   "jogador": "Guilherme Cachoeira",
   "time": "Londrina",
   "time_id": 900038,
@@ -420,6 +432,12 @@
   "gols": 1
  },
  {
+  "jogador": "Léo Gamalho",
+  "time": "Avaí",
+  "time_id": 900037,
+  "gols": 1
+ },
+ {
   "jogador": "Léo Jacó",
   "time": "Atlético-GO",
   "time_id": 900028,
@@ -453,12 +471,6 @@
   "jogador": "Max",
   "time": "Athletic",
   "time_id": 900034,
-  "gols": 1
- },
- {
-  "jogador": "Maílton",
-  "time": "Fortaleza",
-  "time_id": 900024,
   "gols": 1
  },
  {
