@@ -101,6 +101,19 @@ Ordem de preferência:
 - **Foto é obrigatória.** Sem foto segura com crédito, a ferramenta recusa: procure no site e nas redes oficiais do clube
   (post do Instagram, miniatura do vídeo do YouTube), no Commons/Flickr livre, ou passe para outro clube do mesmo grupo.
 
+## Sem foto conferida: matéria pronta para o redator (14/11/2026, pedido do Thiago)
+Quando a notícia está confirmada mas você **não achou ou não conseguiu abrir** uma foto certa (ex.: o site da imagem bloqueia
+o download), **não descarte a matéria**. Escreva o texto completo, com o mesmo capricho de sempre, e no lugar de `foto` use:
+```json
+"foto_pendente": "Foto de jogo do Botafogo-SP, de preferência do 4 x 2 sobre o Juventude (23/07/2026). Há foto da Agência Botafogo (João Victor Menezes de Souza) em https://... Crédito sugerido: Foto: João Victor Menezes de Souza/Agência Botafogo"
+```
+Diga **que foto falta** (seguindo as regras acima: jogo, conquista ou a pessoa), **onde ela está** (links exatos que você viu
+citados) e o **crédito sugerido**. Nunca descreva uma foto que você não viu. A matéria vai para o site como **rascunho**: os
+redatores veem o aviso "📸 matérias prontas esperando foto" no painel e na tela Aprovação → "Esperando você", com o recado
+"Foto que falta". O redator põe a foto com crédito, confere e publica, e a matéria passa a contar para ele.
+Não use para evergreen de cota (A4, feminino, sem divisão): ali, sem foto, passe para outro clube. Na cobertura 6h, um
+rascunho recente esperando foto conta como pauta feita (a ferramenta não pede outra matéria do mesmo clube/bloco por 6h).
+
 ## Formato do JSON
 ```json
 {

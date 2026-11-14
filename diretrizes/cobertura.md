@@ -12,6 +12,9 @@ ficar mais de 6 horas sem matéria no site**. Se os redatores não publicarem, a
      cidade): treino, coletiva, escalação provável, lesão, contratação, ingresso, arbitragem, bastidores do próximo jogo.
      Fato confirmado em **2 fontes** ou coletiva/comunicado oficial com link. **Nada de evergreen** para estes clubes.
    - Foto real com crédito (site/redes oficiais do clube, miniatura do vídeo oficial no YouTube). Obrigatória.
+     Notícia confirmada mas sem foto que você conseguiu abrir: escreva a matéria completa com `foto_pendente`
+     (que foto falta, onde está e o crédito sugerido). Ela vai pronta como rascunho para um redator pôr a foto e publicar
+     (`diretrizes/maquina.md`, "Sem foto conferida"). Não troque uma notícia boa por `sem-pauta` só por causa da foto.
    - Monte o JSON como em `diretrizes/maquina.md` e rode `python3 ferramentas/maquina.py adicionar /tmp/materia.json`
      (sai em 5 minutos, fora da grade de 30 em 30 minutos e fora da cota diária).
    - Sem notícia confirmada nas últimas 24h: `python3 ferramentas/maquina.py sem-pauta CLUBE --motivo "..." --sugestao "..."`.

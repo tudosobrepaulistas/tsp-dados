@@ -9,7 +9,8 @@
       Títulos e palavras-chave já usados para o clube (site + Máquina), para não repetir pauta nem canibalizar busca.
   python3 ferramentas/maquina.py adicionar ARQUIVO.json
       Valida a matéria e grava na fila (maquina/fila/, codificada para o Google não indexar o texto antes do site).
-      O site importa em até 15 minutos e publica no horário (publish_at). Sem foto: vai como rascunho para um redator.
+      O site importa em até 15 minutos e publica no horário (publish_at). Sem foto conferida: use "foto_pendente" e a matéria
+      vai pronta como rascunho para um redator pôr a foto (com crédito) e publicar (ele vira o autor).
   python3 ferramentas/maquina.py sem-pauta CLUBE --motivo "texto" [--sugestao "pauta para o redator"]
       Registra que não achou notícia confirmada nem tema histórico seguro (aparece no painel do site).
   python3 ferramentas/maquina.py clube CLUBE --cidade X --site URL --jornais "URL1, URL2" [--redes "URL, URL"]
@@ -347,6 +348,12 @@ def pautas_de(slugs):
     return [x for x in d.get("itens", []) if x.get("clube") in slugs and str(x.get("gerado") or x.get("quando") or "") >= lim]
 
 
+def rascunho_recente(slugs, horas):
+    """Matéria da Máquina mandada sem foto (rascunho para redator) nas últimas `horas` para estes clubes."""
+    lim = (agora() - datetime.timedelta(hours=horas)).strftime("%Y-%m-%d %H:%M")
+    return next((i for i in reversed(historico()["itens"]) if i.get("rascunho") and i["clube"] in slugs and i["publish_at"] >= lim), None)
+
+
 def cmd_cobertura(a):
     """Clubes paulistas das Séries A e B sem matéria no site há 6 horas ou mais."""
     limite = float(a[a.index("--horas") + 1]) if "--horas" in a else 6
@@ -362,7 +369,10 @@ def cmd_cobertura(a):
             tit = re.sub("<[^>]+>", "", ms[0]["title"]["rendered"])
         else:
             h, tit = 999, "(nenhuma)"
-        if h >= limite:
+        r = rascunho_recente([c["slug"]], limite)
+        if h >= limite and r:
+            print(f"- {c['slug']} | rascunho da Máquina esperando foto do redator: {r['titulo']} (não escreva outra)")
+        elif h >= limite:
             out.append((h, c, tit))
     # Blocos da home do Paulistão A1, A2 e A3 (redação): das 8h às 23h59, nenhum bloco fica 6h sem matéria nova
     nac = {c["slug"] for c in clubes()["clubes"] if c.get("grupo") == "nacional"}
@@ -371,7 +381,10 @@ def cmd_cobertura(a):
         for nome, slugs in BLOCOS.items():
             sl = [x for x in slugs if x not in nac]
             h, tit = ultima_materia_de(sl)
-            if h >= limite:
+            r = rascunho_recente(sl, limite)
+            if h >= limite and r:
+                print(f"- BLOCO Paulistão {nome} | rascunho da Máquina esperando foto do redator: {r['titulo']} (não escreva outra)")
+            elif h >= limite:
                 esquec = []
                 for x in sl:
                     hx, _ = ultima_materia_de([x])
@@ -502,8 +515,13 @@ def cmd_adicionar(a):
         if not f.get("nome"):
             erros.append(f"fonte sem nome do veículo: {f.get('url')}")
     foto = it.get("foto") or {}
-    if not posjogo and not foto:
-        erros.append("foto obrigatória (07/11/2026): sem foto real com crédito a matéria não entra; procure foto do clube ou passe para outro clube")
+    pend = str(it.get("foto_pendente") or "").strip()
+    if foto and pend:
+        erros.append("use 'foto' OU 'foto_pendente', não os dois")
+    if pend and len(pend) < 40:
+        erros.append("foto_pendente: diga ao redator que foto falta e onde procurar (links e crédito sugerido), pelo menos 40 letras")
+    if not posjogo and not foto and not pend:
+        erros.append("foto obrigatória (07/11/2026): sem foto que você abriu e conferiu, use 'foto_pendente' (a matéria vai pronta como rascunho para um redator pôr a foto e publicar)")
     pedido = bool(it.get("pedido"))  # matéria pedida pelo Thiago: fora da cota e dos limites de evergreen
     intc = it.get("intencao") or {}
     if intc:
@@ -590,10 +608,10 @@ def cmd_adicionar(a):
     gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
     escrever_indice()
     d = historico()
-    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id"), "efemeride": (it.get("efemeride") or {}).get("data"), "intencao": (it.get("intencao") or {}).get("tipo"), "intencao_jogo": (it.get("intencao") or {}).get("jogo")})
+    d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "rascunho": True if (pend and not foto) else None, "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id"), "efemeride": (it.get("efemeride") or {}).get("data"), "intencao": (it.get("intencao") or {}).get("tipo"), "intencao_jogo": (it.get("intencao") or {}).get("jogo")})
     d["itens"] = d["itens"][-2000:]
     gravar(M / "historico.json", d)
-    print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator'})")
+    print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator pôr a foto e publicar'})")
     if posjogo:
         print("Agora: commit + push e depois `python3 ferramentas/maquina.py avisar-site` (publica em ~1 minuto).")
 
