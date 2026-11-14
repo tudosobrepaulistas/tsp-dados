@@ -44,3 +44,11 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
   (pedido do Thiago, para não perder resolução). Sem foto oficial de referência com o rosto de frente, NÃO gera (nada de rosto inventado).
 - Prompt: `python3 ferramentas/mercado.py figurinhas`. Baixar pelo botão de download do ChatGPT (vai para Downloads do Mac),
   conferir a imagem e gravar: `python3 ferramentas/mercado.py figurinha ID --img ARQUIVO --ref URL_DA_REFERENCIA`.
+
+## Bloco, números, clubes e selos (14/11/2026)
+- Bloco do movimento = clube dono: quem contrata/renova (para); em saída/venda, quem perde o jogador (de). Ex.: Noroeste (A1) → Ituano (A2) aparece só na A2.
+- `numeros_2026`: {jogos, gols, minutos, assistencias, clubes: [...], obs, fonte}. O card mostra jogos, gols, assistências e "Em 2026: clubes";
+  minutos ficam guardados para as estatísticas. Sem fonte, não preenche (Série A/B saem sozinhos da base).
+- `selos`: [{texto, fonte}] — "Campeão Paulistão A3 2026", "Acesso Mineiro Módulo II 2026" etc., só quando a fonte liga o jogador ao título/acesso.
+- Elenco 2027: clube sem elenco oficial ganha o elenco "em montagem" com todos os reforços e renovações anunciados (com figurinha).
+  Quando sair a camisa 2027, gerar de novo a figurinha com a camisa nova.

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T11:48:00-03:00",
+ "gerado": "2026-11-14T12:00:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -39,7 +39,9 @@
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-13-neto-berola-ituano",
@@ -74,7 +76,9 @@
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-13-luketa-ituano",
@@ -112,8 +116,13 @@
    "numeros": {
     "gols": 9,
     "clube": "Sertãozinho",
-    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
-   }
+    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "clubes": [
+     "Sertãozinho"
+    ]
+   },
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-13-lucas-wingert-ituano",
@@ -143,7 +152,9 @@
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-13-isaque-ituano",
@@ -178,7 +189,9 @@
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-13-gabriel-gasparotto-ituano",
@@ -208,7 +221,9 @@
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-12-werley-ferreira-penapolense",
@@ -238,7 +253,9 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-roger-ruan-penapolense",
@@ -265,10 +282,25 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {
+    "jogos": 11,
+    "clubes": [
+     "Penapolense"
+    ],
+    "clube": "Penapolense",
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A4 2026",
+     "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    }
+   ],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-lucas-gomes-penapolense",
@@ -298,7 +330,9 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-joao-pedro-penapolense",
@@ -309,10 +343,10 @@
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Revelado pelo Corinthians; campeão da A2 2026 com a Portuguesa Santista",
+   "obs": "Revelado pelo Corinthians",
    "de": {
-    "nome": "Portuguesa Santista",
-    "slug": "portuguesasantista",
+    "nome": "Kasembundit (Tailândia)",
+    "slug": "",
     "id": 0
    },
    "para": {
@@ -321,15 +355,31 @@
     "id": 0
    },
    "blocos": [
-    "d2",
     "d3"
    ],
    "foto": {},
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {
+    "jogos": 15,
+    "gols": 4,
+    "clubes": [
+     "Portuguesa Santista",
+     "Kasembundit (TAI)"
+    ],
+    "clube": "Portuguesa Santista",
+    "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A3 2026",
+     "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    }
+   ],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-icaro-penapolense",
@@ -359,7 +409,9 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-hilton-neto-penapolense",
@@ -386,10 +438,21 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {
+    "jogos": 9,
+    "gols": 1,
+    "clubes": [
+     "Primavera"
+    ],
+    "clube": "Primavera",
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   },
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-fernando-junior-penapolense",
@@ -416,10 +479,20 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {
+    "jogos": 17,
+    "clubes": [
+     "Campinense",
+     "Mamoré"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   },
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-diego-cardoso-penapolense",
@@ -446,10 +519,19 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {
+    "clubes": [
+     "Foz do Iguaçu",
+     "Batel"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   },
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-11-matheus-abreu-paulista",
@@ -472,7 +554,6 @@
     "id": 0
    },
    "blocos": [
-    "d2",
     "d3"
    ],
    "foto": {},
@@ -480,7 +561,9 @@
     "https://www.futebolinterior.com.br/paulista-contrata-zagueiro-que-conquistou-acesso-a-serie-a2-pelo-marilia/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "paulista-jundiai"
   },
   {
    "id": "2026-11-11-humberto-xv-de-jau",
@@ -510,7 +593,9 @@
     "https://www.futebolinterior.com.br/xv-de-jau-confirma-dupla-de-volantes/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-11-felix-jorge-santo-andre",
@@ -540,7 +625,9 @@
     "https://www.futebolinterior.com.br/santo-andre-contrata-zagueiro-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "santoandre"
   },
   {
    "id": "2026-11-11-diego-lopes-xv-de-jau",
@@ -570,7 +657,9 @@
     "https://www.futebolinterior.com.br/xv-de-jau-confirma-dupla-de-volantes/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-10-vitao-bandeirante",
@@ -600,7 +689,9 @@
     "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "bandeirante"
   },
   {
    "id": "2026-11-10-pedro-scaramussa-bandeirante",
@@ -630,7 +721,9 @@
     "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "bandeirante"
   },
   {
    "id": "2026-11-10-luis-felipe-penapolense",
@@ -661,7 +754,9 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-10-lucas-xavier-penapolense",
@@ -692,7 +787,14 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A3 2026",
+     "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    }
+   ],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-10-foguinho-bandeirante",
@@ -722,7 +824,9 @@
     "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "bandeirante"
   },
   {
    "id": "2026-11-10-dudu-bahia-penapolense",
@@ -753,7 +857,15 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {
+    "clubes": [
+     "Dourados-AC",
+     "Nacional-PR"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   },
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-10-david-lima-penapolense",
@@ -784,7 +896,19 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {
+    "jogos": 10,
+    "gols": 4,
+    "clubes": [
+     "Real Noroeste",
+     "Velo Clube"
+    ],
+    "clube": "Real Noroeste",
+    "obs": "números só pelo Real Noroeste",
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   },
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-09-william-rafael-rio-claro",
@@ -814,7 +938,9 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-vinicius-sousa-rio-claro",
@@ -848,8 +974,13 @@
     "jogos": 18,
     "gols": 3,
     "clube": "Rio Preto (Série A3)",
-    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
-   }
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "clubes": [
+     "Rio Preto (Série A3)"
+    ]
+   },
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-theo-lanza-rio-claro",
@@ -883,8 +1014,15 @@
     "jogos": 30,
     "gols": 10,
     "clube": "Jacareí, Patrocinense e Nova Lavras",
-    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
-   }
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "clubes": [
+     "Jacareí",
+     "Patrocinense",
+     "Nova Lavras"
+    ]
+   },
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-pedro-da-dalto-rio-claro",
@@ -914,7 +1052,9 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-matheus-pellegrini-rio-claro",
@@ -944,7 +1084,9 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-lucas-batatinha-paulista",
@@ -974,7 +1116,9 @@
     "https://www.futebolinterior.com.br/paulista-renova-batatinha-a3-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "paulista-jundiai"
   },
   {
    "id": "2026-11-09-luan-sousa-rio-claro",
@@ -1004,7 +1148,9 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-lorram-ramires-inter-de-bebedouro",
@@ -1034,7 +1180,9 @@
     "https://www.futebolinterior.com.br/inter-de-bebedouro-meia-lorran-ramirez/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "inter-de-bebedouro"
   },
   {
    "id": "2026-11-09-gabriel-cunha-rio-claro",
@@ -1064,7 +1212,9 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-gabriel-adao-rio-claro",
@@ -1094,7 +1244,9 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-09-danilo-guimaraes-votuporanguense",
@@ -1124,7 +1276,9 @@
     "https://www.futebolinterior.com.br/votuporanguense-danilo-guimaraes/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "votuporanguense"
   },
   {
    "id": "2026-11-06-lucas-evangelista-xv-de-jau",
@@ -1154,7 +1308,9 @@
     "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-06-kelvin-moreira-xv-de-jau",
@@ -1184,7 +1340,9 @@
     "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-06-henrique-lima-xv-de-jau",
@@ -1214,7 +1372,9 @@
     "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-06-gustavo-brandao-xv-de-jau",
@@ -1244,7 +1404,9 @@
     "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-06-guilherme-queiroz-uniao-barbarense",
@@ -1275,7 +1437,9 @@
     "https://boainformacao.com.br/2026/11/paulista-a3-uniao-barbarense-anuncia-novo-reforco-e-chega-a-14-jogadores/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
   },
   {
    "id": "2026-11-05-reynaldo-uniao-sao-joao",
@@ -1305,7 +1469,9 @@
     "https://www.futebolinterior.com.br/uniao-sao-joao-traz-reynaldo-ex-ponte/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-sao-joao"
   },
   {
    "id": "2026-11-04-vitor-braga-rio-claro",
@@ -1336,7 +1502,9 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "rioclaro"
   },
   {
    "id": "2026-11-04-sergio-raphael-santo-andre",
@@ -1366,7 +1534,9 @@
     "https://www.dgabc.com.br/Noticia/4366897/sergio-raphael-chega-ao-santo-andre-para-reforcar-o-sistema-defensivo"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "santoandre"
   },
   {
    "id": "2026-11-04-luizao-lemense",
@@ -1396,7 +1566,9 @@
     "https://www.futebolinterior.com.br/paulista-a4-lemense-contratacao-luizao/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "lemense"
   },
   {
    "id": "2026-11-04-guilherme-cafe-penapolense",
@@ -1427,7 +1599,9 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-03-julio-vaz-santo-andre",
@@ -1457,7 +1631,9 @@
     "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "santoandre"
   },
   {
    "id": "2026-11-03-gabriel-oliveira-marilia",
@@ -1487,7 +1663,9 @@
     "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "marilia"
   },
   {
    "id": "2026-11-13-eduardo-henrique-ituano",
@@ -1526,8 +1704,13 @@
    "numeros": {
     "jogos": 20,
     "clube": "Floresta",
-    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/"
-   }
+    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+    "clubes": [
+     "Floresta"
+    ]
+   },
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-13-luiz-henrique-ituano",
@@ -1550,7 +1733,6 @@
     "id": 0
    },
    "blocos": [
-    "d1",
     "d2"
    ],
    "foto": {
@@ -1564,7 +1746,9 @@
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {}
+   "numeros": {},
+   "selos": [],
+   "dono": "ituano"
   }
  ]
 }

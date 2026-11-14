@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T11:48:00-03:00",
+ "gerado": "2026-11-14T12:00:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -8,11 +8,33 @@
    "jogadores": [
     {
      "nome": "Jordan",
-     "posicao": "Goleiro"
+     "posicao": "Goleiro",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Victor Souza",
-     "posicao": "Goleiro"
+     "posicao": "Goleiro",
+     "numeros": {
+      "jogos": 7,
+      "gols": 0,
+      "minutos": 630,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Brenno",
@@ -24,23 +46,78 @@
     },
     {
      "nome": "Ericson",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 338,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Badaró",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 1,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Carlos Eduardo",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Vilar",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 8,
+      "gols": 2,
+      "minutos": 720,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Wallace",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gui Mariano",
@@ -48,11 +125,33 @@
     },
     {
      "nome": "Darlan",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Patrick Brey",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 8,
+      "gols": 1,
+      "minutos": 676,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Henrique Teles",
@@ -60,19 +159,63 @@
     },
     {
      "nome": "Pedrinho",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 134,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Jonathan",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 3,
+      "gols": 1,
+      "minutos": 226,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gabriel Inocêncio",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 5,
+      "gols": 1,
+      "minutos": 450,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Felipe Vieira",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 156,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Erik",
@@ -80,7 +223,18 @@
     },
     {
      "nome": "Yuri Felipe",
-     "posicao": "Volante"
+     "posicao": "Volante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Matheus Mineiro",
@@ -88,7 +242,18 @@
     },
     {
      "nome": "Leandro Maciel",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 7,
+      "gols": 1,
+      "minutos": 428,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Penha",
@@ -96,23 +261,78 @@
     },
     {
      "nome": "Everton Morelli",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Rafael Gava",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 9,
+      "gols": 1,
+      "minutos": 588,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Matheus Sales",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 7,
+      "gols": 0,
+      "minutos": 406,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Thiago Moraes",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 88,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Marco Antônio",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 66,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Ruan",
@@ -120,31 +340,108 @@
     },
     {
      "nome": "Jefferson Nem",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 110,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Guilherme Queiroz",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 66,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Hygor",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 7,
+      "gols": 4,
+      "minutos": 520,
+      "minutos_estimados": false,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Kelvin",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 294,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Wesley Santos",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Zé Hugo",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 9,
+      "gols": 1,
+      "minutos": 632,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Arthur Caíke",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 134,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Jadson",
@@ -164,7 +461,18 @@
     },
     {
      "nome": "Hugo Souza",
-     "posicao": "Goleiro"
+     "posicao": "Goleiro",
+     "numeros": {
+      "jogos": 6,
+      "gols": 0,
+      "minutos": 540,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Kauê",
@@ -172,15 +480,48 @@
     },
     {
      "nome": "André Ramalho",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gabriel Paulista",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 316,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gustavo Henrique",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 5,
+      "gols": 2,
+      "minutos": 450,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Iago Machado",
@@ -192,11 +533,33 @@
     },
     {
      "nome": "Fabrizio Angileri",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Hugo",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "João Vitor",
@@ -204,15 +567,48 @@
     },
     {
      "nome": "Matheuzinho",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 360,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Pedro Milans",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 112,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Matheus Bidu",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 6,
+      "gols": 2,
+      "minutos": 450,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Alex Santana",
@@ -220,27 +616,93 @@
     },
     {
      "nome": "Allan",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "André",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 338,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "André Carrillo",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Breno Bidon",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 6,
+      "gols": 0,
+      "minutos": 406,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Charles",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Dieguinho",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 156,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gui Amorim",
@@ -248,27 +710,93 @@
     },
     {
      "nome": "Luiz Gustavo",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Matheus Pereira",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 44,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Raniele",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Rodrigo Garro",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 310,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gui Negão",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Kaio César",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 1,
+      "minutos": 316,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Kayke",
@@ -276,27 +804,93 @@
     },
     {
      "nome": "Labyad",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Lingard",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Memphis",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Pedro Raul",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 1,
+      "minutos": 202,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Vitinho",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 208,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Yuri Alberto",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 1,
+      "minutos": 270,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     }
    ],
    "chegaram": [],
@@ -314,7 +908,18 @@
     {
      "nome": "Walter",
      "posicao": "Goleiro",
-     "numero": 22
+     "numero": 22,
+     "numeros": {
+      "jogos": 10,
+      "gols": 0,
+      "minutos": 900,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Thomazella",
@@ -324,7 +929,18 @@
     {
      "nome": "Alex Muralha",
      "posicao": "Goleiro",
-     "numero": 23
+     "numero": 23,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Elias",
@@ -339,27 +955,82 @@
     {
      "nome": "Victor Luis",
      "posicao": "Lateral",
-     "numero": 12
+     "numero": 12,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 248,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Igor Formiga",
      "posicao": "Lateral",
-     "numero": 32
+     "numero": 32,
+     "numeros": {
+      "jogos": 8,
+      "gols": 2,
+      "minutos": 698,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Daniel Borges",
      "posicao": "Lateral",
-     "numero": 20
+     "numero": 20,
+     "numeros": {
+      "jogos": 6,
+      "gols": 0,
+      "minutos": 336,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Reinaldo",
      "posicao": "Lateral",
-     "numero": 6
+     "numero": 6,
+     "numeros": {
+      "jogos": 10,
+      "gols": 2,
+      "minutos": 878,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gabriel Knesowitsch",
      "posicao": "Zagueiro",
-     "numero": 44
+     "numero": 44,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Marcelinho",
@@ -368,27 +1039,82 @@
     {
      "nome": "Willian Machado",
      "posicao": "Zagueiro",
-     "numero": 3
+     "numero": 3,
+     "numeros": {
+      "jogos": 9,
+      "gols": 0,
+      "minutos": 742,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Rodrigues",
      "posicao": "Zagueiro",
-     "numero": 97
+     "numero": 97,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Lucas Oliveira",
      "posicao": "Zagueiro",
-     "numero": 2
+     "numero": 2,
+     "numeros": {
+      "jogos": 4,
+      "gols": 1,
+      "minutos": 338,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "João Victor",
      "posicao": "Zagueiro",
-     "numero": 34
+     "numero": 34,
+     "numeros": {
+      "jogos": 12,
+      "gols": 1,
+      "minutos": 1064,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Wallisson",
      "posicao": "Meia",
-     "numero": 80
+     "numero": 80,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gustavo Cazonatti",
@@ -402,37 +1128,114 @@
     {
      "nome": "Gabriel Pires",
      "posicao": "Meia",
-     "numero": 18
+     "numero": 18,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Neto Moura",
      "posicao": "Meia",
-     "numero": 25
+     "numero": 25,
+     "numeros": {
+      "jogos": 11,
+      "gols": 0,
+      "minutos": 768,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Shaylon",
      "posicao": "Meia",
-     "numero": 7
+     "numero": 7,
+     "numeros": {
+      "jogos": 9,
+      "gols": 1,
+      "minutos": 542,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Eduardo",
      "posicao": "Meia",
-     "numero": 33
+     "numero": 33,
+     "numeros": {
+      "jogos": 10,
+      "gols": 3,
+      "minutos": 632,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Denilson",
      "posicao": "Meia",
-     "numero": 8
+     "numero": 8,
+     "numeros": {
+      "jogos": 8,
+      "gols": 0,
+      "minutos": 360,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Chico Kim",
      "posicao": "Meia",
-     "numero": 10
+     "numero": 10,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 134,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Aldo Filho",
      "posicao": "Meia",
-     "numero": 21
+     "numero": 21,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 202,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Zé Roberto",
@@ -442,37 +1245,114 @@
     {
      "nome": "Fernandinho",
      "posicao": "Atacante",
-     "numero": 17
+     "numero": 17,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 44,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Bruno Santos",
      "posicao": "Atacante",
-     "numero": 30
+     "numero": 30,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 226,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gustavo Silva",
      "posicao": "Atacante",
-     "numero": 19
+     "numero": 19,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Tiquinho Soares",
      "posicao": "Atacante",
-     "numero": 29
+     "numero": 29,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Negueba",
      "posicao": "Atacante",
-     "numero": 11
+     "numero": 11,
+     "numeros": {
+      "jogos": 3,
+      "gols": 1,
+      "minutos": 226,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Nathan Fogaça",
      "posicao": "Atacante",
-     "numero": 9
+     "numero": 9,
+     "numeros": {
+      "jogos": 6,
+      "gols": 1,
+      "minutos": 224,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Galeano",
      "posicao": "Atacante",
-     "numero": 27
+     "numero": 27,
+     "numeros": {
+      "jogos": 8,
+      "gols": 0,
+      "minutos": 314,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Galdino",
@@ -482,22 +1362,66 @@
     {
      "nome": "Edson Carioca",
      "posicao": "Atacante",
-     "numero": 95
+     "numero": 95,
+     "numeros": {
+      "jogos": 6,
+      "gols": 0,
+      "minutos": 270,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Carlos Eduardo",
      "posicao": "Atacante",
-     "numero": 96
+     "numero": 96,
+     "numeros": {
+      "jogos": 8,
+      "gols": 0,
+      "minutos": 244,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "André Luis",
      "posicao": "Atacante",
-     "numero": 99
+     "numero": 99,
+     "numeros": {
+      "jogos": 10,
+      "gols": 0,
+      "minutos": 448,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Alesson",
      "posicao": "Atacante",
-     "numero": 77
+     "numero": 77,
+     "numeros": {
+      "jogos": 13,
+      "gols": 1,
+      "minutos": 790,
+      "minutos_estimados": true,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     }
    ],
    "chegaram": [],
@@ -509,7 +1433,18 @@
    "jogadores": [
     {
      "nome": "César Augusto",
-     "posicao": "Goleiro"
+     "posicao": "Goleiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "João Scapin",
@@ -517,7 +1452,18 @@
     },
     {
      "nome": "Jordi",
-     "posicao": "Goleiro"
+     "posicao": "Goleiro",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 270,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Lucas Ribeiro",
@@ -537,35 +1483,123 @@
     },
     {
      "nome": "Madson",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Maykon Jesus",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 112,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Sander",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Carlinhos",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Eduardo Brock",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 2,
+      "gols": 1,
+      "minutos": 44,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "GABRIEL BAHIA",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Ivan Alvariño",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Patrick",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 338,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Renato Palm",
@@ -573,15 +1607,48 @@
     },
     {
      "nome": "Juninho",
-     "posicao": "Volante"
+     "posicao": "Volante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 134,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Léo Naldi",
-     "posicao": "Volante"
+     "posicao": "Volante",
+     "numeros": {
+      "jogos": 2,
+      "gols": 1,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Luís Oyama",
-     "posicao": "Volante"
+     "posicao": "Volante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 1,
+      "minutos": 294,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Miguel Contiero",
@@ -589,7 +1656,18 @@
     },
     {
      "nome": "Diego Galo",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 2,
+      "gols": 1,
+      "minutos": 136,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Hector",
@@ -601,19 +1679,63 @@
     },
     {
      "nome": "Matheus Bianqui",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 4,
+      "gols": 2,
+      "minutos": 202,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Rômulo",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 4,
+      "gols": 1,
+      "minutos": 226,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Tavinho",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 204,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Carlão",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Diego Mathias",
@@ -621,7 +1743,18 @@
     },
     {
      "nome": "Hélio Borges",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Jardiel",
@@ -629,27 +1762,93 @@
     },
     {
      "nome": "Nicolas Careca",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 2,
+      "gols": 1,
+      "minutos": 112,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Reidiney",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Robson",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 316,
+      "minutos_estimados": false,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Ronald Barcellos",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Titi Ortiz",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Vinícius Paiva",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 66,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     }
    ],
    "chegaram": [],
@@ -667,7 +1866,18 @@
     {
      "nome": "Carlos Miguel",
      "posicao": "Goleiro",
-     "numero": 1
+     "numero": 1,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 480,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Marcelo Lomba",
@@ -682,22 +1892,66 @@
     {
      "nome": "Benedetti",
      "posicao": "Zagueiro",
-     "numero": 43
+     "numero": 43,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Bruno Fuchs",
      "posicao": "Zagueiro",
-     "numero": 3
+     "numero": 3,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gustavo Gómez",
      "posicao": "Zagueiro",
-     "numero": 15
+     "numero": 15,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 436,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Murilo",
      "posicao": "Zagueiro",
-     "numero": 26
+     "numero": 26,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 360,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Agustín Giay",
@@ -707,12 +1961,34 @@
     {
      "nome": "Khellven",
      "posicao": "Lateral",
-     "numero": 12
+     "numero": 12,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Arthur",
      "posicao": "Lateral",
-     "numero": 56
+     "numero": 56,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 210,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Jefté",
@@ -727,7 +2003,18 @@
     {
      "nome": "Andreas Pereira",
      "posicao": "Meia",
-     "numero": 8
+     "numero": 8,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 210,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Emiliano Martínez",
@@ -737,32 +2024,98 @@
     {
      "nome": "Felipe Anderson",
      "posicao": "Meia",
-     "numero": 7
+     "numero": 7,
+     "numeros": {
+      "jogos": 1,
+      "gols": 1,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Larson",
      "posicao": "Meia",
-     "numero": 48
+     "numero": 48,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Lucas Evangelista",
      "posicao": "Meia",
-     "numero": 30
+     "numero": 30,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 210,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Marlon Freitas",
      "posicao": "Meia",
-     "numero": 17
+     "numero": 17,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 368,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Mauricio",
      "posicao": "Meia",
-     "numero": 18
+     "numero": 18,
+     "numeros": {
+      "jogos": 4,
+      "gols": 3,
+      "minutos": 316,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Jhon Arias",
      "posicao": "Atacante",
-     "numero": 11
+     "numero": 11,
+     "numeros": {
+      "jogos": 3,
+      "gols": 2,
+      "minutos": 248,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "López",
@@ -777,12 +2130,34 @@
     {
      "nome": "Ramón Sosa",
      "posicao": "Atacante",
-     "numero": 19
+     "numero": 19,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 120,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Vitor Roque",
      "posicao": "Atacante",
-     "numero": 9
+     "numero": 9,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 232,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     }
    ],
    "chegaram": [],
@@ -795,67 +2170,210 @@
     {
      "nome": "Rafael Toloi",
      "posicao": "Zagueiro",
-     "numero": 2
+     "numero": 2,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Arboleda",
      "posicao": "Zagueiro",
-     "numero": 5
+     "numero": 5,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 450,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Lucas",
      "posicao": "Atacante",
-     "numero": 7
+     "numero": 7,
+     "numeros": {
+      "jogos": 5,
+      "gols": 1,
+      "minutos": 229,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Marcos Antonio",
      "posicao": "Volante",
-     "numero": 8
+     "numero": 8,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 270,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Calleri",
      "posicao": "Atacante",
-     "numero": 9
+     "numero": 9,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 292,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Luciano",
      "posicao": "Atacante",
-     "numero": 10
+     "numero": 10,
+     "numeros": {
+      "jogos": 6,
+      "gols": 1,
+      "minutos": 435,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Ferreira",
      "posicao": "Atacante",
-     "numero": 11
+     "numero": 11,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Iago",
      "posicao": "Lateral",
-     "numero": 12
+     "numero": 12,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Enzo",
      "posicao": "Lateral",
-     "numero": 13
+     "numero": 13,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Bobadilla",
      "posicao": "Meia",
-     "numero": 16
+     "numero": 16,
+     "numeros": {
+      "jogos": 5,
+      "gols": 1,
+      "minutos": 360,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "André Silva",
      "posicao": "Atacante",
-     "numero": 17
+     "numero": 17,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Wendell",
      "posicao": "Lateral",
-     "numero": 18
+     "numero": 18,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 180,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Lucas Ramon",
      "posicao": "Lateral",
-     "numero": 19
+     "numero": 19,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 112,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Buta",
@@ -865,22 +2383,66 @@
     {
      "nome": "Cédric",
      "posicao": "Lateral",
-     "numero": 21
+     "numero": 21,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Domingos Duarte",
      "posicao": "Zagueiro",
-     "numero": 22
+     "numero": 22,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Rafael",
      "posicao": "Goleiro",
-     "numero": 23
+     "numero": 23,
+     "numeros": {
+      "jogos": 7,
+      "gols": 0,
+      "minutos": 630,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Victor Sá",
      "posicao": "Atacante",
-     "numero": 27
+     "numero": 27,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Newton Jr.",
@@ -890,7 +2452,18 @@
     {
      "nome": "Pablo Maia",
      "posicao": "Meia",
-     "numero": 29
+     "numero": 29,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 185,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Coronel",
@@ -900,7 +2473,18 @@
     {
      "nome": "Pedro Lima",
      "posicao": "Lateral",
-     "numero": 32
+     "numero": 32,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 248,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Tete",
@@ -910,12 +2494,34 @@
     {
      "nome": "Sabino",
      "posicao": "Zagueiro",
-     "numero": 35
+     "numero": 35,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 338,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Artur",
      "posicao": "Atacante",
-     "numero": 37
+     "numero": 37,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 158,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "João Pedro Pantiga",
@@ -930,7 +2536,18 @@
     {
      "nome": "Lucca",
      "posicao": "Atacante",
-     "numero": 45
+     "numero": 45,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Pedro Ferreira",
@@ -940,7 +2557,18 @@
     {
      "nome": "Djhordney",
      "posicao": "Volante",
-     "numero": 48
+     "numero": 48,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 292,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Ryan Francisco",
@@ -970,17 +2598,1031 @@
     {
      "nome": "Nicolas",
      "posicao": "Lateral",
-     "numero": 56
+     "numero": 56,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Cauly",
      "posicao": "Meia",
-     "numero": 80
+     "numero": 80,
+     "numeros": {
+      "jogos": 3,
+      "gols": 1,
+      "minutos": 96,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Danielzinho",
      "posicao": "Meia",
-     "numero": 94
+     "numero": 94,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 197,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "ituano": {
+   "atualizado": "2026-11-13",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Luiz Henrique",
+     "posicao": "Lateral",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luiz-henrique-ituano.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Noroeste"
+    },
+    {
+     "nome": "Eduardo Henrique",
+     "posicao": "Zagueiro",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-eduardo-henrique-ituano.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {
+      "jogos": 20,
+      "clube": "Floresta",
+      "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+      "clubes": [
+       "Floresta"
+      ]
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Floresta"
+    },
+    {
+     "nome": "Wesley",
+     "posicao": "Goleiro",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Neto Berola",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-neto-berola-ituano.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/ituano-anuncia-retorno-atacante-para-2027/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Luketa",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luketa-ituano.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/artilheiro-serie-a2-luketa-sertaozinho/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {
+      "gols": 9,
+      "clube": "Sertãozinho",
+      "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+      "clubes": [
+       "Sertãozinho"
+      ]
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Sertãozinho"
+    },
+    {
+     "nome": "Lucas Wingert",
+     "posicao": "Goleiro",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Isaque",
+     "posicao": "Lateral",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-isaque-ituano.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Itabaiana"
+    },
+    {
+     "nome": "Gabriel Gasparotto",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Luiz Henrique",
+     "de": "Noroeste",
+     "tipo": "Contratação",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Eduardo Henrique",
+     "de": "Floresta",
+     "tipo": "Contratação",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "Neto Berola",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    },
+    {
+     "nome": "Luketa",
+     "de": "Sertãozinho",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    },
+    {
+     "nome": "Isaque",
+     "de": "Itabaiana",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    },
+    {
+     "nome": "Gabriel Gasparotto",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    }
+   ],
+   "sairam": []
+  },
+  "santoandre": {
+   "atualizado": "2026-11-11",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Júlio Vaz",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Sérgio Raphael",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Félix Jorge",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "CSA"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Júlio Vaz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Sérgio Raphael",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Félix Jorge",
+     "de": "CSA",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
+    }
+   ],
+   "sairam": []
+  },
+  "marilia": {
+   "atualizado": "2026-11-03",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Gabriel Oliveira",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "São José"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Gabriel Oliveira",
+     "de": "São José",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    }
+   ],
+   "sairam": []
+  },
+  "rioclaro": {
+   "atualizado": "2026-11-09",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Vitor Braga",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "William Rafael",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Vinicius Sousa",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 18,
+      "gols": 3,
+      "clube": "Rio Preto (Série A3)",
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "clubes": [
+       "Rio Preto (Série A3)"
+      ]
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Rio Preto"
+    },
+    {
+     "nome": "Theo Lanza",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 30,
+      "gols": 10,
+      "clube": "Jacareí, Patrocinense e Nova Lavras",
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "clubes": [
+       "Jacareí",
+       "Patrocinense",
+       "Nova Lavras"
+      ]
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Pedro Da Dalto",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Matheus Pellegrini",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Luan Sousa",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Gabriel Cunha",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Gabriel Adão",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Vitor Braga",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "William Rafael",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Vinicius Sousa",
+     "de": "Rio Preto",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Theo Lanza",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Pedro Da Dalto",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Matheus Pellegrini",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Luan Sousa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Gabriel Cunha",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Gabriel Adão",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    }
+   ],
+   "sairam": []
+  },
+  "lemense": {
+   "atualizado": "2026-11-04",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Luizão",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Boa Esporte"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Luizão",
+     "de": "Boa Esporte",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    }
+   ],
+   "sairam": []
+  },
+  "penapolense": {
+   "atualizado": "2026-11-12",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Guilherme Café",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Luis Felipe",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Lucas Xavier",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A3 2026",
+       "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      }
+     ],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Dudu Bahia",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Dourados-AC",
+       "Nacional-PR"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "David Lima",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 10,
+      "gols": 4,
+      "clubes": [
+       "Real Noroeste",
+       "Velo Clube"
+      ],
+      "clube": "Real Noroeste",
+      "obs": "números só pelo Real Noroeste",
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Werley Ferreira",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Roger Ruan",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 11,
+      "clubes": [
+       "Penapolense"
+      ],
+      "clube": "Penapolense",
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+     },
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A4 2026",
+       "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      }
+     ],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Lucas Gomes",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "João Pedro",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 15,
+      "gols": 4,
+      "clubes": [
+       "Portuguesa Santista",
+       "Kasembundit (TAI)"
+      ],
+      "clube": "Portuguesa Santista",
+      "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+     },
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A3 2026",
+       "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+      }
+     ],
+     "nascimento": "",
+     "de": "Kasembundit (Tailândia)"
+    },
+    {
+     "nome": "Ícaro",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Hilton Neto",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 9,
+      "gols": 1,
+      "clubes": [
+       "Primavera"
+      ],
+      "clube": "Primavera",
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Fernando Junior",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 17,
+      "clubes": [
+       "Campinense",
+       "Mamoré"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Diego Cardoso",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Foz do Iguaçu",
+       "Batel"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Guilherme Café",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Luis Felipe",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Lucas Xavier",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Dudu Bahia",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "David Lima",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Werley Ferreira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Roger Ruan",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Lucas Gomes",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "João Pedro",
+     "de": "Kasembundit (Tailândia)",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Ícaro",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Hilton Neto",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Fernando Junior",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Diego Cardoso",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    }
+   ],
+   "sairam": []
+  },
+  "uniao-sao-joao": {
+   "atualizado": "2026-11-05",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Reynaldo",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Reynaldo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    }
+   ],
+   "sairam": []
+  },
+  "xv-de-jau": {
+   "atualizado": "2026-11-11",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Lucas Evangelista",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Kelvin Moreira",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Henrique Lima",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Gustavo Brandão",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Humberto",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Diego Lopes",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Lucas Evangelista",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Kelvin Moreira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Henrique Lima",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Gustavo Brandão",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    }
+   ],
+   "sairam": []
+  },
+  "uniao-barbarense": {
+   "atualizado": "2026-11-06",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Guilherme Queiroz",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Guilherme Queiroz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    }
+   ],
+   "sairam": []
+  },
+  "paulista-jundiai": {
+   "atualizado": "2026-11-11",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Lucas Batatinha",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Matheus Abreu",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Marília"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Matheus Abreu",
+     "de": "Marília",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
+    }
+   ],
+   "sairam": []
+  },
+  "inter-de-bebedouro": {
+   "atualizado": "2026-11-09",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Lorram Ramires",
+     "posicao": "Meia",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "votuporanguense": {
+   "atualizado": "2026-11-09",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Danilo Guimarães",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "São José-RS"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Danilo Guimarães",
+     "de": "São José-RS",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    }
+   ],
+   "sairam": []
+  },
+  "bandeirante": {
+   "atualizado": "2026-11-10",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Vitão",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Pedro Scaramussa",
+     "posicao": "Lateral",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Foguinho",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
     }
    ],
    "chegaram": [],

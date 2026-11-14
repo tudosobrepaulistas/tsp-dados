@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-14T04:25-03:00",
+ "gerado": "2026-11-14T12:20-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.8.9",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.5.1",
-   "zip": "tsp-nova-era-1.5.1.zip",
-   "notas": "Mercado da Bola no formato figurinha de álbum: escudo do clube novo e divisão (Série A, Série B, A1 a A4, Feminino) no alto, retrato, nome, posição e idade, de onde veio, números de 2026 (jogos, gols, minutos, assistências) e, no rodapé, o tipo do movimento e o aviso \"Montagem com IA\" quando a imagem for montagem."
+   "versao": "1.5.2",
+   "zip": "tsp-nova-era-1.5.2.zip",
+   "notas": "Mercado: cada movimento só no bloco do clube dono (quem contrata/renova; na saída, quem perde o jogador). Figurinha e Elenco 2027 com números de 2026 (jogos, gols, assistências), clubes em que jogou em 2026 e selos de títulos e acessos. Elenco 2027 em montagem para os clubes sem elenco oficial (reforços e renovações anunciados, com figurinha)."
   },
   "tsp-shopee": {
    "versao": "1.1.0",

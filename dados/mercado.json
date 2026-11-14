@@ -67,7 +67,10 @@
    "numeros_2026": {
     "gols": 9,
     "clube": "Sertãozinho",
-    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "clubes": [
+     "Sertãozinho"
+    ]
    },
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luketa-ituano.webp",
@@ -171,11 +174,25 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
-   "anuncio_do_clube": true,
    "id": "2026-11-12-roger-ruan-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "jogos": 11,
+    "clubes": [
+     "Penapolense"
+    ],
+    "clube": "Penapolense",
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A4 2026",
+     "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    }
+   ]
   },
   {
    "data": "2026-11-12",
@@ -200,20 +217,36 @@
    "data": "2026-11-12",
    "jogador": "João Pedro",
    "posicao": "Atacante",
-   "de": "Portuguesa Santista",
-   "de_slug": "portuguesasantista",
+   "de": "Kasembundit (Tailândia)",
+   "de_slug": "",
    "para": "Penapolense",
    "para_slug": "penapolense",
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Revelado pelo Corinthians; campeão da A2 2026 com a Portuguesa Santista",
+   "obs": "Revelado pelo Corinthians",
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
-   "anuncio_do_clube": true,
    "id": "2026-11-12-joao-pedro-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "jogos": 15,
+    "gols": 4,
+    "clubes": [
+     "Portuguesa Santista",
+     "Kasembundit (TAI)"
+    ],
+    "clube": "Portuguesa Santista",
+    "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A3 2026",
+     "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    }
+   ]
   },
   {
    "data": "2026-11-12",
@@ -247,11 +280,20 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
-   "anuncio_do_clube": true,
    "id": "2026-11-12-hilton-neto-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "jogos": 9,
+    "gols": 1,
+    "clubes": [
+     "Primavera"
+    ],
+    "clube": "Primavera",
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   }
   },
   {
    "data": "2026-11-12",
@@ -266,11 +308,19 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
-   "anuncio_do_clube": true,
    "id": "2026-11-12-fernando-junior-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "jogos": 17,
+    "clubes": [
+     "Campinense",
+     "Mamoré"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   }
   },
   {
    "data": "2026-11-12",
@@ -285,11 +335,18 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
    ],
-   "anuncio_do_clube": true,
    "id": "2026-11-12-diego-cardoso-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "clubes": [
+     "Foz do Iguaçu",
+     "Batel"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   }
   },
   {
    "data": "2026-11-11",
@@ -441,7 +498,13 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "id": "2026-11-10-lucas-xavier-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A3 2026",
+     "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    }
+   ]
   },
   {
    "data": "2026-11-10",
@@ -479,7 +542,14 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "id": "2026-11-10-dudu-bahia-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "clubes": [
+     "Dourados-AC",
+     "Nacional-PR"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   }
   },
   {
    "data": "2026-11-10",
@@ -498,7 +568,18 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "id": "2026-11-10-david-lima-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "jogos": 10,
+    "gols": 4,
+    "clubes": [
+     "Real Noroeste",
+     "Velo Clube"
+    ],
+    "clube": "Real Noroeste",
+    "obs": "números só pelo Real Noroeste",
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+   }
   },
   {
    "data": "2026-11-09",
@@ -541,7 +622,10 @@
     "jogos": 18,
     "gols": 3,
     "clube": "Rio Preto (Série A3)",
-    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "clubes": [
+     "Rio Preto (Série A3)"
+    ]
    }
   },
   {
@@ -566,7 +650,12 @@
     "jogos": 30,
     "gols": 10,
     "clube": "Jacareí, Patrocinense e Nova Lavras",
-    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "clubes": [
+     "Jacareí",
+     "Patrocinense",
+     "Nova Lavras"
+    ]
    }
   },
   {
@@ -971,7 +1060,10 @@
    "numeros_2026": {
     "jogos": 20,
     "clube": "Floresta",
-    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/"
+    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+    "clubes": [
+     "Floresta"
+    ]
    },
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-eduardo-henrique-ituano.webp",

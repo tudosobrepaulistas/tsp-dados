@@ -114,6 +114,9 @@ def checar(m, tm, pl):
     nm = m.get("numeros_2026")
     if nm and (not str(nm.get("fonte", "")).startswith("https://") or tsp.FONTE_RUIM.search(str(nm.get("fonte", "")))):
         e.append("numeros_2026 precisa de 'fonte' (matéria aceita; oGol/Transfermarkt não valem)")
+    for sl in m.get("selos", []):
+        if not isinstance(sl, dict) or not sl.get("texto") or not str(sl.get("fonte", "")).startswith("https://") or tsp.FONTE_RUIM.search(str(sl.get("fonte", ""))):
+            e.append("selos: lista de {texto, fonte} (título/acesso de 2026 citado em fonte aceita)")
     for lado in ("de", "para"):
         s = m.get(f"{lado}_slug", "")
         if s and s not in pl:
@@ -190,7 +193,7 @@ def numeros_da_base(nome, chaves):
         for j in (t or {}).get("jogadores", []):
             if norm(j.get("nome")) == norm(nome) and j.get("jogos"):
                 return {"jogos": j["jogos"], "gols": j.get("gols", 0), "minutos": j.get("min", 0),
-                        "minutos_estimados": bool(j.get("min_est")), "clube": t.get("nome", ""),
+                        "minutos_estimados": bool(j.get("min_est")), "clube": t.get("nome", ""), "clubes": [t.get("nome", "")],
                         "fonte": "Base TSP (fichas técnicas conferidas)"}
     return None
 
@@ -213,7 +216,11 @@ def cmd_gerar(a):
             continue
         sd, idd, cd = resolver(m["de"], m.get("de_slug", ""), m.get("feminino"), tm, pl)
         sp, idp, cp = resolver(m["para"], m.get("para_slug", ""), m.get("feminino"), tm, pl)
-        blocos = sorted(set(pl.get(sd, []) + pl.get(sp, [])))
+        # O movimento aparece no bloco do clube "dono": quem chega/renova (para) ou quem perde o jogador (de, em saída/venda).
+        dono = sd if m["tipo"] in ("saida", "venda") else sp
+        if m["tipo"] == "emprestimo" and not sp:
+            dono = sd
+        blocos = sorted(set(pl.get(dono or sd or sp, [])))
         foto = m.get("foto") or foto_do_elenco(m["jogador"], [cp, cd])
         numeros = m.get("numeros_2026") or numeros_da_base(m["jogador"], [cd, cp] if m["tipo"] != "renovacao" else [cp])
         nasc = m.get("nascimento") or nascimento_do_elenco(m["jogador"], [cp, cd])
@@ -223,7 +230,8 @@ def cmd_gerar(a):
                       "de": {"nome": m["de"], "slug": sd, "id": idd},
                       "para": {"nome": m["para"], "slug": sp, "id": idp},
                       "blocos": blocos, "foto": foto or {}, "fontes": m["fontes"][:3],
-                      "nascimento": nasc or "", "numeros": numeros or {}})
+                      "nascimento": nasc or "", "numeros": numeros or {}, "selos": m.get("selos", []),
+                      "dono": dono})
     tsp.gravar(API / "mercado.json", {"gerado": tsp.iso(tsp.agora()), "temporada": b.get("temporada", 2027),
                                       "tipos": TIPOS, "itens": saida})
     print(f"OK: api/mercado.json com {len(saida)} movimento(s)")
@@ -245,8 +253,29 @@ def gerar_elencos(itens, tm, pl):
             continue
         saida[s] = {"atualizado": el.get("atualizado", ""), "fonte": el.get("fonte", ""),
                     "jogadores": [dict(j) for j in el.get("jogadores", [])], "chegaram": [], "sairam": []}
+    # jogadores do elenco oficial ganham os números de 2026 da base
+    for s_, el in saida.items():
+        chave = next((k for k, v in tm.items() if v.get("slug_tsp") == s_), "")
+        for j in el["jogadores"]:
+            n = numeros_da_base(j["nome"], [chave]) if chave else None
+            if n:
+                j["numeros"] = n
     for m in sorted(itens, key=lambda m: m["data"]):
-        if m["situacao"] != "oficial" or m["tipo"] == "renovacao":
+        if m["situacao"] != "oficial":
+            continue
+        p0 = m["para"]["slug"]
+        if p0 and p0 not in saida and (m["tipo"] in CHEGA or m["tipo"] == "renovacao"):
+            saida[p0] = {"atualizado": m["data"], "fonte": "", "em_montagem": True, "jogadores": [], "chegaram": [], "sairam": []}
+        if m["tipo"] == "renovacao":
+            el = saida.get(p0)
+            if el is not None:
+                j = next((x for x in el["jogadores"] if norm(x["nome"]) == norm(m["jogador"])), None)
+                if not j:
+                    j = {"nome": m["jogador"], "posicao": m["posicao"]}
+                    el["jogadores"].append(j)
+                j.update({"renovou": True, "foto": j.get("foto") or m["foto"] or None,
+                          "numeros": m["numeros"] or j.get("numeros"), "selos": m["selos"]})
+                el["atualizado"] = max(el["atualizado"], m["data"])
             continue
         d, p = m["de"]["slug"], m["para"]["slug"]
         if d in saida and m["tipo"] in SAI and d != p:
@@ -255,8 +284,11 @@ def gerar_elencos(itens, tm, pl):
             saida[d]["sairam"].append({"nome": m["jogador"], "para": m["para"]["nome"], "tipo": m["tipo_nome"], "data": m["data"],
                                        "estava_no_elenco": len(saida[d]["jogadores"]) < antes})
         if p in saida and m["tipo"] in CHEGA and d != p:
+            saida[p]["atualizado"] = max(saida[p]["atualizado"], m["data"])
             if not any(norm(j["nome"]) == norm(m["jogador"]) for j in saida[p]["jogadores"]):
-                saida[p]["jogadores"].append({"nome": m["jogador"], "posicao": m["posicao"], "foto": m["foto"] or None, "novo": True})
+                saida[p]["jogadores"].append({"nome": m["jogador"], "posicao": m["posicao"], "foto": m["foto"] or None, "novo": True,
+                                              "numeros": m["numeros"], "selos": m["selos"], "nascimento": m["nascimento"],
+                                              "de": m["de"]["nome"]})
             else:
                 for j in saida[p]["jogadores"]:
                     if norm(j["nome"]) == norm(m["jogador"]):
