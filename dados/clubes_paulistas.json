@@ -1,0 +1,231 @@
+{
+ "_leia": "Clubes paulistas por bloco da home (mesma lista do tema, inc/clubes.php). a = Série A (4 grandes + Mirassol e Bragantino), b = Série B, fem = feminino, d1..d4 = Paulistão A1..A4. Chave = endereço do clube no site (/times/<chave>/).",
+ "clubes": {
+  "corinthians": [
+   "a",
+   "d1"
+  ],
+  "palmeiras": [
+   "a",
+   "d1"
+  ],
+  "santos": [
+   "a",
+   "d1"
+  ],
+  "saopaulo": [
+   "a",
+   "d1"
+  ],
+  "mirassol": [
+   "a",
+   "d1"
+  ],
+  "bragantino": [
+   "a",
+   "d1"
+  ],
+  "botafogosp": [
+   "b",
+   "d1"
+  ],
+  "pontepreta": [
+   "b",
+   "d2"
+  ],
+  "saobernardo": [
+   "b",
+   "d1"
+  ],
+  "novorizontino": [
+   "b",
+   "d1"
+  ],
+  "corinthians-feminino": [
+   "fem"
+  ],
+  "palmeiras-feminino": [
+   "fem"
+  ],
+  "sao-paulo-feminino": [
+   "fem"
+  ],
+  "santos-feminino": [
+   "fem"
+  ],
+  "ferroviaria-feminino": [
+   "fem"
+  ],
+  "red-bull-bragantino-feminino": [
+   "fem"
+  ],
+  "mirassol-feminino": [
+   "fem"
+  ],
+  "taubate-feminino": [
+   "fem"
+  ],
+  "capivariano": [
+   "d1"
+  ],
+  "ferroviaria": [
+   "d1"
+  ],
+  "guarani": [
+   "d1"
+  ],
+  "juventus": [
+   "d1"
+  ],
+  "noroeste": [
+   "d1"
+  ],
+  "portuguesa": [
+   "d1"
+  ],
+  "primavera": [
+   "d1"
+  ],
+  "aguasanta": [
+   "d2"
+  ],
+  "interdelimeira": [
+   "d2"
+  ],
+  "ituano": [
+   "d2"
+  ],
+  "linense": [
+   "d2"
+  ],
+  "marilia": [
+   "d2"
+  ],
+  "monteazul": [
+   "d2"
+  ],
+  "osasco-sporting": [
+   "d2"
+  ],
+  "portuguesasantista": [
+   "d2"
+  ],
+  "santoandre": [
+   "d2"
+  ],
+  "saojose": [
+   "d2"
+  ],
+  "sertaozinho": [
+   "d2"
+  ],
+  "taubate": [
+   "d2"
+  ],
+  "veloclube": [
+   "d2"
+  ],
+  "votuporanguense": [
+   "d2"
+  ],
+  "xvdepiracicaba": [
+   "d2"
+  ],
+  "bandeirante": [
+   "d3"
+  ],
+  "catanduva": [
+   "d3"
+  ],
+  "ec-sao-bernardo": [
+   "d3"
+  ],
+  "francana": [
+   "d3"
+  ],
+  "prudente": [
+   "d3"
+  ],
+  "inter-de-bebedouro": [
+   "d3"
+  ],
+  "itapirense": [
+   "d3"
+  ],
+  "paulista-jundiai": [
+   "d3"
+  ],
+  "penapolense": [
+   "d3"
+  ],
+  "rio-branco": [
+   "d3"
+  ],
+  "rioclaro": [
+   "d3"
+  ],
+  "rio-preto": [
+   "d3"
+  ],
+  "saobento": [
+   "d3"
+  ],
+  "uniao-barbarense": [
+   "d3"
+  ],
+  "uniao-sao-joao": [
+   "d3"
+  ],
+  "xv-de-jau": [
+   "d3"
+  ],
+  "america-de-rio-preto": [
+   "d4"
+  ],
+  "barretos": [
+   "d4"
+  ],
+  "colorado-caieiras": [
+   "d4"
+  ],
+  "comercial": [
+   "d4"
+  ],
+  "desportivo-brasil": [
+   "d4"
+  ],
+  "ecus": [
+   "d4"
+  ],
+  "gremio-saocarlense": [
+   "d4"
+  ],
+  "independente": [
+   "d4"
+  ],
+  "jabaquara": [
+   "d4"
+  ],
+  "jacarei": [
+   "d4"
+  ],
+  "lemense": [
+   "d4"
+  ],
+  "saocaetano": [
+   "d4"
+  ],
+  "tanabi": [
+   "d4"
+  ],
+  "taquaritinga": [
+   "d4"
+  ],
+  "uniao-suzano": [
+   "d4"
+  ],
+  "vocem": [
+   "d4"
+  ]
+ }
+}

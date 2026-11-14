@@ -44,3 +44,7 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
 12. **Texto do redator (14/11/2026):** quando a matéria de redator precisar, o Editor SEO corrige o texto no mesmo endereço
     e SEMPRE aponta ao redator os erros que ele cometeu (campo `erros`): a correção não tira a responsabilidade dele.
     Como fazer: `diretrizes/editor-seo.md`, seção "Correção do texto do redator".
+13. **Mercado da Bola 2027 (14/11/2026):** contratações, saídas e renovações dos clubes paulistas, 1 vez por dia, com
+    `python3 ferramentas/mercado.py` (`diretrizes/mercado.md`). Só negócio fechado (oficial ou acertado), 2 fontes (clube pequeno:
+    1 matéria que relata o anúncio oficial). oGol e Transfermarkt: liberados pelo Thiago só como referência para descobrir e conferir;
+    não valem como fonte e nada é copiado deles.

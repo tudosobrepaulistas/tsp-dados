@@ -1,0 +1,1086 @@
+{
+ "gerado": "2026-11-14T03:12:00-03:00",
+ "temporada": 2027,
+ "tipos": {
+  "contratacao": "Contratação",
+  "emprestimo": "Empréstimo",
+  "venda": "Venda",
+  "saida": "Saída",
+  "retorno": "Volta de empréstimo",
+  "renovacao": "Renovação",
+  "promovido": "Subiu da base"
+ },
+ "itens": [
+  {
+   "id": "2026-11-13-wesley-ituano",
+   "data": "2026-11-13",
+   "jogador": "Wesley",
+   "posicao": "Goleiro",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para 2027",
+   "de": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-13-neto-berola-ituano",
+   "data": "2026-11-13",
+   "jogador": "Neto Berola",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-13-luketa-ituano",
+   "data": "2026-11-13",
+   "jogador": "Luketa",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fez 9 gols pelo Sertãozinho em 2026",
+   "de": {
+    "nome": "Sertãozinho",
+    "slug": "sertaozinho",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-13-luiz-henrique-ituano",
+   "data": "2026-11-13",
+   "jogador": "Luiz Henrique",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-13-lucas-wingert-ituano",
+   "data": "2026-11-13",
+   "jogador": "Lucas Wingert",
+   "posicao": "Goleiro",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para 2027",
+   "de": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-13-isaque-ituano",
+   "data": "2026-11-13",
+   "jogador": "Isaque",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito; sexto reforço do Ituano para 2027",
+   "de": {
+    "nome": "Itabaiana",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-13-gabriel-gasparotto-ituano",
+   "data": "2026-11-13",
+   "jogador": "Gabriel Gasparotto",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-13-eduardo-henrique-ituano",
+   "data": "2026-11-13",
+   "jogador": "Eduardo Henrique",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-12-werley-ferreira-penapolense",
+   "data": "2026-11-12",
+   "jogador": "Werley Ferreira",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-12-roger-ruan-penapolense",
+   "data": "2026-11-12",
+   "jogador": "Roger Ruan",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-12-lucas-gomes-penapolense",
+   "data": "2026-11-12",
+   "jogador": "Lucas Gomes",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-12-joao-pedro-penapolense",
+   "data": "2026-11-12",
+   "jogador": "João Pedro",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Revelado pelo Corinthians; campeão da A2 2026 com a Portuguesa Santista",
+   "de": {
+    "nome": "Portuguesa Santista",
+    "slug": "portuguesasantista",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d2",
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-12-icaro-penapolense",
+   "data": "2026-11-12",
+   "jogador": "Ícaro",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-12-hilton-neto-penapolense",
+   "data": "2026-11-12",
+   "jogador": "Hilton Neto",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-12-fernando-junior-penapolense",
+   "data": "2026-11-12",
+   "jogador": "Fernando Junior",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-12-diego-cardoso-penapolense",
+   "data": "2026-11-12",
+   "jogador": "Diego Cardoso",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-11-felix-jorge-santo-andre",
+   "data": "2026-11-11",
+   "jogador": "Félix Jorge",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "CSA",
+    "slug": "",
+    "id": 900071
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/santo-andre-contrata-zagueiro-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-10-luis-felipe-penapolense",
+   "data": "2026-11-10",
+   "jogador": "Luis Felipe",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-10-lucas-xavier-penapolense",
+   "data": "2026-11-10",
+   "jogador": "Lucas Xavier",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-10-dudu-bahia-penapolense",
+   "data": "2026-11-10",
+   "jogador": "Dudu Bahia",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-10-david-lima-penapolense",
+   "data": "2026-11-10",
+   "jogador": "David Lima",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-09-william-rafael-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "William Rafael",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-vinicius-sousa-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "Vinicius Sousa",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Rio Preto",
+    "slug": "rio-preto",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-theo-lanza-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "Theo Lanza",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "10 gols em 2026",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-pedro-da-dalto-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "Pedro Da Dalto",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-matheus-pellegrini-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "Matheus Pellegrini",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-lucas-batatinha-paulista",
+   "data": "2026-11-09",
+   "jogador": "Lucas Batatinha",
+   "posicao": "Atacante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a A3 de 2027",
+   "de": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulista-renova-batatinha-a3-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-luan-sousa-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "Luan Sousa",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-gabriel-cunha-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "Gabriel Cunha",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo, revelado pelo Vasco",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-09-gabriel-adao-rio-claro",
+   "data": "2026-11-09",
+   "jogador": "Gabriel Adão",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "20 anos",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-06-lucas-evangelista-xv-de-jau",
+   "data": "2026-11-06",
+   "jogador": "Lucas Evangelista",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Jaú",
+    "slug": "xv-de-jau",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-06-kelvin-moreira-xv-de-jau",
+   "data": "2026-11-06",
+   "jogador": "Kelvin Moreira",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Jaú",
+    "slug": "xv-de-jau",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-06-henrique-lima-xv-de-jau",
+   "data": "2026-11-06",
+   "jogador": "Henrique Lima",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Jaú",
+    "slug": "xv-de-jau",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-06-gustavo-brandao-xv-de-jau",
+   "data": "2026-11-06",
+   "jogador": "Gustavo Brandão",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Jaú",
+    "slug": "xv-de-jau",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-04-sergio-raphael-santo-andre",
+   "data": "2026-11-04",
+   "jogador": "Sérgio Raphael",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Pré-contrato para 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4366897/sergio-raphael-chega-ao-santo-andre-para-reforcar-o-sistema-defensivo"
+   ]
+  },
+  {
+   "id": "2026-11-04-vitor-braga-rio-claro",
+   "data": "2026-11-04",
+   "jogador": "Vitor Braga",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Primeiro reforço do Rio Claro para 2027; volta ao clube",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a3-rio-claro-vitor-braga/",
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ]
+  },
+  {
+   "id": "2026-11-04-guilherme-cafe-penapolense",
+   "data": "2026-11-04",
+   "jogador": "Guilherme Café",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Primeiro reforço do Penapolense para 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-primeiro-reforco-2027/",
+    "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+   ]
+  },
+  {
+   "id": "2026-11-03-julio-vaz-santo-andre",
+   "data": "2026-11-03",
+   "jogador": "Júlio Vaz",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Pré-contrato para a A2 e a Copa Paulista 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027"
+   ]
+  }
+ ]
+}

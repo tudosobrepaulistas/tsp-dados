@@ -1,0 +1,990 @@
+{
+ "gerado": "2026-11-14T03:12:00-03:00",
+ "temporada": 2027,
+ "clubes": {
+  "botafogosp": {
+   "atualizado": "2026-11-09T03:54:00-03:00",
+   "fonte": "https://botafogofutebolsa.com.br/elenco-2023/",
+   "jogadores": [
+    {
+     "nome": "Jordan",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Victor Souza",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Brenno",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Adriano",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Ericson",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Badaró",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Carlos Eduardo",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Vilar",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Wallace",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Gui Mariano",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Darlan",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Patrick Brey",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Henrique Teles",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Pedrinho",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Jonathan",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Gabriel Inocêncio",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Felipe Vieira",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Erik",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Yuri Felipe",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Matheus Mineiro",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Leandro Maciel",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Penha",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Everton Morelli",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Rafael Gava",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Matheus Sales",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Thiago Moraes",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Marco Antônio",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Ruan",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Jefferson Nem",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Guilherme Queiroz",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Hygor",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Kelvin",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Wesley Santos",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Zé Hugo",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Arthur Caíke",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Jadson",
+     "posicao": "Atacante"
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "corinthians": {
+   "atualizado": "2026-11-12T03:54:00-03:00",
+   "fonte": "https://www.corinthians.com.br/futebol/profissional/elenco",
+   "jogadores": [
+    {
+     "nome": "Felipe Longo",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Hugo Souza",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Kauê",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "André Ramalho",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Gabriel Paulista",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Gustavo Henrique",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Iago Machado",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "João Pedro",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Fabrizio Angileri",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Hugo",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "João Vitor",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Matheuzinho",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Pedro Milans",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Matheus Bidu",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Alex Santana",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Allan",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "André",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "André Carrillo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Breno Bidon",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Charles",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Dieguinho",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Gui Amorim",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Matheus Pereira",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Raniele",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Rodrigo Garro",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Gui Negão",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Kaio César",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Kayke",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Labyad",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Lingard",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Memphis",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Pedro Raul",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Vitinho",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Yuri Alberto",
+     "posicao": "Atacante"
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "mirassol": {
+   "atualizado": "2026-11-09T03:54:00-03:00",
+   "fonte": "https://mirassolfc.com.br/blogs/elenco",
+   "jogadores": [
+    {
+     "nome": "Georgemy",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Walter",
+     "posicao": "Goleiro",
+     "numero": 22
+    },
+    {
+     "nome": "Thomazella",
+     "posicao": "Goleiro",
+     "numero": 90
+    },
+    {
+     "nome": "Alex Muralha",
+     "posicao": "Goleiro",
+     "numero": 23
+    },
+    {
+     "nome": "Elias",
+     "posicao": "Lateral",
+     "numero": 18
+    },
+    {
+     "nome": "Cauã Victor",
+     "posicao": "Lateral",
+     "numero": 45
+    },
+    {
+     "nome": "Victor Luis",
+     "posicao": "Lateral",
+     "numero": 12
+    },
+    {
+     "nome": "Igor Formiga",
+     "posicao": "Lateral",
+     "numero": 32
+    },
+    {
+     "nome": "Daniel Borges",
+     "posicao": "Lateral",
+     "numero": 20
+    },
+    {
+     "nome": "Reinaldo",
+     "posicao": "Lateral",
+     "numero": 6
+    },
+    {
+     "nome": "Gabriel Knesowitsch",
+     "posicao": "Zagueiro",
+     "numero": 44
+    },
+    {
+     "nome": "Marcelinho",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Willian Machado",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Rodrigues",
+     "posicao": "Zagueiro",
+     "numero": 97
+    },
+    {
+     "nome": "Lucas Oliveira",
+     "posicao": "Zagueiro",
+     "numero": 2
+    },
+    {
+     "nome": "João Victor",
+     "posicao": "Zagueiro",
+     "numero": 34
+    },
+    {
+     "nome": "Wallisson",
+     "posicao": "Meia",
+     "numero": 80
+    },
+    {
+     "nome": "Gustavo Cazonatti",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Japa",
+     "posicao": "Meia",
+     "numero": 5
+    },
+    {
+     "nome": "Gabriel Pires",
+     "posicao": "Meia",
+     "numero": 18
+    },
+    {
+     "nome": "Neto Moura",
+     "posicao": "Meia",
+     "numero": 25
+    },
+    {
+     "nome": "Shaylon",
+     "posicao": "Meia",
+     "numero": 7
+    },
+    {
+     "nome": "Eduardo",
+     "posicao": "Meia",
+     "numero": 33
+    },
+    {
+     "nome": "Denilson",
+     "posicao": "Meia",
+     "numero": 8
+    },
+    {
+     "nome": "Chico Kim",
+     "posicao": "Meia",
+     "numero": 10
+    },
+    {
+     "nome": "Aldo Filho",
+     "posicao": "Meia",
+     "numero": 21
+    },
+    {
+     "nome": "Zé Roberto",
+     "posicao": "Atacante",
+     "numero": 99
+    },
+    {
+     "nome": "Fernandinho",
+     "posicao": "Atacante",
+     "numero": 17
+    },
+    {
+     "nome": "Bruno Santos",
+     "posicao": "Atacante",
+     "numero": 30
+    },
+    {
+     "nome": "Gustavo Silva",
+     "posicao": "Atacante",
+     "numero": 19
+    },
+    {
+     "nome": "Tiquinho Soares",
+     "posicao": "Atacante",
+     "numero": 29
+    },
+    {
+     "nome": "Negueba",
+     "posicao": "Atacante",
+     "numero": 11
+    },
+    {
+     "nome": "Nathan Fogaça",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Galeano",
+     "posicao": "Atacante",
+     "numero": 27
+    },
+    {
+     "nome": "Galdino",
+     "posicao": "Atacante",
+     "numero": 17
+    },
+    {
+     "nome": "Edson Carioca",
+     "posicao": "Atacante",
+     "numero": 95
+    },
+    {
+     "nome": "Carlos Eduardo",
+     "posicao": "Atacante",
+     "numero": 96
+    },
+    {
+     "nome": "André Luis",
+     "posicao": "Atacante",
+     "numero": 99
+    },
+    {
+     "nome": "Alesson",
+     "posicao": "Atacante",
+     "numero": 77
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "novorizontino": {
+   "atualizado": "2026-11-10T03:51:00-03:00",
+   "fonte": "https://www.gremionovorizontino.com.br/elenco/",
+   "jogadores": [
+    {
+     "nome": "César Augusto",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "João Scapin",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Jordi",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Lucas Ribeiro",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Paulo Henrique",
+     "posicao": "Goleiro"
+    },
+    {
+     "nome": "Arthur Barbosa",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Lora",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Madson",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Maykon Jesus",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Sander",
+     "posicao": "Lateral"
+    },
+    {
+     "nome": "Carlinhos",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Eduardo Brock",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "GABRIEL BAHIA",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Ivan Alvariño",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Patrick",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Renato Palm",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Juninho",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Léo Naldi",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Luís Oyama",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Miguel Contiero",
+     "posicao": "Volante"
+    },
+    {
+     "nome": "Diego Galo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Hector",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Marlon",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Matheus Bianqui",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Rômulo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Tavinho",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Carlão",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Diego Mathias",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Hélio Borges",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Jardiel",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Nicolas Careca",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Reidiney",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Robson",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Ronald Barcellos",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Titi Ortiz",
+     "posicao": "Atacante"
+    },
+    {
+     "nome": "Vinícius Paiva",
+     "posicao": "Atacante"
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "palmeiras": {
+   "atualizado": "2026-11-12T03:54:00-03:00",
+   "fonte": "https://www.palmeiras.com.br/elenco/",
+   "jogadores": [
+    {
+     "nome": "Bruno Bertinato",
+     "posicao": "Goleiro",
+     "numero": 21
+    },
+    {
+     "nome": "Carlos Miguel",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Marcelo Lomba",
+     "posicao": "Goleiro",
+     "numero": 14
+    },
+    {
+     "nome": "Alexander Barboza",
+     "posicao": "Zagueiro",
+     "numero": 2
+    },
+    {
+     "nome": "Benedetti",
+     "posicao": "Zagueiro",
+     "numero": 43
+    },
+    {
+     "nome": "Bruno Fuchs",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Gustavo Gómez",
+     "posicao": "Zagueiro",
+     "numero": 15
+    },
+    {
+     "nome": "Murilo",
+     "posicao": "Zagueiro",
+     "numero": 26
+    },
+    {
+     "nome": "Agustín Giay",
+     "posicao": "Lateral",
+     "numero": 4
+    },
+    {
+     "nome": "Khellven",
+     "posicao": "Lateral",
+     "numero": 12
+    },
+    {
+     "nome": "Arthur",
+     "posicao": "Lateral",
+     "numero": 56
+    },
+    {
+     "nome": "Jefté",
+     "posicao": "Lateral",
+     "numero": 6
+    },
+    {
+     "nome": "Joaquín Piquerez",
+     "posicao": "Lateral",
+     "numero": 22
+    },
+    {
+     "nome": "Andreas Pereira",
+     "posicao": "Meia",
+     "numero": 8
+    },
+    {
+     "nome": "Emiliano Martínez",
+     "posicao": "Meia",
+     "numero": 32
+    },
+    {
+     "nome": "Felipe Anderson",
+     "posicao": "Meia",
+     "numero": 7
+    },
+    {
+     "nome": "Larson",
+     "posicao": "Meia",
+     "numero": 48
+    },
+    {
+     "nome": "Lucas Evangelista",
+     "posicao": "Meia",
+     "numero": 30
+    },
+    {
+     "nome": "Marlon Freitas",
+     "posicao": "Meia",
+     "numero": 17
+    },
+    {
+     "nome": "Mauricio",
+     "posicao": "Meia",
+     "numero": 18
+    },
+    {
+     "nome": "Jhon Arias",
+     "posicao": "Atacante",
+     "numero": 11
+    },
+    {
+     "nome": "López",
+     "posicao": "Atacante",
+     "numero": 42
+    },
+    {
+     "nome": "Paulinho",
+     "posicao": "Atacante",
+     "numero": 10
+    },
+    {
+     "nome": "Ramón Sosa",
+     "posicao": "Atacante",
+     "numero": 19
+    },
+    {
+     "nome": "Vitor Roque",
+     "posicao": "Atacante",
+     "numero": 9
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "saopaulo": {
+   "atualizado": "2026-11-12T03:54:00-03:00",
+   "fonte": "https://www.saopaulofc.net/esporte/futebol-masculino-profissional/",
+   "jogadores": [
+    {
+     "nome": "Rafael Toloi",
+     "posicao": "Zagueiro",
+     "numero": 2
+    },
+    {
+     "nome": "Arboleda",
+     "posicao": "Zagueiro",
+     "numero": 5
+    },
+    {
+     "nome": "Lucas",
+     "posicao": "Atacante",
+     "numero": 7
+    },
+    {
+     "nome": "Marcos Antonio",
+     "posicao": "Volante",
+     "numero": 8
+    },
+    {
+     "nome": "Calleri",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Luciano",
+     "posicao": "Atacante",
+     "numero": 10
+    },
+    {
+     "nome": "Ferreira",
+     "posicao": "Atacante",
+     "numero": 11
+    },
+    {
+     "nome": "Iago",
+     "posicao": "Lateral",
+     "numero": 12
+    },
+    {
+     "nome": "Enzo",
+     "posicao": "Lateral",
+     "numero": 13
+    },
+    {
+     "nome": "Bobadilla",
+     "posicao": "Meia",
+     "numero": 16
+    },
+    {
+     "nome": "André Silva",
+     "posicao": "Atacante",
+     "numero": 17
+    },
+    {
+     "nome": "Wendell",
+     "posicao": "Lateral",
+     "numero": 18
+    },
+    {
+     "nome": "Lucas Ramon",
+     "posicao": "Lateral",
+     "numero": 19
+    },
+    {
+     "nome": "Buta",
+     "posicao": "Lateral",
+     "numero": 20
+    },
+    {
+     "nome": "Cédric",
+     "posicao": "Lateral",
+     "numero": 21
+    },
+    {
+     "nome": "Domingos Duarte",
+     "posicao": "Zagueiro",
+     "numero": 22
+    },
+    {
+     "nome": "Rafael",
+     "posicao": "Goleiro",
+     "numero": 23
+    },
+    {
+     "nome": "Victor Sá",
+     "posicao": "Atacante",
+     "numero": 27
+    },
+    {
+     "nome": "Newton Jr.",
+     "posicao": "Volante",
+     "numero": 28
+    },
+    {
+     "nome": "Pablo Maia",
+     "posicao": "Meia",
+     "numero": 29
+    },
+    {
+     "nome": "Coronel",
+     "posicao": "Goleiro",
+     "numero": 31
+    },
+    {
+     "nome": "Pedro Lima",
+     "posicao": "Lateral",
+     "numero": 32
+    },
+    {
+     "nome": "Tete",
+     "posicao": "Atacante",
+     "numero": 34
+    },
+    {
+     "nome": "Sabino",
+     "posicao": "Zagueiro",
+     "numero": 35
+    },
+    {
+     "nome": "Artur",
+     "posicao": "Atacante",
+     "numero": 37
+    },
+    {
+     "nome": "João Pedro Pantiga",
+     "posicao": "Goleiro",
+     "numero": 41
+    },
+    {
+     "nome": "Gustavo Santana",
+     "posicao": "Atacante",
+     "numero": 43
+    },
+    {
+     "nome": "Lucca",
+     "posicao": "Atacante",
+     "numero": 45
+    },
+    {
+     "nome": "Pedro Ferreira",
+     "posicao": "Meia",
+     "numero": 46
+    },
+    {
+     "nome": "Djhordney",
+     "posicao": "Volante",
+     "numero": 48
+    },
+    {
+     "nome": "Ryan Francisco",
+     "posicao": "Atacante",
+     "numero": 49
+    },
+    {
+     "nome": "Young",
+     "posicao": "Goleiro",
+     "numero": 50
+    },
+    {
+     "nome": "Felipe Preis",
+     "posicao": "Goleiro",
+     "numero": 52
+    },
+    {
+     "nome": "Isac",
+     "posicao": "Zagueiro",
+     "numero": 53
+    },
+    {
+     "nome": "Osorio",
+     "posicao": "Zagueiro",
+     "numero": 54
+    },
+    {
+     "nome": "Nicolas",
+     "posicao": "Lateral",
+     "numero": 56
+    },
+    {
+     "nome": "Cauly",
+     "posicao": "Meia",
+     "numero": 80
+    },
+    {
+     "nome": "Danielzinho",
+     "posicao": "Meia",
+     "numero": 94
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  }
+ }
+}
