@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T14:25:00-03:00",
+ "gerado": "2026-11-14T20:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -9559,7 +9559,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 63,
-    "empate": 26,
+    "empate": 25,
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
@@ -9646,7 +9646,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.34,
-     1.98
+     1.99
     ],
     "base": [
      13,
@@ -9702,7 +9702,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.24,
-     1.17
+     1.18
     ],
     "base": [
      20,
@@ -9757,7 +9757,7 @@
     "fora": 20,
     "placar": "1x1",
     "gols_esperados": [
-     1.98,
+     1.99,
      1.06
     ],
     "base": [
@@ -9981,7 +9981,7 @@
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.36,
+     2.37,
      1.04
     ],
     "base": [
@@ -10037,8 +10037,8 @@
     "fora": 34,
     "placar": "1x1",
     "gols_esperados": [
-     1.66,
-     1.46
+     1.67,
+     1.47
     ],
     "base": [
      11,
@@ -10312,13 +10312,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 19,
+    "casa": 20,
     "empate": 23,
     "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
      0.97,
-     1.84
+     1.85
     ],
     "base": [
      13,
@@ -10373,7 +10373,7 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.29,
+     2.3,
      0.85
     ],
     "base": [
@@ -10429,7 +10429,7 @@
     "fora": 24,
     "placar": "1x0",
     "gols_esperados": [
-     1.24,
+     1.25,
      0.82
     ],
     "base": [
@@ -10594,7 +10594,7 @@
    "previsao": {
     "casa": 46,
     "empate": 29,
-    "fora": 26,
+    "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
      1.26,
@@ -10653,7 +10653,7 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.59,
+     1.6,
      1.25
     ],
     "base": [
@@ -20329,7 +20329,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 39,
+    "casa": 40,
     "empate": 32,
     "fora": 29,
     "placar": "1x0",
@@ -20418,14 +20418,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/times/gremio-novorizontino/novorizontino-vence-criciuma-e-conquista-titulo-inedito-da-serie-b/",
+    "https://www.lance.com.br/futebol-nacional/clube-de-apenas-16-anos-de-historia-conquista-titulo-inedito-da-serie-b.html"
    ],
    "fixture": {
     "id": 91000172,
     "timestamp": 1794684600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Heriberto Hülse",
@@ -20447,8 +20449,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -20468,21 +20470,25 @@
     "atualizado": "2026-11-11T18:28:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 40,
-    "empate": 35,
-    "fora": 26,
-    "placar": "0x0",
-    "gols_esperados": [
-     0.93,
-     0.69
-    ],
-    "base": [
-     19,
-     11
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Juninho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -20617,7 +20623,7 @@
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.01,
+     2.02,
      0.62
     ],
     "base": [
@@ -20632,14 +20638,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-vence-botafogo-sp-e-fica-com-vaga-direta-para-serie-a/",
+    "https://www.terra.com.br/esportes/juventude/juventude-vence-o-botafogo-sp-no-alfredo-jaconi-e-garante-o-acesso-a-serie-a-de-2027,b95c900ef5d5a66428896b0d9324aa26y5qrw7au.html"
    ],
    "fixture": {
     "id": 91000175,
     "timestamp": 1794684600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Alfredo Jaconi",
@@ -20661,8 +20669,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -20680,21 +20688,41 @@
     "atualizado": "2026-11-11T18:28:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 65,
-    "empate": 20,
-    "fora": 15,
-    "placar": "2x0",
-    "gols_esperados": [
-     2.09,
-     0.9
-    ],
-    "base": [
-     9,
-     15
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Fábio Lima"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Raí"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "copa_do_brasil",
@@ -31944,28 +31972,28 @@
       1,
       900021,
       "Novorizontino",
-      70,
-      37,
-      20,
+      73,
+      38,
+      21,
       10,
       7,
-      34,
+      35,
       "",
-      66,
+      67,
       32
      ],
      [
       2,
       900022,
       "Juventude",
-      68,
-      37,
-      19,
+      71,
+      38,
+      20,
       11,
       7,
-      23,
+      25,
       "",
-      49,
+      51,
       26
      ],
      [
@@ -31987,14 +32015,14 @@
       900025,
       "Criciúma",
       62,
-      37,
+      38,
       18,
       8,
-      11,
-      7,
+      12,
+      6,
       "",
       38,
-      31
+      32
      ],
      [
       5,
@@ -32099,14 +32127,14 @@
       900032,
       "Botafogo-SP",
       51,
-      37,
+      38,
       14,
       9,
-      14,
-      6,
+      15,
+      4,
       "",
       45,
-      39
+      41
      ],
      [
       13,
@@ -32835,6 +32863,12 @@
     "gols": 2
    },
    {
+    "jogador": "Fábio Lima",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 2
+   },
+   {
     "jogador": "Janderson",
     "time": "Vila Nova",
     "time_id": 900023,
@@ -32868,6 +32902,12 @@
     "jogador": "Paulo Baya",
     "time": "Fortaleza",
     "time_id": 900024,
+    "gols": 2
+   },
+   {
+    "jogador": "Raí",
+    "time": "Juventude",
+    "time_id": 900022,
     "gols": 2
    },
    {
@@ -33033,12 +33073,6 @@
     "gols": 1
    },
    {
-    "jogador": "Fábio Lima",
-    "time": "Juventude",
-    "time_id": 900022,
-    "gols": 1
-   },
-   {
     "jogador": "Gabriel Inocêncio",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -33132,6 +33166,12 @@
     "jogador": "João Pedro",
     "time": "Atlético-GO",
     "time_id": 900028,
+    "gols": 1
+   },
+   {
+    "jogador": "Juninho",
+    "time": "Novorizontino",
+    "time_id": 900021,
     "gols": 1
    },
    {
@@ -33270,12 +33310,6 @@
     "jogador": "Rafael Gava",
     "time": "Botafogo-SP",
     "time_id": 900032,
-    "gols": 1
-   },
-   {
-    "jogador": "Raí",
-    "time": "Juventude",
-    "time_id": 900022,
     "gols": 1
    },
    {

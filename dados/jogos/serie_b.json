@@ -8289,22 +8289,31 @@
    "data": "2026-11-14T16:30:00-03:00",
    "casa": "criciuma",
    "fora": "novorizontino",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "38",
    "fase": "",
    "grupo": "",
    "estadio": "Heriberto Hülse",
    "cidade": "Criciúma",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Juninho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/times/gremio-novorizontino/novorizontino-vence-criciuma-e-conquista-titulo-inedito-da-serie-b/",
+    "https://www.lance.com.br/futebol-nacional/clube-de-apenas-16-anos-de-historia-conquista-titulo-inedito-da-serie-b.html"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00",
+   "atualizado": "2026-11-14T20:10:00-03:00",
    "prejogo": {
     "analise": [
      "Criciúma e Novorizontino fecham a Série B no sábado (14/11), às 16h30, no Heriberto Hülse, com objetivos diferentes na 38ª rodada. O Novorizontino, já garantido na Série A desde a vitória sobre o Fortaleza, lidera com 70 pontos, dois a mais que o Juventude, e joga pelo título: um empate basta, porque em caso de igualdade com o Juventude em 71 pontos o Tigre do Vale leva vantagem no número de vitórias (20 a 19 antes da rodada). Só perde a taça se for derrotado e o Juventude vencer o Botafogo-SP.",
@@ -8404,22 +8413,37 @@
    "data": "2026-11-14T16:30:00-03:00",
    "casa": "juventude",
    "fora": "botafogo-sp",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "38",
    "fase": "",
    "grupo": "",
    "estadio": "Alfredo Jaconi",
    "cidade": "Caxias do Sul",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Fábio Lima",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Raí",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-vence-botafogo-sp-e-fica-com-vaga-direta-para-serie-a/",
+    "https://www.terra.com.br/esportes/juventude/juventude-vence-o-botafogo-sp-no-alfredo-jaconi-e-garante-o-acesso-a-serie-a-de-2027,b95c900ef5d5a66428896b0d9324aa26y5qrw7au.html"
    ],
-   "atualizado": "2026-11-07T01:55:00-03:00",
+   "atualizado": "2026-11-14T20:10:00-03:00",
    "prejogo": {
     "analise": [
      "Juventude e Botafogo-SP se enfrentam no sábado (14/11), às 16h30, no Alfredo Jaconi, em Caxias do Sul, pela 38ª e última rodada da Série B. Para o Juventude, 2º colocado com 68 pontos, é o jogo do acesso direto: vencendo, garante a volta à Série A sem depender de ninguém, como registrou o jornal A Crítica. Se não vencer, passa a depender de Fortaleza x Vila Nova, já que o Vila Nova, 3º com 66, ultrapassa o Juventude se ganhar no Castelão e o time gaúcho empatar ou perder (em igualdade de pontos, o Vila Nova teria mais vitórias). O título ainda é possível: o Juventude é campeão se vencer e o líder Novorizontino (70) perder para o Criciúma.",

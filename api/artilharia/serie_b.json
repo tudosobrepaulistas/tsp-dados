@@ -72,6 +72,12 @@
   "gols": 2
  },
  {
+  "jogador": "Fábio Lima",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 2
+ },
+ {
   "jogador": "Janderson",
   "time": "Vila Nova",
   "time_id": 900023,
@@ -105,6 +111,12 @@
   "jogador": "Paulo Baya",
   "time": "Fortaleza",
   "time_id": 900024,
+  "gols": 2
+ },
+ {
+  "jogador": "Raí",
+  "time": "Juventude",
+  "time_id": 900022,
   "gols": 2
  },
  {
@@ -270,12 +282,6 @@
   "gols": 1
  },
  {
-  "jogador": "Fábio Lima",
-  "time": "Juventude",
-  "time_id": 900022,
-  "gols": 1
- },
- {
   "jogador": "Gabriel Inocêncio",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -369,6 +375,12 @@
   "jogador": "João Pedro",
   "time": "Atlético-GO",
   "time_id": 900028,
+  "gols": 1
+ },
+ {
+  "jogador": "Juninho",
+  "time": "Novorizontino",
+  "time_id": 900021,
   "gols": 1
  },
  {
@@ -507,12 +519,6 @@
   "jogador": "Rafael Gava",
   "time": "Botafogo-SP",
   "time_id": 900032,
-  "gols": 1
- },
- {
-  "jogador": "Raí",
-  "time": "Juventude",
-  "time_id": 900022,
   "gols": 1
  },
  {
