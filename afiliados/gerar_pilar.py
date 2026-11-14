@@ -44,6 +44,7 @@ CSS = """<style>
 .tspp-guia strong{display:block;font-size:16px}
 .tspp-guia span{font-size:13px;color:#444}
 .tspp-guia img{width:40px;height:40px;flex:none}
+.tspp-loja{display:block;text-align:center;background:#111;color:#fff;border-radius:10px;padding:12px;margin:0 0 12px;font-weight:800;text-decoration:none}
 .tspp-faq h3{font-size:16px;margin:14px 0 4px}
 .tspp-faq p{margin:0;color:#333}
 </style>"""
@@ -71,12 +72,15 @@ def card(it):
 def main():
     itens = json.loads((RAIZ / "shopee-links.json").read_text(encoding="utf-8"))["itens"]
     guias = {g["slug"]: g for g in json.loads((RAIZ / "guias.json").read_text(encoding="utf-8"))}
+    lojas = json.loads((RAIZ / "lojas.json").read_text(encoding="utf-8"))
+    def destino(s):
+        return f"https://tudosobrepaulista.com.br/produtos/{s}/" if s in lojas else f"#{s}"
     p = [CSS, '<div class="tspp">',
          '<div class="tspp-hero"><h2>Achadinhos do torcedor paulista</h2>'
          '<p>Presentes e produtos <strong>oficiais e licenciados</strong> de Palmeiras, Corinthians, São Paulo e Santos, '
          'escolhidos pelo que mais vende e pelo uso no dia a dia. Black Friday em 27/11 e Natal logo depois: confira e compre com antecedência.</p>'
          '<div class="tspp-chips">'
-         + "".join(f'<a href="#{s}"><img src="{ESC}{img}" alt="Escudo do {n}" width="20" height="20">{n}</a>' for s, n, img, _, _ in CLUBES)
+         + "".join(f'<a href="{destino(s)}"><img src="{ESC}{img}" alt="Escudo do {n}" width="20" height="20">{n}</a>' for s, n, img, _, _ in CLUBES)
          + '</div></div>',
          '<p class="tspp-aviso"><strong>Transparência:</strong> esta página tem links de afiliado da Shopee. Se você comprar por eles, '
          'o Tudo Sobre Paulista recebe uma pequena comissão, sem custo a mais para você. Só listamos produtos anunciados como oficiais '
@@ -88,6 +92,8 @@ def main():
         p.append(f'<h2 class="tspp-t" id="{s}"><img src="{ESC}{img}" alt="Escudo do {n}" width="28" height="28">{n}</h2>')
         p.append(f'<a class="tspp-guia" href="https://tudosobrepaulista.com.br/materia/{guia}/"><img src="{ESC}{img}" alt="" width="40" height="40">'
                  f'<div><strong>Guia: {e(g["titulo"])}</strong><span>Para quem é cada presente, que problema resolve e o que observar antes de comprar →</span></div></a>')
+        if s in lojas:
+            p.append(f'<a class="tspp-loja" href="{destino(s)}">Ver todos os achadinhos do {n} →</a>')
         lista = sorted([i for i in itens if i["clube"] == s], key=lambda x: -vendas(x["vendas"]))
         p.append('<div class="tspp-grid">' + "".join(card(i) for i in lista) + '</div>')
     p.append('<div class="tspp-faq"><h2 class="tspp-t">Perguntas frequentes</h2>'
