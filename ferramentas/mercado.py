@@ -86,7 +86,7 @@ def checar(m, tm, pl):
         datetime.date.fromisoformat(str(m.get("data", "")))
     except ValueError:
         e.append("data = AAAA-MM-DD (dia do anúncio)")
-    for c in ("jogador", "para"):
+    for c in ("jogador",) + (() if m.get("tipo") == "saida" else ("para",)):
         if not str(m.get(c, "")).strip():
             e.append(f"falta '{c}'")
     if not str(m.get("de", "")).strip() and m.get("tipo") not in ("contratacao", "promovido"):
@@ -125,6 +125,8 @@ def checar(m, tm, pl):
     sp = resolver(m.get("para", ""), m.get("para_slug", ""), m.get("feminino"), tm, pl)[0]
     if not sd and not sp:
         e.append("nenhum dos clubes é paulista do site: preencha de_slug ou para_slug")
+    if m.get("tipo") == "saida" and not str(m.get("de", "")).strip():
+        e.append("saída precisa de 'de' (clube que perde o jogador)")
     return e
 
 
@@ -300,11 +302,12 @@ def gerar_elencos(itens, tm, pl):
 
 PRIORIDADE = ["a", "b", "fem", "d1", "d2", "d3", "d4"]
 PROMPT = ("Gere uma imagem: retrato para FIGURINHA DE ÁLBUM DE FUTEBOL, formato quadrado 1:1, estilo foto de estúdio "
-          "levemente ilustrada, do jogador da PRIMEIRA imagem anexada, com rosto e cabelo fiéis à referência. Ele veste a camisa do "
-          "{clube} nas cores do clube ({cores}). No peito, do lado esquerdo do jogador, o escudo do clube EXATAMENTE como na "
-          "SEGUNDA imagem anexada (mesmo desenho, cores e escrita), nítido, como escudo bordado. SEM patrocinadores, SEM número, "
-          "SEM nenhum outro texto. Do peito para cima, de frente, fundo liso em degradê das cores do clube, sem moldura. "
-          "(Jogadores seguintes do mesmo clube: na MESMA conversa, 'mesmo padrão das anteriores' + nova referência.)")
+          "levemente ilustrada, do jogador da PRIMEIRA imagem anexada, com rosto e cabelo fiéis à referência. Ele veste a camisa "
+          "OFICIAL DA TEMPORADA 2026 do {clube} (mesmo modelo, cores e desenho da camisa que o clube usou em 2026; cores: {cores}), "
+          "com o escudo do clube no peito, do lado esquerdo do jogador, EXATAMENTE como na SEGUNDA imagem anexada. "
+          "SEM patrocinadores, SEM marcas de anunciantes, SEM número e SEM nenhum outro texto. Do peito para cima, de frente, "
+          "fundo liso em degradê das cores do clube, sem moldura. (Se a referência não mostrar a camisa 2026, anexe também uma foto "
+          "oficial do time com a camisa 2026.)")
 
 
 def cmd_figurinhas(a):

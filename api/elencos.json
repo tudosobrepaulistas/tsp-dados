@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T12:00:00-03:00",
+ "gerado": "2026-11-14T13:01:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -2730,7 +2730,12 @@
        "Sertãozinho"
       ]
      },
-     "selos": [],
+     "selos": [
+      {
+       "texto": "Artilheiro do Paulistão A2 2026",
+       "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+      }
+     ],
      "nascimento": "",
      "de": "Sertãozinho"
     },
@@ -2806,6 +2811,630 @@
      "data": "2026-11-13"
     }
    ],
+   "sairam": [
+    {
+     "nome": "Thassio",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-06",
+     "estava_no_elenco": false
+    },
+    {
+     "nome": "Lipe Gadol",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-06",
+     "estava_no_elenco": false
+    },
+    {
+     "nome": "Fernando Canesin",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-06",
+     "estava_no_elenco": false
+    },
+    {
+     "nome": "Alason Carioca",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-06",
+     "estava_no_elenco": false
+    }
+   ]
+  },
+  "inter-de-bebedouro": {
+   "atualizado": "2026-11-10",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Marcelinho",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A2 2026",
+       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Juventus"
+    },
+    {
+     "nome": "Lucas Cezane",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Hugo Henrique",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "André Luiz",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "XV de Piracicaba"
+    },
+    {
+     "nome": "Lorram Ramires",
+     "posicao": "Meia",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A4 2026",
+       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+      }
+     ]
+    },
+    {
+     "nome": "Samuel Balbino",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Hericles",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Diogo Silva",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A4 2026",
+       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+      }
+     ]
+    },
+    {
+     "nome": "Biel",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A4 2026",
+       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+      }
+     ]
+    },
+    {
+     "nome": "Artur Melo",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A4 2026",
+       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+      }
+     ]
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Marcelinho",
+     "de": "Juventus",
+     "tipo": "Contratação",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "Lucas Cezane",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "Hugo Henrique",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "André Luiz",
+     "de": "XV de Piracicaba",
+     "tipo": "Contratação",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "Samuel Balbino",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Hericles",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    }
+   ],
+   "sairam": []
+  },
+  "uniao-barbarense": {
+   "atualizado": "2026-11-06",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Vinicius Oliveira",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Tiago Barbosa",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Sandro Krett",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Pedro Rinaldi",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Bandeirante",
+       "Mamoré",
+       "Araxá"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Masterson",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Marcelo Vieira",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Luiz Phillipe",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Jonathan Braz",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Jonas Cabral",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "City London (PR)"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+     },
+     "selos": [
+      {
+       "texto": "Campeão Paranaense 3ª Divisão 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      },
+      {
+       "texto": "Acesso à 2ª Divisão Paranaense 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      }
+     ],
+     "nascimento": "",
+     "de": "City London"
+    },
+    {
+     "nome": "Gabriel Oliveira",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "City London (PR)"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+     },
+     "selos": [
+      {
+       "texto": "Campeão Paranaense 3ª Divisão 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      },
+      {
+       "texto": "Acesso à 2ª Divisão Paranaense 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      }
+     ],
+     "nascimento": "",
+     "de": "City London"
+    },
+    {
+     "nome": "Fabrício Miranda",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Daniel Silva",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Daniel Cruz",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Guilherme Queiroz",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Vinicius Oliveira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Tiago Barbosa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Sandro Krett",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Pedro Rinaldi",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Masterson",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Marcelo Vieira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Luiz Phillipe",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Jonathan Braz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Jonas Cabral",
+     "de": "City London",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Gabriel Oliveira",
+     "de": "City London",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Fabrício Miranda",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Daniel Silva",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Daniel Cruz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Guilherme Queiroz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    }
+   ],
+   "sairam": []
+  },
+  "xvdepiracicaba": {
+   "atualizado": "2026-11-03",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Roberto",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Richard Franco",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Acesso com o ASA em 2026",
+       "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+      }
+     ],
+     "nascimento": "",
+     "de": "ASA"
+    },
+    {
+     "nome": "Maurício Ribeiro",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Marcelo",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Keven",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 24,
+      "gols": 1,
+      "clubes": [
+       "Juventus"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+     },
+     "selos": [
+      {
+       "texto": "Acesso ao Paulistão A1 2026",
+       "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Juventus"
+    },
+    {
+     "nome": "Gustavo Talles",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Gustavo Hebling",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Gustavo Cabral",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Douglas Carvalho",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Roberto",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Richard Franco",
+     "de": "ASA",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Maurício Ribeiro",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Marcelo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Keven",
+     "de": "Juventus",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Gustavo Talles",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Gustavo Cabral",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Douglas Carvalho",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    }
+   ],
    "sairam": []
   },
   "santoandre": {
@@ -2867,7 +3496,7 @@
    "sairam": []
   },
   "marilia": {
-   "atualizado": "2026-11-03",
+   "atualizado": "2026-11-11",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -2880,6 +3509,169 @@
      "selos": [],
      "nascimento": "",
      "de": "São José"
+    },
+    {
+     "nome": "Marcos Moser",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Capivariano"
+    },
+    {
+     "nome": "Keké",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Joinville",
+       "Boavista-RJ"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
+     },
+     "selos": [
+      {
+       "texto": "Campeão da Copa Rio 2026",
+       "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Boavista-RJ"
+    },
+    {
+     "nome": "João Lucas",
+     "posicao": "Meia",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Erik Bessa",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Alyson Motta",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Albert",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 15,
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "XV de Piracicaba"
+    },
+    {
+     "nome": "Lucas Alisson",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Santo André"
+    },
+    {
+     "nome": "Iury Marley",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Hercílio Luz"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+     },
+     "selos": [
+      {
+       "texto": "Campeão Catarinense 2026",
+       "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Hercílio Luz"
+    },
+    {
+     "nome": "Alan Leite",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Catanduva",
+       "Coimbra Sports",
+       "Glória"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Gustavo Kuhn",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 16,
+      "gols": 1,
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "XV de Piracicaba"
+    },
+    {
+     "nome": "Wallace Moraes",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Monte Azul",
+       "Primavera-MT"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Primavera-MT"
     }
    ],
    "chegaram": [
@@ -2888,6 +3680,66 @@
      "de": "São José",
      "tipo": "Contratação",
      "data": "2026-11-03"
+    },
+    {
+     "nome": "Marcos Moser",
+     "de": "Capivariano",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Keké",
+     "de": "Boavista-RJ",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Erik Bessa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Albert",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "de": "XV de Piracicaba",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Lucas Alisson",
+     "de": "Santo André",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Iury Marley",
+     "de": "Hercílio Luz",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Alan Leite",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Gustavo Kuhn",
+     "de": "XV de Piracicaba",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Wallace Moraes",
+     "de": "Primavera-MT",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
     }
    ],
    "sairam": []
@@ -2943,13 +3795,12 @@
      "numeros": {
       "jogos": 30,
       "gols": 10,
-      "clube": "Jacareí, Patrocinense e Nova Lavras",
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
       "clubes": [
        "Jacareí",
        "Patrocinense",
        "Nova Lavras"
-      ]
+      ],
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/"
      },
      "selos": [],
      "nascimento": "",
@@ -2970,7 +3821,13 @@
      "posicao": "Goleiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "clubes": [
+       "União São João",
+       "Comercial"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+     },
      "selos": [],
      "nascimento": "",
      "de": ""
@@ -2980,7 +3837,17 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 6,
+      "gols": 7,
+      "clubes": [
+       "Santo André",
+       "Santa Catarina",
+       "Oeste Brasil"
+      ],
+      "obs": "números só pelo Oeste Brasil",
+      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+     },
      "selos": [],
      "nascimento": "",
      "de": ""
@@ -3060,6 +3927,122 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-09"
+    }
+   ],
+   "sairam": []
+  },
+  "taubate": {
+   "atualizado": "2026-11-04",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Reifit",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Reginaldo Júnior",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Marcílio Dias",
+       "Primavera"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Jeder",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Atlético Tubarão",
+       "Pelotas"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Foguete",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Felipe Rocha",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Adílson Júnior",
+     "posicao": "Goleiro",
+     "renovou": true,
+     "foto": null,
+     "numeros": {
+      "jogos": 7,
+      "clubes": [
+       "Taubaté"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+     },
+     "selos": []
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Reifit",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Reginaldo Júnior",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Jeder",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Foguete",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Felipe Rocha",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
     }
    ],
    "sairam": []
@@ -3412,7 +4395,12 @@
      "posicao": "Lateral",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 24,
+      "gols": 1,
+      "obs": "por quatro clubes",
+      "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+     },
      "selos": [],
      "nascimento": "",
      "de": ""
@@ -3440,6 +4428,32 @@
     {
      "nome": "Gustavo Brandão",
      "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Willian Daltro",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 30,
+      "clubes": [
+       "Águia de Marabá"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Águia de Marabá"
+    },
+    {
+     "nome": "Lucas Nathan",
+     "posicao": "Meia",
      "foto": null,
      "novo": true,
      "numeros": {},
@@ -3488,32 +4502,18 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-06"
-    }
-   ],
-   "sairam": []
-  },
-  "uniao-barbarense": {
-   "atualizado": "2026-11-06",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
+    },
     {
-     "nome": "Guilherme Queiroz",
-     "posicao": "Volante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    }
-   ],
-   "chegaram": [
+     "nome": "Willian Daltro",
+     "de": "Águia de Marabá",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
     {
-     "nome": "Guilherme Queiroz",
+     "nome": "Lucas Nathan",
      "de": "",
      "tipo": "Contratação",
-     "data": "2026-11-06"
+     "data": "2026-11-09"
     }
    ],
    "sairam": []
@@ -3550,23 +4550,6 @@
      "data": "2026-11-11"
     }
    ],
-   "sairam": []
-  },
-  "inter-de-bebedouro": {
-   "atualizado": "2026-11-09",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Lorram Ramires",
-     "posicao": "Meia",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": []
-    }
-   ],
-   "chegaram": [],
    "sairam": []
   },
   "votuporanguense": {
@@ -3626,6 +4609,80 @@
     }
    ],
    "chegaram": [],
+   "sairam": []
+  },
+  "portuguesa": {
+   "atualizado": "2026-11-10",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Tiago Gomes",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Romarinho",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Ricardo Friedrich",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Cesinha",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Água Santa"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Tiago Gomes",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Romarinho",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Ricardo Friedrich",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Cesinha",
+     "de": "Água Santa",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    }
+   ],
    "sairam": []
   }
  }

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T12:00:00-03:00",
+ "gerado": "2026-11-14T13:01:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -121,7 +121,12 @@
      "Sertãozinho"
     ]
    },
-   "selos": [],
+   "selos": [
+    {
+     "texto": "Artilheiro do Paulistão A2 2026",
+     "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+    }
+   ],
    "dono": "ituano"
   },
   {
@@ -534,6 +539,44 @@
    "dono": "penapolense"
   },
   {
+   "id": "2026-11-11-wallace-moraes-marilia",
+   "data": "2026-11-11",
+   "jogador": "Wallace Moraes",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Primavera-MT",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Monte Azul",
+     "Primavera-MT"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+   },
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
    "id": "2026-11-11-matheus-abreu-paulista",
    "data": "2026-11-11",
    "jogador": "Matheus Abreu",
@@ -694,6 +737,134 @@
    "dono": "bandeirante"
   },
   {
+   "id": "2026-11-10-tiago-gomes-portuguesa",
+   "data": "2026-11-10",
+   "jogador": "Tiago Gomes",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Portuguesa",
+    "slug": "portuguesa",
+    "id": 0
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/portuguesa-confirma-o-armador-cezinha/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "portuguesa"
+  },
+  {
+   "id": "2026-11-10-samuel-balbino-inter-de-bebedouro",
+   "data": "2026-11-10",
+   "jogador": "Samuel Balbino",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-10-romarinho-portuguesa",
+   "data": "2026-11-10",
+   "jogador": "Romarinho",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Portuguesa",
+    "slug": "portuguesa",
+    "id": 0
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/portuguesa-confirma-o-armador-cezinha/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "portuguesa"
+  },
+  {
+   "id": "2026-11-10-ricardo-friedrich-portuguesa",
+   "data": "2026-11-10",
+   "jogador": "Ricardo Friedrich",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Portuguesa",
+    "slug": "portuguesa",
+    "id": 0
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/portuguesa-confirma-o-armador-cezinha/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "portuguesa"
+  },
+  {
    "id": "2026-11-10-pedro-scaramussa-bandeirante",
    "data": "2026-11-10",
    "jogador": "Pedro Scaramussa",
@@ -797,6 +968,77 @@
    "dono": "penapolense"
   },
   {
+   "id": "2026-11-10-hericles-inter-de-bebedouro",
+   "data": "2026-11-10",
+   "jogador": "Hericles",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-10-gustavo-kuhn-marilia",
+   "data": "2026-11-10",
+   "jogador": "Gustavo Kuhn",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 16,
+    "gols": 1,
+    "clubes": [
+     "XV de Piracicaba"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/"
+   },
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
    "id": "2026-11-10-foguinho-bandeirante",
    "data": "2026-11-10",
    "jogador": "Foguinho",
@@ -868,6 +1110,43 @@
    "dono": "penapolense"
   },
   {
+   "id": "2026-11-10-diogo-silva-inter-de-bebedouro",
+   "data": "2026-11-10",
+   "jogador": "Diogo Silva",
+   "posicao": "Volante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a A3 de 2027",
+   "de": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A4 2026",
+     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+    }
+   ],
+   "dono": "inter-de-bebedouro"
+  },
+  {
    "id": "2026-11-10-david-lima-penapolense",
    "data": "2026-11-10",
    "jogador": "David Lima",
@@ -909,6 +1188,150 @@
    },
    "selos": [],
    "dono": "penapolense"
+  },
+  {
+   "id": "2026-11-10-cesinha-portuguesa",
+   "data": "2026-11-10",
+   "jogador": "Cesinha",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Água Santa",
+    "slug": "aguasanta",
+    "id": 0
+   },
+   "para": {
+    "nome": "Portuguesa",
+    "slug": "portuguesa",
+    "id": 0
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/portuguesa-confirma-o-armador-cezinha/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "portuguesa"
+  },
+  {
+   "id": "2026-11-10-biel-inter-de-bebedouro",
+   "data": "2026-11-10",
+   "jogador": "Biel",
+   "posicao": "Atacante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a A3 de 2027",
+   "de": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A4 2026",
+     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+    }
+   ],
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-10-artur-melo-inter-de-bebedouro",
+   "data": "2026-11-10",
+   "jogador": "Artur Melo",
+   "posicao": "Atacante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a A3 de 2027",
+   "de": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A4 2026",
+     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+    }
+   ],
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-09-willian-daltro-xv-de-jau",
+   "data": "2026-11-09",
+   "jogador": "Willian Daltro",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Águia de Marabá",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Jaú",
+    "slug": "xv-de-jau",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 30,
+    "clubes": [
+     "Águia de Marabá"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+   },
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-09-william-rafael-rio-claro",
@@ -1013,13 +1436,12 @@
    "numeros": {
     "jogos": 30,
     "gols": 10,
-    "clube": "Jacareí, Patrocinense e Nova Lavras",
-    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
     "clubes": [
      "Jacareí",
      "Patrocinense",
      "Nova Lavras"
-    ]
+    ],
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/"
    },
    "selos": [],
    "dono": "rioclaro"
@@ -1084,9 +1506,47 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {},
+   "numeros": {
+    "clubes": [
+     "União São João",
+     "Comercial"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+   },
    "selos": [],
    "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-09-lucas-nathan-xv-de-jau",
+   "data": "2026-11-09",
+   "jogador": "Lucas Nathan",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Jaú",
+    "slug": "xv-de-jau",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xv-de-jau"
   },
   {
    "id": "2026-11-09-lucas-batatinha-paulista",
@@ -1148,7 +1608,17 @@
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
    "nascimento": "",
-   "numeros": {},
+   "numeros": {
+    "jogos": 6,
+    "gols": 7,
+    "clubes": [
+     "Santo André",
+     "Santa Catarina",
+     "Oeste Brasil"
+    ],
+    "obs": "números só pelo Oeste Brasil",
+    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+   },
    "selos": [],
    "dono": "rioclaro"
   },
@@ -1181,7 +1651,12 @@
    ],
    "nascimento": "",
    "numeros": {},
-   "selos": [],
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A4 2026",
+     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+    }
+   ],
    "dono": "inter-de-bebedouro"
   },
   {
@@ -1281,6 +1756,124 @@
    "dono": "votuporanguense"
   },
   {
+   "id": "2026-11-09-alan-leite-marilia",
+   "data": "2026-11-09",
+   "jogador": "Alan Leite",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Catanduva",
+     "Coimbra Sports",
+     "Glória"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+   },
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
+   "id": "2026-11-06-thassio",
+   "data": "2026-11-06",
+   "jogador": "Thassio",
+   "posicao": "Lateral",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 37,
+    "gols": 2,
+    "assistencias": 1,
+    "clubes": [
+     "Ituano"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+   },
+   "selos": [],
+   "dono": "ituano"
+  },
+  {
+   "id": "2026-11-06-luiz-gustavo-marilia",
+   "data": "2026-11-06",
+   "jogador": "Luiz Gustavo",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 15,
+    "clubes": [
+     "XV de Piracicaba"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/"
+   },
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
    "id": "2026-11-06-lucas-evangelista-xv-de-jau",
    "data": "2026-11-06",
    "jogador": "Lucas Evangelista",
@@ -1308,9 +1901,79 @@
     "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
    ],
    "nascimento": "",
-   "numeros": {},
+   "numeros": {
+    "jogos": 24,
+    "gols": 1,
+    "obs": "por quatro clubes",
+    "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+   },
    "selos": [],
    "dono": "xv-de-jau"
+  },
+  {
+   "id": "2026-11-06-lucas-alisson-marilia",
+   "data": "2026-11-06",
+   "jogador": "Lucas Alisson",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
+   "id": "2026-11-06-lipe-gadol",
+   "data": "2026-11-06",
+   "jogador": "Lipe Gadol",
+   "posicao": "Meia",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "ituano"
   },
   {
    "id": "2026-11-06-kelvin-moreira-xv-de-jau",
@@ -1343,6 +2006,49 @@
    "numeros": {},
    "selos": [],
    "dono": "xv-de-jau"
+  },
+  {
+   "id": "2026-11-06-iury-marley-marilia",
+   "data": "2026-11-06",
+   "jogador": "Iury Marley",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Hercílio Luz",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Hercílio Luz"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Catarinense 2026",
+     "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+    }
+   ],
+   "dono": "marilia"
   },
   {
    "id": "2026-11-06-henrique-lima-xv-de-jau",
@@ -1442,6 +2148,84 @@
    "dono": "uniao-barbarense"
   },
   {
+   "id": "2026-11-06-fernando-canesin",
+   "data": "2026-11-06",
+   "jogador": "Fernando Canesin",
+   "posicao": "Meia",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 9,
+    "clubes": [
+     "Ituano"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+   },
+   "selos": [],
+   "dono": "ituano"
+  },
+  {
+   "id": "2026-11-06-alason-carioca",
+   "data": "2026-11-06",
+   "jogador": "Alason Carioca",
+   "posicao": "Atacante",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 28,
+    "gols": 1,
+    "assistencias": 1,
+    "clubes": [
+     "Ituano"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+   },
+   "selos": [],
+   "dono": "ituano"
+  },
+  {
    "id": "2026-11-05-reynaldo-uniao-sao-joao",
    "data": "2026-11-05",
    "jogador": "Reynaldo",
@@ -1472,6 +2256,215 @@
    "numeros": {},
    "selos": [],
    "dono": "uniao-sao-joao"
+  },
+  {
+   "id": "2026-11-05-marcos-moser-marilia",
+   "data": "2026-11-05",
+   "jogador": "Marcos Moser",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Capivariano",
+    "slug": "capivariano",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
+   "id": "2026-11-05-keke-marilia",
+   "data": "2026-11-05",
+   "jogador": "Keké",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Boavista-RJ",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Joinville",
+     "Boavista-RJ"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão da Copa Rio 2026",
+     "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
+    }
+   ],
+   "dono": "marilia"
+  },
+  {
+   "id": "2026-11-05-joao-lucas-marilia",
+   "data": "2026-11-05",
+   "jogador": "João Lucas",
+   "posicao": "Meia",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para 2027",
+   "de": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
+   "id": "2026-11-05-erik-bessa-marilia",
+   "data": "2026-11-05",
+   "jogador": "Erik Bessa",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Primeiro reforço do Marília para 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
+   "id": "2026-11-05-alyson-motta-marilia",
+   "data": "2026-11-05",
+   "jogador": "Alyson Motta",
+   "posicao": "Atacante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para 2027",
+   "de": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "marilia"
+  },
+  {
+   "id": "2026-11-05-albert-marilia",
+   "data": "2026-11-05",
+   "jogador": "Albert",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "marilia"
   },
   {
    "id": "2026-11-04-vitor-braga-rio-claro",
@@ -1539,6 +2532,76 @@
    "dono": "santoandre"
   },
   {
+   "id": "2026-11-04-reifit-taubate",
+   "data": "2026-11-04",
+   "jogador": "Reifit",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "taubate"
+  },
+  {
+   "id": "2026-11-04-reginaldo-junior-taubate",
+   "data": "2026-11-04",
+   "jogador": "Reginaldo Júnior",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Marcílio Dias",
+     "Primavera"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   },
+   "selos": [],
+   "dono": "taubate"
+  },
+  {
    "id": "2026-11-04-luizao-lemense",
    "data": "2026-11-04",
    "jogador": "Luizão",
@@ -1569,6 +2632,44 @@
    "numeros": {},
    "selos": [],
    "dono": "lemense"
+  },
+  {
+   "id": "2026-11-04-jeder-taubate",
+   "data": "2026-11-04",
+   "jogador": "Jeder",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Atlético Tubarão",
+     "Pelotas"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   },
+   "selos": [],
+   "dono": "taubate"
   },
   {
    "id": "2026-11-04-guilherme-cafe-penapolense",
@@ -1604,6 +2705,516 @@
    "dono": "penapolense"
   },
   {
+   "id": "2026-11-04-foguete-taubate",
+   "data": "2026-11-04",
+   "jogador": "Foguete",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "taubate"
+  },
+  {
+   "id": "2026-11-04-felipe-rocha-taubate",
+   "data": "2026-11-04",
+   "jogador": "Felipe Rocha",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "taubate"
+  },
+  {
+   "id": "2026-11-04-adilson-junior-taubate",
+   "data": "2026-11-04",
+   "jogador": "Adílson Júnior",
+   "posicao": "Goleiro",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 7,
+    "clubes": [
+     "Taubaté"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   },
+   "selos": [],
+   "dono": "taubate"
+  },
+  {
+   "id": "2026-11-03-vinicius-oliveira-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Vinicius Oliveira",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-tiago-barbosa-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Tiago Barbosa",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Tiago Mumu",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-sandro-krett-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Sandro Krett",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-roberto-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Roberto",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-richard-franco-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Richard Franco",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "ASA",
+    "slug": "",
+    "id": 900072
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Acesso com o ASA em 2026",
+     "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+    }
+   ],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-pedro-rinaldi-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Pedro Rinaldi",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Bandeirante",
+     "Mamoré",
+     "Araxá"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   },
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-mauricio-ribeiro-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Maurício Ribeiro",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-masterson-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Masterson",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-marcelo-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Marcelo",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-marcelo-vieira-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Marcelo Vieira",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-luiz-phillipe-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Luiz Phillipe",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-keven-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Keven",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Juventus",
+    "slug": "juventus",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 24,
+    "gols": 1,
+    "clubes": [
+     "Juventus"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   },
+   "selos": [
+    {
+     "texto": "Acesso ao Paulistão A1 2026",
+     "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+    }
+   ],
+   "dono": "xvdepiracicaba"
+  },
+  {
    "id": "2026-11-03-julio-vaz-santo-andre",
    "data": "2026-11-03",
    "jogador": "Júlio Vaz",
@@ -1636,6 +3247,226 @@
    "dono": "santoandre"
   },
   {
+   "id": "2026-11-03-jonathan-braz-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Jonathan Braz",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-jonas-cabral-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Jonas Cabral",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "City London",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "City London (PR)"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Paranaense 3ª Divisão 2026",
+     "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+    },
+    {
+     "texto": "Acesso à 2ª Divisão Paranaense 2026",
+     "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+    }
+   ],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-gustavo-talles-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Gustavo Talles",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-gustavo-hebling-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Gustavo Hebling",
+   "posicao": "Volante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Renovou até a Série D",
+   "de": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-gustavo-cabral-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Gustavo Cabral",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-gabriel-oliveira-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Gabriel Oliveira",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "City London",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "City London (PR)"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Paranaense 3ª Divisão 2026",
+     "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+    },
+    {
+     "texto": "Acesso à 2ª Divisão Paranaense 2026",
+     "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+    }
+   ],
+   "dono": "uniao-barbarense"
+  },
+  {
    "id": "2026-11-03-gabriel-oliveira-marilia",
    "data": "2026-11-03",
    "jogador": "Gabriel Oliveira",
@@ -1666,6 +3497,134 @@
    "numeros": {},
    "selos": [],
    "dono": "marilia"
+  },
+  {
+   "id": "2026-11-03-fabricio-miranda-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Fabrício Miranda",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-douglas-carvalho-xv-de-piracicaba",
+   "data": "2026-11-03",
+   "jogador": "Douglas Carvalho",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-03-daniel-silva-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Daniel Silva",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-03-daniel-cruz-uniao-barbarense",
+   "data": "2026-11-03",
+   "jogador": "Daniel Cruz",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "uniao-barbarense"
   },
   {
    "id": "2026-11-13-eduardo-henrique-ituano",
@@ -1711,6 +3670,143 @@
    },
    "selos": [],
    "dono": "ituano"
+  },
+  {
+   "id": "2026-10-30-marcelinho-inter-de-bebedouro",
+   "data": "2026-10-30",
+   "jogador": "Marcelinho",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Juventus",
+    "slug": "juventus",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A2 2026",
+     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/"
+    }
+   ],
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-10-30-lucas-cezane-inter-de-bebedouro",
+   "data": "2026-10-30",
+   "jogador": "Lucas Cezane",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-10-30-hugo-henrique-inter-de-bebedouro",
+   "data": "2026-10-30",
+   "jogador": "Hugo Henrique",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-10-30-andre-luiz-inter-de-bebedouro",
+   "data": "2026-10-30",
+   "jogador": "André Luiz",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "dono": "inter-de-bebedouro"
   },
   {
    "id": "2026-11-13-luiz-henrique-ituano",
