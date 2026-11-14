@@ -77,31 +77,6 @@
    }
   },
   {
-   "data": "2026-10-28",
-   "jogador": "Luiz Henrique",
-   "posicao": "Lateral",
-   "de": "Noroeste",
-   "de_slug": "noroeste",
-   "para": "Ituano",
-   "para_slug": "ituano",
-   "tipo": "contratacao",
-   "situacao": "oficial",
-   "feminino": false,
-   "obs": "Pré-contrato; ex-Bahia e Mirassol",
-   "fontes": [
-    "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
-    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
-   ],
-   "id": "2026-11-13-luiz-henrique-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00",
-   "foto": {
-    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luiz-henrique-ituano.webp",
-    "credito": "Montagem com IA (ilustrativa) · TSP",
-    "fonte": "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
-    "ia": true
-   }
-  },
-  {
    "data": "2026-11-13",
    "jogador": "Lucas Wingert",
    "posicao": "Goleiro",
@@ -163,36 +138,6 @@
    "anuncio_do_clube": true,
    "id": "2026-11-13-gabriel-gasparotto-ituano",
    "atualizado": "2026-11-14T03:11:00-03:00"
-  },
-  {
-   "data": "2026-11-02",
-   "jogador": "Eduardo Henrique",
-   "posicao": "Zagueiro",
-   "de": "Floresta",
-   "de_slug": "",
-   "para": "Ituano",
-   "para_slug": "ituano",
-   "tipo": "contratacao",
-   "situacao": "oficial",
-   "feminino": false,
-   "obs": "Pré-contrato; 20 jogos pelo Floresta em 2026",
-   "fontes": [
-    "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
-    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
-   ],
-   "id": "2026-11-13-eduardo-henrique-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00",
-   "numeros_2026": {
-    "jogos": 20,
-    "clube": "Floresta",
-    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/"
-   },
-   "foto": {
-    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-eduardo-henrique-ituano.webp",
-    "credito": "Montagem com IA (ilustrativa) · TSP",
-    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
-    "ia": true
-   }
   },
   {
    "data": "2026-11-12",
@@ -348,6 +293,44 @@
   },
   {
    "data": "2026-11-11",
+   "jogador": "Matheus Abreu",
+   "posicao": "Zagueiro",
+   "de": "Marília",
+   "de_slug": "marilia",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 de 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulista-contrata-zagueiro-que-conquistou-acesso-a-serie-a2-pelo-marilia/"
+   ],
+   "id": "2026-11-11-matheus-abreu-paulista",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-11",
+   "jogador": "Humberto",
+   "posicao": "Volante",
+   "de": "XV de Jaú",
+   "de_slug": "xv-de-jau",
+   "para": "XV de Jaú",
+   "para_slug": "xv-de-jau",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Capitão, fica para 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-confirma-dupla-de-volantes/"
+   ],
+   "id": "2026-11-11-humberto-xv-de-jau",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-11",
    "jogador": "Félix Jorge",
    "posicao": "Zagueiro",
    "de": "CSA",
@@ -364,6 +347,63 @@
    "anuncio_do_clube": true,
    "id": "2026-11-11-felix-jorge-santo-andre",
    "atualizado": "2026-11-14T03:11:00-03:00"
+  },
+  {
+   "data": "2026-11-11",
+   "jogador": "Diego Lopes",
+   "posicao": "Volante",
+   "de": "XV de Jaú",
+   "de_slug": "xv-de-jau",
+   "para": "XV de Jaú",
+   "para_slug": "xv-de-jau",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-jau-confirma-dupla-de-volantes/"
+   ],
+   "id": "2026-11-11-diego-lopes-xv-de-jau",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-10",
+   "jogador": "Vitão",
+   "posicao": "Atacante",
+   "de": "Bandeirante",
+   "de_slug": "bandeirante",
+   "para": "Bandeirante",
+   "para_slug": "bandeirante",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a Série A3 de 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
+   ],
+   "id": "2026-11-10-vitao-bandeirante",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-10",
+   "jogador": "Pedro Scaramussa",
+   "posicao": "Lateral",
+   "de": "Bandeirante",
+   "de_slug": "bandeirante",
+   "para": "Bandeirante",
+   "para_slug": "bandeirante",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a Série A3 de 2027 (lateral-esquerdo)",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
+   ],
+   "id": "2026-11-10-pedro-scaramussa-bandeirante",
+   "atualizado": "2026-11-14T07:02:00-03:00"
   },
   {
    "data": "2026-11-10",
@@ -402,6 +442,25 @@
    ],
    "id": "2026-11-10-lucas-xavier-penapolense",
    "atualizado": "2026-11-14T03:11:00-03:00"
+  },
+  {
+   "data": "2026-11-10",
+   "jogador": "Foguinho",
+   "posicao": "Volante",
+   "de": "Bandeirante",
+   "de_slug": "bandeirante",
+   "para": "Bandeirante",
+   "para_slug": "bandeirante",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a Série A3 de 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
+   ],
+   "id": "2026-11-10-foguinho-bandeirante",
+   "atualizado": "2026-11-14T07:02:00-03:00"
   },
   {
    "data": "2026-11-10",
@@ -588,6 +647,25 @@
   },
   {
    "data": "2026-11-09",
+   "jogador": "Lorram Ramires",
+   "posicao": "Meia",
+   "de": "Inter de Bebedouro",
+   "de_slug": "inter-de-bebedouro",
+   "para": "Inter de Bebedouro",
+   "para_slug": "inter-de-bebedouro",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Fica para a Série A3 de 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-meia-lorran-ramirez/"
+   ],
+   "id": "2026-11-09-lorram-ramires-inter-de-bebedouro",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-09",
    "jogador": "Gabriel Cunha",
    "posicao": "Lateral",
    "de": "",
@@ -623,6 +701,25 @@
    "anuncio_do_clube": true,
    "id": "2026-11-09-gabriel-adao-rio-claro",
    "atualizado": "2026-11-14T03:11:00-03:00"
+  },
+  {
+   "data": "2026-11-09",
+   "jogador": "Danilo Guimarães",
+   "posicao": "Lateral",
+   "de": "São José-RS",
+   "de_slug": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A2 de 2027 (lateral-direito)",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/votuporanguense-danilo-guimaraes/"
+   ],
+   "id": "2026-11-09-danilo-guimaraes-votuporanguense",
+   "atualizado": "2026-11-14T07:02:00-03:00"
   },
   {
    "data": "2026-11-06",
@@ -701,6 +798,64 @@
    "atualizado": "2026-11-14T03:11:00-03:00"
   },
   {
+   "data": "2026-11-06",
+   "jogador": "Guilherme Queiroz",
+   "posicao": "Volante",
+   "de": "",
+   "de_slug": "",
+   "para": "União Barbarense",
+   "para_slug": "uniao-barbarense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 de 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/a3-uniao-barbarense-traz-meio-campista/",
+    "https://boainformacao.com.br/2026/11/paulista-a3-uniao-barbarense-anuncia-novo-reforco-e-chega-a-14-jogadores/"
+   ],
+   "id": "2026-11-06-guilherme-queiroz-uniao-barbarense",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
+   "jogador": "Reynaldo",
+   "posicao": "Goleiro",
+   "de": "",
+   "de_slug": "",
+   "para": "União São João",
+   "para_slug": "uniao-sao-joao",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 de 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-sao-joao-traz-reynaldo-ex-ponte/"
+   ],
+   "id": "2026-11-05-reynaldo-uniao-sao-joao",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-04",
+   "jogador": "Vitor Braga",
+   "posicao": "Meia",
+   "de": "",
+   "de_slug": "",
+   "para": "Rio Claro",
+   "para_slug": "rioclaro",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Primeiro reforço do Rio Claro para 2027; volta ao clube",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a3-rio-claro-vitor-braga/",
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+   ],
+   "id": "2026-11-04-vitor-braga-rio-claro",
+   "atualizado": "2026-11-14T03:11:00-03:00"
+  },
+  {
    "data": "2026-11-04",
    "jogador": "Sérgio Raphael",
    "posicao": "Zagueiro",
@@ -721,22 +876,22 @@
   },
   {
    "data": "2026-11-04",
-   "jogador": "Vitor Braga",
-   "posicao": "Meia",
-   "de": "",
+   "jogador": "Luizão",
+   "posicao": "Zagueiro",
+   "de": "Boa Esporte",
    "de_slug": "",
-   "para": "Rio Claro",
-   "para_slug": "rioclaro",
+   "para": "Lemense",
+   "para_slug": "lemense",
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Primeiro reforço do Rio Claro para 2027; volta ao clube",
+   "obs": "Para a Série A4 de 2027",
+   "anuncio_do_clube": true,
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a3-rio-claro-vitor-braga/",
-    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "https://www.futebolinterior.com.br/paulista-a4-lemense-contratacao-luizao/"
    ],
-   "id": "2026-11-04-vitor-braga-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "id": "2026-11-04-luizao-lemense",
+   "atualizado": "2026-11-14T07:02:00-03:00"
   },
   {
    "data": "2026-11-04",
@@ -775,6 +930,80 @@
    "anuncio_do_clube": true,
    "id": "2026-11-03-julio-vaz-santo-andre",
    "atualizado": "2026-11-14T03:11:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
+   "jogador": "Gabriel Oliveira",
+   "posicao": "Zagueiro",
+   "de": "São José",
+   "de_slug": "saojose",
+   "para": "Marília",
+   "para_slug": "marilia",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A2 de 2027",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/"
+   ],
+   "id": "2026-11-03-gabriel-oliveira-marilia",
+   "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-02",
+   "jogador": "Eduardo Henrique",
+   "posicao": "Zagueiro",
+   "de": "Floresta",
+   "de_slug": "",
+   "para": "Ituano",
+   "para_slug": "ituano",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Pré-contrato; 20 jogos pelo Floresta em 2026",
+   "fontes": [
+    "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ],
+   "id": "2026-11-13-eduardo-henrique-ituano",
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "jogos": 20,
+    "clube": "Floresta",
+    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/"
+   },
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-eduardo-henrique-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+    "ia": true
+   }
+  },
+  {
+   "data": "2026-10-28",
+   "jogador": "Luiz Henrique",
+   "posicao": "Lateral",
+   "de": "Noroeste",
+   "de_slug": "noroeste",
+   "para": "Ituano",
+   "para_slug": "ituano",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Pré-contrato; ex-Bahia e Mirassol",
+   "fontes": [
+    "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   ],
+   "id": "2026-11-13-luiz-henrique-ituano",
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luiz-henrique-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
+    "ia": true
+   }
   }
  ]
 }
