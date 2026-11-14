@@ -35,3 +35,12 @@ O site mostra o mercado em 7 blocos da home (Série A, Série B, Feminino, Pauli
 ## Quando a temporada começar
 As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas páginas pelo banco de times
 (`diretrizes/banco-times.md` e `diretrizes/temporada.md`), ligadas ao mesmo nome do elenco.
+
+## Figurinhas 2027 (14/11/2026)
+- Card no formato figurinha: o site monta a moldura (escudo do clube novo, divisão, nome, posição, idade, números de 2026) e
+  mostra "Montagem com IA · ilustrativa" no rodapé quando a imagem é montagem.
+- Retrato gerado no ChatGPT pago do Thiago (Chrome dele), SEM custo extra: 1ª imagem = foto oficial do jogador (arte de anúncio
+  "Divulgação/Clube" ou foto de matéria aceita), 2ª imagem = escudo do clube (o do próprio site). O ChatGPT desenha o escudo no peito
+  (pedido do Thiago, para não perder resolução). Sem foto oficial de referência com o rosto de frente, NÃO gera (nada de rosto inventado).
+- Prompt: `python3 ferramentas/mercado.py figurinhas`. Baixar pelo botão de download do ChatGPT (vai para Downloads do Mac),
+  conferir a imagem e gravar: `python3 ferramentas/mercado.py figurinha ID --img ARQUIVO --ref URL_DA_REFERENCIA`.

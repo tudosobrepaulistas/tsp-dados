@@ -268,10 +268,11 @@ def gerar_elencos(itens, tm, pl):
 
 PRIORIDADE = ["a", "b", "fem", "d1", "d2", "d3", "d4"]
 PROMPT = ("Gere uma imagem: retrato para FIGURINHA DE ÁLBUM DE FUTEBOL, formato quadrado 1:1, estilo foto de estúdio "
-          "levemente ilustrada, do jogador da foto de referência anexada, com o rosto fiel à referência. Ele veste a camisa do "
-          "{clube} nas cores do clube ({cores}), SEM escudo, SEM patrocinadores, SEM número e SEM nenhum texto. Enquadramento do "
-          "peito para cima, de frente, fundo liso em degradê das cores do clube. Sem moldura, sem letras, sem logotipos: "
-          "a moldura da figurinha é feita pelo site.")
+          "levemente ilustrada, do jogador da PRIMEIRA imagem anexada, com rosto e cabelo fiéis à referência. Ele veste a camisa do "
+          "{clube} nas cores do clube ({cores}). No peito, do lado esquerdo do jogador, o escudo do clube EXATAMENTE como na "
+          "SEGUNDA imagem anexada (mesmo desenho, cores e escrita), nítido, como escudo bordado. SEM patrocinadores, SEM número, "
+          "SEM nenhum outro texto. Do peito para cima, de frente, fundo liso em degradê das cores do clube, sem moldura. "
+          "(Jogadores seguintes do mesmo clube: na MESMA conversa, 'mesmo padrão das anteriores' + nova referência.)")
 
 
 def cmd_figurinhas(a):
