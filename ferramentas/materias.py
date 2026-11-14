@@ -11,10 +11,11 @@ Item: {"id": 123, "resumo": ["3 a 5 tópicos curtos"], "faq": [["pergunta", "res
        "meta_title": "até 60 caracteres", "meta_desc": "até 155 caracteres", "foco": "palavra-chave",
        "tags": ["3 a 6"], "intertitulos": [{"p": 4, "h2": "Intertítulo antes do 4º parágrafo"}],
        "dicas": ["só em matéria de REDATOR: até 5 dicas de SEO, cada uma dizendo o que melhorar e como"],
-       "reescrita": {"html": "<p>...</p>", "clubes": ["slug", ...], "motivo": "frase curta"}}   (só VÁRIOS CLUBES)
-Reescrita (13/11/2026): matéria de REDATOR marcada "VÁRIOS CLUBES" → o mesmo texto reescrito de forma imparcial,
-no MESMO endereço (o site troca o texto, marca os clubes e avisa o redator). Só fatos que já estão na matéria.
-O site só preenche o que estiver vazio na matéria; nunca reescreve o texto do jornalista.
+       "reescrita": {"html": "<p>...</p>", "clubes": ["slug", ...], "motivo": "frase curta"},   (só REDATOR)
+       "erros": ["só REDATOR: cada erro que o redator cometeu, com o trecho e a forma certa"]}
+Reescrita: matéria de REDATOR marcada "VÁRIOS CLUBES" (13/11/2026) ou que precise de correção (14/11/2026) → o mesmo
+texto corrigido, no MESMO endereço (o site troca o texto, guarda o original e avisa o redator com a lista de "erros").
+Só fatos que já estão na matéria. Campos de SEO: o site só preenche o que estiver vazio.
 """
 import datetime
 import html
@@ -44,6 +45,9 @@ def baixar(url):
 
 def texto(h):
     h = re.sub(r"<!--.*?-->", "", h, flags=re.S)
+    # listas (<ul>/<ol>) viram uma linha só "LISTA: a | b | c", para nada sumir da leitura (14/11/2026)
+    h = re.sub(r"<(ul|ol)[^>]*>(.*?)</\1>", lambda m: "<p>LISTA: " + " | ".join(
+        re.sub(r"<[^>]+>", " ", x).strip() for x in re.findall(r"<li[^>]*>(.*?)</li>", m.group(2), re.S)) + "</p>", h, flags=re.S | re.I)
     partes = re.split(r"</p>|<br\s*/?>\s*<br\s*/?>|\n\s*\n", h)
     out = []
     for p in partes:
@@ -72,7 +76,15 @@ def pendentes(a):
         redator = m.get("author") not in (1, 3, 39)
         tit = html.unescape(m["title"]["rendered"])
         varios = redator and (len(m.get("times") or []) >= 3 or bool(re.search(r"sorteio|tabela|regulamento|calend[aá]rio|grupos?|potes?|confrontos|classificad|participantes|f[oó]rmula", tit, re.I)))
-        print(f"(tem intertítulos: {'sim' if tem_h2 else 'não'}; tags: {len(m.get('tags', []))}; clubes marcados: {len(m.get('times') or [])}; autor {m.get('author')}{' = REDATOR: escreva dicas' if redator else ''}{' · VÁRIOS CLUBES: faça a reescrita imparcial' if varios else ''})")
+        c = m["content"]["rendered"]
+        avisos = []
+        if redator and re.search(r"<br\s*/?>\s*<br\s*/?>", c, re.I):
+            avisos.append("PARÁGRAFOS COLADOS com <br><br> (o site não consegue pôr H2)")
+        if redator and re.search(r"(<br\s*/?>|<p[^>]*>)\s*<strong>[^<]{8,90}</strong>\s*(<br|</p>)", c, re.I):
+            avisos.append("NEGRITO USADO COMO INTERTÍTULO")
+        print(f"(tem intertítulos: {'sim' if tem_h2 else 'não'}; tags: {len(m.get('tags', []))}; clubes marcados: {len(m.get('times') or [])}; autor {m.get('author')}{' = REDATOR: escreva dicas, revise o texto (corrija se precisar) e aponte os erros' if redator else ''}{' · VÁRIOS CLUBES: faça a reescrita imparcial' if varios else ''})")
+        if avisos:
+            print("PROBLEMAS NO TEXTO: " + "; ".join(avisos))
         for i, p in enumerate(texto(m["content"]["rendered"]), 1):
             print(f"[{i}] {p}")
         print()
@@ -104,10 +116,15 @@ def adicionar(a):
             erros.append(f"{n}: dicas = lista de até 5 frases (cada uma com o que melhorar e como)")
         rw = it.get("reescrita")
         if rw is not None:
-            if not isinstance(rw, dict) or "<p" not in str(rw.get("html", "")) or not rw.get("clubes"):
+            if not isinstance(rw, dict) or "<p" not in str(rw.get("html", "")) or not rw.get("motivo"):
                 erros.append(f"{n}: reescrita = {{html com <p>, clubes: [slugs], motivo}}")
+            if not it.get("erros"):
+                erros.append(f"{n}: reescrita sem 'erros': aponte ao redator o que ele errou")
             if re.search(r"aposta|palpite|odd", str(rw.get("html", "")), re.I):
                 erros.append(f"{n}: reescrita com conteúdo de aposta")
+        er = it.get("erros", [])
+        if not isinstance(er, list) or len(er) > 8 or any(not isinstance(x, str) or len(x) < 15 for x in er):
+            erros.append(f"{n}: erros = lista de até 8 frases (o trecho errado e a forma certa)")
     if erros:
         raise SystemExit("ERRO:\n" + "\n".join(erros))
     d = ler()

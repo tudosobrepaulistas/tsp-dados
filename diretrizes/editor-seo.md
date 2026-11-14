@@ -21,8 +21,9 @@ de SEO, AEO e GEO, sem trabalho extra da redação. O site só completa o que es
      matéria. Ex.: "O título não tem o nome do clube no começo: 'Palmeiras renova com Belé até 2031' rende mais busca
      que 'Renovação confirmada'"; "As tags 'futebol paulista' e 'palmeiras notícias' são genéricas: use o nome do jogador
      e do adversário (Erick Belé, Vasco)"; "O 1º parágrafo não diz quando: coloque a data (domingo, 8/11)"; "Faltam
-     intertítulos: divida o texto em 2 ou 3 H2 em pergunta". Nada de bronca; não é correção obrigatória (não trava o redator).
-     O site manda as dicas para o redator no painel e por e-mail.
+     intertítulos: divida o texto em 2 ou 3 H2 em pergunta". Tom profissional e direto, sem bronca e sem passar a mão:
+     o SEO da matéria é responsabilidade do redator. O site manda as dicas para o redator no painel e por e-mail.
+   - **reescrita + erros** (só `REDATOR`, regra de 14/11/2026): veja a seção "Correção do texto do redator" abaixo.
    - Tags genéricas ("futebol paulista", "X notícias", "mercado da bola", "brasileirão") não contam: o site acrescenta as
      suas tags quando a matéria tem menos de 3 tags boas.
    Regras: português do Brasil; nada de apostas; opinião só atribuída; sem datas relativas sem a data ("sábado (31/10)").
@@ -46,7 +47,7 @@ Quando `pendentes` marcar **VÁRIOS CLUBES** (matéria de redator sobre sorteio,
 2. Grave no item: `"reescrita": {"html": "...", "clubes": ["slug1", "slug2", ...], "motivo": "assunto de vários clubes: texto imparcial e completo"}`.
 3. O site troca o texto **no mesmo endereço** (uma matéria só, nada de matéria nova), marca os clubes, guarda o texto
    original e avisa o redator que houve ajuste por SEO. Cada matéria é reescrita uma vez só.
-4. No máximo 4 reescritas por execução (economia de limite).
+4. Sempre com a lista `erros` (o site recusa reescrita sem ela), como na seção abaixo.
 
 ## Títulos de CTR baixo (13/11/2026, Fase 0 e Fase 3 do plano de SEO)
 Página com muita impressão e CTR baixo no Search Console (matéria, página-pilar, clube ou campeonato) ganha título e
@@ -57,3 +58,27 @@ descrição novos em `api/titulos.json` (o site põe por cima do Yoast em até 1
    principal do confronto: ganha a caixa do próximo jogo e o endereço automático /confronto/ redireciona para ela.
 4. Preencha `motivo` (impressões/cliques do período) e `desde`; 14 dias depois, compare o CTR e mantenha ou ajuste.
 5. Página de jogo (/jogo/...) não entra na lista: o título dela é automático (TSP Jogos 1.8.8).
+
+## Correção do texto do redator (14/11/2026, pedido do Thiago)
+Regra: **sempre que a matéria de redator precisar, o editor corrige o texto. Mas o redator não fica isento: cada erro
+dele é apontado a ele.** Vale para toda matéria marcada `REDATOR` (com ou sem VÁRIOS CLUBES).
+1. Revise o texto inteiro. Precisa de correção quando houver: erro de português (concordância, crase, acento, pontuação,
+   digitação); data relativa sem a data ("nesta sexta-feira" → "nesta sexta-feira (13/11)", só quando a data de
+   publicação deixa a data certa); lide sem quem/o quê/quando; nome, número ou informação que se contradiz dentro da própria
+   matéria; frase confusa ou repetida; parágrafos colados com `<br><br>` num bloco só (`PROBLEMAS NO TEXTO` na saída de
+   `pendentes`: o site não consegue pôr H2 nem resumo direito); negrito usado como intertítulo (vira `<h2>` de verdade,
+   de preferência em pergunta); citação sem aspas ou sem quem disse.
+2. Se precisar, grave `"reescrita": {"html": ..., "clubes": [...], "motivo": "frase curta do que foi corrigido"}` com o
+   **mesmo texto corrigido**: mesmos fatos, números, nomes, citações (palavra por palavra) e ordem; só `<p>`, `<h2>`,
+   `<ul><li>`, `<strong>`, `<em>` e os links/imagens que já existiam. Nada de fato novo, nada de opinião. Pelo menos 60%
+   das palavras do original. Se tiver H2 na reescrita, não mande `intertitulos`.
+3. Grave **sempre** `"erros"` quando houver erro (com ou sem reescrita; até 8): cada item diz o erro com o trecho do
+   redator e a forma certa. Ex.: "Data relativa sem a data: 'Nesta sexta-feira, um advogado...' → 'Nesta sexta-feira
+   (13/11), um advogado...'"; "Texto todo num parágrafo só, separado por <br><br>: use um parágrafo por ideia
+   (Enter, não Shift+Enter)"; "Concordância: 'os jogadores foi' → 'os jogadores foram'". Tom profissional, direto e
+   respeitoso: aponta o erro, não ofende. Não invente erro: na dúvida, não aponte. Confira o texto completo (listas
+   aparecem como `LISTA:`) antes de dizer que falta algo.
+4. Erro só de SEO (título fraco, tags genéricas) vai em `dicas`; erro de texto vai em `erros`. Matéria sem erro: sem
+   `reescrita` e sem `erros`.
+5. O site troca o texto no mesmo endereço, guarda o original nas revisões, mostra os erros na caixa da matéria e manda
+   ao redator "Matéria corrigida" (ou "Erros na matéria", sem reescrita) com a lista e o lembrete de que a revisão é dele.

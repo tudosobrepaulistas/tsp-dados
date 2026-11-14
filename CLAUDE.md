@@ -41,3 +41,6 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
 12. **Nota das matérias (14/11/2026):** todo dia às 23h59 o site dá nota de 0 a 10 a cada matéria de redator (veracidade, lide,
     clareza, profundidade, português, SEO, AEO, GEO), com ranking e relatório por redator. Roda no site, sem custo: `diretrizes/notas.md`.
     Os apontamentos do editor-chefe derrubam a nota da matéria: aponte com cuidado (só com 2 fontes).
+12. **Texto do redator (14/11/2026):** quando a matéria de redator precisar, o Editor SEO corrige o texto no mesmo endereço
+    e SEMPRE aponta ao redator os erros que ele cometeu (campo `erros`): a correção não tira a responsabilidade dele.
+    Como fazer: `diretrizes/editor-seo.md`, seção "Correção do texto do redator".
