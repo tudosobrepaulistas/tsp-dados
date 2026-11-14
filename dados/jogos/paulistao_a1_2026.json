@@ -2,6 +2,133 @@
  "competicao": "paulistao_a1_2026",
  "jogos": [
   {
+   "id": 91000353,
+   "data": "2026-01-10T16:00:00-03:00",
+   "casa": "santos",
+   "fora": "novorizontino",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Diego Galo",
+     "minuto": "24",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabigol",
+     "minuto": "51",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Thaciano",
+     "minuto": "88",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3748376",
+    "https://jornaldebrasilia.com.br/torcida/santos-vira-contra-o-novorizontino-com-gol-de-gabigol-na-estreia-do-paulista/"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Igor Vinícius, Adonis Frías, Zé Ivaldo, Escobar; Willian Arão, João Schmidt, Rollheiser; Lautaro Díaz, Caballero, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Luan Peres",
+       "saiu": "Zé Ivaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Henrique",
+       "saiu": "João Schmidt",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thaciano",
+       "saiu": "Rollheiser",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mateus Xavier",
+       "saiu": "Lautaro Díaz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Robinho Jr.",
+       "saiu": "Caballero",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rollheiser",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Ivaldo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Henrique",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "",
+     "time": "Jordi; Gabriel Bahia, Alvariño, Patrick, Mayk; Luís Oyama, Léo Naldi, Tavinho, Diego Galo, Rômulo; Robson",
+     "entraram": [
+      {
+       "jogador": "Vinícius Paiva",
+       "saiu": "Luís Oyama",
+       "minuto": ""
+      },
+      {
+       "jogador": "Airton Moisés",
+       "saiu": "Tavinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nicolas Careca",
+       "saiu": "Diego Galo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Rômulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Bianqui",
+       "saiu": "Robson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3748376"
+    ],
+    "atualizado": "2026-11-14T03:34:00-03:00"
+   }
+  },
+  {
    "id": 91000322,
    "data": "2026-01-11T20:30:00-03:00",
    "casa": "mirassol",
@@ -132,6 +259,130 @@
      "https://www.gazetaesportiva.com/?p=3748788"
     ],
     "atualizado": "2026-11-12T13:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000354,
+   "data": "2026-01-14T19:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Barueri",
+   "cidade": "Barueri",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Allan",
+     "minuto": "40",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4279474/allan-marca-e-palmeiras-derrota-o-santos-em-classico-com-destaque-para-goleiros-no-paulistao",
+    "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-vence-o-santos-por-1-a-0-com-gol-de-allan.html"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Khellven, Gustavo Gómez, Murilo, Piquerez; Emi Martínez, Andreas Pereira; Riquelme Filipe, Allan; Raphael Veiga, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Pacheco",
+       "saiu": "Emi Martínez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Larson",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick Belé",
+       "saiu": "Riquelme Filipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luighi",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Roque",
+       "saiu": "Raphael Veiga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Flaco López",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luighi",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Igor Vinícius, Adonis Frías, Zé Ivaldo, Escobar; Willian Arão, João Schmidt; Rollheiser, Barreal, Thaciano; Lautaro Díaz",
+     "entraram": [
+      {
+       "jogador": "Vinícius Lira",
+       "saiu": "Escobar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Rafael",
+       "saiu": "Willian Arão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguelito",
+       "saiu": "Rollheiser",
+       "minuto": ""
+      },
+      {
+       "jogador": "Robinho Jr.",
+       "saiu": "Thaciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabigol",
+       "saiu": "Lautaro Díaz",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Igor Vinícius",
+        "minuto": ""
+       },
+       {
+        "jogador": "Adonis Frías",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4279474/allan-marca-e-palmeiras-derrota-o-santos-em-classico-com-destaque-para-goleiros-no-paulistao"
+    ],
+    "atualizado": "2026-11-14T03:34:00-03:00"
    }
   },
   {
@@ -453,6 +704,78 @@
    "atualizado": "2026-11-11T02:36:00-03:00"
   },
   {
+   "id": 91000355,
+   "data": "2026-01-18T20:30:00-03:00",
+   "casa": "guarani",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Brinco de Ouro",
+   "cidade": "Campinas",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Barreal",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kewen",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3750956",
+    "https://www.dgabc.com.br/Noticia/4280149/brazao-pega-penalti-barreal-marca-mas-santos-cede-empate-ao-guarani-no-final"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00"
+  },
+  {
+   "id": 91000356,
+   "data": "2026-01-22T19:30:00-03:00",
+   "casa": "santos",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Yuri Alberto",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabigol",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4281035/corinthians-fica-confortavel-com-vantagem-magra-e-ve-gabigol-salvar-santos-com-empate-no-fim",
+    "https://jovempan.com.br/?p=6120"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00"
+  },
+  {
    "id": 91000324,
    "data": "2026-01-24T15:00:00-03:00",
    "casa": "sao-bernardo",
@@ -728,6 +1051,417 @@
    }
   },
   {
+   "id": 91000357,
+   "data": "2026-01-31T20:30:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Morumbis",
+   "cidade": "São Paulo",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Tapia",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Luciano",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3755314",
+    "https://www.dgabc.com.br/Noticia/4282713/sao-paulo-vence-o-classico-com-autoridade-reage-no-paulistao-e-afunda-o-santos"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Hernán Crespo",
+     "time": "Rafael; Alan Franco, Arboleda, Sabino; Maik, Bobadilla, Marcos Antônio, Danielzinho, Enzo Díaz; Luciano, Tapia",
+     "entraram": [
+      {
+       "jogador": "Wendell",
+       "saiu": "Sabino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pablo Maia",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas",
+       "saiu": "Enzo Díaz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ferreirinha",
+       "saiu": "Luciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Calleri",
+       "saiu": "Tapia",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Enzo Díaz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Sabino",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Igor Vinícius, Zé Ivaldo, Adonis Frías, Vinícius Lira; João Schmidt, Gabriel Menino, Miguelito; Rollheiser, Barreal, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Mayke",
+       "saiu": "Igor Vinícius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Miguelito",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Rafael",
+       "saiu": "Rollheiser",
+       "minuto": ""
+      },
+      {
+       "jogador": "Escobar",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lautaro Díaz",
+       "saiu": "Gabigol",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Miguelito",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rony",
+        "minuto": ""
+       },
+       {
+        "jogador": "Escobar",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Gabriel Menino",
+        "minuto": "36"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3755314"
+    ],
+    "atualizado": "2026-11-14T03:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000358,
+   "data": "2026-02-08T16:00:00-03:00",
+   "casa": "noroeste",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo de Castilho",
+   "cidade": "Bauru",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/santos-vence-o-noroeste-com-gol-de-rony-e-respira-no-paulistao/",
+    "https://jornaldebrasilia.com.br/torcida/rony-marca-o-1o-santos-bate-noroeste-foge-da-queda-e-sonha-com-quartas/"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Guilherme Alves",
+     "time": "Luiz Daniel; Yuri Ferraz, Sanchéz, Pedro Carrerette, Carlinhos; Ronaldo, Tauã, Cristiano, Diego Mathias, Thiago Lopes; Carlão",
+     "entraram": [
+      {
+       "jogador": "Leocovick",
+       "saiu": "Sanchéz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tocantins",
+       "saiu": "Ronaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Silva",
+       "saiu": "Tauã",
+       "minuto": ""
+      },
+      {
+       "jogador": "Igor",
+       "saiu": "Cristiano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlyson",
+       "saiu": "Diego Mathias",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marlyson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Thiago Lopes",
+        "minuto": "45+4"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Igor Vinícius, Zé Ivaldo, Luan Peres, Escobar; João Schmidt, Gabriel Bontempo, Miguelito; Barreal, Rony, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Vinícius Lira",
+       "saiu": "Escobar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nadson",
+       "saiu": "Miguelito",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thaciano",
+       "saiu": "Rony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lautaro Díaz",
+       "saiu": "Gabigol",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Miguelito",
+        "minuto": ""
+       },
+       {
+        "jogador": "Igor Vinícius",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/santos/santos-vence-o-noroeste-com-gol-de-rony-e-respira-no-paulistao/"
+    ],
+    "atualizado": "2026-11-14T03:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000359,
+   "data": "2026-02-15T20:30:00-03:00",
+   "casa": "santos",
+   "fora": "velo-clube",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 6,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gabigol",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Moisés",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Thaciano",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Menino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabigol",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Rollheiser",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/com-neymar-santos-goleia-o-velo-clube-e-avanca-as-quartas-do-paulistao/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paulistao-define-classificados-em-volta-de-neymar-e-goleada-do-santos"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Mayke, Luan Peres, Zé Ivaldo, Vinícius Lira; Willian Arão, Gabriel Bontempo, Barreal; Thaciano, Moisés, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Gabriel Menino",
+       "saiu": "Willian Arão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neymar",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguelito",
+       "saiu": "Thaciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Moisés",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Gabigol",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Pilhado",
+     "time": "Marcelo Carné; Gabriel Mancha, Marcelo, Betão; Luiz Otavio, Rodrigo, Caique, Thomas Luciano; Mateus Norton, Rodrigo Alves, Jhoninha",
+     "entraram": [
+      {
+       "jogador": "Daniel Amorim",
+       "saiu": "Marcelo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Adriano",
+       "saiu": "Rodrigo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Mario",
+       "saiu": "Caique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Karl",
+       "saiu": "Mateus Norton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Islan",
+       "saiu": "Jhoninha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rodrigo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Thomas Luciano",
+        "minuto": ""
+       },
+       {
+        "jogador": "Islan",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Luiz Otavio",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/santos/com-neymar-santos-goleia-o-velo-clube-e-avanca-as-quartas-do-paulistao/"
+    ],
+    "atualizado": "2026-11-14T03:34:00-03:00"
+   }
+  },
+  {
    "id": 91000246,
    "data": "2026-02-21T18:30:00-03:00",
    "casa": "bragantino",
@@ -878,6 +1612,129 @@
      "https://www.saopaulofc.net/sao-paulo-vence-o-red-bull-bragantino-e-avanca-a-semifinal-do-paulistao/"
     ],
     "atualizado": "2026-11-11T02:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000360,
+   "data": "2026-02-22T16:00:00-03:00",
+   "casa": "novorizontino",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final",
+   "grupo": "",
+   "estadio": "Jorge Ismael de Biasi",
+   "cidade": "Novo Horizonte",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Rômulo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gabriel Bontempo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Léo Naldi",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3762705",
+    "https://jornaldebrasilia.com.br/torcida/novorizontino-encontra-gol-nos-acrescimos-e-elimina-o-santos-no-paulistao/"
+   ],
+   "atualizado": "2026-11-14T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Enderson Moreira",
+     "time": "Jordi; Alvariño, Patrick, Dantas, Mayk; Léo Naldi, Luís Oyama, Tavinho, Titi Ortiz, Rômulo; Robson",
+     "entraram": [
+      {
+       "jogador": "Caio Dantas",
+       "saiu": "Mayk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Brock",
+       "saiu": "Luís Oyama",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinícius Paiva",
+       "saiu": "Tavinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Bianqui",
+       "saiu": "Titi Ortiz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Rômulo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Juninho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Escobar, Adonis Frías, Luan Peres, Igor Vinícius; Willian Arão, Gabriel Menino, Neymar; Rony, Barreal, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Gabriel Bontempo",
+       "saiu": "Gabriel Menino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguelito",
+       "saiu": "Rony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Moisés",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thaciano",
+       "saiu": "Gabigol",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luan Peres",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3762705"
+    ],
+    "atualizado": "2026-11-14T03:34:00-03:00"
    }
   }
  ]

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T01:53:00-03:00",
+ "gerado": "2026-11-14T03:36:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -590,6 +590,12 @@
      1
     ],
     [
+     900020,
+     900008,
+     4,
+     2
+    ],
+    [
      900003,
      900012,
      1,
@@ -602,16 +608,40 @@
      3
     ],
     [
+     900004,
+     900008,
+     2,
+     1
+    ],
+    [
      900012,
      900009,
      0,
      1
     ],
     [
+     900008,
+     900013,
+     2,
+     1
+    ],
+    [
+     900015,
+     900008,
+     2,
+     2
+    ],
+    [
      900018,
      900012,
      0,
      2
+    ],
+    [
+     900008,
+     900018,
+     1,
+     1
     ],
     [
      900012,
@@ -1801,6 +1831,24 @@
    "nome": "Always Ready",
    "slug_tsp": "",
    "wiki": ""
+  },
+  "900084": {
+   "chave": "guarani",
+   "nome": "Guarani",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900085": {
+   "chave": "noroeste",
+   "nome": "Noroeste",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900086": {
+   "chave": "velo-clube",
+   "nome": "Velo Clube",
+   "slug_tsp": "",
+   "wiki": ""
   }
  },
  "jogos": [
@@ -1864,6 +1912,50 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/em-jogo-de-viradas-santos-perde-para-chapecoense-no-brasileirao/",
+    "https://www.dgabc.com.br/Noticia/4282132/santos-leva-3-gols-em-17-minutos-perde-da-chapecoense-no-brasileirao-e-soma-5-tropeco-seguido"
+   ],
+   "fixture": {
+    "id": 91000361,
+    "timestamp": 1769641200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   },
   {
    "liga": "serie_a",
@@ -2104,6 +2196,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/santos-leva-gol-no-fim-perde-do-athletico-pr-e-segue-sem-vencer-no-brasileirao/",
+    "https://www.lance.com.br/santos/com-gol-no-fim-athletico-vence-e-mantem-jejum-do-santos.html"
+   ],
+   "fixture": {
+    "id": 91000362,
+    "timestamp": 1770933600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 5,
+      "extra": null,
+      "texto": "5"
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Julimar"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 16,
+      "extra": null,
+      "texto": "16"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Thaciano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90"
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Viveros"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.umdoisesportes.com.br/coritiba/coritiba-sao-paulo-resultado-ficha-tecnica-brasileirao/",
     "https://acritica.net/esportes/sao-paulo-vence-coritiba-brasileirao-quinta-vitoria-seguida/"
    ],
@@ -2154,6 +2339,208 @@
      },
      "player": {
       "name": "Cauly"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/neymar-santos-vence-vasco-brasileirao-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/neymar-decide-santos-vence-e-joga-vasco-para-a-lanterna-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000363,
+    "timestamp": 1772143200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Neymar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Cauan Barros"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Neymar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3768178",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/fora-de-casa-santos-arranca-empate-contra-o-mirassol-nos-minutos-finais/"
+   ],
+   "fixture": {
+    "id": 91000364,
+    "timestamp": 1773189000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 5"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 20,
+      "extra": null,
+      "texto": "20"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Igor Formiga"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Negueba"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 87,
+      "extra": null,
+      "texto": "87"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
      },
      "type": "Goal",
      "detail": "Penalty"
@@ -2231,6 +2618,83 @@
      },
      "player": {
       "name": "Lucas Ronier"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3769681",
+    "https://www.dgabc.com.br/Noticia/4290240/memphis-desencanta-mas-santos-e-corinthians-ficam-no-empate"
+   ],
+   "fixture": {
+    "id": 91000365,
+    "timestamp": 1773601200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Memphis Depay"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 21,
+      "extra": null,
+      "texto": "21"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -9068,11 +9532,11 @@
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.47,
-     0.43
+     1.51,
+     0.46
     ],
     "base": [
-     19,
+     20,
      17
     ]
    },
@@ -9145,17 +9609,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 17,
-    "empate": 20,
-    "fora": 63,
-    "placar": "0x2",
+    "casa": 26,
+    "empate": 22,
+    "fora": 52,
+    "placar": "1x1",
     "gols_esperados": [
-     0.98,
-     2.09
+     1.34,
+     1.98
     ],
     "base": [
-     12,
-     10
+     13,
+     11
     ]
    },
    "events": []
@@ -9201,17 +9665,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 37,
-    "empate": 31,
-    "fora": 32,
-    "placar": "1x0",
+    "casa": 38,
+    "empate": 28,
+    "fora": 35,
+    "placar": "1x1",
     "gols_esperados": [
-     1.05,
-     0.94
+     1.24,
+     1.17
     ],
     "base": [
      20,
-     8
+     21
     ]
    },
    "events": []
@@ -9257,17 +9721,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
+    "casa": 59,
     "empate": 21,
-    "fora": 15,
-    "placar": "1x0",
+    "fora": 20,
+    "placar": "1x1",
     "gols_esperados": [
      1.98,
-     0.84
+     1.06
     ],
     "base": [
      10,
-     12
+     13
     ]
    },
    "events": []
@@ -9318,12 +9782,12 @@
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.21,
-     0.85
+     2.19,
+     0.84
     ],
     "base": [
      11,
-     22
+     23
     ]
    },
    "events": []
@@ -9369,17 +9833,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 26,
-    "empate": 33,
+    "casa": 25,
+    "empate": 34,
     "fora": 41,
-    "placar": "0x1",
+    "placar": "0x0",
     "gols_esperados": [
-     0.74,
-     1.03
+     0.69,
+     0.98
     ],
     "base": [
      25,
-     12
+     13
     ]
    },
    "events": []
@@ -9425,16 +9889,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 25,
-    "empate": 24,
-    "fora": 51,
+    "casa": 28,
+    "empate": 26,
+    "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
-     1.08,
-     1.65
+     1.09,
+     1.5
     ],
     "base": [
-     11,
+     13,
      24
     ]
    },
@@ -9481,13 +9945,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
+    "casa": 67,
     "empate": 18,
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.37,
-     1.06
+     2.36,
+     1.04
     ],
     "base": [
      14,
@@ -9537,16 +10001,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 45,
-    "empate": 23,
-    "fora": 31,
+    "casa": 43,
+    "empate": 24,
+    "fora": 34,
     "placar": "1x1",
     "gols_esperados": [
-     1.74,
-     1.41
+     1.66,
+     1.46
     ],
     "base": [
-     10,
+     11,
      24
     ]
    },
@@ -9593,13 +10057,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 24,
-    "empate": 23,
+    "casa": 25,
+    "empate": 24,
     "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
      1.14,
-     1.79
+     1.75
     ],
     "base": [
      11,
@@ -9649,16 +10113,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 29,
+    "casa": 34,
     "empate": 29,
-    "fora": 43,
-    "placar": "0x1",
+    "fora": 37,
+    "placar": "1x1",
     "gols_esperados": [
-     0.98,
-     1.25
+     1.07,
+     1.12
     ],
     "base": [
-     10,
+     11,
      10
     ]
    },
@@ -9706,15 +10170,15 @@
    "escalacoes": {},
    "previsao": {
     "casa": 54,
-    "empate": 28,
-    "fora": 18,
+    "empate": 29,
+    "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.34,
-     0.64
+     1.29,
+     0.58
     ],
     "base": [
-     12,
+     13,
      11
     ]
    },
@@ -9766,8 +10230,8 @@
     "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.7,
-     1.08
+     1.69,
+     1.06
     ],
     "base": [
      13,
@@ -9817,16 +10281,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 14,
-    "empate": 22,
-    "fora": 64,
+    "casa": 19,
+    "empate": 23,
+    "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
-     0.75,
-     1.87
+     0.97,
+     1.84
     ],
     "base": [
-     12,
+     13,
      25
     ]
    },
@@ -9873,16 +10337,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 69,
+    "casa": 70,
     "empate": 18,
-    "fora": 13,
+    "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.27,
-     0.87
+     2.29,
+     0.85
     ],
     "base": [
-     22,
+     23,
      10
     ]
    },
@@ -9929,17 +10393,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
-    "empate": 31,
-    "fora": 26,
+    "casa": 46,
+    "empate": 29,
+    "fora": 24,
     "placar": "1x0",
     "gols_esperados": [
-     1.14,
-     0.81
+     1.24,
+     0.82
     ],
     "base": [
      10,
-     19
+     20
     ]
    },
    "events": []
@@ -9985,17 +10449,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
-    "empate": 20,
-    "fora": 17,
-    "placar": "2x1",
+    "casa": 66,
+    "empate": 19,
+    "fora": 15,
+    "placar": "2x0",
     "gols_esperados": [
-     2.16,
-     1.04
+     2.28,
+     0.99
     ],
     "base": [
      12,
-     10
+     11
     ]
    },
    "events": []
@@ -10041,13 +10505,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 72,
+    "casa": 73,
     "empate": 16,
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
      2.49,
-     0.89
+     0.87
     ],
     "base": [
      24,
@@ -10097,17 +10561,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
-    "empate": 28,
-    "fora": 22,
+    "casa": 46,
+    "empate": 29,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.39,
-     0.81
+     1.26,
+     0.87
     ],
     "base": [
      24,
-     10
+     11
     ]
    },
    "events": []
@@ -10153,16 +10617,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 40,
-    "empate": 28,
-    "fora": 32,
+    "casa": 45,
+    "empate": 25,
+    "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.26,
-     1.08
+     1.59,
+     1.25
     ],
     "base": [
-     8,
+     21,
      14
     ]
    },
@@ -10209,17 +10673,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 23,
-    "fora": 16,
+    "casa": 58,
+    "empate": 25,
+    "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.76,
+     1.63,
      0.75
     ],
     "base": [
      17,
-     11
+     13
     ]
    },
    "events": []
@@ -19768,7 +20232,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.98,
-     0.3
+     0.29
     ],
     "base": [
      12,
@@ -19840,7 +20304,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.04,
-     0.85
+     0.84
     ],
     "base": [
      16,
@@ -19974,17 +20438,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 34,
-    "empate": 36,
-    "fora": 30,
+    "casa": 40,
+    "empate": 35,
+    "fora": 26,
     "placar": "0x0",
     "gols_esperados": [
-     0.8,
-     0.73
+     0.93,
+     0.69
     ],
     "base": [
      19,
-     9
+     11
     ]
    },
    "events": []
@@ -20049,11 +20513,11 @@
    "previsao": {
     "casa": 41,
     "empate": 31,
-    "fora": 29,
+    "fora": 28,
     "placar": "1x0",
     "gols_esperados": [
      1.1,
-     0.87
+     0.86
     ],
     "base": [
      23,
@@ -20119,11 +20583,11 @@
    "previsao": {
     "casa": 70,
     "empate": 19,
-    "fora": 11,
+    "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.02,
-     0.63
+     2.01,
+     0.62
     ],
     "base": [
      17,
@@ -20191,8 +20655,8 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.1,
-     0.91
+     2.09,
+     0.9
     ],
     "base": [
      9,
@@ -27864,6 +28328,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3748376",
+    "https://jornaldebrasilia.com.br/torcida/santos-vira-contra-o-novorizontino-com-gol-de-gabigol-na-estreia-do-paulista/"
+   ],
+   "fixture": {
+    "id": 91000353,
+    "timestamp": 1768071600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900021,
+     "name": "Novorizontino"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 24,
+      "extra": null,
+      "texto": "24"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Diego Galo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 88,
+      "extra": null,
+      "texto": "88"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Thaciano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/?p=3748788",
     "https://www.metropoles.com/esportes/sao-paulo-e-vice-lanterna-veja-resultados-da-1a-rodada-do-paulistao"
    ],
@@ -27946,6 +28503,67 @@
      },
      "player": {
       "name": "José Aldo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4279474/allan-marca-e-palmeiras-derrota-o-santos-em-classico-com-destaque-para-goleiros-no-paulistao",
+    "https://jovempan.com.br/esportes/futebol/palmeiras/palmeiras-vence-o-santos-por-1-a-0-com-gol-de-allan.html"
+   ],
+   "fixture": {
+    "id": 91000354,
+    "timestamp": 1768429800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Barueri",
+     "city": "Barueri"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 40,
+      "extra": null,
+      "texto": "40"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Allan"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -28236,6 +28854,160 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3750956",
+    "https://www.dgabc.com.br/Noticia/4280149/brazao-pega-penalti-barreal-marca-mas-santos-cede-empate-ao-guarani-no-final"
+   ],
+   "fixture": {
+    "id": 91000355,
+    "timestamp": 1768779000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Brinco de Ouro",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900084,
+     "name": "Guarani"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Barreal"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900084,
+      "name": "Guarani"
+     },
+     "player": {
+      "name": "Kewen"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4281035/corinthians-fica-confortavel-com-vantagem-magra-e-ve-gabigol-salvar-santos-com-empate-no-fim",
+    "https://jovempan.com.br/?p=6120"
+   ],
+   "fixture": {
+    "id": 91000356,
+    "timestamp": 1769121000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Yuri Alberto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.oliberal.com/esportes/mirassol-goleia-o-sao-bernardo-fora-de-casa-e-entra-no-g-4-do-paulistao-1.1075789",
     "https://www.terra.com.br/esportes/mirassol/mirassol-volta-a-vencer-no-paulistao-apos-tres-rodadas,1e70638c19dbaceca619b72cf47a8787884dshl9.html"
    ],
@@ -28389,6 +29161,268 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3755314",
+    "https://www.dgabc.com.br/Noticia/4282713/sao-paulo-vence-o-classico-com-autoridade-reage-no-paulistao-e-afunda-o-santos"
+   ],
+   "fixture": {
+    "id": 91000357,
+    "timestamp": 1769902200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Tapia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Luciano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/santos-vence-o-noroeste-com-gol-de-rony-e-respira-no-paulistao/",
+    "https://jornaldebrasilia.com.br/torcida/rony-marca-o-1o-santos-bate-noroeste-foge-da-queda-e-sonha-com-quartas/"
+   ],
+   "fixture": {
+    "id": 91000358,
+    "timestamp": 1770577200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo de Castilho",
+     "city": "Bauru"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900085,
+     "name": "Noroeste"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/com-neymar-santos-goleia-o-velo-clube-e-avanca-as-quartas-do-paulistao/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-02/paulistao-define-classificados-em-volta-de-neymar-e-goleada-do-santos"
+   ],
+   "fixture": {
+    "id": 91000359,
+    "timestamp": 1771198200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 8"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900086,
+     "name": "Velo Clube"
+    }
+   },
+   "goals": {
+    "home": 6,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Moisés"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Thaciano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabriel Menino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Rollheiser"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.saopaulofc.net/sao-paulo-vence-o-red-bull-bragantino-e-avanca-a-semifinal-do-paulistao/",
     "https://abcdoabc.com.br/sao-paulo-quebra-semifinais-do-paulistao-2026/"
    ],
@@ -28471,6 +29505,99 @@
      },
      "player": {
       "name": "Gustavo Marques"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paulistao_a1_2026",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3762705",
+    "https://jornaldebrasilia.com.br/torcida/novorizontino-encontra-gol-nos-acrescimos-e-elimina-o-santos-no-paulistao/"
+   ],
+   "fixture": {
+    "id": 91000360,
+    "timestamp": 1771786800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Jorge Ismael de Biasi",
+     "city": "Novo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Rômulo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabriel Bontempo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Léo Naldi"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -31087,6 +32214,12 @@
     "gols": 4
    },
    {
+    "jogador": "Gabigol",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 3
+   },
+   {
     "jogador": "Kaio Jorge",
     "time": "Cruzeiro",
     "time_id": 900003,
@@ -31132,6 +32265,18 @@
     "jogador": "Mauricio",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 2
+   },
+   {
+    "jogador": "Neymar",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 2
+   },
+   {
+    "jogador": "Viveros",
+    "time": "Athletico-PR",
+    "time_id": 900004,
     "gols": 2
    },
    {
@@ -31228,6 +32373,12 @@
     "jogador": "Carrascal",
     "time": "Flamengo",
     "time_id": 900001,
+    "gols": 1
+   },
+   {
+    "jogador": "Cauan Barros",
+    "time": "Vasco",
+    "time_id": 900013,
     "gols": 1
    },
    {
@@ -31339,6 +32490,12 @@
     "gols": 1
    },
    {
+    "jogador": "Igor Formiga",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 1
+   },
+   {
     "jogador": "Jacy",
     "time": "Coritiba",
     "time_id": 900012,
@@ -31354,6 +32511,12 @@
     "jogador": "John Kennedy",
     "time": "Fluminense",
     "time_id": 900005,
+    "gols": 1
+   },
+   {
+    "jogador": "Julimar",
+    "time": "Athletico-PR",
+    "time_id": 900004,
     "gols": 1
    },
    {
@@ -31453,9 +32616,21 @@
     "gols": 1
    },
    {
+    "jogador": "Memphis Depay",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 1
+   },
+   {
     "jogador": "Mendoza",
     "time": "Athletico-PR",
     "time_id": 900004,
+    "gols": 1
+   },
+   {
+    "jogador": "Negueba",
+    "time": "Mirassol",
+    "time_id": 900015,
     "gols": 1
    },
    {
@@ -31525,6 +32700,12 @@
     "gols": 1
    },
    {
+    "jogador": "Thaciano",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 1
+   },
+   {
     "jogador": "Tiago Cóser",
     "time": "Coritiba",
     "time_id": 900012,
@@ -31534,12 +32715,6 @@
     "jogador": "Tinga",
     "time": "Coritiba",
     "time_id": 900012,
-    "gols": 1
-   },
-   {
-    "jogador": "Viveros",
-    "time": "Athletico-PR",
-    "time_id": 900004,
     "gols": 1
    },
    {
@@ -32985,15 +34160,45 @@
   ],
   "paulistao_a1_2026": [
    {
+    "jogador": "Gabigol",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 4
+   },
+   {
     "jogador": "Jhon Jhon",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
     "gols": 2
    },
    {
+    "jogador": "Thaciano",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 2
+   },
+   {
+    "jogador": "Allan",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Barreal",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 1
+   },
+   {
     "jogador": "D. Bobadilla",
     "time": "São Paulo",
     "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Diego Galo",
+    "time": "Novorizontino",
+    "time_id": 900021,
     "gols": 1
    },
    {
@@ -33018,6 +34223,18 @@
     "jogador": "Flaco López",
     "time": "Palmeiras",
     "time_id": 900002,
+    "gols": 1
+   },
+   {
+    "jogador": "Gabriel Bontempo",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 1
+   },
+   {
+    "jogador": "Gabriel Menino",
+    "time": "Santos",
+    "time_id": 900008,
     "gols": 1
    },
    {
@@ -33051,6 +34268,12 @@
     "gols": 1
    },
    {
+    "jogador": "Kewen",
+    "time": "Guarani",
+    "time_id": 900084,
+    "gols": 1
+   },
+   {
     "jogador": "Lucas",
     "time": "São Paulo",
     "time_id": 900009,
@@ -33060,6 +34283,18 @@
     "jogador": "Lucas Mugni",
     "time": "Mirassol",
     "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Luciano",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Léo Naldi",
+    "time": "Novorizontino",
+    "time_id": 900021,
     "gols": 1
    },
    {
@@ -33075,6 +34310,12 @@
     "gols": 1
    },
    {
+    "jogador": "Moisés",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 1
+   },
+   {
     "jogador": "Pedro Henrique",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
@@ -33084,6 +34325,30 @@
     "jogador": "Renato Marques",
     "time": "Mirassol",
     "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Rollheiser",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 1
+   },
+   {
+    "jogador": "Rômulo",
+    "time": "Novorizontino",
+    "time_id": 900021,
+    "gols": 1
+   },
+   {
+    "jogador": "Tapia",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Yuri Alberto",
+    "time": "Corinthians",
+    "time_id": 900018,
     "gols": 1
    }
   ],

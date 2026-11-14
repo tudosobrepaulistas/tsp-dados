@@ -18,6 +18,12 @@
   "gols": 4
  },
  {
+  "jogador": "Gabigol",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 3
+ },
+ {
   "jogador": "Kaio Jorge",
   "time": "Cruzeiro",
   "time_id": 900003,
@@ -63,6 +69,18 @@
   "jogador": "Mauricio",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 2
+ },
+ {
+  "jogador": "Neymar",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 2
+ },
+ {
+  "jogador": "Viveros",
+  "time": "Athletico-PR",
+  "time_id": 900004,
   "gols": 2
  },
  {
@@ -159,6 +177,12 @@
   "jogador": "Carrascal",
   "time": "Flamengo",
   "time_id": 900001,
+  "gols": 1
+ },
+ {
+  "jogador": "Cauan Barros",
+  "time": "Vasco",
+  "time_id": 900013,
   "gols": 1
  },
  {
@@ -270,6 +294,12 @@
   "gols": 1
  },
  {
+  "jogador": "Igor Formiga",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
   "jogador": "Jacy",
   "time": "Coritiba",
   "time_id": 900012,
@@ -285,6 +315,12 @@
   "jogador": "John Kennedy",
   "time": "Fluminense",
   "time_id": 900005,
+  "gols": 1
+ },
+ {
+  "jogador": "Julimar",
+  "time": "Athletico-PR",
+  "time_id": 900004,
   "gols": 1
  },
  {
@@ -384,9 +420,21 @@
   "gols": 1
  },
  {
+  "jogador": "Memphis Depay",
+  "time": "Corinthians",
+  "time_id": 900018,
+  "gols": 1
+ },
+ {
   "jogador": "Mendoza",
   "time": "Athletico-PR",
   "time_id": 900004,
+  "gols": 1
+ },
+ {
+  "jogador": "Negueba",
+  "time": "Mirassol",
+  "time_id": 900015,
   "gols": 1
  },
  {
@@ -456,6 +504,12 @@
   "gols": 1
  },
  {
+  "jogador": "Thaciano",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 1
+ },
+ {
   "jogador": "Tiago Cóser",
   "time": "Coritiba",
   "time_id": 900012,
@@ -465,12 +519,6 @@
   "jogador": "Tinga",
   "time": "Coritiba",
   "time_id": 900012,
-  "gols": 1
- },
- {
-  "jogador": "Viveros",
-  "time": "Athletico-PR",
-  "time_id": 900004,
   "gols": 1
  },
  {

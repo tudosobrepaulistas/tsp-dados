@@ -1,14 +1,44 @@
 [
  {
+  "jogador": "Gabigol",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 4
+ },
+ {
   "jogador": "Jhon Jhon",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
   "gols": 2
  },
  {
+  "jogador": "Thaciano",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 2
+ },
+ {
+  "jogador": "Allan",
+  "time": "Palmeiras",
+  "time_id": 900002,
+  "gols": 1
+ },
+ {
+  "jogador": "Barreal",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 1
+ },
+ {
   "jogador": "D. Bobadilla",
   "time": "São Paulo",
   "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Diego Galo",
+  "time": "Novorizontino",
+  "time_id": 900021,
   "gols": 1
  },
  {
@@ -33,6 +63,18 @@
   "jogador": "Flaco López",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 1
+ },
+ {
+  "jogador": "Gabriel Bontempo",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 1
+ },
+ {
+  "jogador": "Gabriel Menino",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 1
  },
  {
@@ -66,6 +108,12 @@
   "gols": 1
  },
  {
+  "jogador": "Kewen",
+  "time": "Guarani",
+  "time_id": 900084,
+  "gols": 1
+ },
+ {
   "jogador": "Lucas",
   "time": "São Paulo",
   "time_id": 900009,
@@ -75,6 +123,18 @@
   "jogador": "Lucas Mugni",
   "time": "Mirassol",
   "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "Luciano",
+  "time": "São Paulo",
+  "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Léo Naldi",
+  "time": "Novorizontino",
+  "time_id": 900021,
   "gols": 1
  },
  {
@@ -90,6 +150,12 @@
   "gols": 1
  },
  {
+  "jogador": "Moisés",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 1
+ },
+ {
   "jogador": "Pedro Henrique",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
@@ -99,6 +165,30 @@
   "jogador": "Renato Marques",
   "time": "Mirassol",
   "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "Rollheiser",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 1
+ },
+ {
+  "jogador": "Rômulo",
+  "time": "Novorizontino",
+  "time_id": 900021,
+  "gols": 1
+ },
+ {
+  "jogador": "Tapia",
+  "time": "São Paulo",
+  "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Yuri Alberto",
+  "time": "Corinthians",
+  "time_id": 900018,
   "gols": 1
  }
 ]

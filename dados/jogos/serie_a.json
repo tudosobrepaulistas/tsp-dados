@@ -133,6 +133,127 @@
    }
   },
   {
+   "id": 91000361,
+   "data": "2026-01-28T20:00:00-03:00",
+   "casa": "chapecoense",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 4,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/em-jogo-de-viradas-santos-perde-para-chapecoense-no-brasileirao/",
+    "https://www.dgabc.com.br/Noticia/4282132/santos-leva-3-gols-em-17-minutos-perde-da-chapecoense-no-brasileirao-e-soma-5-tropeco-seguido"
+   ],
+   "atualizado": "2026-11-14T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Gilmar Dal Pozzo",
+     "time": "Léo Vieira; Victor Caetano, Eduardo Doma, João Paulo; Marcos Vinícius, Camilo, Rafael Carvalheira, Giovani Augusto, Walter Clar; Marcinho, Ítalo Vargas",
+     "entraram": [
+      {
+       "jogador": "Robert",
+       "saiu": "João Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton",
+       "saiu": "Marcos Vinícius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Higor Meritão",
+       "saiu": "Camilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Carlos",
+       "saiu": "Giovani Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bolasie",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcos Vinícius",
+        "minuto": ""
+       },
+       {
+        "jogador": "Camilo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Igor Vinícius, Alex Duarte, Luan Peres, Vinícius Lira; João Schmidt, Zé Rafael, Gabriel Menino; Miguelito, Caballero, Lautaro Díaz",
+     "entraram": [
+      {
+       "jogador": "Robinho Jr.",
+       "saiu": "Zé Rafael",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Bontempo",
+       "saiu": "Gabriel Menino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Miguelito",
+       "minuto": ""
+      },
+      {
+       "jogador": "Barreal",
+       "saiu": "Caballero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando Pradella",
+       "saiu": "Lautaro Díaz",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alex Duarte",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Menino",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Brazão",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4282132/santos-leva-3-gols-em-17-minutos-perde-da-chapecoense-no-brasileirao-e-soma-5-tropeco-seguido"
+    ],
+    "atualizado": "2026-11-14T03:36:00-03:00"
+   }
+  },
+  {
    "id": 91000342,
    "data": "2026-02-05T21:30:00-03:00",
    "casa": "cruzeiro",
@@ -395,6 +516,118 @@
    }
   },
   {
+   "id": 91000362,
+   "data": "2026-02-12T19:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Julimar",
+     "minuto": "5",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Thaciano",
+     "minuto": "16",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Viveros",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/santos-leva-gol-no-fim-perde-do-athletico-pr-e-segue-sem-vencer-no-brasileirao/",
+    "https://www.lance.com.br/santos/com-gol-no-fim-athletico-vence-e-mantem-jejum-do-santos.html"
+   ],
+   "atualizado": "2026-11-14T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "",
+     "time": "Santos; Terán, Arthur Dias, Esquivel; Benavídez, Portilla, Zapelli, Léo Derik; Mendoza, Julimar, Viveros",
+     "entraram": [
+      {
+       "jogador": "Luiz Gustavo",
+       "saiu": "Portilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Chiqueti",
+       "saiu": "Julimar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu",
+       "saiu": "Léo Derik",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Igor Vinícius, Zé Ivaldo, Luan Peres, Vinícius Lira; João Schmidt, Gabriel Menino, Gabriel Bontempo; Miguelito, Thaciano, Rony",
+     "entraram": [
+      {
+       "jogador": "Barreal",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lautaro Díaz",
+       "saiu": "Thaciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Moisés",
+       "saiu": "Miguelito",
+       "minuto": ""
+      },
+      {
+       "jogador": "Basso",
+       "saiu": "Rony",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Gabriel Bontempo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Igor Vinícius",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/santos/santos-leva-gol-no-fim-perde-do-athletico-pr-e-segue-sem-vencer-no-brasileirao/"
+    ],
+    "atualizado": "2026-11-14T03:36:00-03:00"
+   }
+  },
+  {
    "id": 91000344,
    "data": "2026-02-25T19:30:00-03:00",
    "casa": "coritiba",
@@ -519,6 +752,267 @@
      "https://www.umdoisesportes.com.br/coritiba/coritiba-sao-paulo-resultado-ficha-tecnica-brasileirao/"
     ],
     "atualizado": "2026-11-13T03:35:00-03:00"
+   }
+  },
+  {
+   "id": 91000363,
+   "data": "2026-02-26T19:00:00-03:00",
+   "casa": "santos",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Neymar",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Cauan Barros",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Neymar",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/neymar-santos-vence-vasco-brasileirao-2026/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/neymar-decide-santos-vence-e-joga-vasco-para-a-lanterna-do-brasileirao/"
+   ],
+   "atualizado": "2026-11-14T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "Gabriel Brazão; Igor Vinícius, Adonis Frías, Luan Peres, Vinícius Lira; Willian Arão, Gabriel Bontempo, Neymar; Moisés, Thaciano, Miguelito",
+     "entraram": [
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Willian Arão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Rafael",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Moisés",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Menino",
+       "saiu": "Thaciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Barreal",
+       "saiu": "Miguelito",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Neymar",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "",
+     "time": "Léo Jardim; Paulo Henrique, Saldivia, Robert Renan, Lucas Piton; Cauan Barros, Thiago Mendes, Rojas; Andrés Gómez, Spinelli, Nuno Moreira",
+     "entraram": [
+      {
+       "jogador": "Cuiabano",
+       "saiu": "Lucas Piton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tchê Tchê",
+       "saiu": "Thiago Mendes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marino Hinestroza",
+       "saiu": "Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "David",
+       "saiu": "Spinelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Nuno Moreira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Thiago Mendes",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/santos/neymar-santos-vence-vasco-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-14T03:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000364,
+   "data": "2026-03-10T21:30:00-03:00",
+   "casa": "mirassol",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "",
+   "grupo": "",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Igor Formiga",
+     "minuto": "20",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Negueba",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gabigol",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gabigol",
+     "minuto": "87",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3768178",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/fora-de-casa-santos-arranca-empate-contra-o-mirassol-nos-minutos-finais/"
+   ],
+   "atualizado": "2026-11-14T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Willian Machado, Reinaldo; Neto Moura, Aldo Filho, Shaylon; Negueba, Alesson, Nathan Fogaça",
+     "entraram": [
+      {
+       "jogador": "Gabriel Pires",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galeano",
+       "saiu": "Negueba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Carioca",
+       "saiu": "Alesson",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Luis",
+       "saiu": "Nathan Fogaça",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Willian Machado",
+        "minuto": ""
+       },
+       {
+        "jogador": "Alesson",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "",
+     "time": "Gabriel Brazão; Igor Vinícius, Adonis Frías, Luan Peres, Vinícius Lira; Willian Arão, João Schmidt, Gabriel Bontempo; Rony, Gabigol, Thaciano",
+     "entraram": [
+      {
+       "jogador": "Zé Ivaldo",
+       "saiu": "Luan Peres",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Menino",
+       "saiu": "Vinícius Lira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Christian Oliva",
+       "saiu": "Willian Arão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Barreal",
+       "saiu": "João Schmidt",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Schmidt",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3768178"
+    ],
+    "atualizado": "2026-11-14T03:36:00-03:00"
    }
   },
   {
@@ -651,6 +1145,42 @@
     ],
     "atualizado": "2026-11-13T03:36:00-03:00"
    }
+  },
+  {
+   "id": 91000365,
+   "data": "2026-03-15T16:00:00-03:00",
+   "casa": "santos",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Memphis Depay",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabigol",
+     "minuto": "21",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3769681",
+    "https://www.dgabc.com.br/Noticia/4290240/memphis-desencanta-mas-santos-e-corinthians-ficam-no-empate"
+   ],
+   "atualizado": "2026-11-14T03:36:00-03:00"
   },
   {
    "id": 91000345,
