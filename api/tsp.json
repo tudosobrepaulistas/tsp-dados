@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T20:12:00-03:00",
+ "gerado": "2026-11-14T20:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -9558,12 +9558,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 64,
     "empate": 25,
     "fora": 11,
     "placar": "1x0",
     "gols_esperados": [
-     1.51,
+     1.52,
      0.47
     ],
     "base": [
@@ -9642,11 +9642,11 @@
    "previsao": {
     "casa": 26,
     "empate": 22,
-    "fora": 53,
+    "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
-     1.34,
-     2.0
+     1.35,
+     1.99
     ],
     "base": [
      13,
@@ -9697,11 +9697,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 38,
-    "empate": 28,
+    "empate": 27,
     "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.24,
+     1.25,
      1.18
     ],
     "base": [
@@ -9757,7 +9757,7 @@
     "fora": 20,
     "placar": "1x1",
     "gols_esperados": [
-     1.99,
+     2.0,
      1.07
     ],
     "base": [
@@ -9813,8 +9813,8 @@
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.2,
-     0.85
+     2.21,
+     0.84
     ],
     "base": [
      11,
@@ -9920,12 +9920,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 27,
+    "casa": 28,
     "empate": 26,
     "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
-     1.09,
+     1.1,
      1.51
     ],
     "base": [
@@ -9981,8 +9981,8 @@
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.37,
-     1.05
+     2.38,
+     1.04
     ],
     "base": [
      14,
@@ -10032,12 +10032,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 42,
+    "casa": 43,
     "empate": 24,
     "fora": 34,
     "placar": "1x1",
     "gols_esperados": [
-     1.67,
+     1.68,
      1.47
     ],
     "base": [
@@ -10089,11 +10089,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 25,
-    "empate": 23,
+    "empate": 24,
     "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
-     1.14,
+     1.15,
      1.76
     ],
     "base": [
@@ -10205,7 +10205,7 @@
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.29,
+     1.3,
      0.58
     ],
     "base": [
@@ -10312,13 +10312,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 19,
-    "empate": 22,
+    "casa": 20,
+    "empate": 23,
     "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
-     0.97,
-     1.86
+     0.98,
+     1.85
     ],
     "base": [
      13,
@@ -10373,7 +10373,7 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.3,
+     2.31,
      0.85
     ],
     "base": [
@@ -10426,11 +10426,11 @@
    "previsao": {
     "casa": 46,
     "empate": 29,
-    "fora": 25,
+    "fora": 24,
     "placar": "1x0",
     "gols_esperados": [
      1.25,
-     0.83
+     0.82
     ],
     "base": [
      10,
@@ -10480,12 +10480,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
+    "casa": 67,
     "empate": 19,
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.29,
+     2.3,
      0.99
     ],
     "base": [
@@ -10541,8 +10541,8 @@
     "fora": 11,
     "placar": "2x0",
     "gols_esperados": [
-     2.49,
-     0.88
+     2.51,
+     0.87
     ],
     "base": [
      24,
@@ -10594,7 +10594,7 @@
    "previsao": {
     "casa": 46,
     "empate": 29,
-    "fora": 26,
+    "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
      1.27,
@@ -10648,12 +10648,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 45,
+    "casa": 46,
     "empate": 25,
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.6,
+     1.61,
      1.26
     ],
     "base": [
@@ -10704,12 +10704,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 58,
-    "empate": 25,
+    "casa": 59,
+    "empate": 24,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.63,
+     1.64,
      0.75
     ],
     "base": [
@@ -20377,14 +20377,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/times/atletico-go/atletico-go-vence-cuiaba-e-conquista-ultima-vaga-nos-playoffs-da-serie-b/",
+    "https://www.dm.com.br/esportes/atletico-go-vence-cuiaba-no-accioly-conta-com-tropecos-de-rivais-e-faz-classico-com-vila-nova-nos-playoffs-da-serie-b/"
    ],
    "fixture": {
     "id": 91000171,
     "timestamp": 1794684600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Antônio Accioly",
@@ -20406,8 +20408,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -20425,21 +20427,25 @@
     "atualizado": "2026-11-11T20:28:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 53,
-    "empate": 37,
-    "fora": 10,
-    "placar": "0x0",
-    "gols_esperados": [
-     0.98,
-     0.27
-    ],
-    "base": [
-     11,
-     9
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Terans"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -20523,14 +20529,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.folhape.com.br/esportes/sport-x-goias/524320/",
+    "https://www.gazetaesportiva.com/times/sport/goias-joga-mal-perde-para-o-sport-e-fica-fora-dos-playoffs-da-serie-b/"
    ],
    "fixture": {
     "id": 91000173,
     "timestamp": 1794684600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Ilha do Retiro",
@@ -20552,8 +20560,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -20574,36 +20582,141 @@
     ],
     "atualizado": "2026-11-11T22:27:00-03:00"
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 41,
-    "empate": 31,
-    "fora": 28,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.1,
-     0.86
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mariano Soso",
+     "time": "Thiago Couto; Augusto Pucci, Marcelo Ajul, Habraão, Edson Lucas; Biel, Patrick de Paula, Carlos de Pena; Diego Hernández, Chrystian Barletta, Perotti",
+     "entraram": [
+      {
+       "jogador": "Claudinho",
+       "saiu": "Augusto Pucci",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patrick",
+       "saiu": "Marcelo Ajul",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Gabriel",
+       "saiu": "Carlos de Pena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando Sobral",
+       "saiu": "Diego Hernández",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Pessoa",
+       "saiu": "Perotti",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Mozart",
+     "time": "Tadeu; Djalma Silva, Luiz Felipe, Lucas Ribeiro, Nicolas; Filipe Machado, Lourenço, Gegê; Cadu, Felipe Clemente, Kadu Sousa",
+     "entraram": [
+      {
+       "jogador": "Rodrigo Soares",
+       "saiu": "Djalma Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Luiz Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Carlos",
+       "saiu": "Gegê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Anselmo Ramon",
+       "saiu": "Felipe Clemente",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo Cunha",
+       "saiu": "Kadu Sousa",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.folhape.com.br/esportes/sport-x-goias/524320/"
     ],
-    "base": [
-     23,
-     12
-    ]
+    "atualizado": "2026-11-14T20:25:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Chrystian Barletta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900027,
+      "name": "Sport"
+     },
+     "player": {
+      "name": "Biel"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf"
+    "https://stcbfsiteprdimgbrs.blob.core.windows.net/img-site/cdn/Tabela_Detalhada_35_a_38_rodada_Brasileiro_Serie_B_2026_1_f9990e396e.pdf",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ceara-empata-crb-garante-permanencia-serie-b/",
+    "https://opovo.com.br/esportes/futebol/times/ceara/2026/11/14/ceara-empata-com-crb-no-rei-pele-e-escapa-de-queda-para-a-serie-c.html"
    ],
    "fixture": {
     "id": 91000174,
     "timestamp": 1794684600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Rei Pelé",
@@ -20625,8 +20738,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -20645,21 +20758,41 @@
     "atualizado": "2026-11-11T20:28:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 70,
-    "empate": 19,
-    "fora": 10,
-    "placar": "2x0",
-    "gols_esperados": [
-     2.02,
-     0.62
-    ],
-    "base": [
-     17,
-     21
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900035,
+      "name": "Ceará"
+     },
+     "player": {
+      "name": "Júlio César"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 87,
+      "extra": null,
+      "texto": "87"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Ygor Catatau"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -32068,48 +32201,62 @@
      ],
      [
       6,
-      900026,
-      "CRB",
-      58,
-      37,
-      17,
-      7,
-      13,
-      6,
-      "",
-      57,
-      51
-     ],
-     [
-      7,
-      900030,
-      "Goiás",
-      58,
-      37,
-      17,
-      7,
-      13,
-      -2,
-      "",
-      39,
-      41
-     ],
-     [
-      8,
       900028,
       "Atlético-GO",
-      58,
-      37,
-      15,
+      61,
+      38,
+      16,
       13,
       9,
-      10,
+      11,
       "",
-      45,
+      46,
       35
      ],
      [
+      7,
+      900026,
+      "CRB",
+      59,
+      38,
+      17,
+      8,
+      13,
+      6,
+      "",
+      58,
+      52
+     ],
+     [
+      8,
+      900030,
+      "Goiás",
+      58,
+      38,
+      17,
+      7,
+      14,
+      -5,
+      "",
+      39,
+      44
+     ],
+     [
       9,
+      900027,
+      "Sport",
+      58,
+      38,
+      15,
+      13,
+      10,
+      11,
+      "",
+      53,
+      42
+     ],
+     [
+      10,
       900029,
       "Operário-PR",
       57,
@@ -32121,20 +32268,6 @@
       "",
       51,
       50
-     ],
-     [
-      10,
-      900027,
-      "Sport",
-      55,
-      37,
-      14,
-      13,
-      10,
-      8,
-      "",
-      50,
-      42
      ],
      [
       11,
@@ -32183,14 +32316,14 @@
       900033,
       "Cuiabá",
       47,
-      37,
+      38,
       11,
       14,
-      12,
-      2,
+      13,
+      1,
       "",
       34,
-      32
+      33
      ],
      [
       15,
@@ -32208,6 +32341,20 @@
      ],
      [
       16,
+      900035,
+      "Ceará",
+      44,
+      38,
+      11,
+      11,
+      16,
+      -9,
+      "",
+      39,
+      48
+     ],
+     [
+      17,
       900037,
       "Avaí",
       43,
@@ -32218,20 +32365,6 @@
       -10,
       "",
       37,
-      47
-     ],
-     [
-      17,
-      900035,
-      "Ceará",
-      43,
-      37,
-      11,
-      10,
-      16,
-      -9,
-      "",
-      38,
       47
      ],
      [
@@ -32819,13 +32952,13 @@
   ],
   "serie_b": [
    {
-    "jogador": "Barletta",
+    "jogador": "Perotti",
     "time": "Sport",
     "time_id": 900027,
-    "gols": 8
+    "gols": 9
    },
    {
-    "jogador": "Perotti",
+    "jogador": "Barletta",
     "time": "Sport",
     "time_id": 900027,
     "gols": 8
@@ -32849,6 +32982,12 @@
     "gols": 4
    },
    {
+    "jogador": "Chrystian Barletta",
+    "time": "Sport",
+    "time_id": 900027,
+    "gols": 3
+   },
+   {
     "jogador": "Danielzinho",
     "time": "CRB",
     "time_id": 900026,
@@ -32868,12 +33007,6 @@
    },
    {
     "jogador": "Carlos de Pena",
-    "time": "Sport",
-    "time_id": 900027,
-    "gols": 2
-   },
-   {
-    "jogador": "Chrystian Barletta",
     "time": "Sport",
     "time_id": 900027,
     "gols": 2
@@ -32984,6 +33117,12 @@
     "jogador": "Badaró",
     "time": "Botafogo-SP",
     "time_id": 900032,
+    "gols": 1
+   },
+   {
+    "jogador": "Biel",
+    "time": "Sport",
+    "time_id": 900027,
     "gols": 1
    },
    {
@@ -33215,6 +33354,12 @@
     "gols": 1
    },
    {
+    "jogador": "Júlio César",
+    "time": "Ceará",
+    "time_id": 900035,
+    "gols": 1
+   },
+   {
     "jogador": "Leandro Maciel",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -33389,6 +33534,12 @@
     "gols": 1
    },
    {
+    "jogador": "Terans",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 1
+   },
+   {
     "jogador": "Thiaguinho",
     "time": "CRB",
     "time_id": 900026,
@@ -33434,6 +33585,12 @@
     "jogador": "Willian",
     "time": "América-MG",
     "time_id": 900039,
+    "gols": 1
+   },
+   {
+    "jogador": "Ygor Catatau",
+    "time": "CRB",
+    "time_id": 900026,
     "gols": 1
    },
    {

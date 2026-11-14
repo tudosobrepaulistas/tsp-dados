@@ -1,12 +1,12 @@
 [
  {
-  "jogador": "Barletta",
+  "jogador": "Perotti",
   "time": "Sport",
   "time_id": 900027,
-  "gols": 8
+  "gols": 9
  },
  {
-  "jogador": "Perotti",
+  "jogador": "Barletta",
   "time": "Sport",
   "time_id": 900027,
   "gols": 8
@@ -30,6 +30,12 @@
   "gols": 4
  },
  {
+  "jogador": "Chrystian Barletta",
+  "time": "Sport",
+  "time_id": 900027,
+  "gols": 3
+ },
+ {
   "jogador": "Danielzinho",
   "time": "CRB",
   "time_id": 900026,
@@ -49,12 +55,6 @@
  },
  {
   "jogador": "Carlos de Pena",
-  "time": "Sport",
-  "time_id": 900027,
-  "gols": 2
- },
- {
-  "jogador": "Chrystian Barletta",
   "time": "Sport",
   "time_id": 900027,
   "gols": 2
@@ -165,6 +165,12 @@
   "jogador": "Badaró",
   "time": "Botafogo-SP",
   "time_id": 900032,
+  "gols": 1
+ },
+ {
+  "jogador": "Biel",
+  "time": "Sport",
+  "time_id": 900027,
   "gols": 1
  },
  {
@@ -396,6 +402,12 @@
   "gols": 1
  },
  {
+  "jogador": "Júlio César",
+  "time": "Ceará",
+  "time_id": 900035,
+  "gols": 1
+ },
+ {
   "jogador": "Leandro Maciel",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -570,6 +582,12 @@
   "gols": 1
  },
  {
+  "jogador": "Terans",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 1
+ },
+ {
   "jogador": "Thiaguinho",
   "time": "CRB",
   "time_id": 900026,
@@ -615,6 +633,12 @@
   "jogador": "Willian",
   "time": "América-MG",
   "time_id": 900039,
+  "gols": 1
+ },
+ {
+  "jogador": "Ygor Catatau",
+  "time": "CRB",
+  "time_id": 900026,
   "gols": 1
  },
  {
