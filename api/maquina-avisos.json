@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-14T15:29-03:00",
+ "gerado": "2026-11-14T18:30-03:00",
  "avisos": [
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-13T12:14-03:00",
-   "motivo": "Cobertura 6h, bloco A3: nenhuma notícia das últimas 48h confirmada em 2 fontes para Catanduva, Rio Preto, Itapirense ou Rio Branco; sem pauta recente na saída",
-   "sugestao": "Técnicos e montagem de elenco da A3 2027: Catanduva, Itapirense e Rio Branco ainda sem treinador anunciado (Futebol Interior, out/2026) — checar sites oficiais"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-13T13:07-03:00",
-   "motivo": "Nada novo nas últimas 48h além do empate com o Athletic e da saída de Bergantin (já publicados); sondagem a Cauan de Almeida só em 1 fonte (Futebol Interior, 10/11)",
-   "sugestao": "Confirmar com o clube o novo técnico para 2027 e a lista de saídas/renovações"
-  },
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-13T13:07-03:00",
-   "motivo": "DGABC (13/11, 08h42) diz que o Azulão iniciou a preparação para a A4 com pré-contratos e gramado do Anacleto recuperado, mas não há 2ª fonte",
-   "sugestao": "Confirmar no Instagram oficial do São Caetano ou no ABC do ABC e publicar: dgabc.com.br/Noticia/4368577"
-  },
-  {
-   "clube": "santoandre",
-   "nome": "Santo André",
-   "quando": "2026-11-13T13:07-03:00",
-   "motivo": "Contratação do volante Renan Areias (ex-Figueirense) só no DGABC (12/11), sem 2ª fonte",
-   "sugestao": "Confirmar no Instagram/site do Santo André e publicar com foto oficial do anúncio"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-13T13:07-03:00",
-   "motivo": "Pautas de 11 e 12/11 já publicadas; nada novo em 48h",
-   "sugestao": "Prévia da votação dos sócios sobre a venda de 90% da SAF, marcada para 19/11"
-  },
   {
    "clube": "ferroviaria",
    "nome": "Ferroviária",
@@ -420,6 +385,41 @@
    "quando": "2026-11-14T15:29-03:00",
    "motivo": "Cobertura 6h (bloco A3): sem notícia confirmada em 2 fontes nas últimas 48h para Catanduva, Rio Preto, Rio Branco e Bandeirante (Bandeirante manteve trio em 10/11, fora da janela)",
    "sugestao": "Rio Preto: montagem do elenco para a A3 2027; Bandeirante: Pedro Nagel e a manutenção de Vitão, Foguinho e Scaramussa (Futebol Interior 10/11) + confirmação no site/rede do clube"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-14T18:30-03:00",
+   "motivo": "Sem notícia nova nas últimas 48h; evergreen bloqueado (clube teve matéria histórica há menos de 14 dias)",
+   "sugestao": "Pauta pronta para um redator: 'Você sabia? Eto'o marcou pelo Comercial e pelo Botafogo-SP no mesmo Come-Fogo' (22/12/2015, 3x3 no Santa Cruz, ação do Twitter com a Fundação Gol de Letra). Fontes: https://www.gazetaesportiva.com/?p=2190441 e https://grandesnomesdapropaganda.com.br/veiculos/29238/ . Foto livre: https://commons.wikimedia.org/wiki/File:Come-Fogo_170.jpg (CC BY-SA 4.0, Anderson Bueno Pereira). Liberar a partir de 20/11."
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-14T18:30-03:00",
+   "motivo": "Nada novo nas últimas 48h além do que o site já publicou (pior campanha, orçamento 2027, Nenê Santana)",
+   "sugestao": "Acompanhar anúncio de técnico e primeiras dispensas/renovações para a A2 e a Série C de 2027 (Hora Campinas, Diário Campineiro, site oficial)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-14T18:30-03:00",
+   "motivo": "Posição final na Série B depende de Juventude x Botafogo-SP (14/11, 16h30), placar ainda não publicado nas fontes às 18h30",
+   "sugestao": "Depois do resultado: São Bernardo termina em 11º (se o Botafogo-SP não vencer) ou 12º (se vencer), com 53 pontos; confirmar em 2 fontes e escrever o balanço da campanha"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-14T18:30-03:00",
+   "motivo": "Sem notícia nova nas últimas 48h (as matérias de contratos e SAF são de 03/11 e 11/11)",
+   "sugestao": "Votação da SAF pelos sócios em 19/11: prévia na véspera com a proposta do grupo de Roberto Graziano"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-14T18:30-03:00",
+   "motivo": "Sem notícia nova nas últimas 48h (saída do Canindé e reforços já publicados)",
+   "sugestao": "Confirmar oficialmente onde a Lusa manda os jogos do Paulistão 2027 (Diadema citada pelo gerente Marco Antonio em 10/11)"
   }
  ]
 }
