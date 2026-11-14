@@ -1,6 +1,6 @@
 # Nota das matérias dos redatores (regra do Thiago, 14/11/2026)
 
-Todo dia às 23h59 o site (plugin TSP Relatório 1.9.7) corrige cada matéria publicada pelos redatores no dia, como um
+Todo dia às 23h59 o site (plugin TSP Relatório 1.9.7+; extrato no painel desde a 1.9.8) corrige cada matéria publicada pelos redatores no dia, como um
 professor de redação, e dá uma nota de 0 a 10. **Custo zero:** roda no próprio WordPress, sem IA e sem serviço pago.
 
 ## Critérios (o "gabarito" do professor)
