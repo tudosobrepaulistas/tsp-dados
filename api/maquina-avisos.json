@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-13T22:11-03:00",
+ "gerado": "2026-11-14T06:54-03:00",
  "avisos": [
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-12T18:16-03:00",
-   "motivo": "Notícia pronta, mas sem foto: nesta execução o ambiente só conseguiu baixar fotos do YouTube (site do Botafogo-SP bloqueado para download) e o canal oficial não foi achado",
-   "sugestao": "Botafogo-SP compra o atacante Wesley em definitivo (contrato até dez/2028) e renova com Gabriel Inocêncio até o fim de 2027: site oficial (botafogofutebolsa.com.br, 12/11) + CBN Ribeirão (12/11)"
-  },
-  {
-   "clube": "noroeste",
-   "nome": "Noroeste",
-   "quando": "2026-11-12T18:16-03:00",
-   "motivo": "Notícia confirmada, mas sem foto do Noroeste que desse para baixar e conferir nesta execução",
-   "sugestao": "Amistoso Noroeste x São Paulo de sexta (13/11) no Alfredo de Castilho foi cancelado pela organizadora AEC por alerta de tempestade do Inmet; reembolso integral pela plataforma de ingressos: CNN Brasil e Gazeta Esportiva (11/11)"
-  },
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-12T20:25-03:00",
-   "motivo": "Cobertura 6h: notícia confirmada hoje (compra definitiva de Wesley até 2028, site oficial + CBN Ribeirão; Patrick Brey e Morelli suspensos contra o Juventude), mas a foto do site oficial não pôde ser baixada nem conferida (site bloqueado para a Máquina) e não achei vídeo oficial com o jogador",
-   "sugestao": "Botafogo-SP compra Wesley em definitivo até 2028 e vai a Caxias sem Patrick Brey e Morelli (fontes: https://botafogofutebolsa.com.br/botafogo-exerce-opcao-e-adquire-o-atacante-wesley-em-definitivo e https://cbnribeirao.com.br/entre-renovacoes-de-atletas-botafogo-sp-mira-preparacao-para-atingir-objetivo-de-chegar-no-top-10-da-serie-b/), foto do Wesley no site oficial"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-12T20:25-03:00",
-   "motivo": "Cobertura 6h: jogo contra o Athletic em andamento (20h desta quinta, Primeiro de Maio); prévia já publicada e sem fato novo confirmado em 2 fontes nas últimas 24h; sem foto oficial acessível",
-   "sugestao": "Resultado de São Bernardo x Athletic (38ª rodada, despedida de Bergantin) e coletiva pós-jogo; depois, busca por novo técnico (Cauan de Almeida e Luizinho Lopes citados pelo Diário do Grande ABC e Futebol Interior, sem acerto)"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-12T21:53-03:00",
-   "motivo": "Cotas 21h43: sem fato novo do profissional nas últimas 48h (pausa da Data Fifa; próximo jogo Vitória x Bragantino em 19/11) e sub-20 já coberto; página do clube sobre semifinais Sub-15/Sub-17 não abre sem JavaScript",
-   "sugestao": "Semifinais dos Paulistas Sub-15 e Sub-17 do Bragantino (Sub-17 contra o Ibrachina): datas e locais na nota do clube redbullbragantino.com/br-pt/noticias/red-bull-bragantino-conhece-detalhes-das-semifinais-dos-paulistas-sub-15-e-sub-17-de-2026; ou prévia de Vitória x Bragantino (19/11, Barradão) com o desfalque de Lucas Barbosa"
-  },
-  {
-   "clube": "juventus",
-   "nome": "Juventus",
-   "quando": "2026-11-12T21:55-03:00",
-   "motivo": "Cotas 21h43: sem fato novo confirmado em 2 fontes nas últimas 48h; a proposta por Patrick Brey (Botafogo-SP) só aparece no WMais",
-   "sugestao": "Juventus faz proposta a Patrick Brey, capitão do Botafogo-SP, para o Paulistão 2027 (wmais.com.br, 12/11): confirmar com o clube ou outro veículo"
-  },
   {
    "clube": "noroeste",
    "nome": "Noroeste",
@@ -420,6 +378,48 @@
    "quando": "2026-11-13T22:11-03:00",
    "motivo": "Sem notícia nova nas últimas 48h; clube já teve matéria histórica nos últimos 14 dias",
    "sugestao": "A partir de 24/11: 'Roberto Carlos começou no União São João' (profissional aos 16 anos, estreia na Seleção em 26/03/1992 ainda pela Arara, Palmeiras em 1993)"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-14T06:54-03:00",
+   "motivo": "Única notícia da semana (Diário do Grande ABC, 13/11) tem só 1 fonte; evergreen bloqueado (história em 05/11)",
+   "sugestao": "São Caetano pediu à Prefeitura a concessão do Anacleto Campanella (pedido em análise), recuperou o gramado e já tem pré-contratos para a A4 2027 (DGABC 13/11: https://www.dgabc.com.br/Noticia/4368577/sao-caetano-inicia-preparacao-para-a-serie-a-4-do-paulista). Confirmar com o clube ou a Prefeitura para ter a 2ª fonte."
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-14T06:54-03:00",
+   "motivo": "Pré-contratos para a A4 só em 1 fonte (CBN Ribeirão, 09/11); evergreen bloqueado (história em 06/11)",
+   "sugestao": "Executivo Ricardo Guedes diz que o Comercial já tem pelo menos 10 pré-contratos para a A4 2027 e conta com 5 a 8 atletas acima de 23 anos (https://cbnribeirao.com.br/comercial-ja-tem-pelo-menos-dez-pre-contratos-assinados-para-a-serie-a4-do-paulista-de-2027/). Falta 2ª fonte: perguntar ao clube ou ver ACidade ON/Revide."
+  },
+  {
+   "clube": "gremio-saocarlense",
+   "nome": "Grêmio São-Carlense",
+   "quando": "2026-11-14T06:54-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias em jornais de São Carlos e na FPF; evergreen bloqueado até 19/11",
+   "sugestao": "Perguntar ao clube sobre técnico e elenco para a A4 2027 (em 01/10 o Futebol Interior listava o Grêmio São-Carlense sem treinador definido)."
+  },
+  {
+   "clube": "taquaritinga",
+   "nome": "Taquaritinga",
+   "quando": "2026-11-14T06:54-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; evergreen bloqueado até 19/11",
+   "sugestao": "Situação do CAT para a A4 2027: técnico, reapresentação e reforços (em 01/10 estava sem treinador definido, segundo o Futebol Interior)."
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-14T06:54-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; evergreen bloqueado até 19/11",
+   "sugestao": "Planejamento do Jacareí para a A4 2027 (técnico e elenco) com o clube ou a imprensa do Vale (PortalR3, Meon)."
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-14T06:54-03:00",
+   "motivo": "Play-in com o São Paulo já coberto (10/11); vídeo de treino da Santos TV não tem falas; evergreen bloqueado até 19/11",
+   "sugestao": "Prévia/coletiva das Sereias às vésperas do play-in de terça (17) no Pacaembu, se o clube publicar entrevista."
   }
  ]
 }
