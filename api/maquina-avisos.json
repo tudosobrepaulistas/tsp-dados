@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-14T06:54-03:00",
+ "gerado": "2026-11-14T10:43-03:00",
  "avisos": [
-  {
-   "clube": "noroeste",
-   "nome": "Noroeste",
-   "quando": "2026-11-12T21:55-03:00",
-   "motivo": "Cotas 21h43: sem fato novo nas últimas 48h; reforços da comissão técnica são de 05/11 e o cancelamento do amistoso com o São Paulo já saiu",
-   "sugestao": "Noroeste: reapresentação do elenco e reforços de jogadores para o Paulistão 2027 (JCNET/96FM Bauru)"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-12T21:55-03:00",
-   "motivo": "Cotas 21h43: sem fato novo nas últimas 48h; sorteio e formato do Paulistão 2027 já cobertos",
-   "sugestao": "Capivariano: elenco que Elio Sizenando monta para o Paulistão 2027 (CBN Campinas, Diário Campineiro)"
-  },
   {
    "clube": "botafogosp",
    "nome": "Botafogo-SP",
@@ -420,6 +406,20 @@
    "quando": "2026-11-14T06:54-03:00",
    "motivo": "Play-in com o São Paulo já coberto (10/11); vídeo de treino da Santos TV não tem falas; evergreen bloqueado até 19/11",
    "sugestao": "Prévia/coletiva das Sereias às vésperas do play-in de terça (17) no Pacaembu, se o clube publicar entrevista."
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-14T10:43-03:00",
+   "motivo": "Bloco A1: sem notícia nova confirmada em 2 fontes nas últimas 48h para Capivariano, Guarani (já muito coberto), Primavera e Juventus; pauta do Noroeste já publicada",
+   "sugestao": "Guarani: data de reapresentação (23/11) e votação da SAF (19/11) quando o clube oficializar; reforços do Juventus para o Paulistão 2027"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-14T10:43-03:00",
+   "motivo": "Bloco A3: sem notícia confirmada nas últimas 48h para Catanduva, Rio Preto, Rio Branco e Bandeirante",
+   "sugestao": "Rio Preto: apresentação do elenco marcada para 2 de dezembro; reforços já em pré-contrato com o técnico João Santos"
   }
  ]
 }
