@@ -119,7 +119,13 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-isaque-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-isaque-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-13",

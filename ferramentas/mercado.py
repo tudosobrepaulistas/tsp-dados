@@ -309,7 +309,21 @@ def cmd_figurinha(a):
         raise SystemExit("id não encontrado")
     destino = API / "figurinhas" / f"{mid}.webp"
     destino.parent.mkdir(parents=True, exist_ok=True)
-    im = Image.open(img).convert("RGB")
+    im = Image.open(img).convert("RGBA")
+    esc = tsp.opc(a, "--escudo")
+    if esc:
+        from PIL import ImageFilter
+        cx, cy = (float(x) for x in tsp.opc(a, "--pos", "0.645,0.665").split(","))
+        e = Image.open(esc).convert("RGBA")
+        w = int(im.width * 0.085)
+        e = e.resize((w, int(w * e.height / e.width)), Image.LANCZOS)
+        sombra = Image.new("RGBA", e.size, (0, 0, 0, 0))
+        sombra.putalpha(e.split()[3].point(lambda v: int(v * 0.45)))
+        sombra = sombra.filter(ImageFilter.GaussianBlur(3))
+        x, y = int(im.width * cx - e.width / 2), int(im.height * cy - e.height / 2)
+        im.alpha_composite(sombra, (x + 3, y + 4))
+        im.alpha_composite(e, (x, y))
+    im = im.convert("RGB")
     lado = min(im.size)
     im = im.crop(((im.width - lado) // 2, 0, (im.width + lado) // 2, lado)).resize((400, 400), Image.LANCZOS)
     im.save(destino, "WEBP", quality=82)
