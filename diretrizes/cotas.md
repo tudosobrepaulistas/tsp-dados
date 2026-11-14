@@ -7,6 +7,7 @@ Todo dia o site precisa ter, **contando redação + Máquina**:
 | 4 grandes | 1 a cada 1h30 (8h às 23h) | tarefa própria (`diretrizes/grandes.md`) |
 | Mirassol + Bragantino | **2 de cada** | 1 de cada até 12h e a 2ª de cada até 18h |
 | Série B (paulistas) | **2 de cada clube** | |
+| Clubes prioritários: Guarani, Ponte Preta, XV de Piracicaba, Portuguesa, Bragantino, Novorizontino, Mirassol, Botafogo-SP e Comercial (Ribeirão Preto) | **2 de cada**, em qualquer divisão | regra de 14/11/2026: vale qualquer autor; 1 até 12h e a 2ª até 18h. Os que já estão em Mirassol + Bragantino ou na Série B contam lá |
 | Futebol feminino | **8** | variando entre as 8 equipes do Paulistão Feminino |
 | Paulistão A1 (clubes fora das Séries A e B) | **8** | |
 | Paulistão A2 | **8** | o clube há mais tempo sem matéria primeiro |
@@ -21,13 +22,13 @@ Se a redação não fez, a Máquina faz. A Máquina nunca passa da conta: só co
 
 1. `python3 ferramentas/maquina.py cotas`. Ele conta o que saiu hoje no site e diz quanto falta **agora**
    (a meta cresce ao longo do dia; às 21h vale a meta cheia). Se disser "tudo em dia", termine.
-2. Ordem: Mirassol + Bragantino → Série B → base → A1 → A2 → A3 → feminino → A4 → sem divisão.
+2. Ordem: Mirassol + Bragantino → Série B → clubes prioritários → base → A1 → A2 → A3 → feminino → A4 → sem divisão.
    No máximo **14 matérias por execução**. Em cada bloco use os clubes listados, na ordem (o mais esquecido primeiro),
    e PRIMEIRO as pautas que aparecem embaixo de cada um (abra os links).
 3. Conteúdo, nesta ordem: notícia das últimas 48h confirmada em 2 fontes → coletiva/nota oficial com link →
    (só A2, A3, A4, sem divisão e feminino) evergreen bem apurado dentro dos limites do `adicionar`
-   (estádio, ídolos, títulos, rivalidades, como o clube está hoje para 2027). Mirassol, Bragantino, Série B e A1:
-   só notícia ou coletiva. Base: jogos, convocações, renovações e destaques das categorias, confirmados.
+   (estádio, ídolos, títulos, rivalidades, como o clube está hoje para 2027). Mirassol, Bragantino, Série B e A1
+   (Guarani e Portuguesa incluídos): só notícia ou coletiva. XV de Piracicaba e Comercial seguem a regra da divisão deles. Base: jogos, convocações, renovações e destaques das categorias, confirmados.
 4. Mesmas regras de sempre (`diretrizes/maquina.md`): foto real com crédito, olhada (Read), `foto.mostra` honesto;
    fontes no rodapé; nada inventado; nada de apostas; sem repetir assunto (`maquina.py historico CLUBE`).
 5. Horário: `"publish_at"` = agora + 5 min, somando 3 min a cada matéria seguinte (dois itens não podem ter o mesmo

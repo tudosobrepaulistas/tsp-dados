@@ -35,5 +35,6 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
    dos grupos que têm clube paulista.
 10. Commit em português: "resultado: Santos 1x2 Palmeiras (serie_a)", "calendário: rodada 34 da Série B", etc.
 11. **Cotas diárias por bloco (12/11/2026):** Mirassol e Bragantino 2 matérias por dia cada (12h e 18h), Série B 2 por clube,
-    feminino 8, A1 8, A2 8, A3 8, A4 8, sem divisão 8, base 4, contando redação + Máquina. Se a redação não fizer, a Máquina completa:
+    feminino 8, A1 8, A2 8, A3 8, A4 8, sem divisão 8, base 4, contando redação + Máquina. **Clubes prioritários (14/11/2026):** Guarani, Ponte Preta, XV de Piracicaba, Portuguesa,
+    Bragantino, Novorizontino, Mirassol, Botafogo-SP e Comercial (RP) têm no mínimo 2 matérias por dia cada, em qualquer divisão e de qualquer autor. Se a redação não fizer, a Máquina completa:
     `python3 ferramentas/maquina.py cotas` e `diretrizes/cotas.md`.

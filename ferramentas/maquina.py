@@ -816,14 +816,27 @@ def cmd_limpar(_a):
 BASE_RE = re.compile(r"\bsub[- ]?(11|13|14|15|17|20|23)\b|categorias? de base", re.I)
 
 
+# Clubes com obrigação de 2 matérias por dia, independente da divisão e do redator (regra do Thiago, 14/11/2026)
+PRIORITARIOS = ["guarani", "pontepreta", "xvdepiracicaba", "portuguesa", "bragantino", "novorizontino", "mirassol",
+                "botafogosp", "comercial"]
+
+
+def achar_slug(cs, s):
+    return any(c["slug"] == s for c in cs)
+
+
 def blocos_cota():
     cs = clubes()["clubes"]
     nac = {c["slug"] for c in cs if c.get("grupo") == "nacional"}
     serie_b = [c["slug"] for c in cs if c.get("divisao") == "Série B"]
+    # 14/11/2026 (regra do Thiago): estes clubes têm no mínimo 2 matérias por dia, qualquer divisão, qualquer autor.
+    # Os que já estão num bloco de 2 por clube (Mirassol/Bragantino, Série B) contam lá, para não repetir a cobrança.
+    fixos = [s for s in PRIORITARIOS if s not in ("mirassol", "bragantino") and s not in serie_b and achar_slug(cs, s)]
     return [
         # (nome, clubes, meta total, mínimo por clube, horários-limite)
         ("Mirassol + Bragantino", ["mirassol", "bragantino"], 4, 2, "1 de cada até 12h e a 2ª de cada até 18h (publish_at 12:00 e 18:00)"),
         ("Série B", serie_b, 2 * len(serie_b), 2, "2 de cada clube por dia"),
+        ("Clubes prioritários (2 por dia)", fixos, 2 * len(fixos), 2, "2 de cada clube por dia, qualquer divisão (1 até 12h, a 2ª até 18h)"),
         ("Futebol feminino", [c["slug"] for c in cs if c.get("grupo") == "feminino"], 8, 0, "8 por dia, variando entre as 8 equipes"),
         ("Paulistão A1 (sem Série A e B)", [x for x in BLOCOS["A1"] if x not in nac], 8, 0, "8 por dia"),
         ("Paulistão A2", [x for x in BLOCOS["A2"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
