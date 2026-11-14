@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-13T21:48-03:00",
+ "gerado": "2026-11-13T22:11-03:00",
  "avisos": [
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-12T14:31-03:00",
-   "motivo": "Cobertura 6h (12/11, 14h30): pauta confirmada no site oficial (último treino em Novo Horizonte antes de viajar; falas de Eduardo Brock e Robson, artilheiro da Série B com 17 gols; Criciúma x Novorizontino sábado 14/11, 16h30, Heriberto Hülse), mas sem foto verificável: site do clube bloqueado para download e as miniaturas da TV Novorizontino são artes.",
-   "sugestao": "Robson, artilheiro da Série B com 17 gols, vê título 'muito vivo' contra o Criciúma: usar a matéria oficial (gremionovorizontino.com.br/2026/11/12/novorizontino-faz-ultimo-treino-em-nh-e-segue-para-duelo-que-vale-o-titulo-da-serie-b-contra-o-criciuma/) e o vídeo PRÉ-JOGO (youtube.com/watch?v=xiyNu0m0_0M), com foto do treino de 12/11 (Juan Rodrigues/Novorizontino)."
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-12T14:31-03:00",
-   "motivo": "Cobertura 6h (12/11, 14h30): pauta confirmada (volta da semifinal do Paulista Sub-20 contra o Corinthians hoje às 15h no CPD de Atibaia; Braga venceu a ida por 1 a 0 com gol de Luís Gustavo e joga pelo empate), mas sem foto verificável: site do Red Bull Bragantino bloqueado para leitura e download e só há fotos de jornal (Jogada10) do jogo de ida.",
-   "sugestao": "Resultado da semifinal do Paulista Sub-20 Bragantino x Corinthians (hoje, 15h, Atibaia) com foto oficial do clube (Ari Ferreira/Bruno Sousa/Red Bull Bragantino). Fontes: site oficial do Bragantino, Terra e Central do Timão."
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-12T17:42-03:00",
-   "motivo": "Data FIFA sem jogo da Série A; Paulistão 2027 já coberto; resultado da semifinal do Paulista Sub-20 (Bragantino x Corinthians, 12/11 em Atibaia, Corinthians avançou nos pênaltis segundo sites de torcida) ainda sem confirmação em 2 fontes aceitas",
-   "sugestao": "Bragantino x Corinthians Sub-20: Massa Bruta cai nos pênaltis em Atibaia e fica fora da final do Paulista (conferir placar e cobranças no site do Bragantino e na Gazeta Esportiva/ge)"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-12T17:43-03:00",
-   "motivo": "Bloco A1: sem notícia nova confirmada em 2 fontes nas últimas 48h para Capivariano, Juventus, Primavera e Noroeste (sorteio do Paulistão já coberto; Juventus x Patrick Brey só em 1 fonte anônima; interesse em Ítalo Carvalho é de 10/11)",
-   "sugestao": "Juventus-SP: proposta por Patrick Brey (Botafogo-SP) e interesse em Ítalo Carvalho (Paysandu) - conferir com o clube ou um 2º veículo"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-12T18:01-03:00",
-   "motivo": "Cota 18h: a única notícia das últimas 48h com 2 fontes (eliminação do Sub-20) já foi usada; site oficial não abre no leitor e não há outro fato novo confirmado (interesse no lateral Lorenzo, do Cuiabá, só tem 1 fonte)",
-   "sugestao": "Coletiva/treino do profissional na Data Fifa antes do Internacional (29/11, Beira-Rio) ou semifinal do Paulista Sub-15 contra o Mirassol"
-  },
   {
    "clube": "botafogosp",
    "nome": "Botafogo-SP",
@@ -420,6 +385,41 @@
    "quando": "2026-11-13T21:48-03:00",
    "motivo": "Série B encerrada em 12/11 (2x2 com Athletic já publicado); nas últimas 48h só especulação sobre novo técnico (Cauan de Almeida, sem acerto), sem 2ª fonte nem nota oficial",
    "sugestao": "Quando o clube anunciar o substituto de Vinícius Bergantin ou a lista de saídas/renovações para o Paulistão 2027, matéria com a nota oficial"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-13T22:01-03:00",
+   "motivo": "Notícia confirmada (João Paulo deixa o Guarani, 13/11, Hora Campinas e Futebol Interior), mas sem foto livre acessível do jogador para a Máquina",
+   "sugestao": "Redator: matéria da saída do meia João Paulo (16 jogos, 4 gols, 3 assistências) com foto do Guarani FC (Raphael Silvestre)"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-13T22:01-03:00",
+   "motivo": "Sem notícia nova confirmada nas últimas 48h (só a tabela do Paulistão 2027, já publicada)",
+   "sugestao": "Data da reapresentação e reforços do Capivariano para o Paulistão 2027, com Elio Sizenando"
+  },
+  {
+   "clube": "primavera",
+   "nome": "Primavera",
+   "quando": "2026-11-13T22:01-03:00",
+   "motivo": "Sem notícia nova confirmada nas últimas 48h além das já publicadas (centenário, zagueiro ex-Botafogo-SP)",
+   "sugestao": "Confirmação oficial do zagueiro ex-Botafogo-SP e data da reapresentação do Primavera"
+  },
+  {
+   "clube": "saojose",
+   "nome": "São José",
+   "quando": "2026-11-13T22:11-03:00",
+   "motivo": "Sem notícia nova nas últimas 48h; limite de 2 evergreen da A2 no dia já cheio",
+   "sugestao": "Guia do Estádio Martins Pereira (inaugurado em 15/03/1970 com gol de Dadá Maravilha; 12.234 lugares; reforma de 2013), foto CC0 no Wikimedia Commons de São José 1x1 São Bento"
+  },
+  {
+   "clube": "uniao-sao-joao",
+   "nome": "União São João",
+   "quando": "2026-11-13T22:11-03:00",
+   "motivo": "Sem notícia nova nas últimas 48h; clube já teve matéria histórica nos últimos 14 dias",
+   "sugestao": "A partir de 24/11: 'Roberto Carlos começou no União São João' (profissional aos 16 anos, estreia na Seleção em 26/03/1992 ainda pela Arara, Palmeiras em 1993)"
   }
  ]
 }
