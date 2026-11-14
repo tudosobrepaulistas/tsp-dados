@@ -38,7 +38,13 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-neto-berola-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-neto-berola-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/ituano-anuncia-retorno-atacante-para-2027/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-13",
@@ -62,26 +68,38 @@
     "gols": 9,
     "clube": "Sertãozinho",
     "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   },
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luketa-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/artilheiro-serie-a2-luketa-sertaozinho/",
+    "ia": true
    }
   },
   {
-   "data": "2026-11-13",
+   "data": "2026-10-28",
    "jogador": "Luiz Henrique",
    "posicao": "Lateral",
-   "de": "",
-   "de_slug": "",
+   "de": "Noroeste",
+   "de_slug": "noroeste",
    "para": "Ituano",
    "para_slug": "ituano",
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "",
+   "obs": "Pré-contrato; ex-Bahia e Mirassol",
    "fontes": [
+    "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
-   "anuncio_do_clube": true,
    "id": "2026-11-13-luiz-henrique-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luiz-henrique-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-13",
@@ -147,23 +165,34 @@
    "atualizado": "2026-11-14T03:11:00-03:00"
   },
   {
-   "data": "2026-11-13",
+   "data": "2026-11-02",
    "jogador": "Eduardo Henrique",
    "posicao": "Zagueiro",
-   "de": "",
+   "de": "Floresta",
    "de_slug": "",
    "para": "Ituano",
    "para_slug": "ituano",
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "",
+   "obs": "Pré-contrato; 20 jogos pelo Floresta em 2026",
    "fontes": [
+    "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
-   "anuncio_do_clube": true,
    "id": "2026-11-13-eduardo-henrique-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-14T03:11:00-03:00",
+   "numeros_2026": {
+    "jogos": 20,
+    "clube": "Floresta",
+    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/"
+   },
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-eduardo-henrique-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-12",
