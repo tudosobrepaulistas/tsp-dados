@@ -38,3 +38,6 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
     feminino 8, A1 8, A2 8, A3 8, A4 8, sem divisão 8, base 4, contando redação + Máquina. **Clubes prioritários (14/11/2026):** Guarani, Ponte Preta, XV de Piracicaba, Portuguesa,
     Bragantino, Novorizontino, Mirassol, Botafogo-SP e Comercial (RP) têm no mínimo 2 matérias por dia cada, em qualquer divisão e de qualquer autor. Se a redação não fizer, a Máquina completa:
     `python3 ferramentas/maquina.py cotas` e `diretrizes/cotas.md`.
+12. **Nota das matérias (14/11/2026):** todo dia às 23h59 o site dá nota de 0 a 10 a cada matéria de redator (veracidade, lide,
+    clareza, profundidade, português, SEO, AEO, GEO), com ranking e relatório por redator. Roda no site, sem custo: `diretrizes/notas.md`.
+    Os apontamentos do editor-chefe derrubam a nota da matéria: aponte com cuidado (só com 2 fontes).

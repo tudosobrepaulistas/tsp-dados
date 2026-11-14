@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-13T16:40-03:00",
+ "gerado": "2026-11-14T02:25-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.8.8",
@@ -13,9 +13,9 @@
    "notas": "\"Eu faço\" já abre a matéria com o clube marcado e a pauta numa caixa ao lado; novo quadro \"Minhas pautas\" no topo da tela Aprovação (Escrever/Continuar/Devolver)."
   },
   "tsp-relatorio": {
-   "versao": "1.9.6",
-   "zip": "tsp-relatorio-1.9.6.zip",
-   "notas": "Pautas de todos os clubes para o administrador; pauta feita por ele ou pela Máquina sai da lista dos redatores; pautas pedidas pela Máquina vão para quem cobre o clube. Audiência e ranking."
+   "versao": "1.9.7",
+   "zip": "tsp-relatorio-1.9.7.zip",
+   "notas": "Nota de 0 a 10 de cada matéria de redator todo dia às 23h59 (veracidade, lide, clareza, profundidade, português, SEO, AEO e GEO), ranking e relatório individual em Relatório → 🎓 Notas, aviso diário a cada redator com a correção e caixa da nota no painel. Sem custo: roda no próprio site."
   },
   "tsp-audio": {
    "versao": "1.1.0",
