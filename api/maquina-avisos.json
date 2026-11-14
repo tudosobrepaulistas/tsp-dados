@@ -1,13 +1,6 @@
 {
- "gerado": "2026-11-13T20:35-03:00",
+ "gerado": "2026-11-13T21:48-03:00",
  "avisos": [
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-12T14:31-03:00",
-   "motivo": "Cobertura 6h (12/11, 14h30): pauta confirmada (Ponte Preta x Operário-PR hoje às 19h no Ítalo Mário Limongi, Indaiatuba, última rodada; Vinicius Ferrari e Danilo Barcelos voltam de suspensão; só a vitória evita a pior pontuação da história da Série B), mas sem foto de jogo verificável: site da Ponte e Hora Campinas bloqueados para download e o canal PonTV está parado desde setembro.",
-   "sugestao": "Prévia/resultado de Ponte Preta x Operário-PR (hoje, 19h, Indaiatuba), com foto de jogo da Ponte Press. Fontes: Hora Campinas (horacampinas.com.br/ponte-preta-se-despede-da-temporada-2026-contra-o-operario-nesta-quinta-feira/) e VAVEL/A Rede."
-  },
   {
    "clube": "novorizontino",
    "nome": "Novorizontino",
@@ -420,6 +413,13 @@
    "quando": "2026-11-13T20:35-03:00",
    "motivo": "Bloco A3 sem matéria: a Máquina não conseguiu abrir fotos dos clubes (sites de imagem bloqueados nesta execução), então não publicou",
    "sugestao": "Bloco A3: Rio Branco e Rio Preto têm anúncios de reforços para a A3 2027 (Futebol Interior); conferir 2ª fonte e foto do clube"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-13T21:48-03:00",
+   "motivo": "Série B encerrada em 12/11 (2x2 com Athletic já publicado); nas últimas 48h só especulação sobre novo técnico (Cauan de Almeida, sem acerto), sem 2ª fonte nem nota oficial",
+   "sugestao": "Quando o clube anunciar o substituto de Vinícius Bergantin ou a lista de saídas/renovações para o Paulistão 2027, matéria com a nota oficial"
   }
  ]
 }
