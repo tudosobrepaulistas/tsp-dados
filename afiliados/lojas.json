@@ -46,7 +46,9 @@
     "Não. O Tudo Sobre Paulista é um site de notícias e não vende produtos. A vitrine recomenda itens de lojas parceiras por meio de links de afiliado; a compra, a entrega e a troca são feitas pela loja vendedora."
    ]
   ],
-  "min_vendas": 30
+  "min_vendas": 30,
+  "apelido": "Verdão",
+  "titulo_pagina": "Achadinhos do Verdão: produtos oficiais do Palmeiras"
  },
  "corinthians": {
   "nome": "Corinthians",
@@ -95,7 +97,9 @@
     "O Tudo Sobre Paulista é a loja oficial do Corinthians?",
     "Não. O Tudo Sobre Paulista é um site de notícias e não vende produtos. A vitrine recomenda itens de lojas parceiras por meio de links de afiliado; a compra, a entrega e a troca são feitas pela loja vendedora."
    ]
-  ]
+  ],
+  "apelido": "Timão",
+  "titulo_pagina": "Achadinhos do Timão: produtos oficiais do Corinthians"
  },
  "sao-paulo": {
   "nome": "São Paulo",
@@ -144,7 +148,9 @@
     "O Tudo Sobre Paulista é a loja oficial do São Paulo?",
     "Não. O Tudo Sobre Paulista é um site de notícias e não vende produtos. A vitrine recomenda itens de lojas parceiras por meio de links de afiliado; a compra, a entrega e a troca são feitas pela loja vendedora."
    ]
-  ]
+  ],
+  "apelido": "Tricolor",
+  "titulo_pagina": "Achadinhos do Tricolor: produtos oficiais do São Paulo"
  },
  "santos": {
   "nome": "Santos",
@@ -189,6 +195,8 @@
     "O Tudo Sobre Paulista é a loja oficial do Santos?",
     "Não. O Tudo Sobre Paulista é um site de notícias e não vende produtos. A vitrine recomenda itens de lojas parceiras por meio de links de afiliado; a compra, a entrega e a troca são feitas pela loja vendedora."
    ]
-  ]
+  ],
+  "apelido": "Peixe",
+  "titulo_pagina": "Achadinhos do Peixe: produtos oficiais do Santos"
  }
 }
