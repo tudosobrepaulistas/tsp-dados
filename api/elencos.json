@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T18:41:00-03:00",
+ "gerado": "2026-11-15T18:49:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3163,7 +3163,12 @@
     {
      "nome": "Júlio Vaz",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-julio-vaz-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4464,7 +4469,12 @@
     {
      "nome": "Vinicius Sousa",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-vinicius-sousa-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "jogos": 18,
@@ -4505,7 +4515,12 @@
     {
      "nome": "Pedro Da Dalto",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-pedro-da-dalto-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],

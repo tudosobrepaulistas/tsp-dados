@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T18:41:00-03:00",
+ "gerado": "2026-11-15T18:49:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -1722,7 +1722,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-vinicius-sousa-rio-claro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
@@ -1815,7 +1820,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-pedro-da-dalto-rio-claro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
@@ -4017,7 +4027,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-julio-vaz-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027",
+    "ia": true
+   },
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027"
    ],
