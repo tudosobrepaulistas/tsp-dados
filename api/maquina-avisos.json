@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-14T20:42-03:00",
+ "gerado": "2026-11-14T22:04-03:00",
  "avisos": [
-  {
-   "clube": "bandeirante",
-   "nome": "Bandeirante",
-   "quando": "2026-11-13T13:07-03:00",
-   "motivo": "Sem notícia em 48h e sem foto livre do estádio Pedro Marin Berbel (Wikimedia bloqueado nesta execução)",
-   "sugestao": "Guia do Pedro Marin Berbel com foto do clube; rascunho pronto com fontes O Curioso do Futebol e Birigui Notícias da Hora"
-  },
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-13T13:07-03:00",
-   "motivo": "Sem notícia em 48h; evergreen já usado em 05/11",
-   "sugestao": "Confirmar o técnico de 2027 (jornalpp: 'Grêmio São-carlense começa a projetar temporada 2027')"
-  },
   {
    "clube": "santos-feminino",
    "nome": "Santos Feminino",
@@ -420,6 +406,20 @@
    "quando": "2026-11-14T20:42-03:00",
    "motivo": "Cobertura 6h bloco A1 (14/11): pautas do bloco já publicadas (Noroeste) ou sem fato novo em 48h (Guarani SAF dia 19, Capivariano, Primavera, Juventus)",
    "sugestao": "Véspera da votação da SAF do Guarani (19/11): o que os sócios decidem e o que muda para o Paulistão 2027"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-14T22:04-03:00",
+   "motivo": "sem notícia nova confirmada nas últimas 48h; evergreen bloqueado (limite A2 do dia e história nos últimos 14 dias)",
+   "sugestao": "XV completa 113 anos neste domingo, 15/11 (fundado em 15/11/1913, fusão de Vergueirense e 12 de Outubro): matéria de aniversário com programação do clube, se houver, e foto oficial"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-14T22:04-03:00",
+   "motivo": "sem notícia nova confirmada nas últimas 48h (Cesinha, Romarinho, camisa IV e Paulistão já publicados)",
+   "sugestao": "conferir no site e Instagram oficiais da Lusa novos reforços ou renovações para o Paulistão 2027"
   }
  ]
 }
