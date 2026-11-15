@@ -18,6 +18,12 @@
   "gols": 4
  },
  {
+  "jogador": "Bruno Duarte",
+  "time": "Vasco",
+  "time_id": 900013,
+  "gols": 3
+ },
+ {
   "jogador": "Gabigol",
   "time": "Santos",
   "time_id": 900008,
@@ -153,12 +159,6 @@
   "jogador": "Braithwaite",
   "time": "Grêmio",
   "time_id": 900017,
-  "gols": 1
- },
- {
-  "jogador": "Bruno Duarte",
-  "time": "Vasco",
-  "time_id": 900013,
   "gols": 1
  },
  {

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T22:15:00-03:00",
+ "gerado": "2026-11-14T23:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -142,6 +142,17 @@
      "gc": 39
     },
     {
+     "id": 900013,
+     "nome": "Vasco",
+     "pts": 44,
+     "j": 34,
+     "v": 12,
+     "e": 8,
+     "d": 14,
+     "gp": 45,
+     "gc": 50
+    },
+    {
      "id": 900011,
      "nome": "Botafogo",
      "pts": 42,
@@ -162,17 +173,6 @@
      "d": 14,
      "gp": 40,
      "gc": 51
-    },
-    {
-     "id": 900013,
-     "nome": "Vasco",
-     "pts": 41,
-     "j": 33,
-     "v": 11,
-     "e": 8,
-     "d": 14,
-     "gp": 43,
-     "gc": 50
     },
     {
      "id": 900015,
@@ -244,23 +244,15 @@
      "id": 900020,
      "nome": "Chapecoense",
      "pts": 21,
-     "j": 33,
+     "j": 34,
      "v": 4,
      "e": 9,
-     "d": 20,
+     "d": 21,
      "gp": 33,
-     "gc": 68
+     "gc": 70
     }
    ],
    "jogos": [
-    {
-     "id": 91000165,
-     "rodada": "21",
-     "data": "2026-11-14T20:30",
-     "casa": 900020,
-     "fora": 900013,
-     "a_confirmar": false
-    },
     {
      "id": 91000146,
      "rodada": "35",
@@ -1102,6 +1094,12 @@
      900006,
      0,
      0
+    ],
+    [
+     900020,
+     900013,
+     0,
+     2
     ]
    ]
   }
@@ -9632,14 +9630,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/vasco/cbf-define-data-de-jogo-atrasado-do-vasco-no-brasileirao.html"
+    "https://www.lance.com.br/vasco/cbf-define-data-de-jogo-atrasado-do-vasco-no-brasileirao.html",
+    "https://www.gazetaesportiva.com/times/vasco/com-dois-de-bruno-duarte-vasco-vence-a-chape-e-se-afasta-do-z4-do-brasileirao/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileiro-vasco-derrota-a-chapecoense-e-deixa-luta-contra-o-z-4-para-tras/"
    ],
    "fixture": {
     "id": 91000165,
     "timestamp": 1794699000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Condá",
@@ -9661,8 +9661,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -9693,21 +9693,41 @@
     "atualizado": "2026-11-11T22:27:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 26,
-    "empate": 22,
-    "fora": 52,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.35,
-     2.0
-    ],
-    "base": [
-     13,
-     11
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Bruno Duarte"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Bruno Duarte"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -9756,7 +9776,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.25,
-     1.18
+     1.19
     ],
     "base": [
      20,
@@ -9806,17 +9826,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 59,
+    "casa": 61,
     "empate": 21,
-    "fora": 20,
-    "placar": "2x1",
+    "fora": 18,
+    "placar": "2x0",
     "gols_esperados": [
-     2.0,
-     1.07
+     2.01,
+     1.0
     ],
     "base": [
      10,
-     13
+     14
     ]
    },
    "events": []
@@ -9924,7 +9944,7 @@
     "placar": "0x0",
     "gols_esperados": [
      0.69,
-     0.98
+     0.99
     ],
     "base": [
      25,
@@ -9974,13 +9994,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 28,
+    "casa": 27,
     "empate": 26,
     "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
      1.1,
-     1.51
+     1.52
     ],
     "base": [
      13,
@@ -10035,7 +10055,7 @@
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.39,
+     2.38,
      1.05
     ],
     "base": [
@@ -10086,16 +10106,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
-    "empate": 23,
-    "fora": 34,
+    "casa": 46,
+    "empate": 24,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.68,
-     1.47
+     1.71,
+     1.36
     ],
     "base": [
-     11,
+     12,
      24
     ]
    },
@@ -10148,7 +10168,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.15,
-     1.76
+     1.77
     ],
     "base": [
      11,
@@ -10203,8 +10223,8 @@
     "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
-     1.08,
-     1.12
+     1.07,
+     1.13
     ],
     "base": [
      11,
@@ -10260,7 +10280,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.3,
-     0.58
+     0.59
     ],
     "base": [
      13,
@@ -10316,7 +10336,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.71,
-     1.06
+     1.07
     ],
     "base": [
      13,
@@ -10366,16 +10386,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 20,
+    "casa": 18,
     "empate": 22,
-    "fora": 58,
+    "fora": 60,
     "placar": "0x1",
     "gols_esperados": [
-     0.98,
-     1.86
+     0.91,
+     1.87
     ],
     "base": [
-     13,
+     14,
      25
     ]
    },
@@ -10427,8 +10447,8 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.32,
-     0.85
+     2.31,
+     0.86
     ],
     "base": [
      23,
@@ -10534,17 +10554,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
-    "empate": 18,
-    "fora": 15,
-    "placar": "2x0",
+    "casa": 62,
+    "empate": 20,
+    "fora": 17,
+    "placar": "2x1",
     "gols_esperados": [
-     2.3,
-     0.99
+     2.11,
+     1.01
     ],
     "base": [
      12,
-     11
+     12
     ]
    },
    "events": []
@@ -10648,11 +10668,11 @@
    "previsao": {
     "casa": 46,
     "empate": 29,
-    "fora": 25,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
      1.27,
-     0.87
+     0.88
     ],
     "base": [
      24,
@@ -10702,8 +10722,8 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
-    "empate": 24,
+    "casa": 45,
+    "empate": 25,
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
@@ -10759,12 +10779,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 57,
-    "empate": 25,
+    "empate": 26,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
      1.55,
-     0.71
+     0.72
     ],
     "base": [
      18,
@@ -32039,6 +32059,20 @@
      ],
      [
       11,
+      900013,
+      "Vasco",
+      44,
+      34,
+      12,
+      8,
+      14,
+      -5,
+      "",
+      45,
+      50
+     ],
+     [
+      12,
       900011,
       "Botafogo",
       42,
@@ -32052,7 +32086,7 @@
       53
      ],
      [
-      12,
+      13,
       900012,
       "Coritiba",
       42,
@@ -32064,20 +32098,6 @@
       "",
       40,
       51
-     ],
-     [
-      13,
-      900013,
-      "Vasco",
-      41,
-      33,
-      11,
-      8,
-      14,
-      -7,
-      "",
-      43,
-      50
      ],
      [
       14,
@@ -32168,14 +32188,14 @@
       900020,
       "Chapecoense",
       21,
-      33,
+      34,
       4,
       9,
-      20,
-      -35,
+      21,
+      -37,
       "",
       33,
-      68
+      70
      ]
     ]
    ]
@@ -32488,6 +32508,12 @@
     "gols": 4
    },
    {
+    "jogador": "Bruno Duarte",
+    "time": "Vasco",
+    "time_id": 900013,
+    "gols": 3
+   },
+   {
     "jogador": "Gabigol",
     "time": "Santos",
     "time_id": 900008,
@@ -32623,12 +32649,6 @@
     "jogador": "Braithwaite",
     "time": "Grêmio",
     "time_id": 900017,
-    "gols": 1
-   },
-   {
-    "jogador": "Bruno Duarte",
-    "time": "Vasco",
-    "time_id": 900013,
     "gols": 1
    },
    {

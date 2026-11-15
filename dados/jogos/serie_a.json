@@ -6101,22 +6101,37 @@
    "data": "2026-11-14T20:30:00-03:00",
    "casa": "chapecoense",
    "fora": "vasco",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "21",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Condá",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Bruno Duarte",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bruno Duarte",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://www.lance.com.br/vasco/cbf-define-data-de-jogo-atrasado-do-vasco-no-brasileirao.html"
+    "https://www.lance.com.br/vasco/cbf-define-data-de-jogo-atrasado-do-vasco-no-brasileirao.html",
+    "https://www.gazetaesportiva.com/times/vasco/com-dois-de-bruno-duarte-vasco-vence-a-chape-e-se-afasta-do-z4-do-brasileirao/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileiro-vasco-derrota-a-chapecoense-e-deixa-luta-contra-o-z-4-para-tras/"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-14T23:10:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
