@@ -91,20 +91,27 @@ CSS = """<style>
 .tspl-av{display:flex;gap:8px;align-items:flex-start;font-size:12.5px;color:#5b4a00;background:#fff8d9;border:1px solid #f1e3a3;border-radius:10px;padding:8px 12px;margin:0 0 14px}
 .tspl-av a{color:inherit}
 .tspl-bn{position:relative;margin:0 0 14px}
-.tspl-bn-tr{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;border-radius:16px}
+.tspl-bn-tr{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;border-radius:14px}
 .tspl-bn-tr::-webkit-scrollbar{display:none}
-.tspl-bn a{flex:0 0 100%;scroll-snap-align:start;display:flex;align-items:center;gap:14px;min-height:190px;padding:18px 20px;text-decoration:none;color:#fff;background:radial-gradient(circle at 85% 50%,rgba(255,255,255,.22) 0,rgba(255,255,255,0) 45%),linear-gradient(120deg,var(--cor),#0b0b0b)}
-.tspl-bn .tx{flex:1;min-width:0}
-.tspl-bn .ey{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;background:rgba(255,255,255,.16);border-radius:6px;padding:3px 7px;margin:0 0 8px}
-.tspl-bn strong{display:block;font-size:24px;line-height:1.15;margin:0 0 6px}
-.tspl-bn .sb{display:block;font-size:14px;opacity:.92;margin:0 0 10px}
-.tspl-bn .cta{display:inline-flex;align-items:center;gap:8px;background:#fff;color:#111;border-radius:999px;padding:8px 14px;font-weight:800;font-size:14px}
-.tspl-bn .cta b{color:var(--cor)}
-.tspl-bn img{flex:none;width:160px;height:160px;object-fit:contain;background:#fff;border-radius:50%;padding:12px;margin:0;box-shadow:0 8px 24px rgba(0,0,0,.35)}
-.tspl-bn-dots{position:absolute;left:0;right:0;bottom:8px;display:flex;justify-content:center;gap:6px}
-.tspl-bn-dots button{width:8px;height:8px;border-radius:50%;border:0;padding:0;background:rgba(255,255,255,.5);cursor:pointer}
-.tspl-bn-dots button[aria-current=true]{background:#fff;width:20px;border-radius:4px}
-@media(max-width:560px){.tspl-bn a{min-height:170px;padding:14px}.tspl-bn strong{font-size:18px}.tspl-bn .sb{font-size:12.5px}.tspl-bn img{width:104px;height:104px;padding:8px}}
+.tspl-bn figure{flex:0 0 100%;scroll-snap-align:start;margin:0;position:relative}
+.tspl-bn a{display:grid;grid-template-columns:1.25fr 1fr;align-items:center;min-height:300px;padding:26px 30px 34px;text-decoration:none;color:#fff;background:var(--cor);overflow:hidden;position:relative}
+.tspl-bn a:before{content:"";position:absolute;right:-6%;top:50%;width:62%;aspect-ratio:1;transform:translateY(-50%);background:radial-gradient(circle,rgba(255,255,255,.55) 0,rgba(255,255,255,.18) 38%,rgba(255,255,255,0) 68%)}
+.tspl-bn .tx{position:relative;z-index:1;min-width:0}
+.tspl-bn .ey{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:0 0 10px;font-size:15px;font-weight:600}
+.tspl-bn .ey b{font-size:19px;font-weight:900;letter-spacing:-.01em;text-transform:uppercase}
+.tspl-bn strong{display:block;font-size:40px;line-height:1.02;font-weight:900;letter-spacing:-.02em;text-transform:uppercase;margin:0 0 14px}
+.tspl-bn .cta{display:inline-flex;align-items:center;gap:10px;background:#fff;color:#111;border-radius:10px;padding:10px 16px;box-shadow:0 4px 14px rgba(0,0,0,.18)}
+.tspl-bn .cta small{font-size:12px;font-weight:800;text-transform:uppercase;line-height:1.1}
+.tspl-bn .cta em{font-style:normal;font-size:30px;font-weight:900;color:var(--cor);letter-spacing:-.02em}
+.tspl-bn .cta span{font-size:13px;font-weight:800;text-transform:uppercase;border-left:2px solid #e5e5e5;padding-left:10px;line-height:1.1}
+.tspl-bn .ob{display:block;font-size:12px;opacity:.85;margin-top:10px}
+.tspl-bn img{position:relative;z-index:1;justify-self:center;width:auto;max-width:100%;max-height:250px;height:auto;object-fit:contain;margin:0;filter:drop-shadow(0 14px 22px rgba(0,0,0,.35))}
+.tspl-bn figcaption{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.tspl-bn-dots{position:absolute;left:0;right:0;bottom:10px;display:flex;justify-content:center;gap:6px}
+.tspl-bn-dots button{width:9px;height:9px;border-radius:50%;border:1.5px solid #fff;padding:0;background:transparent;cursor:pointer}
+.tspl-bn-dots button[aria-current=true]{background:#fff}
+@media(max-width:620px){.tspl-bn a{grid-template-columns:1fr .8fr;min-height:220px;padding:16px 14px 30px}.tspl-bn .ey{font-size:11px;gap:6px;margin-bottom:6px}.tspl-bn .ey b{font-size:13px}.tspl-bn strong{font-size:21px;margin-bottom:10px}
+.tspl-bn .cta{padding:7px 10px;gap:7px}.tspl-bn .cta em{font-size:19px}.tspl-bn .cta small,.tspl-bn .cta span{font-size:10px}.tspl-bn .ob{font-size:10px}.tspl-bn img{max-height:160px}}
 .tspl-chips{display:flex;gap:6px;overflow-x:auto;padding:0 0 8px;margin:0 0 6px;scrollbar-width:thin}
 .tspl-chips button{flex:none;border:1px solid #d9d9d9;background:#fff;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:700;cursor:pointer;color:#222}
 .tspl-chips button[aria-pressed=true]{background:var(--cor);border-color:var(--cor);color:#fff}
@@ -192,17 +199,24 @@ var h=decodeURIComponent((location.hash||'').slice(1));if(h){var b=qa('.tspl-chi
 
 def banners(conf, itens):
     bs = []
-    for chave, tit, sub in conf.get("banners", []):
+    apel = conf.get("apelido", conf["nome"])
+    for bn in conf.get("banners", []):
+        chave, tit, sub = bn[:3]
         it = next((i for i in itens if chave.lower() in i["produto"].lower()), None)
-        if it:
-            bs.append(f'<a href="{e(it["link"])}" target="_blank" rel="sponsored nofollow noopener" aria-label="{e(tit)}">'
-                      f'<span class="tx"><span class="ey">Achadinho oficial</span><strong>{e(tit)}</strong><span class="sb">{e(sub)}</span>'
-                      f'<span class="cta">Ver achadinho · <b>{e(it["preco_13_11"])}</b></span></span>'
-                      f'<img src="{e(it["imagem"])}" alt="{e(it["produto"])}" width="160" height="160" loading="eager"></a>')
+        if not it:
+            continue
+        img, alt, w, h = (bn[3:7] if len(bn) >= 7 else (it["imagem"], it["produto"], 300, 300))
+        bs.append(f'<figure><a href="{e(it["link"])}" target="_blank" rel="sponsored nofollow noopener">'
+                  f'<span class="tx"><span class="ey"><b>Achadinhos do {e(apel)}</b> Produto oficial</span>'
+                  f'<strong>{e(tit)}</strong>'
+                  f'<span class="cta"><small>por</small><em>{e(it["preco_13_11"])}</em><span>Ver<br>achadinho</span></span>'
+                  f'<span class="ob">{e(sub)} *Preço visto em {e(it.get("data", "13/11/2026"))}.</span></span>'
+                  f'<img src="{e(img)}" alt="{e(alt)}" width="{w}" height="{h}" loading="eager" decoding="async"></a>'
+                  f'<figcaption>{e(alt)}: {e(sub)}</figcaption></figure>')
     if not bs:
         return ""
     dots = "".join(f'<button type="button" aria-label="Banner {k + 1}" aria-current="{str(k == 0).lower()}"></button>' for k in range(len(bs)))
-    return f'<div class="tspl-bn" role="region" aria-label="Destaques"><div class="tspl-bn-tr">{"".join(bs)}</div><div class="tspl-bn-dots">{dots}</div></div>'
+    return f'<div class="tspl-bn" role="region" aria-label="Destaques do {e(conf["nome"])}"><div class="tspl-bn-tr">{"".join(bs)}</div><div class="tspl-bn-dots">{dots}</div></div>'
 
 
 def facet(f, opcoes, tipo="checkbox", todos=None):
@@ -306,6 +320,9 @@ def main(clube):
            "about": {"@type": "SportsTeam", "name": conf["time_nome"]},
            "mainEntity": {"@type": "ItemList", "numberOfItems": len(itens), "itemListElement": [
                {"@type": "ListItem", "position": k + 1, "name": i["produto"]} for k, i in enumerate(itens[:30])]}},
+          *[{"@context": "https://schema.org", "@type": "ImageObject", "contentUrl": bn[3], "url": bn[3], "name": bn[4],
+             "caption": f"{bn[4]}: {bn[2]}", "width": bn[5], "height": bn[6], "representativeOfPage": k == 0,
+             "creator": {"@type": "Organization", "name": "Tudo Sobre Paulista"}} for k, bn in enumerate(conf.get("banners", [])) if len(bn) >= 7],
           {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
               {"@type": "Question", "name": q_, "acceptedAnswer": {"@type": "Answer", "text": a_}} for q_, a_ in conf["faq"]]}]
     p.append('<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>')
