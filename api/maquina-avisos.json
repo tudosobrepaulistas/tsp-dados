@@ -1,13 +1,6 @@
 {
- "gerado": "2026-11-15T10:33-03:00",
+ "gerado": "2026-11-15T10:54-03:00",
  "avisos": [
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-13T20:26-03:00",
-   "motivo": "Temporada encerrada em 12/11 (2x2 Athletic, já publicado); sem notícia nova confirmada nas últimas 24h (substituto de Bergantin ainda não anunciado)",
-   "sugestao": "Quando sair, anúncio do novo técnico do São Bernardo para o Paulistão 2027 (Cauan de Almeida é avaliado, segundo o Futebol Interior de 10/11)"
-  },
   {
    "clube": "botafogosp",
    "nome": "Botafogo-SP",
@@ -420,6 +413,13 @@
    "quando": "2026-11-15T10:33-03:00",
    "motivo": "Cobertura 6h (15/11, 10h): sem notícia nova do São Bernardo nas últimas 24h em 2 fontes; fim da Série B, classificação final e saída de Bergantin já estão no site ou em rascunho",
    "sugestao": "Acompanhar renovações, saídas e o técnico do São Bernardo para o Paulistão 2027 (Diário do Grande ABC e redes oficiais do clube)"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-15T10:54-03:00",
+   "motivo": "Cobertura 6h bloco A1 (15/11): sem notícia confirmada em 2 fontes nas últimas 48h para Capivariano, Primavera e Juventus; Noroeste já publicado; Guarani perto de Cristian Souza, mas sem anúncio oficial",
+   "sugestao": "Assim que o Guarani oficializar Cristian Souza como técnico para o Paulistão 2027, publicar com o comunicado do clube + 1 jornal"
   }
  ]
 }
