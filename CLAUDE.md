@@ -46,5 +46,6 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
     Como fazer: `diretrizes/editor-seo.md`, seção "Correção do texto do redator".
 13. **Mercado da Bola 2027 (14/11/2026):** contratações, saídas e renovações dos clubes paulistas, 1 vez por dia, com
     `python3 ferramentas/mercado.py` (`diretrizes/mercado.md`). Só negócio fechado (oficial ou acertado), 2 fontes (clube pequeno:
-    1 matéria que relata o anúncio oficial). oGol e Transfermarkt: liberados pelo Thiago só como referência para descobrir e conferir;
-    não valem como fonte e nada é copiado deles.
+    1 matéria que relata o anúncio oficial). Transfermarkt: só referência. **oGol (15/11/2026, liberado pelo Thiago):** vale como fonte dos números do card
+    (jogos, minutos, gols, assistências, clubes de 2026 e nascimento), lendo a página de cada jogador, sem raspagem em massa.
+    Contratação e saída continuam exigindo as fontes de sempre. Escudos de clubes de fora do site: `dados/escudos_extra.json`.

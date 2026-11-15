@@ -1,0 +1,26 @@
+{
+ "_leia": "Escudos de clubes de fora do site (não paulistas), usados no Mercado da Bola: 'Veio do' e 'Em 2026'. Imagens da Wikipédia (mesmas que aparecem na busca do Google), reduzidas para 96 px. Nome = como está em dados/mercado.json.",
+ "escudos": {
+  "Araxá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/araxa.png",
+  "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
+  "Boa Esporte": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boa-esporte.png",
+  "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png",
+  "Campinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/campinense.png",
+  "Dourados-AC": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/dourados-ac.png",
+  "Floresta": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/floresta.png",
+  "Glória": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gloria.png",
+  "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png",
+  "Itabaiana": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/itabaiana.png",
+  "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png",
+  "Lajeadense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/lajeadense.png",
+  "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png",
+  "Nacional-PR": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nacional-pr.png",
+  "Patrocinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/patrocinense.png",
+  "Pelotas": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pelotas.png",
+  "Real Noroeste": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/real-noroeste.png",
+  "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png",
+  "São José-RS": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png",
+  "Águia de Marabá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/aguia-de-maraba.png",
+  "Retrô": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/retro.png"
+ }
+}

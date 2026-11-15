@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T05:33:00-03:00",
+ "gerado": "2026-11-15T05:39:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -24,12 +24,14 @@
    "de": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -56,12 +58,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -89,16 +93,18 @@
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Fez 9 gols pelo Sertãozinho em 2026",
+   "obs": "Fez 11 gols em 2026 (9 pelo Sertãozinho na A2)",
    "de": {
     "nome": "Sertãozinho",
     "slug": "sertaozinho",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -112,14 +118,20 @@
    "fontes": [
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
-   "nascimento": "",
+   "nascimento": "1999-03-06",
    "numeros": {
-    "gols": 9,
-    "clube": "Sertãozinho",
-    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "jogos": 26,
+    "minutos": 1809,
+    "gols": 11,
+    "assistencias": 0,
     "clubes": [
-     "Sertãozinho"
-    ]
+     "Sertãozinho",
+     "Boavista-RJ"
+    ],
+    "fonte": "https://www.ogol.com.br/jogador/luketa/715512",
+    "escudos": {
+     "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
+    }
    },
    "selos": [
     {
@@ -142,12 +154,14 @@
    "de": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -174,12 +188,14 @@
    "de": {
     "nome": "Itabaiana",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/itabaiana.png"
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -211,12 +227,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -243,12 +261,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -275,12 +295,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -297,7 +319,8 @@
      "Penapolense"
     ],
     "clube": "Penapolense",
-    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "escudos": {}
    },
    "selos": [
     {
@@ -320,12 +343,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -352,12 +377,14 @@
    "de": {
     "nome": "Kasembundit (Tailândia)",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -376,7 +403,8 @@
      "Kasembundit (TAI)"
     ],
     "clube": "Portuguesa Santista",
-    "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+    "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+    "escudos": {}
    },
    "selos": [
     {
@@ -399,12 +427,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -431,12 +461,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -454,7 +486,8 @@
      "Primavera"
     ],
     "clube": "Primavera",
-    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "penapolense"
@@ -472,12 +505,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -494,7 +529,10 @@
      "Campinense",
      "Mamoré"
     ],
-    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "escudos": {
+     "Campinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/campinense.png"
+    }
    },
    "selos": [],
    "dono": "penapolense"
@@ -512,12 +550,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -533,7 +573,8 @@
      "Foz do Iguaçu",
      "Batel"
     ],
-    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "penapolense"
@@ -551,12 +592,14 @@
    "de": {
     "nome": "Primavera-MT",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -571,7 +614,8 @@
      "Monte Azul",
      "Primavera-MT"
     ],
-    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "marilia"
@@ -589,12 +633,14 @@
    "de": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Paulista",
     "slug": "paulista-jundiai",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -621,12 +667,14 @@
    "de": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -653,12 +701,14 @@
    "de": {
     "nome": "CSA",
     "slug": "",
-    "id": 900071
+    "id": 900071,
+    "escudo": ""
    },
    "para": {
     "nome": "Santo André",
     "slug": "santoandre",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -685,12 +735,14 @@
    "de": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -717,12 +769,14 @@
    "de": {
     "nome": "Bandeirante",
     "slug": "bandeirante",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Bandeirante",
     "slug": "bandeirante",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -749,12 +803,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Portuguesa",
     "slug": "portuguesa",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d1"
@@ -781,12 +837,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -813,12 +871,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Portuguesa",
     "slug": "portuguesa",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d1"
@@ -845,12 +905,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Portuguesa",
     "slug": "portuguesa",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d1"
@@ -877,12 +939,14 @@
    "de": {
     "nome": "Bandeirante",
     "slug": "bandeirante",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Bandeirante",
     "slug": "bandeirante",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -909,12 +973,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -942,12 +1008,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -980,12 +1048,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1012,12 +1082,14 @@
    "de": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -1033,7 +1105,8 @@
     "clubes": [
      "XV de Piracicaba"
     ],
-    "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/"
+    "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "marilia"
@@ -1051,12 +1124,14 @@
    "de": {
     "nome": "Bandeirante",
     "slug": "bandeirante",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Bandeirante",
     "slug": "bandeirante",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1083,12 +1158,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1104,7 +1181,11 @@
      "Dourados-AC",
      "Nacional-PR"
     ],
-    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "escudos": {
+     "Dourados-AC": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/dourados-ac.png",
+     "Nacional-PR": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nacional-pr.png"
+    }
    },
    "selos": [],
    "dono": "penapolense"
@@ -1122,12 +1203,14 @@
    "de": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1159,12 +1242,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1184,7 +1269,10 @@
     ],
     "clube": "Real Noroeste",
     "obs": "números só pelo Real Noroeste",
-    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+    "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+    "escudos": {
+     "Real Noroeste": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/real-noroeste.png"
+    }
    },
    "selos": [],
    "dono": "penapolense"
@@ -1202,12 +1290,14 @@
    "de": {
     "nome": "Água Santa",
     "slug": "aguasanta",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Portuguesa",
     "slug": "portuguesa",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d1"
@@ -1234,12 +1324,14 @@
    "de": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1271,12 +1363,14 @@
    "de": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1308,12 +1402,14 @@
    "de": {
     "nome": "Águia de Marabá",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/aguia-de-maraba.png"
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1333,7 +1429,10 @@
     "clubes": [
      "Águia de Marabá"
     ],
-    "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+    "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/",
+    "escudos": {
+     "Águia de Marabá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/aguia-de-maraba.png"
+    }
    },
    "selos": [],
    "dono": "xv-de-jau"
@@ -1351,12 +1450,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1383,12 +1484,14 @@
    "de": {
     "nome": "Rio Preto",
     "slug": "rio-preto",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1405,7 +1508,8 @@
     "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
     "clubes": [
      "Rio Preto (Série A3)"
-    ]
+    ],
+    "escudos": {}
    },
    "selos": [],
    "dono": "rioclaro"
@@ -1423,12 +1527,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1446,7 +1552,10 @@
      "Patrocinense",
      "Nova Lavras"
     ],
-    "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/"
+    "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/",
+    "escudos": {
+     "Patrocinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/patrocinense.png"
+    }
    },
    "selos": [],
    "dono": "rioclaro"
@@ -1464,12 +1573,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1496,12 +1607,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1516,7 +1629,8 @@
      "União São João",
      "Comercial"
     ],
-    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "rioclaro"
@@ -1534,12 +1648,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1566,12 +1682,14 @@
    "de": {
     "nome": "Paulista",
     "slug": "paulista-jundiai",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Paulista",
     "slug": "paulista-jundiai",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1598,12 +1716,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1622,7 +1742,10 @@
      "Oeste Brasil"
     ],
     "obs": "números só pelo Oeste Brasil",
-    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+    "escudos": {
+     "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
+    }
    },
    "selos": [],
    "dono": "rioclaro"
@@ -1640,12 +1763,14 @@
    "de": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1677,12 +1802,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1709,12 +1836,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1741,12 +1870,14 @@
    "de": {
     "nome": "São José-RS",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
    },
    "para": {
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -1773,12 +1904,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -1795,7 +1928,10 @@
      "Coimbra Sports",
      "Glória"
     ],
-    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+    "escudos": {
+     "Glória": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gloria.png"
+    }
    },
    "selos": [],
    "dono": "marilia"
@@ -1813,12 +1949,14 @@
    "de": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -1835,7 +1973,8 @@
     "clubes": [
      "Ituano"
     ],
-    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "ituano"
@@ -1853,12 +1992,14 @@
    "de": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -1873,7 +2014,8 @@
     "clubes": [
      "XV de Piracicaba"
     ],
-    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/"
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "marilia"
@@ -1891,12 +2033,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -1928,12 +2072,14 @@
    "de": {
     "nome": "Santo André",
     "slug": "santoandre",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -1961,12 +2107,14 @@
    "de": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -1993,12 +2141,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2025,12 +2175,14 @@
    "de": {
     "nome": "Hercílio Luz",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2045,7 +2197,10 @@
     "clubes": [
      "Hercílio Luz"
     ],
-    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+    "escudos": {
+     "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+    }
    },
    "selos": [
     {
@@ -2068,12 +2223,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2100,12 +2257,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Jaú",
     "slug": "xv-de-jau",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2132,12 +2291,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2152,8 +2313,21 @@
     "https://www.futebolinterior.com.br/a3-uniao-barbarense-traz-meio-campista/",
     "https://boainformacao.com.br/2026/11/paulista-a3-uniao-barbarense-anuncia-novo-reforco-e-chega-a-14-jogadores/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2005-12-03",
+   "numeros": {
+    "jogos": 15,
+    "minutos": 715,
+    "gols": 0,
+    "assistencias": 0,
+    "clubes": [
+     "Batel",
+     "Lajeadense"
+    ],
+    "fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468",
+    "escudos": {
+     "Lajeadense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/lajeadense.png"
+    }
+   },
    "selos": [],
    "dono": "uniao-barbarense"
   },
@@ -2170,12 +2344,14 @@
    "de": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2190,7 +2366,8 @@
     "clubes": [
      "Ituano"
     ],
-    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "ituano"
@@ -2208,12 +2385,14 @@
    "de": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2230,7 +2409,8 @@
     "clubes": [
      "Ituano"
     ],
-    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
+    "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "ituano"
@@ -2248,12 +2428,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União São João",
     "slug": "uniao-sao-joao",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2280,12 +2462,14 @@
    "de": {
     "nome": "Capivariano",
     "slug": "capivariano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2313,12 +2497,14 @@
    "de": {
     "nome": "Boavista-RJ",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2334,7 +2520,11 @@
      "Joinville",
      "Boavista-RJ"
     ],
-    "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
+    "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+    "escudos": {
+     "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png",
+     "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
+    }
    },
    "selos": [
     {
@@ -2357,12 +2547,14 @@
    "de": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2390,12 +2582,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2423,12 +2617,14 @@
    "de": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2456,12 +2652,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2489,12 +2687,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Rio Claro",
     "slug": "rioclaro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2527,12 +2727,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Santo André",
     "slug": "santoandre",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2559,12 +2761,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Taubaté",
     "slug": "taubate",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2591,12 +2795,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Taubaté",
     "slug": "taubate",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2611,7 +2817,10 @@
      "Marcílio Dias",
      "Primavera"
     ],
-    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+    "escudos": {
+     "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
+    }
    },
    "selos": [],
    "dono": "taubate"
@@ -2629,12 +2838,14 @@
    "de": {
     "nome": "Boa Esporte",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boa-esporte.png"
    },
    "para": {
     "nome": "Lemense",
     "slug": "lemense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d4"
@@ -2661,12 +2872,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Taubaté",
     "slug": "taubate",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2681,7 +2894,11 @@
      "Atlético Tubarão",
      "Pelotas"
     ],
-    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+    "escudos": {
+     "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
+     "Pelotas": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pelotas.png"
+    }
    },
    "selos": [],
    "dono": "taubate"
@@ -2699,12 +2916,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Penapolense",
     "slug": "penapolense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2737,12 +2956,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Taubaté",
     "slug": "taubate",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2769,12 +2990,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Taubaté",
     "slug": "taubate",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2801,12 +3024,14 @@
    "de": {
     "nome": "Taubaté",
     "slug": "taubate",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Taubaté",
     "slug": "taubate",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2821,7 +3046,8 @@
     "clubes": [
      "Taubaté"
     ],
-    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+    "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+    "escudos": {}
    },
    "selos": [],
    "dono": "taubate"
@@ -2839,12 +3065,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2871,12 +3099,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2903,12 +3133,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -2935,12 +3167,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -2967,12 +3201,14 @@
    "de": {
     "nome": "ASA",
     "slug": "",
-    "id": 900072
+    "id": 900072,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3004,12 +3240,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3025,7 +3263,10 @@
      "Mamoré",
      "Araxá"
     ],
-    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+    "escudos": {
+     "Araxá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/araxa.png"
+    }
    },
    "selos": [],
    "dono": "uniao-barbarense"
@@ -3043,12 +3284,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3075,12 +3318,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3107,12 +3352,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3139,12 +3386,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3171,12 +3420,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3203,12 +3454,14 @@
    "de": {
     "nome": "Juventus",
     "slug": "juventus",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3224,7 +3477,8 @@
     "clubes": [
      "Juventus"
     ],
-    "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+    "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
+    "escudos": {}
    },
    "selos": [
     {
@@ -3247,12 +3501,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Santo André",
     "slug": "santoandre",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3279,12 +3535,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3311,12 +3569,14 @@
    "de": {
     "nome": "City London",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3330,7 +3590,8 @@
     "clubes": [
      "City London (PR)"
     ],
-    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+    "escudos": {}
    },
    "selos": [
     {
@@ -3357,12 +3618,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3389,12 +3652,14 @@
    "de": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3421,12 +3686,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3453,12 +3720,14 @@
    "de": {
     "nome": "City London",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3472,7 +3741,8 @@
     "clubes": [
      "City London (PR)"
     ],
-    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+    "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+    "escudos": {}
    },
    "selos": [
     {
@@ -3499,12 +3769,14 @@
    "de": {
     "nome": "São José",
     "slug": "saojose",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Marília",
     "slug": "marilia",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3531,12 +3803,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3563,12 +3837,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3595,12 +3871,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3627,12 +3905,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "União Barbarense",
     "slug": "uniao-barbarense",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3659,12 +3939,14 @@
    "de": {
     "nome": "Floresta",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/floresta.png"
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3686,7 +3968,10 @@
     "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
     "clubes": [
      "Floresta"
-    ]
+    ],
+    "escudos": {
+     "Floresta": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/floresta.png"
+    }
    },
    "selos": [],
    "dono": "ituano"
@@ -3704,12 +3989,14 @@
    "de": {
     "nome": "Juventus",
     "slug": "juventus",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3742,12 +4029,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3780,12 +4069,14 @@
    "de": {
     "nome": "",
     "slug": "",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3813,12 +4104,14 @@
    "de": {
     "nome": "XV de Piracicaba",
     "slug": "xvdepiracicaba",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "para": {
     "nome": "Inter de Bebedouro",
     "slug": "inter-de-bebedouro",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d3"
@@ -3846,12 +4139,14 @@
    "de": {
     "nome": "Noroeste",
     "slug": "noroeste",
-    "id": 900085
+    "id": 900085,
+    "escudo": ""
    },
    "para": {
     "nome": "Ituano",
     "slug": "ituano",
-    "id": 0
+    "id": 0,
+    "escudo": ""
    },
    "blocos": [
     "d2"
@@ -3866,8 +4161,21 @@
     "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-01-17",
+   "numeros": {
+    "jogos": 23,
+    "minutos": 1607,
+    "gols": 1,
+    "assistencias": 1,
+    "clubes": [
+     "Retrô",
+     "Noroeste"
+    ],
+    "fonte": "https://www.ogol.com.br/jogador/luiz-henrique/562358",
+    "escudos": {
+     "Retrô": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/retro.png"
+    }
+   },
    "selos": [],
    "dono": "ituano"
   }

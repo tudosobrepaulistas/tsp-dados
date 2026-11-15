@@ -34,6 +34,7 @@ Boato/sondagem não entra. Sem foto oficial com crédito, o site mostra a inicia
 """
 import datetime
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -112,8 +113,10 @@ def checar(m, tm, pl):
         except ValueError:
             e.append("nascimento = AAAA-MM-DD (só com fonte)")
     nm = m.get("numeros_2026")
-    if nm and (not str(nm.get("fonte", "")).startswith("https://") or tsp.FONTE_RUIM.search(str(nm.get("fonte", "")))):
-        e.append("numeros_2026 precisa de 'fonte' (matéria aceita; oGol/Transfermarkt não valem)")
+    # 15/11/2026: o Thiago liberou o oGol como fonte dos números do card (jogos, minutos, gols, assistências e clubes de 2026)
+    fn = str((nm or {}).get("fonte", ""))
+    if nm and (not fn.startswith("https://") or (tsp.FONTE_RUIM.search(fn) and "ogol.com.br/jogador/" not in fn)):
+        e.append("numeros_2026 precisa de 'fonte' (matéria aceita ou página do jogador no oGol)")
     for sl in m.get("selos", []):
         if not isinstance(sl, dict) or not sl.get("texto") or not str(sl.get("fonte", "")).startswith("https://") or tsp.FONTE_RUIM.search(str(sl.get("fonte", ""))):
             e.append("selos: lista de {texto, fonte} (título/acesso de 2026 citado em fonte aceita)")
@@ -209,9 +212,25 @@ def nascimento_do_elenco(nome, chaves):
     return None
 
 
+def escudos_extra():
+    """Escudos de clubes não paulistas (dados/escudos_extra.json). Aceita o nome com sufixo: "City London (PR)" acha "City London"."""
+    mp = tsp.ler(DADOS / "escudos_extra.json", {}).get("escudos", {})
+
+    def achar(nome):
+        nome = (nome or "").strip()
+        if not nome:
+            return ""
+        if nome in mp:
+            return mp[nome]
+        base_nome = re.sub(r"\s*\(.*?\)\s*$", "", nome)
+        return mp.get(base_nome, "")
+    return achar
+
+
 def cmd_gerar(a):
     tm, pl = tsp.times(), paulistas()
     b = base()
+    esc = escudos_extra()
     saida = []
     for m in b["itens"]:
         if checar(m, tm, pl):
@@ -226,11 +245,13 @@ def cmd_gerar(a):
         foto = m.get("foto") or foto_do_elenco(m["jogador"], [cp, cd])
         numeros = m.get("numeros_2026") or numeros_da_base(m["jogador"], [cd, cp] if m["tipo"] != "renovacao" else [cp])
         nasc = m.get("nascimento") or nascimento_do_elenco(m["jogador"], [cp, cd])
+        if numeros and numeros.get("clubes"):
+            numeros = dict(numeros, escudos={c: esc(c) for c in numeros["clubes"] if esc(c)})
         saida.append({"id": m["id"], "data": m["data"], "jogador": m["jogador"], "posicao": m.get("posicao", ""),
                       "tipo": m["tipo"], "tipo_nome": TIPOS[m["tipo"]], "situacao": m["situacao"],
                       "feminino": bool(m.get("feminino")), "obs": m.get("obs", ""),
-                      "de": {"nome": m["de"], "slug": sd, "id": idd},
-                      "para": {"nome": m["para"], "slug": sp, "id": idp},
+                      "de": {"nome": m["de"], "slug": sd, "id": idd, "escudo": esc(m["de"])},
+                      "para": {"nome": m["para"], "slug": sp, "id": idp, "escudo": esc(m["para"])},
                       "blocos": blocos, "foto": foto or {}, "fontes": m["fontes"][:3],
                       "nascimento": nasc or "", "numeros": numeros or {}, "selos": m.get("selos", []),
                       "dono": dono})

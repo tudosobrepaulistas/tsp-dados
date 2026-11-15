@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T05:33:00-03:00",
+ "gerado": "2026-11-15T05:39:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3045,9 +3045,22 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 23,
+      "minutos": 1607,
+      "gols": 1,
+      "assistencias": 1,
+      "clubes": [
+       "Retrô",
+       "Noroeste"
+      ],
+      "fonte": "https://www.ogol.com.br/jogador/luiz-henrique/562358",
+      "escudos": {
+       "Retrô": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/retro.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-01-17",
      "de": "Noroeste"
     },
     {
@@ -3066,7 +3079,10 @@
       "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
       "clubes": [
        "Floresta"
-      ]
+      ],
+      "escudos": {
+       "Floresta": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/floresta.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -3106,12 +3122,18 @@
      },
      "novo": true,
      "numeros": {
-      "gols": 9,
-      "clube": "Sertãozinho",
-      "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+      "jogos": 26,
+      "minutos": 1809,
+      "gols": 11,
+      "assistencias": 0,
       "clubes": [
-       "Sertãozinho"
-      ]
+       "Sertãozinho",
+       "Boavista-RJ"
+      ],
+      "fonte": "https://www.ogol.com.br/jogador/luketa/715512",
+      "escudos": {
+       "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
+      }
      },
      "selos": [
       {
@@ -3119,7 +3141,7 @@
        "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1999-03-06",
      "de": "Sertãozinho"
     },
     {
@@ -3439,7 +3461,10 @@
        "Mamoré",
        "Araxá"
       ],
-      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+      "escudos": {
+       "Araxá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/araxa.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -3494,7 +3519,8 @@
       "clubes": [
        "City London (PR)"
       ],
-      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+      "escudos": {}
      },
      "selos": [
       {
@@ -3518,7 +3544,8 @@
       "clubes": [
        "City London (PR)"
       ],
-      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+      "escudos": {}
      },
      "selos": [
       {
@@ -3573,9 +3600,22 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 15,
+      "minutos": 715,
+      "gols": 0,
+      "assistencias": 0,
+      "clubes": [
+       "Batel",
+       "Lajeadense"
+      ],
+      "fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468",
+      "escudos": {
+       "Lajeadense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/lajeadense.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2005-12-03",
      "de": ""
     }
    ],
@@ -3728,7 +3768,8 @@
       "clubes": [
        "Juventus"
       ],
-      "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+      "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
+      "escudos": {}
      },
      "selos": [
       {
@@ -3923,7 +3964,11 @@
        "Joinville",
        "Boavista-RJ"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
+      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+      "escudos": {
+       "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png",
+       "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
+      }
      },
      "selos": [
       {
@@ -3980,7 +4025,8 @@
       "clubes": [
        "XV de Piracicaba"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/"
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/",
+      "escudos": {}
      },
      "selos": [],
      "nascimento": "",
@@ -4005,7 +4051,10 @@
       "clubes": [
        "Hercílio Luz"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+      "escudos": {
+       "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+      }
      },
      "selos": [
       {
@@ -4027,7 +4076,10 @@
        "Coimbra Sports",
        "Glória"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+      "escudos": {
+       "Glória": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gloria.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4044,7 +4096,8 @@
       "clubes": [
        "XV de Piracicaba"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/"
+      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
+      "escudos": {}
      },
      "selos": [],
      "nascimento": "",
@@ -4060,7 +4113,8 @@
        "Monte Azul",
        "Primavera-MT"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
+      "escudos": {}
      },
      "selos": [],
      "nascimento": "",
@@ -4179,7 +4233,8 @@
       "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
       "clubes": [
        "Rio Preto (Série A3)"
-      ]
+      ],
+      "escudos": {}
      },
      "selos": [],
      "nascimento": "",
@@ -4198,7 +4253,10 @@
        "Patrocinense",
        "Nova Lavras"
       ],
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/"
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/",
+      "escudos": {
+       "Patrocinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/patrocinense.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4224,7 +4282,8 @@
        "União São João",
        "Comercial"
       ],
-      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+      "escudos": {}
      },
      "selos": [],
      "nascimento": "",
@@ -4244,7 +4303,10 @@
        "Oeste Brasil"
       ],
       "obs": "números só pelo Oeste Brasil",
-      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+      "escudos": {
+       "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4354,7 +4416,10 @@
        "Marcílio Dias",
        "Primavera"
       ],
-      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+      "escudos": {
+       "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4370,7 +4435,11 @@
        "Atlético Tubarão",
        "Pelotas"
       ],
-      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+      "escudos": {
+       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
+       "Pelotas": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pelotas.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4406,7 +4475,8 @@
       "clubes": [
        "Taubaté"
       ],
-      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+      "escudos": {}
      },
      "selos": []
     }
@@ -4526,7 +4596,11 @@
        "Dourados-AC",
        "Nacional-PR"
       ],
-      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+      "escudos": {
+       "Dourados-AC": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/dourados-ac.png",
+       "Nacional-PR": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nacional-pr.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4546,7 +4620,10 @@
       ],
       "clube": "Real Noroeste",
       "obs": "números só pelo Real Noroeste",
-      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+      "escudos": {
+       "Real Noroeste": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/real-noroeste.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4573,7 +4650,8 @@
        "Penapolense"
       ],
       "clube": "Penapolense",
-      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+      "escudos": {}
      },
      "selos": [
       {
@@ -4607,7 +4685,8 @@
        "Kasembundit (TAI)"
       ],
       "clube": "Portuguesa Santista",
-      "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
+      "fonte": "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html",
+      "escudos": {}
      },
      "selos": [
       {
@@ -4640,7 +4719,8 @@
        "Primavera"
       ],
       "clube": "Primavera",
-      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+      "escudos": {}
      },
      "selos": [],
      "nascimento": "",
@@ -4657,7 +4737,10 @@
        "Campinense",
        "Mamoré"
       ],
-      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+      "escudos": {
+       "Campinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/campinense.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -4673,7 +4756,8 @@
        "Foz do Iguaçu",
        "Batel"
       ],
-      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
+      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+      "escudos": {}
      },
      "selos": [],
      "nascimento": "",
@@ -4853,7 +4937,10 @@
       "clubes": [
        "Águia de Marabá"
       ],
-      "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
+      "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/",
+      "escudos": {
+       "Águia de Marabá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/aguia-de-maraba.png"
+      }
      },
      "selos": [],
      "nascimento": "",

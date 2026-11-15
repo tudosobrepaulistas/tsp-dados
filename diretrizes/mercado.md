@@ -62,3 +62,10 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
   anunciados nos dias anteriores para completar números de 2026, clubes de 2026, selos e de onde veio.
 - Figurinhas (precisa do Mac ligado com o Chrome aberto e o ChatGPT logado): tarefa "Figurinhas do mercado" no computador do Thiago.
 - Saída sem destino conhecido: `tipo: saida`, `de` = clube, `para` vazio (o card mostra "Deixou o clube").
+
+## Números do card e escudos (15/11/2026, pedido do Thiago)
+- Números de 2026 (jogos, minutos, gols, assistências) e clubes de 2026: pode usar a página do jogador no oGol
+  (ogol.com.br/jogador/...), aberta no Chrome do Thiago (o oGol bloqueia o WebFetch). Uma página por jogador, nada de raspagem
+  em massa. Grave em numeros_2026 com "fonte" = link do oGol; nascimento também pode vir de lá.
+- Escudos: clube paulista usa o escudo do site; clube de fora entra em dados/escudos_extra.json + api/escudos/<slug>.png
+  (imagem da Wikipédia via API pageimages, 96 px). O card mostra o escudo no "Veio do" e em "Em 2026".

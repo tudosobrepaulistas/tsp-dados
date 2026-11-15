@@ -57,20 +57,23 @@
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Fez 9 gols pelo Sertãozinho em 2026",
+   "obs": "Fez 11 gols em 2026 (9 pelo Sertãozinho na A2)",
    "fontes": [
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-luketa-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-15T05:45:00-03:00",
    "numeros_2026": {
-    "gols": 9,
-    "clube": "Sertãozinho",
-    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "jogos": 26,
+    "minutos": 1809,
+    "gols": 11,
+    "assistencias": 0,
     "clubes": [
-     "Sertãozinho"
-    ]
+     "Sertãozinho",
+     "Boavista-RJ"
+    ],
+    "fonte": "https://www.ogol.com.br/jogador/luketa/715512"
    },
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luketa-ituano.webp",
@@ -83,7 +86,8 @@
      "texto": "Artilheiro do Paulistão A2 2026",
      "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
     }
-   ]
+   ],
+   "nascimento": "1999-03-06"
   },
   {
    "data": "2026-11-13",
@@ -1382,13 +1386,25 @@
     "https://boainformacao.com.br/2026/11/paulista-a3-uniao-barbarense-anuncia-novo-reforco-e-chega-a-14-jogadores/"
    ],
    "id": "2026-11-06-guilherme-queiroz-uniao-barbarense",
-   "atualizado": "2026-11-14T07:02:00-03:00",
+   "atualizado": "2026-11-15T05:45:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-guilherme-queiroz-uniao-barbarense.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://images.futebolinterior.com.br/2026/11/uniao-barbarense-queiroz.webp",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "jogos": 15,
+    "minutos": 715,
+    "gols": 0,
+    "assistencias": 0,
+    "clubes": [
+     "Batel",
+     "Lajeadense"
+    ],
+    "fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468"
+   },
+   "nascimento": "2005-12-03"
   },
   {
    "data": "2026-11-06",
@@ -2467,13 +2483,25 @@
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
    "id": "2026-11-13-luiz-henrique-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-15T05:45:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luiz-henrique-ituano.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://images.futebolinterior.com.br/2026/10/ituano-luiz-henrique2.webp",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "jogos": 23,
+    "minutos": 1607,
+    "gols": 1,
+    "assistencias": 1,
+    "clubes": [
+     "Retrô",
+     "Noroeste"
+    ],
+    "fonte": "https://www.ogol.com.br/jogador/luiz-henrique/562358"
+   },
+   "nascimento": "1998-01-17"
   }
  ]
 }
