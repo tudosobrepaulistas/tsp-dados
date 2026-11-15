@@ -1233,6 +1233,24 @@
   },
   {
    "data": "2026-11-09",
+   "jogador": "Fausto Dias",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Ituano",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "obs": "Apresentado em 09/11; Ituano joga a A2 e a Série C",
+   "fontes": [
+    "https://www.band.com.br/esportes/ituano-apresenta-tecnico-fausto-dias-e-aposta-em-reformulacao-no-elenco"
+   ],
+   "anuncio_do_clube": true,
+   "para_slug": "ituano",
+   "feminino": false,
+   "id": "2026-11-09-fausto-dias-ituano",
+   "atualizado": "2026-11-15T10:19:00-03:00"
+  },
+  {
+   "data": "2026-11-09",
    "jogador": "Danilo Guimarães",
    "posicao": "Lateral",
    "de": "São José-RS",
@@ -2935,6 +2953,43 @@
    ],
    "id": "2026-10-21-danilinho-santo-andre",
    "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-10-07",
+   "jogador": "Douglas Leite",
+   "posicao": "Treinador",
+   "de": "América-MG",
+   "para": "Santo André",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "obs": "Técnico para a Série A2 e a Copa Paulista de 2027",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4351485/santo-andre-anuncia-douglas-leite-como-tecnico-para-2027",
+    "https://abcdoabc.com.br/douglas-leite-novo-tecnico-santo-andre/"
+   ],
+   "para_slug": "santoandre",
+   "feminino": false,
+   "id": "2026-10-07-douglas-leite-santo-andre",
+   "atualizado": "2026-11-15T10:19:00-03:00"
+  },
+  {
+   "data": "2026-10-02",
+   "jogador": "Ricardo Costa",
+   "posicao": "Treinador",
+   "de": "Marília",
+   "para": "Paulista",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "obs": "Levou o Marília ao acesso à A2 em 2026",
+   "fontes": [
+    "https://tribunadejundiai.com.br/cidades/jundiai/ricardo-costa-paulista/"
+   ],
+   "anuncio_do_clube": true,
+   "para_slug": "paulista-jundiai",
+   "de_slug": "marilia",
+   "feminino": false,
+   "id": "2026-10-02-ricardo-costa-paulista",
+   "atualizado": "2026-11-15T10:19:00-03:00"
   }
  ]
 }

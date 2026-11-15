@@ -81,6 +81,10 @@ def resolver(nome, slug_dado, feminino, tm, pl):
     return slug_dado, id_b, chave_b
 
 
+# Treinador entra no mercado e no elenco (15/11/2026); tem página própria no site (/mercado-da-bola/treinadores/)
+POS_MC = tsp.POSICOES + ("Treinador",)
+
+
 def checar(m, tm, pl):
     e = []
     try:
@@ -92,8 +96,8 @@ def checar(m, tm, pl):
             e.append(f"falta '{c}'")
     if not str(m.get("de", "")).strip() and m.get("tipo") not in ("contratacao", "promovido"):
         e.append("falta 'de' (só pode ficar vazio em contratação/promovido quando a fonte não diz de onde veio)")
-    if m.get("posicao") and m["posicao"] not in tsp.POSICOES:
-        e.append(f"posicao: {', '.join(tsp.POSICOES)}")
+    if m.get("posicao") and m["posicao"] not in POS_MC:
+        e.append(f"posicao: {', '.join(POS_MC)}")
     if m.get("tipo") not in TIPOS:
         e.append(f"tipo: {', '.join(TIPOS)}")
     if m.get("situacao") not in SITUACOES:

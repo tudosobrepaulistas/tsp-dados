@@ -72,3 +72,10 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
 - Página do jogador: /jogador/<nome>/ (tema, inc/jogador.php). Carreira temporada a temporada em "carreira" (lista de
   {temporada, clube, jogos, gols, assistencias, emprestimo}) + "carreira_fonte" (página do oGol). Ao registrar um reforço,
   levante também a carreira dele no oGol.
+
+## Álbum 2027 e treinadores (15/11/2026, pedido do Thiago)
+- Meta: na estreia (janeiro), todos os elencos completos. Em novembro/dezembro os elencos são revelados aos poucos: atualize
+  todo dia com os anúncios oficiais (reforços, renovações, saídas, promovidos da base).
+- Página do clube: álbum de 30 figurinhas por clube; o que falta aparece como "?" (a revelar).
+- Treinador: registre com "posicao": "Treinador" (contratação, renovação ou saída, mesmas regras de fonte). Ele entra no
+  elenco do clube e na página /mercado-da-bola/treinadores/; não aparece nos carrosséis de jogadores.

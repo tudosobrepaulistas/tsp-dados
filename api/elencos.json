@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T06:57:00-03:00",
+ "gerado": "2026-11-15T10:20:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3034,11 +3034,71 @@
    "chegaram": [],
    "sairam": []
   },
+  "paulista-jundiai": {
+   "atualizado": "2026-11-11",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Ricardo Costa",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Marília"
+    },
+    {
+     "nome": "Lucas Batatinha",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Matheus Abreu",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Marília"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Ricardo Costa",
+     "de": "Marília",
+     "tipo": "Contratação",
+     "data": "2026-10-02"
+    },
+    {
+     "nome": "Matheus Abreu",
+     "de": "Marília",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
+    }
+   ],
+   "sairam": []
+  },
   "santoandre": {
    "atualizado": "2026-11-11",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
+    {
+     "nome": "Douglas Leite",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "América-MG"
+    },
     {
      "nome": "Danilinho",
      "posicao": "Meia",
@@ -3148,6 +3208,12 @@
     }
    ],
    "chegaram": [
+    {
+     "nome": "Douglas Leite",
+     "de": "América-MG",
+     "tipo": "Contratação",
+     "data": "2026-10-07"
+    },
     {
      "nome": "Danilinho",
      "de": "",
@@ -3264,6 +3330,16 @@
      "de": "Floresta"
     },
     {
+     "nome": "Fausto Dias",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
      "nome": "Wesley",
      "posicao": "Goleiro",
      "renovou": true,
@@ -3375,6 +3451,12 @@
      "de": "Floresta",
      "tipo": "Contratação",
      "data": "2026-11-02"
+    },
+    {
+     "nome": "Fausto Dias",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
     },
     {
      "nome": "Neto Berola",
@@ -5152,40 +5234,6 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-09"
-    }
-   ],
-   "sairam": []
-  },
-  "paulista-jundiai": {
-   "atualizado": "2026-11-11",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Lucas Batatinha",
-     "posicao": "Atacante",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": []
-    },
-    {
-     "nome": "Matheus Abreu",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "Marília"
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Matheus Abreu",
-     "de": "Marília",
-     "tipo": "Contratação",
-     "data": "2026-11-11"
     }
    ],
    "sairam": []
