@@ -28,6 +28,15 @@ Comandos (rodar na raiz do repositório):
   python3 ferramentas/tsp.py jogo-passado --comp baiano --data "2026-01-18 16:00" --casa "Vitória" --fora "Bahia" --placar 1x1
       --fontes URL1 URL2 [--fase "Final - ida"] [--rodada 3] [--estadio X] [--cidade Y] [--penaltis 4x3] [--gols "..."] [--esc ARQUIVO.json]
       Jogo já disputado (preenchimento da temporada): cria, registra o resultado (2 fontes) e, com --esc, a escalação.
+  python3 ferramentas/tsp.py rodada-passada --json ARQUIVO.json
+      Rodada inteira já disputada de uma vez (preencher a temporada gastando pouco): valida TUDO antes de gravar.
+      {"comp": "serie_a", "rodada": 1, "fontes_rodada": ["URL matéria 1", "URL matéria 2"],
+       "jogos": [{"data": "2026-01-28 19:30", "casa": "Atlético-MG", "fora": "Palmeiras", "placar": "2x2",
+                  "estadio": "Arena MRV", "cidade": "Belo Horizonte", "gols": "casa|Hulk|30|penalti", "fontes": []}]}
+      Cada jogo precisa de 2 fontes de sites diferentes (as da rodada + as do jogo). Time desconhecido = ERRO (não cadastra).
+      "data" sem hora ("2026-01-28") só para jogo com mais de 75 dias (fica marcado sem_hora e o site não mostra horário).
+  python3 ferramentas/tsp.py rodadas-faltando [--comp serie_a]
+      Rodadas já disputadas das Séries A e B com menos de 10 jogos encerrados (guia: diretrizes/rodadas-passadas.md).
   python3 ferramentas/tsp.py calcular      → gera api/tsp.json (o que o site lê), classificações e artilharia
   python3 ferramentas/tsp.py validar       → confere a base (placar x gols, times, datas)
 Horários sempre de Brasília (UTC-3).
@@ -624,6 +633,13 @@ def cmd_calcular(a):
     for c in cps:
         chave = c["chave"]
         artilh[chave] = {}
+        # Artilharia de partida (foto oficial numa data de corte), como a classificação: gols até o corte vêm da foto,
+        # os depois do corte somam por cima. Sem foto, conta só os gols registrados nos jogos.
+        art_base = ler(DADOS / "base" / f"artilharia_{chave}.json")
+        art_corte = data(art_base["corte"]) if art_base else None
+        for x in (art_base or {}).get("lista", []):
+            k = (x["jogador"], x["time"])
+            artilh[chave][k] = artilh[chave].get(k, 0) + int(x["gols"])
         for j in jogos_de(chave)["jogos"]:
             ini = data(j["data"])
             casa, fora = tm[j["casa"]], tm[j["fora"]]
@@ -637,7 +653,7 @@ def cmd_calcular(a):
                 eventos.append({"time": {"elapsed": int(re.match(r"\d+", g["minuto"]).group()) if re.match(r"\d+", str(g["minuto"])) else 0, "extra": None, "texto": str(g["minuto"])},
                                 "team": {"id": t["id"], "name": t["nome"]}, "player": {"name": g["jogador"]},
                                 "type": "Goal", "detail": {"normal": "Normal Goal", "penalti": "Penalty", "contra": "Own Goal"}.get(g["tipo"], "Normal Goal")})
-                if g["tipo"] != "contra":
+                if g["tipo"] != "contra" and not (art_corte and ini <= art_corte):
                     k = (g["jogador"], j["casa"] if autor_lado == "casa" else j["fora"])
                     artilh[chave][k] = artilh[chave].get(k, 0) + 1
             fixtures.append({
@@ -696,10 +712,119 @@ def cmd_validar(a):
         sys.exit(1)
 
 
+def time_existente(nome):
+    """Acha o time pelo nome, chave ou apelido SEM cadastrar novo. Devolve a chave ou ""."""
+    t = times()
+    s = slug(nome)
+    if s in t:
+        return s
+    for k, v in t.items():
+        if slug(v["nome"]) == s or s in [slug(x) for x in v.get("apelidos", [])]:
+            return k
+    return ""
+
+
+def cmd_rodada_passada(a):
+    """rodada-passada --json ARQUIVO: grava uma rodada inteira já disputada (2 fontes por jogo), validando tudo antes."""
+    import contextlib
+    import io
+    from urllib.parse import urlparse
+    r = ler(opc(a, "--json"))
+    if not r:
+        raise SystemExit("ERRO: arquivo vazio ou não encontrado (--json)")
+    chave, rodada = r.get("comp", ""), str(r.get("rodada", "")).strip()
+    comp(chave)
+    base_f = [u for u in r.get("fontes_rodada", []) if u]
+    erros, prontos = [], []
+    for n, x in enumerate(r.get("jogos", []), 1):
+        rot = f"jogo {n} ({x.get('casa')} x {x.get('fora')})"
+        casa, fora = time_existente(x.get("casa", "")), time_existente(x.get("fora", ""))
+        if not casa or not fora:
+            erros.append(f"{rot}: time não encontrado em times.json (use o nome/apelido cadastrado)")
+            continue
+        try:
+            placar(x.get("placar"))
+        except SystemExit as e:
+            erros.append(f"{rot}: {e}")
+            continue
+        ds = str(x.get("data", "")).strip()
+        sem_hora = bool(re.fullmatch(r"\d{4}-\d{2}-\d{2}", ds))
+        try:
+            d0 = data(ds + " 12:00" if sem_hora else ds)
+        except ValueError:
+            erros.append(f"{rot}: data no formato 2026-01-28 19:30")
+            continue
+        if d0 > agora():
+            erros.append(f"{rot}: data no futuro")
+        if sem_hora and d0 > agora() - datetime.timedelta(days=75):
+            erros.append(f"{rot}: jogo recente precisa da hora (o site ainda tem página dele)")
+        fontes = list(dict.fromkeys(base_f + [u for u in x.get("fontes", []) if u]))
+        if len({urlparse(u).netloc.replace("www.", "") for u in fontes}) < 2:
+            erros.append(f"{rot}: precisa de 2 fontes de sites diferentes")
+        prontos.append((x, casa, fora, d0, sem_hora, fontes))
+    if erros:
+        raise SystemExit("ERRO: nada foi gravado.\n- " + "\n- ".join(erros))
+    if not prontos:
+        raise SystemExit("ERRO: nenhum jogo no arquivo")
+    feitos = pulados = 0
+    for x, casa, fora, d0, sem_hora, fontes in prontos:
+        existe = None
+        for j in jogos_de(chave)["jogos"]:
+            if j["casa"] == casa and j["fora"] == fora and abs(data(j["data"]) - d0) < datetime.timedelta(days=4):
+                existe = j
+        if existe and existe["status"] == "encerrado":
+            pulados += 1
+            continue
+        if existe:
+            resto = [str(existe["id"]), "--placar", x["placar"], "--fontes"] + fontes
+            if x.get("gols"):
+                resto += ["--gols", x["gols"]]
+            cmd_resultado(resto)
+            feitos += 1
+            continue
+        args = ["--comp", chave, "--data", d0.strftime("%Y-%m-%d %H:%M"), "--casa", casa, "--fora", fora,
+                "--placar", x["placar"], "--rodada", rodada, "--fontes"] + fontes
+        for k in ("estadio", "cidade", "gols", "penaltis", "fase", "grupo"):
+            if x.get(k):
+                args += ["--" + k, str(x[k])]
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf):
+            cmd_jogo_passado(args)
+        if sem_hora:
+            d = jogos_de(chave)
+            for j in d["jogos"]:
+                if j["casa"] == casa and j["fora"] == fora and j["data"] == iso(d0):
+                    j["sem_hora"] = True
+            salvar_comp(chave, d)
+        feitos += 1
+    total = len([j for j in jogos_de(chave)["jogos"] if str(j.get("rodada")) == rodada])
+    print(f"OK: {chave} rodada {rodada}: {feitos} gravado(s), {pulados} já existia(m); a rodada tem {total} jogo(s) na base.")
+
+
+def cmd_rodadas_faltando(a):
+    """rodadas-faltando [--comp serie_a]: rodadas já disputadas com menos de 10 jogos encerrados na base."""
+    comps = [opc(a, "--comp")] if opc(a, "--comp") else ["serie_a", "serie_b"]
+    total = 0
+    for chave in comps:
+        js = jogos_de(chave)["jogos"]
+        enc = {}
+        for j in js:
+            if str(j.get("rodada", "")).isdigit() and j["status"] == "encerrado":
+                enc[int(j["rodada"])] = enc.get(int(j["rodada"]), 0) + 1
+        ultima = max(enc) if enc else 0
+        falta = [(r, enc.get(r, 0)) for r in range(1, ultima + 1) if enc.get(r, 0) < 10]
+        total += len(falta)
+        print(f"{chave}: {len(falta)} rodada(s) incompleta(s) até a {ultima}ª")
+        for r, n in falta:
+            print(f"  rodada {r}: {n} de 10 jogos")
+    if not total:
+        print("Todas as rodadas disputadas estão completas.")
+
+
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(0)
     c, resto = sys.argv[1], sys.argv[2:]
     {"agenda": cmd_agenda, "jogo-novo": cmd_jogo_novo, "remarcar": cmd_remarcar, "resultado": cmd_resultado,
-     "ocorrencia": cmd_ocorrencia, "prejogo": cmd_prejogo, "escalacao": cmd_escalacao, "elenco": cmd_elenco, "elencos-faltando": cmd_elencos_faltando, "competicao-nova": cmd_competicao_nova, "temporada": cmd_temporada, "jogo-passado": cmd_jogo_passado, "jogos-sem-escalacao": cmd_jogos_sem_escalacao, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)
+     "ocorrencia": cmd_ocorrencia, "prejogo": cmd_prejogo, "escalacao": cmd_escalacao, "elenco": cmd_elenco, "elencos-faltando": cmd_elencos_faltando, "competicao-nova": cmd_competicao_nova, "temporada": cmd_temporada, "jogo-passado": cmd_jogo_passado, "rodada-passada": cmd_rodada_passada, "rodadas-faltando": cmd_rodadas_faltando, "jogos-sem-escalacao": cmd_jogos_sem_escalacao, "calcular": cmd_calcular, "validar": cmd_validar}.get(c, lambda a: print(__doc__))(resto)

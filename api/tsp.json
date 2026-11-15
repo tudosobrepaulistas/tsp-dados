@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T06:57:00-03:00",
+ "gerado": "2026-11-15T10:26:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -568,6 +568,42 @@
    ],
    "feitos": [
     [
+     900006,
+     900002,
+     2,
+     2
+    ],
+    [
+     900016,
+     900004,
+     0,
+     1
+    ],
+    [
+     900014,
+     900019,
+     2,
+     0
+    ],
+    [
+     900005,
+     900017,
+     2,
+     1
+    ],
+    [
+     900018,
+     900007,
+     1,
+     2
+    ],
+    [
+     900009,
+     900001,
+     2,
+     1
+    ],
+    [
      900012,
      900010,
      0,
@@ -578,6 +614,18 @@
      900008,
      4,
      2
+    ],
+    [
+     900015,
+     900013,
+     2,
+     1
+    ],
+    [
+     900011,
+     900003,
+     4,
+     0
     ],
     [
      900003,
@@ -1853,6 +1901,270 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "fixture": {
+    "id": 91000374,
+    "timestamp": 1769612400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "fixture": {
+    "id": 91000375,
+    "timestamp": 1769612400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "fixture": {
+    "id": 91000376,
+    "timestamp": 1769612400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "fixture": {
+    "id": 91000377,
+    "timestamp": 1769612400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900005,
+     "name": "Fluminense"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "fixture": {
+    "id": 91000378,
+    "timestamp": 1769612400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "fixture": {
+    "id": 91000379,
+    "timestamp": 1769612400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/?p=3754295",
     "https://www.umdoisesportes.com.br/coritiba/coritiba-bragantino-resultado-ficha-tecnica-brasileirao-2026/"
    ],
@@ -1952,6 +2264,159 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.metropoles.com/esportes/de-virada-mirassol-bate-vasco-e-vence-primeira-no-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000380,
+    "timestamp": 1769698800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maião",
+     "city": ""
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.lance.com.br/brasileirao/botafogo-atropela-o-cruzeiro-e-poe-fim-a-tabu.html"
+   ],
+   "fixture": {
+    "id": 91000381,
+    "timestamp": 1769698800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Artur"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Matheus Martins"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -9844,7 +10309,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.25,
-     1.2
+     1.19
     ],
     "base": [
      20,
@@ -9894,16 +10359,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 21,
-    "fora": 18,
-    "placar": "2x1",
+    "casa": 56,
+    "empate": 23,
+    "fora": 21,
+    "placar": "1x1",
     "gols_esperados": [
-     2.02,
-     1.01
+     1.83,
+     1.03
     ],
     "base": [
-     10,
+     11,
      14
     ]
    },
@@ -9950,17 +10415,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
-    "empate": 19,
-    "fora": 13,
+    "casa": 63,
+    "empate": 21,
+    "fora": 17,
     "placar": "2x0",
     "gols_esperados": [
-     2.21,
-     0.86
+     2.03,
+     0.94
     ],
     "base": [
-     11,
-     23
+     12,
+     24
     ]
    },
    "events": []
@@ -10006,17 +10471,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 25,
-    "empate": 34,
-    "fora": 42,
-    "placar": "0x0",
+    "casa": 26,
+    "empate": 31,
+    "fora": 43,
+    "placar": "0x1",
     "gols_esperados": [
-     0.69,
-     1.0
+     0.82,
+     1.14
     ],
     "base": [
-     25,
-     13
+     26,
+     14
     ]
    },
    "events": []
@@ -10062,17 +10527,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 27,
-    "empate": 25,
-    "fora": 47,
+    "casa": 24,
+    "empate": 24,
+    "fora": 51,
     "placar": "1x1",
     "gols_esperados": [
-     1.1,
-     1.53
+     1.06,
+     1.67
     ],
     "base": [
-     13,
-     24
+     14,
+     25
     ]
    },
    "events": []
@@ -10118,17 +10583,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
-    "empate": 18,
-    "fora": 15,
+    "casa": 63,
+    "empate": 19,
+    "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.38,
-     1.06
+     2.27,
+     1.14
     ],
     "base": [
-     14,
-     13
+     15,
+     14
     ]
    },
    "events": []
@@ -10174,17 +10639,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
+    "casa": 44,
     "empate": 24,
-    "fora": 31,
+    "fora": 32,
     "placar": "1x1",
     "gols_esperados": [
-     1.71,
-     1.37
+     1.65,
+     1.38
     ],
     "base": [
-     12,
-     24
+     13,
+     25
     ]
    },
    "events": []
@@ -10230,16 +10695,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 24,
-    "empate": 23,
-    "fora": 52,
+    "casa": 28,
+    "empate": 24,
+    "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
-     1.15,
-     1.79
+     1.2,
+     1.63
     ],
     "base": [
-     11,
+     12,
      12
     ]
    },
@@ -10286,17 +10751,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 34,
-    "empate": 29,
-    "fora": 37,
+    "casa": 36,
+    "empate": 28,
+    "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
-     1.08,
-     1.14
+     1.15,
+     1.15
     ],
     "base": [
-     11,
-     10
+     12,
+     11
     ]
    },
    "events": []
@@ -10342,17 +10807,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
-    "empate": 29,
-    "fora": 17,
+    "casa": 56,
+    "empate": 26,
+    "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.3,
-     0.59
+     1.48,
+     0.7
     ],
     "base": [
-     13,
-     11
+     14,
+     12
     ]
    },
    "events": []
@@ -10398,16 +10863,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
-    "empate": 24,
-    "fora": 24,
+    "casa": 54,
+    "empate": 23,
+    "fora": 22,
     "placar": "1x1",
     "gols_esperados": [
-     1.71,
-     1.08
+     1.76,
+     1.04
     ],
     "base": [
-     13,
+     14,
      20
     ]
    },
@@ -10454,17 +10919,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 18,
-    "empate": 22,
-    "fora": 61,
-    "placar": "0x1",
+    "casa": 21,
+    "empate": 23,
+    "fora": 56,
+    "placar": "1x1",
     "gols_esperados": [
-     0.91,
-     1.9
+     1.02,
+     1.81
     ],
     "base": [
      14,
-     25
+     26
     ]
    },
    "events": []
@@ -10510,17 +10975,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 70,
-    "empate": 18,
-    "fora": 12,
+    "casa": 73,
+    "empate": 17,
+    "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.32,
-     0.87
+     2.35,
+     0.75
     ],
     "base": [
-     23,
-     10
+     24,
+     11
     ]
    },
    "events": []
@@ -10566,17 +11031,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 45,
-    "empate": 30,
+    "casa": 46,
+    "empate": 29,
     "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
-     1.2,
-     0.8
+     1.24,
+     0.82
     ],
     "base": [
-     10,
-     21
+     11,
+     22
     ]
    },
    "events": []
@@ -10622,17 +11087,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
-    "empate": 20,
-    "fora": 18,
-    "placar": "2x1",
+    "casa": 65,
+    "empate": 19,
+    "fora": 16,
+    "placar": "2x0",
     "gols_esperados": [
-     2.11,
-     1.03
+     2.22,
+     0.99
     ],
     "base": [
      12,
-     12
+     13
     ]
    },
    "events": []
@@ -10678,17 +11143,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 73,
-    "empate": 16,
-    "fora": 11,
+    "casa": 66,
+    "empate": 19,
+    "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.51,
-     0.89
+     2.21,
+     0.92
     ],
     "base": [
-     24,
-     11
+     25,
+     12
     ]
    },
    "events": []
@@ -10734,17 +11199,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 45,
-    "empate": 29,
-    "fora": 26,
+    "casa": 48,
+    "empate": 27,
+    "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
-     1.27,
-     0.89
+     1.38,
+     0.9
     ],
     "base": [
-     24,
-     11
+     25,
+     12
     ]
    },
    "events": []
@@ -10790,17 +11255,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 45,
+    "casa": 48,
     "empate": 24,
-    "fora": 30,
+    "fora": 28,
     "placar": "1x1",
     "gols_esperados": [
-     1.61,
-     1.28
+     1.69,
+     1.24
     ],
     "base": [
      21,
-     14
+     15
     ]
    },
    "events": []
@@ -10846,17 +11311,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
-    "empate": 25,
+    "casa": 59,
+    "empate": 24,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.55,
-     0.72
+     1.67,
+     0.75
     ],
     "base": [
-     18,
-     13
+     19,
+     14
     ]
    },
    "events": []
@@ -33518,6 +33983,12 @@
     "gols": 3
    },
    {
+    "jogador": "Danilo",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 3
+   },
+   {
     "jogador": "Gabigol",
     "time": "Santos",
     "time_id": 900008,
@@ -33620,6 +34091,12 @@
     "gols": 1
    },
    {
+    "jogador": "Artur",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
     "jogador": "Balbuena",
     "time": "Grêmio",
     "time_id": 900017,
@@ -33683,12 +34160,6 @@
     "jogador": "Cauly",
     "time": "São Paulo",
     "time_id": 900009,
-    "gols": 1
-   },
-   {
-    "jogador": "Danilo",
-    "time": "Botafogo",
-    "time_id": 900011,
     "gols": 1
    },
    {
@@ -33905,6 +34376,12 @@
     "jogador": "Matheus Bahia",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheus Martins",
+    "time": "Botafogo",
+    "time_id": 900011,
     "gols": 1
    },
    {

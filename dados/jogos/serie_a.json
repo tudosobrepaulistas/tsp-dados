@@ -1,6 +1,150 @@
 {
  "jogos": [
   {
+   "id": 91000374,
+   "data": "2026-01-28T12:00:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000375,
+   "data": "2026-01-28T12:00:00-03:00",
+   "casa": "internacional",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000376,
+   "data": "2026-01-28T12:00:00-03:00",
+   "casa": "vitoria",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000377,
+   "data": "2026-01-28T12:00:00-03:00",
+   "casa": "fluminense",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000378,
+   "data": "2026-01-28T12:00:00-03:00",
+   "casa": "corinthians",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000379,
+   "data": "2026-01-28T12:00:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.opovo.com.br/esportes/futebol/brasileirao-serie-a/2026/01/29/resultados-do-brasileirao-2026-veja-como-foi-a-1-rodada.html"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
+  },
+  {
    "id": 91000341,
    "data": "2026-01-28T19:00:00-03:00",
    "casa": "coritiba",
@@ -252,6 +396,79 @@
     ],
     "atualizado": "2026-11-14T03:36:00-03:00"
    }
+  },
+  {
+   "id": 91000380,
+   "data": "2026-01-29T12:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maião",
+   "cidade": "",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.metropoles.com/esportes/de-virada-mirassol-bate-vasco-e-vence-primeira-no-brasileirao"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000381,
+   "data": "2026-01-29T12:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 4,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Artur",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Martins",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/resultados-da-serie-a-vasco-perde-apos-bronca-de-diniz-e-botafogo-goleia-cruzeiro-de-tite-1.3738399",
+    "https://www.lance.com.br/brasileirao/botafogo-atropela-o-cruzeiro-e-poe-fim-a-tabu.html"
+   ],
+   "atualizado": "2026-11-15T10:26:00-03:00",
+   "sem_hora": true
   },
   {
    "id": 91000342,
