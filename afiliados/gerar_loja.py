@@ -90,6 +90,21 @@ CSS = """<style>
 .tspl-sub{margin:0 0 10px;color:#444;font-size:15px}
 .tspl-av{display:flex;gap:8px;align-items:flex-start;font-size:12.5px;color:#5b4a00;background:#fff8d9;border:1px solid #f1e3a3;border-radius:10px;padding:8px 12px;margin:0 0 14px}
 .tspl-av a{color:inherit}
+.tspl-bn{position:relative;margin:0 0 14px}
+.tspl-bn-tr{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;border-radius:16px}
+.tspl-bn-tr::-webkit-scrollbar{display:none}
+.tspl-bn a{flex:0 0 100%;scroll-snap-align:start;display:flex;align-items:center;gap:14px;min-height:190px;padding:18px 20px;text-decoration:none;color:#fff;background:radial-gradient(circle at 85% 50%,rgba(255,255,255,.22) 0,rgba(255,255,255,0) 45%),linear-gradient(120deg,var(--cor),#0b0b0b)}
+.tspl-bn .tx{flex:1;min-width:0}
+.tspl-bn .ey{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;background:rgba(255,255,255,.16);border-radius:6px;padding:3px 7px;margin:0 0 8px}
+.tspl-bn strong{display:block;font-size:24px;line-height:1.15;margin:0 0 6px}
+.tspl-bn .sb{display:block;font-size:14px;opacity:.92;margin:0 0 10px}
+.tspl-bn .cta{display:inline-flex;align-items:center;gap:8px;background:#fff;color:#111;border-radius:999px;padding:8px 14px;font-weight:800;font-size:14px}
+.tspl-bn .cta b{color:var(--cor)}
+.tspl-bn img{flex:none;width:160px;height:160px;object-fit:contain;background:#fff;border-radius:50%;padding:12px;margin:0;box-shadow:0 8px 24px rgba(0,0,0,.35)}
+.tspl-bn-dots{position:absolute;left:0;right:0;bottom:8px;display:flex;justify-content:center;gap:6px}
+.tspl-bn-dots button{width:8px;height:8px;border-radius:50%;border:0;padding:0;background:rgba(255,255,255,.5);cursor:pointer}
+.tspl-bn-dots button[aria-current=true]{background:#fff;width:20px;border-radius:4px}
+@media(max-width:560px){.tspl-bn a{min-height:170px;padding:14px}.tspl-bn strong{font-size:18px}.tspl-bn .sb{font-size:12.5px}.tspl-bn img{width:104px;height:104px;padding:8px}}
 .tspl-chips{display:flex;gap:6px;overflow-x:auto;padding:0 0 8px;margin:0 0 6px;scrollbar-width:thin}
 .tspl-chips button{flex:none;border:1px solid #d9d9d9;background:#fff;border-radius:999px;padding:6px 12px;font-size:13px;font-weight:700;cursor:pointer;color:#222}
 .tspl-chips button[aria-pressed=true]{background:var(--cor);border-color:var(--cor);color:#fff}
@@ -166,9 +181,28 @@ if(k==='tudo'||k==='cat')setCat('');if(k==='tudo'){st.loja=[];st.marca=[];st.pub
 if(k==='loja'||k==='marca'){st[k]=st[k].filter(function(x){return x!==v});qa('.tspl-side input[data-f='+k+']').forEach(function(i){if(i.value===v)i.checked=false});}
 if(k==='pub'||k==='faixa'){st[k]='';var z=q('.tspl-side input[data-f='+k+'][value=""]');if(z)z.checked=true;}
 if(k==='mm'){st.min=st.max=0;q('#tf-min').value='';q('#tf-max').value='';}if(k==='vend'){st.vend=0;qa('.tspl-side input[data-f=vend]').forEach(function(i){i.checked=false});}ap();});
+var bt=q('.tspl-bn-tr');if(bt){var ds=qa('.tspl-bn-dots button'),bi=0,pa=false;function go(i){bi=(i+ds.length)%ds.length;bt.scrollTo({left:bt.clientWidth*bi,behavior:'smooth'});}
+bt.addEventListener('scroll',function(){var i=Math.round(bt.scrollLeft/bt.clientWidth);ds.forEach(function(d,k){d.setAttribute('aria-current',k===i)});bi=i;});
+ds.forEach(function(d,k){d.addEventListener('click',function(){go(k)})});bt.addEventListener('mouseenter',function(){pa=true});bt.addEventListener('mouseleave',function(){pa=false});bt.addEventListener('touchstart',function(){pa=true},{passive:true});
+setInterval(function(){if(!pa)go(bi+1)},6000);}
 var h=decodeURIComponent((location.hash||'').slice(1));if(h){var b=qa('.tspl-chips button').filter(function(x){return x.dataset.slug===h})[0];if(b)setCat(b.dataset.v);}ap();
 })();
 </script>"""
+
+
+def banners(conf, itens):
+    bs = []
+    for chave, tit, sub in conf.get("banners", []):
+        it = next((i for i in itens if chave.lower() in i["produto"].lower()), None)
+        if it:
+            bs.append(f'<a href="{e(it["link"])}" target="_blank" rel="sponsored nofollow noopener" aria-label="{e(tit)}">'
+                      f'<span class="tx"><span class="ey">Achadinho oficial</span><strong>{e(tit)}</strong><span class="sb">{e(sub)}</span>'
+                      f'<span class="cta">Ver achadinho · <b>{e(it["preco_13_11"])}</b></span></span>'
+                      f'<img src="{e(it["imagem"])}" alt="{e(it["produto"])}" width="160" height="160" loading="eager"></a>')
+    if not bs:
+        return ""
+    dots = "".join(f'<button type="button" aria-label="Banner {k + 1}" aria-current="{str(k == 0).lower()}"></button>' for k in range(len(bs)))
+    return f'<div class="tspl-bn" role="region" aria-label="Destaques"><div class="tspl-bn-tr">{"".join(bs)}</div><div class="tspl-bn-dots">{dots}</div></div>'
 
 
 def facet(f, opcoes, tipo="checkbox", todos=None):
@@ -221,6 +255,7 @@ def main(clube):
          f'<p class="tspl-av"><span aria-hidden="true">ℹ️</span><span><strong>Não somos a loja oficial do {e(nome)}.</strong> '
          'O Tudo Sobre Paulista é um site de notícias que recomenda produtos com links de afiliado: a compra é feita na loja parceira. '
          '<a href="#tspl-transparencia">Entenda</a></span></p>',
+         banners(conf, itens),
          '<div class="tspl-chips" role="group" aria-label="Tipo de produto"><button type="button" data-v="" data-slug="" aria-pressed="true">Tudo</button>'
          + "".join(f'<button type="button" data-v="{e(c)}" data-slug="{slug(c)}" aria-pressed="false">{e(c)}</button>' for c in cats) + '</div>',
          '<div class="tspl-bar"><span class="n"><b>' + str(len(itens)) + '</b> resultados</span>'

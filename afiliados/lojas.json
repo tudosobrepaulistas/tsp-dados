@@ -48,7 +48,24 @@
   ],
   "min_vendas": 30,
   "apelido": "Verdão",
-  "titulo_pagina": "Achadinhos do Verdão: produtos oficiais do Palmeiras"
+  "titulo_pagina": "Achadinhos do Verdão: produtos oficiais do Palmeiras",
+  "banners": [
+   [
+    "LUVA GOLEIRO PALMEIRAS INFANTIL",
+    "Seu filho vive pedindo pra ser goleiro?",
+    "Luva infantil oficial do Verdão para defender no quintal, na escolinha e no society."
+   ],
+   [
+    "Camisa Palmeiras 1914",
+    "Quer vestir o Verdão sem gastar uma fortuna?",
+    "Camisa 1914 oficial: o manto alviverde para o dia a dia e para o dia de jogo."
+   ],
+   [
+    "Chinelo Havaianas Original Top Times Palmeiras",
+    "Dia de jogo começa no pé",
+    "Chinelo oficial do Verdão para o churrasco, a praia e o caminho do estádio."
+   ]
+  ]
  },
  "corinthians": {
   "nome": "Corinthians",
@@ -99,7 +116,24 @@
    ]
   ],
   "apelido": "Timão",
-  "titulo_pagina": "Achadinhos do Timão: produtos oficiais do Corinthians"
+  "titulo_pagina": "Achadinhos do Timão: produtos oficiais do Corinthians",
+  "banners": [
+   [
+    "Camisa Retrô Corinthians Democracia 1982 Masculina",
+    "Quer vestir a história do Timão?",
+    "Camisa retrô Democracia 1982 oficial: a camisa que todo corinthiano reconhece de longe."
+   ],
+   [
+    "Colar Corinthians Folheado",
+    "Presente barato que a Fiel usa todo dia",
+    "Colar com pingente do escudo oficial para levar o Timão no peito."
+   ],
+   [
+    "Garrafa do Corinthians 750mL",
+    "Treino, trabalho ou arquibancada",
+    "Garrafa oficial de 750 ml para levar o Timão para todo lado."
+   ]
+  ]
  },
  "sao-paulo": {
   "nome": "São Paulo",
@@ -150,7 +184,24 @@
    ]
   ],
   "apelido": "Tricolor",
-  "titulo_pagina": "Achadinhos do Tricolor: produtos oficiais do São Paulo"
+  "titulo_pagina": "Achadinhos do Tricolor: produtos oficiais do São Paulo",
+  "banners": [
+   [
+    "Chinelo Havaianas Time São Paulo FC",
+    "Tricolor até no pé",
+    "Chinelo oficial do São Paulo para o dia a dia, a praia e o dia de jogo."
+   ],
+   [
+    "Luva De Goleiro Infantil São Paulo",
+    "Seu filho quer pegar tudo no gol?",
+    "Luva de goleiro infantil oficial do Tricolor para a escolinha e o quintal."
+   ],
+   [
+    "Faca Churrasqueiro São Paulo",
+    "Churrasco de domingo com cara de Tricolor",
+    "Faca oficial do São Paulo para quem comanda a churrasqueira em dia de jogo."
+   ]
+  ]
  },
  "santos": {
   "nome": "Santos",
@@ -197,6 +248,23 @@
    ]
   ],
   "apelido": "Peixe",
-  "titulo_pagina": "Achadinhos do Peixe: produtos oficiais do Santos"
+  "titulo_pagina": "Achadinhos do Peixe: produtos oficiais do Santos",
+  "banners": [
+   [
+    "Chinelo Havaianas Top Times Santos Alvinegro Praiano",
+    "Santista de verdade anda com o Peixe no pé",
+    "Chinelo oficial do Santos para a praia, o calçadão e o dia de jogo."
+   ],
+   [
+    "Luva De Goleiro Infantil Santos",
+    "Seu filho quer ser goleiro do Peixe?",
+    "Luva infantil oficial do Santos para defender no quintal e na escolinha."
+   ],
+   [
+    "CANECA ESTÁDIO SANTOS",
+    "Café da manhã com cara de Vila",
+    "Caneca do estádio oficial do Santos para começar o dia com o Peixe."
+   ]
+  ]
  }
 }
