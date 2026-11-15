@@ -56,8 +56,8 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
 ## Camisa das figurinhas e rotina (14/11/2026, pedido do Thiago)
 - Camisa inicial = modelo OFICIAL DA TEMPORADA 2026 do clube, com o escudo, SEM marcas de anunciantes. Quando o clube lançar a
   camisa 2027, refazer as figurinhas do clube com a camisa nova.
-- Pendente: refazer as 5 do Ituano (saíram com listras verticais; a camisa 2026 do Ituano é vermelha com faixa preta horizontal,
-  como na arte oficial do Isaque).
+- Ituano: as 5 figurinhas foram refeitas em 15/11/2026 com a camisa 2026 real (mangas azul-marinho, peito vermelho com faixa escura horizontal). Para novos reforços do Ituano, use uma delas como modelo da camisa.
+- Quando a foto de referência mostra o jogador com camisa de outro clube, a camisa da figurinha sai só "nas cores do clube" (não é o modelo oficial); refazer quando houver foto oficial com a camisa.
 - Dados (cloud, Mac desligado): tarefa diária "Mercado da Bola 2027" — primeiro os anúncios mais recentes; depois volta aos
   anunciados nos dias anteriores para completar números de 2026, clubes de 2026, selos e de onde veio.
 - Figurinhas (precisa do Mac ligado com o Chrome aberto e o ChatGPT logado): tarefa "Figurinhas do mercado" no computador do Thiago.

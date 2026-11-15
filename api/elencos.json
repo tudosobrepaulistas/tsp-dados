@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T04:40:00-03:00",
+ "gerado": "2026-11-15T05:10:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -446,6 +446,389 @@
     {
      "nome": "Jadson",
      "posicao": "Atacante"
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "bragantino": {
+   "atualizado": "2026-11-15T03:52:00-03:00",
+   "fonte": "https://www.redbullbragantino.com/br-pt/blog/jogadores-red-bull-bragantino",
+   "jogadores": [
+    {
+     "nome": "Cleiton",
+     "posicao": "Goleiro",
+     "numero": 1,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 360,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Tiago Volpi",
+     "posicao": "Goleiro",
+     "numero": 18,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Fernando Costa",
+     "posicao": "Goleiro",
+     "numero": 24
+    },
+    {
+     "nome": "Fabrício",
+     "posicao": "Goleiro",
+     "numero": 37
+    },
+    {
+     "nome": "Gustavo Reis",
+     "posicao": "Goleiro",
+     "numero": 56
+    },
+    {
+     "nome": "Guzmán Rodríguez",
+     "posicao": "Zagueiro",
+     "numero": 2,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Eduardo Santos",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Alix Vinícius",
+     "posicao": "Zagueiro",
+     "numero": 4,
+     "numeros": {
+      "jogos": 4,
+      "gols": 0,
+      "minutos": 338,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Pedro Henrique",
+     "posicao": "Zagueiro",
+     "numero": 14,
+     "numeros": {
+      "jogos": 2,
+      "gols": 1,
+      "minutos": 44,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Gustavo Marques",
+     "posicao": "Zagueiro",
+     "numero": 16,
+     "numeros": {
+      "jogos": 5,
+      "gols": 1,
+      "minutos": 450,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Agustín Sant'Anna",
+     "posicao": "Lateral",
+     "numero": 23,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Andrés Hurtado",
+     "posicao": "Lateral",
+     "numero": 34,
+     "numeros": {
+      "jogos": 2,
+      "gols": 0,
+      "minutos": 149,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Vanderlan",
+     "posicao": "Lateral",
+     "numero": 12
+    },
+    {
+     "nome": "Juninho Capixaba",
+     "posicao": "Lateral",
+     "numero": 29,
+     "numeros": {
+      "jogos": 5,
+      "gols": 1,
+      "minutos": 450,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Cauê",
+     "posicao": "Lateral",
+     "numero": 51
+    },
+    {
+     "nome": "Fabinho",
+     "posicao": "Volante",
+     "numero": 5,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Gabriel Girotto",
+     "posicao": "Volante",
+     "numero": 6
+    },
+    {
+     "nome": "Eric Ramires",
+     "posicao": "Meia",
+     "numero": 7,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 158,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Nacho Sosa",
+     "posicao": "Volante",
+     "numero": 15,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Rodriguinho",
+     "posicao": "Meia",
+     "numero": 20
+    },
+    {
+     "nome": "Gustavo Neves",
+     "posicao": "Meia",
+     "numero": 22,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Matheus Fernandes",
+     "posicao": "Volante",
+     "numero": 35,
+     "numeros": {
+      "jogos": 4,
+      "gols": 1,
+      "minutos": 167,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Eduardo Sasha",
+     "posicao": "Atacante",
+     "numero": 8,
+     "numeros": {
+      "jogos": 5,
+      "gols": 1,
+      "minutos": 329,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Isidro Pitta",
+     "posicao": "Atacante",
+     "numero": 9,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 63,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Fernando",
+     "posicao": "Atacante",
+     "numero": 11,
+     "numeros": {
+      "jogos": 3,
+      "gols": 0,
+      "minutos": 71,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Vinicinho Pereira",
+     "posicao": "Atacante",
+     "numero": 17
+    },
+    {
+     "nome": "Lucas Barbosa",
+     "posicao": "Atacante",
+     "numero": 21,
+     "numeros": {
+      "jogos": 5,
+      "gols": 0,
+      "minutos": 450,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "Davi Gomes",
+     "posicao": "Atacante",
+     "numero": 27
+    },
+    {
+     "nome": "Henry Mosquera",
+     "posicao": "Atacante",
+     "numero": 30,
+     "numeros": {
+      "jogos": 3,
+      "gols": 2,
+      "minutos": 191,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
+    },
+    {
+     "nome": "José Herrera",
+     "posicao": "Atacante",
+     "numero": 32
+    },
+    {
+     "nome": "Marcelinho",
+     "posicao": "Atacante",
+     "numero": 57,
+     "numeros": {
+      "jogos": 1,
+      "gols": 1,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     }
    ],
    "chegaram": [],
@@ -910,9 +1293,9 @@
      "posicao": "Goleiro",
      "numero": 22,
      "numeros": {
-      "jogos": 10,
+      "jogos": 11,
       "gols": 0,
-      "minutos": 900,
+      "minutos": 990,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -973,9 +1356,9 @@
      "posicao": "Lateral",
      "numero": 32,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 2,
-      "minutos": 698,
+      "minutos": 788,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1005,9 +1388,9 @@
      "posicao": "Lateral",
      "numero": 6,
      "numeros": {
-      "jogos": 10,
+      "jogos": 11,
       "gols": 2,
-      "minutos": 878,
+      "minutos": 968,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1073,9 +1456,9 @@
      "posicao": "Zagueiro",
      "numero": 2,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 338,
+      "minutos": 428,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1089,9 +1472,9 @@
      "posicao": "Zagueiro",
      "numero": 34,
      "numeros": {
-      "jogos": 12,
+      "jogos": 13,
       "gols": 1,
-      "minutos": 1064,
+      "minutos": 1154,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1146,9 +1529,9 @@
      "posicao": "Meia",
      "numero": 25,
      "numeros": {
-      "jogos": 11,
+      "jogos": 12,
       "gols": 0,
-      "minutos": 768,
+      "minutos": 836,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1162,9 +1545,9 @@
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 1,
-      "minutos": 542,
+      "minutos": 610,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1178,9 +1561,9 @@
      "posicao": "Meia",
      "numero": 33,
      "numeros": {
-      "jogos": 10,
+      "jogos": 11,
       "gols": 3,
-      "minutos": 632,
+      "minutos": 654,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1194,9 +1577,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 360,
+      "minutos": 428,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1210,9 +1593,9 @@
      "posicao": "Meia",
      "numero": 10,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 134,
+      "minutos": 156,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1226,9 +1609,9 @@
      "posicao": "Meia",
      "numero": 21,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 202,
+      "minutos": 224,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1247,9 +1630,9 @@
      "posicao": "Atacante",
      "numero": 17,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 44,
+      "minutos": 66,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1263,9 +1646,9 @@
      "posicao": "Atacante",
      "numero": 30,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 226,
+      "minutos": 316,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1364,9 +1747,9 @@
      "posicao": "Atacante",
      "numero": 95,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 270,
+      "minutos": 292,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1380,9 +1763,9 @@
      "posicao": "Atacante",
      "numero": 96,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 244,
+      "minutos": 312,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1412,9 +1795,9 @@
      "posicao": "Atacante",
      "numero": 77,
      "numeros": {
-      "jogos": 13,
+      "jogos": 14,
       "gols": 1,
-      "minutos": 790,
+      "minutos": 858,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1454,9 +1837,9 @@
      "nome": "Jordi",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 270,
+      "minutos": 360,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1485,9 +1868,9 @@
      "nome": "Madson",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 158,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1515,9 +1898,9 @@
      "nome": "Sander",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1530,9 +1913,9 @@
      "nome": "Carlinhos",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1545,9 +1928,9 @@
      "nome": "Eduardo Brock",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 1,
-      "minutos": 44,
+      "minutos": 134,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -1609,9 +1992,9 @@
      "nome": "Juninho",
      "posicao": "Volante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 134,
+      "minutos": 156,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -1639,9 +2022,9 @@
      "nome": "Luís Oyama",
      "posicao": "Volante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 294,
+      "minutos": 384,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1658,9 +2041,9 @@
      "nome": "Diego Galo",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 1,
-      "minutos": 136,
+      "minutos": 204,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1681,9 +2064,9 @@
      "nome": "Matheus Bianqui",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 2,
-      "minutos": 202,
+      "minutos": 292,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -1696,9 +2079,9 @@
      "nome": "Rômulo",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 4,
-      "gols": 1,
-      "minutos": 226,
+      "jogos": 5,
+      "gols": 2,
+      "minutos": 294,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -1726,9 +2109,9 @@
      "nome": "Carlão",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -1779,9 +2162,9 @@
      "nome": "Reidiney",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 68,
+      "minutos": 136,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1794,9 +2177,9 @@
      "nome": "Robson",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 316,
+      "minutos": 384,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -1809,9 +2192,9 @@
      "nome": "Ronald Barcellos",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -2658,7 +3041,7 @@
      "foto": {
       "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luiz-henrique-ituano.webp",
       "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
+      "fonte": "https://images.futebolinterior.com.br/2026/10/ituano-luiz-henrique2.webp",
       "ia": true
      },
      "novo": true,
@@ -2673,7 +3056,7 @@
      "foto": {
       "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-eduardo-henrique-ituano.webp",
       "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
+      "fonte": "https://images.futebolinterior.com.br/2026/11/ituano-eduardo-henriqe.webp",
       "ia": true
      },
      "novo": true,
@@ -2703,7 +3086,7 @@
      "foto": {
       "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-neto-berola-ituano.webp",
       "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/ituano-anuncia-retorno-atacante-para-2027/",
+      "fonte": "https://images.futebolinterior.com.br/2025/05/IMG_9348.webp",
       "ia": true
      },
      "novo": true,
@@ -2718,7 +3101,7 @@
      "foto": {
       "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-luketa-ituano.webp",
       "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/artilheiro-serie-a2-luketa-sertaozinho/",
+      "fonte": "https://images.futebolinterior.com.br/2026/03/Captura-de-tela-2026-03-17-154445.webp",
       "ia": true
      },
      "novo": true,
@@ -2753,7 +3136,7 @@
      "foto": {
       "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-isaque-ituano.webp",
       "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+      "fonte": "https://images.futebolinterior.com.br/2026/11/isaque-ituano.webp",
       "ia": true
      },
      "novo": true,
