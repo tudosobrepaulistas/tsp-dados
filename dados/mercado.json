@@ -212,13 +212,21 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-isaque-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-isaque-ituano.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://images.futebolinterior.com.br/2026/11/isaque-ituano.webp",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "jogos": 23,
+    "gols": 3,
+    "clubes": [
+     "Itabaiana"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+   },
+   "atualizado": "2026-11-15T06:57:00-03:00"
   },
   {
    "data": "2026-11-13",
@@ -309,6 +317,25 @@
    "anuncio_do_clube": true,
    "id": "2026-11-12-lucas-gomes-penapolense",
    "atualizado": "2026-11-14T03:11:00-03:00"
+  },
+  {
+   "data": "2026-11-12",
+   "jogador": "Jonathan",
+   "posicao": "",
+   "de": "Botafogo-SP",
+   "de_slug": "botafogosp",
+   "para": "Botafogo-SP",
+   "para_slug": "botafogosp",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "contrato até o fim de 2027",
+   "fontes": [
+    "https://www.bra1.com.br/esportes/id-725012/jonathan_renova_com_o_botafogo_sp_ate_2027_e_mira_vitoria_sobre_o_juventude",
+    "https://cbnribeirao.com.br/entre-renovacoes-de-atletas-botafogo-sp-mira-preparacao-para-atingir-objetivo-de-chegar-no-top-10-da-serie-b/"
+   ],
+   "id": "2026-11-12-jonathan-botafogo-sp",
+   "atualizado": "2026-11-15T06:57:00-03:00"
   },
   {
    "data": "2026-11-12",
@@ -1280,6 +1307,31 @@
   },
   {
    "data": "2026-11-06",
+   "jogador": "Marcos Pedro",
+   "posicao": "Lateral",
+   "de": "Metropolitano-SC",
+   "de_slug": "",
+   "para": "Santo André",
+   "para_slug": "santoandre",
+   "tipo": "emprestimo",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo; Emprestado até o fim da Série A2 e da Copa Paulista de 2027",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4367202/santo-andre-acerta-contratacao-do-lateral-esquerdo-marcos-pedro"
+   ],
+   "anuncio_do_clube": true,
+   "numeros_2026": {
+    "clubes": [
+     "Metropolitano-SC"
+    ],
+    "fonte": "https://www.dgabc.com.br/Noticia/4367202/santo-andre-acerta-contratacao-do-lateral-esquerdo-marcos-pedro"
+   },
+   "id": "2026-11-06-marcos-pedro-santo-andre",
+   "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-06",
    "jogador": "Luiz Gustavo",
    "posicao": "Zagueiro",
    "de": "XV de Piracicaba",
@@ -2071,6 +2123,26 @@
   },
   {
    "data": "2026-11-03",
+   "jogador": "Rafael Longuine",
+   "posicao": "Meia",
+   "de": "Primavera",
+   "de_slug": "primavera",
+   "para": "XV de Piracicaba",
+   "para_slug": "xvdepiracicaba",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-Santos, Guarani e Ponte Preta; pré-contrato até o fim do Paulistão A2",
+   "fontes": [
+    "https://xvpiracicaba.com.br/noticias/somando-titulos-estaduais-meio-campistas-keven-e-rafael-longuine-assinam-pre-contrato-com-o-xv/",
+    "https://www.futebolinterior.com.br/xv-acerta-com-meia-ex-santosfc-e-ponte/",
+    "https://cbncampinas.com.br/2026/11/ex-guarani-e-ponte-preta-e-anunciado-pelo-xv-de-piracicaba-para-serie-a2/"
+   ],
+   "id": "2026-11-03-rafael-longuine-xv-de-piracicaba",
+   "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
    "jogador": "Pedro Rinaldi",
    "posicao": "Lateral",
    "de": "",
@@ -2755,6 +2827,114 @@
      "emprestimo": true
     }
    ]
+  },
+  {
+   "data": "2026-10-28",
+   "jogador": "Wandson",
+   "posicao": "Atacante",
+   "de": "",
+   "de_slug": "",
+   "para": "Santo André",
+   "para_slug": "santoandre",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-28-wandson-santo-andre",
+   "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-10-28",
+   "jogador": "Gustavo Nicola",
+   "posicao": "Volante",
+   "de": "",
+   "de_slug": "",
+   "para": "Santo André",
+   "para_slug": "santoandre",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-28-gustavo-nicola-santo-andre",
+   "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-10-28",
+   "jogador": "Douglas Marques",
+   "posicao": "Goleiro",
+   "de": "São Caetano",
+   "de_slug": "saocaetano",
+   "para": "Santo André",
+   "para_slug": "santoandre",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-28-douglas-marques-santo-andre",
+   "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-10-28",
+   "jogador": "Cayo Tenório",
+   "posicao": "Lateral",
+   "de": "",
+   "de_slug": "",
+   "para": "Santo André",
+   "para_slug": "santoandre",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-28-cayo-tenorio-santo-andre",
+   "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-10-21",
+   "jogador": "Danilinho",
+   "posicao": "Meia",
+   "de": "",
+   "de_slug": "",
+   "para": "Santo André",
+   "para_slug": "santoandre",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Revelado pelo Red Bull Brasil; pré-contrato até outubro de 2027",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4354067/santo-andre-anuncia-danilinho-como-primeiro-reforco-para-2027",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ],
+   "anuncio_do_clube": true,
+   "numeros_2026": {
+    "clubes": [
+     "Gama"
+    ],
+    "fonte": "https://www.dgabc.com.br/Noticia/4354067/santo-andre-anuncia-danilinho-como-primeiro-reforco-para-2027"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Candango 2026",
+     "fonte": "https://www.dgabc.com.br/Noticia/4354067/santo-andre-anuncia-danilinho-como-primeiro-reforco-para-2027"
+    }
+   ],
+   "id": "2026-10-21-danilinho-santo-andre",
+   "atualizado": "2026-11-15T06:57:00-03:00"
   }
  ]
 }

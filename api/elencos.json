@@ -1,9 +1,9 @@
 {
- "gerado": "2026-11-15T05:43:00-03:00",
+ "gerado": "2026-11-15T06:57:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
-   "atualizado": "2026-11-09T03:54:00-03:00",
+   "atualizado": "2026-11-12",
    "fonte": "https://botafogofutebolsa.com.br/elenco-2023/",
    "jogadores": [
     {
@@ -184,8 +184,12 @@
       "clubes": [
        "Botafogo-SP"
       ],
-      "fonte": "Base TSP (fichas técnicas conferidas)"
-     }
+      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "escudos": {}
+     },
+     "renovou": true,
+     "foto": null,
+     "selos": []
     },
     {
      "nome": "Gabriel Inocêncio",
@@ -3030,6 +3034,177 @@
    "chegaram": [],
    "sairam": []
   },
+  "santoandre": {
+   "atualizado": "2026-11-11",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Danilinho",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Gama"
+      ],
+      "fonte": "https://www.dgabc.com.br/Noticia/4354067/santo-andre-anuncia-danilinho-como-primeiro-reforco-para-2027",
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Campeão Candango 2026",
+       "fonte": "https://www.dgabc.com.br/Noticia/4354067/santo-andre-anuncia-danilinho-como-primeiro-reforco-para-2027"
+      }
+     ],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Wandson",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Gustavo Nicola",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Douglas Marques",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "São Caetano"
+    },
+    {
+     "nome": "Cayo Tenório",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Júlio Vaz",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Sérgio Raphael",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Marcos Pedro",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Metropolitano-SC"
+      ],
+      "fonte": "https://www.dgabc.com.br/Noticia/4367202/santo-andre-acerta-contratacao-do-lateral-esquerdo-marcos-pedro",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Metropolitano-SC"
+    },
+    {
+     "nome": "Félix Jorge",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "CSA"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Danilinho",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-21"
+    },
+    {
+     "nome": "Wandson",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Gustavo Nicola",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Douglas Marques",
+     "de": "São Caetano",
+     "tipo": "Contratação",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Cayo Tenório",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Júlio Vaz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Sérgio Raphael",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Marcos Pedro",
+     "de": "Metropolitano-SC",
+     "tipo": "Empréstimo",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Félix Jorge",
+     "de": "CSA",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
+    }
+   ],
+   "sairam": []
+  },
   "ituano": {
    "atualizado": "2026-11-13",
    "fonte": "",
@@ -3162,7 +3337,17 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 23,
+      "gols": 3,
+      "clubes": [
+       "Itabaiana"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+      "escudos": {
+       "Itabaiana": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/itabaiana.png"
+      }
+     },
      "selos": [],
      "nascimento": "",
      "de": "Itabaiana"
@@ -3738,6 +3923,16 @@
      "de": "ASA"
     },
     {
+     "nome": "Rafael Longuine",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Primavera"
+    },
+    {
      "nome": "Maurício Ribeiro",
      "posicao": "Zagueiro",
      "foto": null,
@@ -3833,6 +4028,12 @@
      "data": "2026-11-03"
     },
     {
+     "nome": "Rafael Longuine",
+     "de": "Primavera",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
      "nome": "Maurício Ribeiro",
      "de": "",
      "tipo": "Contratação",
@@ -3867,64 +4068,6 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-03"
-    }
-   ],
-   "sairam": []
-  },
-  "santoandre": {
-   "atualizado": "2026-11-11",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Júlio Vaz",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Sérgio Raphael",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Félix Jorge",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "CSA"
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Júlio Vaz",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Sérgio Raphael",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "Félix Jorge",
-     "de": "CSA",
-     "tipo": "Contratação",
-     "data": "2026-11-11"
     }
    ],
    "sairam": []
