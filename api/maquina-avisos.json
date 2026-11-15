@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-15T11:57-03:00",
+ "gerado": "2026-11-15T12:03-03:00",
  "avisos": [
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-14T06:54-03:00",
-   "motivo": "Única notícia da semana (Diário do Grande ABC, 13/11) tem só 1 fonte; evergreen bloqueado (história em 05/11)",
-   "sugestao": "São Caetano pediu à Prefeitura a concessão do Anacleto Campanella (pedido em análise), recuperou o gramado e já tem pré-contratos para a A4 2027 (DGABC 13/11: https://www.dgabc.com.br/Noticia/4368577/sao-caetano-inicia-preparacao-para-a-serie-a-4-do-paulista). Confirmar com o clube ou a Prefeitura para ter a 2ª fonte."
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-14T06:54-03:00",
-   "motivo": "Pré-contratos para a A4 só em 1 fonte (CBN Ribeirão, 09/11); evergreen bloqueado (história em 06/11)",
-   "sugestao": "Executivo Ricardo Guedes diz que o Comercial já tem pelo menos 10 pré-contratos para a A4 2027 e conta com 5 a 8 atletas acima de 23 anos (https://cbnribeirao.com.br/comercial-ja-tem-pelo-menos-dez-pre-contratos-assinados-para-a-serie-a4-do-paulista-de-2027/). Falta 2ª fonte: perguntar ao clube ou ver ACidade ON/Revide."
-  },
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-14T06:54-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias em jornais de São Carlos e na FPF; evergreen bloqueado até 19/11",
-   "sugestao": "Perguntar ao clube sobre técnico e elenco para a A4 2027 (em 01/10 o Futebol Interior listava o Grêmio São-Carlense sem treinador definido)."
-  },
   {
    "clube": "taquaritinga",
    "nome": "Taquaritinga",
@@ -420,6 +399,27 @@
    "quando": "2026-11-15T11:57-03:00",
    "motivo": "Cota das 11h43: sem fato novo confirmado em 48h; pior campanha e números da Série B já publicados",
    "sugestao": "Reapresentação, primeiras saídas e reforços da Ponte para a A2 e a Série C de 2027 (conferir com o clube e Hora Campinas/CBN Campinas)"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-15T12:03-03:00",
+   "motivo": "Cota das 11h43: sem fato novo confirmado em 48h; evergreen bloqueado (história em 06/11)",
+   "sugestao": "Andamento da SAF do Comercial (Ricardo Oliveira) e novos pré-contratos para a A4 2027, com Revide/A Cidade e o clube"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-15T12:03-03:00",
+   "motivo": "Cota das 11h43: nenhuma notícia da Lusa confirmada em 2 fontes nas últimas 48h",
+   "sugestao": "Montagem do elenco da Portuguesa para o Paulistão 2027 (reforços já anunciados, reapresentação, Zanardi)"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-15T12:03-03:00",
+   "motivo": "Cota das 11h43: saída de João Paulo já publicada; datas das assembleias da SAF (16 a 19/11) sem confirmação recente",
+   "sugestao": "Semana da SAF do Guarani: confirmar com o clube as assembleias e a votação final de 19/11 da proposta de Roberto Graziano"
   }
  ]
 }
