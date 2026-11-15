@@ -1,13 +1,6 @@
 {
- "gerado": "2026-11-15T20:34-03:00",
+ "gerado": "2026-11-15T20:44-03:00",
  "avisos": [
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-14T11:06-03:00",
-   "motivo": "Notícias de reforços com mais de 7 dias; evergreen bloqueado (história em 10/11)",
-   "sugestao": "Lemense marcou o início dos treinos para 15/11/2026 com o técnico Danilo Sacramento: confirmar a reapresentação e o elenco (Railson, Wesley Pacheco, Luizão) com o clube"
-  },
   {
    "clube": "portuguesa",
    "nome": "Portuguesa",
@@ -420,6 +413,13 @@
    "quando": "2026-11-15T20:34-03:00",
    "motivo": "Cobertura 6h: nenhuma notícia do São Bernardo FC nas últimas 24h; substituto de Bergantin (Cauan de Almeida, Futebol Interior 10/11) segue sem confirmação",
    "sugestao": "Acompanhar o anúncio do novo técnico do São Bernardo para o Paulistão 2027 e as renovações do elenco"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-15T20:44-03:00",
+   "motivo": "Cobertura 6h (bloco A3): pautas recentes já publicadas (João Pedro na Penapolense em 09/11; Museu do São Bento já tem matéria) e nenhuma notícia nova de Catanduva, Rio Preto, Bandeirante ou Grêmio Prudente nas últimas 48h; servidores de imagem dos jornais bloqueados nesta execução",
+   "sugestao": "Conferir anúncios de elenco e comissão técnica de Catanduva, Rio Preto, Bandeirante e Grêmio Prudente para a A3 de 2027 nos sites e Instagram oficiais"
   }
  ]
 }
