@@ -30,6 +30,12 @@
   "gols": 4
  },
  {
+  "jogador": "Bruno Santos",
+  "time": "Londrina",
+  "time_id": 900038,
+  "gols": 3
+ },
+ {
   "jogador": "Chrystian Barletta",
   "time": "Sport",
   "time_id": 900027,
@@ -84,6 +90,12 @@
   "gols": 2
  },
  {
+  "jogador": "Juan Alano",
+  "time": "Ceará",
+  "time_id": 900035,
+  "gols": 2
+ },
+ {
   "jogador": "Kadu Sousa",
   "time": "Goiás",
   "time_id": 900030,
@@ -129,6 +141,12 @@
   "jogador": "Vilar",
   "time": "Botafogo-SP",
   "time_id": 900032,
+  "gols": 2
+ },
+ {
+  "jogador": "Vinicius Peixoto",
+  "time": "Cuiabá",
+  "time_id": 900033,
   "gols": 2
  },
  {
@@ -186,9 +204,9 @@
   "gols": 1
  },
  {
-  "jogador": "Bruno Santos",
-  "time": "Londrina",
-  "time_id": 900038,
+  "jogador": "Bruno José",
+  "time": "Atlético-GO",
+  "time_id": 900028,
   "gols": 1
  },
  {
@@ -216,9 +234,21 @@
   "gols": 1
  },
  {
+  "jogador": "Calebe",
+  "time": "Cuiabá",
+  "time_id": 900033,
+  "gols": 1
+ },
+ {
   "jogador": "Calebe Costa",
   "time": "Cuiabá",
   "time_id": 900033,
+  "gols": 1
+ },
+ {
+  "jogador": "Cauê",
+  "time": "Criciúma",
+  "time_id": 900025,
   "gols": 1
  },
  {
@@ -360,6 +390,12 @@
   "gols": 1
  },
  {
+  "jogador": "Jean Carlos",
+  "time": "Goiás",
+  "time_id": 900030,
+  "gols": 1
+ },
+ {
   "jogador": "Jhonata Robert",
   "time": "Criciúma",
   "time_id": 900025,
@@ -384,6 +420,12 @@
   "gols": 1
  },
  {
+  "jogador": "João Basso",
+  "time": "Cuiabá",
+  "time_id": 900033,
+  "gols": 1
+ },
+ {
   "jogador": "João Gabriel",
   "time": "Ceará",
   "time_id": 900035,
@@ -405,6 +447,12 @@
   "jogador": "Júlio César",
   "time": "Ceará",
   "time_id": 900035,
+  "gols": 1
+ },
+ {
+  "jogador": "Júnior Todinho",
+  "time": "Náutico",
+  "time_id": 900036,
   "gols": 1
  },
  {
@@ -576,6 +624,12 @@
   "gols": 1
  },
  {
+  "jogador": "Rômulo",
+  "time": "Novorizontino",
+  "time_id": 900021,
+  "gols": 1
+ },
+ {
   "jogador": "Sorriso",
   "time": "Avaí",
   "time_id": 900037,
@@ -597,6 +651,18 @@
   "jogador": "Victor Andrade",
   "time": "Náutico",
   "time_id": 900036,
+  "gols": 1
+ },
+ {
+  "jogador": "Vinícius Peixoto",
+  "time": "Cuiabá",
+  "time_id": 900033,
+  "gols": 1
+ },
+ {
+  "jogador": "Vitor Mendes",
+  "time": "Cuiabá",
+  "time_id": 900033,
   "gols": 1
  },
  {

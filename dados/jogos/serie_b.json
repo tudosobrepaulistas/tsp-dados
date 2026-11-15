@@ -438,6 +438,42 @@
    "atualizado": "2026-11-11T18:43:00-03:00"
   },
   {
+   "id": 91000366,
+   "data": "2026-04-04T18:00:00-03:00",
+   "casa": "cuiaba",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Juan Alano",
+     "minuto": "70",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Juan Alano",
+     "minuto": "78",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-ceara/832866",
+    "https://diariodonordeste.verdesmares.com.br/jogada/cuiaba-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3754883"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00"
+  },
+  {
    "id": 91000327,
    "data": "2026-04-04T20:30:00-03:00",
    "casa": "londrina",
@@ -1267,6 +1303,42 @@
    }
   },
   {
+   "id": 91000367,
+   "data": "2026-05-02T18:30:00-03:00",
+   "casa": "cuiaba",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "João Basso",
+     "minuto": "20",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Cauê",
+     "minuto": "90+1",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-criciuma/832950",
+    "https://www.tribunadosertao.com.br/esportes/2026/05/02/895771-cuiaba-abre-o-placar-mas-criciuma-busca-empate-nos-acrescimos-na-arena-pantanal"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00"
+  },
+  {
    "id": 91000331,
    "data": "2026-05-03T18:00:00-03:00",
    "casa": "sport",
@@ -1850,6 +1922,132 @@
      "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714421-crb-coloca-agua-no-chopp-do-sport-e-vence-na-ilha-do-retiro-com-direito-a-lei-do-ex.html"
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000368,
+   "data": "2026-05-22T19:00:00-03:00",
+   "casa": "nautico",
+   "fora": "cuiaba",
+   "status": "encerrado",
+   "rodada": "10",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Aflitos",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Júnior Todinho",
+     "minuto": "70",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/nautico-x-cuiaba/832979",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/05/11714824-nautico-destrava-retranca-vence-o-cuiaba-nos-aflitos-e-assume-a-lideranca-da-serie-b.html"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Hélio dos Anjos",
+     "time": "Muriel; Reginaldo, Betão, Mateus Silva, Igor Fernandes; Luiz Felipe, Wenderson, Dodô; Vinícius, Victor Andrade, Paulo Sérgio",
+     "entraram": [
+      {
+       "jogador": "Wanderson",
+       "saiu": "Betão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yuri Silva",
+       "saiu": "Mateus Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leonai Souza",
+       "saiu": "Luiz Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Dodô",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júnior Todinho",
+       "saiu": "Victor Andrade",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Igor Fernandes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wenderson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Júnior Todinho",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Barros",
+     "time": "Marcelo Carné; Nino Paraíba, João Basso, Calebe, Eric, Marlon; Raul, Weverson, David Miguel; Kauan Cristtyan, Mateus Santos",
+     "entraram": [
+      {
+       "jogador": "Raylan",
+       "saiu": "Nino Paraíba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yamil Asad",
+       "saiu": "Weverson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Barbara",
+       "saiu": "David Miguel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Rodrigues",
+       "saiu": "Kauan Cristtyan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pepê",
+       "saiu": "Mateus Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "David Miguel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Raul",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/05/11714824-nautico-destrava-retranca-vence-o-cuiaba-nos-aflitos-e-assume-a-lideranca-da-serie-b.html"
+    ],
+    "atualizado": "2026-11-15T03:46:00-03:00"
    }
   },
   {
@@ -2617,6 +2815,37 @@
    }
   },
   {
+   "id": 91000369,
+   "data": "2026-06-14T17:00:00-03:00",
+   "casa": "cuiaba",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "13",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Calebe",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/com-gol-no-fim-cuiaba-vence-o-vila-nova-e-se-aproxima-do-g6-da-serie-b/",
+    "https://ohoje.com/2026/06/15/vila-nova-perde-para-o-cuiaba-ve-sequencia-positiva-chegar-ao-fim-e-deixa-a-lideranca-da-serie-b/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-vila-nova/833010"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00"
+  },
+  {
    "id": 91000271,
    "data": "2026-06-15T21:00:00-03:00",
    "casa": "criciuma",
@@ -2762,6 +2991,54 @@
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
    }
+  },
+  {
+   "id": 91000370,
+   "data": "2026-06-25T20:30:00-03:00",
+   "casa": "cuiaba",
+   "fora": "londrina",
+   "status": "encerrado",
+   "rodada": "15",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Bruno Santos",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bruno Santos",
+     "minuto": "45+5",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vinicius Peixoto",
+     "minuto": "61",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vinicius Peixoto",
+     "minuto": "77",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-londrina-saf/833030",
+    "https://www.gazetaesportiva.com/?p=3811164"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00"
   },
   {
    "id": 91000185,
@@ -3312,6 +3589,36 @@
    "atualizado": "2026-11-11T18:43:00-03:00"
   },
   {
+   "id": 91000371,
+   "data": "2026-07-23T20:30:00-03:00",
+   "casa": "cuiaba",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "19",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Bruno José",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3825836",
+    "https://ohoje.com/2026/07/24/atletico-go-vence-o-cuiaba-na-arena-pantanal-e-conquista-importante-triunfo-fora-de-casa/"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00"
+  },
+  {
    "id": 91000239,
    "data": "2026-07-28T21:35:00-03:00",
    "casa": "fortaleza",
@@ -3710,6 +4017,130 @@
    }
   },
   {
+   "id": 91000372,
+   "data": "2026-08-22T18:30:00-03:00",
+   "casa": "cuiaba",
+   "fora": "goias",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Pantanal",
+   "cidade": "Cuiabá",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Jean Carlos",
+     "minuto": "27",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vinícius Peixoto",
+     "minuto": "72",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-goias/833120",
+    "https://acritica.net/esportes/cuiaba-e-goias-empatam-na-arena-pantanal-diante-de-2-774-torcedores/"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Barros",
+     "time": "João Carlos; João Basso, Calebe, Vitor Mendes; Igor Inocêncio, Wesley Dias, Pepê, Lorenzo; Eliel, Pedro Henrique, Jean Dias",
+     "entraram": [
+      {
+       "jogador": "Luiz Otávio",
+       "saiu": "Wesley Dias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Cristtyan",
+       "saiu": "Pepê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinícius Peixoto",
+       "saiu": "Eliel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Gomes",
+       "saiu": "Pedro Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Weverson",
+       "saiu": "Jean Dias",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vitor Mendes",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Mozart Santos",
+     "time": "Tadeu; Luisão, Luiz Felipe, Lucas Ribeiro, Nicolas; Lourenço, Filipe Machado, Lucas Lima; Jean Carlos, Anselmo Ramon, Kadu Sousa",
+     "entraram": [
+      {
+       "jogador": "Lucas Rodrigues",
+       "saiu": "Lourenço",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wellington Rato",
+       "saiu": "Lucas Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cadu",
+       "saiu": "Anselmo Ramon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcos Vinícius",
+       "saiu": "Kadu Sousa",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Ribeiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luisão",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://acritica.net/esportes/cuiaba-e-goias-empatam-na-arena-pantanal-diante-de-2-774-torcedores/"
+    ],
+    "atualizado": "2026-11-15T03:46:00-03:00"
+   }
+  },
+  {
    "id": 91000278,
    "data": "2026-08-23T18:30:00-03:00",
    "casa": "criciuma",
@@ -3871,6 +4302,42 @@
     "https://www.olhardireto.com.br/noticias/cuiaba-cria-desperdica-e-perde-dourado-cai-diante-do-criciuma-e-segue-distante-do-g6"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000373,
+   "data": "2026-09-13T18:30:00-03:00",
+   "casa": "novorizontino",
+   "fora": "cuiaba",
+   "status": "encerrado",
+   "rodada": "28",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Dr. Jorge Ismael de Biasi",
+   "cidade": "Novo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Vitor Mendes",
+     "minuto": "19",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Rômulo",
+     "minuto": "36",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/gremio-novorizontino-saf-x-cuiaba/833153",
+    "https://acritica.net/esportes/novorizontino-lidera-serie-b-saldo-de-gols-28-rodada-juventude/"
+   ],
+   "atualizado": "2026-11-15T03:46:00-03:00"
   },
   {
    "id": 91000212,

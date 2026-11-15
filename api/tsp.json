@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T23:10:00-03:00",
+ "gerado": "2026-11-15T03:46:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -9776,7 +9776,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.25,
-     1.19
+     1.2
     ],
     "base": [
      20,
@@ -9829,10 +9829,10 @@
     "casa": 61,
     "empate": 21,
     "fora": 18,
-    "placar": "2x0",
+    "placar": "2x1",
     "gols_esperados": [
-     2.01,
-     1.0
+     2.02,
+     1.01
     ],
     "base": [
      10,
@@ -9888,7 +9888,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.21,
-     0.85
+     0.86
     ],
     "base": [
      11,
@@ -9940,11 +9940,11 @@
    "previsao": {
     "casa": 25,
     "empate": 34,
-    "fora": 41,
+    "fora": 42,
     "placar": "0x0",
     "gols_esperados": [
      0.69,
-     0.99
+     1.0
     ],
     "base": [
      25,
@@ -9995,12 +9995,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 27,
-    "empate": 26,
+    "empate": 25,
     "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
      1.1,
-     1.52
+     1.53
     ],
     "base": [
      13,
@@ -10056,7 +10056,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.38,
-     1.05
+     1.06
     ],
     "base": [
      14,
@@ -10112,7 +10112,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.71,
-     1.36
+     1.37
     ],
     "base": [
      12,
@@ -10162,13 +10162,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 25,
+    "casa": 24,
     "empate": 23,
     "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
      1.15,
-     1.77
+     1.79
     ],
     "base": [
      11,
@@ -10223,8 +10223,8 @@
     "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
-     1.07,
-     1.13
+     1.08,
+     1.14
     ],
     "base": [
      11,
@@ -10336,7 +10336,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.71,
-     1.07
+     1.08
     ],
     "base": [
      13,
@@ -10388,11 +10388,11 @@
    "previsao": {
     "casa": 18,
     "empate": 22,
-    "fora": 60,
+    "fora": 61,
     "placar": "0x1",
     "gols_esperados": [
      0.91,
-     1.87
+     1.9
     ],
     "base": [
      14,
@@ -10447,8 +10447,8 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.31,
-     0.86
+     2.32,
+     0.87
     ],
     "base": [
      23,
@@ -10498,13 +10498,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
+    "casa": 45,
     "empate": 30,
-    "fora": 24,
+    "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
      1.2,
-     0.79
+     0.8
     ],
     "base": [
      10,
@@ -10556,11 +10556,11 @@
    "previsao": {
     "casa": 62,
     "empate": 20,
-    "fora": 17,
+    "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
      2.11,
-     1.01
+     1.03
     ],
     "base": [
      12,
@@ -10616,7 +10616,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.51,
-     0.88
+     0.89
     ],
     "base": [
      24,
@@ -10666,13 +10666,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
+    "casa": 45,
     "empate": 29,
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
      1.27,
-     0.88
+     0.89
     ],
     "base": [
      24,
@@ -10723,12 +10723,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 45,
-    "empate": 25,
+    "empate": 24,
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
      1.61,
-     1.26
+     1.28
     ],
     "base": [
      21,
@@ -10779,7 +10779,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 57,
-    "empate": 26,
+    "empate": 25,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
@@ -11097,6 +11097,83 @@
      },
      "type": "Goal",
      "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-ceara/832866",
+    "https://diariodonordeste.verdesmares.com.br/jogada/cuiaba-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3754883"
+   ],
+   "fixture": {
+    "id": 91000366,
+    "timestamp": 1775336400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900035,
+      "name": "Ceará"
+     },
+     "player": {
+      "name": "Juan Alano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 78,
+      "extra": null,
+      "texto": "78"
+     },
+     "team": {
+      "id": 900035,
+      "name": "Ceará"
+     },
+     "player": {
+      "name": "Juan Alano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
     }
    ]
   },
@@ -11676,6 +11753,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-criciuma/832950",
+    "https://www.tribunadosertao.com.br/esportes/2026/05/02/895771-cuiaba-abre-o-placar-mas-criciuma-busca-empate-nos-acrescimos-na-arena-pantanal"
+   ],
+   "fixture": {
+    "id": 91000367,
+    "timestamp": 1777757400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 20,
+      "extra": null,
+      "texto": "20"
+     },
+     "team": {
+      "id": 900033,
+      "name": "Cuiabá"
+     },
+     "player": {
+      "name": "João Basso"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+1"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Cauê"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713462-sport-vence-confronto-direto-contra-ceara-e-pega-elevador-na-serie-b.html",
     "https://diariodonordeste.verdesmares.com.br/jogada/sport-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3760958"
    ],
@@ -12120,6 +12274,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/nautico-x-cuiaba/832979",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/05/11714824-nautico-destrava-retranca-vence-o-cuiaba-nos-aflitos-e-assume-a-lideranca-da-serie-b.html"
+   ],
+   "fixture": {
+    "id": 91000368,
+    "timestamp": 1779487200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 10"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Júnior Todinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11714872-sport-vence-juventude-fora-de-casa-quebra-tabu-e-assume-vice-lideranca-da-serie-b.html",
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-vence-juventude-vice-lider-serie-b/"
    ],
@@ -12533,6 +12748,68 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/times/cuiaba/com-gol-no-fim-cuiaba-vence-o-vila-nova-e-se-aproxima-do-g6-da-serie-b/",
+    "https://ohoje.com/2026/06/15/vila-nova-perde-para-o-cuiaba-ve-sequencia-positiva-chegar-ao-fim-e-deixa-a-lideranca-da-serie-b/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-vila-nova/833010"
+   ],
+   "fixture": {
+    "id": 91000369,
+    "timestamp": 1781467200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 13"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+2"
+     },
+     "team": {
+      "id": 900033,
+      "name": "Cuiabá"
+     },
+     "player": {
+      "name": "Calebe"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-cede-empate-ao-ceara-e-perde-chance-de-encostar-no-g2-pela-serie-b/",
     "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/06/15/com-gol-de-joao-gabriel-ceara-arranca-empate-do-criciuma-fora-de-casa-pela-serie-b.html"
    ],
@@ -12676,6 +12953,115 @@
      },
      "player": {
       "name": "Léo Jacó"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-londrina-saf/833030",
+    "https://www.gazetaesportiva.com/?p=3811164"
+   ],
+   "fixture": {
+    "id": 91000370,
+    "timestamp": 1782430200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 15"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Bruno Santos"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+5"
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Bruno Santos"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900033,
+      "name": "Cuiabá"
+     },
+     "player": {
+      "name": "Vinicius Peixoto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 77,
+      "extra": null,
+      "texto": "77"
+     },
+     "team": {
+      "id": 900033,
+      "name": "Cuiabá"
+     },
+     "player": {
+      "name": "Vinicius Peixoto"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -13286,6 +13672,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3825836",
+    "https://ohoje.com/2026/07/24/atletico-go-vence-o-cuiaba-na-arena-pantanal-e-conquista-importante-triunfo-fora-de-casa/"
+   ],
+   "fixture": {
+    "id": 91000371,
+    "timestamp": 1784849400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 19"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Bruno José"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/07/28/fortaleza-vence-botafogo-sp-no-castelao-e-encosta-no-g-2-da-serie-b.html",
     "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-vence-o-botafogo-sp-com-gol-de-ronald-e-volta-ao-g4-da-serie-b-1.3780102"
    ],
@@ -13578,6 +14025,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-goias/833120",
+    "https://acritica.net/esportes/cuiaba-e-goias-empatam-na-arena-pantanal-diante-de-2-774-torcedores/"
+   ],
+   "fixture": {
+    "id": 91000372,
+    "timestamp": 1787434200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Pantanal",
+     "city": "Cuiabá"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 24"
+   },
+   "teams": {
+    "home": {
+     "id": 900033,
+     "name": "Cuiabá"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 27,
+      "extra": null,
+      "texto": "27"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Jean Carlos"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 72,
+      "extra": null,
+      "texto": "72"
+     },
+     "team": {
+      "id": 900033,
+      "name": "Cuiabá"
+     },
+     "player": {
+      "name": "Vinícius Peixoto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-x-fortaleza-serie-b-rodada-24/",
     "https://fortaleza1918.com.br/fortaleza-faz-grande-jogo-vence-criciuma-por-2-a-0-em-santa-catarina/",
     "https://ibandce.com.br/fortaleza-vence-criciuma-24-rodada-serie-b-2026/"
@@ -13725,6 +14249,83 @@
      },
      "type": "Goal",
      "detail": "Own Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/gremio-novorizontino-saf-x-cuiaba/833153",
+    "https://acritica.net/esportes/novorizontino-lidera-serie-b-saldo-de-gols-28-rodada-juventude/"
+   ],
+   "fixture": {
+    "id": 91000373,
+    "timestamp": 1789335000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Dr. Jorge Ismael de Biasi",
+     "city": "Novo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 19,
+      "extra": null,
+      "texto": "19"
+     },
+     "team": {
+      "id": 900033,
+      "name": "Cuiabá"
+     },
+     "player": {
+      "name": "Vitor Mendes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 36,
+      "extra": null,
+      "texto": "36"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Rômulo"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
     }
    ]
   },
@@ -33056,6 +33657,12 @@
     "gols": 4
    },
    {
+    "jogador": "Bruno Santos",
+    "time": "Londrina",
+    "time_id": 900038,
+    "gols": 3
+   },
+   {
     "jogador": "Chrystian Barletta",
     "time": "Sport",
     "time_id": 900027,
@@ -33110,6 +33717,12 @@
     "gols": 2
    },
    {
+    "jogador": "Juan Alano",
+    "time": "Ceará",
+    "time_id": 900035,
+    "gols": 2
+   },
+   {
     "jogador": "Kadu Sousa",
     "time": "Goiás",
     "time_id": 900030,
@@ -33155,6 +33768,12 @@
     "jogador": "Vilar",
     "time": "Botafogo-SP",
     "time_id": 900032,
+    "gols": 2
+   },
+   {
+    "jogador": "Vinicius Peixoto",
+    "time": "Cuiabá",
+    "time_id": 900033,
     "gols": 2
    },
    {
@@ -33212,9 +33831,9 @@
     "gols": 1
    },
    {
-    "jogador": "Bruno Santos",
-    "time": "Londrina",
-    "time_id": 900038,
+    "jogador": "Bruno José",
+    "time": "Atlético-GO",
+    "time_id": 900028,
     "gols": 1
    },
    {
@@ -33242,9 +33861,21 @@
     "gols": 1
    },
    {
+    "jogador": "Calebe",
+    "time": "Cuiabá",
+    "time_id": 900033,
+    "gols": 1
+   },
+   {
     "jogador": "Calebe Costa",
     "time": "Cuiabá",
     "time_id": 900033,
+    "gols": 1
+   },
+   {
+    "jogador": "Cauê",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 1
    },
    {
@@ -33386,6 +34017,12 @@
     "gols": 1
    },
    {
+    "jogador": "Jean Carlos",
+    "time": "Goiás",
+    "time_id": 900030,
+    "gols": 1
+   },
+   {
     "jogador": "Jhonata Robert",
     "time": "Criciúma",
     "time_id": 900025,
@@ -33410,6 +34047,12 @@
     "gols": 1
    },
    {
+    "jogador": "João Basso",
+    "time": "Cuiabá",
+    "time_id": 900033,
+    "gols": 1
+   },
+   {
     "jogador": "João Gabriel",
     "time": "Ceará",
     "time_id": 900035,
@@ -33431,6 +34074,12 @@
     "jogador": "Júlio César",
     "time": "Ceará",
     "time_id": 900035,
+    "gols": 1
+   },
+   {
+    "jogador": "Júnior Todinho",
+    "time": "Náutico",
+    "time_id": 900036,
     "gols": 1
    },
    {
@@ -33602,6 +34251,12 @@
     "gols": 1
    },
    {
+    "jogador": "Rômulo",
+    "time": "Novorizontino",
+    "time_id": 900021,
+    "gols": 1
+   },
+   {
     "jogador": "Sorriso",
     "time": "Avaí",
     "time_id": 900037,
@@ -33623,6 +34278,18 @@
     "jogador": "Victor Andrade",
     "time": "Náutico",
     "time_id": 900036,
+    "gols": 1
+   },
+   {
+    "jogador": "Vinícius Peixoto",
+    "time": "Cuiabá",
+    "time_id": 900033,
+    "gols": 1
+   },
+   {
+    "jogador": "Vitor Mendes",
+    "time": "Cuiabá",
+    "time_id": 900033,
     "gols": 1
    },
    {
