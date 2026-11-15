@@ -69,3 +69,6 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
   em massa. Grave em numeros_2026 com "fonte" = link do oGol; nascimento também pode vir de lá.
 - Escudos: clube paulista usa o escudo do site; clube de fora entra em dados/escudos_extra.json + api/escudos/<slug>.png
   (imagem da Wikipédia via API pageimages, 96 px). O card mostra o escudo no "Veio do" e em "Em 2026".
+- Página do jogador: /jogador/<nome>/ (tema, inc/jogador.php). Carreira temporada a temporada em "carreira" (lista de
+  {temporada, clube, jogos, gols, assistencias, emprestimo}) + "carreira_fonte" (página do oGol). Ao registrar um reforço,
+  levante também a carreira dele no oGol.

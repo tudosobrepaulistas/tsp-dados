@@ -117,6 +117,8 @@ def checar(m, tm, pl):
     fn = str((nm or {}).get("fonte", ""))
     if nm and (not fn.startswith("https://") or (tsp.FONTE_RUIM.search(fn) and "ogol.com.br/jogador/" not in fn)):
         e.append("numeros_2026 precisa de 'fonte' (matéria aceita ou página do jogador no oGol)")
+    if m.get("carreira") and ("ogol.com.br/jogador/" not in str(m.get("carreira_fonte", "")) and not str(m.get("carreira_fonte", "")).startswith("https://")):
+        e.append("carreira precisa de carreira_fonte (página do jogador no oGol ou matéria)")
     for sl in m.get("selos", []):
         if not isinstance(sl, dict) or not sl.get("texto") or not str(sl.get("fonte", "")).startswith("https://") or tsp.FONTE_RUIM.search(str(sl.get("fonte", ""))):
             e.append("selos: lista de {texto, fonte} (título/acesso de 2026 citado em fonte aceita)")
@@ -245,6 +247,7 @@ def cmd_gerar(a):
         foto = m.get("foto") or foto_do_elenco(m["jogador"], [cp, cd])
         numeros = m.get("numeros_2026") or numeros_da_base(m["jogador"], [cd, cp] if m["tipo"] != "renovacao" else [cp])
         nasc = m.get("nascimento") or nascimento_do_elenco(m["jogador"], [cp, cd])
+        carreira = [dict(c, escudo=esc(c["clube"])) if esc(c["clube"]) else c for c in m.get("carreira", [])]
         if numeros and numeros.get("clubes"):
             numeros = dict(numeros, escudos={c: esc(c) for c in numeros["clubes"] if esc(c)})
         saida.append({"id": m["id"], "data": m["data"], "jogador": m["jogador"], "posicao": m.get("posicao", ""),
@@ -254,6 +257,7 @@ def cmd_gerar(a):
                       "para": {"nome": m["para"], "slug": sp, "id": idp, "escudo": esc(m["para"])},
                       "blocos": blocos, "foto": foto or {}, "fontes": m["fontes"][:3],
                       "nascimento": nasc or "", "numeros": numeros or {}, "selos": m.get("selos", []),
+                      "carreira": carreira, "carreira_fonte": m.get("carreira_fonte", ""),
                       "dono": dono})
     tsp.gravar(API / "mercado.json", {"gerado": tsp.iso(tsp.agora()), "temporada": b.get("temporada", 2027),
                                       "tipos": TIPOS, "itens": saida})

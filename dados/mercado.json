@@ -87,7 +87,94 @@
      "fonte": "https://www.futebolinterior.com.br/ituano-saida-de-quatro-jogadores/"
     }
    ],
-   "nascimento": "1999-03-06"
+   "nascimento": "1999-03-06",
+   "carreira_fonte": "https://www.ogol.com.br/jogador/luketa/715512",
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Boavista-RJ",
+     "jogos": 7,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2026,
+     "clube": "Sertãozinho",
+     "jogos": 19,
+     "gols": 9,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2025,
+     "clube": "Blumenau",
+     "jogos": 19,
+     "gols": 5,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2025,
+     "clube": "Rio Branco-SP",
+     "jogos": 15,
+     "gols": 4,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Desportivo Brasil",
+     "jogos": 15,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Comercial",
+     "jogos": 7,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Botafogo-SP",
+     "jogos": 21,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Botafogo-SP",
+     "jogos": 28,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2020,
+     "clube": "Botafogo-SP",
+     "jogos": 25,
+     "gols": 1,
+     "assistencias": 2
+    },
+    {
+     "temporada": 2020,
+     "clube": "Botafogo-SP (B)",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2019,
+     "clube": "Botafogo-SP (sub-20)",
+     "jogos": 22,
+     "gols": 4,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2016,
+     "clube": "Comercial",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 0
+    }
+   ]
   },
   {
    "data": "2026-11-13",
@@ -1404,7 +1491,59 @@
     ],
     "fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468"
    },
-   "nascimento": "2005-12-03"
+   "nascimento": "2005-12-03",
+   "carreira_fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468",
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Lajeadense",
+     "jogos": 6,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2026,
+     "clube": "Batel",
+     "jogos": 9,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2025,
+     "clube": "Criciúma (sub-20)",
+     "jogos": 9,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Criciúma (sub-20)",
+     "jogos": 18,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "XV de Piracicaba (sub-20)",
+     "jogos": 4,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "XV de Piracicaba (sub-20)",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Bangu (sub-17)",
+     "jogos": 16,
+     "gols": 1,
+     "assistencias": 0
+    }
+   ]
   },
   {
    "data": "2026-11-06",
@@ -2501,7 +2640,121 @@
     ],
     "fonte": "https://www.ogol.com.br/jogador/luiz-henrique/562358"
    },
-   "nascimento": "1998-01-17"
+   "nascimento": "1998-01-17",
+   "carreira_fonte": "https://www.ogol.com.br/jogador/luiz-henrique/562358",
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Noroeste",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2026,
+     "clube": "Retrô",
+     "jogos": 15,
+     "gols": 1,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2025,
+     "clube": "Retrô",
+     "jogos": 12,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Brusque",
+     "jogos": 30,
+     "gols": 0,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2023,
+     "clube": "CRB",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2022,
+     "clube": "Bahia",
+     "jogos": 43,
+     "gols": 2,
+     "assistencias": 2,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2021,
+     "clube": "Londrina",
+     "jogos": 41,
+     "gols": 3,
+     "assistencias": 2,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2020,
+     "clube": "Mirassol",
+     "jogos": 17,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2020,
+     "clube": "Juventus Jaraguá",
+     "jogos": 12,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2019,
+     "clube": "Brusque",
+     "jogos": 5,
+     "gols": 0,
+     "assistencias": 1,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2019,
+     "clube": "Juventus Jaraguá",
+     "jogos": 16,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2019,
+     "clube": "Cruzeiro-RS",
+     "jogos": 13,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2018,
+     "clube": "Grêmio (sub-23)",
+     "jogos": 15,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2018,
+     "clube": "Grêmio (sub-19)",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2017,
+     "clube": "Guarani V. Aires",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    }
+   ]
   }
  ]
 }
