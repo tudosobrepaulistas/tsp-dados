@@ -1,55 +1,6 @@
 {
- "gerado": "2026-11-14T22:08-03:00",
+ "gerado": "2026-11-15T06:33-03:00",
  "avisos": [
-  {
-   "clube": "ac-guaratingueta",
-   "nome": "AC Guaratinguetá",
-   "quando": "2026-11-13T13:07-03:00",
-   "motivo": "Sem notícia em 48h; evergreen bloqueado até 14/11",
-   "sugestao": "Guia do Estádio Dario Rodrigues Leite a partir de 14/11, ou a participação na Copinha 2027"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-13T15:28-03:00",
-   "motivo": "Nada novo nas últimas 24h além do que o site já publicou (último treino, viagem, falas de Brock e Robson, Raio-X). Arbitragem (Wilton Pereira Sampaio) saiu em 11/11.",
-   "sugestao": "Após o treino desta sexta em Florianópolis, provável escalação de Enderson Moreira para a decisão contra o Criciúma; ou matéria sobre Wilton Pereira Sampaio, árbitro da Copa 2026, apitando a decisão do título"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-13T15:28-03:00",
-   "motivo": "Temporada encerrada (2x2 com Athletic já publicado); sem notícia nova confirmada em 2 fontes nas últimas 24h e sem foto de jogo recente livre",
-   "sugestao": "Escolha do novo técnico para 2027 (Futebol Interior citou Cauan de Almeida em avaliação, falta 2ª fonte) e balanço da campanha: 11º lugar com 53 pontos"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-13T18:01-03:00",
-   "motivo": "13/11 18h: temporada encerrada (2x2 com o Athletic já publicado); única novidade é a sondagem a Cauan de Almeida para técnico, só no Futebol Interior (1 fonte, sem acordo)",
-   "sugestao": "Quem será o técnico do São Bernardo no Paulistão 2027? Confirmar com o clube ou o Diário do Grande ABC se Cauan de Almeida (ex-Avaí) é o escolhido"
-  },
-  {
-   "clube": "santoandre",
-   "nome": "Santo André",
-   "quando": "2026-11-13T18:17-03:00",
-   "motivo": "13/11 18h: sem notícia nova confirmada e cota de evergreen da A2 já cheia hoje (2/2)",
-   "sugestao": "Guia do Brunão pronto para publicar amanhã: capacidade 15.157, recorde de ~21 mil em 1983 (0x0 com o Corinthians), reforma de 2021 com gramado sintético (fontes: DGABC 08/04/2026 e ABC do ABC)"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-13T18:18-03:00",
-   "motivo": "13/11 18h: saída do meia João Paulo confirmada (Hora Campinas e Futebol Interior), mas não há foto livre dele para a matéria",
-   "sugestao": "João Paulo recusa renovação e deixa o Guarani; Frontini fala em reapresentação em 23/11 no Brinco e elenco mais barato para 2027 (usar foto do Raphael Silvestre/Guarani FC)"
-  },
-  {
-   "clube": "juventus",
-   "nome": "Juventus",
-   "quando": "2026-11-13T18:18-03:00",
-   "motivo": "13/11 18h: só especulação de mercado (Patrick Brey, 1 fonte; Ítalo, de 10/11)",
-   "sugestao": "Confirmar com o Juventus se houve proposta por Patrick Brey (Botafogo-SP) para o Paulistão 2027"
-  },
   {
    "clube": "capivariano",
    "nome": "Capivariano",
@@ -420,6 +371,55 @@
    "quando": "2026-11-14T22:08-03:00",
    "motivo": "sem notícia nova confirmada nas últimas 48h (SAF e Copa CCF já publicadas); evergreen exige foto conferida e o download de fotos está bloqueado nesta execução",
    "sugestao": "estreia do Comercial na Copa CCF em 29/11 em Ribeirão Preto: adversário, horário e ingressos; andamento da SAF com a Alliance Football"
+  },
+  {
+   "clube": "sao-paulo-feminino",
+   "nome": "São Paulo Feminino",
+   "quando": "2026-11-15T06:33-03:00",
+   "motivo": "São Paulo venceu o Centro Olímpico nos pênaltis (1 a 1, 5 a 4) no CERET em 14/11 e está na final do Paulista Feminino Sub-17, mas só o site oficial do clube publicou; faltou a 2ª fonte",
+   "sugestao": "Redator: confirmar com FPF ou jornal e publicar 'São Paulo vence o Centro Olímpico nos pênaltis e vai à final do Paulista Feminino Sub-17' (https://www.saopaulofc.net/nos-penaltis-sao-paulo-vence-o-centro-olimpico-e-garante-vaga-na-final-do-paulista-f-sub-17/)"
+  },
+  {
+   "clube": "centro-olimpico",
+   "nome": "Centro Olímpico",
+   "quando": "2026-11-15T06:33-03:00",
+   "motivo": "Mesmo jogo da semifinal Sub-17 (eliminado nos pênaltis pelo São Paulo): 1 fonte só. Tema histórico seguro achado, mas sem foto livre que eu pudesse abrir",
+   "sugestao": "Evergreen: 'Centro Olímpico campeão brasileiro feminino de 2013: o título com Arthur Elias sobre o São José (4 a 3 no agregado)'. Fontes: https://prefeitura.sp.gov.br/w/noticia/novo-treinador-da-selecao-brasileira-feminina-de-futebol-foi-tecnico-no-centro-olimpico e https://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Desportiva_Centro_Ol%C3%ADmpico. Falta foto de Arthur Elias ou da conquista com crédito"
+  },
+  {
+   "clube": "bandeirante_brodowski",
+   "nome": "Bandeirante de Brodowski",
+   "quando": "2026-11-15T06:33-03:00",
+   "motivo": "União 0 x 0 Bandeirante na ida da semifinal do Amador do Estado (14/11, Salvador Russani, Atibaia): só o Correio de Atibaia publicou; faltou 2ª fonte e foto do clube",
+   "sugestao": "Redator: confirmar com o canal TV Jaburú ou a FPF e publicar o 0 a 0; a volta é em Brodowski, data a ser marcada pela FPF (https://correiodeatibaia.com.br/2026/11/14/uniao-fica-no-empate-sem-gols-com-o-bandeirante-de-brodowski-no-jogo-de-ida-da-semifinal-do-amador-do-estado/)"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-15T06:33-03:00",
+   "motivo": "Sem notícia nova nos últimos 7 dias; história do clube já feita em 10/11 (limite de 14 dias)",
+   "sugestao": "Conferir no Instagram do Barretos se o atacante Kadu Barone foi oficializado para a A4 2027 (Futebol Interior, 06/11: https://www.futebolinterior.com.br/barretos-pode-anunciar-kadu-barone-2027/) e o técnico Edson Paulista"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-15T06:33-03:00",
+   "motivo": "Últimas notícias (Luizão e Wesley Pacheco) são de 03 e 04/11, mais de 7 dias",
+   "sugestao": "Matéria 'reforços do Lemense para a A4 2027' juntando Luizão (ex-Ponte) e Wesley Pacheco, com post oficial do clube: https://www.futebolinterior.com.br/paulista-a4-lemense-contratacao-luizao/"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-15T06:33-03:00",
+   "motivo": "Pacotão de reforços é de 05/11 (mais de 7 dias) e não achei o post oficial",
+   "sugestao": "Reforços do Tanabi para a A4 2027 (Denis Santos, João Monteiro, Dandan, Bernardo, Carignano, Rafinha), técnico Petterson Martins: https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+  },
+  {
+   "clube": "cosmopolitano",
+   "nome": "Cosmopolitano",
+   "quando": "2026-11-15T06:33-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; não consegui abrir o site do clube nem foto livre",
+   "sugestao": "Evergreen: a parceria do Cosmopolitano com a Lazio (Band Campinas, 05/12/2024: https://www.band.com.br/band-multi/campinas-e-regiao/noticias/lazio-da-italia-anuncia-parceria-com-o-cosmopolitano-que-contara-com-diversas-colaboracoes-202412051359), com foto oficial do clube"
   }
  ]
 }
