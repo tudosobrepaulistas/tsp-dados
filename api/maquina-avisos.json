@@ -1,55 +1,6 @@
 {
- "gerado": "2026-11-15T10:54-03:00",
+ "gerado": "2026-11-15T11:00-03:00",
  "avisos": [
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-13T20:34-03:00",
-   "motivo": "Pauta da redação (Juventude x Botafogo-SP decide acesso) já coberta por 3 matérias do dia; notícia nova achada (Patrick Brey e Morelli suspensos, provável escalação - CBN Ribeirão e Portal Democrata, 13/11), mas sem foto de jogo que a Máquina conseguisse abrir e conferir",
-   "sugestao": "Juventude x Botafogo-SP: Pantera vai a Caxias sem Patrick Brey e Morelli, suspensos; Jonathan é dúvida (CBN Ribeirão 13/11 e Portal Democrata 13/11). Foto sugerida: Agência Botafogo do 4x2 do 1º turno"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-13T20:35-03:00",
-   "motivo": "Notícia confirmada achada (meia João Paulo se despede do Guarani, 13/11 - CBN Campinas e Hora Campinas), mas a Máquina não conseguiu abrir nenhuma foto do jogador para conferir (sites de imagem bloqueados nesta execução)",
-   "sugestao": "João Paulo deixa o Guarani: meia de 36 anos (16 jogos, 4 gols e 3 assistências na Série C) publica despedida; clube havia feito proposta. Fontes: cbncampinas.com.br/2026/11/joao-paulo-divulga-texto-de-despedida-do-guarani/ e horacampinas.com.br (13/11). Foto: Raphael Silvestre/Guarani FC"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-13T20:35-03:00",
-   "motivo": "Bloco A3 sem matéria: a Máquina não conseguiu abrir fotos dos clubes (sites de imagem bloqueados nesta execução), então não publicou",
-   "sugestao": "Bloco A3: Rio Branco e Rio Preto têm anúncios de reforços para a A3 2027 (Futebol Interior); conferir 2ª fonte e foto do clube"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-13T21:48-03:00",
-   "motivo": "Série B encerrada em 12/11 (2x2 com Athletic já publicado); nas últimas 48h só especulação sobre novo técnico (Cauan de Almeida, sem acerto), sem 2ª fonte nem nota oficial",
-   "sugestao": "Quando o clube anunciar o substituto de Vinícius Bergantin ou a lista de saídas/renovações para o Paulistão 2027, matéria com a nota oficial"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-13T22:01-03:00",
-   "motivo": "Notícia confirmada (João Paulo deixa o Guarani, 13/11, Hora Campinas e Futebol Interior), mas sem foto livre acessível do jogador para a Máquina",
-   "sugestao": "Redator: matéria da saída do meia João Paulo (16 jogos, 4 gols, 3 assistências) com foto do Guarani FC (Raphael Silvestre)"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-13T22:01-03:00",
-   "motivo": "Sem notícia nova confirmada nas últimas 48h (só a tabela do Paulistão 2027, já publicada)",
-   "sugestao": "Data da reapresentação e reforços do Capivariano para o Paulistão 2027, com Elio Sizenando"
-  },
-  {
-   "clube": "primavera",
-   "nome": "Primavera",
-   "quando": "2026-11-13T22:01-03:00",
-   "motivo": "Sem notícia nova confirmada nas últimas 48h além das já publicadas (centenário, zagueiro ex-Botafogo-SP)",
-   "sugestao": "Confirmação oficial do zagueiro ex-Botafogo-SP e data da reapresentação do Primavera"
-  },
   {
    "clube": "saojose",
    "nome": "São José",
@@ -420,6 +371,55 @@
    "quando": "2026-11-15T10:54-03:00",
    "motivo": "Cobertura 6h bloco A1 (15/11): sem notícia confirmada em 2 fontes nas últimas 48h para Capivariano, Primavera e Juventus; Noroeste já publicado; Guarani perto de Cristian Souza, mas sem anúncio oficial",
    "sugestao": "Assim que o Guarani oficializar Cristian Souza como técnico para o Paulistão 2027, publicar com o comunicado do clube + 1 jornal"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-15T11:00-03:00",
+   "motivo": "Sem notícia dos últimos 7 dias em jornais e no site/redes legíveis; evergreen bloqueado (história em 05/11)",
+   "sugestao": "Situação do Jacareí para a A4 2027: técnico, reforços e data de reapresentação (ligar para a diretoria ou checar Instagram oficial)"
+  },
+  {
+   "clube": "gremio-saocarlense",
+   "nome": "Grêmio São-Carlense",
+   "quando": "2026-11-15T11:00-03:00",
+   "motivo": "Única matéria recente (Jornal Primeira Página, 'começa a projetar 2027') não abriu; evergreen bloqueado (história em 05/11)",
+   "sugestao": "Planejamento do Grêmio São-Carlense para a A4 2027 (matéria do Jornal Primeira Página de São Carlos)"
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-15T11:00-03:00",
+   "motivo": "Sem notícia nova após a classificação do Sub-17 na Paulista Cup (05/11); evergreen bloqueado",
+   "sugestao": "Adversário e datas do Jabaquara na 2ª fase da Paulista Cup Sub-15 e Sub-17 (BS9 / O Curioso do Futebol)"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-15T11:00-03:00",
+   "motivo": "Só notícias antigas (Tássio Lopes mantido em 07/10); evergreen bloqueado",
+   "sugestao": "Reforços do União Suzano para a A4 2027 e data da reapresentação"
+  },
+  {
+   "clube": "taquaritinga",
+   "nome": "Taquaritinga",
+   "quando": "2026-11-15T11:00-03:00",
+   "motivo": "Sem notícia dos últimos 7 dias; evergreen bloqueado (história em 05/11)",
+   "sugestao": "Quem é o técnico do Taquaritinga para a A4 2027 (o clube disse já ter um contratado)"
+  },
+  {
+   "clube": "bandeirante_brodowski",
+   "nome": "Bandeirante de Brodowski",
+   "quando": "2026-11-15T11:00-03:00",
+   "motivo": "União 0 x 0 Bandeirante (ida da semi do Amador do Estado, 14/11) só no Correio de Atibaia; falta 2ª fonte",
+   "sugestao": "Data e horário da volta Bandeirante x União em Brodowski, semifinal do Amador do Estado (FPF/jornal de Brodowski ou Ribeirão)"
+  },
+  {
+   "clube": "ibrachina",
+   "nome": "Ibrachina",
+   "quando": "2026-11-15T11:00-03:00",
+   "motivo": "Evergreen bloqueado (história nos últimos 14 dias); sem notícia nova do clube",
+   "sugestao": "Ibrachina Arena recebe o Grupo D da Copinha Feminina (São Paulo, Fluminense, Vitória, Criciúma) a partir de 24/11: guia do estádio; foto livre: Wikimedia Commons File:Ibrachina_Arena_(2024).jpg (CC0)"
   }
  ]
 }
