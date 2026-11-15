@@ -5961,22 +5961,24 @@
    "data": "2026-11-14T18:30:00-03:00",
    "casa": "mirassol",
    "fora": "atletico-mg",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Maião",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://atletico.com.br/galo-empata-com-mirassol-foco-agora-e-a-final-continental",
+    "https://www.terra.com.br/esportes/mirassol-e-atletico-mg-empatam-no-maiao-em-jogo-antecipado-do-brasileiro,0341c776a36c30ca572d53da5354eda5tawljupx.html"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-14T22:15:00-03:00",
    "prejogo": {
     "analise": [
      "Mirassol e Atlético-MG se enfrentam no sábado (14/11), às 18h30, no Maião, pela 35ª rodada do Brasileirão. O Mirassol é o 14º colocado, com 40 pontos, três a mais que o Corinthians, primeiro time dentro da zona de rebaixamento, e joga em casa para abrir distância a quatro rodadas do fim. O Atlético é o 7º, com 50 pontos.",
@@ -6024,6 +6026,74 @@
      ],
      "atualizado": "2026-11-14T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Lucas Oliveira, Reinaldo; Neto Moura, Denilson, Shaylon; Carlos Eduardo, Alesson, Bruno Santos",
+     "entraram": [
+      {
+       "jogador": "Aldo Filho",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Carioca",
+       "saiu": "Carlos Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Natanael, Léo Duarte, Ruan, Renan Lodi; Kevin Castaño, Igor Gomes, Fred, Bernard; Cuello, Cassierra",
+     "entraram": [
+      {
+       "jogador": "Vitor Hugo",
+       "saiu": "Ruan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Scarpa",
+       "saiu": "Igor Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alexsander",
+       "saiu": "Fred",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cissé",
+       "saiu": "Bernard",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu",
+       "saiu": "Cuello",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://atletico.com.br/galo-empata-com-mirassol-foco-agora-e-a-final-continental"
+    ],
+    "atualizado": "2026-11-14T22:15:00-03:00"
    }
   },
   {

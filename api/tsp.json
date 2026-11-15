@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-14T20:25:00-03:00",
+ "gerado": "2026-11-14T22:15:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -100,10 +100,10 @@
     {
      "id": 900006,
      "nome": "Atlético-MG",
-     "pts": 50,
-     "j": 34,
+     "pts": 51,
+     "j": 35,
      "v": 14,
-     "e": 8,
+     "e": 9,
      "d": 12,
      "gp": 44,
      "gc": 40
@@ -177,10 +177,10 @@
     {
      "id": 900015,
      "nome": "Mirassol",
-     "pts": 40,
-     "j": 34,
+     "pts": 41,
+     "j": 35,
      "v": 10,
-     "e": 10,
+     "e": 11,
      "d": 14,
      "gp": 39,
      "gc": 48
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000145,
-     "rodada": "35",
-     "data": "2026-11-14T18:30",
-     "casa": 900015,
-     "fora": 900006,
-     "a_confirmar": false
-    },
     {
      "id": 91000165,
      "rodada": "21",
@@ -1104,6 +1096,12 @@
      900005,
      0,
      3
+    ],
+    [
+     900015,
+     900006,
+     0,
+     0
     ]
    ]
   }
@@ -9475,14 +9473,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://atletico.com.br/galo-empata-com-mirassol-foco-agora-e-a-final-continental",
+    "https://www.terra.com.br/esportes/mirassol-e-atletico-mg-empatam-no-maiao-em-jogo-antecipado-do-brasileiro,0341c776a36c30ca572d53da5354eda5tawljupx.html"
    ],
    "fixture": {
     "id": 91000145,
     "timestamp": 1794691800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Maião",
@@ -9504,8 +9504,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -9556,21 +9556,75 @@
      "atualizado": "2026-11-14T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 64,
-    "empate": 25,
-    "fora": 11,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.52,
-     0.47
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Lucas Oliveira, Reinaldo; Neto Moura, Denilson, Shaylon; Carlos Eduardo, Alesson, Bruno Santos",
+     "entraram": [
+      {
+       "jogador": "Aldo Filho",
+       "saiu": "Neto Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo",
+       "saiu": "Shaylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Carioca",
+       "saiu": "Carlos Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Natanael, Léo Duarte, Ruan, Renan Lodi; Kevin Castaño, Igor Gomes, Fred, Bernard; Cuello, Cassierra",
+     "entraram": [
+      {
+       "jogador": "Vitor Hugo",
+       "saiu": "Ruan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Scarpa",
+       "saiu": "Igor Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alexsander",
+       "saiu": "Fred",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cissé",
+       "saiu": "Bernard",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu",
+       "saiu": "Cuello",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://atletico.com.br/galo-empata-com-mirassol-foco-agora-e-a-final-continental"
     ],
-    "base": [
-     20,
-     17
-    ]
+    "atualizado": "2026-11-14T22:15:00-03:00"
    },
+   "previsao": null,
    "events": []
   },
   {
@@ -9646,7 +9700,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.35,
-     1.99
+     2.0
     ],
     "base": [
      13,
@@ -9755,7 +9809,7 @@
     "casa": 59,
     "empate": 21,
     "fora": 20,
-    "placar": "1x1",
+    "placar": "2x1",
     "gols_esperados": [
      2.0,
      1.07
@@ -9814,7 +9868,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.21,
-     0.84
+     0.85
     ],
     "base": [
      11,
@@ -9981,8 +10035,8 @@
     "fora": 15,
     "placar": "2x1",
     "gols_esperados": [
-     2.38,
-     1.04
+     2.39,
+     1.05
     ],
     "base": [
      14,
@@ -10033,7 +10087,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 43,
-    "empate": 24,
+    "empate": 23,
     "fora": 34,
     "placar": "1x1",
     "gols_esperados": [
@@ -10089,7 +10143,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 25,
-    "empate": 24,
+    "empate": 23,
     "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
@@ -10149,7 +10203,7 @@
     "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
-     1.07,
+     1.08,
      1.12
     ],
     "base": [
@@ -10261,7 +10315,7 @@
     "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.7,
+     1.71,
      1.06
     ],
     "base": [
@@ -10313,12 +10367,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 20,
-    "empate": 23,
+    "empate": 22,
     "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
      0.98,
-     1.85
+     1.86
     ],
     "base": [
      13,
@@ -10373,7 +10427,7 @@
     "fora": 12,
     "placar": "2x0",
     "gols_esperados": [
-     2.31,
+     2.32,
      0.85
     ],
     "base": [
@@ -10425,16 +10479,16 @@
    "escalacoes": {},
    "previsao": {
     "casa": 46,
-    "empate": 29,
+    "empate": 30,
     "fora": 24,
     "placar": "1x0",
     "gols_esperados": [
-     1.25,
-     0.82
+     1.2,
+     0.79
     ],
     "base": [
      10,
-     20
+     21
     ]
    },
    "events": []
@@ -10481,7 +10535,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 67,
-    "empate": 19,
+    "empate": 18,
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
@@ -10542,7 +10596,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.51,
-     0.87
+     0.88
     ],
     "base": [
      24,
@@ -10649,7 +10703,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 46,
-    "empate": 25,
+    "empate": 24,
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
@@ -10704,16 +10758,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 59,
-    "empate": 24,
+    "casa": 57,
+    "empate": 25,
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.64,
-     0.75
+     1.55,
+     0.71
     ],
     "base": [
-     17,
+     18,
      13
     ]
    },
@@ -31931,10 +31985,10 @@
       7,
       900006,
       "Atlético-MG",
-      50,
-      34,
+      51,
+      35,
       14,
-      8,
+      9,
       12,
       4,
       "",
@@ -32029,10 +32083,10 @@
       14,
       900015,
       "Mirassol",
-      40,
-      34,
+      41,
+      35,
       10,
-      10,
+      11,
       14,
       -9,
       "",
