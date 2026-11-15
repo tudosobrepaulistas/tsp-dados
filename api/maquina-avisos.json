@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-15T18:14-03:00",
+ "gerado": "2026-11-15T20:34-03:00",
  "avisos": [
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-14T11:06-03:00",
-   "motivo": "Sem notícia nova acessível nos últimos 7 dias (Jornal PP bloqueado para leitura); evergreen bloqueado",
-   "sugestao": "Jornal Primeira Página publicou 'Grêmio São-carlense começa a projetar temporada 2027': confirmar técnico, reforços e data de apresentação para a A4 com o clube"
-  },
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-14T11:06-03:00",
-   "motivo": "Sem notícia nova nos últimos 7 dias; evergreen bloqueado (história em 05/11)",
-   "sugestao": "São Caetano (SAF) ainda sem técnico confirmado para a A4 de 2027 (Carlos Gonçalves foi citado em outubro): checar com o clube e com o Diário do Grande ABC"
-  },
   {
    "clube": "lemense",
    "nome": "Lemense",
@@ -420,6 +406,20 @@
    "quando": "2026-11-15T18:14-03:00",
    "motivo": "Cotas 17h43 de 15/11: o aniversário de 113 anos já saiu hoje; sem outro fato novo, e a cota de evergreen do clube (1 a cada 14 dias) foi usada em 14/11",
    "sugestao": "Cobrir a festa dos 113 anos com fotos oficiais do clube (uniforme 2027 apresentado) assim que o XV publicar"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-15T20:34-03:00",
+   "motivo": "Cobertura 6h: sem fato novo da Ponte Preta nas últimas 24h confirmado em 2 fontes; saídas de Brandão/David da Hora e pior campanha já publicadas; rumor de Kleina em outro clube (NSC Total) não confirmado",
+   "sugestao": "Conferir se a Ponte anuncia a permanência ou a saída de Gilson Kleina para 2027 e as primeiras dispensas do elenco para a Série C"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-15T20:34-03:00",
+   "motivo": "Cobertura 6h: nenhuma notícia do São Bernardo FC nas últimas 24h; substituto de Bergantin (Cauan de Almeida, Futebol Interior 10/11) segue sem confirmação",
+   "sugestao": "Acompanhar o anúncio do novo técnico do São Bernardo para o Paulistão 2027 e as renovações do elenco"
   }
  ]
 }
