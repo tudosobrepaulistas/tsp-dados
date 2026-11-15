@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-15T11:00-03:00",
+ "gerado": "2026-11-15T11:57-03:00",
  "avisos": [
-  {
-   "clube": "saojose",
-   "nome": "São José",
-   "quando": "2026-11-13T22:11-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h; limite de 2 evergreen da A2 no dia já cheio",
-   "sugestao": "Guia do Estádio Martins Pereira (inaugurado em 15/03/1970 com gol de Dadá Maravilha; 12.234 lugares; reforma de 2013), foto CC0 no Wikimedia Commons de São José 1x1 São Bento"
-  },
-  {
-   "clube": "uniao-sao-joao",
-   "nome": "União São João",
-   "quando": "2026-11-13T22:11-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h; clube já teve matéria histórica nos últimos 14 dias",
-   "sugestao": "A partir de 24/11: 'Roberto Carlos começou no União São João' (profissional aos 16 anos, estreia na Seleção em 26/03/1992 ainda pela Arara, Palmeiras em 1993)"
-  },
   {
    "clube": "saocaetano",
    "nome": "São Caetano",
@@ -420,6 +406,20 @@
    "quando": "2026-11-15T11:00-03:00",
    "motivo": "Evergreen bloqueado (história nos últimos 14 dias); sem notícia nova do clube",
    "sugestao": "Ibrachina Arena recebe o Grupo D da Copinha Feminina (São Paulo, Fluminense, Vitória, Criciúma) a partir de 24/11: guia do estádio; foto livre: Wikimedia Commons File:Ibrachina_Arena_(2024).jpg (CC0)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-15T11:57-03:00",
+   "motivo": "Cota das 11h43: nada novo confirmado em 48h; a campanha final (11º, 53 pts) e a saída de Bergantin já saíram no site",
+   "sugestao": "Quem será o técnico do São Bernardo em 2027 (Cauan de Almeida foi citado pelo Futebol Interior em 10/11) e quais jogadores ficam para Paulistão e Série B"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-15T11:57-03:00",
+   "motivo": "Cota das 11h43: sem fato novo confirmado em 48h; pior campanha e números da Série B já publicados",
+   "sugestao": "Reapresentação, primeiras saídas e reforços da Ponte para a A2 e a Série C de 2027 (conferir com o clube e Hora Campinas/CBN Campinas)"
   }
  ]
 }
