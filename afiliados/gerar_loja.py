@@ -6,6 +6,7 @@
 Catálogo: afiliados/shopee-links.json (itens com "clube") e, quando existir, afiliados/catalogo-<clube>.json
 (mesmo formato: produto, preco_13_11, vendas, link, imagem, loja). Conteúdo do clube: afiliados/lojas.json.
 """
+import base64
 import html
 import json
 import re
@@ -273,7 +274,9 @@ def main(clube):
           {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
               {"@type": "Question", "name": q_, "acceptedAnswer": {"@type": "Answer", "text": a_}} for q_, a_ in conf["faq"]]}]
     p.append('<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>')
-    p.append(JS)
+    # o WordPress troca "&&" por "&#038;" dentro do conteúdo: o script vai em base64 (sem & nem aspas) e é decodificado no navegador
+    cod = base64.b64encode(JS.replace("<script>", "").replace("</script>", "").encode("utf-8")).decode()
+    p.append(f'<script>new Function(decodeURIComponent(escape(atob("{cod}"))))();</script>')
     out = RAIZ / "artigos" / f"loja-{clube}.html"
     out.write_text("\n".join(p), encoding="utf-8")
     print("ok", out.name, len(itens), "itens", f"R$ {min(precos):.2f}–{max(precos):.2f}", cats)
