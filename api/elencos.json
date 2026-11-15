@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T10:20:00-03:00",
+ "gerado": "2026-11-15T18:41:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -4162,7 +4162,12 @@
     {
      "nome": "Gabriel Oliveira",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gabriel-oliveira-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4293,7 +4298,12 @@
     {
      "nome": "Alan Leite",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-alan-leite-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -4313,7 +4323,12 @@
     {
      "nome": "Gustavo Kuhn",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-gustavo-kuhn-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "jogos": 16,
