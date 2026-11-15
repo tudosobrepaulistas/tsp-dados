@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T03:46:00-03:00",
+ "gerado": "2026-11-15T03:53:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -9692,7 +9692,75 @@
     ],
     "atualizado": "2026-11-11T22:27:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "",
+     "time": "Gabriel Werner; Heitor, Victor Caetano, Kauan, Bruno Pacheco; Camilo, Yago Felipe, Giovanni Augusto; Max, Dylan Borrero, Tulio Eduardo",
+     "entraram": [
+      {
+       "jogador": "Vinicius Eduardo",
+       "saiu": "Victor Caetano",
+       "minuto": ""
+      },
+      {
+       "jogador": "David Antunes",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel Carvalho",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Endrio",
+       "saiu": "Max",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Dylan Borrero",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Puma Rodríguez, Saldivia, Robert Renan, Lucas Piton; Jair, Colidio, Lescano, Marino Hinestroza, André Gómez; Bruno Duarte",
+     "entraram": [
+      {
+       "jogador": "Lucas Freitas",
+       "saiu": "Robert Renan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cuiabano",
+       "saiu": "Lucas Piton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Loide Augusto",
+       "saiu": "Colidio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Rique",
+       "saiu": "Marino Hinestroza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Bruno Duarte",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/vasco/com-dois-de-bruno-duarte-vasco-vence-a-chape-e-se-afasta-do-z4-do-brasileirao/",
+     "https://www.terra.com.br/esportes/futebol/bruno-duarte-decide-vasco-supera-a-chapecoense-e-encaminha-permanencia-no-brasileirao,9b578e7898086bda7c8e0f95d6368dcaa76949ko.html"
+    ],
+    "atualizado": "2026-11-15T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -20747,7 +20815,74 @@
      "atualizado": "2026-11-12T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Nenê Santana",
+     "time": "Guilherme Viana; Di Mauro, Gabriel Caran, Palacios, Gustavo Almeida; Gustavo Telles, Karl, Juan Rodrigues, Manu; Brandão, Danilo Peu",
+     "entraram": [
+      {
+       "jogador": "Guilherme Martins",
+       "saiu": "Di Mauro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júlio",
+       "saiu": "Juan Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Ribeiro",
+       "saiu": "Manu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel",
+       "saiu": "Brandão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thevyn",
+       "saiu": "Danilo Peu",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Alberto Valentim",
+     "time": "Elias; Maguinho, Joseph, Cuenú, Nicolas Schulz; André, Heitor, Dudu Mosconi, Caio Vilela; Caio Dantas, Léo Erig",
+     "entraram": [
+      {
+       "jogador": "Renan Gustavo",
+       "saiu": "Joseph",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Gabriel",
+       "saiu": "Heitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maxwell",
+       "saiu": "Caio Vilela",
+       "minuto": ""
+      },
+      {
+       "jogador": "Germano",
+       "saiu": "Caio Dantas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenno",
+       "saiu": "Léo Erig",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://correio.rac.com.br/agenciaestado/ponte-preta-e-superada-pelo-operario-pr-e-termina-serie-b-com-pior-campanha-da-historia-1.1878200"
+    ],
+    "atualizado": "2026-11-15T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -20932,7 +21067,74 @@
     ],
     "atualizado": "2026-11-11T20:28:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Moacir Júnior",
+     "time": "Bruno Brigido; Rafa Barcelos, Ricardo Silva, Emerson, Ostchega; Jorge Jiménez, Barreto, Segovinha; Guilherme Parede, Willian Bigode, Paulo Victor",
+     "entraram": [
+      {
+       "jogador": "Felipe Amaral",
+       "saiu": "Jorge Jiménez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Otávio",
+       "saiu": "Barreto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júlio César",
+       "saiu": "Segovinha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Geovane",
+       "saiu": "Guilherme Parede",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Person",
+       "saiu": "Paulo Victor",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Marquinhos Santos",
+     "time": "Igor Bohn; Wallison, Allyson, Reynaldo, Quaresma; Zé Ricardo, Wenderson, Luiz Henrique, Daniel Penha, Jean Lucas; Léo Gamalho",
+     "entraram": [
+      {
+       "jogador": "João Vitor",
+       "saiu": "Wallison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gaspar",
+       "saiu": "Wenderson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Vitor",
+       "saiu": "Luiz Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Márcio Vitor",
+       "saiu": "Daniel Penha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rildo",
+       "saiu": "Léo Gamalho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://ndmais.com.br/futebol/avai-vence-o-america-mg-mas-crb-nao-ajuda-e-leao-e-rebaixado-a-serie-c-do-brasileiro/"
+    ],
+    "atualizado": "2026-11-15T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -21026,7 +21228,74 @@
     ],
     "atualizado": "2026-11-11T18:28:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Juan Pablo Vojvoda",
+     "time": "João Ricardo; Maílton, Bastos, Lucas Gazal, Kaio Henrique; Lucas Sasha, Ronald, Rodriguinho; Paulo Baya, Miritello, Pedro Henrique",
+     "entraram": [
+      {
+       "jogador": "Luan Freitas",
+       "saiu": "Maílton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jaílson",
+       "saiu": "Ronald",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Santos",
+       "saiu": "Rodriguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Welliton",
+       "saiu": "Paulo Baya",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca Prior",
+       "saiu": "Pedro Henrique",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Guto Ferreira",
+     "time": "Helton Leite; Igor Cariús, Jonathan Costa, Douglas Mendes, Higor; Dudu, João Vieira, Marquinhos Gabriel; Everton Galdino, Dellatorre, Janderson",
+     "entraram": [
+      {
+       "jogador": "Anderson Jesus",
+       "saiu": "Jonathan Costa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tiago Pagnussat",
+       "saiu": "Douglas Mendes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Higor Meritão",
+       "saiu": "Dudu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lincoln",
+       "saiu": "Dellatorre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan",
+       "saiu": "Janderson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4368861/fortaleza-vence-vila-nova-e-entra-em-vantagem-nos-playoffs-contra-o-criciuma"
+    ],
+    "atualizado": "2026-11-15T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -21178,7 +21447,74 @@
     ],
     "atualizado": "2026-11-11T18:28:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Umberto Louzer",
+     "time": "Airton; César Martins, Marcinho, Luciano Castán; Willean Lepo, Ronald, Gui Lobo, Jean Irmer; Otero, Yuri Tanque, Fellipe Mateus",
+     "entraram": [
+      {
+       "jogador": "Hiago Alves",
+       "saiu": "Willean Lepo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Capella",
+       "saiu": "Ronald",
+       "minuto": ""
+      },
+      {
+       "jogador": "Waguininho",
+       "saiu": "Gui Lobo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhonata Robert",
+       "saiu": "Otero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Gonçalves",
+       "saiu": "Yuri Tanque",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Enderson Moreira",
+     "time": "Jordi; Madson, Carlinhos, Eduardo Brock, Sander; Luís Oyama, Matheus Bianqui, Rômulo; Reidiney, Robson, Diego Galo",
+     "entraram": [
+      {
+       "jogador": "Alvariño",
+       "saiu": "Madson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Rômulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ronald Barcellos",
+       "saiu": "Reidiney",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlão",
+       "saiu": "Robson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maykon",
+       "saiu": "Diego Galo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://acritica.net/esportes/novorizontino-vence-criciuma-e-conquista-o-inedito-titulo-da-serie-b/"
+    ],
+    "atualizado": "2026-11-15T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -21432,7 +21768,74 @@
     ],
     "atualizado": "2026-11-11T20:28:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fábio Matias",
+     "time": "Vitor Caetano; Hereda, Bressan, Lyncon, Reverson; Crtstopher, De Lucca, Danielzinho; Thiaguinho, Mikael, Dadá Belmonte",
+     "entraram": [
+      {
+       "jogador": "Kevin",
+       "saiu": "Hereda",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ygor Catatau",
+       "saiu": "Lyncon",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Neto",
+       "saiu": "De Lucca",
+       "minuto": ""
+      },
+      {
+       "jogador": "Estêvão",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Saymon",
+       "saiu": "Thiaguinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Anderson Batatais",
+     "time": "Richard; Júlio César, Éder, Luiz Otávio, Rafael Ramos; Richardson, Vinícius Zanocelo, João Gabriel; Enzo Lodovico, Saulo Mineiro, Melk",
+     "entraram": [
+      {
+       "jogador": "Gabriel Rocha",
+       "saiu": "Júlio César",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bryan Borges",
+       "saiu": "Rafael Ramos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lenny Lobato",
+       "saiu": "João Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio",
+       "saiu": "Saulo Mineiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nicolás Ferreira",
+       "saiu": "Melk",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4368866/ceara-empata-com-o-crb-escapa-do-rebaixamento-e-deixa-rival-fora-dos-playoffs-da-serie-b"
+    ],
+    "atualizado": "2026-11-15T03:51:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -38551,6 +38954,168 @@
     {
      "nome": "Jadson",
      "posicao": "Atacante"
+    }
+   ]
+  },
+  "900010": {
+   "time": "bragantino",
+   "atualizado": "2026-11-15T03:52:00-03:00",
+   "fonte": "https://www.redbullbragantino.com/br-pt/blog/jogadores-red-bull-bragantino",
+   "jogadores": [
+    {
+     "nome": "Cleiton",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Tiago Volpi",
+     "posicao": "Goleiro",
+     "numero": 18
+    },
+    {
+     "nome": "Fernando Costa",
+     "posicao": "Goleiro",
+     "numero": 24
+    },
+    {
+     "nome": "Fabrício",
+     "posicao": "Goleiro",
+     "numero": 37
+    },
+    {
+     "nome": "Gustavo Reis",
+     "posicao": "Goleiro",
+     "numero": 56
+    },
+    {
+     "nome": "Guzmán Rodríguez",
+     "posicao": "Zagueiro",
+     "numero": 2
+    },
+    {
+     "nome": "Eduardo Santos",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Alix Vinícius",
+     "posicao": "Zagueiro",
+     "numero": 4
+    },
+    {
+     "nome": "Pedro Henrique",
+     "posicao": "Zagueiro",
+     "numero": 14
+    },
+    {
+     "nome": "Gustavo Marques",
+     "posicao": "Zagueiro",
+     "numero": 16
+    },
+    {
+     "nome": "Agustín Sant'Anna",
+     "posicao": "Lateral",
+     "numero": 23
+    },
+    {
+     "nome": "Andrés Hurtado",
+     "posicao": "Lateral",
+     "numero": 34
+    },
+    {
+     "nome": "Vanderlan",
+     "posicao": "Lateral",
+     "numero": 12
+    },
+    {
+     "nome": "Juninho Capixaba",
+     "posicao": "Lateral",
+     "numero": 29
+    },
+    {
+     "nome": "Cauê",
+     "posicao": "Lateral",
+     "numero": 51
+    },
+    {
+     "nome": "Fabinho",
+     "posicao": "Volante",
+     "numero": 5
+    },
+    {
+     "nome": "Gabriel Girotto",
+     "posicao": "Volante",
+     "numero": 6
+    },
+    {
+     "nome": "Eric Ramires",
+     "posicao": "Meia",
+     "numero": 7
+    },
+    {
+     "nome": "Nacho Sosa",
+     "posicao": "Volante",
+     "numero": 15
+    },
+    {
+     "nome": "Rodriguinho",
+     "posicao": "Meia",
+     "numero": 20
+    },
+    {
+     "nome": "Gustavo Neves",
+     "posicao": "Meia",
+     "numero": 22
+    },
+    {
+     "nome": "Matheus Fernandes",
+     "posicao": "Volante",
+     "numero": 35
+    },
+    {
+     "nome": "Eduardo Sasha",
+     "posicao": "Atacante",
+     "numero": 8
+    },
+    {
+     "nome": "Isidro Pitta",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Fernando",
+     "posicao": "Atacante",
+     "numero": 11
+    },
+    {
+     "nome": "Vinicinho Pereira",
+     "posicao": "Atacante",
+     "numero": 17
+    },
+    {
+     "nome": "Lucas Barbosa",
+     "posicao": "Atacante",
+     "numero": 21
+    },
+    {
+     "nome": "Davi Gomes",
+     "posicao": "Atacante",
+     "numero": 27
+    },
+    {
+     "nome": "Henry Mosquera",
+     "posicao": "Atacante",
+     "numero": 30
+    },
+    {
+     "nome": "José Herrera",
+     "posicao": "Atacante",
+     "numero": 32
+    },
+    {
+     "nome": "Marcelinho",
+     "posicao": "Atacante",
+     "numero": 57
     }
    ]
   },
