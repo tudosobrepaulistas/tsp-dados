@@ -1,187 +1,6 @@
 {
  "itens": [
   {
-   "clube": "mirassol",
-   "titulo": "Mirassol x Galo hoje às 18h30 no Maião: Edson Carioca volta, Bruno Santos e Negueba desfalcam",
-   "resumo": "O Mirassol (14º, 40 pontos, três acima do Z4) recebe o Atlético-MG neste sábado (14), às 18h30, pela 35ª rodada, com transmissão só no Prime Video. Edson Carioca volta de suspensão; Bruno Santos (suspenso pelo STJD) e Negueba (lesionado) estão fora.",
-   "angulo": "Serviço completo (horário, onde assistir, provável escalação) e, no pós-jogo, como fica a distância para o Z4 com a Base TSP.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/atletico-mg/mirassol-x-atletico-mg-onde-assistir-horario-escalacoes-e-arbitragem,b1d649799f6f7925d78ef4190a35650fjpok6g71.html"
-    },
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/fora-de-campo/inteligencia-artificial-projeta-resultado-de-mirassol-e-atletico-mg.html"
-    }
-   ],
-   "id": "pa6a79c3696",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "palmeiras",
-   "titulo": "Sem Gustavo Gómez e Murilo, Abel pode estrear zaga inédita contra o Cruzeiro",
-   "resumo": "Gómez está com o Paraguai em Singapura e Murilo tem lesão na coxa esquerda. Abel estuda três zagueiros (Barboza, Bruno Fuchs e o jovem Benedetti) ou Emiliano Martínez improvisado na zaga para o jogo de quarta (18), às 20h30, no Mineirão. O Palmeiras tem a melhor defesa do Brasileirão (23 gols sofridos em 34 jogos).",
-   "angulo": "Comparar a defesa do Palmeiras com as rivais na Base TSP e mostrar como o time foi nos jogos sem Gómez.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-pode-ter-escalacao-inedita-no-brasileirao,a17990cedc71668d991d13dcb727f6babd8bgw6e.html"
-    }
-   ],
-   "id": "p750310e726",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "Coletivo no sábado e convocados em campo: Djhordney, Pedro Ferreira e Bobadilla jogaram na Data Fifa",
-   "resumo": "O São Paulo fez coletivo 11 contra 11 neste sábado no CT da Barra Funda e volta a treinar na segunda (16). Djhordney e Pedro Ferreira atuaram na vitória da Seleção Sub-20 sobre o Peru (2x0) e Bobadilla entrou no 4x1 do Paraguai sobre Singapura. O jogo com o Fluminense é na quinta (19), às 21h30, no MorumBIS.",
-   "angulo": "Desgaste e retorno dos convocados: quem chega a tempo para o Fluminense.",
-   "fontes": [
-    {
-     "nome": "São Paulo FC (oficial)",
-     "url": "https://www.saopaulofc.net/com-treino-neste-sabado-tricolor-cumpre-mais-uma-etapa-de-ajustes-para-encarar-o-fluminense/"
-    },
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-treino-preparacao-fluminense-desfalques/"
-    }
-   ],
-   "id": "pa9c74b0cd4",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "santos",
-   "titulo": "Neymar reencontra o Coritiba depois da confusão da substituição no 0x3 de maio",
-   "resumo": "Liberado pelo STJD com pena reduzida, Neymar deve jogar contra o Coritiba na quarta (18), às 19h30, no Couto Pereira. No turno, em maio, o Santos perdeu por 3 a 0 e Neymar levou amarelo após uma troca errada na súmula que o tirou de campo.",
-   "angulo": "Histórico do confronto e o que mudou no Santos desde o turno, com números da Base TSP.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/santos/reviravolta-stjd-atende-pedido-do-santos,f5f7ed851492c2349644c8f811ea4826trzzc6a0.html"
-    },
-    {
-     "nome": "CBN Santos",
-     "url": "https://www.cbnsantos.com.br/noticias/esporte/santos-reverte-punicao-no-stjd-e-garante-neymar-no-duelo-decisivo-no-couto-pereira.html"
-    },
-    {
-     "nome": "O Liberal",
-     "url": "https://www.oliberal.com/esportes/cuca-admite-atuacao-fraca-do-santos-e-minimiza-confusao-da-arbitragem-com-neymar-1.1122388"
-    }
-   ],
-   "id": "pd4ee6dfe6c",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "corinthians",
-   "titulo": "Raniele e Gabriel Paulista em transição: o Corinthians pode ganhar dois reforços contra o Botafogo",
-   "resumo": "Raniele, operado do menisco do joelho direito após o clássico com o Palmeiras, e Gabriel Paulista, com estiramento no adutor, já fazem parte do aquecimento com o grupo. O clube espera tê-los para quarta (18), às 21h30, na Neo Química Arena, mas a volta não está garantida.",
-   "angulo": "Quanto o time perdeu sem os dois e como pode ficar a defesa sem André Ramalho, suspenso.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/corinthians/atualizacao-sobre-as-situacoes-de-gabriel-paulista-e-raniele-no-corinthians,554129ac78a3cb58ebb607d2ea5cf4abe3pxrec8.html"
-    },
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-desfalques-botafogo-brasileirao/"
-    }
-   ],
-   "id": "pea8bf35e41",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "bragantino",
-   "titulo": "Bragantino pega o Vitória na estreia do técnico Rafael Lacerda, em briga direta contra o Z4",
-   "resumo": "O Vitória anunciou Rafael Lacerda na terça (10) e ele estreia contra o Bragantino na quinta (19), às 19h30, pela 35ª rodada. O rival está em 15º, com 38 pontos, um acima da zona de rebaixamento, e deve ter dois desfalques.",
-   "angulo": "Retrospecto de times que estreiam técnico contra o Bragantino e a situação do Massa Bruta na tabela.",
-   "fontes": [
-    {
-     "nome": "Bahia Notícias",
-     "url": "https://www.bahianoticias.com.br/esportes/vitoria/31775-com-foco-no-bragantino-rafael-lacerda-realiza-primeiro-treino-no-barradao-pelo-vitoria"
-    },
-    {
-     "nome": "BNews",
-     "url": "https://www.bnews.com.br/noticias/esporte/vitoria-tera-dois-desfalques-para-estreia-de-rafael-lacerda-contra-o-bragantino.html"
-    }
-   ],
-   "id": "p6302a811da",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "saobernardo",
-   "titulo": "Depois do 2x2 com o Athletic, onde o São Bernardo termina a Série B?",
-   "resumo": "O São Bernardo empatou por 2 a 2 com o Athletic na quinta (12), no 1º de Maio, e fechou a Série B com 53 pontos, provisoriamente em 11º. A posição final sai com os jogos deste sábado (14). Em 2027, o Tigre segue na Série B e disputa o Paulistão A1.",
-   "angulo": "Balanço da campanha com a Base TSP e o calendário de 2027.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/sao-bernardo/sao-bernardo-e-athletic-empatam-pela-ultima-rodada-da-serie-b,f4312a7a6c9126403be1061966615ef0pet578qq.html"
-    },
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-e-athletic-ficam-no-empate-pela-ultima-rodada-da-serie-b/"
-    }
-   ],
-   "id": "p59530e9516",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "guarani",
-   "titulo": "SAF em votação no dia 19 e dez contratos no fim: o Guarani que vem para 2027",
-   "resumo": "O Guarani espera para 19 de novembro a decisão sobre a SAF e tem dez jogadores com contrato até o fim de 2026 (entre eles Andrey, Diego Torres e Rafael Donato), em meio a salários atrasados e ações na Justiça.",
-   "angulo": "Lista de quem fica e quem sai, e o que muda com a SAF, para o torcedor entender a virada de ano.",
-   "fontes": [
-    {
-     "nome": "CBN Campinas",
-     "url": "https://cbncampinas.com.br/2026/11/guarani-tem-10-jogadores-com-contrato-ate-o-final-de-2026/"
-    },
-    {
-     "nome": "Boa Informação",
-     "url": "https://boainformacao.com.br/2026/11/guarani-reduz-folha-salarial-e-encaminha-reforcos-para-o-paulistao/"
-    }
-   ],
-   "id": "pc7b6ad8260",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "titulo": "Os oito reforços do XV para a A2 e a Série D de 2027",
-   "resumo": "O XV de Piracicaba anunciou pré-contratos com oito jogadores, entre eles o goleiro Marcelo Dal Soler (ex-Caxias), o lateral Gustavo Talles (ex-Chapecoense) e o atacante Gustavo Cabral (vindo da Romênia). A A2 começa em 17 de janeiro.",
-   "angulo": "Raio-x posição por posição do elenco 2027.",
-   "fontes": [
-    {
-     "nome": "JP1 / Sampi Piracicaba",
-     "url": "https://sampi.net.br/piracicaba/noticias/3015980/cidade/2026/11/xv-de-piracicaba-anuncia-oito-reforcos-e-planeja-temporada-2027"
-    }
-   ],
-   "id": "pd93f94daee",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
-   "clube": "penapolense",
-   "titulo": "Penapolense monta comissão técnica de Thiago Oliveira para a A3 de 2027",
-   "resumo": "Na terceira passagem de Thiago Oliveira, a Penapolense confirmou o auxiliar Fábio Carvalho (ex-União São João), o preparador de goleiros João Paulo Azevedo (ex-Paulista) e o fisioterapeuta Leonardo Ferreira; o preparador físico Carlos Penteado fica.",
-   "fontes": [
-    {
-     "nome": "Futebol Interior",
-     "url": "https://www.futebolinterior.com.br/penapolense-reforca-comissao-tecnica/"
-    }
-   ],
-   "id": "pd98496af11",
-   "gerado": "2026-11-14T16:45-03:00",
-   "quando": "14/11 16h"
-  },
-  {
    "clube": "novorizontino",
    "titulo": "Novorizontino campeão da Série B: o título inédito que leva o Tigre à elite pela primeira vez",
    "resumo": "O Novorizontino venceu o Criciúma por 1 a 0 fora de casa no sábado (14), gol de Juninho, que saiu do banco, e fechou a Série B com 73 pontos, dois à frente do Juventude. É o primeiro título nacional do clube, que joga a Série A em 2027.",
@@ -603,7 +422,120 @@
    "id": "p9e4db3abdf",
    "gerado": "2026-11-16T07:50-03:00",
    "quando": "16/11 07h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "STJD mantém gancho de dois jogos e Yuri Alberto desfalca o Corinthians contra Botafogo e Atlético-MG",
+   "resumo": "O pleno do STJD rejeitou por unanimidade nesta segunda (16) o recurso do Corinthians, e Yuri Alberto cumpre dois jogos: Botafogo (quarta, 18, na Neo Química Arena) e Atlético-MG (25, em BH). O gerente Júlio César disse que o clube está incomodado com a decisão. Perder o artilheiro na briga contra o Z4 pesa direto no torcedor.",
+   "angulo": "Quem entra no lugar (Memphis, Gui Negão, Pedro Raul) e como o Corinthians se saiu sem Yuri em 2026, com números da Base TSP.",
+   "fontes": [
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/corinthians-repudia-decisao-do-stjd-em-manter-punicao-de-yuri-alberto"
+    },
+    {
+     "nome": "O Liberal",
+     "url": "https://www.oliberal.com/esportes/stjd-rejeita-recurso-do-corinthians-e-mantem-yuri-alberto-suspenso-por-dois-jogos-1.1194760"
+    }
+   ],
+   "id": "pd4a57d97f0",
+   "gerado": "2026-11-16T16:49-03:00",
+   "quando": "16/11 16h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Abel monta Palmeiras diferente para o Cruzeiro; Arias, Flaco López e Giay podem voltar a tempo",
+   "resumo": "No treino tático desta segunda (16), Abel preparou mudanças para Cruzeiro x Palmeiras, quarta (18), às 20h30, no Mineirão. Gómez e Mauricio dificilmente voltam da seleção paraguaia; Arias, Flaco e Giay têm logística melhor e serão reavaliados. Vice-líder com 73 pontos, três atrás do Flamengo.",
+   "angulo": "Provável escalação com os cenários (com e sem os convocados) e a briga pelo título nas últimas quatro rodadas.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-treino-tatico-mudancas-cruzeiro/"
+    }
+   ],
+   "id": "p5069df9721",
+   "gerado": "2026-11-16T16:49-03:00",
+   "quando": "16/11 16h"
+  },
+  {
+   "clube": "santos",
+   "titulo": "Com Neymar liberado e volta de Arão e Escobar, Cuca pode estrear quinteto ofensivo contra o Coritiba",
+   "resumo": "Santos x Coritiba é quarta (18), às 19h30, fora de casa, pela 35ª rodada. Willian Arão e Escobar voltaram aos treinos, Neymar já cumpriu a suspensão reduzida, e Coutinho, Arthur, Cebolinha, Gabigol e Neymar podem jogar juntos pela primeira vez. Bontempo e Caballero, nas seleções, não devem chegar a tempo.",
+   "angulo": "As contas da vaga na Libertadores (com a Copa do Brasil abrindo o G6) e serviço de onde assistir.",
+   "fontes": [
+    {
+     "nome": "Lance!",
+     "url": "https://lance.com.br/santos/santos-inicia-semana-ainda-vivo-pela-libertadores-e-com-volta-de-jogadores-para-enfrentar-o-coritiba.html"
+    }
+   ],
+   "id": "pa74580c52f",
+   "gerado": "2026-11-16T16:49-03:00",
+   "quando": "16/11 16h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Dorival treina com garotos de Cotia e fecha preparação para São Paulo x Fluminense no MorumBIS",
+   "resumo": "O São Paulo treinou nesta segunda (16) na Barra Funda, com jovens da base e um 11 contra 11 comandado por Dorival Júnior, mirando o Fluminense na quinta (19), às 21h30, no MorumBIS, pela 35ª rodada. O próximo treino é terça (17), de manhã.",
+   "angulo": "Quem são os garotos de Cotia que treinaram com o time principal e se algum pode ganhar minutos na reta final.",
+   "fontes": [
+    {
+     "nome": "Site oficial do São Paulo (via Yahoo)",
+     "url": "https://sports.yahoo.com/articles/tricolor-enter-final-stages-preparations-183100423.html"
+    }
+   ],
+   "id": "pdca078b7c3",
+   "gerado": "2026-11-16T16:49-03:00",
+   "quando": "16/11 16h"
+  },
+  {
+   "clube": "guarani",
+   "titulo": "Sócios do Guarani votam na quinta a proposta de SAF de R$ 1 bilhão; veja o que está em jogo",
+   "resumo": "Na quinta (19), os sócios votam a proposta do empresário Roberto Graziano: investimento estimado de R$ 1,075 bilhão, R$ 400 milhões no futebol, com 90% das ações da SAF. Antes, há reuniões de esclarecimento segunda, terça e quarta. A criação da SAF já foi aprovada em 2 de outubro, por 235 a 12.",
+   "angulo": "Explicador em perguntas e respostas: o que muda para o clube e para o torcedor se a proposta passar.",
+   "fontes": [
+    {
+     "nome": "Futebol Interior",
+     "url": "https://www.futebolinterior.com.br/guarani-tem-semana-decisiva/"
+    }
+   ],
+   "id": "pcb61488998",
+   "gerado": "2026-11-16T16:49-03:00",
+   "quando": "16/11 16h"
+  },
+  {
+   "clube": "novorizontino",
+   "titulo": "Novorizontino campeão da Série B com 73 pontos: o título inédito e o caminho até a Série A",
+   "resumo": "O Novorizontino venceu o Criciúma por 1 a 0, fora, no sábado (14), gol de Juninho aos 23 do 2º tempo, e fechou a Série B campeão com 73 pontos, dois à frente do Juventude. É o primeiro título nacional do clube, que já tinha garantido o acesso inédito.",
+   "angulo": "Linha do tempo das três temporadas batendo na trave até o acesso, com os números da campanha na Base TSP.",
+   "fontes": [
+    {
+     "nome": "Agência Brasil (via Imirante)",
+     "url": "https://m.imirante.com/esporte/brasil/2026/11/15/campeao-acessos-playoffs-z4-veja-como-terminou-serie-b"
+    }
+   ],
+   "id": "pb143937763",
+   "gerado": "2026-11-16T16:49-03:00",
+   "quando": "16/11 16h"
+  },
+  {
+   "clube": "botafogosp",
+   "titulo": "Botafogo-SP renova com Gabriel Inocêncio, Jonathan e Darlan e já tem 25 jogadores para 2027",
+   "resumo": "O Botafogo-SP renovou com os laterais Gabriel Inocêncio e Jonathan e o zagueiro Darlan, e comprou os direitos de Wesley e Vilar, que estavam emprestados. Com isso, o clube começa a reformulação com 25 atletas sob contrato para 2027.",
+   "angulo": "Quem fica, quem sai e quem está em fim de contrato: o elenco do Pantera para o Paulistão 2027. Confirmar as renovações no site oficial antes de publicar.",
+   "fontes": [
+    {
+     "nome": "Tribuna Ribeirão",
+     "url": "https://www.tribunaribeirao.com.br/botafogo-sp-inicia-reformulacao-para-2027-com-25-atletas-garantidos-veja-o-cenario-do-elenco/"
+    },
+    {
+     "nome": "TV Sim Brasil",
+     "url": "https://tvsimbrasil.com.br/sp/ribeirao-preto/esportes/noticia/2026/11/16/botafogo-sp-renova-contratos-mira-nova-temporada"
+    }
+   ],
+   "id": "p335e45de82",
+   "gerado": "2026-11-16T16:49-03:00",
+   "quando": "16/11 16h"
   }
  ],
- "gerado": "2026-11-16T07:50-03:00"
+ "gerado": "2026-11-16T16:49-03:00"
 }
