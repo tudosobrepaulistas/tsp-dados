@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-16T06:40-03:00",
+ "gerado": "2026-11-16T10:45-03:00",
  "avisos": [
-  {
-   "clube": "palmeiras-feminino",
-   "nome": "Palmeiras Feminino",
-   "quando": "2026-11-14T14:28-03:00",
-   "motivo": "Sem fato novo confirmado nos últimos dias além do já publicado (interino Bruno Proton); evergreen bloqueado (história em 10/11)",
-   "sugestao": "Palmeiras espera o vencedor do play-in (Corinthians x RB Bragantino) na semifinal do Paulistão Feminino: confirmar com a FPF/clube datas e mando da semifinal e a tabela do Grupo A da Copinha F (Canindé)"
-  },
-  {
-   "clube": "ibrachina",
-   "nome": "Ibrachina",
-   "quando": "2026-11-14T14:28-03:00",
-   "motivo": "Resultado da ida da semifinal do Paulista Sub-17 contra o RB Bragantino (14/11, 11h) ainda não publicado nas fontes",
-   "sugestao": "Ibrachina x Red Bull Bragantino, ida da semifinal do Paulista Sub-17 (14/11): registrar placar com 2 fontes (site do Bragantino + FPF/O Curioso); volta em 21/11, 11h, em Atibaia"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-14T15:29-03:00",
-   "motivo": "Cobertura 6h (bloco A1): pauta do Noroeste já publicada em 13/11; sem notícia nova confirmada em 2 fontes nas últimas 48h para Capivariano, Guarani, Primavera e Juventus (Guarani e Juventus já cobertos até 12-13/11)",
-   "sugestao": "Capivariano: primeiros reforços para o Paulistão Sil 2027 sob Elio Sizenando (acompanhar site oficial e CBN Campinas); Juventus: andamento das obras da Arena Javari para o Paulistão 2027"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-14T15:29-03:00",
-   "motivo": "Cobertura 6h (bloco A3): sem notícia confirmada em 2 fontes nas últimas 48h para Catanduva, Rio Preto, Rio Branco e Bandeirante (Bandeirante manteve trio em 10/11, fora da janela)",
-   "sugestao": "Rio Preto: montagem do elenco para a A3 2027; Bandeirante: Pedro Nagel e a manutenção de Vitão, Foguinho e Scaramussa (Futebol Interior 10/11) + confirmação no site/rede do clube"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-14T18:30-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h; evergreen bloqueado (clube teve matéria histórica há menos de 14 dias)",
-   "sugestao": "Pauta pronta para um redator: 'Você sabia? Eto'o marcou pelo Comercial e pelo Botafogo-SP no mesmo Come-Fogo' (22/12/2015, 3x3 no Santa Cruz, ação do Twitter com a Fundação Gol de Letra). Fontes: https://www.gazetaesportiva.com/?p=2190441 e https://grandesnomesdapropaganda.com.br/veiculos/29238/ . Foto livre: https://commons.wikimedia.org/wiki/File:Come-Fogo_170.jpg (CC BY-SA 4.0, Anderson Bueno Pereira). Liberar a partir de 20/11."
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-14T18:30-03:00",
-   "motivo": "Nada novo nas últimas 48h além do que o site já publicou (pior campanha, orçamento 2027, Nenê Santana)",
-   "sugestao": "Acompanhar anúncio de técnico e primeiras dispensas/renovações para a A2 e a Série C de 2027 (Hora Campinas, Diário Campineiro, site oficial)"
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +378,48 @@
    "quando": "2026-11-16T06:40-03:00",
    "motivo": "A notícia da semana (negociação com técnico colombiano, VAVEL 13/11) não está confirmada pelo clube nem por 2 fontes; prévia do play-in com o Bragantino já foi feita.",
    "sugestao": "Quando o Corinthians anunciar o novo técnico do feminino, matéria com perfil e primeiros jogos. Conferir também o horário do jogo de terça (17) contra o Bragantino: o site tem uma matéria com 19h e outra com 21h."
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-16T10:45-03:00",
+   "motivo": "Cobertura 6h: única notícia das últimas 24h (planejamento 2027 com só 3 jogadores da Série B sob contrato, Futebol Interior 15/11) não tem 2ª fonte independente",
+   "sugestao": "Confirmar com o site oficial da Ponte ou um jornal de Campinas a lista de contratados para 2027 (Elvis, Jota, Vitor Ribeiro) e a reapresentação em 7/12; ou ouvir a diretoria sobre a permanência de Gilson Kleina"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-16T10:45-03:00",
+   "motivo": "Cobertura 6h: nenhuma notícia confirmada nas últimas 24h; substituto de Bergantin ainda não anunciado (Cauan de Almeida só avaliado, Futebol Interior 10/11)",
+   "sugestao": "Acompanhar o anúncio do novo técnico do São Bernardo para 2027 (Cauan de Almeida é avaliado) e a data de reapresentação"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-16T10:45-03:00",
+   "motivo": "Cobertura 6h: título e coletivas já publicados; nada novo confirmado em 2 fontes nas últimas 24h",
+   "sugestao": "Renovação de Enderson Moreira para a Série A 2027, adequações do Jorjão para a elite e festa/recepção do título em Novo Horizonte"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-16T10:45-03:00",
+   "motivo": "Cobertura 6h: 0x0 com o Atlético-MG e expulsão de Edson Carioca já publicados; nada novo confirmado nas últimas 24h",
+   "sugestao": "Reapresentação para Fluminense x Mirassol (22/11, 18h30, Maracanã): desfalque de Edson Carioca, possível denúncia no STJD e provável escalação"
+  },
+  {
+   "clube": "osasco-sporting",
+   "nome": "Osasco Sporting",
+   "quando": "2026-11-16T10:45-03:00",
+   "motivo": "Bloco A2: pautas da redação (Félix Jorge, XV reforços/113 anos) já publicadas ou na fila; nada novo em 48h nos clubes esquecidos (Osasco Sporting, Água Santa, Linense, Marília)",
+   "sugestao": "Osasco Sporting ainda não definiu técnico para a A2 2027 (Futebol Interior, 10/11): acompanhar o anúncio"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-16T10:45-03:00",
+   "motivo": "Bloco A3: pautas da redação (museu do São Bento) já na fila; Penapolense com notícias de 11-12/11; nada novo em 48h em Catanduva, Rio Preto, Bandeirante e Prudente",
+   "sugestao": "Início da pré-temporada do Grêmio Prudente com Fahel Junior (prevista para a 2ª quinzena de novembro) e apresentação do elenco do Catanduva para a A3 2027"
   }
  ]
 }
