@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-15T22:03-03:00",
+ "gerado": "2026-11-16T06:40-03:00",
  "avisos": [
-  {
-   "clube": "juventus",
-   "nome": "Juventus",
-   "quando": "2026-11-14T12:03-03:00",
-   "motivo": "Cotas 14/11 12h: só negociações (Ítalo Carvalho, Patrick Brey) sem acerto; saídas e início da 2ª fase da preparação (16/11) já são de 02-05/11.",
-   "sugestao": "Cobrir a 2ª fase da pré-temporada na Javari a partir de 16/11 e reforços que forem oficializados."
-  },
-  {
-   "clube": "interdelimeira",
-   "nome": "Inter de Limeira",
-   "quando": "2026-11-14T12:03-03:00",
-   "motivo": "Cotas 14/11 12h (A2): sem notícia em 48h; evergreen sobre o título paulista de 1986 ou o Limeirão sem fonte jornalística e sem foto livre conferida.",
-   "sugestao": "Matéria sobre a Inter de Limeira na Série B 2027: elenco, técnico Matheus Costa e calendário, com fala da diretoria."
-  },
-  {
-   "clube": "saojose",
-   "nome": "São José",
-   "quando": "2026-11-14T12:03-03:00",
-   "motivo": "Cotas 14/11 12h (A2): sem notícia em 48h; canal oficial só com jogos da base.",
-   "sugestao": "Planejamento do São José para a A2 2027 após a final da Copa Paulista: técnico, reforços e data de reapresentação."
-  },
-  {
-   "clube": "rio-branco",
-   "nome": "Rio Branco",
-   "quando": "2026-11-14T12:03-03:00",
-   "motivo": "Cotas 14/11 12h (A3): resultados de busca só de 2025; nada novo confirmado para 2027.",
-   "sugestao": "Reapresentação e técnico do Rio Branco para a A3 2027 (jornal TodoDia, Americana)."
-  },
-  {
-   "clube": "prudente",
-   "nome": "Grêmio Prudente",
-   "quando": "2026-11-14T12:03-03:00",
-   "motivo": "Cotas 14/11 12h (A3): técnico Fahel Junior anunciado em 21/10; pré-temporada prevista para a 2ª quinzena de novembro, sem data confirmada.",
-   "sugestao": "Data de apresentação do elenco e primeiros reforços do Grêmio Prudente (O Imparcial)."
-  },
-  {
-   "clube": "rio-preto",
-   "nome": "Rio Preto",
-   "quando": "2026-11-14T12:03-03:00",
-   "motivo": "Cotas 14/11 12h (A3): nada novo confirmado em 48h.",
-   "sugestao": "Planejamento do Rio Preto para a A3 2027 (Diário da Região)."
-  },
   {
    "clube": "palmeiras-feminino",
    "nome": "Palmeiras Feminino",
@@ -420,6 +378,48 @@
    "quando": "2026-11-15T22:03-03:00",
    "motivo": "Evergreen não feito: Wikimedia Commons bloqueou as fotos (excesso de requisições) nesta execução",
    "sugestao": "Guia do Jauzão (Estádio Zezinho Magalhães, 1973, 13.040 lugares) e os acessos de 1951 e 1976 do Galo da Comarca; foto livre no Commons: 'Estádio Zezinho Magalhães.JPG'"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-16T06:40-03:00",
+   "motivo": "Só uma fonte nos últimos 7 dias (Diário do Grande ABC, 13/11: preparação para a A4, pré-contratos sem nomes e pedido de concessão do Anacleto Campanella). Sem 2ª fonte e sem foto conferida.",
+   "sugestao": "Confirmar com o São Caetano (site/Instagram) o pedido de concessão do Anacleto Campanella e os pré-contratos para a A4 2027; matéria com base na reportagem do DGABC de 13/11 (https://www.dgabc.com.br/Noticia/4368577/sao-caetano-inicia-preparacao-para-a-serie-a-4-do-paulista)"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-16T06:40-03:00",
+   "motivo": "O presidente disse em outubro que os treinos começariam em 15/11, mas não achei confirmação do início da pré-temporada nem foto.",
+   "sugestao": "Confirmar com o Lemense se a pré-temporada começou em 15/11, onde treina e quem é o técnico para a A4 2027 (o campeonato começa em 14/02)."
+  },
+  {
+   "clube": "bandeirante_brodowski",
+   "nome": "Bandeirante de Brodowski",
+   "quando": "2026-11-16T06:40-03:00",
+   "motivo": "Empate por 0 a 0 com o União na ida da semifinal do Amador do Estado (14/11) só aparece no Correio de Atibaia; a FPF ainda não marcou a volta em Brodowski. Sem 2ª fonte.",
+   "sugestao": "Quando a FPF divulgar data e horário da volta (no Mário Lima Santos), fazer a prévia: Bandeirante x União é o reencontro da final de 2025; quem vencer vai à final, novo empate leva aos pênaltis. Fonte: https://correiodeatibaia.com.br/2026/11/14/uniao-fica-no-empate-sem-gols-com-o-bandeirante-de-brodowski-no-jogo-de-ida-da-semifinal-do-amador-do-estado/"
+  },
+  {
+   "clube": "cosmopolitano",
+   "nome": "Cosmopolitano",
+   "quando": "2026-11-16T06:40-03:00",
+   "motivo": "Clube fez 111 anos em 15/11 (fundado em 15/11/1915), mas não achei foto livre e segura do Cosmopolitano FC; as imagens do canal são do Cosmopolitano Sports, empresa filiada à FPF em 2023, e a relação entre os dois não está clara nas fontes.",
+   "sugestao": "Matéria dos 111 anos do Cosmopolitano FC: fundação em 15/11/1915 por ferroviários da Sorocabana, Galo da Funilense, Liga Campineira de 1933, campeão amador estadual de 1997, livro do centenário de Rodolfo Rizzo e Valber Kowalesky. Fontes: https://cordeiropolis.corderovirtual.com.br/noticias/7075/9/livro-conta-a-historia-centenaria-do-cosmopolitano e https://www.asmilcamisas.com.br/tag/a-historia-dos-100-anos-do-cosmopolitano-fc/ . Foto: pedir ao clube."
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-16T06:40-03:00",
+   "motivo": "Nenhuma notícia do Mirassol Feminino nos últimos 7 dias no site do clube nem na imprensa.",
+   "sugestao": "Perguntar ao Mirassol sobre o planejamento do feminino para 2027 (técnica Carine Bosetti, elenco e calendário depois do primeiro Paulistão Feminino)."
+  },
+  {
+   "clube": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "quando": "2026-11-16T06:40-03:00",
+   "motivo": "A notícia da semana (negociação com técnico colombiano, VAVEL 13/11) não está confirmada pelo clube nem por 2 fontes; prévia do play-in com o Bragantino já foi feita.",
+   "sugestao": "Quando o Corinthians anunciar o novo técnico do feminino, matéria com perfil e primeiros jogos. Conferir também o horário do jogo de terça (17) contra o Bragantino: o site tem uma matéria com 19h e outra com 21h."
   }
  ]
 }
