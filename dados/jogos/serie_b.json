@@ -5642,7 +5642,109 @@
     "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-nautico-e-empata-com-novorizontino-na-ponta-da-serie-b/",
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/juventude-goleia-nautico-e-retoma-vice-lideranca-da-serie-b,77d0f69036633db572e2b9131b83511fy6y1dudu.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-27T11:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Gabriel Pinheiro; Aderlan, Gabriel Pires, Raí Silva, Diogo Barbosa; Fábio Lima, MP, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Titi",
+       "saiu": "Rodrigo Sam",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Christian",
+       "saiu": "Gabriel Pires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mineiro",
+       "saiu": "Raí Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luis Amarilla",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ray Breno",
+       "saiu": "MP",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fábio Lima",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Pinheiro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Bruno Pivetti",
+     "time": "Gastón Guruceaga; Reginaldo, Betão, Igor Fernandes, Ryan; Wenderson, Luiz Felipe, Jean Carlos; Vinicius, Borasi, Derek",
+     "entraram": [
+      {
+       "jogador": "Wanderson",
+       "saiu": "Ryan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Samuel",
+       "saiu": "Luiz Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Sérgio",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Andrade",
+       "saiu": "Borasi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauã Maranhão",
+       "saiu": "Derek",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jean Carlos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ryan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wanderson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Victor Andrade",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/com-goleada-no-jaconi-juventude-retorna-ao-g2-da-serie-b"
+    ],
+    "atualizado": "2026-11-16T03:37:00-03:00"
+   }
   },
   {
    "id": 91000040,
@@ -6075,6 +6177,82 @@
      ],
      "atualizado": "2026-10-31T12:24:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Guto Ferreira",
+     "time": "Helton Leite; Igor Cariús, Jonathan Costa, Douglas Mendes, Higor Luiz; Dudu, João Vieira, Marquinhos Gabriel; Everton Galdino, André Luis, Janderson",
+     "entraram": [
+      {
+       "jogador": "Nathan Camargo",
+       "saiu": "Igor Cariús",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dodô",
+       "saiu": "Marquinhos Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dellatorre",
+       "saiu": "André Luis",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": [
+       {
+        "jogador": "João Vieira",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Aderlan, Gabriel Pires, Raí Silva, Diogo Barbosa; MP, Luis Amarilla, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Lucas Alves",
+       "saiu": "Marcos Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patryck Lanza",
+       "saiu": "Aderlan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Christian",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mineiro",
+       "saiu": "Luis Amarilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Titi",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": [
+       {
+        "jogador": "Messias",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/na-raca-jaconera-ju-arranca-empata-e-lidera-a-serie-b"
+    ],
+    "atualizado": "2026-11-16T03:37:00-03:00"
    }
   },
   {

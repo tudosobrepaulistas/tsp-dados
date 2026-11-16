@@ -456,6 +456,42 @@
    }
   },
   {
+   "id": 91000382,
+   "data": "2026-01-31T16:30:00-03:00",
+   "casa": "gremio",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Monsalve",
+     "minuto": "85",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Juan",
+     "minuto": "90+8",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.lance.com.br/gremio/gremio-cede-empate-para-o-juventude-na-arena.html",
+    "https://www.gazetaesportiva.com/times/gremio/gremio-e-inter-fecham-primeira-fase-na-lideranca-dos-grupos-no-gaucho/"
+   ],
+   "atualizado": "2026-11-16T03:37:00-03:00"
+  },
+  {
    "id": 91000303,
    "data": "2026-02-08T18:00:00-03:00",
    "casa": "internacional",
@@ -502,6 +538,60 @@
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-bate-sao-luiz-com-direito-a-golaco-e-avanca-a-semifinal-do-gauchao"
    ],
    "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000383,
+   "data": "2026-02-09T20:00:00-03:00",
+   "casa": "juventude",
+   "fora": "sao-jose-rs",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Diney",
+     "minuto": "51",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Grafite",
+     "minuto": "70",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Mandaca",
+     "minuto": "77",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Taliari",
+     "minuto": "90+8",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ray",
+     "minuto": "90+10",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-renasce-com-dois-gols-nos-acrescimos-e-pega-o-gremio-na-semifinal/",
+    "https://istoe.com.br/juventude-tem-virada-espetacular-vence-o-sao-jose-e-pega-o-gremio-na-semifinal-do-gaucho"
+   ],
+   "atualizado": "2026-11-16T03:37:00-03:00"
   },
   {
    "id": 91000304,
@@ -681,6 +771,42 @@
     "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-gaucho/inter-goleia-ypiranga-e-vai-a-final-do-gaucho-com-tranquilidade/"
    ],
    "atualizado": "2026-11-12T05:46:00-03:00"
+  },
+  {
+   "id": 91000384,
+   "data": "2026-02-22T18:00:00-03:00",
+   "casa": "juventude",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "1x4",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Taliari",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Viery",
+     "minuto": "70",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://gremio.net/noticias/detalhes/30049/gremio-avanca-a-decisao-do-gauchao-2026",
+    "https://www.gazetaesportiva.com/?p=3762804"
+   ],
+   "atualizado": "2026-11-16T03:37:00-03:00"
   },
   {
    "id": 91000306,

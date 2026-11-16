@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T22:26:00-03:00",
+ "gerado": "2026-11-16T03:37:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -1891,6 +1891,12 @@
   "900086": {
    "chave": "velo-clube",
    "nome": "Velo Clube",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900087": {
+   "chave": "sao-jose-rs",
+   "nome": "São José-RS",
    "slug_tsp": "",
    "wiki": ""
   }
@@ -10322,7 +10328,7 @@
     "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.25,
+     1.24,
      1.19
     ],
     "base": [
@@ -10391,7 +10397,7 @@
     "fora": 21,
     "placar": "1x1",
     "gols_esperados": [
-     1.83,
+     1.82,
      1.03
     ],
     "base": [
@@ -10456,7 +10462,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 62,
     "empate": 21,
     "fora": 17,
     "placar": "2x0",
@@ -10597,11 +10603,11 @@
    "previsao": {
     "casa": 24,
     "empate": 24,
-    "fora": 51,
+    "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
      1.06,
-     1.67
+     1.66
     ],
     "base": [
      14,
@@ -10665,16 +10671,16 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
-    "empate": 19,
-    "fora": 18,
+    "casa": 61,
+    "empate": 20,
+    "fora": 19,
     "placar": "2x1",
     "gols_esperados": [
-     2.27,
-     1.14
+     2.18,
+     1.12
     ],
     "base": [
-     15,
+     17,
      14
     ]
    },
@@ -10778,7 +10784,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 28,
-    "empate": 24,
+    "empate": 25,
     "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
@@ -10946,11 +10952,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 54,
-    "empate": 23,
+    "empate": 24,
     "fora": 22,
     "placar": "1x1",
     "gols_esperados": [
-     1.76,
+     1.75,
      1.04
     ],
     "base": [
@@ -11062,7 +11068,7 @@
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.35,
+     2.34,
      0.75
     ],
     "base": [
@@ -11118,7 +11124,7 @@
     "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
-     1.24,
+     1.23,
      0.82
     ],
     "base": [
@@ -11230,7 +11236,7 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.21,
+     2.2,
      0.92
     ],
     "base": [
@@ -11282,7 +11288,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 48,
-    "empate": 27,
+    "empate": 28,
     "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
@@ -11342,12 +11348,12 @@
     "fora": 28,
     "placar": "1x1",
     "gols_esperados": [
-     1.69,
-     1.24
+     1.65,
+     1.2
     ],
     "base": [
      21,
-     15
+     17
     ]
    },
    "events": []
@@ -11398,7 +11404,7 @@
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.67,
+     1.66,
      0.75
     ],
     "base": [
@@ -17441,7 +17447,108 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Gabriel Pinheiro; Aderlan, Gabriel Pires, Raí Silva, Diogo Barbosa; Fábio Lima, MP, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Titi",
+       "saiu": "Rodrigo Sam",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Christian",
+       "saiu": "Gabriel Pires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mineiro",
+       "saiu": "Raí Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luis Amarilla",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ray Breno",
+       "saiu": "MP",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fábio Lima",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Pinheiro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Bruno Pivetti",
+     "time": "Gastón Guruceaga; Reginaldo, Betão, Igor Fernandes, Ryan; Wenderson, Luiz Felipe, Jean Carlos; Vinicius, Borasi, Derek",
+     "entraram": [
+      {
+       "jogador": "Wanderson",
+       "saiu": "Ryan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Samuel",
+       "saiu": "Luiz Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Sérgio",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Andrade",
+       "saiu": "Borasi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauã Maranhão",
+       "saiu": "Derek",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jean Carlos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ryan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wanderson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Victor Andrade",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/com-goleada-no-jaconi-juventude-retorna-ao-g2-da-serie-b"
+    ],
+    "atualizado": "2026-11-16T03:37:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -18053,7 +18160,82 @@
      "atualizado": "2026-10-31T12:24:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Guto Ferreira",
+     "time": "Helton Leite; Igor Cariús, Jonathan Costa, Douglas Mendes, Higor Luiz; Dudu, João Vieira, Marquinhos Gabriel; Everton Galdino, André Luis, Janderson",
+     "entraram": [
+      {
+       "jogador": "Nathan Camargo",
+       "saiu": "Igor Cariús",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dodô",
+       "saiu": "Marquinhos Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dellatorre",
+       "saiu": "André Luis",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": [
+       {
+        "jogador": "João Vieira",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Aderlan, Gabriel Pires, Raí Silva, Diogo Barbosa; MP, Luis Amarilla, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Lucas Alves",
+       "saiu": "Marcos Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patryck Lanza",
+       "saiu": "Aderlan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Christian",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mineiro",
+       "saiu": "Luis Amarilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Titi",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": [
+       {
+        "jogador": "Messias",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/na-raca-jaconera-ju-arranca-empata-e-lidera-a-serie-b"
+    ],
+    "atualizado": "2026-11-16T03:37:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -32987,6 +33169,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.lance.com.br/gremio/gremio-cede-empate-para-o-juventude-na-arena.html",
+    "https://www.gazetaesportiva.com/times/gremio/gremio-e-inter-fecham-primeira-fase-na-lideranca-dos-grupos-no-gaucho/"
+   ],
+   "fixture": {
+    "id": 91000382,
+    "timestamp": 1769887800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900022,
+     "name": "Juventude"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 85,
+      "extra": null,
+      "texto": "85"
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Monsalve"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+8"
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Juan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/?p=3757973",
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-gaucho/inter-bate-sao-luiz-com-direito-a-golaco-e-avanca-a-semifinal-do-gauchao"
    ],
@@ -33085,6 +33344,131 @@
      },
      "player": {
       "name": "Vitinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-renasce-com-dois-gols-nos-acrescimos-e-pega-o-gremio-na-semifinal/",
+    "https://istoe.com.br/juventude-tem-virada-espetacular-vence-o-sao-jose-e-pega-o-gremio-na-semifinal-do-gaucho"
+   ],
+   "fixture": {
+    "id": 91000383,
+    "timestamp": 1770678000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": "Caxias do Sul"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900087,
+     "name": "São José-RS"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900087,
+      "name": "São José-RS"
+     },
+     "player": {
+      "name": "Diney"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900087,
+      "name": "São José-RS"
+     },
+     "player": {
+      "name": "Grafite"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 77,
+      "extra": null,
+      "texto": "77"
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Mandaca"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+8"
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Gabriel Taliari"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+10"
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Ray"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -33287,6 +33671,83 @@
      },
      "player": {
       "name": "Alerrandro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "gaucho",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://gremio.net/noticias/detalhes/30049/gremio-avanca-a-decisao-do-gauchao-2026",
+    "https://www.gazetaesportiva.com/?p=3762804"
+   ],
+   "fixture": {
+    "id": 91000384,
+    "timestamp": 1771794000,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Alfredo Jaconi",
+     "city": "Caxias do Sul"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900022,
+     "name": "Juventude"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "1x4",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900022,
+      "name": "Juventude"
+     },
+     "player": {
+      "name": "Gabriel Taliari"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Viery"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -36511,6 +36972,12 @@
     "gols": 2
    },
    {
+    "jogador": "Gabriel Taliari",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 2
+   },
+   {
     "jogador": "Alerrandro",
     "time": "Internacional",
     "time_id": 900016,
@@ -36547,6 +37014,12 @@
     "gols": 1
    },
    {
+    "jogador": "Diney",
+    "time": "São José-RS",
+    "time_id": 900087,
+    "gols": 1
+   },
+   {
     "jogador": "Edenilson",
     "time": "Grêmio",
     "time_id": 900017,
@@ -36571,6 +37044,12 @@
     "gols": 1
    },
    {
+    "jogador": "Grafite",
+    "time": "São José-RS",
+    "time_id": 900087,
+    "gols": 1
+   },
+   {
     "jogador": "Gustavo Martins",
     "time": "Grêmio",
     "time_id": 900017,
@@ -36589,9 +37068,33 @@
     "gols": 1
    },
    {
+    "jogador": "Juan",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Mandaca",
+    "time": "Juventude",
+    "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Monsalve",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 1
+   },
+   {
     "jogador": "Nicolas Schulz",
     "time": "Ypiranga-RS",
     "time_id": 900077,
+    "gols": 1
+   },
+   {
+    "jogador": "Ray",
+    "time": "Juventude",
+    "time_id": 900022,
     "gols": 1
    },
    {
@@ -36604,6 +37107,12 @@
     "jogador": "Thiago Maia",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 1
+   },
+   {
+    "jogador": "Viery",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 1
    }
   ]
