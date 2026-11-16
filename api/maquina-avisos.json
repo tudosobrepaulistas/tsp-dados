@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-16T10:45-03:00",
+ "gerado": "2026-11-16T11:09-03:00",
  "avisos": [
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-14T18:30-03:00",
-   "motivo": "Posição final na Série B depende de Juventude x Botafogo-SP (14/11, 16h30), placar ainda não publicado nas fontes às 18h30",
-   "sugestao": "Depois do resultado: São Bernardo termina em 11º (se o Botafogo-SP não vencer) ou 12º (se vencer), com 53 pontos; confirmar em 2 fontes e escrever o balanço da campanha"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-14T18:30-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h (as matérias de contratos e SAF são de 03/11 e 11/11)",
-   "sugestao": "Votação da SAF pelos sócios em 19/11: prévia na véspera com a proposta do grupo de Roberto Graziano"
-  },
-  {
-   "clube": "portuguesa",
-   "nome": "Portuguesa",
-   "quando": "2026-11-14T18:30-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h (saída do Canindé e reforços já publicados)",
-   "sugestao": "Confirmar oficialmente onde a Lusa manda os jogos do Paulistão 2027 (Diadema citada pelo gerente Marco Antonio em 10/11)"
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-14T20:42-03:00",
-   "motivo": "Cobertura 6h (14/11, 20h): nada novo confirmado em 2 fontes nas últimas 24h; o fim da Série B e a pior campanha já estão no site",
-   "sugestao": "Acompanhar a reapresentação e os primeiros reforços da Ponte para a A2 2027 e a situação da SAF; procurar no site oficial e na Hora Campinas/Diário Campineiro"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-14T20:42-03:00",
-   "motivo": "Cobertura 6h (14/11, 20h): sem fato novo do Tigre confirmado em 2 fontes nas últimas 24h após a saída de Bergantin",
-   "sugestao": "Quem será o novo técnico do São Bernardo para o Paulistão 2027 (Diário do Grande ABC e redes oficiais); Bernô terminou a Série B em 11º com 53 pontos"
-  },
   {
    "clube": "corinthians",
    "nome": "Corinthians",
@@ -420,6 +385,41 @@
    "quando": "2026-11-16T10:45-03:00",
    "motivo": "Bloco A3: pautas da redação (museu do São Bento) já na fila; Penapolense com notícias de 11-12/11; nada novo em 48h em Catanduva, Rio Preto, Bandeirante e Prudente",
    "sugestao": "Início da pré-temporada do Grêmio Prudente com Fahel Junior (prevista para a 2ª quinzena de novembro) e apresentação do elenco do Catanduva para a A3 2027"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-16T11:09-03:00",
+   "motivo": "Só 1 fonte (DGABC, 13/11) para a preparação da A4; evergreen bloqueado (história em 05/11)",
+   "sugestao": "São Caetano inicia preparação para a A4 2027: pré-contratos assinados, concessão do Anacleto Campanella em análise na Prefeitura e gramado recuperado. Base: https://www.dgabc.com.br/Noticia/4368577/sao-caetano-inicia-preparacao-para-a-serie-a-4-do-paulista (foto 2GTFotos/São Caetano). Falta 2ª fonte: Instagram oficial do Azulão."
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-16T11:09-03:00",
+   "motivo": "Contratação do lateral Rogério Zuin só no Jornal O Semanário (11/11); não consegui ler o post oficial do Barretos",
+   "sugestao": "Barretos anuncia o lateral-direito Rogério Zuin, 21 anos, de Capivari, ex-base de Palmeiras e Athletico e Capital-TO, para a A4 2027. Fonte: https://www.jornalosemanario.com.br/capivariano-rogerio-zuin-e-anunciado-pelo-barretos-para-a-serie-a4-do-paulista-de-2027/ ; confirmar no Instagram oficial do Barretos."
+  },
+  {
+   "clube": "taquaritinga",
+   "nome": "Taquaritinga",
+   "quando": "2026-11-16T11:09-03:00",
+   "motivo": "Nenhuma notícia de 09 a 16/11 e história já publicada há menos de 14 dias",
+   "sugestao": "Taquaritinga ainda sem técnico anunciado para a A4 2027 (lista do Futebol Interior de 01/10): checar com a diretoria quem comanda o time e quando o elenco se apresenta."
+  },
+  {
+   "clube": "bandeirante_brodowski",
+   "nome": "Bandeirante de Brodowski",
+   "quando": "2026-11-16T11:09-03:00",
+   "motivo": "Placar da ida da semi (União 0x0 Bandeirante, 14/11) só no Correio de Atibaia; faltou 2ª fonte",
+   "sugestao": "Resultado da ida e data da volta da semifinal do Amador do Estado contra o União, em Brodowski; transmissão na TV Jaburu (https://www.youtube.com/watch?v=70_0ipoZSoM)."
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-16T11:09-03:00",
+   "motivo": "Nada novo de 10 a 16/11 e história recente (06/11); site oficial não abriu",
+   "sugestao": "Balanço do Mirassol Feminino em 2026 e planos para 2027 (Copa Paulista Feminina, elenco), conferir no mirassolfc.com.br/blogs/feminino."
   }
  ]
 }
