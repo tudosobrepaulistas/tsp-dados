@@ -23,6 +23,26 @@
   },
   {
    "data": "2026-11-13",
+   "jogador": "Thiago Oliveira",
+   "posicao": "Treinador",
+   "de": "União São João",
+   "para": "Penapolense",
+   "de_slug": "uniao-sao-joao",
+   "para_slug": "penapolense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Anunciado pelo clube em outubro; terceira passagem pelo Penapolense; vice da Copa Paulista 2026 com o União São João",
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-reforca-comissao-tecnica/",
+    "https://www.futebolinterior.com.br/exclusivo-penapolense-anuncia-tecnico-destaque-da-copa-paulista/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-13-thiago-oliveira-penapolense",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-13",
    "jogador": "Neto Berola",
    "posicao": "Atacante",
    "de": "",
@@ -516,6 +536,25 @@
    ],
    "id": "2026-11-11-matheus-abreu-paulista",
    "atualizado": "2026-11-14T07:02:00-03:00"
+  },
+  {
+   "data": "2026-11-11",
+   "jogador": "José Oliveira",
+   "posicao": "Treinador",
+   "de": "Monte Azul",
+   "para": "Monte Azul",
+   "de_slug": "monteazul",
+   "para_slug": "monteazul",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Assumiu na reta final de 2026 e segue para a A2 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulista-a2-monte-azul-contrata-tecnico/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-11-jose-oliveira-monte-azul",
+   "atualizado": "2026-11-16T06:59:00-03:00"
   },
   {
    "data": "2026-11-11",
@@ -1714,6 +1753,44 @@
   },
   {
    "data": "2026-11-05",
+   "jogador": "Rafinha",
+   "posicao": "",
+   "de": "Itapirense",
+   "de_slug": "itapirense",
+   "para": "Tanabi",
+   "para_slug": "tanabi",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Setor ofensivo",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-05-rafinha-tanabi",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
+   "jogador": "Rafael Gatto",
+   "posicao": "Lateral",
+   "de": "Tanabi",
+   "para": "Tanabi",
+   "de_slug": "tanabi",
+   "para_slug": "tanabi",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito, disputou o Paulista Sub-20",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-05-rafael-gatto-tanabi",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
    "jogador": "Marcos Moser",
    "posicao": "Lateral",
    "de": "Capivariano",
@@ -1765,6 +1842,24 @@
   },
   {
    "data": "2026-11-05",
+   "jogador": "João Monteiro",
+   "posicao": "Volante",
+   "de": "Independência-AC",
+   "para": "Tanabi",
+   "para_slug": "tanabi",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-05-joao-monteiro-tanabi",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
    "jogador": "João Lucas",
    "posicao": "Meia",
    "de": "Marília",
@@ -1784,6 +1879,24 @@
   },
   {
    "data": "2026-11-05",
+   "jogador": "Giovanni Carignano",
+   "posicao": "",
+   "de": "SC Gaúcho",
+   "para": "Tanabi",
+   "para_slug": "tanabi",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Setor ofensivo",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-05-giovanni-carignano-tanabi",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
    "jogador": "Erik Bessa",
    "posicao": "Atacante",
    "de": "",
@@ -1800,6 +1913,67 @@
    ],
    "id": "2026-11-05-erik-bessa-marilia",
    "atualizado": "2026-11-14T13:01:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
+   "jogador": "Denis Santos",
+   "posicao": "Zagueiro",
+   "de": "",
+   "para": "Tanabi",
+   "para_slug": "tanabi",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Defendeu Bandeirante e Juventus em 2026",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "numeros_2026": {
+    "clubes": [
+     "Bandeirante",
+     "Juventus"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   },
+   "id": "2026-11-05-denis-santos-tanabi",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
+   "jogador": "Daniel Dandan",
+   "posicao": "",
+   "de": "",
+   "para": "Tanabi",
+   "para_slug": "tanabi",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao Tanabi; Setor ofensivo",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-05-daniel-dandan-tanabi",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-05",
+   "jogador": "Bernardo",
+   "posicao": "",
+   "de": "Araxá-MG",
+   "para": "Tanabi",
+   "para_slug": "tanabi",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao Tanabi; Setor ofensivo",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-05-bernardo-tanabi",
+   "atualizado": "2026-11-16T06:59:00-03:00"
   },
   {
    "data": "2026-11-05",
@@ -1869,19 +2043,26 @@
    "jogador": "Sérgio Raphael",
    "posicao": "Zagueiro",
    "de": "",
-   "de_slug": "",
    "para": "Santo André",
    "para_slug": "santoandre",
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Pré-contrato para 2027",
+   "obs": "Pré-contrato até 20/10/2027 (A2 e Copa Paulista)",
    "fontes": [
-    "https://www.dgabc.com.br/Noticia/4366897/sergio-raphael-chega-ao-santo-andre-para-reforcar-o-sistema-defensivo"
+    "https://www.dgabc.com.br/Noticia/4366897/sergio-raphael-chega-ao-santo-andre-para-reforcar-o-sistema-defensivo",
+    "https://www.futebolinterior.com.br/paulistao-a2-santo-andre-contrata-zagueiro-campeao-com-a-ponte-preta/"
    ],
    "anuncio_do_clube": true,
+   "numeros_2026": {
+    "clubes": [
+     "Osasco Sporting",
+     "Velo Clube"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/paulistao-a2-santo-andre-contrata-zagueiro-campeao-com-a-ponte-preta/"
+   },
    "id": "2026-11-04-sergio-raphael-santo-andre",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-16T06:59:00-03:00"
   },
   {
    "data": "2026-11-04",
@@ -2064,6 +2245,24 @@
   },
   {
    "data": "2026-11-03",
+   "jogador": "Wesley Pacheco",
+   "posicao": "Atacante",
+   "de": "Gramadense",
+   "para": "Lemense",
+   "para_slug": "lemense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "36 anos, ex-Grêmio, Figueirense e Mirassol",
+   "fontes": [
+    "https://www.futebolinterior.com.br/lemense-reforca-ataque-wesley-pacheco/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-03-wesley-pacheco-lemense",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
    "jogador": "Vinicius Oliveira",
    "posicao": "Meia",
    "de": "",
@@ -2209,6 +2408,24 @@
    },
    "id": "2026-11-03-pedro-rinaldi-uniao-barbarense",
    "atualizado": "2026-11-14T13:01:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
+   "jogador": "Pedro Nagel",
+   "posicao": "Goleiro",
+   "de": "",
+   "para": "Bandeirante",
+   "para_slug": "bandeirante",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao Bandeirante; primeiro reforço para a A3 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/bandeirante-anuncia-goleiro-pedro-nagel/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-03-pedro-nagel-bandeirante",
+   "atualizado": "2026-11-16T06:59:00-03:00"
   },
   {
    "data": "2026-11-03",
@@ -2419,6 +2636,24 @@
   },
   {
    "data": "2026-11-03",
+   "jogador": "João Victor",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "Lemense",
+   "para_slug": "lemense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "21 anos, ex-Ponte Preta e Guarani",
+   "fontes": [
+    "https://www.futebolinterior.com.br/lemense-reforca-ataque-wesley-pacheco/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-03-joao-victor-lemense",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
    "jogador": "Gustavo Talles",
    "posicao": "Atacante",
    "de": "",
@@ -2536,6 +2771,24 @@
   },
   {
    "data": "2026-11-03",
+   "jogador": "Franklin Rocha",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "Lemense",
+   "para_slug": "lemense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.futebolinterior.com.br/lemense-reforca-ataque-wesley-pacheco/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-03-franklin-rocha-lemense",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
    "jogador": "Fabrício Miranda",
    "posicao": "Zagueiro",
    "de": "",
@@ -2609,6 +2862,24 @@
    "anuncio_do_clube": true,
    "id": "2026-11-03-daniel-cruz-uniao-barbarense",
    "atualizado": "2026-11-14T13:01:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
+   "jogador": "Arthur Mascaro",
+   "posicao": "Lateral",
+   "de": "",
+   "para": "Lemense",
+   "para_slug": "lemense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito, 22 anos, ex-Barretos",
+   "fontes": [
+    "https://www.futebolinterior.com.br/lemense-reforca-ataque-wesley-pacheco/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-03-arthur-mascaro-lemense",
+   "atualizado": "2026-11-16T06:59:00-03:00"
   },
   {
    "data": "2026-11-02",
@@ -2714,6 +2985,30 @@
   },
   {
    "data": "2026-10-30",
+   "jogador": "Diogo Vieira",
+   "posicao": "Lateral",
+   "de": "",
+   "para": "Santo André",
+   "para_slug": "santoandre",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito; pré-contrato para 2027, clube publicou as boas-vindas",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4366043/santo-andre-acerta-com-o-lateral-direito-diogo-vieira-para-2027"
+   ],
+   "anuncio_do_clube": true,
+   "selos": [
+    {
+     "texto": "Campeão Paulistão A4 2026",
+     "fonte": "https://www.dgabc.com.br/Noticia/4366043/santo-andre-acerta-com-o-lateral-direito-diogo-vieira-para-2027"
+    }
+   ],
+   "id": "2026-10-30-diogo-vieira-santo-andre",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-30",
    "jogador": "André Luiz",
    "posicao": "Goleiro",
    "de": "XV de Piracicaba",
@@ -2730,6 +3025,24 @@
    ],
    "id": "2026-10-30-andre-luiz-inter-de-bebedouro",
    "atualizado": "2026-11-14T13:01:00-03:00"
+  },
+  {
+   "data": "2026-10-29",
+   "jogador": "Paulinho McLaren",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Vocem",
+   "para_slug": "vocem",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube, que comandou em 2025",
+   "fontes": [
+    "https://www.futebolinterior.com.br/vocem-confirma-paulinho-mclaren/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-29-paulinho-mclaren-vocem",
+   "atualizado": "2026-11-16T06:59:00-03:00"
   },
   {
    "data": "2026-10-28",
@@ -2959,6 +3272,78 @@
    "atualizado": "2026-11-15T06:57:00-03:00"
   },
   {
+   "data": "2026-10-26",
+   "jogador": "Vinícius Marques",
+   "posicao": "Zagueiro",
+   "de": "",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "22 anos, com passagens por Avaí e Atlético Tubarão",
+   "fontes": [
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-26-vinicius-marques-barretos",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-26",
+   "jogador": "Levy Moreira",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "21 anos, formado no Manaus; passou por Princesa do Solimões e Fast Clube",
+   "fontes": [
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-26-levy-moreira-barretos",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-26",
+   "jogador": "Junnior Batata",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Anunciado antes de 26/10; passou por Gama, Moto Club, Sousa e Rio Preto",
+   "fontes": [
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-26-junnior-batata-barretos",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-24",
+   "jogador": "Paulo Roberto Santos",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "União São João",
+   "para_slug": "uniao-sao-joao",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube, que comandou em 2003",
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-24-paulo-roberto-santos-uniao-sao-joao",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
    "data": "2026-10-21",
    "jogador": "Danilinho",
    "posicao": "Meia",
@@ -2991,6 +3376,25 @@
    "atualizado": "2026-11-15T06:57:00-03:00"
   },
   {
+   "data": "2026-10-10",
+   "jogador": "Tiago Miguel",
+   "posicao": "Treinador",
+   "de": "Independente",
+   "para": "Independente",
+   "de_slug": "independente",
+   "para_slug": "independente",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Técnico português mantido para 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/independente-renova-treinador-2027/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-10-tiago-miguel-independente",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
    "data": "2026-10-07",
    "jogador": "Douglas Leite",
    "posicao": "Treinador",
@@ -3007,6 +3411,43 @@
    "feminino": false,
    "id": "2026-10-07-douglas-leite-santo-andre",
    "atualizado": "2026-11-15T10:19:00-03:00"
+  },
+  {
+   "data": "2026-10-03",
+   "jogador": "Luiz Carlos Martins",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "União Barbarense",
+   "para_slug": "uniao-barbarense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a3-confira-os-treinadores-ja-definidos-para-2027/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-03-luiz-carlos-martins-uniao-barbarense",
+   "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-03",
+   "jogador": "João Santos",
+   "posicao": "Treinador",
+   "de": "Rio Preto",
+   "para": "Rio Preto",
+   "de_slug": "rio-preto",
+   "para_slug": "rio-preto",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Mantido para a A3 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/paulistao-a3-confira-os-treinadores-ja-definidos-para-2027/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-03-joao-santos-rio-preto",
+   "atualizado": "2026-11-16T06:59:00-03:00"
   },
   {
    "data": "2026-10-02",
@@ -3026,6 +3467,25 @@
    "feminino": false,
    "id": "2026-10-02-ricardo-costa-paulista",
    "atualizado": "2026-11-15T10:19:00-03:00"
+  },
+  {
+   "data": "2026-10-01",
+   "jogador": "Lúcio Borges",
+   "posicao": "Treinador",
+   "de": "Bandeirante",
+   "para": "Bandeirante",
+   "de_slug": "bandeirante",
+   "para_slug": "bandeirante",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Contrato até o fim do Paulistão A3 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/bandeirante-renova-com-lucio-borges-para-paulistao-a3-2027/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-10-01-lucio-borges-bandeirante",
+   "atualizado": "2026-11-16T06:59:00-03:00"
   }
  ]
 }

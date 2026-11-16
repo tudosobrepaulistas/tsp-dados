@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15T18:49:00-03:00",
+ "gerado": "2026-11-16T06:59:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3034,6 +3034,64 @@
    "chegaram": [],
    "sairam": []
   },
+  "bandeirante": {
+   "atualizado": "2026-11-10",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Lúcio Borges",
+     "posicao": "Treinador",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Pedro Nagel",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Vitão",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Pedro Scaramussa",
+     "posicao": "Lateral",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Foguinho",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Pedro Nagel",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    }
+   ],
+   "sairam": []
+  },
   "paulista-jundiai": {
    "atualizado": "2026-11-11",
    "fonte": "",
@@ -3082,6 +3140,331 @@
      "data": "2026-11-11"
     }
    ],
+   "sairam": []
+  },
+  "uniao-barbarense": {
+   "atualizado": "2026-11-06",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Luiz Carlos Martins",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Vinicius Oliveira",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Tiago Barbosa",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Sandro Krett",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Pedro Rinaldi",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Bandeirante",
+       "Mamoré",
+       "Araxá"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+      "escudos": {
+       "Araxá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/araxa.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Masterson",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Marcelo Vieira",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Luiz Phillipe",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Jonathan Braz",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Jonas Cabral",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "City London (PR)"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Campeão Paranaense 3ª Divisão 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      },
+      {
+       "texto": "Acesso à 2ª Divisão Paranaense 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      }
+     ],
+     "nascimento": "",
+     "de": "City London"
+    },
+    {
+     "nome": "Gabriel Oliveira",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "City London (PR)"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Campeão Paranaense 3ª Divisão 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      },
+      {
+       "texto": "Acesso à 2ª Divisão Paranaense 2026",
+       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
+      }
+     ],
+     "nascimento": "",
+     "de": "City London"
+    },
+    {
+     "nome": "Fabrício Miranda",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Daniel Silva",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Daniel Cruz",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Guilherme Queiroz",
+     "posicao": "Volante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-guilherme-queiroz-uniao-barbarense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://images.futebolinterior.com.br/2026/11/uniao-barbarense-queiroz.webp",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {
+      "jogos": 15,
+      "minutos": 715,
+      "gols": 0,
+      "assistencias": 0,
+      "clubes": [
+       "Batel",
+       "Lajeadense"
+      ],
+      "fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468",
+      "escudos": {
+       "Lajeadense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/lajeadense.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "2005-12-03",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Luiz Carlos Martins",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-03"
+    },
+    {
+     "nome": "Vinicius Oliveira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Tiago Barbosa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Sandro Krett",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Pedro Rinaldi",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Masterson",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Marcelo Vieira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Luiz Phillipe",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Jonathan Braz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Jonas Cabral",
+     "de": "City London",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Gabriel Oliveira",
+     "de": "City London",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Fabrício Miranda",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Daniel Silva",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Daniel Cruz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Guilherme Queiroz",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    }
+   ],
+   "sairam": []
+  },
+  "rio-preto": {
+   "atualizado": "2026-10-03",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "João Santos",
+     "posicao": "Treinador",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    }
+   ],
+   "chegaram": [],
    "sairam": []
   },
   "santoandre": {
@@ -3161,6 +3544,21 @@
      "de": ""
     },
     {
+     "nome": "Diogo Vieira",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Campeão Paulistão A4 2026",
+       "fonte": "https://www.dgabc.com.br/Noticia/4366043/santo-andre-acerta-com-o-lateral-direito-diogo-vieira-para-2027"
+      }
+     ],
+     "nascimento": "",
+     "de": ""
+    },
+    {
      "nome": "Júlio Vaz",
      "posicao": "Zagueiro",
      "foto": {
@@ -3180,7 +3578,14 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "clubes": [
+       "Osasco Sporting",
+       "Velo Clube"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/paulistao-a2-santo-andre-contrata-zagueiro-campeao-com-a-ponte-preta/",
+      "escudos": {}
+     },
      "selos": [],
      "nascimento": "",
      "de": ""
@@ -3250,6 +3655,12 @@
      "data": "2026-10-28"
     },
     {
+     "nome": "Diogo Vieira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-30"
+    },
+    {
      "nome": "Júlio Vaz",
      "de": "",
      "tipo": "Contratação",
@@ -3272,6 +3683,123 @@
      "de": "CSA",
      "tipo": "Contratação",
      "data": "2026-11-11"
+    }
+   ],
+   "sairam": []
+  },
+  "independente": {
+   "atualizado": "2026-10-10",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Tiago Miguel",
+     "posicao": "Treinador",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "uniao-sao-joao": {
+   "atualizado": "2026-11-05",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Paulo Roberto Santos",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Reynaldo",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Paulo Roberto Santos",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-24"
+    },
+    {
+     "nome": "Reynaldo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    }
+   ],
+   "sairam": []
+  },
+  "barretos": {
+   "atualizado": "2026-10-26",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Vinícius Marques",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Levy Moreira",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Junnior Batata",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Vinícius Marques",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-26"
+    },
+    {
+     "nome": "Levy Moreira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-26"
+    },
+    {
+     "nome": "Junnior Batata",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-26"
     }
    ],
    "sairam": []
@@ -3519,6 +4047,32 @@
     }
    ]
   },
+  "vocem": {
+   "atualizado": "2026-10-29",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Paulinho McLaren",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Paulinho McLaren",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-29"
+    }
+   ],
+   "sairam": []
+  },
   "inter-de-bebedouro": {
    "atualizado": "2026-11-10",
    "fonte": "",
@@ -3687,83 +4241,23 @@
    ],
    "sairam": []
   },
-  "uniao-barbarense": {
-   "atualizado": "2026-11-06",
+  "lemense": {
+   "atualizado": "2026-11-04",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
     {
-     "nome": "Vinicius Oliveira",
-     "posicao": "Meia",
+     "nome": "Wesley Pacheco",
+     "posicao": "Atacante",
      "foto": null,
      "novo": true,
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "Gramadense"
     },
     {
-     "nome": "Tiago Barbosa",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Sandro Krett",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Pedro Rinaldi",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Bandeirante",
-       "Mamoré",
-       "Araxá"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
-      "escudos": {
-       "Araxá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/araxa.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Masterson",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Marcelo Vieira",
-     "posicao": "Volante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Luiz Phillipe",
+     "nome": "João Victor",
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
@@ -3773,87 +4267,7 @@
      "de": ""
     },
     {
-     "nome": "Jonathan Braz",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Jonas Cabral",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "City London (PR)"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
-      "escudos": {}
-     },
-     "selos": [
-      {
-       "texto": "Campeão Paranaense 3ª Divisão 2026",
-       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
-      },
-      {
-       "texto": "Acesso à 2ª Divisão Paranaense 2026",
-       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
-      }
-     ],
-     "nascimento": "",
-     "de": "City London"
-    },
-    {
-     "nome": "Gabriel Oliveira",
-     "posicao": "Volante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "City London (PR)"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
-      "escudos": {}
-     },
-     "selos": [
-      {
-       "texto": "Campeão Paranaense 3ª Divisão 2026",
-       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
-      },
-      {
-       "texto": "Acesso à 2ª Divisão Paranaense 2026",
-       "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
-      }
-     ],
-     "nascimento": "",
-     "de": "City London"
-    },
-    {
-     "nome": "Fabrício Miranda",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Daniel Silva",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Daniel Cruz",
+     "nome": "Franklin Rocha",
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
@@ -3863,118 +4277,56 @@
      "de": ""
     },
     {
-     "nome": "Guilherme Queiroz",
-     "posicao": "Volante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-guilherme-queiroz-uniao-barbarense.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://images.futebolinterior.com.br/2026/11/uniao-barbarense-queiroz.webp",
-      "ia": true
-     },
+     "nome": "Arthur Mascaro",
+     "posicao": "Lateral",
+     "foto": null,
      "novo": true,
-     "numeros": {
-      "jogos": 15,
-      "minutos": 715,
-      "gols": 0,
-      "assistencias": 0,
-      "clubes": [
-       "Batel",
-       "Lajeadense"
-      ],
-      "fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468",
-      "escudos": {
-       "Lajeadense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/lajeadense.png"
-      }
-     },
+     "numeros": {},
      "selos": [],
-     "nascimento": "2005-12-03",
+     "nascimento": "",
      "de": ""
+    },
+    {
+     "nome": "Luizão",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Boa Esporte"
     }
    ],
    "chegaram": [
     {
-     "nome": "Vinicius Oliveira",
+     "nome": "Wesley Pacheco",
+     "de": "Gramadense",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "João Victor",
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-03"
     },
     {
-     "nome": "Tiago Barbosa",
+     "nome": "Franklin Rocha",
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-03"
     },
     {
-     "nome": "Sandro Krett",
+     "nome": "Arthur Mascaro",
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-03"
     },
     {
-     "nome": "Pedro Rinaldi",
-     "de": "",
+     "nome": "Luizão",
+     "de": "Boa Esporte",
      "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Masterson",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Marcelo Vieira",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Luiz Phillipe",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Jonathan Braz",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Jonas Cabral",
-     "de": "City London",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Gabriel Oliveira",
-     "de": "City London",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Fabrício Miranda",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Daniel Silva",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Daniel Cruz",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Guilherme Queiroz",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
+     "data": "2026-11-04"
     }
    ],
    "sairam": []
@@ -4770,34 +5122,8 @@
    ],
    "sairam": []
   },
-  "lemense": {
-   "atualizado": "2026-11-04",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Luizão",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "Boa Esporte"
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Luizão",
-     "de": "Boa Esporte",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    }
-   ],
-   "sairam": []
-  },
   "penapolense": {
-   "atualizado": "2026-11-12",
+   "atualizado": "2026-11-13",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -5017,6 +5343,16 @@
      "selos": [],
      "nascimento": "",
      "de": ""
+    },
+    {
+     "nome": "Thiago Oliveira",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "União São João"
     }
    ],
    "chegaram": [
@@ -5097,30 +5433,131 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-12"
+    },
+    {
+     "nome": "Thiago Oliveira",
+     "de": "União São João",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
     }
    ],
    "sairam": []
   },
-  "uniao-sao-joao": {
+  "tanabi": {
    "atualizado": "2026-11-05",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
     {
-     "nome": "Reynaldo",
-     "posicao": "Goleiro",
+     "nome": "Rafinha",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Itapirense"
+    },
+    {
+     "nome": "Rafael Gatto",
+     "posicao": "Lateral",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "João Monteiro",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Independência-AC"
+    },
+    {
+     "nome": "Giovanni Carignano",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "SC Gaúcho"
+    },
+    {
+     "nome": "Denis Santos",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Bandeirante",
+       "Juventus"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Daniel Dandan",
+     "posicao": "",
      "foto": null,
      "novo": true,
      "numeros": {},
      "selos": [],
      "nascimento": "",
      "de": ""
+    },
+    {
+     "nome": "Bernardo",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Araxá-MG"
     }
    ],
    "chegaram": [
     {
-     "nome": "Reynaldo",
+     "nome": "Rafinha",
+     "de": "Itapirense",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "João Monteiro",
+     "de": "Independência-AC",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Giovanni Carignano",
+     "de": "SC Gaúcho",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Denis Santos",
      "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Daniel Dandan",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Bernardo",
+     "de": "Araxá-MG",
      "tipo": "Contratação",
      "data": "2026-11-05"
     }
@@ -5294,39 +5731,6 @@
    ],
    "sairam": []
   },
-  "bandeirante": {
-   "atualizado": "2026-11-10",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Vitão",
-     "posicao": "Atacante",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": []
-    },
-    {
-     "nome": "Pedro Scaramussa",
-     "posicao": "Lateral",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": []
-    },
-    {
-     "nome": "Foguinho",
-     "posicao": "Volante",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": []
-    }
-   ],
-   "chegaram": [],
-   "sairam": []
-  },
   "portuguesa": {
    "atualizado": "2026-11-10",
    "fonte": "",
@@ -5399,6 +5803,23 @@
      "data": "2026-11-10"
     }
    ],
+   "sairam": []
+  },
+  "monteazul": {
+   "atualizado": "2026-11-11",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "José Oliveira",
+     "posicao": "Treinador",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    }
+   ],
+   "chegaram": [],
    "sairam": []
   }
  }
