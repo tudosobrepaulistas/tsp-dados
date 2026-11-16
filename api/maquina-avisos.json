@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-16T15:23-03:00",
+ "gerado": "2026-11-16T18:13-03:00",
  "avisos": [
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-15T06:33-03:00",
-   "motivo": "Últimas notícias (Luizão e Wesley Pacheco) são de 03 e 04/11, mais de 7 dias",
-   "sugestao": "Matéria 'reforços do Lemense para a A4 2027' juntando Luizão (ex-Ponte) e Wesley Pacheco, com post oficial do clube: https://www.futebolinterior.com.br/paulista-a4-lemense-contratacao-luizao/"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-15T06:33-03:00",
-   "motivo": "Pacotão de reforços é de 05/11 (mais de 7 dias) e não achei o post oficial",
-   "sugestao": "Reforços do Tanabi para a A4 2027 (Denis Santos, João Monteiro, Dandan, Bernardo, Carignano, Rafinha), técnico Petterson Martins: https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
-  },
-  {
-   "clube": "cosmopolitano",
-   "nome": "Cosmopolitano",
-   "quando": "2026-11-15T06:33-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; não consegui abrir o site do clube nem foto livre",
-   "sugestao": "Evergreen: a parceria do Cosmopolitano com a Lazio (Band Campinas, 05/12/2024: https://www.band.com.br/band-multi/campinas-e-regiao/noticias/lazio-da-italia-anuncia-parceria-com-o-cosmopolitano-que-contara-com-diversas-colaboracoes-202412051359), com foto oficial do clube"
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-15T10:33-03:00",
-   "motivo": "Cobertura 6h (15/11, 10h): nenhuma notícia nova da Ponte Preta nas últimas 24h confirmada em 2 fontes; o fim da Série B e o rebaixamento já estão no site e em rascunho",
-   "sugestao": "Acompanhar a definição da comissão técnica e da diretoria para a Série A2 e a Série C de 2027 (apresentação do elenco prevista para 7/12, segundo o Futebol Interior) e as primeiras saídas de jogadores com contrato até dezembro"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-15T10:33-03:00",
-   "motivo": "Cobertura 6h (15/11, 10h): sem notícia nova do São Bernardo nas últimas 24h em 2 fontes; fim da Série B, classificação final e saída de Bergantin já estão no site ou em rascunho",
-   "sugestao": "Acompanhar renovações, saídas e o técnico do São Bernardo para o Paulistão 2027 (Diário do Grande ABC e redes oficiais do clube)"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-15T10:54-03:00",
-   "motivo": "Cobertura 6h bloco A1 (15/11): sem notícia confirmada em 2 fontes nas últimas 48h para Capivariano, Primavera e Juventus; Noroeste já publicado; Guarani perto de Cristian Souza, mas sem anúncio oficial",
-   "sugestao": "Assim que o Guarani oficializar Cristian Souza como técnico para o Paulistão 2027, publicar com o comunicado do clube + 1 jornal"
-  },
   {
    "clube": "jacarei",
    "nome": "Jacareí",
@@ -420,6 +378,48 @@
    "quando": "2026-11-16T15:23-03:00",
    "motivo": "Cobertura 6h (16/11, 15h20): nenhuma notícia do São Bernardo FC nas últimas 24h em DGABC, ABC do ABC, Futebol Interior e redes oficiais; a pauta da classificação final já foi publicada em 14/11.",
    "sugestao": "Quem será o técnico do São Bernardo no Paulistão 2027 após a saída de Vinícius Bergantin para a Chapecoense: acompanhar anúncio oficial e saídas/renovações do elenco (DGABC e X @saobernardosaf)."
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-16T18:13-03:00",
+   "motivo": "Cotas 17h43: sem fato novo nas últimas 48h além do que já está no site ou em rascunho esperando foto (empate com o Galo, 41 pontos, Sub-15 com o Bragantino)",
+   "sugestao": "Treinos da semana para o Fluminense (22/11, Maracanã) e substituto de Edson Carioca, suspenso pela expulsão: conferir com a assessoria do Mirassol"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-16T18:13-03:00",
+   "motivo": "Cotas 17h43: sem notícia nova confirmada em 2 fontes depois do título da Série B (tudo já publicado ou em rascunho)",
+   "sugestao": "Férias do elenco, data de reapresentação e primeiras renovações para a Série A 2027: perguntar à assessoria do Novorizontino"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-16T18:13-03:00",
+   "motivo": "Cotas 17h43: só boato de técnico (Cauan de Almeida, 1 fonte de 10/11); saída de Bergantin já publicada",
+   "sugestao": "Quem será o técnico do São Bernardo em 2027 e data de reapresentação para o Paulistão"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-16T18:13-03:00",
+   "motivo": "Cotas 17h43: últimas notícias (Romarinho, Friedrich) são de outubro e já saíram",
+   "sugestao": "Reapresentação da Lusa para o Paulistão 2027 e novos reforços: conferir no site da Portuguesa SAF"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-16T18:13-03:00",
+   "motivo": "Cotas 17h43: sem notícia das últimas 48h (pré-contratos e SAF são de outubro/09-11; Johnny só negociação)",
+   "sugestao": "Anúncio da SAF do Comercial e dos reforços para a A4 2027: CBN Ribeirão e NetBafo"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-16T18:13-03:00",
+   "motivo": "Cotas 17h43: 113 anos e reforços já publicados; sem fato novo; Commons sem acesso (limite) para evergreen do estádio",
+   "sugestao": "Guia do Barão de Serra Negra (capacidade, como chegar) ou rotina da pré-temporada com Fernando Marchiori"
   }
  ]
 }
