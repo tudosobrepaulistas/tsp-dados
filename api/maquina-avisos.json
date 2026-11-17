@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-17T06:28-03:00",
+ "gerado": "2026-11-17T10:35-03:00",
  "avisos": [
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-15T22:03-03:00",
-   "motivo": "Sem notícia nova em 2 fontes nas últimas 48h",
-   "sugestao": "Comercial na Copa CCF (estreia em Ribeirão Preto em 29/11): elenco, técnico e andamento da SAF. Conferir Tribuna Ribeirão e A Cidade ON"
-  },
-  {
-   "clube": "xv-de-jau",
-   "nome": "XV de Jaú",
-   "quando": "2026-11-15T22:03-03:00",
-   "motivo": "Evergreen não feito: Wikimedia Commons bloqueou as fotos (excesso de requisições) nesta execução",
-   "sugestao": "Guia do Jauzão (Estádio Zezinho Magalhães, 1973, 13.040 lugares) e os acessos de 1951 e 1976 do Galo da Comarca; foto livre no Commons: 'Estádio Zezinho Magalhães.JPG'"
-  },
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-16T06:40-03:00",
-   "motivo": "Só uma fonte nos últimos 7 dias (Diário do Grande ABC, 13/11: preparação para a A4, pré-contratos sem nomes e pedido de concessão do Anacleto Campanella). Sem 2ª fonte e sem foto conferida.",
-   "sugestao": "Confirmar com o São Caetano (site/Instagram) o pedido de concessão do Anacleto Campanella e os pré-contratos para a A4 2027; matéria com base na reportagem do DGABC de 13/11 (https://www.dgabc.com.br/Noticia/4368577/sao-caetano-inicia-preparacao-para-a-serie-a-4-do-paulista)"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-16T06:40-03:00",
-   "motivo": "O presidente disse em outubro que os treinos começariam em 15/11, mas não achei confirmação do início da pré-temporada nem foto.",
-   "sugestao": "Confirmar com o Lemense se a pré-temporada começou em 15/11, onde treina e quem é o técnico para a A4 2027 (o campeonato começa em 14/02)."
-  },
   {
    "clube": "bandeirante_brodowski",
    "nome": "Bandeirante de Brodowski",
@@ -420,6 +392,34 @@
    "quando": "2026-11-17T06:28-03:00",
    "motivo": "Nada novo nos últimos 7 dias além do já publicado",
    "sugestao": "Palestrinas na Copinha F: datas dos jogos do Grupo A no Canindé, pela tabela da FPF"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-17T10:35-03:00",
+   "motivo": "Cobertura 6h (17/11 10h30): sem fato confirmado em 2 fontes nas últimas 24h. Só o Diário do Grande ABC (16/11) cita a busca por técnico e Cauan de Almeida como nome especulado (ele diz que não foi procurado).",
+   "sugestao": "Quando o clube anunciar o substituto de Vinícius Bergantin ou a data de reapresentação para o Paulistão 2027, matéria com o anúncio oficial + DGABC."
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-17T10:35-03:00",
+   "motivo": "Cobertura 6h (17/11 10h30): nenhuma notícia nova confirmada nas últimas 24h após a festa do título da Série B.",
+   "sugestao": "Acompanhar redes oficiais: férias do elenco, reapresentação, renovação de Enderson Moreira e primeiros reforços para a Série A 2027."
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-17T10:35-03:00",
+   "motivo": "Cobertura 6h (17/11 10h30): semana sem jogo até Fluminense x Mirassol (22/11, 18h30, Maracanã); nenhuma notícia de treino ou elenco confirmada nas últimas 24h.",
+   "sugestao": "Prévia/bastidores do jogo no Maracanã quando o clube divulgar treino, desfalques ou coletiva (Edson Carioca suspenso após expulsão?). Tabela final: Fluminense (22/11), Athletico-PR no Maião (29/11), Grêmio fora (02/12), segundo a Gazeta de Rio Preto."
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-17T10:35-03:00",
+   "motivo": "Cobertura 6h (17/11 10h30): nada novo confirmado em 2 fontes nas últimas 24h além do que o site já publicou (empréstimo, contratos para 2027).",
+   "sugestao": "Definição do técnico para 2027 (Gilson Kleina fica?) e eventual aprovação do empréstimo no Conselho; conferir site oficial e Correio Popular/Hora Campinas."
   }
  ]
 }
