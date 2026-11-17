@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-16T22:02-03:00",
+ "gerado": "2026-11-16T22:15-03:00",
  "avisos": [
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-15T11:00-03:00",
-   "motivo": "Só notícias antigas (Tássio Lopes mantido em 07/10); evergreen bloqueado",
-   "sugestao": "Reforços do União Suzano para a A4 2027 e data da reapresentação"
-  },
-  {
-   "clube": "taquaritinga",
-   "nome": "Taquaritinga",
-   "quando": "2026-11-15T11:00-03:00",
-   "motivo": "Sem notícia dos últimos 7 dias; evergreen bloqueado (história em 05/11)",
-   "sugestao": "Quem é o técnico do Taquaritinga para a A4 2027 (o clube disse já ter um contratado)"
-  },
-  {
-   "clube": "bandeirante_brodowski",
-   "nome": "Bandeirante de Brodowski",
-   "quando": "2026-11-15T11:00-03:00",
-   "motivo": "União 0 x 0 Bandeirante (ida da semi do Amador do Estado, 14/11) só no Correio de Atibaia; falta 2ª fonte",
-   "sugestao": "Data e horário da volta Bandeirante x União em Brodowski, semifinal do Amador do Estado (FPF/jornal de Brodowski ou Ribeirão)"
-  },
-  {
-   "clube": "ibrachina",
-   "nome": "Ibrachina",
-   "quando": "2026-11-15T11:00-03:00",
-   "motivo": "Evergreen bloqueado (história nos últimos 14 dias); sem notícia nova do clube",
-   "sugestao": "Ibrachina Arena recebe o Grupo D da Copinha Feminina (São Paulo, Fluminense, Vitória, Criciúma) a partir de 24/11: guia do estádio; foto livre: Wikimedia Commons File:Ibrachina_Arena_(2024).jpg (CC0)"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-15T11:57-03:00",
-   "motivo": "Cota das 11h43: nada novo confirmado em 48h; a campanha final (11º, 53 pts) e a saída de Bergantin já saíram no site",
-   "sugestao": "Quem será o técnico do São Bernardo em 2027 (Cauan de Almeida foi citado pelo Futebol Interior em 10/11) e quais jogadores ficam para Paulistão e Série B"
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-15T11:57-03:00",
-   "motivo": "Cota das 11h43: sem fato novo confirmado em 48h; pior campanha e números da Série B já publicados",
-   "sugestao": "Reapresentação, primeiras saídas e reforços da Ponte para a A2 e a Série C de 2027 (conferir com o clube e Hora Campinas/CBN Campinas)"
-  },
   {
    "clube": "comercial",
    "nome": "Comercial",
@@ -420,6 +378,48 @@
    "quando": "2026-11-16T22:02-03:00",
    "motivo": "16/11 21h43: sem notícia nova do XV nas últimas 48h (aniversário e reforços já publicados); evergreen bloqueado (história em 14/11)",
    "sugestao": "Acompanhar xvpiracicaba.com.br e Todo Dia/JP1: novos reforços, reforma dos bancos do Barão de Serra Negra (exigência do VAR da FPF) e tabela da A2 2027"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-16T22:15-03:00",
+   "motivo": "16/11 21h43: sem fato novo do Guarani nas últimas 48h além do técnico (já publicado); despedida de João Paulo é de 13/11",
+   "sugestao": "Acompanhar o anúncio oficial de Cristian de Souza e a reapresentação do elenco em 23/11 (CBN Campinas, Hora Campinas)"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-16T22:15-03:00",
+   "motivo": "16/11 21h43: sem fato novo da Portuguesa nas últimas 48h em 2 fontes aceitas",
+   "sugestao": "Reforços e pré-temporada da Lusa para o Paulistão 2027 no site oficial e no Instagram da Portuguesa"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-16T22:15-03:00",
+   "motivo": "16/11 21h43: cancelamento do amistoso com o São Paulo é de 11-12/11 (fora das 48h); comissão técnica nova é de 05/11",
+   "sugestao": "Andamento da ação judicial do Noroeste contra a AEC Participações e novos reforços para o Paulistão 2027 (JCNET, 96FM Bauru)"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-16T22:15-03:00",
+   "motivo": "16/11 21h43: sem notícia do Capivariano nas últimas 48h em fontes aceitas",
+   "sugestao": "Montagem do elenco do Capivariano para a A1 2027 (Futebol Interior, O Semanário)"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-16T22:15-03:00",
+   "motivo": "16/11 21h43: sem notícia do Juventus nas últimas 48h em fontes aceitas",
+   "sugestao": "Reforços da era SAF do Juventus para a volta à A1 em 2027 (Futebol Interior)"
+  },
+  {
+   "clube": "prudente",
+   "nome": "Grêmio Prudente",
+   "quando": "2026-11-16T22:15-03:00",
+   "motivo": "16/11 21h43: cota de evergreen da A3 com espaço, mas não há foto livre do Grêmio Prudente no Commons (só escudo)",
+   "sugestao": "Evergreen: Grêmio Prudente na Série A de 2010 (ex-Grêmio Barueri), com foto cedida pelo clube"
   }
  ]
 }
