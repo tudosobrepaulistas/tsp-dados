@@ -3,6 +3,24 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-16",
+   "jogador": "Lucas Dias",
+   "posicao": "Lateral",
+   "de": "",
+   "para": "Lemense",
+   "para_slug": "lemense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "obs": "Lateral-direito; anúncio no Instagram oficial do Lemense (data do post conferida pelo TSP em 16/11)",
+   "fontes": [
+    "https://www.instagram.com/ec.lemense/"
+   ],
+   "anuncio_do_clube": true,
+   "feminino": false,
+   "id": "2026-11-16-lucas-dias-lemense",
+   "atualizado": "2026-11-16T23:37:00-03:00"
+  },
+  {
    "data": "2026-11-13",
    "jogador": "Wesley",
    "posicao": "Goleiro",
@@ -2785,7 +2803,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-franklin-rocha-lemense",
-   "atualizado": "2026-11-16T06:59:00-03:00"
+   "atualizado": "2026-11-16T06:59:00-03:00",
+   "selos": [
+    {
+     "texto": "Campeão Catarinense Série B 2026",
+     "tipo": "titulo",
+     "fonte": "https://www.instagram.com/ec.lemense/"
+    },
+    {
+     "texto": "Acesso à Série A Catarinense",
+     "tipo": "acesso",
+     "fonte": "https://www.instagram.com/ec.lemense/"
+    }
+   ]
   },
   {
    "data": "2026-11-03",
@@ -3043,6 +3073,24 @@
    "anuncio_do_clube": true,
    "id": "2026-10-29-paulinho-mclaren-vocem",
    "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-29",
+   "jogador": "Gabriel Almeida",
+   "posicao": "Lateral",
+   "de": "",
+   "para": "Lemense",
+   "para_slug": "lemense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "obs": "Lateral-esquerdo e zagueiro; passou por Goiana-GO, Cerrado-GO e São Luiz-AC",
+   "fontes": [
+    "https://www.instagram.com/ec.lemense/"
+   ],
+   "anuncio_do_clube": true,
+   "feminino": false,
+   "id": "2026-10-29-gabriel-almeida-lemense",
+   "atualizado": "2026-11-16T23:37:00-03:00"
   },
   {
    "data": "2026-10-28",
@@ -3374,6 +3422,24 @@
    ],
    "id": "2026-10-21-danilinho-santo-andre",
    "atualizado": "2026-11-15T06:57:00-03:00"
+  },
+  {
+   "data": "2026-10-13",
+   "jogador": "Rodrigo Andrade",
+   "posicao": "Meia",
+   "de": "",
+   "para": "Lemense",
+   "para_slug": "lemense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "obs": "Anunciado pelo Lemense no Instagram oficial",
+   "fontes": [
+    "https://www.instagram.com/ec.lemense/"
+   ],
+   "anuncio_do_clube": true,
+   "feminino": false,
+   "id": "2026-10-13-rodrigo-andrade-lemense",
+   "atualizado": "2026-11-16T23:37:00-03:00"
   },
   {
    "data": "2026-10-10",
