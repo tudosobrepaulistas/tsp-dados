@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-16T21:56-03:00",
+ "gerado": "2026-11-16T22:02-03:00",
  "avisos": [
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-15T11:00-03:00",
-   "motivo": "Única matéria recente (Jornal Primeira Página, 'começa a projetar 2027') não abriu; evergreen bloqueado (história em 05/11)",
-   "sugestao": "Planejamento do Grêmio São-Carlense para a A4 2027 (matéria do Jornal Primeira Página de São Carlos)"
-  },
-  {
-   "clube": "jabaquara",
-   "nome": "Jabaquara",
-   "quando": "2026-11-15T11:00-03:00",
-   "motivo": "Sem notícia nova após a classificação do Sub-17 na Paulista Cup (05/11); evergreen bloqueado",
-   "sugestao": "Adversário e datas do Jabaquara na 2ª fase da Paulista Cup Sub-15 e Sub-17 (BS9 / O Curioso do Futebol)"
-  },
   {
    "clube": "uniao-suzano",
    "nome": "União Suzano",
@@ -420,6 +406,20 @@
    "quando": "2026-11-16T21:56-03:00",
    "motivo": "Execução das 21h43 de 16/11: sem fato novo de 16/11 em 2 fontes aceitas (Diário da Região bloqueia leitura; Edson Carioca, 0x0 e coletiva de Guanaes já publicados)",
    "sugestao": "Semana de preparação para Fluminense x Mirassol (22/11, 18h30, Maracanã): desfalques (Edson Carioca cumpre suspensão?), reapresentação e coletiva no Instagram/YouTube do Mirassol"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-16T22:02-03:00",
+   "motivo": "16/11 21h43: sem notícia do Comercial nas últimas 48h em fontes aceitas; evergreen bloqueado (história nos últimos 14 dias)",
+   "sugestao": "Evergreen pronto para depois do prazo: Eto oo jogou pelos dois lados do Come-Fogo festivo de 22/12/2015 (3x3 no Santa Cruz, organizado por Raí; Gazeta Esportiva ?p=2176081 e ?p=2190441). Notícia: pré-temporada do Comercial começa em 1º/12 e andamento da SAF com a Alliance Football (CBN Ribeirão, Tribuna Ribeirão)"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-16T22:02-03:00",
+   "motivo": "16/11 21h43: sem notícia nova do XV nas últimas 48h (aniversário e reforços já publicados); evergreen bloqueado (história em 14/11)",
+   "sugestao": "Acompanhar xvpiracicaba.com.br e Todo Dia/JP1: novos reforços, reforma dos bancos do Barão de Serra Negra (exigência do VAR da FPF) e tabela da A2 2027"
   }
  ]
 }
