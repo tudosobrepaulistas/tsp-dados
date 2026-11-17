@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-17T13:05-03:00",
+ "gerado": "2026-11-17T13:15-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.8.9",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.6.1",
-   "zip": "tsp-nova-era-1.6.1.zip",
-   "notas": "Posts do Instagram, X e TikTok com a altura certa (vídeo em pé não fica mais cortado), responsivos no celular."
+   "versao": "1.6.2",
+   "zip": "tsp-nova-era-1.6.2.zip",
+   "notas": "Posts do Instagram, X e TikTok com a altura certa (vídeo em pé inteiro, sem corte) e responsivos no celular."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
