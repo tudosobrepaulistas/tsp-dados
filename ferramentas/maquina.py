@@ -691,7 +691,7 @@ def cmd_avisar_site(_a):
 
 UA_YT = {"User-Agent": "Mozilla/5.0 (TSP-Maquina)"}
 ENTREVISTA = re.compile(r"coletiva|entrevista|\bfala\b|falou|pronunciamento|apresentac|zona mista|exclusiv|bate-papo|papo com|conversa|declarac|apos (a )?(vitoria|derrota|empate|jogo)|pos-jogo|pre-jogo")
-NAO_ENTREVISTA = re.compile(r"ao vivo com imagens|jogo completo|melhores momentos|\bgols\b|torcedor|torcida|#shorts|sorteio|promoc|loja|camisa nova|unboxing")
+NAO_ENTREVISTA = re.compile(r"ao vivo com imagens|narracao|jogo completo|melhores momentos|\bgols\b|torcedor|torcida|#shorts|sorteio|promoc|loja|camisa nova|unboxing")
 
 
 def _get(url):
