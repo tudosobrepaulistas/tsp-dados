@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-17T02:51:00-03:00",
+ "gerado": "2026-11-17T06:59:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -51,6 +51,168 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "lemense"
+  },
+  {
+   "id": "2026-11-16-lucas-bilhalva-taubate",
+   "data": "2026-11-16",
+   "jogador": "Lucas Bilhalva",
+   "posicao": "Goleiro",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "23 anos; renovou para a Série A2 2027 (prazo não divulgado)",
+   "de": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-renova-lucas-bihalva/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
+  },
+  {
+   "id": "2026-11-16-luan-oliveira-votuporanguense",
+   "data": "2026-11-16",
+   "jogador": "Luan Oliveira",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "24 anos; reforço para a Série A2 2027",
+   "de": {
+    "nome": "Interporto-TO",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Votuporanguense",
+    "slug": "votuporanguense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/votuporanguense-fecha-com-luan-oliveira/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Rio Claro",
+     "Ivinhema-MS",
+     "Interporto-TO"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/votuporanguense-fecha-com-luan-oliveira/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-16-filipe-samuell-independente",
+   "data": "2026-11-16",
+   "jogador": "Filipe Samuell",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Centroavante, revelado pelo Vila Nova-GO; reforço para a Série A4 2027",
+   "de": {
+    "nome": "Vila Nova-GO",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Independente",
+    "slug": "independente",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/independente-anuncia-ex-vila-nova-go/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "independente"
+  },
+  {
+   "id": "2026-11-16-derick-paulista",
+   "data": "2026-11-16",
+   "jogador": "Dérick",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Dérick Moisés Marques Ponciano da Silva, 26 anos; reforço para a Série A3 2027",
+   "de": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Grêmio Prudente",
+     "Hercílio Luz",
+     "Marília"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/",
+    "escudos": {
+     "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+    }
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "paulista-jundiai"
   },
   {
    "id": "2026-11-13-wesley-ituano",
@@ -864,6 +1026,55 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "penapolense"
+  },
+  {
+   "id": "2026-11-12-alessandro-marilia",
+   "data": "2026-11-12",
+   "jogador": "Alessandro",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo, revelado pelo Figueirense; reforço para a Série A2 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Dourados-MS",
+     "Lagarto-SE",
+     "Passo Fundo"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/",
+    "escudos": {}
+   },
+   "selos": [
+    {
+     "texto": "Campeão Gaúcho Série A2 2026",
+     "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "marilia"
   },
   {
    "id": "2026-11-11-wallace-moraes-marilia",
@@ -4098,11 +4309,11 @@
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "",
+   "obs": "Lateral-esquerdo, 35 anos; pré-contrato até o fim do Paulistão A2 2027",
    "de": {
-    "nome": "",
+    "nome": "Caxias",
     "slug": "",
-    "id": 0,
+    "id": 900079,
     "escudo": ""
    },
    "para": {
@@ -4116,10 +4327,22 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-lateral-e-volante-a2/"
    ],
    "nascimento": "",
-   "numeros": {},
+   "numeros": {
+    "jogos": 1,
+    "gols": 0,
+    "minutos": 68,
+    "minutos_estimados": false,
+    "clube": "Caxias",
+    "clubes": [
+     "Caxias"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -6030,6 +6253,78 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "independente"
+  },
+  {
+   "id": "2026-10-10-edson-paulista-barretos",
+   "data": "2026-10-10",
+   "jogador": "Edson Paulista",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-técnico do Taubaté; comanda o Barretos na Série A4 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Barretos",
+    "slug": "barretos",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "barretos"
+  },
+  {
+   "id": "2026-10-07-tassio-lopes-uniao-suzano",
+   "data": "2026-10-07",
+   "jogador": "Tássio Lopes",
+   "posicao": "Treinador",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Treinava o sub-20 do clube e comanda o profissional na Série A4 2027",
+   "de": {
+    "nome": "União Suzano",
+    "slug": "uniao-suzano",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Suzano",
+    "slug": "uniao-suzano",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-suzano-confirma-tassio-lopes-no-paulistao-a4-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "uniao-suzano"
   },
   {
    "id": "2026-10-07-douglas-leite-santo-andre",

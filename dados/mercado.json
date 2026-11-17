@@ -27,6 +27,96 @@
    }
   },
   {
+   "data": "2026-11-16",
+   "jogador": "Lucas Bilhalva",
+   "posicao": "Goleiro",
+   "de": "Taubaté",
+   "de_slug": "taubate",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "23 anos; renovou para a Série A2 2027 (prazo não divulgado)",
+   "fontes": [
+    "https://www.futebolinterior.com.br/taubate-renova-lucas-bihalva/"
+   ],
+   "id": "2026-11-16-lucas-bilhalva-taubate",
+   "atualizado": "2026-11-17T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-16",
+   "jogador": "Luan Oliveira",
+   "posicao": "Atacante",
+   "de": "Interporto-TO",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "24 anos; reforço para a Série A2 2027",
+   "numeros_2026": {
+    "clubes": [
+     "Rio Claro",
+     "Ivinhema-MS",
+     "Interporto-TO"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/votuporanguense-fecha-com-luan-oliveira/"
+   },
+   "fontes": [
+    "https://www.futebolinterior.com.br/votuporanguense-fecha-com-luan-oliveira/"
+   ],
+   "id": "2026-11-16-luan-oliveira-votuporanguense",
+   "atualizado": "2026-11-17T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-16",
+   "jogador": "Filipe Samuell",
+   "posicao": "Atacante",
+   "de": "Vila Nova-GO",
+   "para": "Independente",
+   "para_slug": "independente",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "Centroavante, revelado pelo Vila Nova-GO; reforço para a Série A4 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/independente-anuncia-ex-vila-nova-go/"
+   ],
+   "id": "2026-11-16-filipe-samuell-independente",
+   "atualizado": "2026-11-17T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-16",
+   "jogador": "Dérick",
+   "posicao": "Volante",
+   "de": "Marília",
+   "de_slug": "marilia",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "Dérick Moisés Marques Ponciano da Silva, 26 anos; reforço para a Série A3 2027",
+   "numeros_2026": {
+    "clubes": [
+     "Grêmio Prudente",
+     "Hercílio Luz",
+     "Marília"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/"
+   },
+   "fontes": [
+    "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/"
+   ],
+   "id": "2026-11-16-derick-paulista",
+   "atualizado": "2026-11-17T06:59:00-03:00"
+  },
+  {
    "data": "2026-11-13",
    "jogador": "Wesley",
    "posicao": "Goleiro",
@@ -557,6 +647,38 @@
     "fonte": "https://www.instagram.com/penapolenseoficial/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-12",
+   "jogador": "Alessandro",
+   "posicao": "Lateral",
+   "de": "",
+   "para": "Marília",
+   "para_slug": "marilia",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "Lateral-esquerdo, revelado pelo Figueirense; reforço para a Série A2 2027",
+   "numeros_2026": {
+    "clubes": [
+     "Dourados-MS",
+     "Lagarto-SE",
+     "Passo Fundo"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Gaúcho Série A2 2026",
+     "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
+    }
+   ],
+   "fontes": [
+    "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
+   ],
+   "id": "2026-11-12-alessandro-marilia",
+   "atualizado": "2026-11-17T06:59:00-03:00"
   },
   {
    "data": "2026-11-11",
@@ -2418,20 +2540,21 @@
    "data": "2026-11-03",
    "jogador": "Roberto",
    "posicao": "Lateral",
-   "de": "",
+   "de": "Caxias",
    "de_slug": "",
    "para": "XV de Piracicaba",
    "para_slug": "xvdepiracicaba",
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "",
+   "obs": "Lateral-esquerdo, 35 anos; pré-contrato até o fim do Paulistão A2 2027",
    "fontes": [
-    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-lateral-e-volante-a2/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-roberto-xv-de-piracicaba",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-17T06:59:00-03:00"
   },
   {
    "data": "2026-11-03",
@@ -3567,6 +3690,43 @@
    "anuncio_do_clube": true,
    "id": "2026-10-10-tiago-miguel-independente",
    "atualizado": "2026-11-16T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-10",
+   "jogador": "Edson Paulista",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "Ex-técnico do Taubaté; comanda o Barretos na Série A4 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/"
+   ],
+   "id": "2026-10-10-edson-paulista-barretos",
+   "atualizado": "2026-11-17T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-07",
+   "jogador": "Tássio Lopes",
+   "posicao": "Treinador",
+   "de": "União Suzano",
+   "de_slug": "uniao-suzano",
+   "para": "União Suzano",
+   "para_slug": "uniao-suzano",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "Treinava o sub-20 do clube e comanda o profissional na Série A4 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/uniao-suzano-confirma-tassio-lopes-no-paulistao-a4-2027/"
+   ],
+   "id": "2026-10-07-tassio-lopes-uniao-suzano",
+   "atualizado": "2026-11-17T06:59:00-03:00"
   },
   {
    "data": "2026-10-07",
