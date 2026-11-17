@@ -60,6 +60,18 @@
   "gols": 3
  },
  {
+  "jogador": "Borasi",
+  "time": "Náutico",
+  "time_id": 900036,
+  "gols": 2
+ },
+ {
+  "jogador": "Brandão",
+  "time": "Ponte Preta",
+  "time_id": 900040,
+  "gols": 2
+ },
+ {
   "jogador": "Carlos de Pena",
   "time": "Sport",
   "time_id": 900027,
@@ -78,9 +90,21 @@
   "gols": 2
  },
  {
+  "jogador": "Fabrício Daniel",
+  "time": "São Bernardo",
+  "time_id": 900031,
+  "gols": 2
+ },
+ {
   "jogador": "Fábio Lima",
   "time": "Juventude",
   "time_id": 900022,
+  "gols": 2
+ },
+ {
+  "jogador": "Ian Luccas",
+  "time": "Athletic",
+  "time_id": 900034,
   "gols": 2
  },
  {
@@ -138,6 +162,12 @@
   "gols": 2
  },
  {
+  "jogador": "Robson",
+  "time": "Novorizontino",
+  "time_id": 900021,
+  "gols": 2
+ },
+ {
   "jogador": "Vilar",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -192,18 +222,6 @@
   "gols": 1
  },
  {
-  "jogador": "Borasi",
-  "time": "Náutico",
-  "time_id": 900036,
-  "gols": 1
- },
- {
-  "jogador": "Brandão",
-  "time": "Ponte Preta",
-  "time_id": 900040,
-  "gols": 1
- },
- {
   "jogador": "Bruno José",
   "time": "Atlético-GO",
   "time_id": 900028,
@@ -219,6 +237,12 @@
   "jogador": "Bruno Xavier",
   "time": "Vila Nova",
   "time_id": 900023,
+  "gols": 1
+ },
+ {
+  "jogador": "Bryan Borges",
+  "time": "Ponte Preta",
+  "time_id": 900040,
   "gols": 1
  },
  {
@@ -312,15 +336,15 @@
   "gols": 1
  },
  {
-  "jogador": "Fabrício Daniel",
-  "time": "São Bernardo",
-  "time_id": 900031,
-  "gols": 1
- },
- {
   "jogador": "Felipinho",
   "time": "Sport",
   "time_id": 900027,
+  "gols": 1
+ },
+ {
+  "jogador": "Foguinho",
+  "time": "São Bernardo",
+  "time_id": 900031,
   "gols": 1
  },
  {
@@ -372,12 +396,6 @@
   "gols": 1
  },
  {
-  "jogador": "Ian Luccas",
-  "time": "Athletic",
-  "time_id": 900034,
-  "gols": 1
- },
- {
   "jogador": "Igor Bahia",
   "time": "Londrina",
   "time_id": 900038,
@@ -411,6 +429,12 @@
   "jogador": "Joseph",
   "time": "Operário-PR",
   "time_id": 900029,
+  "gols": 1
+ },
+ {
+  "jogador": "Jota",
+  "time": "Athletic",
+  "time_id": 900034,
   "gols": 1
  },
  {
@@ -471,6 +495,12 @@
   "jogador": "Luciano Castán",
   "time": "Criciúma",
   "time_id": 900025,
+  "gols": 1
+ },
+ {
+  "jogador": "Luis Phelipe",
+  "time": "Ponte Preta",
+  "time_id": 900040,
   "gols": 1
  },
  {
@@ -570,6 +600,12 @@
   "gols": 1
  },
  {
+  "jogador": "Pará",
+  "time": "São Bernardo",
+  "time_id": 900031,
+  "gols": 1
+ },
+ {
   "jogador": "Patrick Brey",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -624,6 +660,12 @@
   "gols": 1
  },
  {
+  "jogador": "Ryan",
+  "time": "Vila Nova",
+  "time_id": 900023,
+  "gols": 1
+ },
+ {
   "jogador": "Rômulo",
   "time": "Novorizontino",
   "time_id": 900021,
@@ -633,6 +675,12 @@
   "jogador": "Sorriso",
   "time": "Avaí",
   "time_id": 900037,
+  "gols": 1
+ },
+ {
+  "jogador": "Sánchez",
+  "time": "Ceará",
+  "time_id": 900035,
   "gols": 1
  },
  {
@@ -649,6 +697,12 @@
  },
  {
   "jogador": "Victor Andrade",
+  "time": "Náutico",
+  "time_id": 900036,
+  "gols": 1
+ },
+ {
+  "jogador": "Vinícius",
   "time": "Náutico",
   "time_id": 900036,
   "gols": 1
@@ -699,6 +753,12 @@
   "jogador": "Willian",
   "time": "América-MG",
   "time_id": 900039,
+  "gols": 1
+ },
+ {
+  "jogador": "Willian Pottker",
+  "time": "Ponte Preta",
+  "time_id": 900040,
   "gols": 1
  },
  {

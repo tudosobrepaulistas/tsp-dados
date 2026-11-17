@@ -259,6 +259,146 @@
    }
   },
   {
+   "id": 91000386,
+   "data": "2026-03-22T18:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "ponte-preta",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Sicredi",
+   "cidade": "São João del-Rei",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Ian Luccas",
+     "minuto": "26",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bryan Borges",
+     "minuto": "44",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jota",
+     "minuto": "45",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/athletic-derrota-a-ponte-preta-em-casa-por-2-a-1-na-abertura-da-serie-b-1.1100463",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/athletic-saf-x-ponte-preta/832840"
+   ],
+   "atualizado": "2026-11-17T03:33:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Alex de Souza",
+     "time": "Glauco; Diogo Batista, Jhonatan, Lucas Belezi, Zeca; Gian Cabezas, Ian Luccas, Jota; Bruninho, Ronaldo Tavares, Ruan Assis",
+     "entraram": [
+      {
+       "jogador": "João Miguel",
+       "saiu": "Gian Cabezas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Rodrigues",
+       "saiu": "Ian Luccas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Índio",
+       "saiu": "Jota",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Chu",
+       "saiu": "Bruninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Oliveira",
+       "saiu": "Ruan Assis",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jhonatan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kauan Rodrigues",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ronaldo Tavares",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rodrigo Santana",
+     "time": "Diogo Silva; Lucas Justen, David Braz, Lucas Cunha, Kevyson; Bryan Borges, Murilo, Tárik, Jonathan Cafu; Willian Pottker, Brandão",
+     "entraram": [
+      {
+       "jogador": "Diego Porfírio",
+       "saiu": "Kevyson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Baianinho",
+       "saiu": "Murilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luis Phelipe",
+       "saiu": "Tárik",
+       "minuto": ""
+      },
+      {
+       "jogador": "Elvis",
+       "saiu": "Jonathan Cafu",
+       "minuto": ""
+      },
+      {
+       "jogador": "David da Hora",
+       "saiu": "Willian Pottker",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Cunha",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luis Phelipe",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/athletic-derrota-a-ponte-preta-em-casa-por-2-a-1-na-abertura-da-serie-b-1.1100463"
+    ],
+    "atualizado": "2026-11-17T03:33:00-03:00"
+   }
+  },
+  {
    "id": 91000326,
    "data": "2026-04-01T19:00:00-03:00",
    "casa": "sport",
@@ -402,6 +542,141 @@
    }
   },
   {
+   "id": 91000391,
+   "data": "2026-04-01T21:00:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Moisés Lucarelli",
+   "cidade": "Campinas",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Luis Phelipe",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Sánchez",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://mais.opovo.com.br/jornal/esportes/2026/04/02/com-um-a-menos-ceara-arranca-empate-com-ponte-preta-na-serie-b.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ponte-preta-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3754042"
+   ],
+   "atualizado": "2026-11-17T03:35:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rodrigo Santana",
+     "time": "Diogo Silva; Thalys, David Braz, Márcio Silva, Bryan Borges; Saravia, Murilo, Elvis, Diego Porfírio; Willian Pottker, Luis Phelipe",
+     "entraram": [
+      {
+       "jogador": "Lucas Justen",
+       "saiu": "Thalys",
+       "minuto": ""
+      },
+      {
+       "jogador": "Daniel Baianinho",
+       "saiu": "Murilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Lopes",
+       "saiu": "Elvis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo Barcelos",
+       "saiu": "Diego Porfírio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Gomes",
+       "saiu": "Luis Phelipe",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "David Braz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bryan Borges",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Mozart",
+     "time": "Richard; Júlio César, Luizão, Eder; Rafael Ramos, Richardson, Lucas Lima, Matheus Araújo, Fernando; Wendel Silva, Fernandinho",
+     "entraram": [
+      {
+       "jogador": "Juan Alano",
+       "saiu": "Richardson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Giulio",
+       "saiu": "Matheus Araújo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alex Silva",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sánchez",
+       "saiu": "Wendel Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheusinho",
+       "saiu": "Fernandinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Lima",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Araújo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Lucas Lima",
+        "minuto": "45"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://mais.opovo.com.br/jornal/esportes/2026/04/02/com-um-a-menos-ceara-arranca-empate-com-ponte-preta-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-17T03:35:00-03:00"
+   }
+  },
+  {
    "id": 91000268,
    "data": "2026-04-01T21:30:00-03:00",
    "casa": "criciuma",
@@ -472,6 +747,134 @@
     "https://diariodonordeste.verdesmares.com.br/jogada/cuiaba-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3754883"
    ],
    "atualizado": "2026-11-15T03:46:00-03:00"
+  },
+  {
+   "id": 91000385,
+   "data": "2026-04-04T18:00:00-03:00",
+   "casa": "nautico",
+   "fora": "ponte-preta",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Aflitos",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Vinícius",
+     "minuto": "76",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.folhape.com.br/esportes/nautico-vence-a-ponte-preta-com-gol-de-vinicius/478480/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/nautico-x-ponte-preta/832865"
+   ],
+   "atualizado": "2026-11-17T03:32:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Hélio dos Anjos",
+     "time": "Muriel; Matheus Ribeiro, Mateus Silva, Igor Fernandes, Yuri Silva; Leonai Souza, Wenderson, Dodô; Juninho, Vinícius, Paulo Sérgio",
+     "entraram": [
+      {
+       "jogador": "Arnaldo",
+       "saiu": "Matheus Ribeiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon",
+       "saiu": "Leonai Souza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Andrade",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Derek",
+       "saiu": "Paulo Sérgio",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Leonai Souza",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wenderson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Dodô",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rodrigo Santana",
+     "time": "Diogo Silva; Thalys, David Braz, Márcio Silva, Diego Porfírio; Saravia, Murilo, Elvis; Bryan Borges, Willian Pottker, Luis Phelipe",
+     "entraram": [
+      {
+       "jogador": "Danilo Barcelos",
+       "saiu": "Diego Porfírio",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Lima",
+       "saiu": "Elvis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jonathan Cafu",
+       "saiu": "Bryan Borges",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodriguinho",
+       "saiu": "Willian Pottker",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Lopes",
+       "saiu": "Luis Phelipe",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luis Phelipe",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Saravia",
+        "minuto": "66"
+       },
+       {
+        "jogador": "Jonathan Cafu",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.folhape.com.br/esportes/nautico-vence-a-ponte-preta-com-gol-de-vinicius/478480/"
+    ],
+    "atualizado": "2026-11-17T03:32:00-03:00"
+   }
   },
   {
    "id": 91000327,
@@ -865,6 +1268,36 @@
    }
   },
   {
+   "id": 91000389,
+   "data": "2026-04-11T18:00:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Moisés Lucarelli",
+   "cidade": "Campinas",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Ryan",
+     "minuto": "38",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/04/12/gol-de-ryan-vila-nova-vence-a-ponte-preta-na-serie-b/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-vila-nova/832868"
+   ],
+   "atualizado": "2026-11-17T03:34:00-03:00"
+  },
+  {
    "id": 91000329,
    "data": "2026-04-18T18:00:00-03:00",
    "casa": "america-mg",
@@ -976,6 +1409,138 @@
      "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712475-sport-fica-no-empate-com-o-america-mg-em-belo-horizonte.html"
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000387,
+   "data": "2026-04-24T20:00:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "america-mg",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Moisés Lucarelli",
+   "cidade": "Campinas",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Willian Pottker",
+     "minuto": "43",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/ex-cruzeiro-decide-e-america-e-derrotado-pela-ponte-em-jogo-da-serie-b/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-america/832932"
+   ],
+   "atualizado": "2026-11-17T03:33:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rodrigo Santana",
+     "time": "Diogo Silva; Thalys, Lucas Cunha, Márcio Silva, Kevyson; André Lima, Murilo, Luis Phelipe; Bryan Borges, Diego Tavares, Willian Pottker",
+     "entraram": [
+      {
+       "jogador": "Lucas Justen",
+       "saiu": "Thalys",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Souza",
+       "saiu": "Murilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel",
+       "saiu": "Luis Phelipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jonathan Cafu",
+       "saiu": "Diego Tavares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brandão",
+       "saiu": "Willian Pottker",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Willian Pottker",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kevyson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Jonathan Cafu",
+        "minuto": ""
+       },
+       {
+        "jogador": "Miguel",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Roger Silva",
+     "time": "Gustavo; Jhonny, Nathan Pelae, Rafa Barcelos, Dalbert; Felipe Amaral, Eduardo Person, Yago Santos; Segovinha, Thauan Willians, Gonzalo Mastriani",
+     "entraram": [
+      {
+       "jogador": "Paulinho",
+       "saiu": "Dalbert",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Souza",
+       "saiu": "Eduardo Person",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jonathan Lima",
+       "saiu": "Yago Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Victor",
+       "saiu": "Segovinha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willian Bigode",
+       "saiu": "Gonzalo Mastriani",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rafa Barcelos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Segovinha",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/ex-cruzeiro-decide-e-america-e-derrotado-pela-ponte-em-jogo-da-serie-b/"
+    ],
+    "atualizado": "2026-11-17T03:33:00-03:00"
    }
   },
   {
@@ -1337,6 +1902,48 @@
     "https://www.tribunadosertao.com.br/esportes/2026/05/02/895771-cuiaba-abre-o-placar-mas-criciuma-busca-empate-nos-acrescimos-na-arena-pantanal"
    ],
    "atualizado": "2026-11-15T03:46:00-03:00"
+  },
+  {
+   "id": 91000388,
+   "data": "2026-05-03T16:00:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "ponte-preta",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "1º de Maio",
+   "cidade": "São Bernardo do Campo",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Foguinho",
+     "minuto": "13",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Pará",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Fabrício Daniel",
+     "minuto": "75",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-bate-ponte-preta-e-emenda-terceira-vitoria-seguida-na-serie-b/",
+    "https://www.dgabc.com.br/Noticia/4317385/sao-bernardo-vence-por-3-a-0-a-ponte-preta-e-aparece-em-terceiro-lugar-na-serie-b"
+   ],
+   "atualizado": "2026-11-17T03:33:00-03:00"
   },
   {
    "id": 91000331,
@@ -2993,6 +3600,42 @@
    }
   },
   {
+   "id": 91000390,
+   "data": "2026-06-22T20:00:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "novorizontino",
+   "status": "encerrado",
+   "rodada": "14",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Moisés Lucarelli",
+   "cidade": "Campinas",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Robson",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Robson",
+     "minuto": "59",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3809066",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-gremio-novorizontino-saf/833012"
+   ],
+   "atualizado": "2026-11-17T03:34:00-03:00"
+  },
+  {
    "id": 91000370,
    "data": "2026-06-25T20:30:00-03:00",
    "casa": "cuiaba",
@@ -3863,6 +4506,148 @@
      "https://www.dgabc.com.br/Noticia/4340124/botafogo-sp-vence-se-afasta-do-z-4-e-afunda-america-mg-na-serie-b"
     ],
     "atualizado": "2026-11-10T18:38:00-03:00"
+   }
+  },
+  {
+   "id": 91000392,
+   "data": "2026-08-14T19:30:00-03:00",
+   "casa": "ponte-preta",
+   "fora": "nautico",
+   "status": "encerrado",
+   "rodada": "22",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Moisés Lucarelli",
+   "cidade": "Campinas",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Brandão",
+     "minuto": "40",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Borasi",
+     "minuto": "64",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/08/11721283-nautico-sai-atras-tem-dois-expulsos-e-fica-apenas-no-empate-com-a-lanterna-ponte-preta.html",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-nautico/833092"
+   ],
+   "atualizado": "2026-11-17T03:36:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Márcio Zanardi",
+     "time": "Vinícius Ferrari; Diego Leão, Gustavo Almeida, Palacios; Daniel Baianinho, Léo Gomes, André Lima, Elvis, Juan Rodrigues; David da Hora, Brandão",
+     "entraram": [
+      {
+       "jogador": "Daniel",
+       "saiu": "Gustavo Almeida",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel",
+       "saiu": "Juan Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Sozia",
+       "saiu": "David da Hora",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Telles",
+       "saiu": "Brandão",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "André Lima",
+        "minuto": ""
+       },
+       {
+        "jogador": "Diego Leão",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Hélio dos Anjos",
+     "time": "Muriel; Arnaldo, Betão, Gustavo Henrique, Igor Fernandes; Léo Índio, Wenderson, Jean Carlos; Borasi, Derek, Kauã Maranhão",
+     "entraram": [
+      {
+       "jogador": "Reginaldo",
+       "saiu": "Arnaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Gustavo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Carlos",
+       "saiu": "Igor Fernandes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pato Núñez",
+       "saiu": "Léo Índio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Cláudio",
+       "saiu": "Kauã Maranhão",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Léo Índio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Borasi",
+        "minuto": ""
+       },
+       {
+        "jogador": "Arnaldo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Pato Núñez",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Pato Núñez",
+        "minuto": "83"
+       },
+       {
+        "jogador": "Betão",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/08/11721283-nautico-sai-atras-tem-dois-expulsos-e-fica-apenas-no-empate-com-a-lanterna-ponte-preta.html"
+    ],
+    "atualizado": "2026-11-17T03:36:00-03:00"
    }
   },
   {

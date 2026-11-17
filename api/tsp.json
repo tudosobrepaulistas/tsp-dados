@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-16T22:26:00-03:00",
+ "gerado": "2026-11-17T03:36:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -10328,7 +10328,7 @@
     "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.24,
+     1.25,
      1.19
     ],
     "base": [
@@ -10397,7 +10397,7 @@
     "fora": 21,
     "placar": "1x1",
     "gols_esperados": [
-     1.82,
+     1.83,
      1.03
     ],
     "base": [
@@ -10462,12 +10462,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
+    "casa": 63,
     "empate": 21,
     "fora": 17,
     "placar": "2x0",
     "gols_esperados": [
-     2.03,
+     2.04,
      0.94
     ],
     "base": [
@@ -10607,7 +10607,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.06,
-     1.66
+     1.67
     ],
     "base": [
      14,
@@ -10671,12 +10671,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
+    "casa": 62,
     "empate": 20,
     "fora": 19,
     "placar": "2x1",
     "gols_esperados": [
-     2.18,
+     2.19,
      1.12
     ],
     "base": [
@@ -10746,7 +10746,7 @@
     "fora": 32,
     "placar": "1x1",
     "gols_esperados": [
-     1.65,
+     1.66,
      1.38
     ],
     "base": [
@@ -10812,11 +10812,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 28,
-    "empate": 25,
+    "empate": 24,
     "fora": 47,
     "placar": "1x1",
     "gols_esperados": [
-     1.2,
+     1.21,
      1.63
     ],
     "base": [
@@ -10941,7 +10941,7 @@
     "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.48,
+     1.49,
      0.7
     ],
     "base": [
@@ -10993,11 +10993,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 54,
-    "empate": 24,
+    "empate": 23,
     "fora": 22,
     "placar": "1x1",
     "gols_esperados": [
-     1.75,
+     1.76,
      1.04
     ],
     "base": [
@@ -11053,7 +11053,7 @@
     "fora": 56,
     "placar": "1x1",
     "gols_esperados": [
-     1.02,
+     1.03,
      1.81
     ],
     "base": [
@@ -11109,7 +11109,7 @@
     "fora": 10,
     "placar": "2x0",
     "gols_esperados": [
-     2.34,
+     2.35,
      0.75
     ],
     "base": [
@@ -11165,7 +11165,7 @@
     "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
-     1.23,
+     1.24,
      0.82
     ],
     "base": [
@@ -11221,7 +11221,7 @@
     "fora": 16,
     "placar": "2x0",
     "gols_esperados": [
-     2.22,
+     2.23,
      0.99
     ],
     "base": [
@@ -11277,8 +11277,8 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.2,
-     0.92
+     2.21,
+     0.93
     ],
     "base": [
      25,
@@ -11329,7 +11329,7 @@
    "escalacoes": {},
    "previsao": {
     "casa": 48,
-    "empate": 28,
+    "empate": 27,
     "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
@@ -11389,8 +11389,8 @@
     "fora": 28,
     "placar": "1x1",
     "gols_esperados": [
-     1.65,
-     1.2
+     1.66,
+     1.21
     ],
     "base": [
      21,
@@ -11445,7 +11445,7 @@
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.66,
+     1.67,
      0.75
     ],
     "base": [
@@ -11613,6 +11613,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.oliberal.com/esportes/athletic-derrota-a-ponte-preta-em-casa-por-2-a-1-na-abertura-da-serie-b-1.1100463",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/athletic-saf-x-ponte-preta/832840"
+   ],
+   "fixture": {
+    "id": 91000386,
+    "timestamp": 1774213200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 26,
+      "extra": null,
+      "texto": "26"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ian Luccas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 44,
+      "extra": null,
+      "texto": "44"
+     },
+     "team": {
+      "id": 900040,
+      "name": "Ponte Preta"
+     },
+     "player": {
+      "name": "Bryan Borges"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Jota"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711309-sem-vencer-na-serie-b-sport-empata-com-o-vila-nova-na-ilha-do-retiro.html",
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-e-vila-nova-empatam-e-seguem-sem-vencer-pela-serie-b/"
    ],
@@ -11679,6 +11772,83 @@
      },
      "player": {
       "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://mais.opovo.com.br/jornal/esportes/2026/04/02/com-um-a-menos-ceara-arranca-empate-com-ponte-preta-na-serie-b.html",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ponte-preta-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3754042"
+   ],
+   "fixture": {
+    "id": 91000391,
+    "timestamp": 1775088000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900040,
+      "name": "Ponte Preta"
+     },
+     "player": {
+      "name": "Luis Phelipe"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900035,
+      "name": "Ceará"
+     },
+     "player": {
+      "name": "Sánchez"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -11836,6 +12006,67 @@
      },
      "type": "Goal",
      "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.folhape.com.br/esportes/nautico-vence-a-ponte-preta-com-gol-de-vinicius/478480/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/nautico-x-ponte-preta/832865"
+   ],
+   "fixture": {
+    "id": 91000385,
+    "timestamp": 1775336400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
     }
    ]
   },
@@ -12140,6 +12371,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://ohoje.com/2026/04/12/gol-de-ryan-vila-nova-vence-a-ponte-preta-na-serie-b/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-vila-nova/832868"
+   ],
+   "fixture": {
+    "id": 91000389,
+    "timestamp": 1775941200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 38,
+      "extra": null,
+      "texto": "38"
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Ryan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712475-sport-fica-no-empate-com-o-america-mg-em-belo-horizonte.html",
     "https://www.gazetaesportiva.com/?p=3779982"
    ],
@@ -12178,6 +12470,67 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/ex-cruzeiro-decide-e-america-e-derrotado-pela-ponte-em-jogo-da-serie-b/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-america/832932"
+   ],
+   "fixture": {
+    "id": 91000387,
+    "timestamp": 1777071600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 43,
+      "extra": null,
+      "texto": "43"
+     },
+     "team": {
+      "id": 900040,
+      "name": "Ponte Preta"
+     },
+     "player": {
+      "name": "Willian Pottker"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -12484,6 +12837,99 @@
      },
      "type": "Goal",
      "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sao-bernardo-bate-ponte-preta-e-emenda-terceira-vitoria-seguida-na-serie-b/",
+    "https://www.dgabc.com.br/Noticia/4317385/sao-bernardo-vence-por-3-a-0-a-ponte-preta-e-aparece-em-terceiro-lugar-na-serie-b"
+   ],
+   "fixture": {
+    "id": 91000388,
+    "timestamp": 1777834800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "1º de Maio",
+     "city": "São Bernardo do Campo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 13,
+      "extra": null,
+      "texto": "13"
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Foguinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Pará"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 75,
+      "extra": null,
+      "texto": "75"
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Fabrício Daniel"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
     }
    ]
   },
@@ -13626,6 +14072,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3809066",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-gremio-novorizontino-saf/833012"
+   ],
+   "fixture": {
+    "id": 91000390,
+    "timestamp": 1782169200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 14"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900021,
+     "name": "Novorizontino"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 32,
+      "extra": null,
+      "texto": "32"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Robson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 59,
+      "extra": null,
+      "texto": "59"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Robson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/cuiaba-x-londrina-saf/833030",
     "https://www.gazetaesportiva.com/?p=3811164"
    ],
@@ -14541,6 +15064,83 @@
      },
      "type": "Goal",
      "detail": "Own Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/08/11721283-nautico-sai-atras-tem-dois-expulsos-e-fica-apenas-no-empate-com-a-lanterna-ponte-preta.html",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-nautico/833092"
+   ],
+   "fixture": {
+    "id": 91000392,
+    "timestamp": 1786746600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Moisés Lucarelli",
+     "city": "Campinas"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900040,
+     "name": "Ponte Preta"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 40,
+      "extra": null,
+      "texto": "40"
+     },
+     "team": {
+      "id": 900040,
+      "name": "Ponte Preta"
+     },
+     "player": {
+      "name": "Brandão"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 64,
+      "extra": null,
+      "texto": "64"
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Borasi"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
     }
    ]
   },
@@ -35151,6 +35751,18 @@
     "gols": 3
    },
    {
+    "jogador": "Borasi",
+    "time": "Náutico",
+    "time_id": 900036,
+    "gols": 2
+   },
+   {
+    "jogador": "Brandão",
+    "time": "Ponte Preta",
+    "time_id": 900040,
+    "gols": 2
+   },
+   {
     "jogador": "Carlos de Pena",
     "time": "Sport",
     "time_id": 900027,
@@ -35169,9 +35781,21 @@
     "gols": 2
    },
    {
+    "jogador": "Fabrício Daniel",
+    "time": "São Bernardo",
+    "time_id": 900031,
+    "gols": 2
+   },
+   {
     "jogador": "Fábio Lima",
     "time": "Juventude",
     "time_id": 900022,
+    "gols": 2
+   },
+   {
+    "jogador": "Ian Luccas",
+    "time": "Athletic",
+    "time_id": 900034,
     "gols": 2
    },
    {
@@ -35229,6 +35853,12 @@
     "gols": 2
    },
    {
+    "jogador": "Robson",
+    "time": "Novorizontino",
+    "time_id": 900021,
+    "gols": 2
+   },
+   {
     "jogador": "Vilar",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -35283,18 +35913,6 @@
     "gols": 1
    },
    {
-    "jogador": "Borasi",
-    "time": "Náutico",
-    "time_id": 900036,
-    "gols": 1
-   },
-   {
-    "jogador": "Brandão",
-    "time": "Ponte Preta",
-    "time_id": 900040,
-    "gols": 1
-   },
-   {
     "jogador": "Bruno José",
     "time": "Atlético-GO",
     "time_id": 900028,
@@ -35310,6 +35928,12 @@
     "jogador": "Bruno Xavier",
     "time": "Vila Nova",
     "time_id": 900023,
+    "gols": 1
+   },
+   {
+    "jogador": "Bryan Borges",
+    "time": "Ponte Preta",
+    "time_id": 900040,
     "gols": 1
    },
    {
@@ -35403,15 +36027,15 @@
     "gols": 1
    },
    {
-    "jogador": "Fabrício Daniel",
-    "time": "São Bernardo",
-    "time_id": 900031,
-    "gols": 1
-   },
-   {
     "jogador": "Felipinho",
     "time": "Sport",
     "time_id": 900027,
+    "gols": 1
+   },
+   {
+    "jogador": "Foguinho",
+    "time": "São Bernardo",
+    "time_id": 900031,
     "gols": 1
    },
    {
@@ -35463,12 +36087,6 @@
     "gols": 1
    },
    {
-    "jogador": "Ian Luccas",
-    "time": "Athletic",
-    "time_id": 900034,
-    "gols": 1
-   },
-   {
     "jogador": "Igor Bahia",
     "time": "Londrina",
     "time_id": 900038,
@@ -35502,6 +36120,12 @@
     "jogador": "Joseph",
     "time": "Operário-PR",
     "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Jota",
+    "time": "Athletic",
+    "time_id": 900034,
     "gols": 1
    },
    {
@@ -35562,6 +36186,12 @@
     "jogador": "Luciano Castán",
     "time": "Criciúma",
     "time_id": 900025,
+    "gols": 1
+   },
+   {
+    "jogador": "Luis Phelipe",
+    "time": "Ponte Preta",
+    "time_id": 900040,
     "gols": 1
    },
    {
@@ -35661,6 +36291,12 @@
     "gols": 1
    },
    {
+    "jogador": "Pará",
+    "time": "São Bernardo",
+    "time_id": 900031,
+    "gols": 1
+   },
+   {
     "jogador": "Patrick Brey",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -35715,6 +36351,12 @@
     "gols": 1
    },
    {
+    "jogador": "Ryan",
+    "time": "Vila Nova",
+    "time_id": 900023,
+    "gols": 1
+   },
+   {
     "jogador": "Rômulo",
     "time": "Novorizontino",
     "time_id": 900021,
@@ -35724,6 +36366,12 @@
     "jogador": "Sorriso",
     "time": "Avaí",
     "time_id": 900037,
+    "gols": 1
+   },
+   {
+    "jogador": "Sánchez",
+    "time": "Ceará",
+    "time_id": 900035,
     "gols": 1
    },
    {
@@ -35740,6 +36388,12 @@
    },
    {
     "jogador": "Victor Andrade",
+    "time": "Náutico",
+    "time_id": 900036,
+    "gols": 1
+   },
+   {
+    "jogador": "Vinícius",
     "time": "Náutico",
     "time_id": 900036,
     "gols": 1
@@ -35790,6 +36444,12 @@
     "jogador": "Willian",
     "time": "América-MG",
     "time_id": 900039,
+    "gols": 1
+   },
+   {
+    "jogador": "Willian Pottker",
+    "time": "Ponte Preta",
+    "time_id": 900040,
     "gols": 1
    },
    {
