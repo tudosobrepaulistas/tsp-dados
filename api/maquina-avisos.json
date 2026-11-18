@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-18T20:36-03:00",
+ "gerado": "2026-11-18T20:43-03:00",
  "avisos": [
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Reforços e técnico já publicados; nada novo",
-   "sugestao": "Novos reforços ou início da pré-temporada do Tanabi"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "SAF, Copa CCF e Ricardo Oliveira já publicados; nada novo com 2 fontes",
-   "sugestao": "Comercial na Copa CCF (29/11) ou convite da FPF para a Copinha 2027"
-  },
   {
    "clube": "barretos",
    "nome": "Barretos",
@@ -420,6 +406,20 @@
    "quando": "2026-11-18T20:36-03:00",
    "motivo": "Cobertura 6h (18/11, 20h40): notícias das últimas 24h (Derek, Zé Hugo, Brey e Maciel) já publicadas no site; nada novo confirmado em 2 fontes",
    "sugestao": "Acompanhar o anúncio oficial de Derek e da compra de Zé Hugo (André Leite disse que sai 'nos próximos dias', CBN Ribeirão 18/11)"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-18T20:43-03:00",
+   "motivo": "Cobertura 6h bloco A1 (18/11): pautas do bloco já publicadas (Pedro Felipe na Portuguesa, Cristian de Souza e SAF do Guarani) e nada novo confirmado em 2 fontes nas últimas 48h para Noroeste, Ferroviária, Primavera e Capivariano (comissão técnica do Noroeste é de 05/11; goleiro do Primavera é de 28/10)",
+   "sugestao": "Guarani: resultado da votação da SAF pelos sócios nesta quinta (19); Ferroviária: reapresentação em 26/11"
+  },
+  {
+   "clube": "santos",
+   "nome": "Santos",
+   "quando": "2026-11-18T20:43-03:00",
+   "motivo": "Cobertura 6h (18/11, 20h50): Coritiba x Santos em andamento no Couto Pereira (19h30, 35ª rodada); pós-jogo sai pela rotina de pós-jogo. Pautas restantes são evergreen (bi mundial de 1963) ou probabilidade de Libertadores",
+   "sugestao": "Coletiva de Cuca após Coritiba x Santos e situação na briga pela Libertadores"
   }
  ]
 }
