@@ -850,13 +850,20 @@ def blocos_cota():
     # 14/11/2026 (regra do Thiago): estes clubes têm no mínimo 2 matérias por dia, qualquer divisão, qualquer autor.
     # Os que já estão num bloco de 2 por clube (Mirassol/Bragantino, Série B) contam lá, para não repetir a cobrança.
     fixos = [s for s in PRIORITARIOS if s not in ("mirassol", "bragantino") and s not in serie_b and achar_slug(cs, s)]
-    return [
+    # 18/11/2026: Série B acabou → o bloco da home virou Paulistão A1 (sem os 4 grandes e sem Mirassol/Bragantino)
+    sb_ativa = not ("2026-11-16" <= agora().strftime("%Y-%m-%d") < "2027-04-01")
+    if not sb_ativa:
+        nac = set(GRANDES) | {"mirassol", "bragantino"}
+    blocos = [
         # (nome, clubes, meta total, mínimo por clube, horários-limite)
         ("Mirassol + Bragantino", ["mirassol", "bragantino"], 4, 2, "1 de cada até 12h e a 2ª de cada até 18h (publish_at 12:00 e 18:00)"),
-        ("Série B", serie_b, 2 * len(serie_b), 2, "2 de cada clube por dia"),
+    ]
+    if sb_ativa:
+        blocos.append(("Série B", serie_b, 2 * len(serie_b), 2, "2 de cada clube por dia"))
+    return blocos + [
         ("Clubes prioritários (2 por dia)", fixos, 2 * len(fixos), 2, "2 de cada clube por dia, qualquer divisão (1 até 12h, a 2ª até 18h)"),
         ("Futebol feminino", [c["slug"] for c in cs if c.get("grupo") == "feminino"], 8, 0, "8 por dia, variando entre as 8 equipes"),
-        ("Paulistão A1 (sem Série A e B)", [x for x in BLOCOS["A1"] if x not in nac], 8, 0, "8 por dia"),
+        ("Paulistão A1 (sem os grandes e sem Mirassol/Bragantino)", [x for x in BLOCOS["A1"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
         ("Paulistão A2", [x for x in BLOCOS["A2"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
         ("Paulistão A3", [x for x in BLOCOS["A3"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
         ("Paulistão A4", [c["slug"] for c in cs if c.get("grupo") == "a4"], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),

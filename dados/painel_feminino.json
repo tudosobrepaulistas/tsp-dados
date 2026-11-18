@@ -3,7 +3,7 @@
  "competicoes": [
   {
    "nome": "Paulistão Feminino 2026",
-   "fase": "Play-in (ida e volta)",
+   "fase": "Play-in (jogos de volta em 21 e 22/11)",
    "classificacao_titulo": "Paulistão Feminino · classificação final da 1ª fase",
    "classificacao": [
     [
@@ -93,15 +93,15 @@
      "fase": "Play-in",
      "casa": "Red Bull Bragantino",
      "fora": "Corinthians",
-     "quando": "18/11 e 22/11",
-     "obs": "Corinthians decide em casa"
+     "quando": "Ida (17/11): Bragantino 2 x 0 Corinthians · Volta: dom. 22/11, 11h, Parque São Jorge",
+     "obs": "Corinthians precisa vencer por 3 gols de diferença para avançar; por 2, decide nos pênaltis"
     },
     {
      "fase": "Play-in",
      "casa": "Santos",
      "fora": "São Paulo",
-     "quando": "18/11 e 22/11",
-     "obs": "São Paulo decide em casa"
+     "quando": "Ida (17/11): Santos 1 x 3 São Paulo, no Pacaembu · Volta: sáb. 21/11, 11h, Brinco de Ouro (Campinas)",
+     "obs": ""
     },
     {
      "fase": "Semifinal",
@@ -129,7 +129,11 @@
     "https://www.futebolinterior.com.br/campeonato/paulistao-feminino-unica-2026/",
     "https://www.olimpiadatododia.com.br/futebol/761174-paulista-feminino-2026-play-in-semifinais-classificados/",
     "https://www.infotimao.com.br/post/corinthians-red-bull-bragantino-play-in-paulistao-feminino",
-    "https://www.lance.com.br/futebol-feminino/paulistao-feminino-2026-tabela-formato-onde-assistir.html"
+    "https://www.lance.com.br/futebol-feminino/paulistao-feminino-2026-tabela-formato-onde-assistir.html",
+    "https://www.gazetaesportiva.com/times/sao-paulo/santos-sao-paulo-feminino-resultado-play-in-paulistao-2026/",
+    "https://www.saopaulofc.net/sao-paulo-vence-o-santos-na-partida-de-ida-do-play-in-do-paulistao-f/",
+    "https://www.terra.com.br/esportes/corinthians/corinthians-perde-para-bragantino-e-se-complica-no-paulista-feminino,8cce8cc9d24b1f8a026567db7bca560alfrldrmn.html",
+    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-vencem-o-corinthians-e-saem-em-vantagem-no-play-in-do-paulistao-f-2026"
    ],
    "colunas": [
     "#",
@@ -142,5 +146,6 @@
     "SG"
    ]
   }
- ]
+ ],
+ "gerado": "2026-11-18T05:00-03:00"
 }
