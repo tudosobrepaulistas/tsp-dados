@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-18T11:00-03:00",
+ "gerado": "2026-11-18T12:07-03:00",
  "avisos": [
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-17T10:35-03:00",
-   "motivo": "Cobertura 6h (17/11 10h30): sem fato confirmado em 2 fontes nas últimas 24h. Só o Diário do Grande ABC (16/11) cita a busca por técnico e Cauan de Almeida como nome especulado (ele diz que não foi procurado).",
-   "sugestao": "Quando o clube anunciar o substituto de Vinícius Bergantin ou a data de reapresentação para o Paulistão 2027, matéria com o anúncio oficial + DGABC."
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-17T10:35-03:00",
-   "motivo": "Cobertura 6h (17/11 10h30): nenhuma notícia nova confirmada nas últimas 24h após a festa do título da Série B.",
-   "sugestao": "Acompanhar redes oficiais: férias do elenco, reapresentação, renovação de Enderson Moreira e primeiros reforços para a Série A 2027."
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-17T10:35-03:00",
-   "motivo": "Cobertura 6h (17/11 10h30): semana sem jogo até Fluminense x Mirassol (22/11, 18h30, Maracanã); nenhuma notícia de treino ou elenco confirmada nas últimas 24h.",
-   "sugestao": "Prévia/bastidores do jogo no Maracanã quando o clube divulgar treino, desfalques ou coletiva (Edson Carioca suspenso após expulsão?). Tabela final: Fluminense (22/11), Athletico-PR no Maião (29/11), Grêmio fora (02/12), segundo a Gazeta de Rio Preto."
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-17T10:35-03:00",
-   "motivo": "Cobertura 6h (17/11 10h30): nada novo confirmado em 2 fontes nas últimas 24h além do que o site já publicou (empréstimo, contratos para 2027).",
-   "sugestao": "Definição do técnico para 2027 (Gilson Kleina fica?) e eventual aprovação do empréstimo no Conselho; conferir site oficial e Correio Popular/Hora Campinas."
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Nada novo nos últimos 7 dias; técnico de 2027 não anunciado; evergreen bloqueado (14 dias)",
-   "sugestao": "Técnico, elenco e Copinha 2027 com o presidente Manoel Monteiro"
-  },
-  {
-   "clube": "taquaritinga",
-   "nome": "Taquaritinga",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Posse de Xandi Sacomano com datas divergentes (Futebol Interior 16/11 x O Defensor dezembro); técnico 2027 indefinido",
-   "sugestao": "Confirmar com o CAT a posse da diretoria e o técnico da A4"
-  },
   {
    "clube": "saocaetano",
    "nome": "São Caetano",
@@ -420,6 +378,48 @@
    "quando": "2026-11-18T11:00-03:00",
    "motivo": "Ibrachina 0 x 4 Red Bull Bragantino (14/11) na ida da semifinal do Paulista Sub-17 confirmado em 2 fontes, mas sem foto acessível (site do Bragantino bloqueado aqui)",
    "sugestao": "Ibrachina visita o Red Bull Bragantino no sábado 21/11, 11h, no CPD em Atibaia, na volta da semifinal do Paulista Sub-17 (precisa vencer por 4 gols para pênaltis). Fontes: redbullbragantino.com e futebolinterior.com.br; foto do clube"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-18T12:07-03:00",
+   "motivo": "Sem fato novo em 48h além do já publicado (SAF votada na quinta 19/11; Cristian de Souza ainda não anunciado oficialmente)",
+   "sugestao": "Cobrir a votação da SAF na quinta (19/11) e o anúncio oficial de Cristian de Souza quando sair"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-18T12:07-03:00",
+   "motivo": "Pedro Felipe já publicado em 17/11; nada novo confirmado em 48h",
+   "sugestao": "Confirmar onde a Lusa mandará os jogos do Paulistão 2027 (Diadema?) com nota oficial"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-18T12:07-03:00",
+   "motivo": "Sem notícia nova em 48h; evergreen sem foto livre (só fotos em sites bloqueados para download)",
+   "sugestao": "Guia do Barão da Serra Negra (inaugurado em 04/09/1965; recorde de 27.100 no título da A2 de 1983) com foto do clube"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-18T12:07-03:00",
+   "motivo": "Sem notícia nova confirmada (Johnny ainda em negociação, só 1 fonte de 09/11); evergreen sem foto livre",
+   "sugestao": "Guia do Palma Travassos (inaugurado em 10/11/1964 com Santos 3x2; recorde de 32.400 em 1986) ou a SAF quando assinada"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-18T12:07-03:00",
+   "motivo": "Comissão técnica nova é de 05/11; nada novo em 48h",
+   "sugestao": "Reforços do elenco para o Paulistão 2027 confirmados pelo clube"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-18T12:07-03:00",
+   "motivo": "Sem notícia nova confirmada em 48h",
+   "sugestao": "Planejamento da Série B 2027 e renovações do elenco"
   }
  ]
 }
