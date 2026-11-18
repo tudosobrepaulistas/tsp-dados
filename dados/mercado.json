@@ -3,6 +3,94 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-18",
+   "jogador": "Vinicius",
+   "posicao": "Meia",
+   "de": "",
+   "de_slug": "",
+   "para": "União São João",
+   "para_slug": "uniao-sao-joao",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 de 2027. Anúncio no Instagram oficial do clube (data do registro na base)",
+   "fontes": [
+    "https://www.instagram.com/uniaosaojoaooficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-18-vinicius-uniao-sao-joao",
+   "atualizado": "2026-11-18T02:18:00-03:00"
+  },
+  {
+   "data": "2026-11-18",
+   "jogador": "Bernardo",
+   "posicao": "Zagueiro",
+   "de": "",
+   "de_slug": "",
+   "para": "União São João",
+   "para_slug": "uniao-sao-joao",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 de 2027. Anúncio no Instagram oficial do clube (data do registro na base)",
+   "fontes": [
+    "https://www.instagram.com/uniaosaojoaooficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-18-bernardo-uniao-sao-joao",
+   "atualizado": "2026-11-18T02:18:00-03:00"
+  },
+  {
+   "data": "2026-11-17",
+   "jogador": "Vinícius Silva",
+   "posicao": "Lateral",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-17-vinicius-silva-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-vinicius-silva-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
+  },
+  {
+   "data": "2026-11-17",
+   "jogador": "Adílson Bahia",
+   "posicao": "Atacante",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-17-adilson-bahia-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-adilson-bahia-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
+  },
+  {
    "data": "2026-11-16",
    "jogador": "Lucas Dias",
    "posicao": "Lateral",
@@ -43,7 +131,13 @@
     "https://www.futebolinterior.com.br/taubate-renova-lucas-bihalva/"
    ],
    "id": "2026-11-16-lucas-bilhalva-taubate",
-   "atualizado": "2026-11-17T06:59:00-03:00"
+   "atualizado": "2026-11-17T06:59:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-lucas-bilhalva-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-16",
@@ -382,6 +476,31 @@
    "atualizado": "2026-11-14T03:11:00-03:00"
   },
   {
+   "data": "2026-11-13",
+   "jogador": "Denis Germano",
+   "posicao": "Meia",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Campeão da Série A2",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-13-denis-germano-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-denis-germano-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
+  },
+  {
    "data": "2026-11-12",
    "jogador": "Werley Ferreira",
    "posicao": "Lateral",
@@ -403,6 +522,31 @@
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-werley-ferreira-penapolense.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/penapolenseoficial/",
+    "ia": true
+   }
+  },
+  {
+   "data": "2026-11-12",
+   "jogador": "Victor Lima",
+   "posicao": "Atacante",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-12-victor-lima-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-victor-lima-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
    }
   },
@@ -784,6 +928,31 @@
   },
   {
    "data": "2026-11-11",
+   "jogador": "Everaldo Filho",
+   "posicao": "Lateral",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-11-everaldo-filho-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-everaldo-filho-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
+  },
+  {
+   "data": "2026-11-11",
    "jogador": "Diego Lopes",
    "posicao": "Volante",
    "de": "XV de Jaú",
@@ -1150,6 +1319,31 @@
   },
   {
    "data": "2026-11-10",
+   "jogador": "Bruno Negueba",
+   "posicao": "Meia",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-10-bruno-negueba-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-bruno-negueba-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
+  },
+  {
+   "data": "2026-11-10",
    "jogador": "Biel",
    "posicao": "Atacante",
    "de": "Inter de Bebedouro",
@@ -1455,6 +1649,31 @@
      "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
     }
    ]
+  },
+  {
+   "data": "2026-11-09",
+   "jogador": "Gabriel Masson",
+   "posicao": "Meia",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-09-gabriel-masson-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-gabriel-masson-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-09",
@@ -2287,7 +2506,13 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-04-reifit-taubate",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-14T13:01:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reifit-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-04",
@@ -2313,7 +2538,13 @@
     "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    },
    "id": "2026-11-04-reginaldo-junior-taubate",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-14T13:01:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reginaldo-junior-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-04",
@@ -2364,7 +2595,13 @@
     "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    },
    "id": "2026-11-04-jeder-taubate",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-14T13:01:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-jeder-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-04",
@@ -2408,7 +2645,13 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-04-foguete-taubate",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-14T13:01:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-foguete-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-04",
@@ -2427,7 +2670,38 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-04-felipe-rocha-taubate",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-14T13:01:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-felipe-rocha-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
+  },
+  {
+   "data": "2026-11-04",
+   "jogador": "Alejandro Viniegra",
+   "posicao": "Atacante",
+   "de": "",
+   "de_slug": "",
+   "para": "Taubaté",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Revelado pelo Cruzeiro",
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-04-alejandro-viniegra-taubate",
+   "atualizado": "2026-11-17T23:51:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-alejandro-viniegra-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-04",
@@ -2453,7 +2727,13 @@
     "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    },
    "id": "2026-11-04-adilson-junior-taubate",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-14T13:01:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-adilson-junior-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-03",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-17T06:59:00-03:00",
+ "gerado": "2026-11-18T02:19:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -11,6 +11,160 @@
   "promovido": "Subiu da base"
  },
  "itens": [
+  {
+   "id": "2026-11-18-vinicius-uniao-sao-joao",
+   "data": "2026-11-18",
+   "jogador": "Vinicius",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 de 2027. Anúncio no Instagram oficial do clube (data do registro na base)",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União São João",
+    "slug": "uniao-sao-joao",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/uniaosaojoaooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "uniao-sao-joao"
+  },
+  {
+   "id": "2026-11-18-bernardo-uniao-sao-joao",
+   "data": "2026-11-18",
+   "jogador": "Bernardo",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 de 2027. Anúncio no Instagram oficial do clube (data do registro na base)",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União São João",
+    "slug": "uniao-sao-joao",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/uniaosaojoaooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "uniao-sao-joao"
+  },
+  {
+   "id": "2026-11-17-vinicius-silva-taubate",
+   "data": "2026-11-17",
+   "jogador": "Vinícius Silva",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-vinicius-silva-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
+  },
+  {
+   "id": "2026-11-17-adilson-bahia-taubate",
+   "data": "2026-11-17",
+   "jogador": "Adílson Bahia",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-adilson-bahia-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
+  },
   {
    "id": "2026-11-16-lucas-dias-lemense",
    "data": "2026-11-16",
@@ -77,7 +231,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-lucas-bilhalva-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-renova-lucas-bihalva/"
    ],
@@ -597,6 +756,47 @@
    "dono": "ituano"
   },
   {
+   "id": "2026-11-13-denis-germano-taubate",
+   "data": "2026-11-13",
+   "jogador": "Denis Germano",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Campeão da Série A2",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-denis-germano-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
+  },
+  {
    "id": "2026-11-12-werley-ferreira-penapolense",
    "data": "2026-11-12",
    "jogador": "Werley Ferreira",
@@ -636,6 +836,47 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "penapolense"
+  },
+  {
+   "id": "2026-11-12-victor-lima-taubate",
+   "data": "2026-11-12",
+   "jogador": "Victor Lima",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-victor-lima-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
   },
   {
    "id": "2026-11-12-roger-ruan-penapolense",
@@ -1262,6 +1503,47 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "santoandre"
+  },
+  {
+   "id": "2026-11-11-everaldo-filho-taubate",
+   "data": "2026-11-11",
+   "jogador": "Everaldo Filho",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-everaldo-filho-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
   },
   {
    "id": "2026-11-11-diego-lopes-xv-de-jau",
@@ -1905,6 +2187,47 @@
    "dono": "portuguesa"
   },
   {
+   "id": "2026-11-10-bruno-negueba-taubate",
+   "data": "2026-11-10",
+   "jogador": "Bruno Negueba",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-bruno-negueba-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
+  },
+  {
    "id": "2026-11-10-biel-inter-de-bebedouro",
    "data": "2026-11-10",
    "jogador": "Biel",
@@ -2415,6 +2738,47 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-09-gabriel-masson-taubate",
+   "data": "2026-11-09",
+   "jogador": "Gabriel Masson",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-gabriel-masson-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
   },
   {
    "id": "2026-11-09-gabriel-cunha-rio-claro",
@@ -3851,7 +4215,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reifit-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    ],
@@ -3887,7 +4256,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reginaldo-junior-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    ],
@@ -3973,7 +4347,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-jeder-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    ],
@@ -4061,7 +4440,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-foguete-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    ],
@@ -4097,9 +4481,55 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-felipe-rocha-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "taubate"
+  },
+  {
+   "id": "2026-11-04-alejandro-viniegra-taubate",
+   "data": "2026-11-04",
+   "jogador": "Alejandro Viniegra",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Revelado pelo Cruzeiro",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taubaté",
+    "slug": "taubate",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-alejandro-viniegra-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/ec.taubate/"
    ],
    "nascimento": "",
    "numeros": {},
@@ -4133,7 +4563,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-adilson-junior-taubate.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ec.taubate/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    ],
