@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T02:25:00-03:00",
+ "gerado": "2026-11-18T06:58:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -135,6 +135,238 @@
    "dono": "taubate"
   },
   {
+   "id": "2026-11-17-rayan-correa-rio-claro",
+   "data": "2026-11-17",
+   "jogador": "Rayan Corrêa",
+   "posicao": "",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Defensor",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-pedro-felipe-portuguesa",
+   "data": "2026-11-17",
+   "jogador": "Pedro Felipe",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-Mirassol",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Portuguesa",
+    "slug": "portuguesa",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/portuguesa-anuncia-atacante-ex-mirassol/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "portuguesa"
+  },
+  {
+   "id": "2026-11-17-nikollas-sena-penapolense",
+   "data": "2026-11-17",
+   "jogador": "Nikollas Sena",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Foz do Iguaçu",
+    "slug": "",
+    "id": 900052,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-oficializa-nikollas-sena/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 20,
+    "clubes": [
+     "Sampaio Corrêa",
+     "Foz do Iguaçu"
+    ],
+    "obs": "10 jogos por clube",
+    "fonte": "https://www.futebolinterior.com.br/penapolense-oficializa-nikollas-sena/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "penapolense"
+  },
+  {
+   "id": "2026-11-17-kleverson-rio-claro",
+   "data": "2026-11-17",
+   "jogador": "Kleverson",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Juventus-SC",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "clubes": [
+     "Rio Preto",
+     "Juventus-SC"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-gustavo-pereira-rio-claro",
+   "data": "2026-11-17",
+   "jogador": "Gustavo Pereira",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-chileno-rio-claro",
+   "data": "2026-11-17",
+   "jogador": "Chileno",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Rio Claro",
+    "slug": "rioclaro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "rioclaro"
+  },
+  {
    "id": "2026-11-17-adilson-bahia-taubate",
    "data": "2026-11-17",
    "jogador": "Adílson Bahia",
@@ -174,6 +406,104 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "taubate"
+  },
+  {
+   "id": "2026-11-16-patrick-brey",
+   "data": "2026-11-16",
+   "jogador": "Patrick Brey",
+   "posicao": "Lateral",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Não houve acordo para renovar",
+   "de": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.acidadeon.com/ribeiraopreto/esportes/botafogo-confirma-saida-de-seis-atletas-veja-quem-deixa-o-clube/",
+    "https://cbnribeirao.com.br/botafogo-sp-confirma-seis-saidas-anuncia-primeiros-reforcos-e-conta-com-27-jogadores-no-elenco/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 8,
+    "gols": 1,
+    "minutos": 676,
+    "minutos_estimados": false,
+    "clube": "Botafogo-SP",
+    "clubes": [
+     "Botafogo-SP"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
+  },
+  {
+   "id": "2026-11-16-marco-antonio",
+   "data": "2026-11-16",
+   "jogador": "Marco Antônio",
+   "posicao": "Meia",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.acidadeon.com/ribeiraopreto/esportes/botafogo-confirma-saida-de-seis-atletas-veja-quem-deixa-o-clube/",
+    "https://cbnribeirao.com.br/botafogo-sp-confirma-seis-saidas-anuncia-primeiros-reforcos-e-conta-com-27-jogadores-no-elenco/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 3,
+    "gols": 0,
+    "minutos": 66,
+    "minutos_estimados": true,
+    "clube": "Botafogo-SP",
+    "clubes": [
+     "Botafogo-SP"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
   },
   {
    "id": "2026-11-16-lucas-dias-lemense",
@@ -302,6 +632,189 @@
    "dono": "votuporanguense"
   },
   {
+   "id": "2026-11-16-leandro-maciel",
+   "data": "2026-11-16",
+   "jogador": "Leandro Maciel",
+   "posicao": "Volante",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Não houve acordo para renovar",
+   "de": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.acidadeon.com/ribeiraopreto/esportes/botafogo-confirma-saida-de-seis-atletas-veja-quem-deixa-o-clube/",
+    "https://cbnribeirao.com.br/botafogo-sp-confirma-seis-saidas-anuncia-primeiros-reforcos-e-conta-com-27-jogadores-no-elenco/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 7,
+    "gols": 1,
+    "minutos": 428,
+    "minutos_estimados": true,
+    "clube": "Botafogo-SP",
+    "clubes": [
+     "Botafogo-SP"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
+  },
+  {
+   "id": "2026-11-16-jefferson-nem",
+   "data": "2026-11-16",
+   "jogador": "Jefferson Nem",
+   "posicao": "Atacante",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.acidadeon.com/ribeiraopreto/esportes/botafogo-confirma-saida-de-seis-atletas-veja-quem-deixa-o-clube/",
+    "https://cbnribeirao.com.br/botafogo-sp-confirma-seis-saidas-anuncia-primeiros-reforcos-e-conta-com-27-jogadores-no-elenco/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 5,
+    "gols": 0,
+    "minutos": 110,
+    "minutos_estimados": true,
+    "clube": "Botafogo-SP",
+    "clubes": [
+     "Botafogo-SP"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
+  },
+  {
+   "id": "2026-11-16-heron-botafogo-sp",
+   "data": "2026-11-16",
+   "jogador": "Heron",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Contrato até o fim de 2027",
+   "de": {
+    "nome": "Londrina",
+    "slug": "",
+    "id": 900038,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://acidadeon.com/ribeiraopreto/esportes/botafogo-anuncia-dois-reforcos-para-a-temporada-2027",
+    "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 31,
+    "assistencias": 3,
+    "clubes": [
+     "Londrina"
+    ],
+    "obs": "Série B 2026",
+    "fonte": "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
+  },
+  {
+   "id": "2026-11-16-gustavo-barreto-botafogo-sp",
+   "data": "2026-11-16",
+   "jogador": "Gustavo Barreto",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "América-MG",
+    "slug": "",
+    "id": 900039,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://acidadeon.com/ribeiraopreto/esportes/botafogo-anuncia-dois-reforcos-para-a-temporada-2027",
+    "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
+  },
+  {
    "id": "2026-11-16-filipe-samuell-independente",
    "data": "2026-11-16",
    "jogador": "Filipe Samuell",
@@ -336,6 +849,55 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "independente"
+  },
+  {
+   "id": "2026-11-16-felipe-vieira",
+   "data": "2026-11-16",
+   "jogador": "Felipe Vieira",
+   "posicao": "Lateral",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.acidadeon.com/ribeiraopreto/esportes/botafogo-confirma-saida-de-seis-atletas-veja-quem-deixa-o-clube/",
+    "https://cbnribeirao.com.br/botafogo-sp-confirma-seis-saidas-anuncia-primeiros-reforcos-e-conta-com-27-jogadores-no-elenco/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 5,
+    "gols": 0,
+    "minutos": 156,
+    "minutos_estimados": true,
+    "clube": "Botafogo-SP",
+    "clubes": [
+     "Botafogo-SP"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
   },
   {
    "id": "2026-11-16-derick-paulista",
@@ -382,6 +944,44 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "paulista-jundiai"
+  },
+  {
+   "id": "2026-11-16-brenno",
+   "data": "2026-11-16",
+   "jogador": "Brenno",
+   "posicao": "Goleiro",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.acidadeon.com/ribeiraopreto/esportes/botafogo-confirma-saida-de-seis-atletas-veja-quem-deixa-o-clube/",
+    "https://cbnribeirao.com.br/botafogo-sp-confirma-seis-saidas-anuncia-primeiros-reforcos-e-conta-com-27-jogadores-no-elenco/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "botafogosp"
   },
   {
    "id": "2026-11-13-wesley-ituano",
@@ -805,6 +1405,42 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "taubate"
+  },
+  {
+   "id": "2026-11-13-bady-penapolense",
+   "data": "2026-11-13",
+   "jogador": "Bady",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Penapolense",
+    "slug": "penapolense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/penapolense-reforca-comissao-tecnica/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "penapolense"
   },
   {
    "id": "2026-11-12-werley-ferreira-penapolense",

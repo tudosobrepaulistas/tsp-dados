@@ -1,9 +1,9 @@
 {
- "gerado": "2026-11-18T02:25:00-03:00",
+ "gerado": "2026-11-18T06:58:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
-   "atualizado": "2026-11-12",
+   "atualizado": "2026-11-16",
    "fonte": "https://botafogofutebolsa.com.br/elenco-2023/",
    "jogadores": [
     {
@@ -35,10 +35,6 @@
       ],
       "fonte": "Base TSP (fichas técnicas conferidas)"
      }
-    },
-    {
-     "nome": "Brenno",
-     "posicao": "Goleiro"
     },
     {
      "nome": "Adriano",
@@ -139,21 +135,6 @@
      }
     },
     {
-     "nome": "Patrick Brey",
-     "posicao": "Lateral",
-     "numeros": {
-      "jogos": 8,
-      "gols": 1,
-      "minutos": 676,
-      "minutos_estimados": false,
-      "clube": "Botafogo-SP",
-      "clubes": [
-       "Botafogo-SP"
-      ],
-      "fonte": "Base TSP (fichas técnicas conferidas)"
-     }
-    },
-    {
      "nome": "Henrique Teles",
      "posicao": "Lateral"
     },
@@ -207,21 +188,6 @@
      }
     },
     {
-     "nome": "Felipe Vieira",
-     "posicao": "Lateral",
-     "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 156,
-      "minutos_estimados": true,
-      "clube": "Botafogo-SP",
-      "clubes": [
-       "Botafogo-SP"
-      ],
-      "fonte": "Base TSP (fichas técnicas conferidas)"
-     }
-    },
-    {
      "nome": "Erik",
      "posicao": "Volante"
     },
@@ -243,21 +209,6 @@
     {
      "nome": "Matheus Mineiro",
      "posicao": "Volante"
-    },
-    {
-     "nome": "Leandro Maciel",
-     "posicao": "Meia",
-     "numeros": {
-      "jogos": 7,
-      "gols": 1,
-      "minutos": 428,
-      "minutos_estimados": true,
-      "clube": "Botafogo-SP",
-      "clubes": [
-       "Botafogo-SP"
-      ],
-      "fonte": "Base TSP (fichas técnicas conferidas)"
-     }
     },
     {
      "nome": "Penha",
@@ -324,38 +275,8 @@
      }
     },
     {
-     "nome": "Marco Antônio",
-     "posicao": "Meia",
-     "numeros": {
-      "jogos": 3,
-      "gols": 0,
-      "minutos": 66,
-      "minutos_estimados": true,
-      "clube": "Botafogo-SP",
-      "clubes": [
-       "Botafogo-SP"
-      ],
-      "fonte": "Base TSP (fichas técnicas conferidas)"
-     }
-    },
-    {
      "nome": "Ruan",
      "posicao": "Meia"
-    },
-    {
-     "nome": "Jefferson Nem",
-     "posicao": "Atacante",
-     "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 110,
-      "minutos_estimados": true,
-      "clube": "Botafogo-SP",
-      "clubes": [
-       "Botafogo-SP"
-      ],
-      "fonte": "Base TSP (fichas técnicas conferidas)"
-     }
     },
     {
      "nome": "Guilherme Queiroz",
@@ -450,10 +371,95 @@
     {
      "nome": "Jadson",
      "posicao": "Atacante"
+    },
+    {
+     "nome": "Heron",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 31,
+      "assistencias": 3,
+      "clubes": [
+       "Londrina"
+      ],
+      "obs": "Série B 2026",
+      "fonte": "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Londrina"
+    },
+    {
+     "nome": "Gustavo Barreto",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "América-MG"
     }
    ],
-   "chegaram": [],
-   "sairam": []
+   "chegaram": [
+    {
+     "nome": "Heron",
+     "de": "Londrina",
+     "tipo": "Contratação",
+     "data": "2026-11-16"
+    },
+    {
+     "nome": "Gustavo Barreto",
+     "de": "América-MG",
+     "tipo": "Contratação",
+     "data": "2026-11-16"
+    }
+   ],
+   "sairam": [
+    {
+     "nome": "Patrick Brey",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-16",
+     "estava_no_elenco": true
+    },
+    {
+     "nome": "Marco Antônio",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-16",
+     "estava_no_elenco": true
+    },
+    {
+     "nome": "Leandro Maciel",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-16",
+     "estava_no_elenco": true
+    },
+    {
+     "nome": "Jefferson Nem",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-16",
+     "estava_no_elenco": true
+    },
+    {
+     "nome": "Felipe Vieira",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-16",
+     "estava_no_elenco": true
+    },
+    {
+     "nome": "Brenno",
+     "para": "",
+     "tipo": "Saída",
+     "data": "2026-11-16",
+     "estava_no_elenco": true
+    }
+   ]
   },
   "bragantino": {
    "atualizado": "2026-11-15T03:52:00-03:00",
@@ -729,7 +735,7 @@
      "numero": 8,
      "numeros": {
       "jogos": 5,
-      "gols": 1,
+      "gols": 2,
       "minutos": 329,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
@@ -850,9 +856,9 @@
      "nome": "Hugo Souza",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 540,
+      "minutos": 630,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -863,7 +869,18 @@
     },
     {
      "nome": "Kauê",
-     "posicao": "Goleiro"
+     "posicao": "Goleiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "André Ramalho",
@@ -884,9 +901,9 @@
      "nome": "Gabriel Paulista",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 316,
+      "minutos": 406,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -899,9 +916,9 @@
      "nome": "Gustavo Henrique",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 5,
+      "jogos": 7,
       "gols": 2,
-      "minutos": 450,
+      "minutos": 630,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -912,7 +929,18 @@
     },
     {
      "nome": "Iago Machado",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "João Pedro",
@@ -956,9 +984,9 @@
      "nome": "Matheuzinho",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 5,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 360,
+      "minutos": 540,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -986,9 +1014,9 @@
      "nome": "Matheus Bidu",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 6,
+      "jogos": 8,
       "gols": 2,
-      "minutos": 450,
+      "minutos": 608,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1005,9 +1033,9 @@
      "nome": "Allan",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1020,9 +1048,9 @@
      "nome": "André",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 338,
+      "jogos": 7,
+      "gols": 1,
+      "minutos": 496,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1050,9 +1078,9 @@
      "nome": "Breno Bidon",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 6,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 406,
+      "minutos": 542,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1065,9 +1093,9 @@
      "nome": "Charles",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 158,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1080,9 +1108,9 @@
      "nome": "Dieguinho",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 156,
+      "minutos": 178,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1114,9 +1142,9 @@
      "nome": "Matheus Pereira",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 2,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 44,
+      "minutos": 88,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1129,9 +1157,9 @@
      "nome": "Raniele",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 270,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1159,9 +1187,9 @@
      "nome": "Gui Negão",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 202,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1174,9 +1202,9 @@
      "nome": "Kaio César",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 316,
+      "minutos": 406,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1193,9 +1221,9 @@
      "nome": "Labyad",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1208,9 +1236,9 @@
      "nome": "Lingard",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 1,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 66,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1223,9 +1251,9 @@
      "nome": "Memphis",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 68,
+      "minutos": 136,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1238,9 +1266,9 @@
      "nome": "Pedro Raul",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 202,
+      "minutos": 224,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1268,9 +1296,9 @@
      "nome": "Yuri Alberto",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 270,
+      "minutos": 338,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1582,7 +1610,7 @@
      "numero": 8,
      "numeros": {
       "jogos": 9,
-      "gols": 0,
+      "gols": 1,
       "minutos": 428,
       "minutos_estimados": true,
       "clube": "Mirassol",
@@ -2255,9 +2283,9 @@
      "posicao": "Goleiro",
      "numero": 1,
      "numeros": {
-      "jogos": 5,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 480,
+      "minutos": 750,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2313,9 +2341,9 @@
      "posicao": "Zagueiro",
      "numero": 15,
      "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 436,
+      "jogos": 8,
+      "gols": 1,
+      "minutos": 706,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2329,9 +2357,9 @@
      "posicao": "Zagueiro",
      "numero": 26,
      "numeros": {
-      "jogos": 4,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 360,
+      "minutos": 630,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2350,9 +2378,9 @@
      "posicao": "Lateral",
      "numero": 12,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 248,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2392,9 +2420,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 4,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 210,
+      "minutos": 414,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2406,16 +2434,27 @@
     {
      "nome": "Emiliano Martínez",
      "posicao": "Meia",
-     "numero": 32
+     "numero": 32,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Felipe Anderson",
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 1,
+      "jogos": 4,
       "gols": 1,
-      "minutos": 22,
+      "minutos": 88,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2445,9 +2484,9 @@
      "posicao": "Meia",
      "numero": 30,
      "numeros": {
-      "jogos": 3,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 210,
+      "minutos": 322,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2461,9 +2500,9 @@
      "posicao": "Meia",
      "numero": 17,
      "numeros": {
-      "jogos": 4,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 368,
+      "minutos": 638,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2477,10 +2516,10 @@
      "posicao": "Meia",
      "numero": 18,
      "numeros": {
-      "jogos": 4,
-      "gols": 3,
-      "minutos": 316,
-      "minutos_estimados": false,
+      "jogos": 7,
+      "gols": 4,
+      "minutos": 450,
+      "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
        "Palmeiras"
@@ -2493,10 +2532,10 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 3,
+      "jogos": 6,
       "gols": 2,
-      "minutos": 248,
-      "minutos_estimados": false,
+      "minutos": 406,
+      "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
        "Palmeiras"
@@ -2519,9 +2558,9 @@
      "posicao": "Atacante",
      "numero": 19,
      "numeros": {
-      "jogos": 2,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 120,
+      "minutos": 164,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2535,9 +2574,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 232,
+      "jogos": 7,
+      "gols": 1,
+      "minutos": 368,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2703,9 +2742,9 @@
      "posicao": "Meia",
      "numero": 16,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 360,
+      "minutos": 450,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2719,9 +2758,9 @@
      "posicao": "Atacante",
      "numero": 17,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 90,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2735,9 +2774,9 @@
      "posicao": "Lateral",
      "numero": 18,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 248,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2751,9 +2790,9 @@
      "posicao": "Lateral",
      "numero": 19,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 112,
+      "minutos": 180,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2772,10 +2811,10 @@
      "posicao": "Lateral",
      "numero": 21,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 68,
-      "minutos_estimados": false,
+      "minutos": 90,
+      "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
        "São Paulo"
@@ -2804,9 +2843,9 @@
      "posicao": "Goleiro",
      "numero": 23,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 630,
+      "minutos": 720,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2883,9 +2922,9 @@
      "posicao": "Zagueiro",
      "numero": 35,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 338,
+      "minutos": 428,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2899,9 +2938,9 @@
      "posicao": "Atacante",
      "numero": 37,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 158,
+      "minutos": 248,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3003,9 +3042,9 @@
      "posicao": "Meia",
      "numero": 80,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 1,
-      "minutos": 96,
+      "minutos": 164,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3019,9 +3058,9 @@
      "posicao": "Meia",
      "numero": 94,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 197,
+      "minutos": 287,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -5056,7 +5095,7 @@
    "sairam": []
   },
   "rioclaro": {
-   "atualizado": "2026-11-09",
+   "atualizado": "2026-11-17",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -5205,6 +5244,53 @@
      "selos": [],
      "nascimento": "",
      "de": ""
+    },
+    {
+     "nome": "Rayan Corrêa",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Kleverson",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Rio Preto",
+       "Juventus-SC"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Juventus-SC"
+    },
+    {
+     "nome": "Gustavo Pereira",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Chileno",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
     }
    ],
    "chegaram": [
@@ -5261,6 +5347,30 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-09"
+    },
+    {
+     "nome": "Rayan Corrêa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Kleverson",
+     "de": "Juventus-SC",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Gustavo Pereira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Chileno",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
     }
    ],
    "sairam": []
@@ -5601,7 +5711,7 @@
    "sairam": []
   },
   "penapolense": {
-   "atualizado": "2026-11-13",
+   "atualizado": "2026-11-17",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -5881,6 +5991,35 @@
      "selos": [],
      "nascimento": "",
      "de": "União São João"
+    },
+    {
+     "nome": "Bady",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Nikollas Sena",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 20,
+      "clubes": [
+       "Sampaio Corrêa",
+       "Foz do Iguaçu"
+      ],
+      "obs": "10 jogos por clube",
+      "fonte": "https://www.futebolinterior.com.br/penapolense-oficializa-nikollas-sena/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Foz do Iguaçu"
     }
    ],
    "chegaram": [
@@ -5967,6 +6106,18 @@
      "de": "União São João",
      "tipo": "Contratação",
      "data": "2026-11-13"
+    },
+    {
+     "nome": "Bady",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    },
+    {
+     "nome": "Nikollas Sena",
+     "de": "Foz do Iguaçu",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
     }
    ],
    "sairam": []
@@ -6284,7 +6435,7 @@
    "sairam": []
   },
   "portuguesa": {
-   "atualizado": "2026-11-10",
+   "atualizado": "2026-11-17",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -6327,6 +6478,16 @@
      "selos": [],
      "nascimento": "",
      "de": "Água Santa"
+    },
+    {
+     "nome": "Pedro Felipe",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
     }
    ],
    "chegaram": [
@@ -6353,6 +6514,12 @@
      "de": "Água Santa",
      "tipo": "Contratação",
      "data": "2026-11-10"
+    },
+    {
+     "nome": "Pedro Felipe",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
     }
    ],
    "sairam": []
