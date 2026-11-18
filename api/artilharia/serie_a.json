@@ -6,6 +6,18 @@
   "gols": 5
  },
  {
+  "jogador": "Gabigol",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 4
+ },
+ {
+  "jogador": "John Kennedy",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 4
+ },
+ {
   "jogador": "Pedro",
   "time": "Flamengo",
   "time_id": 900001,
@@ -30,12 +42,6 @@
   "gols": 3
  },
  {
-  "jogador": "Gabigol",
-  "time": "Santos",
-  "time_id": 900008,
-  "gols": 3
- },
- {
   "jogador": "Kaio Jorge",
   "time": "Cruzeiro",
   "time_id": 900003,
@@ -45,6 +51,18 @@
   "jogador": "Lavega",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 3
+ },
+ {
+  "jogador": "Mauricio",
+  "time": "Palmeiras",
+  "time_id": 900002,
+  "gols": 3
+ },
+ {
+  "jogador": "Rodrigo Castillo",
+  "time": "Fluminense",
+  "time_id": 900005,
   "gols": 3
  },
  {
@@ -60,9 +78,27 @@
   "gols": 3
  },
  {
+  "jogador": "Canobbio",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 2
+ },
+ {
+  "jogador": "Hércules",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 2
+ },
+ {
   "jogador": "Jhon Arias",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 2
+ },
+ {
+  "jogador": "Lucho Acosta",
+  "time": "Fluminense",
+  "time_id": 900005,
   "gols": 2
  },
  {
@@ -78,15 +114,15 @@
   "gols": 2
  },
  {
-  "jogador": "Mauricio",
-  "time": "Palmeiras",
-  "time_id": 900002,
-  "gols": 2
- },
- {
   "jogador": "Neymar",
   "time": "Santos",
   "time_id": 900008,
+  "gols": 2
+ },
+ {
+  "jogador": "Savarino",
+  "time": "Fluminense",
+  "time_id": 900005,
   "gols": 2
  },
  {
@@ -114,9 +150,21 @@
   "gols": 1
  },
  {
+  "jogador": "Allan",
+  "time": "Palmeiras",
+  "time_id": 900002,
+  "gols": 1
+ },
+ {
   "jogador": "Amuzu",
   "time": "Grêmio",
   "time_id": 900017,
+  "gols": 1
+ },
+ {
+  "jogador": "André",
+  "time": "Corinthians",
+  "time_id": 900018,
   "gols": 1
  },
  {
@@ -141,6 +189,12 @@
   "jogador": "Balbuena",
   "time": "Grêmio",
   "time_id": 900017,
+  "gols": 1
+ },
+ {
+  "jogador": "Barreal",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 1
  },
  {
@@ -180,7 +234,7 @@
   "gols": 1
  },
  {
-  "jogador": "Canobbio",
+  "jogador": "Cano",
   "time": "Fluminense",
   "time_id": 900005,
   "gols": 1
@@ -204,9 +258,21 @@
   "gols": 1
  },
  {
+  "jogador": "Denilson",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
   "jogador": "Dudu",
   "time": "Athletico-PR",
   "time_id": 900004,
+  "gols": 1
+ },
+ {
+  "jogador": "Dória",
+  "time": "São Paulo",
+  "time_id": 900009,
   "gols": 1
  },
  {
@@ -225,6 +291,12 @@
   "jogador": "Eduardo Doma",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Eduardo Sasha",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
   "gols": 1
  },
  {
@@ -282,6 +354,12 @@
   "gols": 1
  },
  {
+  "jogador": "Gustavo Gómez",
+  "time": "Palmeiras",
+  "time_id": 900002,
+  "gols": 1
+ },
+ {
   "jogador": "Gustavo Henrique",
   "time": "Corinthians",
   "time_id": 900018,
@@ -294,7 +372,13 @@
   "gols": 1
  },
  {
-  "jogador": "Hércules",
+  "jogador": "Hulk",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 1
+ },
+ {
+  "jogador": "Ignácio",
   "time": "Fluminense",
   "time_id": 900005,
   "gols": 1
@@ -315,12 +399,6 @@
   "jogador": "Jajá",
   "time": "Remo",
   "time_id": 900019,
-  "gols": 1
- },
- {
-  "jogador": "John Kennedy",
-  "time": "Fluminense",
-  "time_id": 900005,
   "gols": 1
  },
  {
@@ -387,12 +465,6 @@
   "jogador": "Lucas Ronier",
   "time": "Coritiba",
   "time_id": 900012,
-  "gols": 1
- },
- {
-  "jogador": "Lucho Acosta",
-  "time": "Fluminense",
-  "time_id": 900005,
   "gols": 1
  },
  {
@@ -486,12 +558,6 @@
   "gols": 1
  },
  {
-  "jogador": "Rodrigo Castillo",
-  "time": "Fluminense",
-  "time_id": 900005,
-  "gols": 1
- },
- {
   "jogador": "Rodrigo Nestor",
   "time": "Bahia",
   "time_id": 900007,
@@ -504,7 +570,7 @@
   "gols": 1
  },
  {
-  "jogador": "Savarino",
+  "jogador": "Serna",
   "time": "Fluminense",
   "time_id": 900005,
   "gols": 1
@@ -531,6 +597,12 @@
   "jogador": "Tinga",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 1
+ },
+ {
+  "jogador": "Vitor Roque",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 1
  },
  {

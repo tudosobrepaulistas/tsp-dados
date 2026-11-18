@@ -2190,7 +2190,91 @@
     "https://www.oliberal.com/esportes/palmeiras-sofre-em-casa-mas-vence-fluminense-nos-penaltis-para-ir-a-final-da-libertadores-1.1185369",
     "https://m.imirante.com/esporte/brasil/2026/10/21/palmeiras-elimina-fluminense-penaltis-avanca-final"
    ],
-   "atualizado": "2026-11-08T00:20:00-03:00"
+   "atualizado": "2026-11-08T00:20:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Thiago Silva, Millán, Arana; Nonato, Martinelli, Ganso; Canobbio, Savarino, Hulk",
+     "entraram": [
+      {
+       "jogador": "Hércules",
+       "saiu": "Martinelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucho Acosta",
+       "saiu": "Ganso",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley Natã",
+       "saiu": "Savarino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Castillo",
+       "saiu": "Hulk",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Nonato",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "João Martins",
+     "time": "Carlos Miguel; Murilo, Gustavo Gómez, Barboza; Giay, Marlon Freitas, Lucas Evangelista, Andreas Pereira, Piquerez; Jhon Arias, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Mauricio",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Jhon Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramón Sosa",
+       "saiu": "Flaco López",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Barboza",
+        "minuto": ""
+       },
+       {
+        "jogador": "Mauricio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Giay",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/palmeiras/fluminense-x-palmeiras-ida-semifinal-libertadores-14-10-2026/"
+    ],
+    "atualizado": "2026-11-18T03:42:00-03:00"
+   }
   },
   {
    "id": 91000180,

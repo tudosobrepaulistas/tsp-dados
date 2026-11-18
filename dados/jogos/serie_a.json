@@ -972,6 +972,154 @@
    }
   },
   {
+   "id": 91000393,
+   "data": "2026-02-25T20:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Barueri",
+   "cidade": "Barueri",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Vitor Roque",
+     "minuto": "8",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Allan",
+     "minuto": "12",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Lucho Acosta",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-forca-total-vence-fluminense-brasileirao/",
+    "https://www.oliberal.com/esportes/palmeiras-vence-em-reencontro-de-arias-com-o-flu-e-mantem-a-lideranca-do-brasileirao-1.1089798"
+   ],
+   "atualizado": "2026-11-18T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Khellven, Gustavo Gómez, Murilo, Piquerez; Marlon Freitas, Andreas Pereira, Allan, Mauricio; Flaco López, Vitor Roque",
+     "entraram": [
+      {
+       "jogador": "Giay",
+       "saiu": "Khellven",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Evangelista",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhon Arias",
+       "saiu": "Flaco López",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramón Sosa",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Khellven",
+        "minuto": ""
+       },
+       {
+        "jogador": "Jhon Arias",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marlon Freitas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Luis Zubeldía",
+     "time": "Fábio; Guga, Ignácio, Freytes, Arana; Bernal, Martinelli, Lucho Acosta; Savarino, Serna, Ganso",
+     "entraram": [
+      {
+       "jogador": "Otávio",
+       "saiu": "Bernal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hércules",
+       "saiu": "Martinelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Soteldo",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "John Kennedy",
+       "saiu": "Serna",
+       "minuto": ""
+      },
+      {
+       "jogador": "Santi Moreno",
+       "saiu": "Ganso",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fábio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Freytes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Martinelli",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ignácio",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-forca-total-vence-fluminense-brasileirao/"
+    ],
+    "atualizado": "2026-11-18T03:38:00-03:00"
+   }
+  },
+  {
    "id": 91000363,
    "data": "2026-02-26T19:00:00-03:00",
    "casa": "santos",
@@ -1885,6 +2033,153 @@
    }
   },
   {
+   "id": 91000394,
+   "data": "2026-04-01T21:30:00-03:00",
+   "casa": "fluminense",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "9",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "John Kennedy",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Hércules",
+     "minuto": "45+2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Rodrigo Castillo",
+     "minuto": "82",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "André",
+     "minuto": "88",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-perde-do-fluminense-ve-jejum-aumentar-e-deixa-dorival-sob-pressao/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/pelo-brasileiro-fluminense-vence-o-corinthians-e-segue-na-cola-do-lider-palmeiras/"
+   ],
+   "atualizado": "2026-11-18T03:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luis Zubeldía",
+     "time": "Fábio; Samuel Xavier, Jemmes, Freytes, Renê; Martinelli, Hércules, Lucho Acosta; Savarino, Serna, John Kennedy",
+     "entraram": [
+      {
+       "jogador": "Cano",
+       "saiu": "Martinelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson",
+       "saiu": "Hércules",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Soteldo",
+       "saiu": "Serna",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Castillo",
+       "saiu": "John Kennedy",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucho Acosta",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Dorival Júnior",
+     "time": "Kauê; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; Allan, Charles, André, Breno Bidon, Garro; Yuri Alberto",
+     "entraram": [
+      {
+       "jogador": "Angileri",
+       "saiu": "Matheus Bidu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Charles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lingard",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Labyad",
+       "saiu": "Yuri Alberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Bidu",
+        "minuto": ""
+       },
+       {
+        "jogador": "André",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Pereira",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Allan",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-perde-do-fluminense-ve-jejum-aumentar-e-deixa-dorival-sob-pressao/"
+    ],
+    "atualizado": "2026-11-18T03:39:00-03:00"
+   }
+  },
+  {
    "id": 91000350,
    "data": "2026-04-04T20:30:00-03:00",
    "casa": "coritiba",
@@ -2193,6 +2488,525 @@
    "atualizado": "2026-11-13T03:38:00-03:00"
   },
   {
+   "id": 91000397,
+   "data": "2026-04-19T16:00:00-03:00",
+   "casa": "santos",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "12",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 2,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gabigol",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Savarino",
+     "minuto": "24",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Barreal",
+     "minuto": "56",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Rodrigo Castillo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "John Kennedy",
+     "minuto": "85",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/santos/neymar-perde-chance-e-santos-toma-virada-do-fluminense-pelo-brasileirao/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nacional/2026/04/11712503-neymar-perde-gol-e-fluminense-vira-sobre-o-santos-na-vila-belmiro-pelo-brasileirao.html"
+   ],
+   "atualizado": "2026-11-18T03:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuquinha",
+     "time": "Gabriel Brazão; Igor Vinícius, Lucas Veríssimo, Luan Peres, Barreal; Willian Arão, Gustavo Henrique, Gabriel Bontempo, Moisés; Neymar, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Lautaro Díaz",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Gustavo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thaciano",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Gonzaga",
+       "saiu": "Moisés",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Igor Vinícius",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Veríssimo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabigol",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luan Peres",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Luis Zubeldía",
+     "time": "Fábio; Guga, Jemmes, Freytes, Arana; Bernal, Hércules, Alisson; Savarino, Serna, Rodrigo Castillo",
+     "entraram": [
+      {
+       "jogador": "Otávio",
+       "saiu": "Bernal",
+       "minuto": ""
+      },
+      {
+       "jogador": "John Kennedy",
+       "saiu": "Alisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Savarino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renê",
+       "saiu": "Serna",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Rodrigo Castillo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bernal",
+        "minuto": ""
+       },
+       {
+        "jogador": "Alisson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Otávio",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/santos/neymar-perde-chance-e-santos-toma-virada-do-fluminense-pelo-brasileirao/"
+    ],
+    "atualizado": "2026-11-18T03:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000396,
+   "data": "2026-05-16T19:00:00-03:00",
+   "casa": "fluminense",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "John Kennedy",
+     "minuto": "18",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Canobbio",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Dória",
+     "minuto": "78",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3788819",
+    "https://jovempan.com.br/esportes/futebol/sao-paulo-futebol/sao-paulo-perde-para-o-fluminense-e-estaciona-no-quarto-lugar-do-brasileirao.html"
+   ],
+   "atualizado": "2026-11-18T03:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luis Zubeldía",
+     "time": "Fábio; Guga, Ignácio, Freytes, Arana; Hércules, Nonato, Lucho Acosta; Canobbio, Savarino, John Kennedy",
+     "entraram": [
+      {
+       "jogador": "Bernal",
+       "saiu": "Nonato",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Soteldo",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Castillo",
+       "saiu": "John Kennedy",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bernal",
+        "minuto": ""
+       },
+       {
+        "jogador": "Savarino",
+        "minuto": ""
+       },
+       {
+        "jogador": "Freytes",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Milton Cruz",
+     "time": "Rafael; Lucas Ramon, Dória, Sabino, Wendell, Enzo Díaz; Bobadilla, Danielzinho, Cauly; Artur, André Silva",
+     "entraram": [
+      {
+       "jogador": "Cédric",
+       "saiu": "Lucas Ramon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan",
+       "saiu": "Wendell",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ferreirinha",
+       "saiu": "Cauly",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tapia",
+       "saiu": "André Silva",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "André Silva",
+        "minuto": ""
+       },
+       {
+        "jogador": "Artur",
+        "minuto": ""
+       },
+       {
+        "jogador": "Bobadilla",
+        "minuto": ""
+       },
+       {
+        "jogador": "Enzo Díaz",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3788819"
+    ],
+    "atualizado": "2026-11-18T03:40:00-03:00"
+   }
+  },
+  {
+   "id": 91000398,
+   "data": "2026-05-23T19:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "17",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maião",
+   "cidade": "Mirassol",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Denilson",
+     "minuto": "35",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-perde-mirassol-brasileiro-serie-vitorias-interrompida/",
+    "https://www.terra.com.br/esportes/fluminense/fluminense-joga-mal-e-perde-para-o-mirassol-no-maiao,21138f12eabce6ea60f1d3315fbc710eb9v22hr8.html"
+   ],
+   "atualizado": "2026-11-18T03:41:00-03:00"
+  },
+  {
+   "id": 91000399,
+   "data": "2026-07-17T20:00:00-03:00",
+   "casa": "fluminense",
+   "fora": "bragantino",
+   "status": "encerrado",
+   "rodada": "19",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Eduardo Sasha",
+     "minuto": "26",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ignácio",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/fluminense/com-gol-no-fim-fluminense-busca-empate-com-o-bragantino-pelo-brasileirao/",
+    "https://www.terra.com.br/esportes/fluminense/fluminense-evita-derrota-para-o-bragantino-aos-58-da-etapa-final,8b1796374fa5159bb054a1c4ec923a415jw2oz0s.html"
+   ],
+   "atualizado": "2026-11-18T03:42:00-03:00"
+  },
+  {
+   "id": 91000395,
+   "data": "2026-08-15T16:30:00-03:00",
+   "casa": "fluminense",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Gómez",
+     "minuto": "9",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Hulk",
+     "minuto": "41",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Mauricio",
+     "minuto": "82",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Serna",
+     "minuto": "85",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Cano",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/palmeiras/fluminense-x-palmeiras-brasileirao-15-08-2026/",
+    "https://www.palmeiras.com.br/noticias/palmeiras-e-superado-pelo-fluminense-no-maracana-pelo-campeonato-brasileiro-3/"
+   ],
+   "atualizado": "2026-11-18T03:39:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Igor Rabello, Jemmes, Renê; Martinelli, Hércules, Ganso; Canobbio, Soteldo, Hulk",
+     "entraram": [
+      {
+       "jogador": "Millán",
+       "saiu": "Igor Rabello",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nonato",
+       "saiu": "Hércules",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucho Acosta",
+       "saiu": "Ganso",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Soteldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cano",
+       "saiu": "Hulk",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Guga",
+        "minuto": ""
+       },
+       {
+        "jogador": "Canobbio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Martinelli",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Giay, Gustavo Gómez, Murilo, Piquerez; Marlon Freitas, Andreas Pereira, Jhon Arias; Allan, Vitor Roque, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Arthur Gabriel",
+       "saiu": "Piquerez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Emiliano Martínez",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mauricio",
+       "saiu": "Jhon Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramón Sosa",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Ramón Sosa",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Piquerez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Gómez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Arthur Gabriel",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/palmeiras/fluminense-x-palmeiras-brasileirao-15-08-2026/"
+    ],
+    "atualizado": "2026-11-18T03:39:00-03:00"
+   }
+  },
+  {
    "id": 91000051,
    "data": "2026-09-19T16:00:00-03:00",
    "casa": "atletico-mg",
@@ -2445,7 +3259,112 @@
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-fluminense-brasileirao-20-09-2026/",
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/hulk-faz-dois-fluminense-bate-o-corinthians-e-afunda-rival-em-crise,c53f1bf3a40c53bb2bbe3253d6355bcag9wdrea3.html"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Diniz",
+     "time": "Hugo Souza; Matheuzinho, Iago Machado, Gustavo Henrique, Matheus Bidu; Raniele, André, Garro, Breno Bidon; Memphis, Kaio César",
+     "entraram": [
+      {
+       "jogador": "Gui Negão",
+       "saiu": "Iago Machado",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lingard",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Memphis",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Memphis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheuzinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "André",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Samuel Xavier, Thiago Silva, Millán, Renê; Martinelli, Nonato, Lucho Acosta; Canobbio, Serna, Hulk",
+     "entraram": [
+      {
+       "jogador": "Julio Fidelis",
+       "saiu": "Samuel Xavier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hércules",
+       "saiu": "Nonato",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Castillo",
+       "saiu": "Hulk",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Samuel Xavier",
+        "minuto": ""
+       },
+       {
+        "jogador": "Martinelli",
+        "minuto": ""
+       },
+       {
+        "jogador": "Canobbio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Julio Fidelis",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nonato",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-fluminense-brasileirao-20-09-2026/"
+    ],
+    "atualizado": "2026-11-18T03:32:00-03:00"
+   }
   },
   {
    "id": 91000057,
@@ -2942,7 +3861,108 @@
     "https://www.lance.com.br/futebol-nacional/flamengo-domina-vence-o-fluminense-e-segue-lider-do-brasileirao.html",
     "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-fluminense-em-dia-de-protestos-e-segue-lider-do-brasileirao/"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Léo Pereira, Alex Sandro; Saúl, Pulgar; Lino, Paquetá, Carrascal; Pedro",
+     "entraram": [
+      {
+       "jogador": "Freitas",
+       "saiu": "Saúl",
+       "minuto": ""
+      },
+      {
+       "jogador": "Plata",
+       "saiu": "Lino",
+       "minuto": ""
+      },
+      {
+       "jogador": "De La Cruz",
+       "saiu": "Paquetá",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo",
+       "saiu": "Carrascal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Pedro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Pulgar",
+        "minuto": ""
+       },
+       {
+        "jogador": "Saúl",
+        "minuto": ""
+       },
+       {
+        "jogador": "Freitas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Arana, Millán, Ignácio, Samuel Xavier; Martinelli, Nonato; Soteldo, Lucho Acosta, Canobbio; Rodrigo Castillo",
+     "entraram": [
+      {
+       "jogador": "Serna",
+       "saiu": "Soteldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Savarino",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hulk",
+       "saiu": "Rodrigo Castillo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucho Acosta",
+        "minuto": ""
+       },
+       {
+        "jogador": "Canobbio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ignácio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Arana",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-x-fluminense-campeonato-brasileiro-11-10-26/"
+    ],
+    "atualizado": "2026-11-18T03:37:00-03:00"
+   }
   },
   {
    "id": 91000075,
@@ -3422,7 +4442,97 @@
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-santos-brasileirao-2026/",
     "https://www.lance.com.br/futebol-nacional/fluminense-santos-brasileiro-maracana-18102026.html"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Samuel Xavier, Ignácio, Igor Rabello, Renê; Nonato, Hércules, Lucho Acosta; Canobbio, Soteldo, Rodrigo Castillo",
+     "entraram": [
+      {
+       "jogador": "Serna",
+       "saiu": "Nonato",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley Natã",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Savarino",
+       "saiu": "Soteldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hulk",
+       "saiu": "Rodrigo Castillo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Canobbio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Savarino",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, Lucas Veríssimo, Luan Peres, Barreal; Gustavo Henrique, Gabriel Bontempo, Philippe Coutinho; Neymar, Gabigol, Everton Cebolinha",
+     "entraram": [
+      {
+       "jogador": "João Alencar",
+       "saiu": "Lucas Veríssimo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Gonzaga",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Neymar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Oliva",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Barreal",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/fluminense-x-santos-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-18T03:32:00-03:00"
+   }
   },
   {
    "id": 91000087,
