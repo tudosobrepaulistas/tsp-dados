@@ -1,90 +1,6 @@
 {
- "gerado": "2026-11-18T10:31-03:00",
+ "gerado": "2026-11-18T11:00-03:00",
  "avisos": [
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Contratações já publicadas; Luizão só em 1 fonte",
-   "sugestao": "Reapresentação do elenco com o técnico Danilo Sacramento"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Apresentação do elenco prevista para a 2ª quinzena de novembro, sem matéria ainda",
-   "sugestao": "Cobrir a apresentação do elenco e do técnico"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Nada sobre 2027 nos últimos 7 dias; histórias bloqueadas pela regra dos 14 dias",
-   "sugestao": "Técnico e elenco de 2027"
-  },
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Técnico ainda não definido (já publicado em 14/11)",
-   "sugestao": "Anúncio do técnico, prometido até o fim de novembro"
-  },
-  {
-   "clube": "batatais",
-   "nome": "Batatais",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Sem notícia recente e sem foto livre",
-   "sugestao": "Guia do Estádio Dr. Osvaldo Scatena e o apelido Fantasma da Mogiana, com foto do clube (conferir capacidade)"
-  },
-  {
-   "clube": "itaquaquecetuba",
-   "nome": "Itaquaquecetuba",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Sem notícia nova; fontes discordam sobre a campanha na Copinha 2026",
-   "sugestao": "Campanha do Itaquá na Copinha 2026 conferida em 2 fontes, com foto do clube"
-  },
-  {
-   "clube": "josebonifacio",
-   "nome": "José Bonifácio",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Nenhuma notícia dos últimos 7 dias e nenhuma foto livre segura",
-   "sugestao": "Planejamento para a Segunda Divisão 2027 (técnico, peneira, elenco)"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Nenhuma notícia dos últimos 7 dias e nenhuma foto livre segura",
-   "sugestao": "Planejamento para a Segunda Divisão 2027 (técnico, peneira, elenco)"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Sem notícia desde março; sem foto livre para evergreen",
-   "sugestao": "Balanço da 1ª temporada no Paulistão F e planos para a Copa Paulista Feminina, com a técnica"
-  },
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Copa Paulista 2027 já coberta em 15/11; nada novo",
-   "sugestao": "Elenco e comissão para a Copa Paulista Feminina (comunicado oficial ou jornais do Vale)"
-  },
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Datas da Copinha F só em site de torcida; play-in já coberto",
-   "sugestao": "Estreia na Copinha Feminina contra o Ação-MT (25/11), com o comunicado oficial do clube"
-  },
-  {
-   "clube": "palmeiras-feminino",
-   "nome": "Palmeiras Feminino",
-   "quando": "2026-11-17T06:28-03:00",
-   "motivo": "Nada novo nos últimos 7 dias além do já publicado",
-   "sugestao": "Palestrinas na Copinha F: datas dos jogos do Grupo A no Canindé, pela tabela da FPF"
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +336,90 @@
    "quando": "2026-11-18T10:31-03:00",
    "motivo": "cobertura 6h bloco A2: sem notícia nova nas últimas 48h em fontes aceitas para Monte Azul, Sertãozinho, Inter de Limeira e Portuguesa Santista; pauta do Taubaté já publicada; Danilo Barcelos na Inter ainda não oficializado",
    "sugestao": "Anúncio oficial de Danilo Barcelos pela Inter de Limeira (encaminhado desde 11/11) ou técnico do Monte Azul para a A2 2027"
+  },
+  {
+   "clube": "ferroviaria-feminino",
+   "nome": "Ferroviária Feminino",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Final do Paulista Feminino Sub-17 contra o São Paulo (dom 22/11, 11h, em Jaú, TV Brasil) só confirmada por 1 fonte (O Curioso do Futebol, citando a FPF); clube sem post e foto acessível",
+   "sugestao": "Prévia da final do Paulista Feminino Sub-17 Ferroviária x São Paulo, domingo 22/11, 11h, em Jaú (jogo único, TV Brasil): conferir estádio e horário na tabela da FPF; ver https://www.ocuriosodofutebol.com.br/2026/11/ferroviaria-sao-paulo-final-paulista-feminino-sub-17-2026.html"
+  },
+  {
+   "clube": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Volta do play-in com o Bragantino já coberta (Bragantino 2 x 0, 17/11); sem fato novo confirmado e sem foto acessível",
+   "sugestao": "Prévia Corinthians x Red Bull Bragantino, volta do play-in do Paulistão Feminino, domingo 22/11, 11h, na Fazendinha: Brabas precisam vencer por 2 gols para levar aos pênaltis (Tribuna do Sertão, 18/11). Incluir provável time de Júlia Passero"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Volta com o São Paulo já coberta hoje; tabela da Copinha Feminina (grupo E, CERET) sem datas em 2 fontes acessíveis",
+   "sugestao": "Santos na Copinha Feminina 2026 (grupo E, CERET, com Botafogo, Internacional e Sport, 24/11 a 12/12): datas e horários dos 3 jogos pela tabela da FPF; Costa Norte já publicou (https://costanorte.com.br/esportes/futebolnacional/santos/santos-conhece-datas-e-horarios-dos-jogos-na-copinha-feminina-2026.html)"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Nenhuma notícia do time feminino nos últimos 7 dias; evergreen bloqueado (história em 06/11)",
+   "sugestao": "Balanço do 1º ano do Mirassol Feminino no Paulistão 2026 e planos para 2027 (técnica Carine Bosetti): pedir entrevista ao clube"
+  },
+  {
+   "clube": "taubate-feminino",
+   "nome": "Taubaté Feminino",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Resultados da base contra o São José (14 e 15/11) não encontrados em 2 fontes; evergreen bloqueado (história em 06/11)",
+   "sugestao": "Resultado dos jogos Sub-14 e Sub-17 AD Taubaté x São José (14/11, Tremembé) que valiam vaga na fase estadual; fonte inicial: https://www.portalr3.com.br/2026/11/13/futebol-feminino-base-da-ad-taubate-tera-jornada-tripla-no-final-de-semana"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; evergreen bloqueado (história em 06/11)",
+   "sugestao": "Montagem do elenco do Colorado Caieiras para a Série A4 de 2027 (técnico, reforços, início da pré-temporada): consultar redes oficiais do clube"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias; evergreen bloqueado (história em 06/11)",
+   "sugestao": "Planejamento do ECUS para a Série A4 de 2027 no grupo regional (técnico e elenco): consultar redes oficiais do clube e o Diário de Suzano"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Últimos anúncios (Edson Paulista, Kadu Barone, Gustavo Britto) já publicados; nada novo confirmado em 2 fontes",
+   "sugestao": "Barretos: reforma do estádio para a Copinha 2027 (andamento) e lista completa de reforços para a A4"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Anúncios de Danilo Sacramento e reforços são de outubro; nada novo em 7 dias",
+   "sugestao": "Lemense: quem já está confirmado para a Série A4 de 2027 (técnico Danilo Sacramento, Rodrigo Andrade, Luizão, Wesley Pacheco) e quando começa a pré-temporada"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Pacote de reforços é de 05/11; nada novo em 7 dias",
+   "sugestao": "Tanabi: reforços para a A4 de 2027 com o técnico Petterson Martins (Denis Santos, João Monteiro, Dandan, Bernardo, Carignano, Rafinha) - conferir no Instagram oficial"
+  },
+  {
+   "clube": "vocem",
+   "nome": "VOCEM",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Paulinho McLaren confirmado em 29/10; nada novo em 7 dias",
+   "sugestao": "VOCEM: primeiros reforços de Paulinho McLaren para a A4 de 2027"
+  },
+  {
+   "clube": "ibrachina",
+   "nome": "Ibrachina",
+   "quando": "2026-11-18T11:00-03:00",
+   "motivo": "Ibrachina 0 x 4 Red Bull Bragantino (14/11) na ida da semifinal do Paulista Sub-17 confirmado em 2 fontes, mas sem foto acessível (site do Bragantino bloqueado aqui)",
+   "sugestao": "Ibrachina visita o Red Bull Bragantino no sábado 21/11, 11h, no CPD em Atibaia, na volta da semifinal do Paulista Sub-17 (precisa vencer por 4 gols para pênaltis). Fontes: redbullbragantino.com e futebolinterior.com.br; foto do clube"
   }
  ]
 }
