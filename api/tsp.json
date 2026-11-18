@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T14:25:00-03:00",
+ "gerado": "2026-11-18T18:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11615,7 +11615,39 @@
      "https://www.otempo.com.br/sports/cruzeiro/2026/11/13/palmeiras-vai-enfrentar-o-cruzeiro-desfalcado-entenda-o-cenario",
      "https://tribunadejundiai.com.br/mais/esportes/palmeiras-tem-2-baixas-garantidas-e-pode-chegar-a-6-apos-a-data-fifa/"
     ],
-    "atualizado": "2026-11-15T22:26:00-03:00"
+    "atualizado": "2026-11-18T18:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/horario-e-onde-assistir-ao-vivo-cruzeiro-x-palmeiras-pelo-brasileirao-2/",
+      "https://www.terra.com.br/esportes/palmeiras/cruzeiro-x-palmeiras-vai-passar-na-rede-globo-confira-onde-assistir-ao-jogo-pelo-brasileirao,c378981a95f5865a23368eab6aafca13wvjsph5d.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Artur Jorge",
+      "time": "Otávio; William, Fabrício Bruno, Villalba e Rojas; Lucas Romero, Zé Lucas, Gerson e Matheus Pereira; Kaio Jorge e Neyser",
+      "desfalques": "",
+      "duvidas": "Fabrício Bruno (Gustavo Alves), Zé Lucas (Matheus Henrique) e Neyser (Arroyo ou Marquinhos)"
+     },
+     "fora": {
+      "tecnico": "Abel Ferreira",
+      "time": "Carlos Miguel; Khellven, Emiliano Martínez, Bruno Fuchs e Barboza; Marlon Freitas, Lucas Evangelista e Andreas Pereira; Arthur, Ramón Sosa e Vitor Roque",
+      "desfalques": "Gustavo Gómez e Maurício (preservados após a Data Fifa), Piquerez (lesionado na seleção uruguaia), Paulinho e Jefté (lesionados)",
+      "duvidas": "Murilo; Felipe Anderson pode entrar no time. Flaco López, Giay e Arias voltaram da Data Fifa e estão à disposição"
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/palmeiras/cruzeiro-x-palmeiras-vai-passar-na-rede-globo-confira-onde-assistir-ao-jogo-pelo-brasileirao,c378981a95f5865a23368eab6aafca13wvjsph5d.html",
+      "https://www.lance.com.br/onde-assistir/cruzeiro-x-palmeiras-onde-assistir-horario-e-escalacoes.html",
+      "https://lance.com.br/palmeiras/palmeiras-joga-futuro-no-brasileirao-com-o-cruzeiro-as-vesperas-de-decisoes.html"
+     ],
+     "atualizado": "2026-11-18T18:25:00-03:00"
+    }
    },
    "escalacoes": {},
    "previsao": {
@@ -11685,7 +11717,39 @@
      "https://gazetaesportiva.com/times/corinthians/corinthians-realiza-treino-tecnico-e-tatico-antes-de-enfrentar-o-botafogo",
      "https://www.lance.com.br/botafogo/botafogo-pode-ganhar-desfalque-para-duelo-com-o-corinthians-apos-a-data-fifa.html"
     ],
-    "atualizado": "2026-11-15T22:26:00-03:00"
+    "atualizado": "2026-11-18T18:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.lance.com.br/onde-assistir/corinthians-x-botafogo-onde-assistir-horario-e-escalacoes.html",
+      "https://tribunadejundiai.com.br/mais/esportes/corinthians-x-botafogo-veja-a-provavel-escalacao-do-timao/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Clarence Seedorf",
+      "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique e Angileri; Raniele, Carrillo e Breno Bidon; Matheus Bidu, Kaio César e Memphis Depay",
+      "desfalques": "Yuri Alberto (suspenso pelo STJD), Matheus Pereira (suspenso), André Ramalho (3º amarelo), Kayke e Labyad (lesão no ligamento cruzado), Iago Machado (seleção de base) e, provavelmente, André (seleção brasileira)",
+      "duvidas": "Garro (recupera-se de lesão no joelho direito); Gabriel Paulista (Tchoca) e Carrillo (Vitinho)"
+     },
+     "fora": {
+      "tecnico": "Tite",
+      "time": "Gabriel Batista; Vitinho, Ferraresi, Marçal e Alex Telles; Huguinho, Medina e Edenílson; Montoro; Matheus Martins e Arthur Cabral",
+      "desfalques": "",
+      "duvidas": "Montoro (Ziyech)"
+     },
+     "fontes": [
+      "https://www.lance.com.br/corinthians/escalacao-corinthians-tem-oito-desfalques-para-enfrentar-o-botafogo.html",
+      "https://www.lance.com.br/onde-assistir/corinthians-x-botafogo-onde-assistir-horario-e-escalacoes.html",
+      "https://tribunadejundiai.com.br/mais/esportes/corinthians-x-botafogo-veja-a-provavel-escalacao-do-timao/"
+     ],
+     "atualizado": "2026-11-18T18:25:00-03:00"
+    }
    },
    "escalacoes": {},
    "previsao": {
