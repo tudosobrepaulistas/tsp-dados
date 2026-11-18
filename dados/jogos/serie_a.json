@@ -7590,7 +7590,46 @@
      "https://tribunadejundiai.com.br/mais/esportes/santos-tera-desfalque-de-bontempo-na-35a-rodada-por-convocacao/",
      "https://tribunadejundiai.com.br/mais/esportes/santos-vive-novembro-decisivo-para-conquistar-vaga-na-libertadores-e-manter-estrelas/"
     ],
-    "atualizado": "2026-11-15T20:25:00-03:00"
+    "atualizado": "2026-11-18T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Record",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "CazéTV",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/santos/coritiba-x-santos-onde-assistir-provaveis-escalacoes-horario-e-arbitragem,314120594c0dd4352b13e5ae913860fbuc4vhwen.html",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/proximos-na-tabela-coritiba-e-santos-duelam-com-objetivos-distintos-na-serie-a/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Guila Bossle (interino)",
+      "time": "Pedro Rangel; Tinga, Tiago Cóser, Jacy Maranhão e Bruno Melo; Thiago Santos, Sebastián Gómez e Nicolas Fonseca; Josué, Breno Lopes e Pedro Rocha",
+      "desfalques": "Pedro Morisco (convocado para a Seleção Brasileira)",
+      "duvidas": "Jacy Maranhão (dores no joelho, deve jogar)"
+     },
+     "fora": {
+      "tecnico": "Cuca",
+      "time": "Diógenes; Rodinei, João Alencar, Willian Arão e Luan Peres; Gustavinho, Arthur e Neymar; Philippe Coutinho, Everton Cebolinha e Gabigol",
+      "desfalques": "Gabriel Bontempo (Seleção Brasileira), Gabriel Brazão, Lucas Veríssimo e Álvaro Barreal (problemas físicos)",
+      "duvidas": "Escobar e Willian Arão (voltando de lesão); Adonis Frías, Igor Vinícius e João Schmidt disputam vaga"
+     },
+     "fontes": [
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/proximos-na-tabela-coritiba-e-santos-duelam-com-objetivos-distintos-na-serie-a/",
+      "https://www.terra.com.br/esportes/santos/coritiba-x-santos-onde-assistir-provaveis-escalacoes-horario-e-arbitragem,314120594c0dd4352b13e5ae913860fbuc4vhwen.html"
+     ],
+     "atualizado": "2026-11-18T14:25:00-03:00"
+    }
    }
   },
   {
@@ -7626,7 +7665,38 @@
      "https://www.oliberal.com/esportes/remo/remo-pode-ser-rebaixado-na-35-rodada-veja-o-que-precisa-acontecer-1.1191557",
      "https://www.oliberal.com/esportes/remo/cbf-detalha-jogos-do-remo-contra-chapecoense-e-athletico-pr-na-serie-a-1.1188822"
     ],
-    "atualizado": "2026-11-15T20:25:00-03:00"
+    "atualizado": "2026-11-18T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://diariodopara.com.br/bola/clube-do-remo-joga-pela-permanencia-na-serie-a-contra-a-chapecoense-veja-onde-assistir-ao-vivo/",
+      "https://www.gazetaesportiva.com/futebol/remo-x-chapecoense-onde-assistir-brasileirao/"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Thiago Carpini",
+      "time": "Marcelo Rangel; Marcelinho, Zé Ivaldo, Tchamba e Marlon; Zé Welison, Picco e Patrick; Jajá, David Braga e Taliari",
+      "desfalques": "Matheus Felipe",
+      "duvidas": ""
+     },
+     "fora": {
+      "tecnico": "Vinícius Bergantin (estreia)",
+      "time": "Gabriel Werner; Bruno Tubarão, Kauan Faria, Victor Caetano e Eduardo Doma; Camilo, Max Alves e Giovanni Augusto; Dylan Borrero e Túlio Eduardo",
+      "desfalques": "Yago Felipe, Bruno Pacheco e Heitor",
+      "duvidas": "Fernando pode entrar no lugar de um atacante"
+     },
+     "fontes": [
+      "https://diariodopara.com.br/bola/clube-do-remo-joga-pela-permanencia-na-serie-a-contra-a-chapecoense-veja-onde-assistir-ao-vivo/",
+      "https://www.gazetaesportiva.com/futebol/remo-x-chapecoense-onde-assistir-brasileirao/"
+     ],
+     "atualizado": "2026-11-18T14:25:00-03:00"
+    }
    }
   },
   {
