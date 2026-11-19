@@ -18,7 +18,7 @@
    "convidado": "Danilo Sacramento",
    "entrevistador": "Thiago Barbalho",
    "duracao": "43:20",
-   "resumo": "Thiago Barbalho conversa com Danilo Sacramento, novo técnico do Lemense, sobre a preparação para a Série A4 de 2027, a montagem do elenco, a crítica ao novo formato do campeonato, as faltas que treinava com Marcelinho Carioca no Vasco e o Vasco x Flamengo com 100 mil pessoas no Maracanã.",
+   "resumo": "Danilo Sacramento é o técnico do Lemense para a Série A4 do Paulistão 2027. No episódio #173 do TSP Exclusiva, ele conta como o clube de Leme (SP) se prepara desde julho, com comissão técnica nova, cinco atletas da base e reforços como Rodrigo Andrade e Wesley Pacheco, dá sua visão sobre o formato da A4 com dois grupos de oito e relembra o Vasco campeão carioca de 2003, ao lado de Marcelinho Carioca, e o clássico contra o Flamengo para 100 mil pessoas no Maracanã.",
    "materia": "https://tudosobrepaulista.com.br/materia/danilo-sacramento-assume-o-lemense-e-projeta-2027-futebol-tem-que-ser-bem-jogado/",
    "topicos": [
     [
@@ -39,7 +39,7 @@
     ],
     [
      "11:24",
-     "Crítica ao novo formato da Série A4"
+     "Sua visão sobre o formato da Série A4"
     ],
     [
      "13:55",
@@ -47,7 +47,7 @@
     ],
     [
      "19:35",
-     "Max como gerente e a força do mental"
+     "Max na gerência e a importância do mental"
     ],
     [
      "22:17",
@@ -69,937 +69,1579 @@
      "40:28",
      "Vasco x Flamengo com 100 mil no Maracanã"
     ]
+   ],
+   "clube": "lemense",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Danilo Sacramento",
+   "perguntas": [
+    [
+     "Quem é o técnico do Lemense em 2027?",
+     "Danilo Sacramento, ex-meia de Vasco, Genoa, Guarani e Ferroviária. Ele comandou o União São João em 2025 e levou o Grêmio São-Carlense à semifinal da Série A4 de 2026 antes de assumir o Lemense."
+    ],
+    [
+     "Quando o Lemense começou a se preparar para a Série A4 de 2027?",
+     "Em julho de 2026, segundo Danilo Sacramento: com contratações, avaliações e cinco atletas separados da base."
+    ],
+    [
+     "Como será o formato da Série A4 de 2027?",
+     "Dois grupos regionalizados de oito clubes, com quatro classificados em cada um, em jogos de ida e volta dentro do grupo. Danilo disse preferir o sistema de todos contra todos."
+    ],
+    [
+     "Qual é o objetivo do Lemense em 2027?",
+     "Conquistar o acesso à Série A3 e revelar atletas, com categorias de base do sub-20 ao sub-12 e a meta de disputar a Copinha."
+    ]
    ]
   },
   {
    "n": 172,
    "id": "Q7WJzCy1-_M",
    "data": "2026-08-07",
-   "titulo": "Joãozinho – Atacante – União São João"
+   "titulo": "Joãozinho – Atacante – União São João",
+   "clube": "uniao-sao-joao",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Joãozinho"
   },
   {
    "n": 171,
    "id": "ZrAqiBQJLQc",
    "data": "2026-08-07",
-   "titulo": "Paulinho – Volante do Primavera Indaiatuba"
+   "titulo": "Paulinho – Volante do Primavera Indaiatuba",
+   "clube": "primavera",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Paulinho"
   },
   {
    "n": 170,
    "id": "hCHPxkbx_D8",
    "data": "2026-07-15",
-   "titulo": "Kauã Caveirão"
+   "titulo": "Kauã Caveirão",
+   "clube": "josebonifacio",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Kauã Caveirão"
   },
   {
    "n": 169,
    "id": "l43epQppboQ",
    "data": "2026-06-08",
-   "titulo": "Gabriel Argentino"
+   "titulo": "Gabriel Argentino",
+   "clube": "penapolense",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Gabriel Argentino"
   },
   {
    "n": 168,
    "id": "Uv9pJP0ZGrI",
    "data": "2026-06-07",
-   "titulo": "Fernando Fonseca – Juventus SP"
+   "titulo": "Fernando Fonseca – Juventus SP",
+   "clube": "juventus",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Fernando Fonseca"
   },
   {
    "n": 167,
    "id": "9TfOnP0qLlQ",
    "data": "2026-05-19",
-   "titulo": "Kadu Barone – Inter de Bebedouro"
+   "titulo": "Kadu Barone – Inter de Bebedouro",
+   "clube": "inter-de-bebedouro",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Kadu Barone"
   },
   {
    "n": 166,
    "id": "s6B2nGAt8gQ",
    "data": "2026-05-19",
-   "titulo": "Wagner Coradin – Marília"
+   "titulo": "Wagner Coradin – Marília",
+   "clube": "marilia",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Wagner Coradin"
   },
   {
    "n": 165,
    "id": "-oExE8SZ_ok",
    "data": "2026-04-17",
-   "titulo": "Lauder Perez – XV de Jaú"
+   "titulo": "Lauder Perez – XV de Jaú",
+   "clube": "xv-de-jau",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Lauder Perez"
   },
   {
    "n": 164,
    "id": "QsVNxPO6wh4",
    "data": "2026-04-17",
-   "titulo": "Victor Graziani – Juventus SP"
+   "titulo": "Victor Graziani – Juventus SP",
+   "clube": "juventus",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Victor Graziani"
   },
   {
    "n": 163,
    "id": "ElS7nwB79JA",
    "data": "2026-04-13",
-   "titulo": "Gabriel Falcão – Portuguesa Santista"
+   "titulo": "Gabriel Falcão – Portuguesa Santista",
+   "clube": "portuguesasantista",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Gabriel Falcão"
   },
   {
    "n": 162,
    "id": "o71utrieqvo",
    "data": "2026-04-11",
-   "titulo": "Caio Vidal – Inter de Bebedouro"
+   "titulo": "Caio Vidal – Inter de Bebedouro",
+   "clube": "inter-de-bebedouro",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Caio Vidal"
   },
   {
    "n": 161,
    "id": "sh64RPSf_V0",
    "data": "2026-04-11",
-   "titulo": "Carlos Maranhão – São Caetano"
+   "titulo": "Carlos Maranhão – São Caetano",
+   "clube": "saocaetano",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Carlos Maranhão"
   },
   {
    "n": 147,
    "id": "6dRtscyXYOI",
    "data": "2026-02-06",
-   "titulo": "Matheus Marcondele – Meia-Atacante do Marília no Paulistão A3 2026"
+   "titulo": "Matheus Marcondele – Meia-Atacante do Marília no Paulistão A3 2026",
+   "clube": "marilia",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Matheus Marcondele"
   },
   {
    "n": 146,
    "id": "0PozEYC1f74",
    "data": "2026-02-03",
-   "titulo": "Daniel Baianinho – Atacante do Capivariano no Paulistão 2026"
+   "titulo": "Daniel Baianinho – Atacante do Capivariano no Paulistão 2026",
+   "clube": "capivariano",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Daniel Baianinho"
   },
   {
    "n": 145,
    "id": "KULNW4kPy8E",
    "data": "2026-01-19",
-   "titulo": "Guilherme Nogueira – Goleiro do Capivariano no Paulistão 2026"
+   "titulo": "Guilherme Nogueira – Goleiro do Capivariano no Paulistão 2026",
+   "clube": "capivariano",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Guilherme Nogueira"
   },
   {
    "n": 144,
    "id": "JSNyWXQBYpQ",
    "data": "2026-01-15",
-   "titulo": "Carlinhos – Zagueiro do Noroeste no Paulistão 2026"
+   "titulo": "Carlinhos – Zagueiro do Noroeste no Paulistão 2026",
+   "clube": "noroeste",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Carlinhos"
   },
   {
    "n": 143,
    "id": "nm7bMlv7Hbs",
    "data": "2026-01-05",
-   "titulo": "Marcus Viola – Técnico Sub-20 do Votuporanguense na Copinha 2026"
+   "titulo": "Marcus Viola – Técnico Sub-20 do Votuporanguense na Copinha 2026",
+   "clube": "votuporanguense",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Marcus Viola"
   },
   {
    "n": 142,
    "id": "quu7D3HOZ2Q",
    "data": "2026-01-05",
-   "titulo": "Genilson França – Técnico Sub-20 do Centro Olimpico na Copinha"
+   "titulo": "Genilson França – Técnico Sub-20 do Centro Olimpico na Copinha",
+   "clube": "centro-olimpico",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Genilson França"
   },
   {
    "n": 141,
    "id": "wS3R5CVPuiA",
    "data": "2026-01-05",
-   "titulo": "Tutti Mendes – Técnico Sub-20 do Água Santa na Copinha 2026"
+   "titulo": "Tutti Mendes – Técnico Sub-20 do Água Santa na Copinha 2026",
+   "clube": "aguasanta",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Tutti Mendes"
   },
   {
    "n": 140,
    "id": "myvWJI3XraU",
    "data": "2026-01-05",
-   "titulo": "Yago Nazário – Técnico Sub-20 do Osasco Audax"
+   "titulo": "Yago Nazário – Técnico Sub-20 do Osasco Audax",
+   "clube": "audax",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Yago Nazário"
   },
   {
    "n": 139,
    "id": "3VEnNF4Vz58",
    "data": "2026-01-05",
-   "titulo": "Claudinho Boaventura – Técnico Sub-20 do Osasco Sporting"
+   "titulo": "Claudinho Boaventura – Técnico Sub-20 do Osasco Sporting",
+   "clube": "osasco-sporting",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Claudinho Boaventura"
   },
   {
    "n": 138,
    "id": "2hxnHyqrfLg",
    "data": "2026-01-05",
-   "titulo": "Vilson James – Técnico Sub-20 do América Rio Preto"
+   "titulo": "Vilson James – Técnico Sub-20 do América Rio Preto",
+   "clube": "america-de-rio-preto",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Vilson James"
   },
   {
    "n": 137,
    "id": "dIEgC4Vc2zs",
    "data": "2026-01-04",
-   "titulo": "Jairo Blumer – Técnico Sub-20 do Guarani"
+   "titulo": "Jairo Blumer – Técnico Sub-20 do Guarani",
+   "clube": "guarani",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Jairo Blumer"
   },
   {
    "n": 136,
    "id": "6Fi8AKeKTss",
    "data": "2026-01-03",
-   "titulo": "Renato Souza – Técnico Sub-20 do Ibrachina"
+   "titulo": "Renato Souza – Técnico Sub-20 do Ibrachina",
+   "clube": "ibrachina",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Renato Souza"
   },
   {
    "n": 135,
    "id": "8GlppFb8CiA",
    "data": "2026-01-03",
-   "titulo": "Leonardo Mantovani Técnico do Cosmopolitano (sp) na Copinha 2026"
+   "titulo": "Leonardo Mantovani Técnico do Cosmopolitano (sp) na Copinha 2026",
+   "clube": "cosmopolitano",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Leonardo Mantovani"
   },
   {
    "n": 134,
    "id": "oQC3FCov0zg",
    "data": "2026-01-02",
-   "titulo": "Jean Rodrigues Técnico do Novorizontino (sp) na Copinha 2026"
+   "titulo": "Jean Rodrigues Técnico do Novorizontino (sp) na Copinha 2026",
+   "clube": "novorizontino",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Jean Rodrigues"
   },
   {
    "n": 133,
    "id": "acQJriIkurU",
    "data": "2026-01-02",
-   "titulo": "Samuel Dias Técnico do Sfera (sp) na Copinha 2026"
+   "titulo": "Samuel Dias Técnico do Sfera (sp) na Copinha 2026",
+   "clube": "sfera-fc",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Samuel Dias"
   },
   {
    "n": 132,
    "id": "VyZBwhTidgY",
    "data": "2025-12-29",
-   "titulo": "Nivaldo Lourenço – Técnico Sub-20 do Linense"
+   "titulo": "Nivaldo Lourenço – Técnico Sub-20 do Linense",
+   "clube": "linense",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Nivaldo Lourenço"
   },
   {
    "n": 131,
    "id": "6CF4ntbIFUs",
    "data": "2025-12-29",
-   "titulo": "Edson Kruss Técnico do Nacional SP na Copinha 2026"
+   "titulo": "Edson Kruss Técnico do Nacional SP na Copinha 2026",
+   "clube": "nacional",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Edson Kruss"
   },
   {
    "n": 130,
    "id": "Hm7n4STksPc",
    "data": "2025-12-29",
-   "titulo": "Diego Paulista Técnico do Taubaté na Copinha 2026"
+   "titulo": "Diego Paulista Técnico do Taubaté na Copinha 2026",
+   "clube": "taubate",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Diego Paulista"
   },
   {
    "n": 129,
    "id": "YZ9qE9uYqNY",
    "data": "2025-12-28",
-   "titulo": "Guilherme Freitas Técnico do Grêmio Prudente na Copinha 2026"
+   "titulo": "Guilherme Freitas Técnico do Grêmio Prudente na Copinha 2026",
+   "clube": "prudente",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Guilherme Freitas"
   },
   {
    "n": 128,
    "id": "JuYM4QGsOtw",
    "data": "2025-12-28",
-   "titulo": "Guilherme Bellangero Técnico do Ituano na Copinha 2026"
+   "titulo": "Guilherme Bellangero Técnico do Ituano na Copinha 2026",
+   "clube": "ituano",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Guilherme Bellangero"
   },
   {
    "n": 127,
    "id": "vuKiAfMS404",
    "data": "2025-12-25",
-   "titulo": "Wallison Bernardo Técnico do Flamengo de Guarulhos na Copinha 2026"
+   "titulo": "Wallison Bernardo Técnico do Flamengo de Guarulhos na Copinha 2026",
+   "clube": "",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Wallison Bernardo"
   },
   {
    "n": 126,
    "id": "PuiHlQz3sb0",
    "data": "2025-12-19",
-   "titulo": "Marcos Tikinho Técnico do Santa Fé FC na Copinha 2026"
+   "titulo": "Marcos Tikinho Técnico do Santa Fé FC na Copinha 2026",
+   "clube": "santa-fe",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Marcos Tikinho"
   },
   {
    "n": 125,
    "id": "XsVCQ6_pIsU",
    "data": "2025-12-19",
-   "titulo": "Diego Daniel Técnico do São José SAF na Copinha 2026"
+   "titulo": "Diego Daniel Técnico do São José SAF na Copinha 2026",
+   "clube": "saojose",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Diego Daniel"
   },
   {
    "n": 123,
    "id": "gc044MNNzRE",
    "data": "2025-12-19",
-   "titulo": "Marcus Vinícius – Técnico Sub-20 do XV de Piracicaba"
+   "titulo": "Marcus Vinícius – Técnico Sub-20 do XV de Piracicaba",
+   "clube": "xvdepiracicaba",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Marcus Vinícius"
   },
   {
    "n": 122,
    "id": "bFiFWuxW-qE",
    "data": "2025-12-16",
-   "titulo": "João Valim – Técnico Sub-20 do Velo Clube"
+   "titulo": "João Valim – Técnico Sub-20 do Velo Clube",
+   "clube": "veloclube",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "João Valim"
   },
   {
    "n": 121,
    "id": "6ez3xammo6I",
    "data": "2025-12-12",
-   "titulo": "Danilo Benjamin – Técnico Sub-20 do Capivariano"
+   "titulo": "Danilo Benjamin – Técnico Sub-20 do Capivariano",
+   "clube": "capivariano",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Danilo Benjamin"
   },
   {
    "n": 120,
    "id": "tmsaUnFQ8LQ",
    "data": "2025-12-11",
-   "titulo": "Francis Campos Técnico do Meia Noite SAF na Copinha 2026"
+   "titulo": "Francis Campos Técnico do Meia Noite SAF na Copinha 2026",
+   "clube": "ec-meia-noite",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Francis Campos"
   },
   {
    "n": 119,
    "id": "2JHciSKEnm0",
    "data": "2025-12-11",
-   "titulo": "Vagner Goleiro do São Bento na Série A2 2026"
+   "titulo": "Vagner Goleiro do São Bento na Série A2 2026",
+   "clube": "saobento",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Vagner"
   },
   {
    "n": 118,
    "id": "Ig03cgCozOQ",
    "data": "2025-12-10",
-   "titulo": "Rodrigo Camargo Técnico do Referência FC na Copinha 2026"
+   "titulo": "Rodrigo Camargo Técnico do Referência FC na Copinha 2026",
+   "clube": "referencia-fc",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Rodrigo Camargo"
   },
   {
    "n": 117,
    "id": "FB0ML5hOFtY",
    "data": "2025-12-08",
-   "titulo": "Ynaiã Lateral Direito do Velo Clube"
+   "titulo": "Ynaiã Lateral Direito do Velo Clube",
+   "clube": "veloclube",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Ynaiã"
   },
   {
    "n": 116,
    "id": "JT82qYWCj3w",
    "data": "2025-12-04",
-   "titulo": "Marcel Cerezo – Volante Água Santa"
+   "titulo": "Marcel Cerezo – Volante Água Santa",
+   "clube": "aguasanta",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Marcel Cerezo"
   },
   {
    "n": 115,
    "id": "-_94kQFC2Ds",
    "data": "2025-12-04",
-   "titulo": "Lucas Bahia – Téc Sub-20 da Francana na Copinha 2026"
+   "titulo": "Lucas Bahia – Téc Sub-20 da Francana na Copinha 2026",
+   "clube": "francana",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Lucas Bahia"
   },
   {
    "n": 114,
    "id": "NFh3GVpQDkI",
    "data": "2025-12-02",
-   "titulo": "Fabio Toth"
+   "titulo": "Fabio Toth",
+   "clube": "",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Fabio Toth"
   },
   {
    "n": 113,
    "id": "CUGFkyg7Yj0",
    "data": "2025-12-01",
-   "titulo": "Sandro Rodrigues – Coordenador da Base do Primavera Indaiatuba"
+   "titulo": "Sandro Rodrigues – Coordenador da Base do Primavera Indaiatuba",
+   "clube": "primavera",
+   "tipo": "staff",
+   "base": true,
+   "nome": "Sandro Rodrigues"
   },
   {
    "n": 112,
    "id": "HxqpuKTE0H0",
    "data": "2025-11-26",
-   "titulo": "Yuri Lima – Primavera Indaiatuba"
+   "titulo": "Yuri Lima – Primavera Indaiatuba",
+   "clube": "primavera",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Yuri Lima"
   },
   {
    "n": 111,
    "id": "NQjIySSiDcM",
    "data": "2025-11-18",
-   "titulo": "Betão – Velo Clube"
+   "titulo": "Betão – Velo Clube",
+   "clube": "veloclube",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Betão"
   },
   {
    "n": 110,
    "id": "TthjDz1VQgU",
    "data": "2025-11-18",
-   "titulo": "Wesley Barbosa – EC São Bernardo"
+   "titulo": "Wesley Barbosa – EC São Bernardo",
+   "clube": "ec-sao-bernardo",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Wesley Barbosa"
   },
   {
    "n": 109,
    "id": "8EPxFleGwtA",
    "data": "2025-11-18",
-   "titulo": "Rodrigo Souza – Ponte Preta"
+   "titulo": "Rodrigo Souza – Ponte Preta",
+   "clube": "pontepreta",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Rodrigo Souza"
   },
   {
    "n": 108,
    "id": "4N98MwP_1HE",
    "data": "2025-11-13",
-   "titulo": "Matheus Salustiano – São Bernardo"
+   "titulo": "Matheus Salustiano – São Bernardo",
+   "clube": "saobernardo",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Matheus Salustiano"
   },
   {
    "n": 107,
    "id": "9rh26P-Yesc",
    "data": "2025-11-11",
-   "titulo": "Arthur Bandeira – Ex-Guarani e AC Taverne"
+   "titulo": "Arthur Bandeira – Ex-Guarani e AC Taverne",
+   "clube": "guarani",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Arthur Bandeira"
   },
   {
    "n": 106,
    "id": "MatzBQ_RGw4",
    "data": "2025-11-10",
-   "titulo": "Alê Favarin Analista de Desempenho da Ponte Preta"
+   "titulo": "Alê Favarin Analista de Desempenho da Ponte Preta",
+   "clube": "pontepreta",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Alê Favarin"
   },
   {
    "n": 105,
    "id": "TLeyocPonC0",
    "data": "2025-11-10",
-   "titulo": "Dudu Lateral do Marilia"
+   "titulo": "Dudu Lateral do Marilia",
+   "clube": "marilia",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Dudu"
   },
   {
    "n": 104,
    "id": "D_aIvAmbXKE",
    "data": "2025-11-05",
-   "titulo": "Flávio Gil Fisioterapeuta do Sub-17 do Novorizontino"
+   "titulo": "Flávio Gil Fisioterapeuta do Sub-17 do Novorizontino",
+   "clube": "novorizontino",
+   "tipo": "staff",
+   "base": true,
+   "nome": "Flávio Gil"
   },
   {
    "n": 103,
    "id": "Lq5v6zqADUc",
    "data": "2025-11-05",
-   "titulo": "Rodrigo Ferreira Lateral do São Bernardo"
+   "titulo": "Rodrigo Ferreira Lateral do São Bernardo",
+   "clube": "saobernardo",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Rodrigo Ferreira"
   },
   {
    "n": 102,
    "id": "Uv4x_-Mt8-E",
    "data": "2025-11-05",
-   "titulo": "Marcondele Meia do Marília"
+   "titulo": "Marcondele Meia do Marília",
+   "clube": "marilia",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Marcondele"
   },
   {
    "n": 101,
    "id": "UXfd-DY4H6A",
    "data": "2025-11-04",
-   "titulo": "Frazan Zagueiro da Inter de Limeira"
+   "titulo": "Frazan Zagueiro da Inter de Limeira",
+   "clube": "interdelimeira",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Frazan"
   },
   {
    "n": 100,
    "id": "njDeheLDGDk",
    "data": "2025-10-30",
-   "titulo": "Brunão Artilheiro do Primavera"
+   "titulo": "Brunão Artilheiro do Primavera",
+   "clube": "primavera",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Brunão"
   },
   {
    "n": 99,
    "id": "ThnjlyVsbSY",
    "data": "2025-10-29",
-   "titulo": "Junior Caiçara – Lateral/volante do Primavera"
+   "titulo": "Junior Caiçara – Lateral/volante do Primavera",
+   "clube": "primavera",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Junior Caiçara"
   },
   {
    "n": 98,
    "id": "KkrSXrHh4JE",
    "data": "2025-10-23",
-   "titulo": "Bruno Formigoni – Auxiliar Técnico da Portuguesa Santista"
+   "titulo": "Bruno Formigoni – Auxiliar Técnico da Portuguesa Santista",
+   "clube": "portuguesasantista",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Bruno Formigoni"
   },
   {
    "n": 97,
    "id": "wwDm_vGtFhc",
    "data": "2025-10-14",
-   "titulo": "Brenno Presotto – Gerente Futebol Rio Branco SP"
+   "titulo": "Brenno Presotto – Gerente Futebol Rio Branco SP",
+   "clube": "rio-branco",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Brenno Presotto"
   },
   {
    "n": 96,
    "id": "dGZAevJoz5E",
    "data": "2025-10-14",
-   "titulo": "William Silva – Presidente ECUS Suzano"
+   "titulo": "William Silva – Presidente ECUS Suzano",
+   "clube": "ecus",
+   "tipo": "staff",
+   "base": false,
+   "nome": "William Silva"
   },
   {
    "n": 95,
    "id": "J0pBBHZtsK0",
    "data": "2025-10-03",
-   "titulo": "Lucas Brando – Diretor de Futebol do XV de Jaú"
+   "titulo": "Lucas Brando – Diretor de Futebol do XV de Jaú",
+   "clube": "xv-de-jau",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Lucas Brando"
   },
   {
    "n": 94,
    "id": "Uplkm1U3CB8",
    "data": "2025-10-03",
-   "titulo": "Rogério Arcanjo – Preparador Físico \"multicampeão de 2025\""
+   "titulo": "Rogério Arcanjo – Preparador Físico \"multicampeão de 2025\"",
+   "clube": "",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Rogério Arcanjo"
   },
   {
    "n": 93,
    "id": "6oNj-UJsbN8",
    "data": "2025-09-29",
-   "titulo": "Juninho Amstalden – Supervisor de Futebol da Ferroviária"
+   "titulo": "Juninho Amstalden – Supervisor de Futebol da Ferroviária",
+   "clube": "ferroviaria",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Juninho Amstalden"
   },
   {
    "n": 92,
    "id": "Gq_rrmL7XYI",
    "data": "2025-09-26",
-   "titulo": "Nicole – Goleira do Corinthians"
+   "titulo": "Nicole – Goleira do Corinthians",
+   "clube": "corinthians-feminino",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Nicole"
   },
   {
    "n": 91,
    "id": "yuRYimvXsYs",
    "data": "2025-09-18",
-   "titulo": "Carlos Bajé – Meia Atacante Comercial"
+   "titulo": "Carlos Bajé – Meia Atacante Comercial",
+   "clube": "comercial",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Carlos Bajé"
   },
   {
    "n": 90,
    "id": "6qXb20PbDAk",
    "data": "2025-09-16",
-   "titulo": "Reynaldo – Goleiro do XV de Piracicaba"
+   "titulo": "Reynaldo – Goleiro do XV de Piracicaba",
+   "clube": "xvdepiracicaba",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Reynaldo"
   },
   {
    "n": 89,
    "id": "DrlRdYd2FM4",
    "data": "2025-09-12",
-   "titulo": "Cristopher – Zagueiro do Comercial"
+   "titulo": "Cristopher – Zagueiro do Comercial",
+   "clube": "comercial",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Cristopher"
   },
   {
    "n": 88,
    "id": "t243yHuLwu8",
    "data": "2025-09-11",
-   "titulo": "Allan Marques – ECUS Suzano – Melhor Meia da Bezinha 2025"
+   "titulo": "Allan Marques – ECUS Suzano – Melhor Meia da Bezinha 2025",
+   "clube": "ecus",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Allan Marques"
   },
   {
    "n": 87,
    "id": "G1uMWp0ZuyE",
    "data": "2025-09-10",
-   "titulo": "Felipe Rodrigues – Centroavante do Comercial"
+   "titulo": "Felipe Rodrigues – Centroavante do Comercial",
+   "clube": "comercial",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Felipe Rodrigues"
   },
   {
    "n": 86,
    "id": "zGdul80KZD8",
    "data": "2025-09-09",
-   "titulo": "Alan Uchôa – Zagueiro Grêmio Prudente"
+   "titulo": "Alan Uchôa – Zagueiro Grêmio Prudente",
+   "clube": "prudente",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Alan Uchôa"
   },
   {
    "n": 85,
    "id": "FF6MSs7e0MI",
    "data": "2025-09-05",
-   "titulo": "Pedro Demarchi – Grêmio Prudente"
+   "titulo": "Pedro Demarchi – Grêmio Prudente",
+   "clube": "prudente",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Pedro Demarchi"
   },
   {
    "n": 84,
    "id": "bCnNdSBkCsw",
    "data": "2025-08-20",
-   "titulo": "Carlos Alberto – Meia da Portuguesa Santista"
+   "titulo": "Carlos Alberto – Meia da Portuguesa Santista",
+   "clube": "portuguesasantista",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Carlos Alberto"
   },
   {
    "n": 83,
    "id": "CzLGxUAQZkM",
    "data": "2025-08-07",
-   "titulo": "Rafael Tanque Atacante do União São João"
+   "titulo": "Rafael Tanque Atacante do União São João",
+   "clube": "uniao-sao-joao",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Rafael Tanque"
   },
   {
    "n": 82,
    "id": "6WNuK_2QgEA",
    "data": "2025-08-04",
-   "titulo": "Rian Felipe Atacante do AMA"
+   "titulo": "Rian Felipe Atacante do AMA",
+   "clube": "",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Rian Felipe"
   },
   {
    "n": 81,
    "id": "hqzS-7CdL1I",
    "data": "2025-08-04",
-   "titulo": "Junior Oliveira Goleiro do São Bernardo FC"
+   "titulo": "Junior Oliveira Goleiro do São Bernardo FC",
+   "clube": "saobernardo",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Junior Oliveira"
   },
   {
    "n": 80,
    "id": "aUX0J2xzcmE",
    "data": "2025-08-01",
-   "titulo": "Marco Antonio Mentor Atletas da Portuguesa"
+   "titulo": "Marco Antonio Mentor Atletas da Portuguesa",
+   "clube": "portuguesa",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Marco Antonio"
   },
   {
    "n": 79,
    "id": "AzE2joZtWj0",
    "data": "2025-08-01",
-   "titulo": "Renan Junior Fisioterapeuta"
+   "titulo": "Renan Junior Fisioterapeuta",
+   "clube": "",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Renan Junior"
   },
   {
    "n": 78,
    "id": "jV5bG4Oxs_8",
    "data": "2025-08-01",
-   "titulo": "Jairo Blumer Tec Sub-20 Guarani"
+   "titulo": "Jairo Blumer Tec Sub-20 Guarani",
+   "clube": "guarani",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Jairo Blumer"
   },
   {
    "n": 77,
    "id": "dryQemRgRJg",
    "data": "2025-07-31",
-   "titulo": "William Daltro Volante da Briosa"
+   "titulo": "William Daltro Volante da Briosa",
+   "clube": "portuguesasantista",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "William Daltro"
   },
   {
    "n": 76,
    "id": "xVXnyLm9UnY",
    "data": "2025-07-30",
-   "titulo": "Vinicius Fernandes Téc Sub 15/17 do Marília"
+   "titulo": "Vinicius Fernandes Téc Sub 15/17 do Marília",
+   "clube": "marilia",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Vinicius Fernandes"
   },
   {
    "n": 75,
    "id": "P9gtvwHHFOY",
    "data": "2025-07-29",
-   "titulo": "Kati – Lat. Direita da Ferroviária"
+   "titulo": "Kati – Lat. Direita da Ferroviária",
+   "clube": "ferroviaria-feminino",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Kati"
   },
   {
    "n": 74,
    "id": "6SNf7t-704Q",
    "data": "2025-07-22",
-   "titulo": "Leandro Sergipe Zagueiro do Comercial RP"
+   "titulo": "Leandro Sergipe Zagueiro do Comercial RP",
+   "clube": "comercial",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Leandro Sergipe"
   },
   {
    "n": 73,
    "id": "iJKtyhy7sog",
    "data": "2025-07-19",
-   "titulo": "Maycon Ferreira Atacante do Taubaté"
+   "titulo": "Maycon Ferreira Atacante do Taubaté",
+   "clube": "taubate",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Maycon Ferreira"
   },
   {
    "n": 72,
    "id": "FeUzokCSt3Y",
    "data": "2025-07-17",
-   "titulo": "Luciano Oliveira – Atacante do São José"
+   "titulo": "Luciano Oliveira – Atacante do São José",
+   "clube": "saojose",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Luciano Oliveira"
   },
   {
    "n": 71,
    "id": "hbYDruTE_Yc",
    "data": "2025-07-17",
-   "titulo": "Jackson Curtes – Goleiro da Itapirense"
+   "titulo": "Jackson Curtes – Goleiro da Itapirense",
+   "clube": "itapirense",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Jackson Curtes"
   },
   {
    "n": 70,
    "id": "_eBno8a_CEs",
    "data": "2025-07-17",
-   "titulo": "Caio Couto – Téc das Sereias da Vila"
+   "titulo": "Caio Couto – Téc das Sereias da Vila",
+   "clube": "santos-feminino",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Caio Couto"
   },
   {
    "n": 68,
    "id": "5m_dzSEzQfI",
    "data": "2025-07-07",
-   "titulo": "João Carlos Barros – Mister do Batatais"
+   "titulo": "João Carlos Barros – Mister do Batatais",
+   "clube": "batatais",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "João Carlos Barros"
   },
   {
    "n": 67,
    "id": "2Vw2xaeDfks",
    "data": "2025-07-07",
-   "titulo": "Pedoca – Meia Atacante do Monte Azul"
+   "titulo": "Pedoca – Meia Atacante do Monte Azul",
+   "clube": "monteazul",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Pedoca"
   },
   {
    "n": 66,
    "id": "2nfQukB8WOg",
    "data": "2025-07-06",
-   "titulo": "Vinicius Caveira – Centroavante – Itapirense"
+   "titulo": "Vinicius Caveira – Centroavante – Itapirense",
+   "clube": "itapirense",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Vinicius Caveira"
   },
   {
    "n": 65,
    "id": "44wO8ZUoXAI",
    "data": "2025-07-06",
-   "titulo": "Marcelo Augusto Ex-Zagueiro do Velo Clube"
+   "titulo": "Marcelo Augusto Ex-Zagueiro do Velo Clube",
+   "clube": "veloclube",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Marcelo Augusto"
   },
   {
    "n": 64,
    "id": "fZpNshG8y3s",
    "data": "2025-07-06",
-   "titulo": "João Victor – XV de Piracicaba"
+   "titulo": "João Victor – XV de Piracicaba",
+   "clube": "xvdepiracicaba",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "João Victor"
   },
   {
    "n": 63,
    "id": "V7tt76PBT20",
    "data": "2025-07-06",
-   "titulo": "Gustavo Henrique – São José"
+   "titulo": "Gustavo Henrique – São José",
+   "clube": "saojose",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Gustavo Henrique"
   },
   {
    "n": 62,
    "id": "GuEl9QvrOOI",
    "data": "2025-07-04",
-   "titulo": "Claudinho – Meia Atacante da Inter de Limeira"
+   "titulo": "Claudinho – Meia Atacante da Inter de Limeira",
+   "clube": "interdelimeira",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Claudinho"
   },
   {
    "n": 61,
    "id": "8tOnQbPO0ZA",
    "data": "2025-07-02",
-   "titulo": "Matheus Pellegrini – União São João"
+   "titulo": "Matheus Pellegrini – União São João",
+   "clube": "uniao-sao-joao",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Matheus Pellegrini"
   },
   {
    "n": 60,
    "id": "xf1HdWdBrMg",
    "data": "2025-07-01",
-   "titulo": "Anderson Pará – São Bernardo"
+   "titulo": "Anderson Pará – São Bernardo",
+   "clube": "saobernardo",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Anderson Pará"
   },
   {
    "n": 59,
    "id": "ZG9TrOD22Ig",
    "data": "2025-06-24",
-   "titulo": "Brunão – Primavera"
+   "titulo": "Brunão – Primavera",
+   "clube": "primavera",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Brunão"
   },
   {
    "n": 58,
    "id": "almE2tXo30M",
    "data": "2025-06-24",
-   "titulo": "Reidiner Cairú – Monte Azul"
+   "titulo": "Reidiner Cairú – Monte Azul",
+   "clube": "monteazul",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Reidiner Cairú"
   },
   {
    "n": 57,
    "id": "XC9Z1e6cL1o",
    "data": "2025-06-22",
-   "titulo": "Carlos Manuel – XV de Piracicaba"
+   "titulo": "Carlos Manuel – XV de Piracicaba",
+   "clube": "xvdepiracicaba",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Carlos Manuel"
   },
   {
    "n": 56,
    "id": "-GrGSj2L93U",
    "data": "2025-06-20",
-   "titulo": "Igor Souza – Volante Rio Branco SP"
+   "titulo": "Igor Souza – Volante Rio Branco SP",
+   "clube": "rio-branco",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Igor Souza"
   },
   {
    "n": 55,
    "id": "hvPL2Ulv8mc",
    "data": "2025-06-19",
-   "titulo": "Lucas Alvim – Oeste Barueri"
+   "titulo": "Lucas Alvim – Oeste Barueri",
+   "clube": "",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Lucas Alvim"
   },
   {
    "n": 54,
    "id": "dfgaFiLaDt0",
    "data": "2025-06-17",
-   "titulo": "Gustavo Gutchalles – Araçatuba"
+   "titulo": "Gustavo Gutchalles – Araçatuba",
+   "clube": "aracatuba",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Gustavo Gutchalles"
   },
   {
    "n": 53,
    "id": "h1VRAz7xy0A",
    "data": "2025-06-12",
-   "titulo": "Luan Ribeiro Goleiro do Água Santa"
+   "titulo": "Luan Ribeiro Goleiro do Água Santa",
+   "clube": "aguasanta",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Luan Ribeiro"
   },
   {
    "n": 52,
    "id": "4mVZuZAhIEY",
    "data": "2025-06-12",
-   "titulo": "Pedrinho Demarchi Volante do Grêmio Prudente"
+   "titulo": "Pedrinho Demarchi Volante do Grêmio Prudente",
+   "clube": "prudente",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Pedrinho Demarchi"
   },
   {
    "n": 51,
    "id": "ZpkJDwJBfVo",
    "data": "2025-06-12",
-   "titulo": "Vinicius Kiss Ex-Volante do Taubaté"
+   "titulo": "Vinicius Kiss Ex-Volante do Taubaté",
+   "clube": "taubate",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Vinicius Kiss"
   },
   {
    "n": 50,
    "id": "cWIGAFHMSHQ",
    "data": "2025-06-11",
-   "titulo": "Rodolfo Mol – Zagueiro da Portuguesa Santista"
+   "titulo": "Rodolfo Mol – Zagueiro da Portuguesa Santista",
+   "clube": "portuguesasantista",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Rodolfo Mol"
   },
   {
    "n": 49,
    "id": "Ngb6-4xFcA8",
    "data": "2025-06-10",
-   "titulo": "Marcos Moser – Lateral Direito Grêmio Prudente"
+   "titulo": "Marcos Moser – Lateral Direito Grêmio Prudente",
+   "clube": "prudente",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Marcos Moser"
   },
   {
    "n": 48,
    "id": "sO5CyPASmgA",
    "data": "2025-06-04",
-   "titulo": "Renato Peixe Ex-Técnico do Comercial e São Bernardo"
+   "titulo": "Renato Peixe Ex-Técnico do Comercial e São Bernardo",
+   "clube": "saobernardo",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Renato Peixe"
   },
   {
    "n": 47,
    "id": "x6_TJzIffPk",
    "data": "2025-06-03",
-   "titulo": "Diego Domene – Volante do Santo André"
+   "titulo": "Diego Domene – Volante do Santo André",
+   "clube": "santoandre",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Diego Domene"
   },
   {
    "n": 46,
    "id": "AOkZHmmmH30",
    "data": "2025-05-28",
-   "titulo": "Luiz Silva – Diretor de Futebol Grêmio Prudente"
+   "titulo": "Luiz Silva – Diretor de Futebol Grêmio Prudente",
+   "clube": "prudente",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Luiz Silva"
   },
   {
    "n": 45,
    "id": "1APrW11lSes",
    "data": "2025-05-27",
-   "titulo": "Matheus Bonassi – Presidente do XV de Piracicaba"
+   "titulo": "Matheus Bonassi – Presidente do XV de Piracicaba",
+   "clube": "xvdepiracicaba",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Matheus Bonassi"
   },
   {
    "n": 43,
    "id": "45efE51XEKs",
    "data": "2025-05-27",
-   "titulo": "Rodrigo Arroz – Diretor de Futebol Primavera"
+   "titulo": "Rodrigo Arroz – Diretor de Futebol Primavera",
+   "clube": "primavera",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Rodrigo Arroz"
   },
   {
    "n": 42,
    "id": "R6wSxVr-oFw",
    "data": "2025-05-27",
-   "titulo": "Claudio Bonaldo – Presidente do Rio Branco SP"
+   "titulo": "Claudio Bonaldo – Presidente do Rio Branco SP",
+   "clube": "rio-branco",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Claudio Bonaldo"
   },
   {
    "n": 41,
    "id": "3ptH-T90aEE",
    "data": "2025-05-20",
-   "titulo": "Fernando Leite – Gerente Futebol Linense"
+   "titulo": "Fernando Leite – Gerente Futebol Linense",
+   "clube": "linense",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Fernando Leite"
   },
   {
    "n": 40,
    "id": "VoleHLUwfmM",
    "data": "2025-05-16",
-   "titulo": "Rodrigo Silva – Presidente do Araçatuba"
+   "titulo": "Rodrigo Silva – Presidente do Araçatuba",
+   "clube": "aracatuba",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Rodrigo Silva"
   },
   {
    "n": 39,
    "id": "1rvuApEir9w",
    "data": "2025-05-15",
-   "titulo": "Marcelo Marelli – Técnico do São José"
+   "titulo": "Marcelo Marelli – Técnico do São José",
+   "clube": "saojose",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Marcelo Marelli"
   },
   {
    "n": 38,
    "id": "MnavAcES4hU",
    "data": "2025-05-14",
-   "titulo": "Kinho Forgiarini – Técnico Monte Azul"
+   "titulo": "Kinho Forgiarini – Técnico Monte Azul",
+   "clube": "monteazul",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Kinho Forgiarini"
   },
   {
    "n": 37,
    "id": "NEje1TozfvA",
    "data": "2025-05-13",
-   "titulo": "Felipe Azevedo – Atacante do São Bernardo FC"
+   "titulo": "Felipe Azevedo – Atacante do São Bernardo FC",
+   "clube": "saobernardo",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Felipe Azevedo"
   },
   {
    "n": 36,
    "id": "V4xLLvAOQ9E",
    "data": "2025-05-13",
-   "titulo": "Richard Almeida – Volante do Primavera"
+   "titulo": "Richard Almeida – Volante do Primavera",
+   "clube": "primavera",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Richard Almeida"
   },
   {
    "n": 35,
    "id": "JwpSXmvvlns",
    "data": "2025-05-08",
-   "titulo": "Alan Uchôa – Zagueiro do Sertãozinho"
+   "titulo": "Alan Uchôa – Zagueiro do Sertãozinho",
+   "clube": "sertaozinho",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Alan Uchôa"
   },
   {
    "n": 34,
    "id": "8eBo-an-xWs",
    "data": "2025-05-06",
-   "titulo": "Pedro Augusto Meia-Atacante do Monte Azul"
+   "titulo": "Pedro Augusto Meia-Atacante do Monte Azul",
+   "clube": "monteazul",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Pedro Augusto"
   },
   {
    "n": 33,
    "id": "iN3ZtxjXARQ",
    "data": "2025-04-24",
-   "titulo": "Douglas Baldini – Taubaté"
+   "titulo": "Douglas Baldini – Taubaté",
+   "clube": "taubate",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Douglas Baldini"
   },
   {
    "n": 32,
    "id": "o75WY8EJlfI",
    "data": "2025-04-21",
-   "titulo": "Iury Marley do Sertãozinho o melhor lateral direito da Série A3"
+   "titulo": "Iury Marley do Sertãozinho o melhor lateral direito da Série A3",
+   "clube": "sertaozinho",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Iury Marley"
   },
   {
    "n": 31,
    "id": "p2I86vAbjkg",
    "data": "2025-04-21",
-   "titulo": "Renan Castro – Lateral Esquerdo do Água Santa"
+   "titulo": "Renan Castro – Lateral Esquerdo do Água Santa",
+   "clube": "aguasanta",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Renan Castro"
   },
   {
    "n": 30,
    "id": "307Iu_aSZ54",
    "data": "2025-04-16",
-   "titulo": "André Dias Goleiro do Juventus SP"
+   "titulo": "André Dias Goleiro do Juventus SP",
+   "clube": "juventus",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "André Dias"
   },
   {
    "n": 29,
    "id": "7MWI6JAdeoA",
    "data": "2025-03-07",
-   "titulo": "Léo Passos atacante do Primavera"
+   "titulo": "Léo Passos atacante do Primavera",
+   "clube": "primavera",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Léo Passos atacante"
   },
   {
    "n": 28,
    "id": "5mQmu7cM5xg",
    "data": "2025-02-27",
-   "titulo": "Nycollas Lopo – Atacante do Santo André"
+   "titulo": "Nycollas Lopo – Atacante do Santo André",
+   "clube": "santoandre",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Nycollas Lopo"
   },
   {
    "n": 27,
    "id": "4D1f_baa-vQ",
    "data": "2025-02-21",
-   "titulo": "Gui Sales – Atacante do Monte Azul"
+   "titulo": "Gui Sales – Atacante do Monte Azul",
+   "clube": "monteazul",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Gui Sales"
   },
   {
    "n": 26,
    "id": "x6uqlHCwA3Y",
    "data": "2025-02-21",
-   "titulo": "Allison Patrick – Meio-campista do Taubaté"
+   "titulo": "Allison Patrick – Meio-campista do Taubaté",
+   "clube": "taubate",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Allison Patrick"
   },
   {
    "n": 25,
    "id": "jxD-YUvhL-o",
    "data": "2025-02-20",
-   "titulo": "Gabriel Monteiro – Fisiologista da Base do São Paulo Futebol Clube"
+   "titulo": "Gabriel Monteiro – Fisiologista da Base do São Paulo Futebol Clube",
+   "clube": "saopaulo",
+   "tipo": "staff",
+   "base": true,
+   "nome": "Gabriel Monteiro"
   },
   {
    "n": 24,
    "id": "IaqqEOjXiWg",
    "data": "2025-01-31",
-   "titulo": "Pablo Fernandez – Aux. Internacional RS e Ex-técnico do Santos e Ferroviária"
+   "titulo": "Pablo Fernandez – Aux. Internacional RS e Ex-técnico do Santos e Ferroviária",
+   "clube": "ferroviaria",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Pablo Fernandez"
   },
   {
    "n": 23,
    "id": "xwgW-9iMVxs",
    "data": "2025-01-28",
-   "titulo": "Gabriel Magalhães – Ex-analista de desempenho do Corinthians"
+   "titulo": "Gabriel Magalhães – Ex-analista de desempenho do Corinthians",
+   "clube": "corinthians",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Gabriel Magalhães"
   },
   {
    "n": 22,
    "id": "n0AsjGw58ec",
    "data": "2025-01-17",
-   "titulo": "João Burse – Ex-Mogi-Mirim e atual técnico do Botafogo-PB"
+   "titulo": "João Burse – Ex-Mogi-Mirim e atual técnico do Botafogo-PB",
+   "clube": "mogi-mirim-ec",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "João Burse"
   },
   {
    "n": 21,
    "id": "v-ma6z1XlUw",
    "data": "2025-01-08",
-   "titulo": "Gustavo Fagundes – Zagueiro do Rio Claro"
+   "titulo": "Gustavo Fagundes – Zagueiro do Rio Claro",
+   "clube": "rioclaro",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Gustavo Fagundes"
   },
   {
    "n": 20,
    "id": "Pkfx4wEhqA8",
    "data": "2025-01-08",
-   "titulo": "Rafael Werneck – Zagueiro do Sfera – Copinha 2025"
+   "titulo": "Rafael Werneck – Zagueiro do Sfera – Copinha 2025",
+   "clube": "sfera-fc",
+   "tipo": "jogador",
+   "base": true,
+   "nome": "Rafael Werneck"
   },
   {
    "n": 19,
    "id": "6JXd5KvJXZU",
    "data": "2025-01-05",
-   "titulo": "Galego – Técnico Juventus SP – Copinha 2025"
+   "titulo": "Galego – Técnico Juventus SP – Copinha 2025",
+   "clube": "juventus",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Galego"
   },
   {
    "n": 18,
    "id": "ACIc7zhzRfo",
    "data": "2025-01-05",
-   "titulo": "Caio Couto – Técnico das Sereias da Vila"
+   "titulo": "Caio Couto – Técnico das Sereias da Vila",
+   "clube": "santos-feminino",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Caio Couto"
   },
   {
    "n": 17,
    "id": "Y30matXt6Ts",
    "data": "2025-01-01",
-   "titulo": "Jairo Blumer – Técnico Guarani Copinha 2025"
+   "titulo": "Jairo Blumer – Técnico Guarani Copinha 2025",
+   "clube": "guarani",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Jairo Blumer"
   },
   {
    "n": 16,
    "id": "8Mhr6ZxdCRM",
    "data": "2025-01-01",
-   "titulo": "Paulo Massaro – Ex-AuxiliarTécnico Guarani"
+   "titulo": "Paulo Massaro – Ex-AuxiliarTécnico Guarani",
+   "clube": "guarani",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Paulo Massaro"
   },
   {
    "n": 15,
    "id": "P8FA3F1Axzk",
    "data": "2024-12-30",
-   "titulo": "Lucas Passarelli – Goleiro do Rio Claro"
+   "titulo": "Lucas Passarelli – Goleiro do Rio Claro",
+   "clube": "rioclaro",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Lucas Passarelli"
   },
   {
    "n": 14,
    "id": "H8RXDCYtZKQ",
    "data": "2024-12-30",
-   "titulo": "Rodrigo Camargo – Técnico Referência FC"
+   "titulo": "Rodrigo Camargo – Técnico Referência FC",
+   "clube": "referencia-fc",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Rodrigo Camargo"
   },
   {
    "n": 13,
    "id": "-_SqVVcVYlM",
    "data": "2024-12-27",
-   "titulo": "Fabio Toth – Técnico Desportivo Brasil"
+   "titulo": "Fabio Toth – Técnico Desportivo Brasil",
+   "clube": "desportivo-brasil",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Fabio Toth"
   },
   {
    "n": 12,
    "id": "9O_B8HOssnc",
    "data": "2024-12-26",
-   "titulo": "João Zangerolamo – Fisioterapeuta XV de Piracicaba"
+   "titulo": "João Zangerolamo – Fisioterapeuta XV de Piracicaba",
+   "clube": "xvdepiracicaba",
+   "tipo": "staff",
+   "base": false,
+   "nome": "João Zangerolamo"
   },
   {
    "n": 11,
    "id": "W_fIDo0wJHw",
    "data": "2024-11-29",
-   "titulo": "Moraci Sant'anna – Coordenador Técnico Juventus SP"
+   "titulo": "Moraci Sant'anna – Coordenador Técnico Juventus SP",
+   "clube": "juventus",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Moraci Sant'anna"
   },
   {
    "n": 10,
    "id": "6ljU6OTthiY",
    "data": "2024-11-28",
-   "titulo": "Thalles Cristiano – Assessor de Imprensa Capivariano"
+   "titulo": "Thalles Cristiano – Assessor de Imprensa Capivariano",
+   "clube": "capivariano",
+   "tipo": "staff",
+   "base": false,
+   "nome": "Thalles Cristiano"
   },
   {
    "n": 9,
    "id": "Eg0U_yfUYgU",
    "data": "2024-11-17",
-   "titulo": "Jhonatan Marino – Linense é minha casa"
+   "titulo": "Jhonatan Marino – Linense é minha casa",
+   "clube": "linense",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Jhonatan Marino"
   },
   {
    "n": 7,
    "id": "QUO2Ab6oOKI",
    "data": "2024-11-15",
-   "titulo": "Marcos Bazílio – EC São Bernardo – o Novo Técnico do Cachorrão"
+   "titulo": "Marcos Bazílio – EC São Bernardo – o Novo Técnico do Cachorrão",
+   "clube": "ec-sao-bernardo",
+   "tipo": "tecnico",
+   "base": false,
+   "nome": "Marcos Bazílio"
   },
   {
    "n": 6,
    "id": "CsIC6HKJK2c",
    "data": "2024-11-13",
-   "titulo": "Rafael Stucchi – Técnico Sub-20 – Novorizontino"
+   "titulo": "Rafael Stucchi – Técnico Sub-20 – Novorizontino",
+   "clube": "novorizontino",
+   "tipo": "tecnico",
+   "base": true,
+   "nome": "Rafael Stucchi"
   },
   {
    "n": 5,
    "id": "_C9A83FvdGs",
    "data": "2024-11-13",
-   "titulo": "Luiz Silva – Grêmio Prudente – Despedida e Novos Planos do Paredão!"
+   "titulo": "Luiz Silva – Grêmio Prudente – Despedida e Novos Planos do Paredão!",
+   "clube": "prudente",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Luiz Silva"
   },
   {
    "n": 4,
    "id": "zs323SJbeGs",
    "data": "2024-11-11",
-   "titulo": "Vinícius Jaú – Acesso a Série A3 do XV de Jaú"
+   "titulo": "Vinícius Jaú – Acesso a Série A3 do XV de Jaú",
+   "clube": "xv-de-jau",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Vinícius Jaú"
   },
   {
    "n": 3,
    "id": "po3kCZepn0M",
    "data": "2024-11-10",
-   "titulo": "Vinícius Bala – o Atacante da Votuporanguense Veloz e Letal"
+   "titulo": "Vinícius Bala – o Atacante da Votuporanguense Veloz e Letal",
+   "clube": "votuporanguense",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Vinícius Bala"
   },
   {
    "n": 2,
    "id": "NEEAKufV_4M",
    "data": "2024-11-09",
-   "titulo": "Guilherme Nogueira o Novo Paredão de Capivari"
+   "titulo": "Guilherme Nogueira o Novo Paredão de Capivari",
+   "clube": "capivariano",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Guilherme Nogueira o Novo Paredão"
   },
   {
    "n": 1,
    "id": "htdni6WZO-4",
    "data": "2024-11-08",
-   "titulo": "Richard Silva – Araçatuba na Série A4"
+   "titulo": "Richard Silva – Araçatuba na Série A4",
+   "clube": "aracatuba",
+   "tipo": "jogador",
+   "base": false,
+   "nome": "Richard Silva"
   }
  ]
 }
