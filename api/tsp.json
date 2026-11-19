@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T18:25:00-03:00",
+ "gerado": "2026-11-18T21:46:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -109,6 +109,17 @@
      "gc": 40
     },
     {
+     "id": 900008,
+     "nome": "Santos",
+     "pts": 50,
+     "j": 35,
+     "v": 13,
+     "e": 11,
+     "d": 11,
+     "gp": 51,
+     "gc": 49
+    },
+    {
      "id": 900010,
      "nome": "Red Bull Bragantino",
      "pts": 47,
@@ -118,17 +129,6 @@
      "d": 13,
      "gp": 44,
      "gc": 39
-    },
-    {
-     "id": 900008,
-     "nome": "Santos",
-     "pts": 47,
-     "j": 34,
-     "v": 12,
-     "e": 11,
-     "d": 11,
-     "gp": 50,
-     "gc": 49
     },
     {
      "id": 900009,
@@ -167,12 +167,12 @@
      "id": 900012,
      "nome": "Coritiba",
      "pts": 42,
-     "j": 34,
+     "j": 35,
      "v": 11,
      "e": 9,
-     "d": 14,
+     "d": 15,
      "gp": 40,
-     "gc": 51
+     "gc": 52
     },
     {
      "id": 900015,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000146,
-     "rodada": "35",
-     "data": "2026-11-18T19:30",
-     "casa": 900012,
-     "fora": 900008,
-     "a_confirmar": false
-    },
     {
      "id": 91000147,
      "rodada": "35",
@@ -1190,6 +1182,12 @@
      900013,
      0,
      2
+    ],
+    [
+     900012,
+     900008,
+     0,
+     1
     ]
    ]
   }
@@ -4648,100 +4646,7 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {
-    "casa": {
-     "tecnico": "Dorival Júnior",
-     "time": "Rafael; Domingos Duarte, Arboleda, Tolói; Pedro Lima, Marcos Antônio, Djhordney, Iago; Artur, Luciano, Calleri",
-     "entraram": [
-      {
-       "jogador": "Sabino",
-       "saiu": "Domingos Duarte",
-       "minuto": ""
-      },
-      {
-       "jogador": "Lucas Ramon",
-       "saiu": "Pedro Lima",
-       "minuto": ""
-      },
-      {
-       "jogador": "Ferreira",
-       "saiu": "Artur",
-       "minuto": ""
-      },
-      {
-       "jogador": "Danielzinho",
-       "saiu": "Luciano",
-       "minuto": ""
-      },
-      {
-       "jogador": "André Silva",
-       "saiu": "Calleri",
-       "minuto": ""
-      }
-     ],
-     "cartoes": {
-      "amarelos": [
-       {
-        "jogador": "Calleri",
-        "minuto": ""
-       }
-      ],
-      "vermelhos": []
-     }
-    },
-    "fora": {
-     "tecnico": "Paulo Pezzolano",
-     "time": "Anthoni; Vitinho, Bruno Gomes, Maripán, Mercado, Matheus Bahia; Paulinho Paula, Bruno Henrique, Bernabei; Alan Patrick, Carbonero",
-     "entraram": [
-      {
-       "jogador": "Aguirre",
-       "saiu": "Vitinho",
-       "minuto": ""
-      },
-      {
-       "jogador": "Allex",
-       "saiu": "Matheus Bahia",
-       "minuto": ""
-      },
-      {
-       "jogador": "Sanabria",
-       "saiu": "Paulinho Paula",
-       "minuto": ""
-      },
-      {
-       "jogador": "Thiago Maia",
-       "saiu": "Bruno Henrique",
-       "minuto": ""
-      },
-      {
-       "jogador": "Eliasson",
-       "saiu": "Carbonero",
-       "minuto": ""
-      }
-     ],
-     "cartoes": {
-      "amarelos": [
-       {
-        "jogador": "Matheus Bahia",
-        "minuto": ""
-       },
-       {
-        "jogador": "Bruno Henrique",
-        "minuto": ""
-       },
-       {
-        "jogador": "Mercado",
-        "minuto": ""
-       }
-      ],
-      "vermelhos": []
-     }
-    },
-    "fontes": [
-     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-x-internacional-brasileirao-19-09-2026/"
-    ],
-    "atualizado": "2026-11-12T05:49:00-03:00"
-   },
+   "escalacoes": {},
    "previsao": null,
    "events": []
   },
@@ -11291,14 +11196,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://placar.com.br/brasileirao/santos-vence-o-coritiba-com-gol-nos-acrescimos-e-sobe-no-brasileirao/",
+    "https://abcdjornal.com.br/esporte/noticia/2026/11/18/santos-vence-o-coritiba-fora-de-casa-e-segue-na-briga-pela-libertadores/"
    ],
    "fixture": {
     "id": 91000146,
     "timestamp": 1795041000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Couto Pereira",
@@ -11320,8 +11227,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -11379,21 +11286,25 @@
     }
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 39,
-    "empate": 27,
-    "fora": 34,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.31,
-     1.21
-    ],
-    "base": [
-     20,
-     22
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+2"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -11550,7 +11461,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 62,
     "empate": 21,
     "fora": 17,
     "placar": "2x0",
@@ -11657,7 +11568,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.08,
-     1.16
+     1.17
     ],
     "base": [
      26,
@@ -11759,7 +11670,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.06,
-     1.73
+     1.74
     ],
     "base": [
      15,
@@ -11823,7 +11734,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
+    "casa": 61,
     "empate": 20,
     "fora": 19,
     "placar": "2x1",
@@ -11899,7 +11810,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.65,
-     1.37
+     1.38
     ],
     "base": [
      13,
@@ -12094,7 +12005,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.52,
-     0.91
+     0.92
     ],
     "base": [
      16,
@@ -12144,17 +12055,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 55,
     "empate": 24,
-    "fora": 22,
-    "placar": "1x1",
+    "fora": 21,
+    "placar": "1x0",
     "gols_esperados": [
-     1.75,
-     1.04
+     1.74,
+     0.99
     ],
     "base": [
      14,
-     20
+     21
     ]
    },
    "events": []
@@ -12206,7 +12117,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.02,
-     1.8
+     1.81
     ],
     "base": [
      14,
@@ -12318,7 +12229,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.21,
-     0.94
+     0.95
     ],
     "base": [
      18,
@@ -12536,16 +12447,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 48,
     "empate": 24,
-    "fora": 29,
+    "fora": 28,
     "placar": "1x1",
     "gols_esperados": [
-     1.68,
-     1.27
+     1.66,
+     1.21
     ],
     "base": [
-     22,
+     23,
      17
     ]
    },
@@ -12597,7 +12508,7 @@
     "fora": 16,
     "placar": "1x0",
     "gols_esperados": [
-     1.73,
+     1.74,
      0.75
     ],
     "base": [
@@ -35972,6 +35883,20 @@
      ],
      [
       8,
+      900008,
+      "Santos",
+      50,
+      35,
+      13,
+      11,
+      11,
+      2,
+      "",
+      51,
+      49
+     ],
+     [
+      9,
       900010,
       "Red Bull Bragantino",
       47,
@@ -35983,20 +35908,6 @@
       "",
       44,
       39
-     ],
-     [
-      9,
-      900008,
-      "Santos",
-      47,
-      34,
-      12,
-      11,
-      11,
-      1,
-      "",
-      50,
-      49
      ],
      [
       10,
@@ -36045,14 +35956,14 @@
       900012,
       "Coritiba",
       42,
-      34,
+      35,
       11,
       9,
-      14,
-      -11,
+      15,
+      -12,
       "",
       40,
-      51
+      52
      ],
      [
       14,
@@ -36454,7 +36365,7 @@
     "jogador": "Gabigol",
     "time": "Santos",
     "time_id": 900008,
-    "gols": 4
+    "gols": 5
    },
    {
     "jogador": "John Kennedy",

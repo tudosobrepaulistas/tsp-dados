@@ -7561,22 +7561,31 @@
    "data": "2026-11-18T19:30:00-03:00",
    "casa": "coritiba",
    "fora": "santos",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Couto Pereira",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gabigol",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://placar.com.br/brasileirao/santos-vence-o-coritiba-com-gol-nos-acrescimos-e-sobe-no-brasileirao/",
+    "https://abcdjornal.com.br/esporte/noticia/2026/11/18/santos-vence-o-coritiba-fora-de-casa-e-segue-na-briga-pela-libertadores/"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-18T21:46:00-03:00",
    "prejogo": {
     "analise": [
      "Coritiba e Santos se enfrentam na quarta-feira (18/11), às 19h30, no Couto Pereira, em Curitiba, pela 35ª rodada da Série A. O Coxa é o 13º colocado, com 42 pontos, cinco acima do Corinthians, primeiro time da zona de rebaixamento (37). O Santos está em 9º, com 47 pontos, e mira uma vaga na Libertadores de 2027.",
