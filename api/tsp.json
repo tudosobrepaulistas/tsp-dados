@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T03:39:00-03:00",
+ "gerado": "2026-11-19T03:49:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -11275,7 +11275,59 @@
      "atualizado": "2026-11-18T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Guila Bossle",
+     "time": "Pedro Rangel; Tinga, Tiago Cóser, Jacy, Bruno Melo; Thiago Santos, Sebastián Gómez, Nicolás Fonseca, Josué; Breno Lopes, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Richard",
+       "saiu": "Thiago Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Sebastián Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ocampo",
+       "saiu": "Nicolás Fonseca",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Roberto",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Willian Arão, Luan Peres; Gustavo Henrique, Arthur, Philippe Coutinho, Everton Cebolinha, Neymar; Gabigol",
+     "entraram": [
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Arthur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Christian Oliva",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/santos/santos-bate-coritiba-com-gol-no-fim-e-fica-mais-perto-do-g6-do-brasileiro/"
+    ],
+    "atualizado": "2026-11-19T03:43:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -11381,7 +11433,74 @@
      "atualizado": "2026-11-18T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Thiago Carpini",
+     "time": "Marcelo Rangel; Marcelinho, Zé Ivaldo, Duplexe Tchamba, Mayk; Zé Welison, Patrick, Leonel Picco; David Braga, Jajá, Gabriel Taliari",
+     "entraram": [
+      {
+       "jogador": "Marlon",
+       "saiu": "Mayk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edson Fernando",
+       "saiu": "Leonel Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galeano",
+       "saiu": "David Braga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Pikachu",
+       "saiu": "Gabriel Taliari",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Vinícius Bergantin",
+     "time": "Gabriel Werner; Bruno Tubarão, Kauan Faria, Eduardo Doma, Fernando; Camilo, David Antunes, Max Alves, Giovanni Augusto; Dylan Borrero, Túlio Eduardo",
+     "entraram": [
+      {
+       "jogador": "Rubens Tadeu",
+       "saiu": "Bruno Tubarão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mancha",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel Carvalho",
+       "saiu": "David Antunes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Robert Santos",
+       "saiu": "Max Alves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton",
+       "saiu": "Dylan Borrero",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/remo-bate-chapecoense-e-mantem-chances-evitar-queda-no-brasileiro/"
+    ],
+    "atualizado": "2026-11-19T03:43:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
