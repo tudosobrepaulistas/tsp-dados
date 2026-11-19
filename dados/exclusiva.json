@@ -1,19 +1,75 @@
 {
- "_leia": "Episódios do TSP Exclusiva (entrevistas do canal do TSP no YouTube). O site lê este arquivo e também o RSS do canal para pegar episódios novos. destaque = episódio em evidência na home, com o escudo do clube.",
+ "_leia": "Episódios do TSP Exclusiva (entrevistas do canal do TSP no YouTube). O site lê este arquivo e também o RSS do canal para pegar episódios novos. destaque = episódio em evidência na home, com o escudo do clube. Campos opcionais por episódio: convidado, entrevistador, duracao, resumo, materia (link da matéria) e topicos ([[\"mm:ss\",\"assunto\"], ...]) para o player da home.",
  "canal": "UCq9l4FgB8VSe3ij2RM4tv_A",
  "canal_url": "https://www.youtube.com/@TudoSobrePaulista",
  "destaque": {
   "n": 173,
   "clube": "lemense",
   "nome": "Danilo Sacramento",
-  "papel": "Técnico do Lemense"
+  "papel": "Técnico do Lemense",
+  "cor": "#1E3A8A"
  },
  "episodios": [
   {
    "n": 173,
    "id": "hwT0lr2bYz0",
    "data": "2026-11-18",
-   "titulo": "Danilo Sacramento fala sobre chegada ao Lemense e planejamento da A4"
+   "titulo": "Danilo Sacramento fala sobre chegada ao Lemense e planejamento da A4",
+   "convidado": "Danilo Sacramento",
+   "entrevistador": "Thiago Barbalho",
+   "duracao": "43:20",
+   "resumo": "Thiago Barbalho conversa com Danilo Sacramento, novo técnico do Lemense, sobre a preparação para a Série A4 de 2027, a montagem do elenco, a crítica ao novo formato do campeonato, as faltas que treinava com Marcelinho Carioca no Vasco e o Vasco x Flamengo com 100 mil pessoas no Maracanã.",
+   "materia": "https://tudosobrepaulista.com.br/materia/danilo-sacramento-assume-o-lemense-e-projeta-2027-futebol-tem-que-ser-bem-jogado/",
+   "topicos": [
+    [
+     "01:31",
+     "Preparação desde julho e cinco atletas da base"
+    ],
+    [
+     "03:08",
+     "A comissão técnica do Lemense"
+    ],
+    [
+     "04:43",
+     "De União São João ao Grêmio São-Carlense"
+    ],
+    [
+     "08:49",
+     "Por que aceitou o projeto do Lemense"
+    ],
+    [
+     "11:24",
+     "Crítica ao novo formato da Série A4"
+    ],
+    [
+     "13:55",
+     "Saídas e montagem do elenco"
+    ],
+    [
+     "19:35",
+     "Max como gerente e a força do mental"
+    ],
+    [
+     "22:17",
+     "“Futebol tem que ser bem jogado”"
+    ],
+    [
+     "26:44",
+     "Marcelinho Carioca e o treino de faltas"
+    ],
+    [
+     "31:18",
+     "Torcida Persistentes e categorias de base"
+    ],
+    [
+     "34:20",
+     "Os reforços para 2027"
+    ],
+    [
+     "40:28",
+     "Vasco x Flamengo com 100 mil no Maracanã"
+    ]
+   ]
   },
   {
    "n": 172,

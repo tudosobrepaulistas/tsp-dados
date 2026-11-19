@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-19T03:40-03:00",
+ "gerado": "2026-11-19T04:05-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.8.9",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.6.5",
-   "zip": "tsp-nova-era-1.6.5.zip",
-   "notas": "TSP Exclusiva na home (entre o Paulistão A1 e o A2) e página /tsp-exclusiva/ com todos os episódios. Série B sai do menu e da barra de clubes fora de temporada. Ponte Preta segue no Paulistão A2."
+   "versao": "1.6.6",
+   "zip": "tsp-nova-era-1.6.6.zip",
+   "notas": "TSP Exclusiva como área premium (estilo Spotify) logo depois das coletivas da Série A: capa que toca o vídeo ali mesmo, resumo, \"Neste episódio\" com os assuntos e minuto de cada um, e episódios anteriores. Página /tsp-exclusiva/ corrigida."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
