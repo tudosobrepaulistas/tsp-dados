@@ -323,7 +323,7 @@ def cmd_trocar_foto(a):
     print(f"OK: troca de foto na fila ({nome}). Commit, push e avisar-site.")
 
 
-BLOCOS = {"A1": ["botafogosp", "capivariano", "corinthians", "ferroviaria", "guarani", "juventus", "mirassol", "noroeste", "novorizontino", "palmeiras", "pontepreta", "portuguesa", "primavera", "bragantino", "santos", "saobernardo", "saopaulo"], "A2": ["aguasanta", "interdelimeira", "ituano", "linense", "marilia", "monteazul", "osasco-sporting", "portuguesasantista", "santoandre", "saojose", "sertaozinho", "taubate", "veloclube", "votuporanguense", "xvdepiracicaba"], "A3": ["bandeirante", "catanduva", "ec-sao-bernardo", "francana", "prudente", "inter-de-bebedouro", "itapirense", "paulista-jundiai", "penapolense", "rio-branco", "rioclaro", "rio-preto", "saobento", "uniao-barbarense", "uniao-sao-joao", "xv-de-jau"]}
+BLOCOS = {"A1": ["botafogosp", "capivariano", "corinthians", "ferroviaria", "guarani", "juventus", "mirassol", "noroeste", "novorizontino", "palmeiras", "portuguesa", "primavera", "bragantino", "santos", "saobernardo", "saopaulo"], "A2": ["aguasanta", "interdelimeira", "ituano", "linense", "marilia", "monteazul", "osasco-sporting", "pontepreta", "portuguesasantista", "santoandre", "saojose", "sertaozinho", "taubate", "veloclube", "votuporanguense", "xvdepiracicaba"], "A3": ["bandeirante", "catanduva", "ec-sao-bernardo", "francana", "prudente", "inter-de-bebedouro", "itapirense", "paulista-jundiai", "penapolense", "rio-branco", "rioclaro", "rio-preto", "saobento", "uniao-barbarense", "uniao-sao-joao", "xv-de-jau"]}
 
 
 def ultima_materia_de(slugs):
@@ -860,15 +860,36 @@ def blocos_cota():
     ]
     if sb_ativa:
         blocos.append(("Série B", serie_b, 2 * len(serie_b), 2, "2 de cada clube por dia"))
+    # 19/11/2026 (Thiago): A4 é prioridade (8 por dia, estava 2 dias sem matéria); A1 = 1 matéria de CADA um dos 10 clubes
+    # de férias por dia; A2 e A3 = equilíbrio (o clube com menos matérias nos últimos 7 dias primeiro, redação + Máquina).
     return blocos + [
+        ("Paulistão A4", [c["slug"] for c in cs if c.get("grupo") == "a4"], 8, 0, "PRIORIDADE: 8 por dia, o clube com menos matérias nos últimos 7 dias primeiro"),
         ("Clubes prioritários (2 por dia)", fixos, 2 * len(fixos), 2, "2 de cada clube por dia, qualquer divisão (1 até 12h, a 2ª até 18h)"),
+        ("Paulistão A1 (10 clubes de férias: 1 de cada por dia)", [x for x in BLOCOS["A1"] if x not in nac], len([x for x in BLOCOS["A1"] if x not in nac]), 1, "1 matéria de CADA clube por dia (o bloco da home precisa mostrar os 10)"),
+        ("Paulistão A2", [x for x in BLOCOS["A2"] if x not in nac], 8, 0, "8 por dia, EQUILÍBRIO: o clube com menos matérias nos últimos 7 dias primeiro"),
+        ("Paulistão A3", [x for x in BLOCOS["A3"] if x not in nac], 8, 0, "8 por dia, EQUILÍBRIO: o clube com menos matérias nos últimos 7 dias primeiro"),
         ("Futebol feminino", [c["slug"] for c in cs if c.get("grupo") == "feminino"], 8, 0, "8 por dia, variando entre as 8 equipes"),
-        ("Paulistão A1 (sem os grandes e sem Mirassol/Bragantino)", [x for x in BLOCOS["A1"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
-        ("Paulistão A2", [x for x in BLOCOS["A2"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
-        ("Paulistão A3", [x for x in BLOCOS["A3"] if x not in nac], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
-        ("Paulistão A4", [c["slug"] for c in cs if c.get("grupo") == "a4"], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
-        ("Clubes sem divisão", [c["slug"] for c in cs if c.get("grupo") == "sem_divisao"], 8, 0, "8 por dia, o clube há mais tempo sem matéria primeiro"),
+        ("Clubes sem divisão", [c["slug"] for c in cs if c.get("grupo") == "sem_divisao"], 8, 0, "8 por dia, o clube com menos matérias nos últimos 7 dias primeiro"),
     ]
+
+
+def contagem_7_dias():
+    """Matérias por clube (slug) nos últimos 7 dias, qualquer autor: base do equilíbrio da cobertura."""
+    ini = (agora() - datetime.timedelta(days=7)).strftime("%Y-%m-%dT%H:%M:%S")
+    inv = {v: k for k, v in termos().items()}
+    cont = {}
+    for pag in range(1, 15):
+        try:
+            ms = baixar(f"{SITE}materia?after={ini}&per_page=100&page={pag}&_fields=times")
+        except Exception:  # noqa: BLE001
+            break
+        for m in ms:
+            for t in m.get("times") or []:
+                s = inv.get(t, "")
+                cont[s] = cont.get(s, 0) + 1
+        if len(ms) < 100:
+            break
+    return cont
 
 
 def materias_de_hoje():
@@ -894,8 +915,9 @@ def cmd_cotas(a):
     t = agora()
     hoje = materias_de_hoje()
     # meta proporcional ao horário (8h → 0, 22h → tudo), para espalhar as matérias no dia; depois das 21h vale a meta cheia
-    frac = 1.0 if t.hour >= 21 else max(0.0, min(1.0, (t.hour + t.minute / 60 - 8) / 13))
+    frac = 1.0 if t.hour >= 21 else max(0.0, min(1.0, (t.hour + t.minute / 60 - 6) / 14))
     falta_total = 0
+    sete = contagem_7_dias()
     print(f"Cotas de {t:%d/%m} às {t:%H:%M} (tudo o que saiu no site hoje: redação + Máquina)")
     for nome, slugs, meta, por_clube, regra in blocos_cota():
         cont = {s: sum(1 for cl, _, _ in hoje if s in cl) for s in slugs}
@@ -907,6 +929,9 @@ def cmd_cotas(a):
             else:
                 alvo = por_clube if t.hour >= 17 else (1 if t.hour >= 11 else 0)
             faltam = [(s, alvo - cont[s]) for s in slugs if cont[s] < alvo]
+            if por_clube == 1 and 11 <= t.hour < 17:
+                # A1: de manhã metade dos clubes, à tarde todos (os menos cobertos na semana primeiro)
+                faltam = sorted(faltam, key=lambda x: sete.get(x[0], 0))[:max(0, math.ceil(len(slugs) * frac) - feito)]
             n = sum(x for _, x in faltam)
             st = f"{feito} hoje ({', '.join(f'{s} {cont[s]}' for s in slugs)})"
         else:
@@ -921,17 +946,11 @@ def cmd_cotas(a):
         if por_clube:
             cand = [s for s, _ in faltam]
         else:
-            idade = []
-            for s in slugs:
-                try:
-                    h, _ = ultima_materia_de([s])
-                except Exception:  # noqa: BLE001
-                    h = 99
-                idade.append((-h, s))
-            idade.sort()
-            cand = [s for _, s in idade[:max(4, n + 2)]]
+            # equilíbrio: menos matérias hoje, depois menos nos últimos 7 dias
+            ordem = sorted(slugs, key=lambda x: (cont.get(x, 0), sete.get(x, 0)))
+            cand = ordem[:max(4, n + 3)]
         for s in cand:
-            linha = f"- {s} ({cont.get(s, 0)} hoje)"
+            linha = f"- {s} ({cont.get(s, 0)} hoje, {sete.get(s, 0)} em 7 dias)"
             ps = pautas_de([s])[:2]
             print(linha + ("" if ps else " · sem pauta da redação"))
             for p_ in ps:

@@ -37,3 +37,10 @@ Se a redação não fez, a Máquina faz. A Máquina nunca passa da conta: só co
    ("máquina: cota - <bloco> - <clube> - <assunto>") e push. No fim: `python3 ferramentas/maquina.py avisar-site`.
 7. Sem notícia nem evergreen possível para um clube: `maquina.py sem-pauta CLUBE --motivo ... --sugestao ...` e passe ao próximo.
 8. Resumo: placar de cada bloco no fim (rode `cotas` de novo) e o que não deu e por quê.
+
+## Prioridades de 19/11/2026 (pedido do Thiago)
+- **Paulistão A4 é prioridade**: 8 matérias por dia, sempre logo depois de Mirassol + Bragantino. O A4 ficou 2 dias sem matéria (17 e 18/11): não pode se repetir.
+- **Paulistão A1 (clubes de férias)**: o bloco da home precisa mostrar os 10 clubes (Botafogo-SP, Capivariano, Ferroviária, Guarani, Juventus, Noroeste, Novorizontino, Portuguesa, Primavera e São Bernardo): **1 matéria de cada clube por dia**.
+- **A2 e A3: equilíbrio**. A ferramenta conta as matérias de cada clube nos últimos 7 dias (redação + Máquina) e mostra primeiro os clubes com menos cobertura. Não escreva sobre o clube que a redação já cobriu bem enquanto houver clube do mesmo bloco com 0 ou 1 matéria na semana.
+- Ponte Preta continua no bloco do **Paulistão A2**.
+- Ordem de execução: Mirassol + Bragantino → A4 → clubes prioritários → A1 → A2 → A3 → base → feminino → sem divisão.
