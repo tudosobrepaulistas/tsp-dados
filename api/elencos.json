@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T04:27:00-03:00",
+ "gerado": "2026-11-19T04:38:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3685,7 +3685,12 @@
     {
      "nome": "Danilinho",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-21-danilinho-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -3706,7 +3711,12 @@
     {
      "nome": "Anderson Ligeiro",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-27-anderson-ligeiro-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -3716,7 +3726,12 @@
     {
      "nome": "Wandson",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-28-wandson-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/wandson/499186",
@@ -3736,7 +3751,12 @@
     {
      "nome": "Gustavo Nicola",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-28-gustavo-nicola-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/gustavo-nicola/598828",
@@ -3767,7 +3787,12 @@
     {
      "nome": "Cayo Tenório",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-28-cayo-tenorio-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/cayo-tenorio/450950",
@@ -3787,7 +3812,12 @@
     {
      "nome": "Diogo Vieira",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-diogo-vieira-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/diogo-vieira/978460",
@@ -3813,7 +3843,12 @@
     {
      "nome": "Rodrigo Gaia",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-rodrigo-gaia-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -3848,7 +3883,12 @@
     {
      "nome": "Sérgio Raphael",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-sergio-raphael-santo-andre.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsantoandre/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
