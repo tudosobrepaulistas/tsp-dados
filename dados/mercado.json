@@ -174,6 +174,25 @@
   },
   {
    "data": "2026-11-17",
+   "jogador": "Raphael Pereira",
+   "posicao": "Treinador",
+   "de": "Comercial",
+   "para": "São Caetano",
+   "de_slug": "comercial",
+   "para_slug": "saocaetano",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Técnico para o Paulistão A4 2027; bicampeão da A4 (Rio Branco 2024 e União Barbarense 2025)",
+   "fontes": [
+    "https://www.futebolinterior.com.br/sao-caetano-raphael-pereira-treinador/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-17-raphael-pereira-sao-caetano",
+   "atualizado": "2026-11-19T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-17",
    "jogador": "Pedro Felipe",
    "posicao": "Atacante",
    "de": "",
@@ -221,6 +240,34 @@
   },
   {
    "data": "2026-11-17",
+   "jogador": "Léo Príncipe",
+   "posicao": "Lateral",
+   "de": "ASA",
+   "para": "Paulista",
+   "de_slug": "",
+   "para_slug": "paulista-jundiai",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-Corinthians; lateral-direito",
+   "fontes": [
+    "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista"
+   ],
+   "anuncio_do_clube": true,
+   "numeros_2026": {
+    "jogos": 14,
+    "assistencias": 2,
+    "clubes": [
+     "ASA"
+    ],
+    "obs": "6 jogos no Alagoano, 3 na Copa Alagoas, 1 na Copa do Nordeste e 4 na Série D",
+    "fonte": "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista"
+   },
+   "id": "2026-11-17-leo-principe-paulista",
+   "atualizado": "2026-11-19T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-17",
    "jogador": "Kleverson",
    "posicao": "Lateral",
    "de": "Juventus-SC",
@@ -244,6 +291,44 @@
    },
    "id": "2026-11-17-kleverson-rio-claro",
    "atualizado": "2026-11-18T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-17",
+   "jogador": "Jeferson Lima",
+   "posicao": "",
+   "de": "São José",
+   "para": "",
+   "de_slug": "saojose",
+   "para_slug": "",
+   "tipo": "saida",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-17-jeferson-lima",
+   "atualizado": "2026-11-19T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-17",
+   "jogador": "Iury Capuriche",
+   "posicao": "",
+   "de": "São José",
+   "para": "",
+   "de_slug": "saojose",
+   "para_slug": "",
+   "tipo": "saida",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-17-iury-capuriche",
+   "atualizado": "2026-11-19T06:57:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -293,6 +378,31 @@
     "assistencias": 0
    },
    "nascimento": "2002-07-25"
+  },
+  {
+   "data": "2026-11-17",
+   "jogador": "Carlos Henrique",
+   "posicao": "Lateral",
+   "de": "São José",
+   "para": "São José",
+   "de_slug": "saojose",
+   "para_slug": "saojose",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Renovou por mais duas temporadas; lateral-esquerdo",
+   "fontes": [
+    "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+   ],
+   "anuncio_do_clube": true,
+   "selos": [
+    {
+     "texto": "Campeão Copa Paulista 2026",
+     "fonte": "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+    }
+   ],
+   "id": "2026-11-17-carlos-henrique-sao-jose",
+   "atualizado": "2026-11-19T06:57:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -5443,6 +5553,25 @@
    ],
    "id": "2026-10-10-edson-paulista-barretos",
    "atualizado": "2026-11-17T06:59:00-03:00"
+  },
+  {
+   "data": "2026-10-09",
+   "jogador": "Ramon Menezes",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Primavera",
+   "de_slug": "",
+   "para_slug": "primavera",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-técnico da Seleção sub-20 e interino da principal; substitui Rafael Marques para 2027",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/ramon-menezes-assume-clube-da-serie-d-um-ano-apos-deixar-a-cbf/",
+    "https://ncnews.com.br/?p=60423"
+   ],
+   "id": "2026-10-09-ramon-menezes-primavera",
+   "atualizado": "2026-11-19T06:57:00-03:00"
   },
   {
    "data": "2026-10-09",

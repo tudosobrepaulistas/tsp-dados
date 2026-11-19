@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T05:02:00-03:00",
+ "gerado": "2026-11-19T06:57:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -276,6 +276,42 @@
    "dono": "rioclaro"
   },
   {
+   "id": "2026-11-17-raphael-pereira-sao-caetano",
+   "data": "2026-11-17",
+   "jogador": "Raphael Pereira",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Técnico para o Paulistão A4 2027; bicampeão da A4 (Rio Branco 2024 e União Barbarense 2025)",
+   "de": {
+    "nome": "Comercial",
+    "slug": "comercial",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Caetano",
+    "slug": "saocaetano",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/sao-caetano-raphael-pereira-treinador/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "saocaetano"
+  },
+  {
    "id": "2026-11-17-pedro-felipe-portuguesa",
    "data": "2026-11-17",
    "jogador": "Pedro Felipe",
@@ -357,6 +393,51 @@
    "dono": "penapolense"
   },
   {
+   "id": "2026-11-17-leo-principe-paulista",
+   "data": "2026-11-17",
+   "jogador": "Léo Príncipe",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-Corinthians; lateral-direito",
+   "de": {
+    "nome": "ASA",
+    "slug": "",
+    "id": 900072,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 14,
+    "assistencias": 2,
+    "clubes": [
+     "ASA"
+    ],
+    "obs": "6 jogos no Alagoano, 3 na Copa Alagoas, 1 na Copa do Nordeste e 4 na Série D",
+    "fonte": "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "paulista-jundiai"
+  },
+  {
    "id": "2026-11-17-kleverson-rio-claro",
    "data": "2026-11-17",
    "jogador": "Kleverson",
@@ -398,6 +479,78 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-jeferson-lima",
+   "data": "2026-11-17",
+   "jogador": "Jeferson Lima",
+   "posicao": "",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "São José",
+    "slug": "saojose",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "saojose"
+  },
+  {
+   "id": "2026-11-17-iury-capuriche",
+   "data": "2026-11-17",
+   "jogador": "Iury Capuriche",
+   "posicao": "",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "São José",
+    "slug": "saojose",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "saojose"
   },
   {
    "id": "2026-11-17-gustavo-pereira-rio-claro",
@@ -480,6 +633,47 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-carlos-henrique-sao-jose",
+   "data": "2026-11-17",
+   "jogador": "Carlos Henrique",
+   "posicao": "Lateral",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Renovou por mais duas temporadas; lateral-esquerdo",
+   "de": {
+    "nome": "São José",
+    "slug": "saojose",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São José",
+    "slug": "saojose",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão Copa Paulista 2026",
+     "fonte": "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "saojose"
   },
   {
    "id": "2026-11-17-adilson-bahia-taubate",
@@ -8601,6 +8795,43 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "barretos"
+  },
+  {
+   "id": "2026-10-09-ramon-menezes-primavera",
+   "data": "2026-10-09",
+   "jogador": "Ramon Menezes",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-técnico da Seleção sub-20 e interino da principal; substitui Rafael Marques para 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Primavera",
+    "slug": "primavera",
+    "id": 900067,
+    "escudo": ""
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/campeonato-paulista/ramon-menezes-assume-clube-da-serie-d-um-ano-apos-deixar-a-cbf/",
+    "https://ncnews.com.br/?p=60423"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "primavera"
   },
   {
    "id": "2026-10-09-junior-caicara-xv-de-piracicaba",

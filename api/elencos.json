@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T05:02:00-03:00",
+ "gerado": "2026-11-19T06:57:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3185,7 +3185,7 @@
    "sairam": []
   },
   "paulista-jundiai": {
-   "atualizado": "2026-11-16",
+   "atualizado": "2026-11-17",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -3259,6 +3259,25 @@
      "selos": [],
      "nascimento": "",
      "de": "Marília"
+    },
+    {
+     "nome": "Léo Príncipe",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 14,
+      "assistencias": 2,
+      "clubes": [
+       "ASA"
+      ],
+      "obs": "6 jogos no Alagoano, 3 na Copa Alagoas, 1 na Copa do Nordeste e 4 na Série D",
+      "fonte": "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "ASA"
     }
    ],
    "chegaram": [
@@ -3279,6 +3298,12 @@
      "de": "Marília",
      "tipo": "Contratação",
      "data": "2026-11-16"
+    },
+    {
+     "nome": "Léo Príncipe",
+     "de": "ASA",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
     }
    ],
    "sairam": []
@@ -4085,6 +4110,32 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-18"
+    }
+   ],
+   "sairam": []
+  },
+  "primavera": {
+   "atualizado": "2026-10-09",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Ramon Menezes",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Ramon Menezes",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-09"
     }
    ],
    "sairam": []
@@ -7560,6 +7611,54 @@
      "foto": null,
      "numeros": null,
      "selos": []
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "saocaetano": {
+   "atualizado": "2026-11-17",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Raphael Pereira",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Comercial"
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Raphael Pereira",
+     "de": "Comercial",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    }
+   ],
+   "sairam": []
+  },
+  "saojose": {
+   "atualizado": "2026-11-17",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Carlos Henrique",
+     "posicao": "Lateral",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [
+      {
+       "texto": "Campeão Copa Paulista 2026",
+       "fonte": "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
+      }
+     ]
     }
    ],
    "chegaram": [],
