@@ -1,104 +1,6 @@
 {
- "gerado": "2026-11-19T11:17-03:00",
+ "gerado": "2026-11-19T13:12-03:00",
  "avisos": [
-  {
-   "clube": "ecus",
-   "nome": "ECUS",
-   "quando": "2026-11-18T11:00-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias; evergreen bloqueado (história em 06/11)",
-   "sugestao": "Planejamento do ECUS para a Série A4 de 2027 no grupo regional (técnico e elenco): consultar redes oficiais do clube e o Diário de Suzano"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-18T11:00-03:00",
-   "motivo": "Últimos anúncios (Edson Paulista, Kadu Barone, Gustavo Britto) já publicados; nada novo confirmado em 2 fontes",
-   "sugestao": "Barretos: reforma do estádio para a Copinha 2027 (andamento) e lista completa de reforços para a A4"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-18T11:00-03:00",
-   "motivo": "Anúncios de Danilo Sacramento e reforços são de outubro; nada novo em 7 dias",
-   "sugestao": "Lemense: quem já está confirmado para a Série A4 de 2027 (técnico Danilo Sacramento, Rodrigo Andrade, Luizão, Wesley Pacheco) e quando começa a pré-temporada"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-18T11:00-03:00",
-   "motivo": "Pacote de reforços é de 05/11; nada novo em 7 dias",
-   "sugestao": "Tanabi: reforços para a A4 de 2027 com o técnico Petterson Martins (Denis Santos, João Monteiro, Dandan, Bernardo, Carignano, Rafinha) - conferir no Instagram oficial"
-  },
-  {
-   "clube": "vocem",
-   "nome": "VOCEM",
-   "quando": "2026-11-18T11:00-03:00",
-   "motivo": "Paulinho McLaren confirmado em 29/10; nada novo em 7 dias",
-   "sugestao": "VOCEM: primeiros reforços de Paulinho McLaren para a A4 de 2027"
-  },
-  {
-   "clube": "ibrachina",
-   "nome": "Ibrachina",
-   "quando": "2026-11-18T11:00-03:00",
-   "motivo": "Ibrachina 0 x 4 Red Bull Bragantino (14/11) na ida da semifinal do Paulista Sub-17 confirmado em 2 fontes, mas sem foto acessível (site do Bragantino bloqueado aqui)",
-   "sugestao": "Ibrachina visita o Red Bull Bragantino no sábado 21/11, 11h, no CPD em Atibaia, na volta da semifinal do Paulista Sub-17 (precisa vencer por 4 gols para pênaltis). Fontes: redbullbragantino.com e futebolinterior.com.br; foto do clube"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-18T12:07-03:00",
-   "motivo": "Sem fato novo em 48h além do já publicado (SAF votada na quinta 19/11; Cristian de Souza ainda não anunciado oficialmente)",
-   "sugestao": "Cobrir a votação da SAF na quinta (19/11) e o anúncio oficial de Cristian de Souza quando sair"
-  },
-  {
-   "clube": "portuguesa",
-   "nome": "Portuguesa",
-   "quando": "2026-11-18T12:07-03:00",
-   "motivo": "Pedro Felipe já publicado em 17/11; nada novo confirmado em 48h",
-   "sugestao": "Confirmar onde a Lusa mandará os jogos do Paulistão 2027 (Diadema?) com nota oficial"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "nome": "XV de Piracicaba",
-   "quando": "2026-11-18T12:07-03:00",
-   "motivo": "Sem notícia nova em 48h; evergreen sem foto livre (só fotos em sites bloqueados para download)",
-   "sugestao": "Guia do Barão da Serra Negra (inaugurado em 04/09/1965; recorde de 27.100 no título da A2 de 1983) com foto do clube"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-18T12:07-03:00",
-   "motivo": "Sem notícia nova confirmada (Johnny ainda em negociação, só 1 fonte de 09/11); evergreen sem foto livre",
-   "sugestao": "Guia do Palma Travassos (inaugurado em 10/11/1964 com Santos 3x2; recorde de 32.400 em 1986) ou a SAF quando assinada"
-  },
-  {
-   "clube": "noroeste",
-   "nome": "Noroeste",
-   "quando": "2026-11-18T12:07-03:00",
-   "motivo": "Comissão técnica nova é de 05/11; nada novo em 48h",
-   "sugestao": "Reforços do elenco para o Paulistão 2027 confirmados pelo clube"
-  },
-  {
-   "clube": "ferroviaria",
-   "nome": "Ferroviária",
-   "quando": "2026-11-18T12:07-03:00",
-   "motivo": "Sem notícia nova confirmada em 48h",
-   "sugestao": "Planejamento da Série B 2027 e renovações do elenco"
-  },
-  {
-   "clube": "noroeste",
-   "nome": "Noroeste",
-   "quando": "2026-11-18T15:27-03:00",
-   "motivo": "Cobertura 6h bloco A1: nenhuma notícia das últimas 48h com 2 fontes nos clubes do bloco. Noroeste: Black Friday das camisas (R$ 99,90, 18 a 30/11) só na 96FM Bauru/JCNET; Guarani: rescisão antecipada de Willian Farias (ge, 18/11) só achada em agregador; Ferroviária, Capivariano, Primavera e Juventus sem fato novo.",
-   "sugestao": "Redator: confirmar no ge Campinas e no site do Guarani a saída de Willian Farias e a chegada de Thiaguinho; ou a Black Friday de camisas do Noroeste no Instagram oficial do clube + JCNET."
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-18T18:12-03:00",
-   "motivo": "Cotas 17h43: SAF (votação na quinta, 19), técnico Cristian de Souza e folha de 2027 já publicados; nada novo confirmado em 2 fontes nas últimas 48h",
-   "sugestao": "Resultado da votação da SAF (venda de 90% a Roberto Graziano) na quinta (19) à noite, com o placar de votos e próximos passos"
-  },
   {
    "clube": "portuguesa",
    "nome": "Portuguesa",
@@ -420,6 +322,104 @@
    "quando": "2026-11-19T11:17-03:00",
    "motivo": "Origem do apelido Fantasma da Mogiana sem fonte e sem foto livre",
    "sugestao": "Origem do apelido com o clube ou o Batatais 24h"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "FI (19/11) informa Adriano Rodrigues, ex-CSA, para 2027, mas a matéria não abriu aqui e não há 2ª fonte; Instagram do clube pede login; Wikimedia e sites dos clubes bloqueados para foto nesta execução",
+   "sugestao": "ECUS anuncia Adriano Rodrigues (ex-CSA) para a Série A4 2027: conferir no Instagram @ecuniaosuzano + Futebol Interior e foto oficial"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem fato novo nas últimas 48h (SAF, Ricardo Oliveira e Copa CCF já publicados); site e jornais de Ribeirão sem novidade",
+   "sugestao": "Comercial: andamento da SAF com a Alliance Football e primeiros reforços da Série A4 (Tribuna Ribeirão / CBN Ribeirão + assessoria)"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia confirmada; técnico de 2027 não encontrado; evergreen bloqueado (história em 06/11)",
+   "sugestao": "Quem será o técnico do Colorado Caieiras na A4 2027 (assessoria do clube)"
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia confirmada nas últimas 48h",
+   "sugestao": "Jabaquara 2027: técnico e reforços para a A4 (redes oficiais do Leão da Caneleira + Futebol Interior)"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Votação da venda de 90% da SAF a Roberto Graziano é hoje (19/11) à noite; resultado ainda não saiu; pré-votação já publicada",
+   "sugestao": "Resultado da assembleia de sócios do Guarani sobre a SAF (19/11, noite): site oficial + ge/Correio Popular"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Site oficial sem notícia desde 04/11; reforços, aniversário e preparação já publicados",
+   "sugestao": "XV de Piracicaba: amistosos da pré-temporada e numeração do elenco 2027 (assessoria + Jornal de Piracicaba)"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Pedro Felipe, Franco e Cesinha já publicados; Arena Inamar é de 12/11; sem fato novo em 2 fontes",
+   "sugestao": "Portuguesa: como fica o Canindé em obras e a ida para a Arena Inamar em 2027 (Lusa + DGABC)"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia das últimas 48h",
+   "sugestao": "Capivariano 2027: técnico, reforços e data da reapresentação para o Paulistão"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia das últimas 48h; site oficial bloqueado para foto nesta execução",
+   "sugestao": "Ferroviária: reforços para Paulistão e Série B 2027 (site oficial + Portal Morada/Tribuna Impressa)"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia das últimas 48h",
+   "sugestao": "Juventus 2027: elenco e reapresentação para o Paulistão (redes do Moleque Travesso + Gazeta Esportiva)"
+  },
+  {
+   "clube": "monteazul",
+   "nome": "Monte Azul",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia nova; evergreen do bloco A2 possível, mas sem foto livre acessível (Wikimedia 429 e sites bloqueados)",
+   "sugestao": "Monte Azul: primeiros reforços de José Oliveira para a A2 2027"
+  },
+  {
+   "clube": "prudente",
+   "nome": "Grêmio Prudente",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Guia do Prudentão apurado (inaugurado em 12/10/1982, cerca de 45 mil lugares, av. Juscelino Kubitschek), mas sem foto: Wikimedia respondendo 429 e site do clube bloqueado",
+   "sugestao": "Guia do Prudentão, casa do Grêmio Prudente na A3 2027 (fontes: gdprudente.com.br/historia + Arquitetura e História de Presidente Prudente)"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia das Leoas nas últimas 48h; evergreen do feminino só a partir de 20/11",
+   "sugestao": "Mirassol Feminino: planejamento de 2027 com a assessoria"
+  },
+  {
+   "clube": "ac-guaratingueta",
+   "nome": "AC Guaratinguetá",
+   "quando": "2026-11-19T13:12-03:00",
+   "motivo": "Sem notícia; evergreen possível (1 vaga hoje), mas sem foto livre acessível nesta execução",
+   "sugestao": "AC Guaratinguetá: estádio e história do futebol na cidade (com foto do clube)"
   }
  ]
 }
