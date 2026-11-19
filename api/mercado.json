@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T04:38:00-03:00",
+ "gerado": "2026-11-19T04:41:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -8063,7 +8063,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-28-douglas-marques-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecsantoandre/",
+    "ia": true
+   },
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
    ],
@@ -8634,7 +8639,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-07-douglas-leite-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecsantoandre/",
+    "ia": true
+   },
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4351485/santo-andre-anuncia-douglas-leite-como-tecnico-para-2027",
     "https://abcdoabc.com.br/douglas-leite-novo-tecnico-santo-andre/"
