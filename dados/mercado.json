@@ -80,7 +80,7 @@
   {
    "data": "2026-11-17",
    "jogador": "Rayan Corrêa",
-   "posicao": "",
+   "posicao": "Zagueiro",
    "de": "",
    "para": "Rio Claro",
    "de_slug": "",
@@ -94,7 +94,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-17-rayan-correa-rio-claro",
-   "atualizado": "2026-11-18T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/rayan-correa/721948",
+    "clubes": [
+     "Valeriodoce",
+     "Galo Maringá"
+    ],
+    "jogos": 12,
+    "minutos": 660,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2002-04-25"
   },
   {
    "data": "2026-11-17",
@@ -205,7 +217,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-17-chileno-rio-claro",
-   "atualizado": "2026-11-18T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/chileno/736932",
+    "clubes": [
+     "Bataguassu"
+    ],
+    "jogos": 9,
+    "minutos": 614,
+    "gols": 2,
+    "assistencias": 0
+   },
+   "nascimento": "2002-07-25"
   },
   {
    "data": "2026-11-17",
@@ -311,13 +334,23 @@
     "https://www.futebolinterior.com.br/taubate-renova-lucas-bihalva/"
    ],
    "id": "2026-11-16-lucas-bilhalva-taubate",
-   "atualizado": "2026-11-17T06:59:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-lucas-bilhalva-taubate.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-bilhalva/776518",
+    "clubes": [
+     "Atlético Tubarão"
+    ],
+    "jogos": 2,
+    "minutos": 180,
+    "assistencias": 0
+   },
+   "nascimento": "2003-08-03"
   },
   {
    "data": "2026-11-16",
@@ -428,7 +461,18 @@
     "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/"
    ],
    "id": "2026-11-16-gustavo-barreto-botafogo-sp",
-   "atualizado": "2026-11-18T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-barreto/421710",
+    "clubes": [
+     "América Mineiro",
+     "Kyoto Sanga"
+    ],
+    "jogos": 22,
+    "gols": 0,
+    "assistencias": 1
+   },
+   "nascimento": "1995-12-10"
   },
   {
    "data": "2026-11-16",
@@ -569,13 +613,24 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-neto-berola-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-neto-berola-ituano.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://images.futebolinterior.com.br/2025/05/IMG_9348.webp",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/neto-berola/95922",
+    "clubes": [
+     "Ituano"
+    ],
+    "jogos": 34,
+    "minutos": 2273,
+    "gols": 9,
+    "assistencias": 2
+   },
+   "nascimento": "1987-11-18"
   },
   {
    "data": "2026-11-13",
@@ -724,7 +779,17 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-lucas-wingert-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-wingert/612374",
+    "clubes": [
+     "Ituano"
+    ],
+    "jogos": 25,
+    "minutos": 2118,
+    "assistencias": 0
+   },
+   "nascimento": "1999-05-04"
   },
   {
    "data": "2026-11-13",
@@ -776,7 +841,17 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-gabriel-gasparotto-ituano",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/gabriel-gasparotto/217331",
+    "clubes": [
+     "Santo André"
+    ],
+    "jogos": 14,
+    "minutos": 1260,
+    "assistencias": 0
+   },
+   "nascimento": "1993-12-09"
   },
   {
    "data": "2026-11-13",
@@ -795,13 +870,25 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-denis-germano-taubate",
-   "atualizado": "2026-11-17T23:51:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-denis-germano-taubate.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/denis-germano/548806",
+    "clubes": [
+     "GE Brasil",
+     "São Luiz"
+    ],
+    "jogos": 35,
+    "minutos": 1266,
+    "gols": 3,
+    "assistencias": 0
+   },
+   "nascimento": "1998-09-25"
   },
   {
    "data": "2026-11-13",
@@ -820,7 +907,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-13-bady-penapolense",
-   "atualizado": "2026-11-18T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/bady/175261",
+    "clubes": [
+     "Luverdense"
+    ],
+    "jogos": 29,
+    "minutos": 1725,
+    "gols": 2,
+    "assistencias": 0
+   },
+   "nascimento": "1989-04-27"
   },
   {
    "data": "2026-11-12",
@@ -839,13 +937,25 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-12-werley-ferreira-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-werley-ferreira-penapolense.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/penapolenseoficial/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/werley-capanema/781214",
+    "clubes": [
+     "Madureira",
+     "União Suzano"
+    ],
+    "jogos": 22,
+    "minutos": 1766,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1999-07-30"
   },
   {
    "data": "2026-11-12",
@@ -1189,7 +1299,18 @@
     "https://www.futebolinterior.com.br/paulista-contrata-zagueiro-que-conquistou-acesso-a-serie-a2-pelo-marilia/"
    ],
    "id": "2026-11-11-matheus-abreu-paulista",
-   "atualizado": "2026-11-14T07:02:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/matheus-abreu/549276",
+    "clubes": [
+     "Marília"
+    ],
+    "jogos": 23,
+    "minutos": 2025,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "1998-03-25"
   },
   {
    "data": "2026-11-11",
@@ -1246,7 +1367,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-11-felix-jorge-santo-andre",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/felix-jorge/620355",
+    "clubes": [
+     "CSA"
+    ],
+    "jogos": 21,
+    "minutos": 1386,
+    "gols": 1,
+    "assistencias": 1
+   },
+   "nascimento": "1998-04-02"
   },
   {
    "data": "2026-11-11",
@@ -1265,13 +1397,26 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-11-everaldo-filho-taubate",
-   "atualizado": "2026-11-17T23:51:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-everaldo-filho-taubate.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/everaldo-filho/976162",
+    "clubes": [
+     "Taguatinga",
+     "Atlético Tubarão",
+     "Brasiliense"
+    ],
+    "jogos": 22,
+    "minutos": 1418,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "2002-07-11"
   },
   {
    "data": "2026-11-11",
@@ -1290,7 +1435,18 @@
     "https://www.futebolinterior.com.br/xv-de-jau-confirma-dupla-de-volantes/"
    ],
    "id": "2026-11-11-diego-lopes-xv-de-jau",
-   "atualizado": "2026-11-14T07:02:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/diego-lopes/675344",
+    "clubes": [
+     "XV de Jaú"
+    ],
+    "jogos": 16,
+    "minutos": 1296,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1998-12-29"
   },
   {
    "data": "2026-11-10",
@@ -1347,7 +1503,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-10-samuel-balbino-inter-de-bebedouro",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/samuel-balbino/391886",
+    "clubes": [
+     "Comercial",
+     "Marília"
+    ],
+    "jogos": 23,
+    "minutos": 1505,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1994-12-08"
   },
   {
    "data": "2026-11-10",
@@ -1385,7 +1553,15 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-10-ricardo-friedrich-portuguesa",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/ricardo-friedrich/401757",
+    "clubes": [
+     "Malmö"
+    ],
+    "obs": "sem jogos registrados em 2026"
+   },
+   "nascimento": "1993-02-18"
   },
   {
    "data": "2026-11-10",
@@ -1404,7 +1580,20 @@
     "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
    ],
    "id": "2026-11-10-pedro-scaramussa-bandeirante",
-   "atualizado": "2026-11-14T07:02:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/pedrinho-scaramussa/717017",
+    "clubes": [
+     "Bandeirante",
+     "CEOV Operário",
+     "Monte Azul"
+    ],
+    "jogos": 11,
+    "minutos": 550,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2002-06-24"
   },
   {
    "data": "2026-11-10",
@@ -1448,13 +1637,25 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "id": "2026-11-10-lucas-xavier-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "selos": [
     {
      "texto": "Campeão Paulistão A3 2026",
      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
     }
-   ]
+   ],
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-xavier/414743",
+    "clubes": [
+     "Portuguesa Santista",
+     "Centro Oeste FC"
+    ],
+    "jogos": 21,
+    "minutos": 1535,
+    "gols": 4,
+    "assistencias": 0
+   },
+   "nascimento": "1994-07-26"
   },
   {
    "data": "2026-11-10",
@@ -1473,7 +1674,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-10-hericles-inter-de-bebedouro",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/hericles/469111",
+    "clubes": [
+     "Maguary-PE"
+    ],
+    "jogos": 12,
+    "minutos": 268,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1995-10-20"
   },
   {
    "data": "2026-11-10",
@@ -1525,7 +1737,18 @@
     "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
    ],
    "id": "2026-11-10-foguinho-bandeirante",
-   "atualizado": "2026-11-14T07:02:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/foguinho/772005",
+    "clubes": [
+     "Bandeirante"
+    ],
+    "jogos": 7,
+    "minutos": 616,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2001-03-24"
   },
   {
    "data": "2026-11-10",
@@ -1656,13 +1879,25 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-10-bruno-negueba-taubate",
-   "atualizado": "2026-11-17T23:51:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-bruno-negueba-taubate.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/bruno-negueba/774914",
+    "clubes": [
+     "Passo Fundo",
+     "Santa Catarina"
+    ],
+    "jogos": 26,
+    "minutos": 1343,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2001-01-27"
   },
   {
    "data": "2026-11-10",
@@ -1712,7 +1947,19 @@
     }
    ],
    "id": "2026-11-10-artur-melo-inter-de-bebedouro",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/artur-melo/549326",
+    "clubes": [
+     "Marília",
+     "Noroeste"
+    ],
+    "jogos": 7,
+    "minutos": 565,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "1998-10-06"
   },
   {
    "data": "2026-11-09",
@@ -1763,7 +2010,17 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-william-rafael-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/rafael-william/690452",
+    "clubes": [
+     "São Caetano"
+    ],
+    "jogos": 11,
+    "minutos": 983,
+    "assistencias": 0
+   },
+   "nascimento": "2001-09-30"
   },
   {
    "data": "2026-11-09",
@@ -1845,13 +2102,24 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-pedro-da-dalto-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-pedro-da-dalto-rio-claro.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/pedro-da-dalto/722689",
+    "clubes": [
+     "Maracanã"
+    ],
+    "jogos": 13,
+    "minutos": 940,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2003-03-23"
   },
   {
    "data": "2026-11-09",
@@ -1896,7 +2164,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-lucas-nathan-xv-de-jau",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-nathan/549318",
+    "clubes": [
+     "Caldense",
+     "São Bento"
+    ],
+    "jogos": 9,
+    "minutos": 457,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1998-11-17"
   },
   {
    "data": "2026-11-09",
@@ -1915,7 +2195,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-lucas-batatinha-paulista",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-batatinha/395082",
+    "clubes": [
+     "Paulista",
+     "Marcílio Dias"
+    ],
+    "jogos": 19,
+    "minutos": 1179,
+    "gols": 3,
+    "assistencias": 1
+   },
+   "nascimento": "1990-07-03"
   },
   {
    "data": "2026-11-09",
@@ -1989,13 +2281,25 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-gabriel-masson-taubate",
-   "atualizado": "2026-11-17T23:51:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-gabriel-masson-taubate.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/masson/725116",
+    "clubes": [
+     "GE Brasil",
+     "Rio Claro"
+    ],
+    "jogos": 47,
+    "minutos": 3109,
+    "gols": 6,
+    "assistencias": 0
+   },
+   "nascimento": "2002-07-01"
   },
   {
    "data": "2026-11-09",
@@ -2033,7 +2337,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-gabriel-adao-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/gabriel-adao/1178668",
+    "clubes": [
+     "PSTC",
+     "Atlético Goianiense"
+    ],
+    "jogos": 26,
+    "minutos": 1423,
+    "gols": 7,
+    "assistencias": 0
+   },
+   "nascimento": "2006-05-01"
   },
   {
    "data": "2026-11-09",
@@ -2070,7 +2386,18 @@
     "https://www.futebolinterior.com.br/votuporanguense-danilo-guimaraes/"
    ],
    "id": "2026-11-09-danilo-guimaraes-votuporanguense",
-   "atualizado": "2026-11-14T07:02:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/danilo-guimaraes/699608",
+    "clubes": [
+     "São José-RS"
+    ],
+    "jogos": 13,
+    "minutos": 622,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1997-08-19"
   },
   {
    "data": "2026-11-09",
@@ -2226,7 +2553,19 @@
     "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
    ],
    "id": "2026-11-06-lucas-alisson-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-alisson/550974",
+    "clubes": [
+     "Barreiras FC",
+     "Santo André"
+    ],
+    "jogos": 19,
+    "minutos": 1363,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "1999-05-13"
   },
   {
    "data": "2026-11-06",
@@ -2264,7 +2603,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-06-kelvin-moreira-xv-de-jau",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/kelvin/714805",
+    "clubes": [
+     "Fluminense-PI",
+     "Jataiense"
+    ],
+    "jogos": 18,
+    "minutos": 1183,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2000-03-07"
   },
   {
    "data": "2026-11-06",
@@ -2333,7 +2684,20 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-06-gustavo-brandao-xv-de-jau",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-brandao/699021",
+    "clubes": [
+     "Oeste Brasil",
+     "Blumenau",
+     "Piauí"
+    ],
+    "jogos": 19,
+    "minutos": 1000,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2001-04-18"
   },
   {
    "data": "2026-11-06",
@@ -2559,7 +2923,20 @@
     "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
    ],
    "id": "2026-11-05-marcos-moser-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/marcos-moser/547502",
+    "clubes": [
+     "Goiânia",
+     "ABECAT Ouvidorense",
+     "Capivariano"
+    ],
+    "jogos": 27,
+    "minutos": 2145,
+    "gols": 2,
+    "assistencias": 1
+   },
+   "nascimento": "1998-05-17"
   },
   {
    "data": "2026-11-05",
@@ -2665,7 +3042,18 @@
     "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
    ],
    "id": "2026-11-05-erik-bessa-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/erik-bessa/562792",
+    "clubes": [
+     "XV de Piracicaba"
+    ],
+    "jogos": 35,
+    "minutos": 924,
+    "gols": 2,
+    "assistencias": 1
+   },
+   "nascimento": "1996-05-24"
   },
   {
    "data": "2026-11-05",
@@ -2745,7 +3133,20 @@
     "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
    ],
    "id": "2026-11-05-alyson-motta-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/alyson-motta/647950",
+    "clubes": [
+     "Marília",
+     "Tirol",
+     "EC São Bernardo"
+    ],
+    "jogos": 29,
+    "minutos": 1775,
+    "gols": 3,
+    "assistencias": 3
+   },
+   "nascimento": "2000-01-05"
   },
   {
    "data": "2026-11-05",
@@ -2834,13 +3235,25 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-04-reifit-taubate",
-   "atualizado": "2026-11-14T13:01:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reifit-taubate.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/reifit/559725",
+    "clubes": [
+     "Cianorte",
+     "Figueirense"
+    ],
+    "jogos": 27,
+    "minutos": 1634,
+    "gols": 2,
+    "assistencias": 4
+   },
+   "nascimento": "2001-10-16"
   },
   {
    "data": "2026-11-04",
@@ -2948,13 +3361,25 @@
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
    "id": "2026-11-04-guilherme-cafe-penapolense",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-guilherme-cafe-penapolense.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/penapolenseoficial/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/guilherme-cafe/548526",
+    "clubes": [
+     "Marília",
+     "Manaus FC"
+    ],
+    "jogos": 24,
+    "minutos": 2088,
+    "gols": 2,
+    "assistencias": 0
+   },
+   "nascimento": "1997-09-12"
   },
   {
    "data": "2026-11-04",
@@ -3023,13 +3448,23 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-04-alejandro-viniegra-taubate",
-   "atualizado": "2026-11-17T23:51:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-alejandro-viniegra-taubate.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/alejandro-viniegra/685069",
+    "clubes": [
+     "Tlaxcala FC"
+    ],
+    "jogos": 5,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "2002-02-13"
   },
   {
    "data": "2026-11-04",
@@ -3123,7 +3558,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-tiago-barbosa-uniao-barbarense",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/tiago-mumu/867694",
+    "clubes": [
+     "Rive",
+     "Penedense"
+    ],
+    "jogos": 11,
+    "minutos": 814,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2001-06-25"
   },
   {
    "data": "2026-11-03",
@@ -3142,7 +3589,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-sandro-krett-uniao-barbarense",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/sandro/693889",
+    "clubes": [
+     "Metropolitano",
+     "Rio Branco-SP"
+    ],
+    "jogos": 5,
+    "minutos": 378,
+    "assistencias": 0
+   },
+   "nascimento": "2001-10-14"
   },
   {
    "data": "2026-11-03",
@@ -3187,7 +3645,18 @@
     }
    ],
    "id": "2026-11-03-richard-franco-xv-de-piracicaba",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/richard-franco/499350",
+    "clubes": [
+     "ASA"
+    ],
+    "jogos": 17,
+    "minutos": 432,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1992-07-16"
   },
   {
    "data": "2026-11-03",
@@ -3207,7 +3676,19 @@
     "https://cbncampinas.com.br/2026/11/ex-guarani-e-ponte-preta-e-anunciado-pelo-xv-de-piracicaba-para-serie-a2/"
    ],
    "id": "2026-11-03-rafael-longuine-xv-de-piracicaba",
-   "atualizado": "2026-11-15T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/rafael-longuine/251196",
+    "clubes": [
+     "Primavera",
+     "Brasiliense"
+    ],
+    "jogos": 7,
+    "minutos": 235,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1990-05-30"
   },
   {
    "data": "2026-11-03",
@@ -3252,7 +3733,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-pedro-nagel-bandeirante",
-   "atualizado": "2026-11-16T06:59:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/pedro-nagel/747665",
+    "clubes": [
+     "Inter de Limeira",
+     "Bandeirante"
+    ],
+    "jogos": 14,
+    "minutos": 1247,
+    "assistencias": 0
+   },
+   "nascimento": "2002-10-14"
   },
   {
    "data": "2026-11-03",
@@ -3271,7 +3763,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-mauricio-ribeiro-xv-de-piracicaba",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/mauricio-ribeiro/175402",
+    "clubes": [
+     "Caxias"
+    ],
+    "jogos": 28,
+    "minutos": 2259,
+    "gols": 1,
+    "assistencias": 1
+   },
+   "nascimento": "1991-05-04"
   },
   {
    "data": "2026-11-03",
@@ -3328,7 +3831,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-marcelo-vieira-uniao-barbarense",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/marcelo-vieira/887765",
+    "clubes": [
+     "Araucária EC"
+    ],
+    "jogos": 8,
+    "minutos": 567,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "2001-06-08"
   },
   {
    "data": "2026-11-03",
@@ -3399,13 +3913,24 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-julio-vaz-santo-andre",
-   "atualizado": "2026-11-14T03:11:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-julio-vaz-santo-andre.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/julio-vaz/548527",
+    "clubes": [
+     "Botafogo-PB"
+    ],
+    "jogos": 14,
+    "minutos": 554,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "1997-07-28"
   },
   {
    "data": "2026-11-03",
@@ -3521,7 +4046,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-gustavo-hebling-xv-de-piracicaba",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-hebling/375081",
+    "clubes": [
+     "XV de Piracicaba"
+    ],
+    "jogos": 40,
+    "minutos": 3427,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1996-04-05"
   },
   {
    "data": "2026-11-03",
@@ -3618,7 +4154,7 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-franklin-rocha-lemense",
-   "atualizado": "2026-11-16T06:59:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "selos": [
     {
      "texto": "Campeão Catarinense Série B 2026",
@@ -3636,7 +4172,19 @@
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.lemense/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/franklin/256505",
+    "clubes": [
+     "Hercílio Luz",
+     "Catanduva"
+    ],
+    "jogos": 22,
+    "minutos": 1238,
+    "gols": 1,
+    "assistencias": 1
+   },
+   "nascimento": "1992-11-11"
   },
   {
    "data": "2026-11-03",
@@ -3655,7 +4203,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-fabricio-miranda-uniao-barbarense",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/fabricio/722757",
+    "clubes": [
+     "Uberaba",
+     "União Barbarense"
+    ],
+    "jogos": 25,
+    "minutos": 1988,
+    "gols": 2,
+    "assistencias": 2
+   },
+   "nascimento": "2002-10-22"
   },
   {
    "data": "2026-11-03",
@@ -3730,13 +4290,24 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-arthur-mascaro-lemense",
-   "atualizado": "2026-11-16T06:59:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-arthur-mascaro-lemense.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ec.lemense/",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/mascaro/874321",
+    "clubes": [
+     "Barretos"
+    ],
+    "jogos": 17,
+    "minutos": 1368,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "2004-05-17"
   },
   {
    "data": "2026-11-02",
@@ -3813,13 +4384,25 @@
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
    "id": "2026-10-30-lucas-cezane-inter-de-bebedouro",
-   "atualizado": "2026-11-14T13:01:00-03:00",
+   "atualizado": "2026-11-19T03:52:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-lucas-cezane-inter-de-bebedouro.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://images.futebolinterior.com.br/2026/10/riSbQy3l-lucas-cezane-caique-toledo-1.webp",
     "ia": true
-   }
+   },
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-cezane/287532",
+    "clubes": [
+     "Santa Fé FC",
+     "Catanduva"
+    ],
+    "jogos": 12,
+    "minutos": 1044,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1992-09-14"
   },
   {
    "data": "2026-10-30",
@@ -3862,7 +4445,19 @@
     }
    ],
    "id": "2026-10-30-diogo-vieira-santo-andre",
-   "atualizado": "2026-11-16T06:59:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/diogo-vieira/978460",
+    "clubes": [
+     "Bandeirante",
+     "Penapolense"
+    ],
+    "jogos": 27,
+    "minutos": 2420,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "2003-04-03"
   },
   {
    "data": "2026-10-30",
@@ -4093,7 +4688,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-28-wandson-santo-andre",
-   "atualizado": "2026-11-15T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/wandson/499186",
+    "clubes": [
+     "ASA"
+    ],
+    "jogos": 27,
+    "minutos": 1443,
+    "gols": 5,
+    "assistencias": 3
+   },
+   "nascimento": "1998-03-24"
   },
   {
    "data": "2026-10-28",
@@ -4112,7 +4718,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-28-gustavo-nicola-santo-andre",
-   "atualizado": "2026-11-15T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-nicola/598828",
+    "clubes": [
+     "Grêmio Prudente",
+     "Confiança"
+    ],
+    "jogos": 21,
+    "minutos": 904,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "nascimento": "1998-10-27"
   },
   {
    "data": "2026-10-28",
@@ -4150,7 +4768,18 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-28-cayo-tenorio-santo-andre",
-   "atualizado": "2026-11-15T06:57:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/cayo-tenorio/450950",
+    "clubes": [
+     "ABC"
+    ],
+    "jogos": 17,
+    "minutos": 1016,
+    "gols": 1,
+    "assistencias": 1
+   },
+   "nascimento": "1999-02-22"
   },
   {
    "data": "2026-10-26",
@@ -4186,7 +4815,19 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-26-levy-moreira-barretos",
-   "atualizado": "2026-11-16T06:59:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/levy/869965",
+    "clubes": [
+     "Fast Clube",
+     "Princesa"
+    ],
+    "jogos": 14,
+    "minutos": 732,
+    "gols": 1,
+    "assistencias": 0
+   },
+   "nascimento": "2005-03-05"
   },
   {
    "data": "2026-10-26",
@@ -4204,7 +4845,17 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-26-junnior-batata-barretos",
-   "atualizado": "2026-11-16T06:59:00-03:00"
+   "atualizado": "2026-11-19T03:52:00-03:00",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/junnior-batata/501584",
+    "clubes": [
+     "Sagrada Esperança"
+    ],
+    "jogos": 5,
+    "gols": 4,
+    "assistencias": 1
+   },
+   "nascimento": "1991-08-09"
   },
   {
    "data": "2026-10-24",

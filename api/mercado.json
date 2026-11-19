@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T06:58:00-03:00",
+ "gerado": "2026-11-19T03:52:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -138,7 +138,7 @@
    "id": "2026-11-17-rayan-correa-rio-claro",
    "data": "2026-11-17",
    "jogador": "Rayan Corrêa",
-   "posicao": "",
+   "posicao": "Zagueiro",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
    "situacao": "oficial",
@@ -163,8 +163,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-04-25",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/rayan-correa/721948",
+    "clubes": [
+     "Valeriodoce",
+     "Galo Maringá"
+    ],
+    "jogos": 12,
+    "minutos": 660,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -359,8 +370,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-07-25",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/chileno/736932",
+    "clubes": [
+     "Bataguassu"
+    ],
+    "jogos": 9,
+    "minutos": 614,
+    "gols": 2,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -580,8 +601,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-renova-lucas-bihalva/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2003-08-03",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-bilhalva/776518",
+    "clubes": [
+     "Atlético Tubarão"
+    ],
+    "jogos": 2,
+    "minutos": 180,
+    "assistencias": 0,
+    "escudos": {
+     "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
+    }
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -807,8 +839,18 @@
     "https://acidadeon.com/ribeiraopreto/esportes/botafogo-anuncia-dois-reforcos-para-a-temporada-2027",
     "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1995-12-10",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-barreto/421710",
+    "clubes": [
+     "América Mineiro",
+     "Kyoto Sanga"
+    ],
+    "jogos": 22,
+    "gols": 0,
+    "assistencias": 1,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -1090,8 +1132,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1987-11-18",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/neto-berola/95922",
+    "clubes": [
+     "Ituano"
+    ],
+    "jogos": 34,
+    "minutos": 2273,
+    "gols": 9,
+    "assistencias": 2,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -1271,8 +1323,17 @@
    "fontes": [
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1999-05-04",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-wingert/612374",
+    "clubes": [
+     "Ituano"
+    ],
+    "jogos": 25,
+    "minutos": 2118,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -1358,8 +1419,17 @@
    "fontes": [
     "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1993-12-09",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gabriel-gasparotto/217331",
+    "clubes": [
+     "Santo André"
+    ],
+    "jogos": 14,
+    "minutos": 1260,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -1399,8 +1469,19 @@
    "fontes": [
     "https://www.instagram.com/ec.taubate/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-09-25",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/denis-germano/548806",
+    "clubes": [
+     "GE Brasil",
+     "São Luiz"
+    ],
+    "jogos": 35,
+    "minutos": 1266,
+    "gols": 3,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -1435,8 +1516,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/penapolense-reforca-comissao-tecnica/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1989-04-27",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/bady/175261",
+    "clubes": [
+     "Luverdense"
+    ],
+    "jogos": 29,
+    "minutos": 1725,
+    "gols": 2,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -1476,8 +1567,19 @@
    "fontes": [
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1999-07-30",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/werley-capanema/781214",
+    "clubes": [
+     "Madureira",
+     "União Suzano"
+    ],
+    "jogos": 22,
+    "minutos": 1766,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2035,8 +2137,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/paulista-contrata-zagueiro-que-conquistou-acesso-a-serie-a2-pelo-marilia/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-03-25",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/matheus-abreu/549276",
+    "clubes": [
+     "Marília"
+    ],
+    "jogos": 23,
+    "minutos": 2025,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2143,8 +2255,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/santo-andre-contrata-zagueiro-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-04-02",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/felix-jorge/620355",
+    "clubes": [
+     "CSA"
+    ],
+    "jogos": 21,
+    "minutos": 1386,
+    "gols": 1,
+    "assistencias": 1,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2184,8 +2306,22 @@
    "fontes": [
     "https://www.instagram.com/ec.taubate/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-07-11",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/everaldo-filho/976162",
+    "clubes": [
+     "Taguatinga",
+     "Atlético Tubarão",
+     "Brasiliense"
+    ],
+    "jogos": 22,
+    "minutos": 1418,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {
+     "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
+    }
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2220,8 +2356,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/xv-de-jau-confirma-dupla-de-volantes/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-12-29",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/diego-lopes/675344",
+    "clubes": [
+     "XV de Jaú"
+    ],
+    "jogos": 16,
+    "minutos": 1296,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2328,8 +2474,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1994-12-08",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/samuel-balbino/391886",
+    "clubes": [
+     "Comercial",
+     "Marília"
+    ],
+    "jogos": 23,
+    "minutos": 1505,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2400,8 +2557,15 @@
    "fontes": [
     "https://www.futebolinterior.com.br/portuguesa-confirma-o-armador-cezinha/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1993-02-18",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/ricardo-friedrich/401757",
+    "clubes": [
+     "Malmö"
+    ],
+    "obs": "sem jogos registrados em 2026",
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2436,8 +2600,20 @@
    "fontes": [
     "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-06-24",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/pedrinho-scaramussa/717017",
+    "clubes": [
+     "Bandeirante",
+     "CEOV Operário",
+     "Monte Azul"
+    ],
+    "jogos": 11,
+    "minutos": 550,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2515,8 +2691,19 @@
     "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1994-07-26",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-xavier/414743",
+    "clubes": [
+     "Portuguesa Santista",
+     "Centro Oeste FC"
+    ],
+    "jogos": 21,
+    "minutos": 1535,
+    "gols": 4,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [
     {
      "texto": "Campeão Paulistão A3 2026",
@@ -2556,8 +2743,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1995-10-20",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/hericles/469111",
+    "clubes": [
+     "Maguary-PE"
+    ],
+    "jogos": 12,
+    "minutos": 268,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2641,8 +2838,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/bandeirante-mantem-trio-copa-paulista/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-03-24",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/foguinho/772005",
+    "clubes": [
+     "Bandeirante"
+    ],
+    "jogos": 7,
+    "minutos": 616,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2866,8 +3073,21 @@
    "fontes": [
     "https://www.instagram.com/ec.taubate/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-01-27",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/bruno-negueba/774914",
+    "clubes": [
+     "Passo Fundo",
+     "Santa Catarina"
+    ],
+    "jogos": 26,
+    "minutos": 1343,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {
+     "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
+    }
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -2943,8 +3163,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-10-06",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/artur-melo/549326",
+    "clubes": [
+     "Marília",
+     "Noroeste"
+    ],
+    "jogos": 7,
+    "minutos": 565,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [
     {
      "texto": "Campeão Paulistão A4 2026",
@@ -3034,8 +3265,17 @@
    "fontes": [
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-09-30",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/rafael-william/690452",
+    "clubes": [
+     "São Caetano"
+    ],
+    "jogos": 11,
+    "minutos": 983,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3173,8 +3413,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2003-03-23",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/pedro-da-dalto/722689",
+    "clubes": [
+     "Maracanã"
+    ],
+    "jogos": 13,
+    "minutos": 940,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3252,8 +3502,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-11-17",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-nathan/549318",
+    "clubes": [
+     "Caldense",
+     "São Bento"
+    ],
+    "jogos": 9,
+    "minutos": 457,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3288,8 +3549,21 @@
    "fontes": [
     "https://www.futebolinterior.com.br/paulista-renova-batatinha-a3-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1990-07-03",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-batatinha/395082",
+    "clubes": [
+     "Paulista",
+     "Marcílio Dias"
+    ],
+    "jogos": 19,
+    "minutos": 1179,
+    "gols": 3,
+    "assistencias": 1,
+    "escudos": {
+     "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
+    }
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3419,8 +3693,19 @@
    "fontes": [
     "https://www.instagram.com/ec.taubate/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-07-01",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/masson/725116",
+    "clubes": [
+     "GE Brasil",
+     "Rio Claro"
+    ],
+    "jogos": 47,
+    "minutos": 3109,
+    "gols": 6,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3491,8 +3776,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2006-05-01",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gabriel-adao/1178668",
+    "clubes": [
+     "PSTC",
+     "Atlético Goianiense"
+    ],
+    "jogos": 26,
+    "minutos": 1423,
+    "gols": 7,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3563,8 +3859,20 @@
    "fontes": [
     "https://www.futebolinterior.com.br/votuporanguense-danilo-guimaraes/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1997-08-19",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/danilo-guimaraes/699608",
+    "clubes": [
+     "São José-RS"
+    ],
+    "jogos": 13,
+    "minutos": 622,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {
+     "São José-RS": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    }
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3823,8 +4131,19 @@
     "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
     "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1999-05-13",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-alisson/550974",
+    "clubes": [
+     "Barreiras FC",
+     "Santo André"
+    ],
+    "jogos": 19,
+    "minutos": 1363,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3895,8 +4214,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2000-03-07",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/kelvin/714805",
+    "clubes": [
+     "Fluminense-PI",
+     "Jataiense"
+    ],
+    "jogos": 18,
+    "minutos": 1183,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -4017,8 +4347,20 @@
    "fontes": [
     "https://www.futebolinterior.com.br/xv-de-jau-primerios-reforcos-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-04-18",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-brandao/699021",
+    "clubes": [
+     "Oeste Brasil",
+     "Blumenau",
+     "Piauí"
+    ],
+    "jogos": 19,
+    "minutos": 1000,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -4361,8 +4703,20 @@
     "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
     "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-05-17",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/marcos-moser/547502",
+    "clubes": [
+     "Goiânia",
+     "ABECAT Ouvidorense",
+     "Capivariano"
+    ],
+    "jogos": 27,
+    "minutos": 2145,
+    "gols": 2,
+    "assistencias": 1,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -4559,8 +4913,18 @@
     "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
     "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1996-05-24",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/erik-bessa/562792",
+    "clubes": [
+     "XV de Piracicaba"
+    ],
+    "jogos": 35,
+    "minutos": 924,
+    "gols": 2,
+    "assistencias": 1,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -4711,8 +5075,20 @@
     "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
     "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2000-01-05",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/alyson-motta/647950",
+    "clubes": [
+     "Marília",
+     "Tirol",
+     "EC São Bernardo"
+    ],
+    "jogos": 29,
+    "minutos": 1775,
+    "gols": 3,
+    "assistencias": 3,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -4875,8 +5251,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-10-16",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/reifit/559725",
+    "clubes": [
+     "Cianorte",
+     "Figueirense"
+    ],
+    "jogos": 27,
+    "minutos": 1634,
+    "gols": 2,
+    "assistencias": 4,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5059,8 +5446,19 @@
     "https://www.futebolinterior.com.br/penapolense-primeiro-reforco-2027/",
     "https://www.lance.com.br/corinthians/atacante-revelado-pelo-corinthians-vai-disputar-a-serie-a3-do-paulistao.html"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1997-09-12",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/guilherme-cafe/548526",
+    "clubes": [
+     "Marília",
+     "Manaus FC"
+    ],
+    "jogos": 24,
+    "minutos": 2088,
+    "gols": 2,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5182,8 +5580,17 @@
    "fontes": [
     "https://www.instagram.com/ec.taubate/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-02-13",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/alejandro-viniegra/685069",
+    "clubes": [
+     "Tlaxcala FC"
+    ],
+    "jogos": 5,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5343,8 +5750,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-06-25",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/tiago-mumu/867694",
+    "clubes": [
+     "Rive",
+     "Penedense"
+    ],
+    "jogos": 11,
+    "minutos": 814,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5379,8 +5797,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-10-14",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/sandro/693889",
+    "clubes": [
+     "Metropolitano",
+     "Rio Branco-SP"
+    ],
+    "jogos": 5,
+    "minutos": 378,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5463,8 +5891,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1992-07-16",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/richard-franco/499350",
+    "clubes": [
+     "ASA"
+    ],
+    "jogos": 17,
+    "minutos": 432,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [
     {
      "texto": "Acesso com o ASA em 2026",
@@ -5506,8 +5944,19 @@
     "https://www.futebolinterior.com.br/xv-acerta-com-meia-ex-santosfc-e-ponte/",
     "https://cbncampinas.com.br/2026/11/ex-guarani-e-ponte-preta-e-anunciado-pelo-xv-de-piracicaba-para-serie-a2/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1990-05-30",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/rafael-longuine/251196",
+    "clubes": [
+     "Primavera",
+     "Brasiliense"
+    ],
+    "jogos": 7,
+    "minutos": 235,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5588,8 +6037,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/bandeirante-anuncia-goleiro-pedro-nagel/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-10-14",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/pedro-nagel/747665",
+    "clubes": [
+     "Inter de Limeira",
+     "Bandeirante"
+    ],
+    "jogos": 14,
+    "minutos": 1247,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5624,8 +6083,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1991-05-04",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/mauricio-ribeiro/175402",
+    "clubes": [
+     "Caxias"
+    ],
+    "jogos": 28,
+    "minutos": 2259,
+    "gols": 1,
+    "assistencias": 1,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5732,8 +6201,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2001-06-08",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/marcelo-vieira/887765",
+    "clubes": [
+     "Araucária EC"
+    ],
+    "jogos": 8,
+    "minutos": 567,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -5858,8 +6337,18 @@
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4366588/santo-andre-acerta-com-julio-vaz-para-reforcar-setor-defensivo-em-2027"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1997-07-28",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/julio-vaz/548527",
+    "clubes": [
+     "Botafogo-PB"
+    ],
+    "jogos": 14,
+    "minutos": 554,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -6058,8 +6547,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1996-04-05",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-hebling/375081",
+    "clubes": [
+     "XV de Piracicaba"
+    ],
+    "jogos": 40,
+    "minutos": 3427,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -6227,8 +6726,21 @@
    "fontes": [
     "https://www.futebolinterior.com.br/lemense-reforca-ataque-wesley-pacheco/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1992-11-11",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/franklin/256505",
+    "clubes": [
+     "Hercílio Luz",
+     "Catanduva"
+    ],
+    "jogos": 22,
+    "minutos": 1238,
+    "gols": 1,
+    "assistencias": 1,
+    "escudos": {
+     "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+    }
+   },
    "selos": [
     {
      "texto": "Campeão Catarinense Série B 2026",
@@ -6274,8 +6786,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2002-10-22",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/fabricio/722757",
+    "clubes": [
+     "Uberaba",
+     "União Barbarense"
+    ],
+    "jogos": 25,
+    "minutos": 1988,
+    "gols": 2,
+    "assistencias": 2,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -6423,8 +6946,18 @@
    "fontes": [
     "https://www.futebolinterior.com.br/lemense-reforca-ataque-wesley-pacheco/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2004-05-17",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/mascaro/874321",
+    "clubes": [
+     "Barretos"
+    ],
+    "jogos": 17,
+    "minutos": 1368,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -6559,8 +7092,19 @@
     "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1992-09-14",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/lucas-cezane/287532",
+    "clubes": [
+     "Santa Fé FC",
+     "Catanduva"
+    ],
+    "jogos": 12,
+    "minutos": 1044,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -6632,8 +7176,19 @@
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4366043/santo-andre-acerta-com-o-lateral-direito-diogo-vieira-para-2027"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2003-04-03",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/diogo-vieira/978460",
+    "clubes": [
+     "Bandeirante",
+     "Penapolense"
+    ],
+    "jogos": 27,
+    "minutos": 2420,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [
     {
      "texto": "Campeão Paulistão A4 2026",
@@ -6956,8 +7511,18 @@
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-03-24",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/wandson/499186",
+    "clubes": [
+     "ASA"
+    ],
+    "jogos": 27,
+    "minutos": 1443,
+    "gols": 5,
+    "assistencias": 3,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -6992,8 +7557,19 @@
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1998-10-27",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gustavo-nicola/598828",
+    "clubes": [
+     "Grêmio Prudente",
+     "Confiança"
+    ],
+    "jogos": 21,
+    "minutos": 904,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -7064,8 +7640,18 @@
    "fontes": [
     "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1999-02-22",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/cayo-tenorio/450950",
+    "clubes": [
+     "ABC"
+    ],
+    "jogos": 17,
+    "minutos": 1016,
+    "gols": 1,
+    "assistencias": 1,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -7136,8 +7722,19 @@
    "fontes": [
     "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "2005-03-05",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/levy/869965",
+    "clubes": [
+     "Fast Clube",
+     "Princesa"
+    ],
+    "jogos": 14,
+    "minutos": 732,
+    "gols": 1,
+    "assistencias": 0,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -7172,8 +7769,17 @@
    "fontes": [
     "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1991-08-09",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/junnior-batata/501584",
+    "clubes": [
+     "Sagrada Esperança"
+    ],
+    "jogos": 5,
+    "gols": 4,
+    "assistencias": 1,
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T06:58:00-03:00",
+ "gerado": "2026-11-19T03:52:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -396,9 +396,19 @@
      "posicao": "Volante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-barreto/421710",
+      "clubes": [
+       "América Mineiro",
+       "Kyoto Sanga"
+      ],
+      "jogos": 22,
+      "gols": 0,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1995-12-10",
      "de": "América-MG"
     }
    ],
@@ -856,9 +866,9 @@
      "nome": "Hugo Souza",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 630,
+      "minutos": 720,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -916,9 +926,9 @@
      "nome": "Gustavo Henrique",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 2,
-      "minutos": 630,
+      "minutos": 720,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -950,9 +960,9 @@
      "nome": "Fabrizio Angileri",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -984,9 +994,9 @@
      "nome": "Matheuzinho",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 540,
+      "minutos": 630,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1014,9 +1024,9 @@
      "nome": "Matheus Bidu",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 2,
-      "minutos": 608,
+      "minutos": 676,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1027,7 +1037,18 @@
     },
     {
      "nome": "Alex Santana",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Allan",
@@ -1078,9 +1099,9 @@
      "nome": "Breno Bidon",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 542,
+      "minutos": 610,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1108,9 +1129,9 @@
      "nome": "Dieguinho",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 178,
+      "minutos": 200,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1157,10 +1178,10 @@
      "nome": "Raniele",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 270,
-      "minutos_estimados": false,
+      "minutos": 292,
+      "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
        "Corinthians"
@@ -1202,9 +1223,9 @@
      "nome": "Kaio César",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 406,
+      "minutos": 474,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1236,9 +1257,9 @@
      "nome": "Lingard",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 66,
+      "minutos": 88,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1266,9 +1287,9 @@
      "nome": "Pedro Raul",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 224,
+      "minutos": 246,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1281,9 +1302,9 @@
      "nome": "Vitinho",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 208,
+      "minutos": 298,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -2283,9 +2304,9 @@
      "posicao": "Goleiro",
      "numero": 1,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 750,
+      "minutos": 840,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2309,9 +2330,9 @@
      "posicao": "Zagueiro",
      "numero": 43,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 112,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2325,9 +2346,9 @@
      "posicao": "Zagueiro",
      "numero": 3,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2378,9 +2399,9 @@
      "posicao": "Lateral",
      "numero": 12,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 248,
+      "minutos": 338,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2394,9 +2415,9 @@
      "posicao": "Lateral",
      "numero": 56,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 210,
+      "minutos": 300,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2420,9 +2441,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 414,
+      "minutos": 482,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2468,9 +2489,9 @@
      "posicao": "Meia",
      "numero": 48,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2484,9 +2505,9 @@
      "posicao": "Meia",
      "numero": 30,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 322,
+      "minutos": 412,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2500,9 +2521,9 @@
      "posicao": "Meia",
      "numero": 17,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 638,
+      "minutos": 706,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2532,9 +2553,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 2,
-      "minutos": 406,
+      "minutos": 428,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2558,9 +2579,9 @@
      "posicao": "Atacante",
      "numero": 19,
      "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 164,
+      "jogos": 6,
+      "gols": 1,
+      "minutos": 232,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2574,9 +2595,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 1,
-      "minutos": 368,
+      "minutos": 436,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -3091,9 +3112,19 @@
      "posicao": "Goleiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/pedro-nagel/747665",
+      "clubes": [
+       "Inter de Limeira",
+       "Bandeirante"
+      ],
+      "jogos": 14,
+      "minutos": 1247,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-10-14",
      "de": ""
     },
     {
@@ -3109,7 +3140,19 @@
      "posicao": "Lateral",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/pedrinho-scaramussa/717017",
+      "clubes": [
+       "Bandeirante",
+       "CEOV Operário",
+       "Monte Azul"
+      ],
+      "jogos": 11,
+      "minutos": 550,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": []
     },
     {
@@ -3117,7 +3160,17 @@
      "posicao": "Volante",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/foguinho/772005",
+      "clubes": [
+       "Bandeirante"
+      ],
+      "jogos": 7,
+      "minutos": 616,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": []
     }
    ],
@@ -3151,7 +3204,20 @@
      "posicao": "Atacante",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-batatinha/395082",
+      "clubes": [
+       "Paulista",
+       "Marcílio Dias"
+      ],
+      "jogos": 19,
+      "minutos": 1179,
+      "gols": 3,
+      "assistencias": 1,
+      "escudos": {
+       "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
+      }
+     },
      "selos": []
     },
     {
@@ -3159,9 +3225,19 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/matheus-abreu/549276",
+      "clubes": [
+       "Marília"
+      ],
+      "jogos": 23,
+      "minutos": 2025,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-03-25",
      "de": "Marília"
     },
     {
@@ -3237,9 +3313,20 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/tiago-mumu/867694",
+      "clubes": [
+       "Rive",
+       "Penedense"
+      ],
+      "jogos": 11,
+      "minutos": 814,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-06-25",
      "de": ""
     },
     {
@@ -3247,9 +3334,19 @@
      "posicao": "Goleiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/sandro/693889",
+      "clubes": [
+       "Metropolitano",
+       "Rio Branco-SP"
+      ],
+      "jogos": 5,
+      "minutos": 378,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-10-14",
      "de": ""
     },
     {
@@ -3287,9 +3384,19 @@
      "posicao": "Volante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/marcelo-vieira/887765",
+      "clubes": [
+       "Araucária EC"
+      ],
+      "jogos": 8,
+      "minutos": 567,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-06-08",
      "de": ""
     },
     {
@@ -3367,9 +3474,20 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/fabricio/722757",
+      "clubes": [
+       "Uberaba",
+       "União Barbarense"
+      ],
+      "jogos": 25,
+      "minutos": 1988,
+      "gols": 2,
+      "assistencias": 2,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-10-22",
      "de": ""
     },
     {
@@ -3590,9 +3708,19 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/wandson/499186",
+      "clubes": [
+       "ASA"
+      ],
+      "jogos": 27,
+      "minutos": 1443,
+      "gols": 5,
+      "assistencias": 3,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-03-24",
      "de": ""
     },
     {
@@ -3600,9 +3728,20 @@
      "posicao": "Volante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-nicola/598828",
+      "clubes": [
+       "Grêmio Prudente",
+       "Confiança"
+      ],
+      "jogos": 21,
+      "minutos": 904,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-10-27",
      "de": ""
     },
     {
@@ -3620,9 +3759,19 @@
      "posicao": "Lateral",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/cayo-tenorio/450950",
+      "clubes": [
+       "ABC"
+      ],
+      "jogos": 17,
+      "minutos": 1016,
+      "gols": 1,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1999-02-22",
      "de": ""
     },
     {
@@ -3630,14 +3779,25 @@
      "posicao": "Lateral",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/diogo-vieira/978460",
+      "clubes": [
+       "Bandeirante",
+       "Penapolense"
+      ],
+      "jogos": 27,
+      "minutos": 2420,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Campeão Paulistão A4 2026",
        "fonte": "https://www.dgabc.com.br/Noticia/4366043/santo-andre-acerta-com-o-lateral-direito-diogo-vieira-para-2027"
       }
      ],
-     "nascimento": "",
+     "nascimento": "2003-04-03",
      "de": ""
     },
     {
@@ -3650,9 +3810,19 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/julio-vaz/548527",
+      "clubes": [
+       "Botafogo-PB"
+      ],
+      "jogos": 14,
+      "minutos": 554,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1997-07-28",
      "de": ""
     },
     {
@@ -3693,9 +3863,19 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/felix-jorge/620355",
+      "clubes": [
+       "CSA"
+      ],
+      "jogos": 21,
+      "minutos": 1386,
+      "gols": 1,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-04-02",
      "de": "CSA"
     }
    ],
@@ -3833,9 +4013,20 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/levy/869965",
+      "clubes": [
+       "Fast Clube",
+       "Princesa"
+      ],
+      "jogos": 14,
+      "minutos": 732,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2005-03-05",
      "de": ""
     },
     {
@@ -3843,9 +4034,18 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/junnior-batata/501584",
+      "clubes": [
+       "Sagrada Esperança"
+      ],
+      "jogos": 5,
+      "gols": 4,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1991-08-09",
      "de": ""
     }
    ],
@@ -3952,7 +4152,20 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/franklin/256505",
+      "clubes": [
+       "Hercílio Luz",
+       "Catanduva"
+      ],
+      "jogos": 22,
+      "minutos": 1238,
+      "gols": 1,
+      "assistencias": 1,
+      "escudos": {
+       "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+      }
+     },
      "selos": [
       {
        "texto": "Campeão Catarinense Série B 2026",
@@ -3965,7 +4178,7 @@
        "fonte": "https://www.instagram.com/ec.lemense/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1992-11-11",
      "de": ""
     },
     {
@@ -3978,9 +4191,19 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/mascaro/874321",
+      "clubes": [
+       "Barretos"
+      ],
+      "jogos": 17,
+      "minutos": 1368,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2004-05-17",
      "de": ""
     },
     {
@@ -4246,9 +4469,19 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/neto-berola/95922",
+      "clubes": [
+       "Ituano"
+      ],
+      "jogos": 34,
+      "minutos": 2273,
+      "gols": 9,
+      "assistencias": 2,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1987-11-18",
      "de": ""
     },
     {
@@ -4289,7 +4522,16 @@
      "posicao": "Goleiro",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-wingert/612374",
+      "clubes": [
+       "Ituano"
+      ],
+      "jogos": 25,
+      "minutos": 2118,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": []
     },
     {
@@ -4322,9 +4564,18 @@
      "posicao": "Goleiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gabriel-gasparotto/217331",
+      "clubes": [
+       "Santo André"
+      ],
+      "jogos": 14,
+      "minutos": 1260,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1993-12-09",
      "de": ""
     }
    ],
@@ -4459,9 +4710,20 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-cezane/287532",
+      "clubes": [
+       "Santa Fé FC",
+       "Catanduva"
+      ],
+      "jogos": 12,
+      "minutos": 1044,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1992-09-14",
      "de": ""
     },
     {
@@ -4502,9 +4764,20 @@
      "posicao": "Lateral",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/samuel-balbino/391886",
+      "clubes": [
+       "Comercial",
+       "Marília"
+      ],
+      "jogos": 23,
+      "minutos": 1505,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1994-12-08",
      "de": ""
     },
     {
@@ -4512,9 +4785,19 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/hericles/469111",
+      "clubes": [
+       "Maguary-PE"
+      ],
+      "jogos": 12,
+      "minutos": 268,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1995-10-20",
      "de": ""
     },
     {
@@ -4548,7 +4831,18 @@
      "posicao": "Atacante",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/artur-melo/549326",
+      "clubes": [
+       "Marília",
+       "Noroeste"
+      ],
+      "jogos": 7,
+      "minutos": 565,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Campeão Paulistão A4 2026",
@@ -4628,14 +4922,24 @@
      "posicao": "Volante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/richard-franco/499350",
+      "clubes": [
+       "ASA"
+      ],
+      "jogos": 17,
+      "minutos": 432,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Acesso com o ASA em 2026",
        "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1992-07-16",
      "de": "ASA"
     },
     {
@@ -4643,9 +4947,20 @@
      "posicao": "Meia",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rafael-longuine/251196",
+      "clubes": [
+       "Primavera",
+       "Brasiliense"
+      ],
+      "jogos": 7,
+      "minutos": 235,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1990-05-30",
      "de": "Primavera"
     },
     {
@@ -4653,9 +4968,19 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/mauricio-ribeiro/175402",
+      "clubes": [
+       "Caxias"
+      ],
+      "jogos": 28,
+      "minutos": 2259,
+      "gols": 1,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1991-05-04",
      "de": ""
     },
     {
@@ -4706,7 +5031,17 @@
      "posicao": "Volante",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-hebling/375081",
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "jogos": 40,
+      "minutos": 3427,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": []
     },
     {
@@ -4813,9 +5148,21 @@
      "posicao": "Lateral",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/marcos-moser/547502",
+      "clubes": [
+       "Goiânia",
+       "ABECAT Ouvidorense",
+       "Capivariano"
+      ],
+      "jogos": 27,
+      "minutos": 2145,
+      "gols": 2,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-05-17",
      "de": "Capivariano"
     },
     {
@@ -4856,9 +5203,19 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/erik-bessa/562792",
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "jogos": 35,
+      "minutos": 924,
+      "gols": 2,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1996-05-24",
      "de": ""
     },
     {
@@ -4866,7 +5223,19 @@
      "posicao": "Atacante",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/alyson-motta/647950",
+      "clubes": [
+       "Marília",
+       "Tirol",
+       "EC São Bernardo"
+      ],
+      "jogos": 29,
+      "minutos": 1775,
+      "gols": 3,
+      "assistencias": 3,
+      "escudos": {}
+     },
      "selos": []
     },
     {
@@ -4901,9 +5270,20 @@
      "posicao": "Volante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-alisson/550974",
+      "clubes": [
+       "Barreiras FC",
+       "Santo André"
+      ],
+      "jogos": 19,
+      "minutos": 1363,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1999-05-13",
      "de": "Santo André"
     },
     {
@@ -5119,9 +5499,18 @@
      "posicao": "Goleiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rafael-william/690452",
+      "clubes": [
+       "São Caetano"
+      ],
+      "jogos": 11,
+      "minutos": 983,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-09-30",
      "de": ""
     },
     {
@@ -5180,9 +5569,19 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/pedro-da-dalto/722689",
+      "clubes": [
+       "Maracanã"
+      ],
+      "jogos": 13,
+      "minutos": 940,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2003-03-23",
      "de": ""
     },
     {
@@ -5240,19 +5639,41 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gabriel-adao/1178668",
+      "clubes": [
+       "PSTC",
+       "Atlético Goianiense"
+      ],
+      "jogos": 26,
+      "minutos": 1423,
+      "gols": 7,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2006-05-01",
      "de": ""
     },
     {
      "nome": "Rayan Corrêa",
-     "posicao": "",
+     "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rayan-correa/721948",
+      "clubes": [
+       "Valeriodoce",
+       "Galo Maringá"
+      ],
+      "jogos": 12,
+      "minutos": 660,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-04-25",
      "de": ""
     },
     {
@@ -5287,9 +5708,19 @@
      "posicao": "Meia",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/chileno/736932",
+      "clubes": [
+       "Bataguassu"
+      ],
+      "jogos": 9,
+      "minutos": 614,
+      "gols": 2,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-07-25",
      "de": ""
     }
    ],
@@ -5390,9 +5821,20 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/reifit/559725",
+      "clubes": [
+       "Cianorte",
+       "Figueirense"
+      ],
+      "jogos": 27,
+      "minutos": 1634,
+      "gols": 2,
+      "assistencias": 4,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-10-16",
      "de": ""
     },
     {
@@ -5484,9 +5926,18 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/alejandro-viniegra/685069",
+      "clubes": [
+       "Tlaxcala FC"
+      ],
+      "jogos": 5,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-02-13",
      "de": ""
     },
     {
@@ -5519,9 +5970,20 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/masson/725116",
+      "clubes": [
+       "GE Brasil",
+       "Rio Claro"
+      ],
+      "jogos": 47,
+      "minutos": 3109,
+      "gols": 6,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-07-01",
      "de": ""
     },
     {
@@ -5534,9 +5996,22 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/bruno-negueba/774914",
+      "clubes": [
+       "Passo Fundo",
+       "Santa Catarina"
+      ],
+      "jogos": 26,
+      "minutos": 1343,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {
+       "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-01-27",
      "de": ""
     },
     {
@@ -5549,9 +6024,23 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/everaldo-filho/976162",
+      "clubes": [
+       "Taguatinga",
+       "Atlético Tubarão",
+       "Brasiliense"
+      ],
+      "jogos": 22,
+      "minutos": 1418,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {
+       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-07-11",
      "de": ""
     },
     {
@@ -5579,9 +6068,20 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/denis-germano/548806",
+      "clubes": [
+       "GE Brasil",
+       "São Luiz"
+      ],
+      "jogos": 35,
+      "minutos": 1266,
+      "gols": 3,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-09-25",
      "de": ""
     },
     {
@@ -5594,7 +6094,18 @@
       "fonte": "https://www.instagram.com/ec.taubate/",
       "ia": true
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-bilhalva/776518",
+      "clubes": [
+       "Atlético Tubarão"
+      ],
+      "jogos": 2,
+      "minutos": 180,
+      "assistencias": 0,
+      "escudos": {
+       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
+      }
+     },
      "selos": []
     },
     {
@@ -5725,9 +6236,20 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/guilherme-cafe/548526",
+      "clubes": [
+       "Marília",
+       "Manaus FC"
+      ],
+      "jogos": 24,
+      "minutos": 2088,
+      "gols": 2,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1997-09-12",
      "de": ""
     },
     {
@@ -5750,14 +6272,25 @@
      "posicao": "Atacante",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-xavier/414743",
+      "clubes": [
+       "Portuguesa Santista",
+       "Centro Oeste FC"
+      ],
+      "jogos": 21,
+      "minutos": 1535,
+      "gols": 4,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Campeão Paulistão A3 2026",
        "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1994-07-26",
      "de": ""
     },
     {
@@ -5823,9 +6356,20 @@
       "ia": true
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/werley-capanema/781214",
+      "clubes": [
+       "Madureira",
+       "União Suzano"
+      ],
+      "jogos": 22,
+      "minutos": 1766,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1999-07-30",
      "de": ""
     },
     {
@@ -5997,9 +6541,19 @@
      "posicao": "Meia",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/bady/175261",
+      "clubes": [
+       "Luverdense"
+      ],
+      "jogos": 29,
+      "minutos": 1725,
+      "gols": 2,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1989-04-27",
      "de": ""
     },
     {
@@ -6268,9 +6822,20 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/kelvin/714805",
+      "clubes": [
+       "Fluminense-PI",
+       "Jataiense"
+      ],
+      "jogos": 18,
+      "minutos": 1183,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2000-03-07",
      "de": ""
     },
     {
@@ -6288,9 +6853,21 @@
      "posicao": "Zagueiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-brandao/699021",
+      "clubes": [
+       "Oeste Brasil",
+       "Blumenau",
+       "Piauí"
+      ],
+      "jogos": 19,
+      "minutos": 1000,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-04-18",
      "de": ""
     },
     {
@@ -6322,9 +6899,20 @@
      "posicao": "Meia",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-nathan/549318",
+      "clubes": [
+       "Caldense",
+       "São Bento"
+      ],
+      "jogos": 9,
+      "minutos": 457,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-11-17",
      "de": ""
     },
     {
@@ -6340,7 +6928,17 @@
      "posicao": "Volante",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/diego-lopes/675344",
+      "clubes": [
+       "XV de Jaú"
+      ],
+      "jogos": 16,
+      "minutos": 1296,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": []
     }
    ],
@@ -6394,9 +6992,21 @@
      "posicao": "Lateral",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/danilo-guimaraes/699608",
+      "clubes": [
+       "São José-RS"
+      ],
+      "jogos": 13,
+      "minutos": 622,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {
+       "São José-RS": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1997-08-19",
      "de": "São José-RS"
     },
     {
@@ -6464,9 +7074,16 @@
      "posicao": "Goleiro",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/ricardo-friedrich/401757",
+      "clubes": [
+       "Malmö"
+      ],
+      "obs": "sem jogos registrados em 2026",
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1993-02-18",
      "de": ""
     },
     {
