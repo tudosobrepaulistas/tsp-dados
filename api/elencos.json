@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T04:26:00-03:00",
+ "gerado": "2026-11-19T04:27:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -4039,6 +4039,279 @@
    ],
    "sairam": []
   },
+  "xvdepiracicaba": {
+   "atualizado": "2026-11-09",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Júnior Caiçara",
+     "posicao": "Lateral",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": []
+    },
+    {
+     "nome": "Richard Alexandre",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Roberto",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Caxias",
+      "clubes": [
+       "Caxias"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Caxias"
+    },
+    {
+     "nome": "Richard Franco",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/richard-franco/499350",
+      "clubes": [
+       "ASA"
+      ],
+      "jogos": 17,
+      "minutos": 432,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Acesso com o ASA em 2026",
+       "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+      }
+     ],
+     "nascimento": "1992-07-16",
+     "de": "ASA"
+    },
+    {
+     "nome": "Rafael Longuine",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rafael-longuine/251196",
+      "clubes": [
+       "Primavera",
+       "Brasiliense"
+      ],
+      "jogos": 7,
+      "minutos": 235,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1990-05-30",
+     "de": "Primavera"
+    },
+    {
+     "nome": "Maurício Ribeiro",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/mauricio-ribeiro/175402",
+      "clubes": [
+       "Caxias"
+      ],
+      "jogos": 28,
+      "minutos": 2259,
+      "gols": 1,
+      "assistencias": 1,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1991-05-04",
+     "de": ""
+    },
+    {
+     "nome": "Marcelo",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Keven",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 24,
+      "gols": 1,
+      "clubes": [
+       "Juventus"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Campeão do Paulistão A2 2026 (Juventus)",
+       "tipo": "titulo",
+       "fonte": "https://www.instagram.com/xvpiracicaba/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Juventus"
+    },
+    {
+     "nome": "Gustavo Talles",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Gustavo Hebling",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-hebling/375081",
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "jogos": 40,
+      "minutos": 3427,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": []
+    },
+    {
+     "nome": "Gustavo Cabral",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Douglas Carvalho",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Oliver",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Richard Alexandre",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-13"
+    },
+    {
+     "nome": "Roberto",
+     "de": "Caxias",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Richard Franco",
+     "de": "ASA",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Rafael Longuine",
+     "de": "Primavera",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Maurício Ribeiro",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Marcelo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Keven",
+     "de": "Juventus",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Gustavo Talles",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Gustavo Cabral",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Douglas Carvalho",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Oliver",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    }
+   ],
+   "sairam": []
+  },
   "independente": {
    "atualizado": "2026-11-16",
    "fonte": "",
@@ -4375,271 +4648,6 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-16"
-    }
-   ],
-   "sairam": []
-  },
-  "xvdepiracicaba": {
-   "atualizado": "2026-11-09",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Richard Alexandre",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Roberto",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "jogos": 1,
-      "gols": 0,
-      "minutos": 68,
-      "minutos_estimados": false,
-      "clube": "Caxias",
-      "clubes": [
-       "Caxias"
-      ],
-      "fonte": "Base TSP (fichas técnicas conferidas)",
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "Caxias"
-    },
-    {
-     "nome": "Richard Franco",
-     "posicao": "Volante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/richard-franco/499350",
-      "clubes": [
-       "ASA"
-      ],
-      "jogos": 17,
-      "minutos": 432,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [
-      {
-       "texto": "Acesso com o ASA em 2026",
-       "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
-      }
-     ],
-     "nascimento": "1992-07-16",
-     "de": "ASA"
-    },
-    {
-     "nome": "Rafael Longuine",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/rafael-longuine/251196",
-      "clubes": [
-       "Primavera",
-       "Brasiliense"
-      ],
-      "jogos": 7,
-      "minutos": 235,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "1990-05-30",
-     "de": "Primavera"
-    },
-    {
-     "nome": "Maurício Ribeiro",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/mauricio-ribeiro/175402",
-      "clubes": [
-       "Caxias"
-      ],
-      "jogos": 28,
-      "minutos": 2259,
-      "gols": 1,
-      "assistencias": 1,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "1991-05-04",
-     "de": ""
-    },
-    {
-     "nome": "Marcelo",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Keven",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "jogos": 24,
-      "gols": 1,
-      "clubes": [
-       "Juventus"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
-      "escudos": {}
-     },
-     "selos": [
-      {
-       "texto": "Campeão do Paulistão A2 2026 (Juventus)",
-       "tipo": "titulo",
-       "fonte": "https://www.instagram.com/xvpiracicaba/"
-      }
-     ],
-     "nascimento": "",
-     "de": "Juventus"
-    },
-    {
-     "nome": "Gustavo Talles",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Gustavo Hebling",
-     "posicao": "Volante",
-     "renovou": true,
-     "foto": null,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/gustavo-hebling/375081",
-      "clubes": [
-       "XV de Piracicaba"
-      ],
-      "jogos": 40,
-      "minutos": 3427,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": []
-    },
-    {
-     "nome": "Gustavo Cabral",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Douglas Carvalho",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    },
-    {
-     "nome": "Oliver",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": ""
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Richard Alexandre",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-10-13"
-    },
-    {
-     "nome": "Roberto",
-     "de": "Caxias",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Richard Franco",
-     "de": "ASA",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Rafael Longuine",
-     "de": "Primavera",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Maurício Ribeiro",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Marcelo",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Keven",
-     "de": "Juventus",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Gustavo Talles",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Gustavo Cabral",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Douglas Carvalho",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Oliver",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
     }
    ],
    "sairam": []
