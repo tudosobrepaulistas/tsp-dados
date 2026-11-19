@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T03:52:00-03:00",
+ "gerado": "2026-11-19T04:16:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3668,7 +3668,7 @@
    "sairam": []
   },
   "santoandre": {
-   "atualizado": "2026-11-11",
+   "atualizado": "2026-11-18",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -3700,6 +3700,16 @@
        "fonte": "https://www.dgabc.com.br/Noticia/4354067/santo-andre-anuncia-danilinho-como-primeiro-reforco-para-2027"
       }
      ],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Anderson Ligeiro",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
      "nascimento": "",
      "de": ""
     },
@@ -3801,6 +3811,16 @@
      "de": ""
     },
     {
+     "nome": "Rodrigo Gaia",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
      "nome": "Júlio Vaz",
      "posicao": "Zagueiro",
      "foto": {
@@ -3877,6 +3897,32 @@
      "selos": [],
      "nascimento": "1998-04-02",
      "de": "CSA"
+    },
+    {
+     "nome": "Renan Areias",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Andrew",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Campeão do Paulistão A2 2026 (Juventus)",
+       "tipo": "titulo",
+       "fonte": "https://www.instagram.com/ecsantoandre/"
+      }
+     ],
+     "nascimento": "",
+     "de": ""
     }
    ],
    "chegaram": [
@@ -3891,6 +3937,12 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-10-21"
+    },
+    {
+     "nome": "Anderson Ligeiro",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-27"
     },
     {
      "nome": "Wandson",
@@ -3923,6 +3975,12 @@
      "data": "2026-10-30"
     },
     {
+     "nome": "Rodrigo Gaia",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
      "nome": "Júlio Vaz",
      "de": "",
      "tipo": "Contratação",
@@ -3945,6 +4003,18 @@
      "de": "CSA",
      "tipo": "Contratação",
      "data": "2026-11-11"
+    },
+    {
+     "nome": "Renan Areias",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    },
+    {
+     "nome": "Andrew",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
     }
    ],
    "sairam": []
@@ -4681,14 +4751,19 @@
    "sairam": []
   },
   "inter-de-bebedouro": {
-   "atualizado": "2026-11-10",
+   "atualizado": "2026-11-18",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
     {
      "nome": "Marcelinho",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-marcelinho-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [
@@ -4706,7 +4781,7 @@
      "foto": {
       "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-lucas-cezane-inter-de-bebedouro.webp",
       "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://images.futebolinterior.com.br/2026/10/riSbQy3l-lucas-cezane-caique-toledo-1.webp",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
       "ia": true
      },
      "novo": true,
@@ -4729,7 +4804,12 @@
     {
      "nome": "Hugo Henrique",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-hugo-henrique-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4739,51 +4819,119 @@
     {
      "nome": "André Luiz",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-andre-luiz-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
-     "selos": [],
+     "selos": [
+      {
+       "texto": "Campeão da Série A3 2026",
+       "tipo": "titulo",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
+      }
+     ],
      "nascimento": "",
      "de": "XV de Piracicaba"
     },
     {
-     "nome": "Lorram Ramires",
+     "nome": "Kriguer",
+     "posicao": "Volante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-01-kriguer-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Acesso à Série A2 com o Marília (2026)",
+       "tipo": "acesso",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
+      }
+     ],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "André Pereira",
+     "posicao": "Volante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-02-andre-pereira-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Wagner",
+     "posicao": "Meia",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-wagner-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Loram Ramires",
      "posicao": "Meia",
      "renovou": true,
      "foto": null,
      "numeros": null,
      "selos": [
       {
-       "texto": "Campeão Paulistão A4 2026",
-       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+       "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+       "tipo": "acesso",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
      ]
     },
     {
      "nome": "Samuel Balbino",
      "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/samuel-balbino/391886",
-      "clubes": [
-       "Comercial",
-       "Marília"
-      ],
-      "jogos": 23,
-      "minutos": 1505,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-samuel-balbino-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
      },
-     "selos": [],
-     "nascimento": "1994-12-08",
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Acesso à Série A2 com o Marília (2026)",
+       "tipo": "acesso",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
+      }
+     ],
+     "nascimento": "",
      "de": ""
     },
     {
      "nome": "Hericles",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-hericles-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/hericles/469111",
@@ -4808,8 +4956,14 @@
      "numeros": null,
      "selos": [
       {
-       "texto": "Campeão Paulistão A4 2026",
-       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+       "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+       "tipo": "acesso",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
+      },
+      {
+       "texto": "Melhor meio-campista do Paulistão A4 2026",
+       "tipo": "premio",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
      ]
     },
@@ -4817,12 +4971,18 @@
      "nome": "Biel",
      "posicao": "Atacante",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-biel-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [
       {
-       "texto": "Campeão Paulistão A4 2026",
-       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+       "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+       "tipo": "acesso",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
      ]
     },
@@ -4831,24 +4991,50 @@
      "posicao": "Atacante",
      "renovou": true,
      "foto": null,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/artur-melo/549326",
-      "clubes": [
-       "Marília",
-       "Noroeste"
-      ],
-      "jogos": 7,
-      "minutos": 565,
-      "gols": 1,
-      "assistencias": 0,
-      "escudos": {}
-     },
+     "numeros": null,
      "selos": [
       {
-       "texto": "Campeão Paulistão A4 2026",
-       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+       "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+       "tipo": "acesso",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
      ]
+    },
+    {
+     "nome": "Guilherme Givigi",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-guilherme-givigi-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": ""
+    },
+    {
+     "nome": "Guilherme Matheus",
+     "posicao": "Zagueiro",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-guilherme-matheus-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Campeão da Copa Paulista 2026",
+       "tipo": "titulo",
+       "fonte": "https://www.instagram.com/interbebedourooficial/"
+      }
+     ],
+     "nascimento": "",
+     "de": ""
     }
    ],
    "chegaram": [
@@ -4877,6 +5063,24 @@
      "data": "2026-10-30"
     },
     {
+     "nome": "Kriguer",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-01"
+    },
+    {
+     "nome": "André Pereira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "Wagner",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
      "nome": "Samuel Balbino",
      "de": "",
      "tipo": "Contratação",
@@ -4887,6 +5091,18 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-10"
+    },
+    {
+     "nome": "Guilherme Givigi",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-16"
+    },
+    {
+     "nome": "Guilherme Matheus",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
     }
    ],
    "sairam": []

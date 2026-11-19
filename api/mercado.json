@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T03:52:00-03:00",
+ "gerado": "2026-11-19T04:16:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -53,6 +53,53 @@
    "dono": "uniao-sao-joao"
   },
   {
+   "id": "2026-11-18-guilherme-matheus-inter-de-bebedouro",
+   "data": "2026-11-18",
+   "jogador": "Guilherme Matheus",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último clube: São José",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-guilherme-matheus-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão da Copa Paulista 2026",
+     "tipo": "titulo",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "inter-de-bebedouro"
+  },
+  {
    "id": "2026-11-18-bernardo-uniao-sao-joao",
    "data": "2026-11-18",
    "jogador": "Bernardo",
@@ -92,6 +139,48 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "uniao-sao-joao"
+  },
+  {
+   "id": "2026-11-18-andrew-santo-andre",
+   "data": "2026-11-18",
+   "jogador": "Andrew",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último clube: Juventus-SP",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsantoandre/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Campeão do Paulistão A2 2026 (Juventus)",
+     "tipo": "titulo",
+     "fonte": "https://www.instagram.com/ecsantoandre/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "santoandre"
   },
   {
    "id": "2026-11-17-vinicius-silva-taubate",
@@ -857,6 +946,47 @@
    "dono": "botafogosp"
   },
   {
+   "id": "2026-11-16-guilherme-givigi-inter-de-bebedouro",
+   "data": "2026-11-16",
+   "jogador": "Guilherme Givigi",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último clube: Brasil de Pelotas",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-guilherme-givigi-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "inter-de-bebedouro"
+  },
+  {
    "id": "2026-11-16-filipe-samuell-independente",
    "data": "2026-11-16",
    "jogador": "Filipe Samuell",
@@ -1097,6 +1227,42 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "penapolense"
+  },
+  {
+   "id": "2026-11-13-renan-areias-santo-andre",
+   "data": "2026-11-13",
+   "jogador": "Renan Areias",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último clube: Figueirense",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsantoandre/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "santoandre"
   },
   {
    "id": "2026-11-13-neto-berola-ituano",
@@ -2470,24 +2636,24 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-samuel-balbino-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
-   "nascimento": "1994-12-08",
-   "numeros": {
-    "fonte": "https://www.ogol.com.br/jogador/samuel-balbino/391886",
-    "clubes": [
-     "Comercial",
-     "Marília"
-    ],
-    "jogos": 23,
-    "minutos": 1505,
-    "gols": 0,
-    "assistencias": 0,
-    "escudos": {}
-   },
-   "selos": [],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Acesso à Série A2 com o Marília (2026)",
+     "tipo": "acesso",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
+    }
+   ],
    "carreira": [],
    "carreira_fonte": "",
    "dono": "inter-de-bebedouro"
@@ -2739,7 +2905,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-hericles-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
@@ -2934,14 +3105,21 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/",
+    "https://www.instagram.com/interbebedourooficial/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [
     {
-     "texto": "Campeão Paulistão A4 2026",
-     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+     "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+     "tipo": "acesso",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
+    },
+    {
+     "texto": "Melhor meio-campista do Paulistão A4 2026",
+     "tipo": "premio",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
     }
    ],
    "carreira": [],
@@ -3118,16 +3296,23 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-biel-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
    "fontes": [
-    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/",
+    "https://www.instagram.com/interbebedourooficial/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [
     {
-     "texto": "Campeão Paulistão A4 2026",
-     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+     "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+     "tipo": "acesso",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
     }
    ],
    "carreira": [],
@@ -3161,25 +3346,16 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/",
+    "https://www.instagram.com/interbebedourooficial/"
    ],
-   "nascimento": "1998-10-06",
-   "numeros": {
-    "fonte": "https://www.ogol.com.br/jogador/artur-melo/549326",
-    "clubes": [
-     "Marília",
-     "Noroeste"
-    ],
-    "jogos": 7,
-    "minutos": 565,
-    "gols": 1,
-    "assistencias": 0,
-    "escudos": {}
-   },
+   "nascimento": "",
+   "numeros": {},
    "selos": [
     {
-     "texto": "Campeão Paulistão A4 2026",
-     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+     "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+     "tipo": "acesso",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
     }
    ],
    "carreira": [],
@@ -3621,7 +3797,7 @@
   {
    "id": "2026-11-09-lorram-ramires-inter-de-bebedouro",
    "data": "2026-11-09",
-   "jogador": "Lorram Ramires",
+   "jogador": "Loram Ramires",
    "posicao": "Meia",
    "tipo": "renovacao",
    "tipo_nome": "Renovação",
@@ -3645,14 +3821,16 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/inter-de-bebedouro-meia-lorran-ramirez/"
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-meia-lorran-ramirez/",
+    "https://www.instagram.com/interbebedourooficial/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [
     {
-     "texto": "Campeão Paulistão A4 2026",
-     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
+     "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
+     "tipo": "acesso",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
     }
    ],
    "carreira": [],
@@ -3929,6 +4107,47 @@
    "carreira": [],
    "carreira_fonte": "",
    "dono": "marilia"
+  },
+  {
+   "id": "2026-11-06-wagner-inter-de-bebedouro",
+   "data": "2026-11-06",
+   "jogador": "Wagner",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último clube: União São João; melhor meia da Série A3 de 2025",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-wagner-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "inter-de-bebedouro"
   },
   {
    "id": "2026-11-06-thassio",
@@ -5815,6 +6034,42 @@
    "dono": "uniao-barbarense"
   },
   {
+   "id": "2026-11-03-rodrigo-gaia-santo-andre",
+   "data": "2026-11-03",
+   "jogador": "Rodrigo Gaia",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Emprestado pelo Metropolitano-SC até o fim da Série A2",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsantoandre/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "santoandre"
+  },
+  {
    "id": "2026-11-03-roberto-xv-de-piracicaba",
    "data": "2026-11-03",
    "jogador": "Roberto",
@@ -7016,6 +7271,94 @@
    "dono": "ituano"
   },
   {
+   "id": "2026-11-02-andre-pereira-inter-de-bebedouro",
+   "data": "2026-11-02",
+   "jogador": "André Pereira",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último clube: Interporto",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-02-andre-pereira-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-01-kriguer-inter-de-bebedouro",
+   "data": "2026-11-01",
+   "jogador": "Kriguer",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último clube: Mamoré-MG",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-01-kriguer-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Acesso à Série A2 com o Marília (2026)",
+     "tipo": "acesso",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "inter-de-bebedouro"
+  },
+  {
    "id": "2026-10-30-marcelinho-inter-de-bebedouro",
    "data": "2026-10-30",
    "jogador": "Marcelinho",
@@ -7040,7 +7383,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-marcelinho-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
@@ -7085,7 +7433,7 @@
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-lucas-cezane-inter-de-bebedouro.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
-    "fonte": "https://images.futebolinterior.com.br/2026/10/riSbQy3l-lucas-cezane-caique-toledo-1.webp",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
     "ia": true
    },
    "fontes": [
@@ -7135,7 +7483,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-hugo-henrique-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
@@ -7224,14 +7577,25 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-andre-luiz-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/inter-de-bebedouro-lucas-cezane/",
     "https://www.futebolinterior.com.br/inter-de-bebedouro-hercules/"
    ],
    "nascimento": "",
    "numeros": {},
-   "selos": [],
+   "selos": [
+    {
+     "texto": "Campeão da Série A3 2026",
+     "tipo": "titulo",
+     "fonte": "https://www.instagram.com/interbebedourooficial/"
+    }
+   ],
    "carreira": [],
    "carreira_fonte": "",
    "dono": "inter-de-bebedouro"
@@ -7652,6 +8016,42 @@
     "assistencias": 1,
     "escudos": {}
    },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "dono": "santoandre"
+  },
+  {
+   "id": "2026-10-27-anderson-ligeiro-santo-andre",
+   "data": "2026-10-27",
+   "jogador": "Anderson Ligeiro",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube; em 2026 passou por Grêmio Prudente, Serra Branca e Aymorés",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsantoandre/"
+   ],
+   "nascimento": "",
+   "numeros": {},
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
