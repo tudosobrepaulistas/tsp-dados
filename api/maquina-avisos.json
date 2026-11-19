@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-18T22:04-03:00",
+ "gerado": "2026-11-19T06:32-03:00",
  "avisos": [
-  {
-   "clube": "sao-paulo-feminino",
-   "nome": "São Paulo Feminino",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Final do Paulista F Sub-17 (22/11, Jaú) só em 1 fonte",
-   "sugestao": "Confirmar na FPF/São Paulo: São Paulo x Ferroviária na final do Sub-17 em Jaú"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Nada novo além da prévia do play-in; tabela da Copinha F sem 2 fontes",
-   "sugestao": "Santos na Copinha Feminina 2026 (Grupo E, CERET) com datas da FPF"
-  },
-  {
-   "clube": "red-bull-bragantino-feminino",
-   "nome": "Red Bull Bragantino Feminino",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Site do clube não abre e tabela da Copinha F sem 2ª fonte",
-   "sugestao": "Bragantinas na Copinha F 2026 (Grupo B, Nicolau Alayon)"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Nenhuma notícia recente; história bloqueada (06/11)",
-   "sugestao": "Balanço da 1ª temporada e planos para 2027 com a técnica Carine Bosetti"
-  },
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Resultados da base contra o São José ainda não publicados",
-   "sugestao": "Resultado da base feminina do Taubaté contra o São José e a vaga na fase estadual"
-  },
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-17T11:05-03:00",
-   "motivo": "Pauta saturada; sem fato novo com 2 fontes",
-   "sugestao": "Anúncio da técnica efetiva após a interina Júlia Passero"
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +378,48 @@
    "quando": "2026-11-18T22:04-03:00",
    "motivo": "Evergreen apurado (Roberto Carlos revelado no União, 1º convocado do clube à Seleção em 1992), mas o Wikimedia Commons bloqueou o acesso por excesso de pedidos e não foi possível conferir foto livre",
    "sugestao": "Roberto Carlos começou no União São João: base em Araras, profissional em 1991-92 e primeiro jogador do clube convocado à Seleção (fontes: futebolinterior.com.br/uniao-sao-joao-44-anos, realmadrid.com lendas, Gazeta Esportiva 01/08/2026)"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-19T06:32-03:00",
+   "motivo": "Reforços Giovanni Carignano e Kiko (atacantes) só no Futebol Interior (17/11); sem 2ª fonte nem foto aberta",
+   "sugestao": "Confirmar no Instagram do Tanabi SAF os atacantes Giovanni e Kiko (5 acessos somados) e publicar com a foto do anúncio"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-19T06:32-03:00",
+   "motivo": "Sem notícia nova encontrada nos últimos 7 dias; evergreen bloqueado (história em 06/11)",
+   "sugestao": "Técnico do ECUS para a A4 2027: o clube ainda não anunciou (lista do Futebol Interior de 01/10); conferir redes do clube"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-19T06:32-03:00",
+   "motivo": "Sem notícia confirmada; o técnico de 2026, Augusto Ambrogi, foi anunciado pelo Taquaritinga em 18/11",
+   "sugestao": "Quem será o técnico do Jacareí na A4 2027 após a saída de Augusto Ambrogi para o Taquaritinga (conferir com o clube e O Vale)"
+  },
+  {
+   "clube": "ferroviaria-feminino",
+   "nome": "Ferroviária Feminino",
+   "quando": "2026-11-19T06:32-03:00",
+   "motivo": "Final do Paulista Feminino Sub-17 contra o São Paulo (domingo, 22/11, 11h, em Jaú, jogo único) só em 1 fonte (blog citando a FPF)",
+   "sugestao": "Prévia da final do Paulista Feminino Sub-17 Ferroviária x São Paulo em Jaú, com estádio e transmissão (TV Brasil e YouTube do Paulistão) confirmados no site da FPF"
+  },
+  {
+   "clube": "bandeirante_brodowski",
+   "nome": "Bandeirante de Brodowski",
+   "quando": "2026-11-19T06:32-03:00",
+   "motivo": "Ida da semifinal do Amador do Estado: 0 x 0 com o União em Atibaia (14/11), só no Correio de Atibaia; volta em Brodowski ainda sem data",
+   "sugestao": "Bandeirante de Brodowski decide em casa a vaga na final do Amador do Estado contra o União: conferir data e horário da volta na FPF"
+  },
+  {
+   "clube": "ibrachina",
+   "nome": "Ibrachina",
+   "quando": "2026-11-19T06:32-03:00",
+   "motivo": "Volta da semifinal do Paulista Sub-17 contra o Bragantino (sábado, 21/11, 11h, CPD Atibaia; ida 0 x 4) confirmada, mas ja-tem acusou assunto parecido e não achei foto aberta",
+   "sugestao": "Ibrachina precisa de 4 gols contra o Bragantino em Atibaia para chegar à final do Paulista Sub-17 (foto do clube)"
   }
  ]
 }
