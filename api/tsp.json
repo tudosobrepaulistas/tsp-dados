@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T06:57:00-03:00",
+ "gerado": "2026-11-19T14:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -12248,7 +12248,43 @@
      "https://www.supervasco.com/noticias/vasco-deve-contar-com-reforcos-importantes-contra-o-internacional-459976.html",
      "https://www.metropoles.com/esportes/brasileirao-retorna-nesta-semana-confira-todos-os-jogos-da-35a-rodada"
     ],
-    "atualizado": "2026-11-16T22:26:00-03:00"
+    "atualizado": "2026-11-19T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Sportv",
+       "tipo": "tv fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/internacional/vasco-x-internacional-onde-assistir-escalacoes-e-arbitragem,36f692880137564f51f1f89c9ebe571fsb81hlrf.html",
+      "https://diariodorio.com/esporte/2026/11/18/vasco-x-internacional-onde-assistir-ao-vivo-ao-jogo-do-brasileirao-2026.html"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Pedro Emanuel",
+      "time": "Léo Jardim; Paulo Henrique, Saldivia, Robert Renan e Cuiabano; Sosa, Thiago Mendes e Lescano; Colidio, Andrés Gómez e Bruno Duarte",
+      "desfalques": "",
+      "duvidas": "Paulo Henrique ou Puma Rodríguez na lateral direita"
+     },
+     "fora": {
+      "tecnico": "Eduardo Baptista",
+      "time": "Kauan Jesus; Ronaldo, Mercado e Juninho; Aguirre, Villagra, Bruno Gomes e Matheus Bahia; Vitinho e Alan Patrick; Alerrandro",
+      "desfalques": "Thiago Maia (problema físico) e Maripán (suspenso, expulso contra o Coritiba)",
+      "duvidas": "Ronaldo pode jogar no meio-campo no lugar de Thiago Maia; nesse caso, Bruno Gomes volta à faixa central"
+     },
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/internacional/vasco-x-internacional-onde-assistir-escalacoes-e-arbitragem,36f692880137564f51f1f89c9ebe571fsb81hlrf.html",
+      "https://diariodorio.com/esporte/2026/11/18/vasco-x-internacional-onde-assistir-ao-vivo-ao-jogo-do-brasileirao-2026.html",
+      "https://www.jornaldocomercio.com/esportes/2026/11/1270882-sem-thiago-maia-e-maripan-inter-encaminha-time-para-jogo-decisivo-com-o-vasco.html"
+     ],
+     "atualizado": "2026-11-19T14:25:00-03:00"
+    }
    },
    "escalacoes": {},
    "previsao": {
@@ -12318,7 +12354,39 @@
      "https://futebolbaiano.com.br/2026/11/rafael-lacerda-completa-primeira-semana-no-vitoria-visando-estreia-contra-o-bragantino.html",
      "https://futebolbaiano.com.br/2026/11/mancini-quer-aproveitar-data-fifa-para-recuperar-lesionados-de-olho-no-vitoria.html"
     ],
-    "atualizado": "2026-11-16T22:26:00-03:00"
+    "atualizado": "2026-11-19T14:25:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/vitoria-x-rb-bragantino-onde-assistir/",
+      "https://jornalmassa.com.br/esporte/vitoria-x-rb-bragantino-onde-assistir-escalacoes-e-arbitragem-1349766"
+     ]
+    },
+    "provaveis": {
+     "casa": {
+      "tecnico": "Rafael Lacerda",
+      "time": "Lucas Arcanjo; Mateus Silva, Cacá, Brítez e Jamerson; Caíque, Gabriel Baralhas e Emmanuel Martínez; Erick, Matheuzinho e Renê",
+      "desfalques": "Luan Cândido e Nacho Laquintana (emprestados pelo Bragantino, questão contratual); Fabiano, Nathan Mendes e Dudu (lesionados)",
+      "duvidas": ""
+     },
+     "fora": {
+      "tecnico": "Vagner Mancini",
+      "time": "Tiago Volpi; Ryan Augusto, Gustavo Marques, Guzmán Rodríguez e Juninho Capixaba; Fabinho, Eric Ramires e José Herrera; Wallace Yan, Fernando e Eduardo Sasha",
+      "desfalques": "",
+      "duvidas": "Gustavo Marques ou Alix Vinícius na zaga; Fernando ou Henry Mosquera no ataque"
+     },
+     "fontes": [
+      "https://jornalmassa.com.br/esporte/vitoria-x-rb-bragantino-onde-assistir-escalacoes-e-arbitragem-1349766",
+      "https://bahia.ba/esporte/vitoria-x-rb-bragantino-onde-assistir-escalacoes-e-arbitragem/",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/vitoria-x-rb-bragantino-onde-assistir/"
+     ],
+     "atualizado": "2026-11-19T14:25:00-03:00"
+    }
    },
    "escalacoes": {},
    "previsao": {
