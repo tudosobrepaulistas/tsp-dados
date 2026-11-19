@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T01:54:00-03:00",
+ "gerado": "2026-11-19T03:35:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -12208,7 +12208,7 @@
     "fora": 45,
     "placar": "1x1",
     "gols_esperados": [
-     1.21,
+     1.22,
      1.56
     ],
     "base": [
@@ -12346,7 +12346,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.5,
-     1.0
+     1.01
     ],
     "base": [
      17,
@@ -12419,16 +12419,16 @@
    "escalacoes": {},
    "previsao": {
     "casa": 54,
-    "empate": 25,
-    "fora": 21,
-    "placar": "1x0",
+    "empate": 24,
+    "fora": 22,
+    "placar": "1x1",
     "gols_esperados": [
-     1.63,
-     0.92
+     1.72,
+     1.02
     ],
     "base": [
      15,
-     21
+     23
     ]
    },
    "events": []
@@ -12557,7 +12557,7 @@
     "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.12,
+     2.13,
      0.83
     ],
     "base": [
@@ -12725,7 +12725,7 @@
     "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.21,
+     2.22,
      0.92
     ],
     "base": [
@@ -12837,7 +12837,7 @@
     "fora": 28,
     "placar": "1x1",
     "gols_esperados": [
-     1.57,
+     1.58,
      1.14
     ],
     "base": [
@@ -12894,7 +12894,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.76,
-     2.03
+     2.04
     ],
     "base": [
      15,
@@ -13005,7 +13005,7 @@
     "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.61,
+     1.62,
      0.77
     ],
     "base": [
@@ -32143,6 +32143,160 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://federacaopr.com.br/noticias/paranaense/operario-foz-iguacu-paranaense-2026/",
+    "https://www.umdoisesportes.com.br/futebol-paranaense/operario-azuriz-sao-joseense-londrina-maringa-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000402,
+    "timestamp": 1769281200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Primeira fase - Rodada 6"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900052,
+     "name": "Foz do Iguaçu"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 41,
+      "extra": null,
+      "texto": "41"
+     },
+     "team": {
+      "id": 900052,
+      "name": "Foz do Iguaçu"
+     },
+     "player": {
+      "name": "Vinícius Peixoto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 62,
+      "extra": null,
+      "texto": "62"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Aylon"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.bandab.com.br/esporte/futebol/operario-x-azuriz-resultado-gols-campeonato-paranaense-2026/amp/",
+    "https://www.umdoisesportes.com.br/futebol-paranaense/operario-azuriz-sao-joseense-londrina-maringa-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000407,
+    "timestamp": 1769958000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Quartas de final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900050,
+     "name": "Azuriz"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 17,
+      "extra": null,
+      "texto": "17"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Vinicius Diniz"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 39,
+      "extra": null,
+      "texto": "39"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Moraes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/viveros-perde-dois-penaltis-mas-athletico-pr-massacra-foz-do-iguacu-pelo-paranaense/",
     "https://www.gazetaesportiva.com/times/athletico-paranaense/luiz-gustavo-estreia-athletico-pr-goleia-foz-do-iguacu-e-encaminha-vaga-nas-semis-do-paranaense/"
    ],
@@ -32231,6 +32385,115 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/operario-coritiba-resultado-gols-ficha-semifinal-paranaense/",
+    "https://www.bandab.com.br/esporte/times/coritiba/coritiba-x-operario-escalacoes-onde-assistir-e-ficha-tecnica-paranaense-2026-semifinal-volta/amp/"
+   ],
+   "fixture": {
+    "id": 91000403,
+    "timestamp": 1771095600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 13,
+      "extra": null,
+      "texto": "13"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Pedro Rocha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45"
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Pedro Rocha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 68,
+      "extra": null,
+      "texto": "68"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Boschilia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 76,
+      "extra": null,
+      "texto": "76"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Gabriel Feliciano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/athletico-pr-vira-mas-cede-empate-ao-londrina-na-ida-da-semi-pelo-paranaense/",
     "https://www.lance.com.br/futebol-nacional/athletico-e-londrina-empatam-na-ida-da-semifinal-do-paranaense.html"
    ],
@@ -32275,6 +32538,50 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-operario-semifinal-paranaense-resultado/",
+    "https://tmc.com.br/?p=42819"
+   ],
+   "fixture": {
+    "id": 91000404,
+    "timestamp": 1771700400,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Semifinal - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "5x6",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-derrota-londrina-eliminacao-paranaense-semifinal/",
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/joao-cruz-perde-penalti-londrina-derrota-athletico-e-vai-a-final-do-paranaense"
    ],
@@ -32309,6 +32616,94 @@
     "away": 1
    },
    "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/campeonatos/paranaense/operario-londrina-final-campeonato-paranaense-2026-resultado-ficha-tecnica/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/operario-e-londrina-empatam-na-ida-da-final-do-campeonato-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000405,
+    "timestamp": 1772305200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final - ida"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "paranaense",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/futebol-paranaense/operario-campeao-paranaense-penaltis-londrina/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/nos-penaltis-operario-vence-londrina-e-conquista-o-campeonato-paranaense/"
+   ],
+   "fixture": {
+    "id": 91000406,
+    "timestamp": 1772910000,
+    "status": {
+     "short": "PEN",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Estádio do Café",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Final - volta"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "3x4",
    "prejogo": {},
    "escalacoes": {},
    "previsao": null,
@@ -39009,9 +39404,51 @@
   ],
   "paranaense": [
    {
+    "jogador": "Pedro Rocha",
+    "time": "Coritiba",
+    "time_id": 900012,
+    "gols": 2
+   },
+   {
+    "jogador": "Aylon",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Boschilia",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Gabriel Feliciano",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
     "jogador": "Lucas Ronier",
     "time": "Coritiba",
     "time_id": 900012,
+    "gols": 1
+   },
+   {
+    "jogador": "Moraes",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Vinicius Diniz",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Vinícius Peixoto",
+    "time": "Foz do Iguaçu",
+    "time_id": 900052,
     "gols": 1
    }
   ],

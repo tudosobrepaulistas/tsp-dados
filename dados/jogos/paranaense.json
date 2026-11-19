@@ -268,6 +268,79 @@
    "atualizado": "2026-11-09T18:36:00-03:00"
   },
   {
+   "id": 91000402,
+   "data": "2026-01-24T16:00:00-03:00",
+   "casa": "operario-pr",
+   "fora": "foz-do-iguacu",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "Primeira fase",
+   "grupo": "",
+   "estadio": "Germano Krüger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Vinícius Peixoto",
+     "minuto": "41",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Aylon",
+     "minuto": "62",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://federacaopr.com.br/noticias/paranaense/operario-foz-iguacu-paranaense-2026/",
+    "https://www.umdoisesportes.com.br/futebol-paranaense/operario-azuriz-sao-joseense-londrina-maringa-paranaense/"
+   ],
+   "atualizado": "2026-11-19T03:34:00-03:00"
+  },
+  {
+   "id": 91000407,
+   "data": "2026-02-01T12:00:00-03:00",
+   "casa": "operario-pr",
+   "fora": "azuriz",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Quartas de final - ida",
+   "grupo": "",
+   "estadio": "Germano Krüger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Vinicius Diniz",
+     "minuto": "17",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Moraes",
+     "minuto": "39",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.bandab.com.br/esporte/futebol/operario-x-azuriz-resultado-gols-campeonato-paranaense-2026/amp/",
+    "https://www.umdoisesportes.com.br/futebol-paranaense/operario-azuriz-sao-joseense-londrina-maringa-paranaense/"
+   ],
+   "atualizado": "2026-11-19T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
    "id": 91000201,
    "data": "2026-02-03T20:00:00-03:00",
    "casa": "athletico-pr",
@@ -377,6 +450,106 @@
    "atualizado": "2026-11-09T18:36:00-03:00"
   },
   {
+   "id": 91000403,
+   "data": "2026-02-14T16:00:00-03:00",
+   "casa": "operario-pr",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - ida",
+   "grupo": "",
+   "estadio": "Germano Krüger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Pedro Rocha",
+     "minuto": "13",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro Rocha",
+     "minuto": "45",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Boschilia",
+     "minuto": "68",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Feliciano",
+     "minuto": "76",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/operario-coritiba-resultado-gols-ficha-semifinal-paranaense/",
+    "https://www.bandab.com.br/esporte/times/coritiba/coritiba-x-operario-escalacoes-onde-assistir-e-ficha-tecnica-paranaense-2026-semifinal-volta/amp/"
+   ],
+   "atualizado": "2026-11-19T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luizinho Lopes",
+     "time": "Vagner Silva; Doka, Cuenú, Jhan Pool, Moraes; Índio, Vinicius Diniz, Boschilia; Edwin Torres, Léo Gaúcho, Aylon",
+     "entraram": [
+      {
+       "jogador": "Gabriel Feliciano",
+       "saiu": "Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hildeberto",
+       "saiu": "Edwin Torres",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Hildeberto",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; Tinga, Jacy, Tiago Cóser, Bruno Melo; Wallisson, Vini Paulista, Josué; Lucas Ronier, Lavega, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "William Oliveira",
+       "saiu": "Wallisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabinho",
+       "saiu": "Lucas Ronier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Keno",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/operario-coritiba-resultado-gols-ficha-semifinal-paranaense/"
+    ],
+    "atualizado": "2026-11-19T03:34:00-03:00"
+   }
+  },
+  {
    "id": 91000203,
    "data": "2026-02-15T18:30:00-03:00",
    "casa": "londrina",
@@ -468,6 +641,135 @@
    }
   },
   {
+   "id": 91000404,
+   "data": "2026-02-21T16:00:00-03:00",
+   "casa": "coritiba",
+   "fora": "operario-pr",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Semifinal - volta",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "5x6",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/coritiba-operario-semifinal-paranaense-resultado/",
+    "https://tmc.com.br/?p=42819"
+   ],
+   "atualizado": "2026-11-19T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; Tinga, Maicon, Thiago Santos, Bruno Melo; William Oliveira, Lavega, Josué; Breno Lopes, Lucas Ronier, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Jacy",
+       "saiu": "Thiago Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "William Oliveira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Keno",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando Sobral",
+       "saiu": "Lucas Ronier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enzo",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Thiago Santos",
+        "minuto": ""
+       },
+       {
+        "jogador": "William Oliveira",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vini Paulista",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Luizinho Lopes",
+     "time": "Vagner Silva; Miranda, Cuenú, Jhan Pool, Moraes; Índio, Vinicius Diniz, Boschilia; Aylon, Léo Gaúcho, Hildeberto",
+     "entraram": [
+      {
+       "jogador": "Matheus Trindade",
+       "saiu": "Miranda",
+       "minuto": ""
+      },
+      {
+       "jogador": "Doka",
+       "saiu": "Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Paraíba",
+       "saiu": "Vinicius Diniz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Feliciano",
+       "saiu": "Léo Gaúcho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edwin Torres",
+       "saiu": "Hildeberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vinicius Diniz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Aylon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Miranda",
+        "minuto": ""
+       },
+       {
+        "jogador": "Índio",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/coritiba/coritiba-operario-semifinal-paranaense-resultado/"
+    ],
+    "atualizado": "2026-11-19T03:34:00-03:00"
+   }
+  },
+  {
    "id": 91000204,
    "data": "2026-02-22T15:00:00-03:00",
    "casa": "athletico-pr",
@@ -489,6 +791,228 @@
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/joao-cruz-perde-penalti-londrina-derrota-athletico-e-vai-a-final-do-paranaense"
    ],
    "atualizado": "2026-11-09T18:36:00-03:00"
+  },
+  {
+   "id": 91000405,
+   "data": "2026-02-28T16:00:00-03:00",
+   "casa": "operario-pr",
+   "fora": "londrina",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final - ida",
+   "grupo": "",
+   "estadio": "Germano Krüger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/campeonatos/paranaense/operario-londrina-final-campeonato-paranaense-2026-resultado-ficha-tecnica/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/operario-e-londrina-empatam-na-ida-da-final-do-campeonato-paranaense/"
+   ],
+   "atualizado": "2026-11-19T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luizinho Lopes",
+     "time": "Vágner; Mikael Doka, Cuenú, Miranda, Moraes; Índio, Vinícius Diniz, Boschilia; Hildeberto Pereira, Léo Gaúcho, Aylon",
+     "entraram": [
+      {
+       "jogador": "Edwin Torres",
+       "saiu": "Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Trindade",
+       "saiu": "Índio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Paraíba",
+       "saiu": "Vinícius Diniz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Feliciano",
+       "saiu": "Hildeberto Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zuluaga",
+       "saiu": "Aylon",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Allan Aal",
+     "time": "Maurício Kozlinski; Maurício Mucuri, Yago Lincoln, Wallace, Kevyn; André Luiz, Lucas Marques, João Tavares; Paulinho Moccelin, Bruno Santos, Iago Teles",
+     "entraram": [
+      {
+       "jogador": "André Dhominique",
+       "saiu": "Maurício Mucuri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabiano",
+       "saiu": "André Luiz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "João Tavares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Jacaré",
+       "saiu": "Paulinho Moccelin",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Paulinho Moccelin",
+        "minuto": ""
+       },
+       {
+        "jogador": "Maurício Mucuri",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/campeonatos/paranaense/operario-londrina-final-campeonato-paranaense-2026-resultado-ficha-tecnica/"
+    ],
+    "atualizado": "2026-11-19T03:34:00-03:00"
+   }
+  },
+  {
+   "id": 91000406,
+   "data": "2026-03-07T16:00:00-03:00",
+   "casa": "londrina",
+   "fora": "operario-pr",
+   "status": "encerrado",
+   "rodada": "",
+   "fase": "Final - volta",
+   "grupo": "",
+   "estadio": "Estádio do Café",
+   "cidade": "Londrina",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "3x4",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/futebol-paranaense/operario-campeao-paranaense-penaltis-londrina/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/campeonato-paranaense/nos-penaltis-operario-vence-londrina-e-conquista-o-campeonato-paranaense/"
+   ],
+   "atualizado": "2026-11-19T03:34:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Allan Aal",
+     "time": "Maurício Kozlinski; André, Yago Lincoln, Wallace, Kevyn; André Luiz, Lucas Marques, Vitinho Mota; Paulinho Moccelin, Bruno Santos, Iago Teles",
+     "entraram": [
+      {
+       "jogador": "Chumbinho",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabiano",
+       "saiu": "Lucas Marques",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "Vitinho Mota",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Jacaré",
+       "saiu": "Paulinho Moccelin",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": [
+       {
+        "jogador": "Chumbinho",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Luizinho Lopes",
+     "time": "Vágner; Mikael Doka, Cuenú, Miranda, Moraes; Índio, Vinícius Diniz, Boschilia; Hildeberto Pereira, Léo Gaúcho, Aylon",
+     "entraram": [
+      {
+       "jogador": "Zuluaga",
+       "saiu": "Mikael Doka",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Feliciano",
+       "saiu": "Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Paraíba",
+       "saiu": "Índio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edwin Torres",
+       "saiu": "Hildeberto Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Trindade",
+       "saiu": "Aylon",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vinícius Diniz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Cuenú",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Vinícius Diniz",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.umdoisesportes.com.br/futebol-paranaense/operario-campeao-paranaense-penaltis-londrina/"
+    ],
+    "atualizado": "2026-11-19T03:34:00-03:00"
+   }
   }
  ]
 }

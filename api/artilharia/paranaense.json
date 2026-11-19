@@ -1,8 +1,50 @@
 [
  {
+  "jogador": "Pedro Rocha",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 2
+ },
+ {
+  "jogador": "Aylon",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 1
+ },
+ {
+  "jogador": "Boschilia",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 1
+ },
+ {
+  "jogador": "Gabriel Feliciano",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 1
+ },
+ {
   "jogador": "Lucas Ronier",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 1
+ },
+ {
+  "jogador": "Moraes",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 1
+ },
+ {
+  "jogador": "Vinicius Diniz",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 1
+ },
+ {
+  "jogador": "Vinícius Peixoto",
+  "time": "Foz do Iguaçu",
+  "time_id": 900052,
   "gols": 1
  }
 ]
