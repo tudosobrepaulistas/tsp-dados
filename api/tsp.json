@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T22:10:00-03:00",
+ "gerado": "2026-11-18T23:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -34,35 +34,35 @@
     {
      "id": 900001,
      "nome": "Flamengo",
-     "pts": 76,
-     "j": 34,
-     "v": 23,
+     "pts": 79,
+     "j": 35,
+     "v": 24,
      "e": 7,
      "d": 4,
-     "gp": 71,
-     "gc": 29
+     "gp": 73,
+     "gc": 30
     },
     {
      "id": 900002,
      "nome": "Palmeiras",
      "pts": 73,
-     "j": 34,
+     "j": 35,
      "v": 21,
      "e": 10,
-     "d": 3,
-     "gp": 62,
-     "gc": 23
+     "d": 4,
+     "gp": 63,
+     "gc": 25
     },
     {
      "id": 900003,
      "nome": "Cruzeiro",
-     "pts": 60,
-     "j": 34,
-     "v": 18,
+     "pts": 63,
+     "j": 35,
+     "v": 19,
      "e": 6,
      "d": 10,
-     "gp": 55,
-     "gc": 48
+     "gp": 57,
+     "gc": 49
     },
     {
      "id": 900005,
@@ -79,12 +79,12 @@
      "id": 900004,
      "nome": "Athletico-PR",
      "pts": 54,
-     "j": 34,
+     "j": 35,
      "v": 15,
      "e": 9,
-     "d": 10,
-     "gp": 51,
-     "gc": 43
+     "d": 11,
+     "gp": 52,
+     "gc": 45
     },
     {
      "id": 900007,
@@ -253,22 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000148,
-     "rodada": "35",
-     "data": "2026-11-18T20:30",
-     "casa": 900001,
-     "fora": 900004,
-     "a_confirmar": false
-    },
-    {
-     "id": 91000149,
-     "rodada": "35",
-     "data": "2026-11-18T20:30",
-     "casa": 900003,
-     "fora": 900002,
-     "a_confirmar": false
-    },
     {
      "id": 91000150,
      "rodada": "35",
@@ -1186,6 +1170,18 @@
      900020,
      2,
      0
+    ],
+    [
+     900001,
+     900004,
+     2,
+     1
+    ],
+    [
+     900003,
+     900002,
+     2,
+     1
     ]
    ]
   }
@@ -11431,14 +11427,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-vira-sobre-athletico-pr-e-pode-ser-campeao-contra-o-palmeiras/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-athletico-pr-e-encaminha-titulo-do-brasileirao-2026/"
    ],
    "fixture": {
     "id": 91000148,
     "timestamp": 1795044600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Maracanã",
@@ -11460,8 +11458,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -11479,36 +11477,141 @@
     ],
     "atualizado": "2026-11-15T22:26:00-03:00"
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 63,
-    "empate": 21,
-    "fora": 17,
-    "placar": "2x0",
-    "gols_esperados": [
-     2.03,
-     0.94
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Léo Pereira, Alex Sandro; Pulgar, Jorginho, Arrascaeta; Carrascal, Samuel Lino, Pedro",
+     "entraram": [
+      {
+       "jogador": "Ayrton Lucas",
+       "saiu": "Alex Sandro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Saúl",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Carrascal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Plata",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Freitas",
+       "saiu": "Pedro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Odair Hellmann",
+     "time": "Mycael; Benavídez, Aguirre, Esquivel; Gilberto, Felipinho, Jadson, Portilla, Zapelli, Mendoza; Vargas",
+     "entraram": [
+      {
+       "jogador": "Gilberto Júnior",
+       "saiu": "Gilberto",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Cruz",
+       "saiu": "Felipinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Portilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leozinho",
+       "saiu": "Zapelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jorge Rivaldo",
+       "saiu": "Vargas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-vira-sobre-athletico-pr-e-pode-ser-campeao-contra-o-palmeiras/"
     ],
-    "base": [
-     12,
-     24
-    ]
+    "atualizado": "2026-11-18T23:10:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 10,
+      "extra": null,
+      "texto": "10"
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Vargas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 16,
+      "extra": null,
+      "texto": "16"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Carrascal"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 26,
+      "extra": null,
+      "texto": "26"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Jorginho"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/analise-cruzeiro-busca-virada-relampago-sobre-o-palmeiras-e-segue-firme-em-terceiro-no-brasileirao",
+    "https://www.terra.com.br/esportes/futebol/cruzeiro-vence-o-palmeiras-de-virada-e-complica-o-time-paulista,5d6e62f95116c2a2daa10a2fb6cf955c9f83meud.html"
    ],
    "fixture": {
     "id": 91000149,
     "timestamp": 1795044600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Mineirão",
@@ -11530,8 +11633,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -11580,22 +11683,120 @@
      "atualizado": "2026-11-18T18:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 33,
-    "empate": 29,
-    "fora": 38,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.08,
-     1.16
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; William, Fabrício Bruno, Lucas Villalba, Gabriel Rojas; Lucas Romero, Zé Lucas, Gerson, Matheus Pereira; Marquinhos, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Viña",
+       "saiu": "Gabriel Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Gerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Marquinhos",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Barboza, Benedetti, Bruno Fuchs; Khellven, Lucas Evangelista, Marlon Freitas, Andreas Pereira, Arthur; Vitor Roque, Ramón Sosa",
+     "entraram": [
+      {
+       "jogador": "Larson",
+       "saiu": "Barboza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick Belé",
+       "saiu": "Marlon Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luís Pacheco",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhon Arias",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Flaco López",
+       "saiu": "Ramón Sosa",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/analise-cruzeiro-busca-virada-relampago-sobre-o-palmeiras-e-segue-firme-em-terceiro-no-brasileirao"
     ],
-    "base": [
-     26,
-     16
-    ]
+    "atualizado": "2026-11-18T23:10:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 46,
+      "extra": null,
+      "texto": "46"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Ramón Sosa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 73,
+      "extra": null,
+      "texto": "73"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Khellven"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -11690,7 +11891,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.06,
-     1.74
+     1.73
     ],
     "base": [
      15,
@@ -11756,11 +11957,11 @@
    "previsao": {
     "casa": 62,
     "empate": 20,
-    "fora": 19,
+    "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.19,
-     1.12
+     2.18,
+     1.11
     ],
     "base": [
      17,
@@ -11900,7 +12101,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.21,
-     1.57
+     1.56
     ],
     "base": [
      12,
@@ -12019,17 +12220,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
+    "casa": 48,
     "empate": 26,
-    "fora": 23,
-    "placar": "1x0",
+    "fora": 26,
+    "placar": "1x1",
     "gols_esperados": [
-     1.52,
-     0.91
+     1.49,
+     1.01
     ],
     "base": [
-     16,
-     12
+     17,
+     13
     ]
    },
    "events": []
@@ -12131,17 +12332,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 20,
+    "casa": 19,
     "empate": 23,
     "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
      0.95,
-     1.81
+     1.83
     ],
     "base": [
      15,
-     26
+     27
     ]
    },
    "events": []
@@ -12187,16 +12388,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
+    "casa": 67,
     "empate": 19,
-    "fora": 13,
+    "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.15,
-     0.81
+     2.12,
+     0.83
     ],
     "base": [
-     24,
+     25,
      12
     ]
    },
@@ -12357,7 +12558,7 @@
    "previsao": {
     "casa": 66,
     "empate": 19,
-    "fora": 15,
+    "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
      2.2,
@@ -35807,43 +36008,43 @@
       1,
       900001,
       "Flamengo",
-      76,
-      34,
-      23,
+      79,
+      35,
+      24,
       7,
       4,
-      42,
+      43,
       "",
-      71,
-      29
+      73,
+      30
      ],
      [
       2,
       900002,
       "Palmeiras",
       73,
-      34,
+      35,
       21,
       10,
-      3,
-      39,
+      4,
+      38,
       "",
-      62,
-      23
+      63,
+      25
      ],
      [
       3,
       900003,
       "Cruzeiro",
-      60,
-      34,
-      18,
+      63,
+      35,
+      19,
       6,
       10,
-      7,
+      8,
       "",
-      55,
-      48
+      57,
+      49
      ],
      [
       4,
@@ -35864,14 +36065,14 @@
       900004,
       "Athletico-PR",
       54,
-      34,
+      35,
       15,
       9,
-      10,
-      8,
+      11,
+      7,
       "",
-      51,
-      43
+      52,
+      45
      ],
      [
       6,
@@ -36460,6 +36661,12 @@
     "gols": 2
    },
    {
+    "jogador": "Carrascal",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 2
+   },
+   {
     "jogador": "Hércules",
     "time": "Fluminense",
     "time_id": 900005,
@@ -36493,6 +36700,12 @@
     "jogador": "Matheus Bidu",
     "time": "Corinthians",
     "time_id": 900018,
+    "gols": 2
+   },
+   {
+    "jogador": "Matheus Pereira",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 2
    },
    {
@@ -36619,12 +36832,6 @@
     "jogador": "Cano",
     "time": "Fluminense",
     "time_id": 900005,
-    "gols": 1
-   },
-   {
-    "jogador": "Carrascal",
-    "time": "Flamengo",
-    "time_id": 900001,
     "gols": 1
    },
    {
@@ -36778,6 +36985,12 @@
     "gols": 1
    },
    {
+    "jogador": "Jorginho",
+    "time": "Flamengo",
+    "time_id": 900001,
+    "gols": 1
+   },
+   {
     "jogador": "Julimar",
     "time": "Athletico-PR",
     "time_id": 900004,
@@ -36874,12 +37087,6 @@
     "gols": 1
    },
    {
-    "jogador": "Matheus Pereira",
-    "time": "Cruzeiro",
-    "time_id": 900003,
-    "gols": 1
-   },
-   {
     "jogador": "Memphis Depay",
     "time": "Corinthians",
     "time_id": 900018,
@@ -36919,6 +37126,12 @@
     "jogador": "Puma Rodríguez",
     "time": "Vasco",
     "time_id": 900013,
+    "gols": 1
+   },
+   {
+    "jogador": "Ramón Sosa",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 1
    },
    {
@@ -36979,6 +37192,12 @@
     "jogador": "Tinga",
     "time": "Coritiba",
     "time_id": 900012,
+    "gols": 1
+   },
+   {
+    "jogador": "Vargas",
+    "time": "Athletico-PR",
+    "time_id": 900004,
     "gols": 1
    },
    {

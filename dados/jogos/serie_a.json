@@ -7728,22 +7728,43 @@
    "data": "2026-11-18T20:30:00-03:00",
    "casa": "flamengo",
    "fora": "athletico-pr",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Maracanã",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Vargas",
+     "minuto": "10",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carrascal",
+     "minuto": "16",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jorginho",
+     "minuto": "26",
+     "tipo": "penalti"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-vira-sobre-athletico-pr-e-pode-ser-campeao-contra-o-palmeiras/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-vence-athletico-pr-e-encaminha-titulo-do-brasileirao-2026/"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-18T23:10:00-03:00",
    "prejogo": {
     "analise": [
      "Flamengo e Athletico-PR se enfrentam na quarta-feira (18/11), às 20h30, no Maracanã, no Rio de Janeiro, pela 35ª rodada da Série A. Líder com 76 pontos, o Flamengo tem três de vantagem sobre o Palmeiras (73) a quatro rodadas do fim, e os dois se enfrentam na 36ª rodada. O Athletico-PR é o 5º, com 54 pontos, e briga por vaga na Libertadores de 2027.",
@@ -7758,6 +7779,74 @@
      "https://www.bandab.com.br/esporte/times/athletico/athletico-mudancas-time-flamengo-brasileirao-2026/"
     ],
     "atualizado": "2026-11-15T22:26:00-03:00"
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Léo Pereira, Alex Sandro; Pulgar, Jorginho, Arrascaeta; Carrascal, Samuel Lino, Pedro",
+     "entraram": [
+      {
+       "jogador": "Ayrton Lucas",
+       "saiu": "Alex Sandro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Saúl",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Carrascal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Plata",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Freitas",
+       "saiu": "Pedro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Odair Hellmann",
+     "time": "Mycael; Benavídez, Aguirre, Esquivel; Gilberto, Felipinho, Jadson, Portilla, Zapelli, Mendoza; Vargas",
+     "entraram": [
+      {
+       "jogador": "Gilberto Júnior",
+       "saiu": "Gilberto",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Cruz",
+       "saiu": "Felipinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Portilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leozinho",
+       "saiu": "Zapelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jorge Rivaldo",
+       "saiu": "Vargas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-vira-sobre-athletico-pr-e-pode-ser-campeao-contra-o-palmeiras/"
+    ],
+    "atualizado": "2026-11-18T23:10:00-03:00"
    }
   },
   {
@@ -7765,22 +7854,43 @@
    "data": "2026-11-18T20:30:00-03:00",
    "casa": "cruzeiro",
    "fora": "palmeiras",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Mineirão",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Ramón Sosa",
+     "minuto": "46",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "73",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Khellven",
+     "minuto": "",
+     "tipo": "contra"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/analise-cruzeiro-busca-virada-relampago-sobre-o-palmeiras-e-segue-firme-em-terceiro-no-brasileirao",
+    "https://www.terra.com.br/esportes/futebol/cruzeiro-vence-o-palmeiras-de-virada-e-complica-o-time-paulista,5d6e62f95116c2a2daa10a2fb6cf955c9f83meud.html"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-18T23:10:00-03:00",
    "prejogo": {
     "analise": [
      "Cruzeiro e Palmeiras se enfrentam na quarta-feira (18/11), às 20h30, no Mineirão, em Belo Horizonte, pela 35ª rodada da Série A. O Palmeiras é o vice-líder, com 73 pontos, três atrás do Flamengo (76), a quatro rodadas do fim, e os dois rivais pelo título se encontram na rodada seguinte. O Cruzeiro é o 3º colocado, com 60 pontos, três à frente do Fluminense, quarto colocado.",
@@ -7826,6 +7936,69 @@
      ],
      "atualizado": "2026-11-18T18:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; William, Fabrício Bruno, Lucas Villalba, Gabriel Rojas; Lucas Romero, Zé Lucas, Gerson, Matheus Pereira; Marquinhos, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Viña",
+       "saiu": "Gabriel Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Gerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Villarreal",
+       "saiu": "Marquinhos",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Barboza, Benedetti, Bruno Fuchs; Khellven, Lucas Evangelista, Marlon Freitas, Andreas Pereira, Arthur; Vitor Roque, Ramón Sosa",
+     "entraram": [
+      {
+       "jogador": "Larson",
+       "saiu": "Barboza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick Belé",
+       "saiu": "Marlon Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luís Pacheco",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jhon Arias",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Flaco López",
+       "saiu": "Ramón Sosa",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.otempo.com.br/sports/cruzeiro/2026/11/18/analise-cruzeiro-busca-virada-relampago-sobre-o-palmeiras-e-segue-firme-em-terceiro-no-brasileirao"
+    ],
+    "atualizado": "2026-11-18T23:10:00-03:00"
    }
   },
   {
