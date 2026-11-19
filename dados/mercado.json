@@ -108,7 +108,13 @@
     }
    ],
    "id": "2026-11-18-andrew-santo-andre",
-   "atualizado": "2026-11-19T04:16:00-03:00"
+   "atualizado": "2026-11-19T04:16:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-andrew-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecsantoandre/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-17",
@@ -696,7 +702,13 @@
    "posicao": "Volante",
    "obs": "Último clube: Figueirense",
    "id": "2026-11-13-renan-areias-santo-andre",
-   "atualizado": "2026-11-19T04:16:00-03:00"
+   "atualizado": "2026-11-19T04:16:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-renan-areias-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecsantoandre/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-13",
@@ -1480,7 +1492,13 @@
     "gols": 1,
     "assistencias": 1
    },
-   "nascimento": "1998-04-02"
+   "nascimento": "1998-04-02",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-felix-jorge-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecsantoandre/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-11",
@@ -2248,6 +2266,25 @@
    "nascimento": "2003-03-23"
   },
   {
+   "de": "",
+   "de_slug": "",
+   "para": "XV de Piracicaba",
+   "para_slug": "xvdepiracicaba",
+   "situacao": "oficial",
+   "feminino": false,
+   "fontes": [
+    "https://www.instagram.com/xvpiracicaba/"
+   ],
+   "anuncio_do_clube": true,
+   "data": "2026-11-09",
+   "jogador": "Oliver",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "obs": "20 anos; passou pelo Estrela da Amadora (Portugal)",
+   "id": "2026-11-09-oliver-xv-de-piracicaba",
+   "atualizado": "2026-11-19T04:26:00-03:00"
+  },
+  {
    "data": "2026-11-09",
    "jogador": "Matheus Pellegrini",
    "posicao": "Goleiro",
@@ -2642,7 +2679,13 @@
     "fonte": "https://www.dgabc.com.br/Noticia/4367202/santo-andre-acerta-contratacao-do-lateral-esquerdo-marcos-pedro"
    },
    "id": "2026-11-06-marcos-pedro-santo-andre",
-   "atualizado": "2026-11-15T06:57:00-03:00"
+   "atualizado": "2026-11-15T06:57:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-marcos-pedro-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecsantoandre/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-06",
@@ -4054,7 +4097,8 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
+    "https://www.instagram.com/xvpiracicaba/"
    ],
    "anuncio_do_clube": true,
    "numeros_2026": {
@@ -4067,12 +4111,13 @@
    },
    "selos": [
     {
-     "texto": "Acesso ao Paulistão A1 2026",
-     "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+     "texto": "Campeão do Paulistão A2 2026 (Juventus)",
+     "tipo": "titulo",
+     "fonte": "https://www.instagram.com/xvpiracicaba/"
     }
    ],
    "id": "2026-11-03-keven-xv-de-piracicaba",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T04:26:00-03:00"
   },
   {
    "data": "2026-11-03",
@@ -4191,7 +4236,7 @@
   {
    "data": "2026-11-03",
    "jogador": "Gustavo Talles",
-   "posicao": "Atacante",
+   "posicao": "Lateral",
    "de": "",
    "de_slug": "",
    "para": "XV de Piracicaba",
@@ -4201,11 +4246,12 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/"
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-keven-acerta-ex-timao/",
+    "https://www.instagram.com/xvpiracicaba/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-03-gustavo-talles-xv-de-piracicaba",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "atualizado": "2026-11-19T04:26:00-03:00"
   },
   {
    "data": "2026-11-03",
@@ -5215,6 +5261,25 @@
     "fonte": "https://www.instagram.com/ec.lemense/",
     "ia": true
    }
+  },
+  {
+   "de": "",
+   "de_slug": "",
+   "para": "XV de Piracicaba",
+   "para_slug": "xvdepiracicaba",
+   "situacao": "oficial",
+   "feminino": false,
+   "fontes": [
+    "https://www.instagram.com/xvpiracicaba/"
+   ],
+   "anuncio_do_clube": true,
+   "data": "2026-10-13",
+   "jogador": "Richard Alexandre",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "obs": "Último clube: Água Santa",
+   "id": "2026-10-13-richard-alexandre-xv-de-piracicaba",
+   "atualizado": "2026-11-19T04:26:00-03:00"
   },
   {
    "data": "2026-10-10",
