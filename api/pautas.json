@@ -2,274 +2,6 @@
  "itens": [
   {
    "clube": "corinthians",
-   "titulo": "Raniele nega atrito com Memphis e diz que o risco de queda incomoda mais que os salários atrasados",
-   "resumo": "Em entrevista coletiva na segunda (16), o volante Raniele negou problema com Memphis Depay, disse que a relação é boa e que a situação na tabela pesa mais no elenco do que os atrasos salariais. Tema central da semana antes do jogo com o Botafogo.",
-   "angulo": "Contextualizar com a posição do Corinthians na Base TSP e quantos pontos faltam para escapar do Z4.",
-   "fontes": [
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/corinthians/raniele-detona-rumores-sobre-memphis-e-defende-elenco-do-corinthians.html"
-    },
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/todas-as-noticias/raniele-comenta-ambiente-conturbado-e-real-incomodo-no-corinthians/"
-    }
-   ],
-   "id": "pc94b4e0497",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "corinthians",
-   "titulo": "Garro volta a treinar com o grupo e pode ser opção contra o Botafogo",
-   "resumo": "Segundo a Gazeta Esportiva (16/11), o meia Rodrigo Garro voltou a treinar com o elenco e pode reforçar o Corinthians contra o Botafogo. Com Yuri Alberto suspenso, a volta do argentino muda o ataque.",
-   "angulo": "Mostrar quantos jogos Garro perdeu e como o time foi sem ele (Base TSP).",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/corinthians/garro-volta-treinar-corinthians-botafogo/"
-    }
-   ],
-   "id": "pdda371c82c",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "palmeiras",
-   "titulo": "Cruzeiro fora e Flamengo na sequência: a semana que pode decidir o Brasileirão do Palmeiras",
-   "resumo": "A Gazeta Esportiva (16/11) trata a semana como decisiva na briga pelo título, com o duelo contra o Cruzeiro em Belo Horizonte e o Flamengo na sequência. Serviço e contexto de tabela interessam ao torcedor.",
-   "angulo": "Tabela da Base TSP com os jogos que faltam para Palmeiras e Flamengo, lado a lado.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-semana-decisiva-cruzeiro-flamengo-brasileirao/"
-    }
-   ],
-   "id": "pc4bdc63dac",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "Ingressos à venda para São Paulo x Fluminense: preços e como comprar",
-   "resumo": "O São Paulo abriu na segunda (16) a venda de ingressos para o jogo contra o Fluminense pelo Brasileirão. Pauta de serviço com preços e cronograma de vendas.",
-   "angulo": "Serviço completo: preços, setores, horário do jogo e onde assistir.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-abre-venda-de-ingressos-para-jogo-contra-o-fluminense-veja-precos/"
-    }
-   ],
-   "id": "pd646238231",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "São Paulo marca data da eleição de novos conselheiros",
-   "resumo": "O clube definiu a data da eleição para o Conselho Deliberativo, segundo a Gazeta Esportiva (16/11). Política interna mexe com o futuro do clube.",
-   "angulo": "Explicar em linguagem simples o que o Conselho decide e quem pode votar.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-marca-data-para-eleicao-de-novos-conselheiros/"
-    }
-   ],
-   "id": "p18df2f36b7",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "santos",
-   "titulo": "Aniversário do bi mundial de 1963: o Santos de Pelé contra o Milan",
-   "resumo": "O Santos celebrou o aniversário do bicampeonato mundial de 1963, conquistado diante do Milan no Maracanã. Matéria de memória que engaja o torcedor na semana do jogo com o Coritiba.",
-   "angulo": "Formato 'neste dia', com a ficha da final e o que os heróis daquele título fizeram depois.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/santos/santos-celebra-aniversario-do-bi-mundial-de-1963/"
-    }
-   ],
-   "id": "p29a860a856",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "bragantino",
-   "titulo": "Bragantino recebe o Corinthians no jogo de ida do play-in do Paulistão Feminino",
-   "resumo": "As Bragantinas enfrentam o Corinthians no play-in do Paulistão Feminino; a Gazeta Esportiva publicou o serviço do jogo de ida (16/11). Vale vaga na fase seguinte.",
-   "angulo": "Serviço (horário, local, onde assistir) e campanha das duas equipes na fase de grupos.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/corinthians/bragantino-x-corinthians-veja-onde-assistir-ao-jogo-de-ida-do-play-in-do-paulistao-f/"
-    }
-   ],
-   "id": "p17358fd478",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "pontepreta",
-   "titulo": "Ponte Preta já tem 13 saídas após a Série B e reunião discute futuro de Gilson Kleina",
-   "resumo": "Reportagem de 16/11 lista 13 jogadores que deixam a Ponte após a Série B, entre eles Danilo Barcelos, Lucas Cunha, Brandão e Jonathan Cafu, e diz que diretoria e departamento de futebol vão discutir a situação do técnico Gilson Kleina.",
-   "angulo": "Quadro de quem sai, quem fica e o calendário de 2027 (A2 e Série C). Conferir a lista com o clube antes de publicar.",
-   "fontes": [
-    {
-     "nome": "Futebol Interior",
-     "url": "https://www.futebolinterior.com.br/ponte-preta-prepara-reformulacao-2027/"
-    }
-   ],
-   "id": "p965e1f257b",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "mirassol",
-   "titulo": "Mirassol chega a 41 pontos e Guanaes faz a conta da permanência antes do Fluminense",
-   "resumo": "Após o empate com o Atlético-MG no sábado (14), Rafael Guanaes estimou que o Mirassol precisa de mais três ou quatro pontos. O próximo jogo é Fluminense x Mirassol, domingo (22), às 18h30, no Maracanã.",
-   "angulo": "Conta da permanência com a tabela da Base TSP e serviço do jogo no Maracanã.",
-   "fontes": [
-    {
-     "nome": "TV Sim (Mirassol)",
-     "url": "https://tvsimbrasil.com.br/sp/mirassol/esportes/noticia/2026/11/15/guanaes-valoriza-empate-mirassol-atletico-mg-brasileirao"
-    },
-    {
-     "nome": "Fluminense (oficial)",
-     "url": "https://www.fluminense.com.br/noticia/brasileirao-2026-informacoes-de-ingressos-para-partidas-contra-mirassol-e-cruzeiro"
-    }
-   ],
-   "id": "p4c014193d4",
-   "gerado": "2026-11-17T07:55-03:00",
-   "quando": "17/11 07h"
-  },
-  {
-   "clube": "corinthians",
-   "titulo": "Seedorf confirma Garro fora contra o Botafogo: meia ainda sente o joelho direito",
-   "resumo": "Na terça (17), Seedorf disse que Rodrigo Garro não joga contra o Botafogo, pela 35ª rodada, na Neo Química Arena: o meia tentou voltar, mas ainda sente o joelho (estiramento do ligamento colateral medial sofrido no clássico com o São Paulo). Muda a pauta de ontem, que dava Garro como opção.",
-   "angulo": "Quem entra no lugar dele somado às ausências de Yuri Alberto (suspenso) e André (seleção); números do Corinthians sem Garro na Base TSP.",
-   "fontes": [
-    {
-     "nome": "Placar",
-     "url": "https://placar.com.br/brasileirao/seedorf-confirma-garro-fora-do-corinthians-contra-o-botafogo/"
-    }
-   ],
-   "id": "pd8b6903e96",
-   "gerado": "2026-11-17T16:44-03:00",
-   "quando": "17/11 16h"
-  },
-  {
-   "clube": "palmeiras",
-   "titulo": "Piquerez fora e Murilo e Jefté correm contra o tempo para a final da Libertadores",
-   "resumo": "Segundo o Lance!, Piquerez se machucou na seleção uruguaia e desfalca o Palmeiras contra o Cruzeiro, assim como Murilo, Paulinho e Jefté; Murilo e Jefté tentam se recuperar para a final da Libertadores contra o Estudiantes, em 28/11. Giay, Flaco López e Arias chegaram em voo fretado e devem começar no banco.",
-   "angulo": "Calendário até a final (Cruzeiro, Flamengo e a decisão) e a lista de quem está disponível em cada jogo.",
-   "fontes": [
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/palmeiras/escalacao-palmeiras-encerra-preparacao-e-abel-busca-alternativas-sem-convocados.html"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-aprimora-bolas-paradas-e-acoes-taticas-para-duelo-com-o-cruzeiro,a8131917c7971f99a8cbfd0304228f30uxz5c4qg.html"
-    }
-   ],
-   "id": "p6d3d9286a9",
-   "gerado": "2026-11-17T16:44-03:00",
-   "quando": "17/11 16h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "Djhordney e Pedro Ferreira voltam da Seleção Sub-20 e reforçam o São Paulo contra o Fluminense",
-   "resumo": "O site oficial do São Paulo informa o retorno de Djhordney e Pedro Ferreira ao CT da Barra Funda depois dos jogos da Seleção Sub-20. O time recebe o Fluminense na quinta (19), às 21h30, no MorumBIS, ainda com Nicolas, Buta, Domingos Duarte, Marcos Antonio e Sabino no departamento médico.",
-   "angulo": "Quem está disponível e quem segue fora; serviço do jogo (horário e onde assistir).",
-   "fontes": [
-    {
-     "nome": "São Paulo FC (oficial)",
-     "url": "https://www.saopaulofc.net/sao-paulo-treina-e-tem-retorno-de-djhordney-e-pedro-ferreira-ao-ct-da-barra-funda/"
-    },
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/sao-paulo/sao-paulo-intensifica-preparacao-para-enfrentar-o-fluminense-pelo-brasileirao-saiba-como-foi.html"
-    }
-   ],
-   "id": "pf8caebf4da",
-   "gerado": "2026-11-17T16:44-03:00",
-   "quando": "17/11 16h"
-  },
-  {
-   "clube": "santos",
-   "titulo": "Libertadores ainda é possível? Chance do Santos sobe para 5,4% com a definição da Copa do Brasil",
-   "resumo": "Com a definição dos finalistas da Copa do Brasil, a chance de o Santos chegar à Libertadores subiu de 1% para 5,4%, segundo levantamento da UFMG citado pelo Lance!. O time enfrenta o Coritiba na quarta (18), às 19h30, sem Bontempo, Caballero e Miguelito (seleções).",
-   "angulo": "O que o Santos precisa nas quatro rodadas finais e como a vaga extra da Copa do Brasil mexe na tabela.",
-   "fontes": [
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/santos/santos-realiza-ultimo-treino-antes-de-viajar-para-encarar-o-coritiba-veja-provavel-escalacao.html"
-    },
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/santos/santos-treino-tatico-reapresentacao-coritiba/"
-    }
-   ],
-   "id": "p1a6c926486",
-   "gerado": "2026-11-17T16:44-03:00",
-   "quando": "17/11 16h"
-  },
-  {
-   "clube": "bragantino",
-   "titulo": "Bragantino recupera Nacho Sosa e Fernando para encarar o Vitória no Barradão",
-   "resumo": "Após duas vitórias seguidas, o Bragantino visita o Vitória na quinta (19), às 19h30, no Barradão, pela 35ª rodada. Nacho Sosa e Fernando voltaram a treinar normalmente; Rodriguinho e Davi Gomes estão fora com dores no joelho.",
-   "angulo": "Briga por vaga continental: o que o Massa Bruta precisa nas últimas rodadas.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/bragantino/red-bull-bragantino-segue-preparacao-para-enfrentar-o-vitoria,6f1777dbec81ad88b0dbe0e96be39b268ejb01cd.html"
-    },
-    {
-     "nome": "Red Bull Bragantino (oficial)",
-     "url": "https://www.redbullbragantino.com/br-pt/noticias/cbf-detalha-35-e-36-rodadas-do-brasileirao-2026"
-    }
-   ],
-   "id": "p03bd2bb180",
-   "gerado": "2026-11-17T16:44-03:00",
-   "quando": "17/11 16h"
-  },
-  {
-   "clube": "botafogosp",
-   "titulo": "Botafogo-SP anuncia Gustavo Barreto e lateral ex-Londrina como primeiros reforços de 2027",
-   "resumo": "O Botafogo-SP anunciou o meia Gustavo Barreto, 30 anos (passagens por Kyoto Sanga, Avaí e América-MG), e o lateral-esquerdo Heron, 26, que jogou 31 partidas da Série B pelo Londrina e assinou até o fim de 2027. Conferir a grafia do nome do lateral (Heron/Eron) no anúncio oficial.",
-   "angulo": "Perfil dos reforços e como fica o elenco para o Paulistão 2027.",
-   "fontes": [
-    {
-     "nome": "ACidade ON Ribeirão Preto",
-     "url": "https://acidadeon.com/ribeiraopreto/esportes/botafogo-anuncia-dois-reforcos-para-a-temporada-2027"
-    },
-    {
-     "nome": "CBN Ribeirão",
-     "url": "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/"
-    }
-   ],
-   "id": "pa14379fc9e",
-   "gerado": "2026-11-17T16:44-03:00",
-   "quando": "17/11 16h"
-  },
-  {
-   "clube": "guarani",
-   "titulo": "Guarani negocia com Cristian de Souza, técnico do acesso do Santa Cruz, para 2027",
-   "resumo": "Segundo o Futebol Interior, Guarani e Cristian de Souza têm acerto verbal para um contrato de uma temporada, ainda não oficializado; ele é esperado na reapresentação do elenco, em 23/11. A semana também tem a votação da SAF na quinta (19).",
-   "angulo": "Só publicar a contratação quando houver anúncio oficial; até lá, matéria sobre a negociação e o perfil do técnico.",
-   "fontes": [
-    {
-     "nome": "Futebol Interior",
-     "url": "https://www.futebolinterior.com.br/guarani-tem-semana-decisiva/"
-    }
-   ],
-   "id": "p017d3efb3d",
-   "gerado": "2026-11-17T16:44-03:00",
-   "quando": "17/11 16h"
-  },
-  {
-   "clube": "corinthians",
    "titulo": "Corinthians vai à Justiça com medida cautelar para negociar dívidas e suspender cobranças",
    "resumo": "O clube entrou com pedido de medida cautelar na Justiça para ganhar fôlego na negociação com credores e suspender cobranças, em meio à luta contra o rebaixamento. Interessa ao torcedor porque mexe com bloqueios, salários e o planejamento de 2027.",
    "angulo": "Explicar em linguagem simples o que é a medida cautelar, a diferença para o RCE e o que muda no dia a dia do clube.",
@@ -626,7 +358,56 @@
    "id": "p759e548473",
    "gerado": "2026-11-19T07:43-03:00",
    "quando": "19/11 07h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Abel diz que o título está \"entregue\" ao Flamengo após a derrota para o Cruzeiro: o que resta ao Palmeiras na reta final",
+   "resumo": "Depois do 2 a 1 para o Cruzeiro no Mineirão, na quarta (18), Abel Ferreira afirmou na coletiva que o título está entregue e criticou a falta de isonomia por causa das ausências na Data Fifa. O confronto direto com o Flamengo é no sábado (21), às 16h30, em São Paulo.",
+   "angulo": "Repercutir a fala com o que ainda está em jogo para o Palmeiras (vice, vaga direta na Libertadores) e o retrospecto do Abel contra o Flamengo, com dados da Base TSP.",
+   "fontes": [
+    {
+     "nome": "Placar",
+     "url": "https://placar.com.br/brasileirao/abel-entrega-titulo-do-brasileirao-e-admite-que-palmeiras-sera-vice-para-o-flamengo/"
+    },
+    {
+     "nome": "Terra",
+     "url": "https://www.terra.com.br/esportes/futebol/flamengo-e-palmeiras-sao-avisados-de-decisao-da-cbf-sobre-o-titulo-brasileiro,e79f1a97ba37bce495ad26535db567aae3gldovg.html"
+    }
+   ],
+   "id": "pd3eacf02a6",
+   "gerado": "2026-11-19T16:44-03:00",
+   "quando": "19/11 16h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Flamengo pode ser campeão na casa do Palmeiras no sábado, mas a taça só seria entregue no Maracanã",
+   "resumo": "Segundo o Terra (com informação do ge), a CBF planeja entregar o troféu no primeiro jogo em casa do campeão após a confirmação matemática. Se o Flamengo garantir o título no sábado (21), em São Paulo, só levantaria a taça contra a Chapecoense, no Maracanã, em 2 de dezembro.",
+   "angulo": "Serviço completo de Palmeiras x Flamengo (horário, onde assistir, ingressos) com o cenário de título explicado de forma simples.",
+   "fontes": [
+    {
+     "nome": "Terra",
+     "url": "https://www.terra.com.br/esportes/futebol/flamengo-e-palmeiras-sao-avisados-de-decisao-da-cbf-sobre-o-titulo-brasileiro,e79f1a97ba37bce495ad26535db567aae3gldovg.html"
+    }
+   ],
+   "id": "p76e4cf0b99",
+   "gerado": "2026-11-19T16:44-03:00",
+   "quando": "19/11 16h"
+  },
+  {
+   "clube": "pontepreta",
+   "titulo": "Eberlin diz que a Ponte Preta já tem reforços contratados para 2027; nomes saem após exames",
+   "resumo": "O diretor de futebol Marco Antônio Eberlin disse à Rádio Bandeirantes de Campinas que a Ponte já tem jogadores acertados para 2027, sem revelar nomes. Os anúncios devem vir depois dos pré-contratos e dos exames médicos. Interessa ao torcedor depois da pior campanha da história do clube na Série B.",
+   "angulo": "Cruzar com o Mercado da Bola do TSP: quem saiu, quem renovou e o que falta no elenco para 2027.",
+   "fontes": [
+    {
+     "nome": "Futebol Interior",
+     "url": "https://futebolinterior.com.br/ponte-preta-ja-tem-reforcos-contratados-para-2027-revela-eberlin-veja-cenario"
+    }
+   ],
+   "id": "p6a07b6899b",
+   "gerado": "2026-11-19T16:44-03:00",
+   "quando": "19/11 16h"
   }
  ],
- "gerado": "2026-11-19T07:43-03:00"
+ "gerado": "2026-11-19T16:44-03:00"
 }
