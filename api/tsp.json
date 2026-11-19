@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T00:25:00-03:00",
+ "gerado": "2026-11-19T01:54:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -350,6 +350,14 @@
      "a_confirmar": false
     },
     {
+     "id": 91000400,
+     "rodada": "37",
+     "data": "2026-11-24T18:00",
+     "casa": 900020,
+     "fora": 900002,
+     "a_confirmar": false
+    },
+    {
      "id": 91000164,
      "rodada": "36",
      "data": "2026-11-25T20:00",
@@ -358,12 +366,12 @@
      "a_confirmar": false
     },
     {
-     "id": "x37-0",
+     "id": 91000401,
      "rodada": "37",
-     "data": "2026-11-29",
+     "data": "2026-11-26T20:00",
      "casa": 900009,
      "fora": 900019,
-     "a_confirmar": true
+     "a_confirmar": false
     },
     {
      "id": "x37-1",
@@ -411,14 +419,6 @@
      "data": "2026-11-29",
      "casa": 900012,
      "fora": 900001,
-     "a_confirmar": true
-    },
-    {
-     "id": "x37-7",
-     "rodada": "37",
-     "data": "2026-11-29",
-     "casa": 900020,
-     "fora": 900002,
      "a_confirmar": true
     },
     {
@@ -12852,6 +12852,62 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000400,
+    "timestamp": 1795554000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 13,
+    "empate": 20,
+    "fora": 67,
+    "placar": "0x2",
+    "gols_esperados": [
+     0.76,
+     2.03
+    ],
+    "base": [
+     15,
+     17
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
    ],
    "fixture": {
@@ -12899,6 +12955,62 @@
     "base": [
      19,
      16
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000401,
+    "timestamp": 1795734000,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 37"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 57,
+    "empate": 25,
+    "fora": 18,
+    "placar": "1x0",
+    "gols_esperados": [
+     1.61,
+     0.77
+    ],
+    "base": [
+     13,
+     12
     ]
    },
    "events": []

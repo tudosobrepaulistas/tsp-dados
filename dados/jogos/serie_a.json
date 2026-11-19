@@ -8615,6 +8615,28 @@
    "atualizado": "2026-11-05T02:09:00-03:00"
   },
   {
+   "id": 91000400,
+   "data": "2026-11-24T18:00:00-03:00",
+   "casa": "chapecoense",
+   "fora": "palmeiras",
+   "status": "agendado",
+   "rodada": "37",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "atualizado": "2026-11-19T01:54:00-03:00"
+  },
+  {
    "id": 91000164,
    "data": "2026-11-25T20:00:00-03:00",
    "casa": "atletico-mg",
@@ -8635,6 +8657,28 @@
     "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
    ],
    "atualizado": "2026-11-05T02:09:00-03:00"
+  },
+  {
+   "id": 91000401,
+   "data": "2026-11-26T20:00:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "remo",
+   "status": "agendado",
+   "rodada": "37",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Morumbis",
+   "cidade": "São Paulo",
+   "gols_casa": null,
+   "gols_fora": null,
+   "penaltis": "",
+   "minuto": 0,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "atualizado": "2026-11-19T01:54:00-03:00"
   }
  ]
 }
