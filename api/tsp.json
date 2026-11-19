@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T23:10:00-03:00",
+ "gerado": "2026-11-19T00:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -89,10 +89,10 @@
     {
      "id": 900007,
      "nome": "Bahia",
-     "pts": 53,
-     "j": 34,
+     "pts": 54,
+     "j": 35,
      "v": 14,
-     "e": 11,
+     "e": 12,
      "d": 9,
      "gp": 50,
      "gc": 45
@@ -156,12 +156,12 @@
      "id": 900011,
      "nome": "Botafogo",
      "pts": 42,
-     "j": 34,
+     "j": 35,
      "v": 11,
      "e": 9,
-     "d": 14,
+     "d": 15,
      "gp": 46,
-     "gc": 53
+     "gc": 57
     },
     {
      "id": 900012,
@@ -186,6 +186,17 @@
      "gc": 48
     },
     {
+     "id": 900018,
+     "nome": "Corinthians",
+     "pts": 40,
+     "j": 35,
+     "v": 10,
+     "e": 10,
+     "d": 15,
+     "gp": 40,
+     "gc": 42
+    },
+    {
      "id": 900014,
      "nome": "Vitória",
      "pts": 38,
@@ -208,23 +219,12 @@
      "gc": 42
     },
     {
-     "id": 900018,
-     "nome": "Corinthians",
-     "pts": 37,
-     "j": 34,
-     "v": 9,
-     "e": 10,
-     "d": 15,
-     "gp": 36,
-     "gc": 42
-    },
-    {
      "id": 900017,
      "nome": "Grêmio",
-     "pts": 37,
-     "j": 34,
+     "pts": 38,
+     "j": 35,
      "v": 9,
-     "e": 10,
+     "e": 11,
      "d": 15,
      "gp": 38,
      "gc": 47
@@ -253,22 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000150,
-     "rodada": "35",
-     "data": "2026-11-18T21:30",
-     "casa": 900018,
-     "fora": 900011,
-     "a_confirmar": false
-    },
-    {
-     "id": 91000151,
-     "rodada": "35",
-     "data": "2026-11-18T21:30",
-     "casa": 900017,
-     "fora": 900007,
-     "a_confirmar": false
-    },
     {
      "id": 91000152,
      "rodada": "35",
@@ -1182,6 +1166,18 @@
      900002,
      2,
      1
+    ],
+    [
+     900018,
+     900011,
+     4,
+     0
+    ],
+    [
+     900017,
+     900007,
+     0,
+     0
     ]
    ]
   }
@@ -11803,14 +11799,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.oliberal.com/esportes/corinthians-atropela-botafogo-inofensivo-em-noite-de-hat-trick-de-kaio-cesar-e-sai-do-z-4-1.1195949",
+    "https://placar.com.br/brasileirao/corinthians-goleia-o-botafogo-e-sai-da-zona-de-rebaixamento-do-brasileirao/"
    ],
    "fixture": {
     "id": 91000150,
     "timestamp": 1795048200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Neo Química Arena",
@@ -11832,8 +11830,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 4,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -11883,21 +11881,75 @@
      "atualizado": "2026-11-18T18:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 23,
-    "empate": 24,
-    "fora": 53,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.06,
-     1.73
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Clarence Seedorf",
+     "time": "Hugo Souza; Matheuzinho, João Pedro Tchoca, Gustavo Henrique, Fabrizio Angileri; Breno Bidon, Carrillo, Vitinho; Kaio César, Memphis Depay, Matheus Bidu",
+     "entraram": [
+      {
+       "jogador": "Alex Santana",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Raniele",
+       "saiu": "Carrillo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Kaio César",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lingard",
+       "saiu": "Memphis Depay",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Matheus Bidu",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Tite",
+     "time": "Gabriel Batista; Vitinho, Arthur Chaves, Justino, Marçal, Alex Telles; Huguinho, Edenilson, Medina; Matheus Martins, Tiquinho",
+     "entraram": [
+      {
+       "jogador": "Kaio",
+       "saiu": "Arthur Chaves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Toledo",
+       "saiu": "Marçal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho",
+       "saiu": "Alex Telles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ziyech",
+       "saiu": "Edenilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júnior Santos",
+       "saiu": "Matheus Martins",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/corinthians-atropela-botafogo-inofensivo-em-noite-de-hat-trick-de-kaio-cesar-e-sai-do-z-4-1.1195949"
     ],
-    "base": [
-     15,
-     25
-    ]
+    "atualizado": "2026-11-19T00:10:00-03:00"
    },
+   "previsao": null,
    "events": []
   },
   {
@@ -11905,14 +11957,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.lance.com.br/futebol-nacional/gremio-amarga-empate-com-bahia-e-permanece-na-zona-de-rebaixamento.html",
+    "https://www.oliberal.com/esportes/gremio-empata-com-bahia-desperdica-chance-em-casa-e-fica-ainda-mais-perto-do-rebaixamento-1.1195950"
    ],
    "fixture": {
     "id": 91000151,
     "timestamp": 1795048200,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena do Grêmio",
@@ -11934,8 +11988,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -11953,21 +12007,75 @@
     ],
     "atualizado": "2026-11-15T22:26:00-03:00"
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 62,
-    "empate": 20,
-    "fora": 18,
-    "placar": "2x1",
-    "gols_esperados": [
-     2.18,
-     1.11
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Renato Portaluppi",
+     "time": "Weverton; Gustavo Martins, Balbuena, Wallace; João Pedro, Noriega, Dodi, Marlon; Pavón, Carlos Vinícius, Amuzu",
+     "entraram": [
+      {
+       "jogador": "Enamorado",
+       "saiu": "Balbuena",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo Barbosa",
+       "saiu": "Noriega",
+       "minuto": ""
+      },
+      {
+       "jogador": "Krovinovic",
+       "saiu": "Pavón",
+       "minuto": ""
+      },
+      {
+       "jogador": "Braithwaite",
+       "saiu": "Carlos Vinícius",
+       "minuto": "27"
+      },
+      {
+       "jogador": "Jovane Cabral",
+       "saiu": "Amuzu",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Acevedo, Erick, Rodrigo Nestor, Jean Lucas; Erick Pulga, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Romam Gomez",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Ribeiro",
+       "saiu": "Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araújo",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/gremio-empata-com-bahia-desperdica-chance-em-casa-e-fica-ainda-mais-perto-do-rebaixamento-1.1195950"
     ],
-    "base": [
-     17,
-     14
-    ]
+    "atualizado": "2026-11-19T00:10:00-03:00"
    },
+   "previsao": null,
    "events": []
   },
   {
@@ -12030,7 +12138,7 @@
     "fora": 32,
     "placar": "1x1",
     "gols_esperados": [
-     1.65,
+     1.66,
      1.37
     ],
     "base": [
@@ -12095,9 +12203,9 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 29,
+    "casa": 30,
     "empate": 25,
-    "fora": 46,
+    "fora": 45,
     "placar": "1x1",
     "gols_esperados": [
      1.21,
@@ -12166,10 +12274,10 @@
    "previsao": {
     "casa": 38,
     "empate": 26,
-    "fora": 36,
+    "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.32,
+     1.33,
      1.27
     ],
     "base": [
@@ -12220,13 +12328,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
+    "casa": 49,
     "empate": 26,
-    "fora": 26,
+    "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.49,
-     1.01
+     1.5,
+     1.0
     ],
     "base": [
      17,
@@ -12276,16 +12384,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
-    "empate": 24,
+    "casa": 54,
+    "empate": 25,
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.74,
-     0.99
+     1.63,
+     0.92
     ],
     "base": [
-     14,
+     15,
      21
     ]
    },
@@ -12337,7 +12445,7 @@
     "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
-     0.95,
+     0.96,
      1.83
     ],
     "base": [
@@ -12444,9 +12552,9 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 42,
+    "casa": 43,
     "empate": 29,
-    "fora": 29,
+    "fora": 28,
     "placar": "1x0",
     "gols_esperados": [
      1.22,
@@ -12505,7 +12613,7 @@
     "fora": 16,
     "placar": "2x0",
     "gols_esperados": [
-     2.14,
+     2.15,
      0.99
     ],
     "base": [
@@ -12556,12 +12664,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
+    "casa": 67,
     "empate": 19,
     "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
-     2.2,
+     2.21,
      0.92
     ],
     "base": [
@@ -12612,16 +12720,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
-    "empate": 26,
-    "fora": 23,
+    "casa": 48,
+    "empate": 27,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.48,
-     0.89
+     1.43,
+     0.97
     ],
     "base": [
-     25,
+     26,
      13
     ]
    },
@@ -12668,17 +12776,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
-    "empate": 24,
+    "casa": 47,
+    "empate": 25,
     "fora": 28,
     "placar": "1x1",
     "gols_esperados": [
-     1.66,
-     1.21
+     1.57,
+     1.14
     ],
     "base": [
      23,
-     17
+     18
     ]
    },
    "events": []
@@ -12724,17 +12832,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 23,
-    "fora": 16,
+    "casa": 55,
+    "empate": 25,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.74,
-     0.75
+     1.64,
+     0.9
     ],
     "base": [
      19,
-     15
+     16
     ]
    },
    "events": []
@@ -36078,10 +36186,10 @@
       6,
       900007,
       "Bahia",
-      53,
-      34,
+      54,
+      35,
       14,
-      11,
+      12,
       9,
       5,
       "",
@@ -36163,14 +36271,14 @@
       900011,
       "Botafogo",
       42,
-      34,
+      35,
       11,
       9,
-      14,
-      -7,
+      15,
+      -11,
       "",
       46,
-      53
+      57
      ],
      [
       13,
@@ -36202,6 +36310,20 @@
      ],
      [
       15,
+      900018,
+      "Corinthians",
+      40,
+      35,
+      10,
+      10,
+      15,
+      -2,
+      "",
+      40,
+      42
+     ],
+     [
+      16,
       900014,
       "Vitória",
       38,
@@ -36215,7 +36337,7 @@
       51
      ],
      [
-      16,
+      17,
       900016,
       "Internacional",
       38,
@@ -36229,27 +36351,13 @@
       42
      ],
      [
-      17,
-      900018,
-      "Corinthians",
-      37,
-      34,
-      9,
-      10,
-      15,
-      -6,
-      "",
-      36,
-      42
-     ],
-     [
       18,
       900017,
       "Grêmio",
-      37,
-      34,
+      38,
+      35,
       9,
-      10,
+      11,
       15,
       -9,
       "",
