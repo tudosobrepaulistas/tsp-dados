@@ -323,7 +323,7 @@ def cmd_trocar_foto(a):
     print(f"OK: troca de foto na fila ({nome}). Commit, push e avisar-site.")
 
 
-BLOCOS = {"A1": ["botafogosp", "capivariano", "corinthians", "ferroviaria", "guarani", "juventus", "mirassol", "noroeste", "novorizontino", "palmeiras", "portuguesa", "primavera", "bragantino", "santos", "saobernardo", "saopaulo"], "A2": ["aguasanta", "interdelimeira", "ituano", "linense", "marilia", "monteazul", "osasco-sporting", "pontepreta", "portuguesasantista", "santoandre", "saojose", "sertaozinho", "taubate", "veloclube", "votuporanguense", "xvdepiracicaba"], "A3": ["bandeirante", "catanduva", "ec-sao-bernardo", "francana", "prudente", "inter-de-bebedouro", "itapirense", "paulista-jundiai", "penapolense", "rio-branco", "rioclaro", "rio-preto", "saobento", "uniao-barbarense", "uniao-sao-joao", "xv-de-jau"]}
+BLOCOS = {"A1": ["botafogosp", "capivariano", "corinthians", "ferroviaria", "guarani", "juventus", "mirassol", "noroeste", "novorizontino", "palmeiras", "pontepreta", "portuguesa", "primavera", "bragantino", "santos", "saobernardo", "saopaulo"], "A2": ["aguasanta", "interdelimeira", "ituano", "linense", "marilia", "monteazul", "osasco-sporting", "portuguesasantista", "santoandre", "saojose", "sertaozinho", "taubate", "veloclube", "votuporanguense", "xvdepiracicaba"], "A3": ["bandeirante", "catanduva", "ec-sao-bernardo", "francana", "prudente", "inter-de-bebedouro", "itapirense", "paulista-jundiai", "penapolense", "rio-branco", "rioclaro", "rio-preto", "saobento", "uniao-barbarense", "uniao-sao-joao", "xv-de-jau"]}
 
 
 def ultima_materia_de(slugs):
