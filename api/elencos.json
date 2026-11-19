@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T04:41:00-03:00",
+ "gerado": "2026-11-19T05:02:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -4098,14 +4098,24 @@
      "nome": "Júnior Caiçara",
      "posicao": "Lateral",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-09-junior-caicara-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "numeros": null,
      "selos": []
     },
     {
      "nome": "Richard Alexandre",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-13-richard-alexandre-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4115,7 +4125,12 @@
     {
      "nome": "Roberto",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-roberto-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "jogos": 1,
@@ -4136,7 +4151,12 @@
     {
      "nome": "Richard Franco",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-richard-franco-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/richard-franco/499350",
@@ -4161,7 +4181,12 @@
     {
      "nome": "Rafael Longuine",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-rafael-longuine-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/rafael-longuine/251196",
@@ -4182,7 +4207,12 @@
     {
      "nome": "Maurício Ribeiro",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-mauricio-ribeiro-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/mauricio-ribeiro/175402",
@@ -4202,7 +4232,12 @@
     {
      "nome": "Marcelo",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-marcelo-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4212,7 +4247,12 @@
     {
      "nome": "Keven",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-keven-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "jogos": 24,
@@ -4236,7 +4276,12 @@
     {
      "nome": "Gustavo Talles",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gustavo-talles-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4247,7 +4292,12 @@
      "nome": "Gustavo Hebling",
      "posicao": "Volante",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gustavo-hebling-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/gustavo-hebling/375081",
       "clubes": [
@@ -4264,7 +4314,12 @@
     {
      "nome": "Gustavo Cabral",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gustavo-cabral-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4274,7 +4329,12 @@
     {
      "nome": "Douglas Carvalho",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-douglas-carvalho-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -4284,7 +4344,12 @@
     {
      "nome": "Oliver",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-oliver-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
