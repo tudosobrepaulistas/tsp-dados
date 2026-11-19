@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-19T06:32-03:00",
+ "gerado": "2026-11-19T09:18-03:00",
  "avisos": [
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-17T12:18-03:00",
-   "motivo": "Nenhum fato novo desde 15/11 além da busca por técnico (já coberta em 16/11)",
-   "sugestao": "Anúncio do novo técnico ou lista de renovações e saídas para o Paulistão 2027 (o executivo Marco Gama disse ao DGABC que renovar é prioridade)"
-  },
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-17T12:18-03:00",
-   "motivo": "Tudo de 16/11 já saiu no site; fala de Tencati sobre 4 contratações feitas só na CBN Ribeirão (1 fonte)",
-   "sugestao": "Anúncio das outras contratações que Tencati diz estarem feitas; situação de Leandro Maciel e Zé Hugo (depende de acordo com o Azuriz)"
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-17T12:18-03:00",
-   "motivo": "Sem fato novo depois de 16/11; empréstimo, orçamento e contratos já cobertos",
-   "sugestao": "Votação do empréstimo no Conselho Deliberativo ou definição de Kleina para a A2 e Série C de 2027"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-17T12:18-03:00",
-   "motivo": "Sem notícia confirmada desde 15/11; evergreen bloqueada (última em 06/11, limite de 14 dias)",
-   "sugestao": "Conferir com o clube se o centroavante Johnny (ex-Bandeirante) e o meia Brendon (Penapolense) assinaram"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-17T12:18-03:00",
-   "motivo": "Pauta do Enderson tetracampeão já publicada; sem outro fato novo com 2 fontes",
-   "sugestao": "Renovação de Enderson Moreira e planejamento para a Série A 2027"
-  },
   {
    "clube": "pontepreta",
    "nome": "Ponte Preta",
@@ -420,6 +385,41 @@
    "quando": "2026-11-19T06:32-03:00",
    "motivo": "Volta da semifinal do Paulista Sub-17 contra o Bragantino (sábado, 21/11, 11h, CPD Atibaia; ida 0 x 4) confirmada, mas ja-tem acusou assunto parecido e não achei foto aberta",
    "sugestao": "Ibrachina precisa de 4 gols contra o Bragantino em Atibaia para chegar à final do Paulista Sub-17 (foto do clube)"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-19T09:18-03:00",
+   "motivo": "Sem notícia nova nas últimas 48h; guia do Anacleto Campanella pronto, mas o clube teve matéria histórica em 05/11 (limite de 14 dias). A4 inteira teve evergreen entre 05 e 11/11.",
+   "sugestao": "Guia do Estádio Anacleto Campanella (inaugurado 02/01/1955; recorde 19.805 em São Caetano x Atlético-MG, 2000; proposta de concessão de 20 anos e 6 mil para 13 mil lugares). Fontes: dgabc.com.br/Noticia/4202677, abcdoabc.com.br (70 anos do estádio), dgabc.com.br/Noticia/4345969. Foto livre: commons File:Anacleto2.jpg (CC BY-SA 4.0, Horcoff)."
+  },
+  {
+   "clube": "prudente",
+   "nome": "Grêmio Prudente",
+   "quando": "2026-11-19T09:18-03:00",
+   "motivo": "Sem notícia das últimas 48h; guia do Prudentão apurado, mas o Wikimedia bloqueou o download da única foto livre do estádio sem outro clube (limite de acessos).",
+   "sugestao": "Guia do Prudentão (Estádio Paulo Constantino): 1º jogo 12/10/1982 Santos 1x0 Corinthians-PP; capacidade 45.954; recorde 45.972 em Palmeiras 3x1 Corinthians (03/03/1996); Grêmio Prudente jogou lá a Copa Paulista 2026 (Gazeta Esportiva ?p=3827617). Foto: commons File:Patinhas esteve aqui - Entrada do Prudentão - panoramio.jpg (CC BY 3.0)."
+  },
+  {
+   "clube": "osasco-sporting",
+   "nome": "Osasco Sporting",
+   "quando": "2026-11-19T09:18-03:00",
+   "motivo": "Diário da Região (18/11, 21h26) informa que o técnico Kinho Forgiarini troca o América de Rio Preto pelo Osasco Sporting, mas só há 1 fonte e o site bloqueia a leitura.",
+   "sugestao": "Confirmar com o Osasco Sporting (Instagram/site) a contratação de Kinho Forgiarini como técnico para a A2 de 2027; matéria serve também ao América de Rio Preto (A4), que segue sem técnico."
+  },
+  {
+   "clube": "red-bull-bragantino-feminino",
+   "nome": "Red Bull Bragantino Feminino",
+   "quando": "2026-11-19T09:18-03:00",
+   "motivo": "Base: Bragantino Sub-17 (4x0 no Ibrachina, hat-trick de Bruninho) e Sub-15 (empate com o Mirassol) decidem vaga nas finais do Paulista no sábado (21/11); ida foi em 14/11, fora da janela de 48h para a Máquina.",
+   "sugestao": "Prévia de sábado: Sub-17 x Ibrachina às 11h no CPD em Atibaia; Sub-15 x Mirassol às 9h em Bálsamo. Fontes: redbullbragantino.com (detalhes das semifinais, 10/11) e Tribuna do Sertão (16/11). Conta para a cota da base."
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-19T09:18-03:00",
+   "motivo": "Nenhuma notícia das Leoas nas últimas 48h; temporada encerrada no Paulistão Feminino.",
+   "sugestao": "Balanço da primeira temporada do Mirassol no Paulistão Feminino (Lance: primeira treinadora da história, primeiras contratações) e planos para 2027, se o clube anunciar."
   }
  ]
 }
