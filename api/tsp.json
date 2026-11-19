@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T00:10:00-03:00",
+ "gerado": "2026-11-19T00:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -12325,7 +12325,19 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Palmeiras e Flamengo se enfrentam no sábado (21/11), às 16h30, no Nubank Parque, em São Paulo, pela 36ª rodada da Série A, no jogo que pode decidir o Brasileirão. O Flamengo lidera com 79 pontos, seis à frente do Palmeiras (73), a três rodadas do fim. Segundo o Lance!, uma vitória leva o Flamengo a 82 pontos e garante o título; um empate (80 pontos) também tira do Palmeiras a chance de ultrapassagem. Só a vitória alviverde mantém a disputa aberta, com a diferença caindo para três pontos.",
+     "O Palmeiras chega depois de perder para o Cruzeiro por 2 a 1, fora de casa, na quarta-feira (18/11). Antes, vinha de três vitórias e um empate nos últimos cinco jogos: 2 a 0 no Athletico-PR, fora, 2 a 0 no Bragantino e 6 a 1 no Remo, em casa, além do 0 a 0 com o Santos.",
+     "O Flamengo venceu os últimos cinco jogos na Série A, dois deles fora de casa: 3 a 0 no Bahia e 4 a 1 no Vasco. Em casa, venceu 3 a 2 no Atlético-MG, 3 a 1 no Grêmio e 2 a 1 no Athletico-PR. Contra o Athletico, na quarta (18/11), no Maracanã, saiu atrás com gol de Vargas e virou com Carrascal e Jorginho, de pênalti, segundo a Folhapress."
+    ],
+    "estadio_wiki": "Allianz Parque",
+    "fontes": [
+     "https://www.lance.com.br/flamengo/o-que-o-flamengo-precisa-para-ser-campeao-contra-o-palmeiras-veja-cenario.html",
+     "https://tribunaonline.com.br/esportes/flamengo-vence-o-athletico-e-pode-ser-campeao-no-sabado/"
+    ],
+    "atualizado": "2026-11-19T00:25:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 49,
@@ -12381,7 +12393,29 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=246906"
+     ]
+    },
+    "analise": [
+     "Bahia e Coritiba se enfrentam no sábado (21/11), às 17h30, na Arena Fonte Nova, em Salvador, pela 36ª rodada da Série A. O Bahia é o 6º colocado, com 54 pontos, empatado com o Athletico-PR, 5º, e três à frente do Atlético-MG (51). O Coritiba é o 13º, com 42 pontos, quatro acima do Internacional, 17º e primeiro time da zona de rebaixamento, que tem 38 e um jogo a menos.",
+     "O Bahia não vence há dois jogos. Nos últimos cinco, venceu o São Paulo por 3 a 2 em casa, empatou com Santos (1 a 1) e Grêmio (0 a 0), fora, e perdeu para Flamengo (3 a 0), na Fonte Nova, e Cruzeiro (3 a 2), em Belo Horizonte.",
+     "O Coritiba perdeu quatro dos últimos cinco jogos, todos por 1 a 0: Atlético-MG e Internacional, fora, e Grêmio e Santos, em casa. A única vitória no período foi o 2 a 0 sobre o Vitória, no Couto Pereira, em 31/10."
+    ],
+    "estadio_wiki": "Arena Fonte Nova",
+    "fontes": [
+     "https://maquinadoesporte.com.br/?p=246906"
+    ],
+    "atualizado": "2026-11-19T00:25:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 54,
@@ -12437,7 +12471,29 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=246908"
+     ]
+    },
+    "analise": [
+     "Chapecoense e Cruzeiro se enfrentam no sábado (21/11), às 21h, na Arena Condá, em Chapecó, pela 36ª rodada da Série A. O Cruzeiro é o 3º colocado, com 63 pontos, seis à frente do Fluminense (57), que tem um jogo a menos. A Chapecoense é a lanterna, com 21 pontos: mesmo vencendo os três jogos que restam, chegaria a 30 e não alcança mais o Vitória, 16º, com 38.",
+     "A Chapecoense perdeu os últimos quatro jogos: 3 a 0 para o Bragantino e 2 a 0 para o Remo, fora, e 2 a 1 para o Mirassol e 2 a 0 para o Vasco, em casa. A última vitória foi o 2 a 1 sobre o Fluminense, na Arena Condá, em 24/10.",
+     "O Cruzeiro venceu os últimos cinco jogos na Série A, dois deles fora de casa: 4 a 2 no Grêmio e 1 a 0 no Atlético-MG. Em casa, bateu Remo (1 a 0), Bahia (3 a 2) e, na quarta-feira (18/11), o Palmeiras, por 2 a 1."
+    ],
+    "estadio_wiki": "Arena Condá",
+    "fontes": [
+     "https://maquinadoesporte.com.br/?p=246908"
+    ],
+    "atualizado": "2026-11-19T00:25:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 19,
