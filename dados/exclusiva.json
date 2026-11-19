@@ -101,7 +101,45 @@
    "clube": "uniao-sao-joao",
    "tipo": "jogador",
    "base": false,
-   "nome": "Joãozinho"
+   "nome": "Joãozinho",
+   "topicos": [
+    [
+     "0:00",
+     "Apresentação de Joãozinho"
+    ],
+    [
+     "1:15",
+     "O sonho de jogar no clube da cidade natal"
+    ],
+    [
+     "2:30",
+     "A relação de Araras com o União São João"
+    ],
+    [
+     "5:00",
+     "A decisão de voltar para Araras"
+    ],
+    [
+     "6:15",
+     "Passagens por Linense, São Raimundo e outros clubes"
+    ],
+    [
+     "11:15",
+     "O duelo com o Comercial na Copa Paulista"
+    ],
+    [
+     "15:00",
+     "Os destaques do elenco do União"
+    ],
+    [
+     "17:30",
+     "O amistoso contra o Santos"
+    ],
+    [
+     "23:45",
+     "Os adversários fortes em casa na Copa Paulista"
+    ]
+   ]
   },
   {
    "n": 171,
@@ -111,7 +149,49 @@
    "clube": "primavera",
    "tipo": "jogador",
    "base": false,
-   "nome": "Paulinho"
+   "nome": "Paulinho",
+   "topicos": [
+    [
+     "1:15",
+     "O vice da Copa Paulista e a evolução do Primavera"
+    ],
+    [
+     "3:45",
+     "Estrutura e comissão técnica do clube"
+    ],
+    [
+     "5:00",
+     "Experiência num elenco de garotos"
+    ],
+    [
+     "7:30",
+     "Jogar em alto nível depois dos 30"
+    ],
+    [
+     "8:45",
+     "A passagem pelo São Caetano"
+    ],
+    [
+     "11:15",
+     "Copa Paulista: decidida nos detalhes e na bola parada"
+    ],
+    [
+     "13:45",
+     "O que aprende com a comissão do Primavera"
+    ],
+    [
+     "21:15",
+     "A família e o pai no São Caetano"
+    ],
+    [
+     "23:45",
+     "A nova fase da Inter de Limeira"
+    ],
+    [
+     "27:30",
+     "Recado para a sequência da Copa Paulista"
+    ]
+   ]
   },
   {
    "n": 170,
@@ -121,7 +201,41 @@
    "clube": "josebonifacio",
    "tipo": "jogador",
    "base": false,
-   "nome": "Kauã Caveirão"
+   "nome": "Kauã Caveirão",
+   "topicos": [
+    [
+     "0:00",
+     "Abertura: o mata-mata da Segunda Divisão"
+    ],
+    [
+     "1:15",
+     "A origem do apelido Caveirão"
+    ],
+    [
+     "2:30",
+     "Gols e assistências na campanha"
+    ],
+    [
+     "3:45",
+     "O jogo que marcou o ano do José Bonifácio"
+    ],
+    [
+     "5:00",
+     "O confronto das oitavas de final"
+    ],
+    [
+     "7:30",
+     "Os clubes tradicionais na disputa"
+    ],
+    [
+     "10:00",
+     "A passagem pela Série C"
+    ],
+    [
+     "11:15",
+     "A reta final rumo à Série A4"
+    ]
+   ]
   },
   {
    "n": 169,
@@ -131,7 +245,41 @@
    "clube": "penapolense",
    "tipo": "jogador",
    "base": false,
-   "nome": "Gabriel Argentino"
+   "nome": "Gabriel Argentino",
+   "topicos": [
+    [
+     "1:15",
+     "O telefonema do Penapolense"
+    ],
+    [
+     "2:30",
+     "A temporada no São-Carlense e a Copinha"
+    ],
+    [
+     "3:45",
+     "A relação com o futebol paulista"
+    ],
+    [
+     "5:00",
+     "Os próximos passos na carreira"
+    ],
+    [
+     "6:15",
+     "A estrutura dos campeonatos em São Paulo"
+    ],
+    [
+     "7:30",
+     "Título ou acesso: o que vale mais"
+    ],
+    [
+     "8:45",
+     "A final contra a Inter de Bebedouro"
+    ],
+    [
+     "10:00",
+     "A paixão da torcida de Penápolis"
+    ]
+   ]
   },
   {
    "n": 168,
@@ -141,7 +289,45 @@
    "clube": "juventus",
    "tipo": "jogador",
    "base": false,
-   "nome": "Fernando Fonseca"
+   "nome": "Fernando Fonseca",
+   "topicos": [
+    [
+     "1:15",
+     "O acesso e a conquista individual"
+    ],
+    [
+     "2:30",
+     "Renovação e planejamento para 2027"
+    ],
+    [
+     "3:45",
+     "A esperança de viver o acesso"
+    ],
+    [
+     "5:00",
+     "A confiança do elenco na reta final"
+    ],
+    [
+     "7:30",
+     "Os jogos decisivos"
+    ],
+    [
+     "8:45",
+     "Trajetória por Joinville, Caxias e Ipiranga"
+    ],
+    [
+     "10:00",
+     "Os cuidados com o corpo"
+    ],
+    [
+     "12:30",
+     "A torcida, o 12º jogador"
+    ],
+    [
+     "15:00",
+     "Agradecimentos à família"
+    ]
+   ]
   },
   {
    "n": 167,
@@ -151,7 +337,45 @@
    "clube": "inter-de-bebedouro",
    "tipo": "jogador",
    "base": false,
-   "nome": "Kadu Barone"
+   "nome": "Kadu Barone",
+   "topicos": [
+    [
+     "1:15",
+     "Artilharia e o futuro na carreira"
+    ],
+    [
+     "2:30",
+     "A campanha da Inter de Bebedouro"
+    ],
+    [
+     "3:45",
+     "Por que escolheu o projeto da Inter"
+    ],
+    [
+     "5:00",
+     "Como foi a chegada ao clube"
+    ],
+    [
+     "7:30",
+     "Gratidão ao técnico Márcio"
+    ],
+    [
+     "8:45",
+     "Liderança num elenco jovem"
+    ],
+    [
+     "10:00",
+     "A força do banco de reservas"
+    ],
+    [
+     "12:30",
+     "“Não tenho medo do jogo”"
+    ],
+    [
+     "15:00",
+     "O potencial da Inter de Bebedouro"
+    ]
+   ]
   },
   {
    "n": 166,
@@ -161,7 +385,49 @@
    "clube": "marilia",
    "tipo": "jogador",
    "base": false,
-   "nome": "Wagner Coradin"
+   "nome": "Wagner Coradin",
+   "topicos": [
+    [
+     "1:15",
+     "A emoção do acesso"
+    ],
+    [
+     "2:30",
+     "A conquista dentro de Marília"
+    ],
+    [
+     "3:45",
+     "O empréstimo ao Hercílio Luz"
+    ],
+    [
+     "6:15",
+     "A semifinal e o reencontro com a Portuguesa Santista"
+    ],
+    [
+     "8:45",
+     "Os pênaltis decisivos"
+    ],
+    [
+     "12:30",
+     "Goleiro em evolução constante"
+    ],
+    [
+     "13:45",
+     "A experiência fora do Brasil"
+    ],
+    [
+     "16:15",
+     "Do futsal ao gol"
+    ],
+    [
+     "17:30",
+     "Goleiros brasileiros e a seleção"
+    ],
+    [
+     "23:45",
+     "Recado ao torcedor do Marília"
+    ]
+   ]
   },
   {
    "n": 165,
@@ -171,7 +437,53 @@
    "clube": "xv-de-jau",
    "tipo": "jogador",
    "base": false,
-   "nome": "Lauder Perez"
+   "nome": "Lauder Perez",
+   "topicos": [
+    [
+     "1:15",
+     "O clima no XV de Jaú antes da decisão"
+    ],
+    [
+     "2:30",
+     "A busca por um novo acesso"
+    ],
+    [
+     "3:45",
+     "A chegada ao clube"
+    ],
+    [
+     "5:00",
+     "Os treinadores da base"
+    ],
+    [
+     "6:15",
+     "Os gols de falta"
+    ],
+    [
+     "8:45",
+     "Momentos que mudaram a vida"
+    ],
+    [
+     "11:15",
+     "A experiência nos Estados Unidos"
+    ],
+    [
+     "13:45",
+     "Os colegas estrangeiros no elenco"
+    ],
+    [
+     "17:30",
+     "Como encarar uma semifinal"
+    ],
+    [
+     "20:00",
+     "Estilo de jogo e inspirações"
+    ],
+    [
+     "22:30",
+     "Recado à torcida"
+    ]
+   ]
   },
   {
    "n": 164,
@@ -181,7 +493,45 @@
    "clube": "juventus",
    "tipo": "jogador",
    "base": false,
-   "nome": "Victor Graziani"
+   "nome": "Victor Graziani",
+   "topicos": [
+    [
+     "1:15",
+     "A tradição do Juventus"
+    ],
+    [
+     "2:30",
+     "A chegada à Mooca"
+    ],
+    [
+     "3:45",
+     "A virada no quadrangular"
+    ],
+    [
+     "5:00",
+     "O trabalho do treinador"
+    ],
+    [
+     "6:15",
+     "Vila Nova e a formação na base"
+    ],
+    [
+     "8:45",
+     "O papel do zagueiro no futebol atual"
+    ],
+    [
+     "10:00",
+     "Os adversários do quadrangular"
+    ],
+    [
+     "12:30",
+     "Destaques do elenco"
+    ],
+    [
+     "15:00",
+     "Recado antes do jogo decisivo"
+    ]
+   ]
   },
   {
    "n": 163,
@@ -191,7 +541,41 @@
    "clube": "portuguesasantista",
    "tipo": "jogador",
    "base": false,
-   "nome": "Gabriel Falcão"
+   "nome": "Gabriel Falcão",
+   "topicos": [
+    [
+     "1:15",
+     "A preparação para a semifinal"
+    ],
+    [
+     "2:30",
+     "O adversário e as quatro melhores campanhas"
+    ],
+    [
+     "3:45",
+     "Como decidir um acesso"
+    ],
+    [
+     "5:00",
+     "O jogo contra o Paulista"
+    ],
+    [
+     "6:15",
+     "O gol e a confiança do grupo"
+    ],
+    [
+     "7:30",
+     "Um recomeço depois de quase um ano parado"
+    ],
+    [
+     "8:45",
+     "Quem ajudou a amadurecer"
+    ],
+    [
+     "10:00",
+     "Revelado em Cotia"
+    ]
+   ]
   },
   {
    "n": 162,
@@ -201,7 +585,57 @@
    "clube": "inter-de-bebedouro",
    "tipo": "jogador",
    "base": false,
-   "nome": "Caio Vidal"
+   "nome": "Caio Vidal",
+   "topicos": [
+    [
+     "1:15",
+     "A chegada à Inter de Bebedouro"
+    ],
+    [
+     "2:30",
+     "O papel de quem sai do banco"
+    ],
+    [
+     "3:45",
+     "A disputa saudável pela posição"
+    ],
+    [
+     "5:00",
+     "Gols decisivos na campanha"
+    ],
+    [
+     "7:30",
+     "Rodagem pelo Brasil"
+    ],
+    [
+     "8:45",
+     "Números de artilheiro"
+    ],
+    [
+     "11:15",
+     "Do futsal ao campo"
+    ],
+    [
+     "13:45",
+     "A Série A4 e os rivais"
+    ],
+    [
+     "16:15",
+     "O critério de desempate"
+    ],
+    [
+     "17:30",
+     "A defesa da Inter"
+    ],
+    [
+     "22:30",
+     "Inspirações: Adriano Imperador, Kane e Haaland"
+    ],
+    [
+     "28:45",
+     "Recado à torcida da Inter"
+    ]
+   ]
   },
   {
    "n": 161,
@@ -211,7 +645,41 @@
    "clube": "saocaetano",
    "tipo": "jogador",
    "base": false,
-   "nome": "Carlos Maranhão"
+   "nome": "Carlos Maranhão",
+   "topicos": [
+    [
+     "0:00",
+     "Abertura: reta final da Série A4"
+    ],
+    [
+     "1:15",
+     "Os gols e assistências pelo São Caetano"
+    ],
+    [
+     "2:30",
+     "Uma Série A4 disputadíssima"
+    ],
+    [
+     "3:45",
+     "Os jogos para fechar a primeira fase"
+    ],
+    [
+     "5:00",
+     "A confiança do grupo"
+    ],
+    [
+     "6:15",
+     "O formato da Série A4"
+    ],
+    [
+     "7:30",
+     "Pensando no mata-mata"
+    ],
+    [
+     "8:45",
+     "A briga ponto a ponto pela liderança"
+    ]
+   ]
   },
   {
    "n": 147,
