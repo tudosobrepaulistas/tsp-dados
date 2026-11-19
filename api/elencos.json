@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T04:16:00-03:00",
+ "gerado": "2026-11-19T04:19:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -4892,7 +4892,12 @@
      "nome": "Loram Ramires",
      "posicao": "Meia",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-lorram-ramires-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [
       {
@@ -4952,7 +4957,12 @@
      "nome": "Diogo Silva",
      "posicao": "Volante",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-diogo-silva-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [
       {
@@ -4990,7 +5000,12 @@
      "nome": "Artur Melo",
      "posicao": "Atacante",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-artur-melo-inter-de-bebedouro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/interbebedourooficial/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [
       {
