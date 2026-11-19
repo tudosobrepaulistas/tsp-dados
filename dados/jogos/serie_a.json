@@ -7646,22 +7646,37 @@
    "data": "2026-11-18T20:00:00-03:00",
    "casa": "remo",
    "fora": "chapecoense",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Mangueirão",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jajá",
+     "minuto": "2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Patrick",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.oliberal.com/esportes/remo/remo-vence-a-chapecoense-e-segue-vivo-na-briga-pela-permanencia-na-serie-a-1.1195877",
+    "https://www.metropoles.com/esportes/brasileirao-remo-vence-chapecoense-e-evita-rebaixamento-antecipado"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-18T22:10:00-03:00",
    "prejogo": {
     "analise": [
      "Remo e Chapecoense se enfrentam na quarta-feira (18/11), às 20h, no Mangueirão, em Belém, pela 35ª rodada da Série A. Os dois ocupam as últimas posições: o Remo é o 19º, com 29 pontos, e a Chapecoense é a lanterna, com 21 pontos, já rebaixada.",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18T21:46:00-03:00",
+ "gerado": "2026-11-18T22:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -232,35 +232,27 @@
     {
      "id": 900019,
      "nome": "Remo",
-     "pts": 29,
-     "j": 34,
-     "v": 6,
+     "pts": 32,
+     "j": 35,
+     "v": 7,
      "e": 11,
      "d": 17,
-     "gp": 37,
+     "gp": 39,
      "gc": 57
     },
     {
      "id": 900020,
      "nome": "Chapecoense",
      "pts": 21,
-     "j": 34,
+     "j": 35,
      "v": 4,
      "e": 9,
-     "d": 21,
+     "d": 22,
      "gp": 33,
-     "gc": 70
+     "gc": 72
     }
    ],
    "jogos": [
-    {
-     "id": 91000147,
-     "rodada": "35",
-     "data": "2026-11-18T20:00",
-     "casa": 900019,
-     "fora": 900020,
-     "a_confirmar": false
-    },
     {
      "id": 91000148,
      "rodada": "35",
@@ -1188,6 +1180,12 @@
      900008,
      0,
      1
+    ],
+    [
+     900019,
+     900020,
+     2,
+     0
     ]
    ]
   }
@@ -11311,14 +11309,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.oliberal.com/esportes/remo/remo-vence-a-chapecoense-e-segue-vivo-na-briga-pela-permanencia-na-serie-a-1.1195877",
+    "https://www.metropoles.com/esportes/brasileirao-remo-vence-chapecoense-e-evita-rebaixamento-antecipado"
    ],
    "fixture": {
     "id": 91000147,
     "timestamp": 1795042800,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Mangueirão",
@@ -11340,8 +11340,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -11390,21 +11390,41 @@
     }
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 56,
-    "empate": 23,
-    "fora": 21,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.82,
-     1.03
-    ],
-    "base": [
-     11,
-     14
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 2,
+      "extra": null,
+      "texto": "2"
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Jajá"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Patrick"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -11461,12 +11481,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
+    "casa": 63,
     "empate": 21,
     "fora": 17,
     "placar": "2x0",
     "gols_esperados": [
-     2.02,
+     2.03,
      0.94
     ],
     "base": [
@@ -11568,7 +11588,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.08,
-     1.17
+     1.16
     ],
     "base": [
      26,
@@ -11734,12 +11754,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
+    "casa": 62,
     "empate": 20,
     "fora": 19,
     "placar": "2x1",
     "gols_esperados": [
-     2.18,
+     2.19,
      1.12
     ],
     "base": [
@@ -11810,7 +11830,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.65,
-     1.38
+     1.37
     ],
     "base": [
      13,
@@ -12005,7 +12025,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.52,
-     0.92
+     0.91
     ],
     "base": [
      16,
@@ -12111,16 +12131,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 21,
+    "casa": 20,
     "empate": 23,
-    "fora": 56,
-    "placar": "1x1",
+    "fora": 58,
+    "placar": "0x1",
     "gols_esperados": [
-     1.02,
+     0.95,
      1.81
     ],
     "base": [
-     14,
+     15,
      26
     ]
    },
@@ -12167,17 +12187,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 73,
-    "empate": 17,
-    "fora": 10,
+    "casa": 68,
+    "empate": 19,
+    "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.34,
-     0.75
+     2.15,
+     0.81
     ],
     "base": [
      24,
-     11
+     12
     ]
    },
    "events": []
@@ -12228,8 +12248,8 @@
     "fora": 29,
     "placar": "1x0",
     "gols_esperados": [
-     1.21,
-     0.95
+     1.22,
+     0.94
     ],
     "base": [
      18,
@@ -12281,7 +12301,7 @@
    "previsao": {
     "casa": 64,
     "empate": 20,
-    "fora": 17,
+    "fora": 16,
     "placar": "2x0",
     "gols_esperados": [
      2.14,
@@ -36039,14 +36059,14 @@
       19,
       900019,
       "Remo",
-      29,
-      34,
-      6,
+      32,
+      35,
+      7,
       11,
       17,
-      -20,
+      -18,
       "",
-      37,
+      39,
       57
      ],
      [
@@ -36054,14 +36074,14 @@
       900020,
       "Chapecoense",
       21,
-      34,
+      35,
       4,
       9,
-      21,
-      -37,
+      22,
+      -39,
       "",
       33,
-      70
+      72
      ]
     ]
    ]
@@ -36446,6 +36466,12 @@
     "gols": 2
    },
    {
+    "jogador": "Jajá",
+    "time": "Remo",
+    "time_id": 900019,
+    "gols": 2
+   },
+   {
     "jogador": "Jhon Arias",
     "time": "Palmeiras",
     "time_id": 900002,
@@ -36752,12 +36778,6 @@
     "gols": 1
    },
    {
-    "jogador": "Jajá",
-    "time": "Remo",
-    "time_id": 900019,
-    "gols": 1
-   },
-   {
     "jogador": "Julimar",
     "time": "Athletico-PR",
     "time_id": 900004,
@@ -36875,6 +36895,12 @@
     "jogador": "Negueba",
     "time": "Mirassol",
     "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Patrick",
+    "time": "Remo",
+    "time_id": 900019,
     "gols": 1
    },
    {

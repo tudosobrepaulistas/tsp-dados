@@ -90,6 +90,12 @@
   "gols": 2
  },
  {
+  "jogador": "Jajá",
+  "time": "Remo",
+  "time_id": 900019,
+  "gols": 2
+ },
+ {
   "jogador": "Jhon Arias",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -396,12 +402,6 @@
   "gols": 1
  },
  {
-  "jogador": "Jajá",
-  "time": "Remo",
-  "time_id": 900019,
-  "gols": 1
- },
- {
   "jogador": "Julimar",
   "time": "Athletico-PR",
   "time_id": 900004,
@@ -519,6 +519,12 @@
   "jogador": "Negueba",
   "time": "Mirassol",
   "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "Patrick",
+  "time": "Remo",
+  "time_id": 900019,
   "gols": 1
  },
  {
