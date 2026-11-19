@@ -1,5 +1,5 @@
 {
- "_leia": "Painel do futebol feminino na home (campeonatos em disputa que não estão na base de jogos). Só dados confirmados em 2 fontes.",
+ "_leia": "Painel do futebol feminino na home (campeonatos em disputa que não estão na base de jogos). Só dados confirmados em 2 fontes. Mata-mata: \"placar\": {\"j1\": [casa, fora], \"j2\": [casa, fora], \"penaltis\": [casa, fora]} na ordem casa/fora do confronto; o site mostra J1, J2 e o agregado.",
  "competicoes": [
   {
    "nome": "Paulistão Feminino 2026",
@@ -93,15 +93,35 @@
      "fase": "Play-in",
      "casa": "Red Bull Bragantino",
      "fora": "Corinthians",
-     "quando": "Ida (17/11): Bragantino 2 x 0 Corinthians · Volta: dom. 22/11, 11h, Parque São Jorge",
-     "obs": "Corinthians precisa vencer por 3 gols de diferença para avançar; por 2, decide nos pênaltis"
+     "quando": "Volta: dom. 22/11, 11h, Parque São Jorge",
+     "obs": "Corinthians precisa vencer por 3 gols; por 2, pênaltis",
+     "placar": {
+      "j1": [
+       2,
+       0
+      ],
+      "j2": [
+       null,
+       null
+      ]
+     }
     },
     {
      "fase": "Play-in",
      "casa": "Santos",
      "fora": "São Paulo",
-     "quando": "Ida (17/11): Santos 1 x 3 São Paulo, no Pacaembu · Volta: sáb. 21/11, 11h, Brinco de Ouro (Campinas)",
-     "obs": ""
+     "quando": "Volta: sáb. 21/11, 11h, Brinco de Ouro (Campinas)",
+     "obs": "",
+     "placar": {
+      "j1": [
+       1,
+       3
+      ],
+      "j2": [
+       null,
+       null
+      ]
+     }
     },
     {
      "fase": "Semifinal",

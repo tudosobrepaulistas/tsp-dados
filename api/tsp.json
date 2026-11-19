@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T03:35:00-03:00",
+ "gerado": "2026-11-19T03:39:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -41941,15 +41941,35 @@
      "fase": "Play-in",
      "casa": "Red Bull Bragantino",
      "fora": "Corinthians",
-     "quando": "Ida (17/11): Bragantino 2 x 0 Corinthians · Volta: dom. 22/11, 11h, Parque São Jorge",
-     "obs": "Corinthians precisa vencer por 3 gols de diferença para avançar; por 2, decide nos pênaltis"
+     "quando": "Volta: dom. 22/11, 11h, Parque São Jorge",
+     "obs": "Corinthians precisa vencer por 3 gols; por 2, pênaltis",
+     "placar": {
+      "j1": [
+       2,
+       0
+      ],
+      "j2": [
+       null,
+       null
+      ]
+     }
     },
     {
      "fase": "Play-in",
      "casa": "Santos",
      "fora": "São Paulo",
-     "quando": "Ida (17/11): Santos 1 x 3 São Paulo, no Pacaembu · Volta: sáb. 21/11, 11h, Brinco de Ouro (Campinas)",
-     "obs": ""
+     "quando": "Volta: sáb. 21/11, 11h, Brinco de Ouro (Campinas)",
+     "obs": "",
+     "placar": {
+      "j1": [
+       1,
+       3
+      ],
+      "j2": [
+       null,
+       null
+      ]
+     }
     },
     {
      "fase": "Semifinal",
