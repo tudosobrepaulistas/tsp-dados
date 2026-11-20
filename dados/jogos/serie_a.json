@@ -11581,7 +11581,34 @@
    "fontes": [
     "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00"
+   "atualizado": "2026-11-05T02:09:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=246971"
+     ]
+    },
+    "analise": [
+     "Internacional e Vitória se enfrentam na segunda-feira (23/11), às 19h30, no Beira-Rio, em Porto Alegre, pela 36ª rodada da Série A. É jogo direto contra o rebaixamento: o Inter é o 17º, primeiro time do Z4, com 38 pontos, empatado com o Grêmio (18º); o Vitória é o 14º, com 41, três à frente. Restam três rodadas.",
+     "Em casa, o Internacional venceu os dois últimos jogos: 3 a 0 no Botafogo (24/10), com gols de Matheus Bahia, Juninho e Bernabei, e 1 a 0 no Coritiba (03/11), gol de Alerrandro aos 49 do segundo tempo. Fora, perdeu as três mais recentes: 2 a 0 para o Mirassol, 2 a 1 para o Fluminense e 2 a 1 para o Vasco, na quinta-feira (19/11), com gol de Juninho.",
+     "O Vitória vem de vitória por 2 a 1 sobre o Red Bull Bragantino, no Barradão, na quinta-feira (19/11), com gols de Brítez e Renê. Longe de Salvador, não vence há três jogos: perdeu para o São Paulo (2 a 1, em 10/10), empatou com o Corinthians (1 a 1, em 19/10) e perdeu para o Coritiba (2 a 0, em 31/10).",
+     "No primeiro turno, em 23/05, o Vitória venceu o Internacional por 2 a 0, no Barradão, segundo o Correio e o BNews."
+    ],
+    "retrospecto": "No primeiro turno do Brasileirão de 2026, em 23/05, o Vitória venceu o Internacional por 2 a 0, no Barradão, em Salvador, segundo o Correio e o BNews.",
+    "estadio_wiki": "Estádio Beira-Rio",
+    "fontes": [
+     "https://maquinadoesporte.com.br/?p=246971",
+     "https://www.correio24horas.com.br/esportes/com-brilho-de-rene-e-erick-vitoria-supera-internacional-e-da-salto-na-tabela-do-brasileirao-0526",
+     "https://www.bnews.com.br/noticias/esporte/vitoria-segura-pressao-e-vence-internacional-por-2-0-no-barradao.html"
+    ],
+    "atualizado": "2026-11-20T20:25:00-03:00"
+   }
   },
   {
    "id": 91000162,
@@ -11603,7 +11630,33 @@
    "fontes": [
     "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00"
+   "atualizado": "2026-11-05T02:09:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Amazon Prime Video",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=246974"
+     ]
+    },
+    "analise": [
+     "Botafogo e São Paulo se enfrentam na segunda-feira (23/11), às 20h, no Estádio Nilton Santos, no Rio de Janeiro, pela 36ª rodada da Série A. O São Paulo é o 11º, com 44 pontos, e o Botafogo, o 12º, com 42. Faltando três rodadas, os dois querem se afastar de vez da zona de rebaixamento: o Internacional, 17º e primeiro do Z4, tem 38 pontos.",
+     "Em casa, o Botafogo venceu os dois últimos jogos pelo mesmo placar: 1 a 0 na Chapecoense (17/10) e 1 a 0 no Atlético-MG (04/11), com gol de Edenílson. Fora, porém, perdeu as três mais recentes: 3 a 0 para o Internacional (24/10), 2 a 1 para o Remo (28/10) e 4 a 0 para o Corinthians, na quarta-feira (18/11).",
+     "O São Paulo chega com quatro jogos sem vencer. Fora de casa, empatou com o Mirassol (1 a 1, em 24/10) e perdeu para o Bahia por 3 a 2 (28/10), com gols de Lucas Moura e Bobadilla. No MorumBis, ficou no 0 a 0 com o Corinthians (04/11) e perdeu para o Fluminense por 1 a 0 na quinta-feira (19/11), gol de Hércules.",
+     "No primeiro turno, em 23/05, pela 17ª rodada, São Paulo e Botafogo empataram por 1 a 1 no MorumBis: Luciano abriu o placar aos 3 minutos e Barrera empatou aos 45 do segundo tempo, segundo a Tribuna do Sertão."
+    ],
+    "retrospecto": "No primeiro turno do Brasileirão de 2026, em 23/05, São Paulo e Botafogo empataram por 1 a 1 no MorumBis, com gols de Luciano, aos 3 minutos do primeiro tempo, e Barrera, aos 45 do segundo, segundo a Tribuna do Sertão.",
+    "estadio_wiki": "Estádio Nilton Santos",
+    "fontes": [
+     "https://maquinadoesporte.com.br/?p=246974",
+     "https://www.tribunadosertao.com.br/esportes/2026/05/23/906699-sao-paulo-mostra-evolucao-mas-cede-empate-ao-botafogo-no-morumbis"
+    ],
+    "atualizado": "2026-11-20T20:25:00-03:00"
+   }
   },
   {
    "id": 91000163,
