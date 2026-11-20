@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-20T06:31-03:00",
+ "gerado": "2026-11-20T09:19-03:00",
  "avisos": [
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-19T17:26-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h (busca em CBN Ribeirão, Tribuna, FI, DGABC); evergreen bloqueado pela regra de 1 a cada 14 dias",
-   "sugestao": "Conferir Instagram oficial do clube (técnico, reforços e pré-temporada da A4 2027)"
-  },
-  {
-   "clube": "taquaritinga",
-   "nome": "Taquaritinga",
-   "quando": "2026-11-19T17:26-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h (busca em CBN Ribeirão, Tribuna, FI, DGABC); evergreen bloqueado pela regra de 1 a cada 14 dias",
-   "sugestao": "Conferir Instagram oficial do clube (técnico, reforços e pré-temporada da A4 2027)"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-19T17:26-03:00",
-   "motivo": "Sem notícia nova nas últimas 48h (busca em CBN Ribeirão, Tribuna, FI, DGABC); evergreen bloqueado pela regra de 1 a cada 14 dias",
-   "sugestao": "Conferir Instagram oficial do clube (técnico, reforços e pré-temporada da A4 2027)"
-  },
   {
    "clube": "comercial",
    "nome": "Comercial",
@@ -420,6 +399,27 @@
    "quando": "2026-11-20T06:31-03:00",
    "motivo": "Reforma do gramado do Luisão (São Carlos Agora, 16/11) já publicada no site em 16/11 na matéria do Grêmio São-Carlense; nada novo do São Carlos FC",
    "sugestao": "Redator: confirmar com o São Carlos FC planejamento e divisão que vai disputar em 2027 e se mandará jogos no Luisão reformado"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-20T09:19-03:00",
+   "motivo": "Sem notícia nova com 2 fontes em 18-20/11; guia do Palma Travassos pronto, mas evergreen anterior (06/11) ainda dentro dos 14 dias",
+   "sugestao": "Publicar amanhã (21/11) o guia do Estádio Palma Travassos, já apurado pela Máquina"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-20T09:19-03:00",
+   "motivo": "Técnico Adriano Rodrigues (ex-CSA) só no Futebol Interior; evergreen anterior (06/11) ainda dentro dos 14 dias",
+   "sugestao": "Confirmar com o ECUS ou o Diário de Suzano a chegada do técnico Adriano Rodrigues"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-20T09:19-03:00",
+   "motivo": "Evergreen da Cristiane pronto, mas as únicas fotos livres são da Agência Soccer Digital (regra: sem foto de agência); notícia do play-in foi como rascunho esperando foto",
+   "sugestao": "Redator: pôr foto oficial do Santos na matéria do play-in contra o São Paulo (sábado, 11h, Brinco de Ouro)"
   }
  ]
 }
