@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T03:20:00-03:00",
+ "gerado": "2026-11-20T03:25:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -442,6 +442,16 @@
      "de": "América-MG",
      "ficha": {},
      "comissao": false
+    },
+    {
+     "nome": "Cláudio Tencati",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {},
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [
@@ -528,9 +538,9 @@
      "posicao": "Goleiro",
      "numero": 18,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -559,9 +569,9 @@
      "posicao": "Zagueiro",
      "numero": 2,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 136,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -580,9 +590,9 @@
      "posicao": "Zagueiro",
      "numero": 4,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 338,
+      "minutos": 382,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -612,9 +622,9 @@
      "posicao": "Zagueiro",
      "numero": 16,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 450,
+      "minutos": 540,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -665,9 +675,9 @@
      "posicao": "Lateral",
      "numero": 29,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 450,
+      "minutos": 540,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -686,9 +696,9 @@
      "posicao": "Volante",
      "numero": 5,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 68,
+      "minutos": 136,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -707,9 +717,9 @@
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 158,
+      "minutos": 235,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -760,9 +770,9 @@
      "posicao": "Volante",
      "numero": 35,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 167,
+      "minutos": 180,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -776,9 +786,9 @@
      "posicao": "Atacante",
      "numero": 8,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 2,
-      "minutos": 329,
+      "minutos": 419,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -808,9 +818,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 71,
+      "minutos": 139,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -881,6 +891,19 @@
       ],
       "fonte": "Base TSP (fichas técnicas conferidas)"
      }
+    },
+    {
+     "nome": "Vagner Mancini",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "no_clube": "Chegou em outubro de 2025; renovou para 2026",
+      "contrato": "até dezembro de 2026"
+     },
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [],
@@ -1359,6 +1382,19 @@
       ],
       "fonte": "Base TSP (fichas técnicas conferidas)"
      }
+    },
+    {
+     "nome": "Clarence Seedorf",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "no_clube": "Anunciado em 11 de outubro de 2026, no lugar de Fernando Diniz",
+      "contrato": "até dezembro de 2027"
+     },
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [],
@@ -1890,6 +1926,19 @@
       ],
       "fonte": "Base TSP (fichas técnicas conferidas)"
      }
+    },
+    {
+     "nome": "Rafael Guanaes",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "no_clube": "No comando desde março de 2025",
+      "contrato": "até o fim de 2026"
+     },
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [],
@@ -2317,6 +2366,22 @@
       ],
       "fonte": "Base TSP (fichas técnicas conferidas)"
      }
+    },
+    {
+     "nome": "Enderson Moreira",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "titulos": [
+       "Campeão da Série B 2026 com o Novorizontino",
+       "Vice-campeão paulista 2026",
+       "4 acessos à Série A na carreira"
+      ]
+     },
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [],
@@ -2637,6 +2702,19 @@
       ],
       "fonte": "Base TSP (fichas técnicas conferidas)"
      }
+    },
+    {
+     "nome": "Abel Ferreira",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "no_clube": "No comando desde novembro de 2020; técnico mais vitorioso da história do clube",
+      "contrato": "até o fim de 2027"
+     },
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [],
@@ -2651,9 +2729,9 @@
      "posicao": "Zagueiro",
      "numero": 2,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 158,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2667,9 +2745,9 @@
      "posicao": "Zagueiro",
      "numero": 5,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 450,
+      "minutos": 540,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2715,9 +2793,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 292,
+      "minutos": 360,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2763,9 +2841,9 @@
      "posicao": "Lateral",
      "numero": 12,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 248,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2827,9 +2905,9 @@
      "posicao": "Lateral",
      "numero": 18,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 248,
+      "minutos": 270,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2896,9 +2974,9 @@
      "posicao": "Goleiro",
      "numero": 23,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 720,
+      "minutos": 810,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2933,9 +3011,9 @@
      "posicao": "Meia",
      "numero": 29,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 185,
+      "minutos": 275,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2954,9 +3032,9 @@
      "posicao": "Lateral",
      "numero": 32,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 248,
+      "minutos": 338,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2991,9 +3069,9 @@
      "posicao": "Atacante",
      "numero": 37,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 248,
+      "minutos": 338,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3010,16 +3088,27 @@
     {
      "nome": "Gustavo Santana",
      "posicao": "Atacante",
-     "numero": 43
+     "numero": 43,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Lucca",
      "posicao": "Atacante",
      "numero": 45,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3038,9 +3127,9 @@
      "posicao": "Volante",
      "numero": 48,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 292,
+      "minutos": 314,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3052,7 +3141,18 @@
     {
      "nome": "Ryan Francisco",
      "posicao": "Atacante",
-     "numero": 49
+     "numero": 49,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Young",
@@ -3072,7 +3172,18 @@
     {
      "nome": "Osorio",
      "posicao": "Zagueiro",
-     "numero": 54
+     "numero": 54,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Nicolas",
@@ -3111,9 +3222,9 @@
      "posicao": "Meia",
      "numero": 94,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 287,
+      "minutos": 355,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3121,6 +3232,27 @@
       ],
       "fonte": "Base TSP (fichas técnicas conferidas)"
      }
+    },
+    {
+     "nome": "Dorival Júnior",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "idade": 64,
+      "idade_em": "2026-05-15",
+      "no_clube": "Terceira passagem pelo São Paulo, desde maio de 2026",
+      "contrato": "até dezembro de 2026",
+      "clubes_anteriores": [
+       "Corinthians (2025 e 2026)",
+       "Seleção Brasileira (2024 e 2025)",
+       "São Paulo (2023 e 2024)",
+       "Flamengo (2022)"
+      ]
+     },
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [],
@@ -7998,7 +8130,12 @@
      "nome": "José Oliveira",
      "posicao": "Treinador",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-jose-oliveira-monte-azul.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/atleticomonteazul/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -8010,7 +8147,12 @@
      "nome": "Gilsinho",
      "posicao": "Auxiliar técnico",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-gilsinho-monte-azul.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/atleticomonteazul/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -8026,7 +8168,12 @@
     {
      "nome": "Cristiano Fonseca",
      "posicao": "Preparador físico",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-15-cristiano-fonseca-monte-azul.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/atleticomonteazul/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -8135,6 +8282,32 @@
      ],
      "ficha": {},
      "comissao": false
+    }
+   ],
+   "chegaram": [],
+   "sairam": []
+  },
+  "portuguesasantista": {
+   "atualizado": "",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Sérgio Guedes",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "no_clube": "164 jogos no comando da Briosa",
+      "titulos": [
+       "Copa Paulista",
+       "Paulistão A3",
+       "Dois acessos ao Paulistão A2"
+      ]
+     },
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [],

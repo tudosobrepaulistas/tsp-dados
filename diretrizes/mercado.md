@@ -79,3 +79,14 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
 - Página do clube: álbum de 30 figurinhas por clube; o que falta aparece como "?" (a revelar).
 - Treinador: registre com "posicao": "Treinador" (contratação, renovação ou saída, mesmas regras de fonte). Ele entra no
   elenco do clube e na página /mercado-da-bola/treinadores/; não aparece nos carrosséis de jogadores.
+
+## Comissão técnica e ficha técnica (20/11/2026, pedido do Thiago)
+- Funções aceitas em "posicao": Treinador, Auxiliar técnico, Preparador físico, Treinador de goleiros. Entram no grupo
+  "Comissão técnica" do elenco do clube e na página /mercado-da-bola/treinadores/; não contam no álbum de 30 jogadores.
+- Quem CHEGA, SAI ou RENOVA vai em dados/mercado.json (como jogador). Quem SEGUE no cargo sem movimento vai em
+  dados/comissoes.json (id, nome, funcao, fontes). Meta: todo clube com página de elenco tem pelo menos o treinador.
+- Ficha técnica (card): campo "ficha" = {natural, idade + idade_em, no_clube, contrato, clubes_anteriores, titulos, fonte}.
+  Só o que a fonte trouxe. Idade anunciada sem data de nascimento: grave "idade" e "idade_em" (dia da fonte).
+- Figurinha de comissão: mesma ferramenta (`figurinha ID ...`), com a roupa de treino/polo do clube da foto, sem marcas.
+- Faltam treinadores (conferir e registrar na tarefa diária): XV de Piracicaba, Portuguesa, Lemense, Inter de Bebedouro,
+  Marília, Rio Claro, Taubaté, Tanabi, XV de Jaú, Votuporanguense, São José.

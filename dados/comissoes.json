@@ -19,6 +19,124 @@
      "fonte": "https://www.instagram.com/briosaoficial/"
     }
    }
+  ],
+  "botafogosp": [
+   {
+    "id": "comissao-botafogosp-claudio-tencati",
+    "nome": "Cláudio Tencati",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://www.tribunaribeirao.com.br/botafogo-perde-brey-e-maciel-mas-traz-dois-reforcos/",
+     "https://tribunadosertao.com.br/esportes/2026/09/09/976107-novorizontino-conquista-5a-vitoria-consecutiva-ao-vencer-botafogo-sp-e-assume-vice-lideranca-da-serie-b"
+    ]
+   }
+  ],
+  "bragantino": [
+   {
+    "id": "comissao-bragantino-vagner-mancini",
+    "nome": "Vagner Mancini",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://tribunadejundiai.com.br/mais/esportes/bragantino-bate-santos-por-2-a-1-e-ultrapassa-o-rival-na-tabela-do-brasileirao/",
+     "https://www.lance.com.br/bragantino/red-bull-bragantino-renova-com-vagner-mancini.html"
+    ],
+    "ficha": {
+     "no_clube": "Chegou em outubro de 2025; renovou para 2026",
+     "contrato": "até dezembro de 2026",
+     "fonte": "https://www.lance.com.br/bragantino/red-bull-bragantino-renova-com-vagner-mancini.html"
+    }
+   }
+  ],
+  "corinthians": [
+   {
+    "id": "comissao-corinthians-clarence-seedorf",
+    "nome": "Clarence Seedorf",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://www.opovo.com.br/esportes/2026/10/11/corinthians-anuncia-seedorf-como-novo-tecnico-ate-dezembro-de-2027.html",
+     "https://tribunadejundiai.com.br/mais/esportes/corinthians-anuncia-seedorf-como-novo-tecnico/"
+    ],
+    "ficha": {
+     "no_clube": "Anunciado em 11 de outubro de 2026, no lugar de Fernando Diniz",
+     "contrato": "até dezembro de 2027",
+     "fonte": "https://www.opovo.com.br/esportes/2026/10/11/corinthians-anuncia-seedorf-como-novo-tecnico-ate-dezembro-de-2027.html"
+    }
+   }
+  ],
+  "mirassol": [
+   {
+    "id": "comissao-mirassol-rafael-guanaes",
+    "nome": "Rafael Guanaes",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://tribunadejundiai.com.br/noticias/mirassol-rebaixa-a-chape-e-coloca-pressao-no-corinthians/",
+     "https://www.tribunadosertao.com.br/esportes/2026/11/15/1022454-guanaes-valoriza-empate-no-maiao-ponto-importante"
+    ],
+    "ficha": {
+     "no_clube": "No comando desde março de 2025",
+     "contrato": "até o fim de 2026",
+     "fonte": "https://www.gazetaesportiva.com/times/mirassol/mirassol-anuncia-renovacao-de-contrato-com-o-tecnico-rafael-guanaes/"
+    }
+   }
+  ],
+  "novorizontino": [
+   {
+    "id": "comissao-novorizontino-enderson-moreira",
+    "nome": "Enderson Moreira",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://tribunadejundiai.com.br/mais/esportes/novorizontino-e-campeao-da-serie-b-2026/",
+     "https://www.dgabc.com.br/Noticia/4367499/novorizontino-bate-fortaleza-de-virada-e-garante-acesso-inedito-a-serie-a-do-brasileiro"
+    ],
+    "ficha": {
+     "titulos": [
+      "Campeão da Série B 2026 com o Novorizontino",
+      "Vice-campeão paulista 2026",
+      "4 acessos à Série A na carreira"
+     ],
+     "fonte": "https://www.dgabc.com.br/Noticia/4367499/novorizontino-bate-fortaleza-de-virada-e-garante-acesso-inedito-a-serie-a-do-brasileiro"
+    }
+   }
+  ],
+  "saopaulo": [
+   {
+    "id": "comissao-saopaulo-dorival-junior",
+    "nome": "Dorival Júnior",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3865776",
+     "https://www.band.com.br/bandnews-fm/noticias/sao-paulo-anuncia-o-retorno-do-tecnico-dorival-junior-202605151254"
+    ],
+    "ficha": {
+     "idade": 64,
+     "idade_em": "2026-05-15",
+     "no_clube": "Terceira passagem pelo São Paulo, desde maio de 2026",
+     "contrato": "até dezembro de 2026",
+     "clubes_anteriores": [
+      "Corinthians (2025 e 2026)",
+      "Seleção Brasileira (2024 e 2025)",
+      "São Paulo (2023 e 2024)",
+      "Flamengo (2022)"
+     ],
+     "fonte": "https://www.band.com.br/bandnews-fm/noticias/sao-paulo-anuncia-o-retorno-do-tecnico-dorival-junior-202605151254"
+    }
+   }
+  ],
+  "palmeiras": [
+   {
+    "id": "comissao-palmeiras-abel-ferreira",
+    "nome": "Abel Ferreira",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://palmeiras.com.br/rdpalmeiras-category/coletivas/",
+     "https://tribunadejundiai.com.br/mais/esportes/abel-ferreira-exalta-elenco-nao-sei-quem-tirar/"
+    ],
+    "ficha": {
+     "no_clube": "No comando desde novembro de 2020; técnico mais vitorioso da história do clube",
+     "contrato": "até o fim de 2027",
+     "fonte": "https://www.folhavitoria.com.br/esportes/abel-ferreira-renova-contrato-com-o-palmeiras-ate-fim-de-2027-nossa-historia-continua/"
+    }
+   }
   ]
  }
 }
