@@ -471,6 +471,82 @@
    "sem_hora": true
   },
   {
+   "id": 91000408,
+   "data": "2026-02-04T20:00:00-03:00",
+   "casa": "remo",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "João Pedro",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alef Manga",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Igor Formiga",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Nathan Fogaça",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/remo/remo-sofre-empate-do-mirassol-nos-minutos-finais-no-mangueirao-1.1080653",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/mirassol-busca-empate-no-fim-em-jogo-eletrizante-contra-o-remo-pelo-brasileirao/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Juan Carlos Osorio",
+     "time": "Marcelo Rangel; Marllon, Léo Andrade, João Lucas, Leonel Picco; Patrick de Paula, Zé Ricardo, Vitor Bueno; Alef Manga, D. Hernandéz, João Pedro",
+     "entraram": [
+      {
+       "jogador": "Kayky Almeida",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Catarozzi",
+       "saiu": "Leonel Picco",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "",
+     "time": "Walter; Rodrigues, João Victor, W.Machado, Reinaldo; Yuri Lara, Denilson, Eduardo; Carlos Eduardo, Negueba, Alisson",
+     "entraram": []
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/mirassol-busca-empate-no-fim-em-jogo-eletrizante-contra-o-remo-pelo-brasileirao/",
+     "https://www.oliberal.com/esportes/remo/remo-sofre-empate-do-mirassol-nos-minutos-finais-no-mangueirao-1.1080653"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
    "id": 91000342,
    "data": "2026-02-05T21:30:00-03:00",
    "casa": "cruzeiro",
@@ -733,6 +809,67 @@
    }
   },
   {
+   "id": 91000409,
+   "data": "2026-02-11T20:00:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 3,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Hulk",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vitor Bueno",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ruan Tressoldi",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Yago Pikachu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Alef Manga",
+     "minuto": "90+1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Dudu",
+     "minuto": "90+8",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/remo-reage-duas-vezes-vira-no-fim-e-deixa-vitoria-escapar-contra-o-galo/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/atletico-mineiro-x-remo/831914",
+    "https://www.cartacapital.com.br/?p=583275"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00"
+  },
+  {
    "id": 91000362,
    "data": "2026-02-12T19:00:00-03:00",
    "casa": "athletico-pr",
@@ -842,6 +979,136 @@
      "https://www.gazetaesportiva.com/times/santos/santos-leva-gol-no-fim-perde-do-athletico-pr-e-segue-sem-vencer-no-brasileirao/"
     ],
     "atualizado": "2026-11-14T03:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000410,
+   "data": "2026-02-25T19:00:00-03:00",
+   "casa": "remo",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Alan Patrick",
+     "minuto": "4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Leonel Picco",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/remo-e-inter-fazem-duelo-equilibrado-e-ficam-no-empate-pelo-brasileirao/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-e-remo-ficam-no-empate-e-seguem-sem-vencer-no-brasileiro/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Juan Carlos Osorio",
+     "time": "Marcelo Rangel; João Lucas, Marllon, Andrade, Kayky; Patrick de Paula, Picco, Vitor Bueno; Marcelinho, Alef Manga, João Pedro",
+     "entraram": [
+      {
+       "jogador": "Cufré",
+       "saiu": "Kayky",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Welison",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jajá",
+       "saiu": "Vitor Bueno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Ricardo",
+       "saiu": "Marcelinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pikachu",
+       "saiu": "João Pedro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Leonel Picco",
+        "minuto": ""
+       },
+       {
+        "jogador": "Patrick de Paula",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Welison",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Rochet; Braian Aguirre, Mercado, Félix Torres, Bernabei; Bruno Gomes, Paulinho, Alan Patrick; Vitinho, Carbonero, Borré",
+     "entraram": [
+      {
+       "jogador": "Ronaldo",
+       "saiu": "Bruno Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Rodríguez",
+       "saiu": "Alan Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kayky",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allex",
+       "saiu": "Carbonero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alerrandro",
+       "saiu": "Borré",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Mercado",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/internacional-e-remo-ficam-no-empate-e-seguem-sem-vencer-no-brasileiro/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
    }
   },
   {
@@ -1512,6 +1779,132 @@
    }
   },
   {
+   "id": 91000411,
+   "data": "2026-03-12T19:00:00-03:00",
+   "casa": "remo",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "John Kennedy",
+     "minuto": "15",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Agustín Canobbio",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/fluminense/fluminense-bate-o-remo-em-belem-e-entra-no-g4-do-brasileirao/",
+    "https://diariodopara.com.br/bola/remo-perde-para-o-fluminense-e-segue-sem-vencer-na-serie-a/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel, João Lucas, Marllon, Tchamba, Sávio, Picco, Patrick de Paula, Vitor Bueno, Yago Pikachu, Alef Manga, João Pedro",
+     "entraram": [
+      {
+       "jogador": "Patrick",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Ricardo",
+       "saiu": "Patrick de Paula",
+       "minuto": ""
+      },
+      {
+       "jogador": "Monti",
+       "saiu": "Yago Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nico Ferreira",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jajá",
+       "saiu": "João Pedro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Pedro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Patrick de Paula",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Luis Zubeldía",
+     "time": "Fábio, Samuel Xavier, Jemmes, Freytes, Renê, Hércules, Martinelli, Lucho Acosta, Canobbio, Savarino, John Kennedy",
+     "entraram": [
+      {
+       "jogador": "Otávio",
+       "saiu": "Hércules",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson",
+       "saiu": "Martinelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Soteldo",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Castillo",
+       "saiu": "John Kennedy",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Hércules",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/fluminense/fluminense-bate-o-remo-em-belem-e-entra-no-g4-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
    "id": 91000365,
    "data": "2026-03-15T16:00:00-03:00",
    "casa": "santos",
@@ -1786,6 +2179,138 @@
    }
   },
   {
+   "id": 91000412,
+   "data": "2026-03-19T20:00:00-03:00",
+   "casa": "flamengo",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Léo Ortiz",
+     "minuto": "19",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Samuel Lino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Luiz Araújo",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-supera-remo-vence-a-quarta-seguida-e-entra-no-g4-do-brasileiro/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/flamengo-vence-o-remo-com-facilidade-e-chega-ao-g4-do-brasileirao/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Emerson Royal, Léo Ortiz, Léo Pereira, Alex Sandro; Pulgar, Jorginho, Arrascaeta; Luiz Araújo, Samuel Lino, Pedro",
+     "entraram": [
+      {
+       "jogador": "Varela",
+       "saiu": "Emerson Royal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ayrton Lucas",
+       "saiu": "Alex Sandro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Cebolinha",
+       "saiu": "Jorginho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paquetá",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carrascal",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Pulgar",
+        "minuto": ""
+       },
+       {
+        "jogador": "Léo Pereira",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Kayky; Picco, Zé Ricardo, Patrick de Paula, Vitor Bueno; Alef Manga, Jajá",
+     "entraram": [
+      {
+       "jogador": "José Welison",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Taliari",
+       "saiu": "Patrick de Paula",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Pikachu",
+       "saiu": "Vitor Bueno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patrick",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Patrick de Paula",
+        "minuto": ""
+       },
+       {
+        "jogador": "José Welison",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/flamengo/flamengo-supera-remo-vence-a-quarta-seguida-e-entra-no-g4-do-brasileiro/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/flamengo-vence-o-remo-com-facilidade-e-chega-ao-g4-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
    "id": 91000347,
    "data": "2026-03-22T16:00:00-03:00",
    "casa": "athletico-pr",
@@ -1904,6 +2429,150 @@
      "https://www.umdoisesportes.com.br/atletiba/athletico-coritiba-resultado-ficha-tecnica-brasileirao/"
     ],
     "atualizado": "2026-11-13T03:36:00-03:00"
+   }
+  },
+  {
+   "id": 91000413,
+   "data": "2026-03-22T16:00:00-03:00",
+   "casa": "remo",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 4,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Everaldo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitor Bueno",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Taliari",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Taliari",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Jajá",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/remo/remo-goleia-o-bahia-de-virada-e-sai-da-lanterna-em-joga%C3%A7o-no-mangueirao-1.1100400",
+    "https://atarde.com.br/esportes/vexame-bahia-e-goleado-pelo-lanterna-do-brasil-e-perde-invencibilidade-1383429"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Kayky Almeida, Tchamba; Zé Ricardo, Patrick, Yago Pikachu, Vitor Bueno; Gabriel Taliari, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Leonel Picco",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "José Welison",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jaderson",
+       "saiu": "Vitor Bueno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jajá",
+       "saiu": "Gabriel Taliari",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Ricardo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marllon",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Román Gómez, Gabriel Xavier, Santiago Mingo, Luciano Juba; Erick, Caio Alexandre, Jean Lucas; Cristian Olivera, Erick Pulga, Everaldo",
+     "entraram": [
+      {
+       "jogador": "João Paulo",
+       "saiu": "Ronaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "David Martins",
+       "saiu": "Gabriel Xavier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araújo",
+       "saiu": "Caio Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Nestor",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Cristian Olivera",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rodrigo Nestor",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/remo/remo-goleia-o-bahia-de-virada-e-sai-da-lanterna-em-joga%C3%A7o-no-mangueirao-1.1100400"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
    }
   },
   {
@@ -2180,6 +2849,135 @@
    }
   },
   {
+   "id": 91000414,
+   "data": "2026-04-02T19:00:00-03:00",
+   "casa": "santos",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "9",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Thaciano",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Moisés",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3775208",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/com-brilho-de-neymar-santos-vence-remo-e-deixa-o-z4-do-brasileirao/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Gabriel Brazão; Igor Vinícius, Lucas Veríssimo, Luan Peres, Escobar; Oliva, Gustavo Henrique, Neymar; Barreal, Rony, Thaciano",
+     "entraram": [
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Oliva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willian Arão",
+       "saiu": "Gustavo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Moisés",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Robinho Jr.",
+       "saiu": "Rony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bontempo",
+       "saiu": "Thaciano",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Gustavo Henrique",
+        "minuto": ""
+       },
+       {
+        "jogador": "Thaciano",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rony",
+        "minuto": ""
+       },
+       {
+        "jogador": "Neymar",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Tchamba, Marllon, Mayk; Zé Welison, Picco, Zé Ricardo; Jajá, Alef Manga, Taliari",
+     "entraram": [
+      {
+       "jogador": "David Braga",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yago Pikachu",
+       "saiu": "Jajá",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Hernández",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Poveda",
+       "saiu": "Taliari",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Ricardo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3775208"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
    "id": 91000350,
    "data": "2026-04-04T20:30:00-03:00",
    "casa": "coritiba",
@@ -2294,6 +3092,217 @@
      "https://www.umdoisesportes.com.br/coritiba/coritiba-x-fluminense-resultado-gols-ficha-brasileirao/"
     ],
     "atualizado": "2026-11-13T03:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000415,
+   "data": "2026-04-05T20:30:00-03:00",
+   "casa": "gremio",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "10",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/remo/contra-o-gremio-remo-nao-sofre-gol-pela-primeira-vez-no-brasileirao-2026-1.1106849",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/gremio-x-remo/831986",
+    "https://acritica.net/esportes/gremio-nao-aproveita-expulsao-de-rival-e-empata-sem-gols-com-o-remo-no-brasileirao/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luís Castro",
+     "time": "Weverton; Pavón, Gustavo Martins, Viery, Pedro Gabriel; Nardoni, Bernardo Zortea, Monsalve; Carlos Vinícius, Amuzu, Enamorado",
+     "entraram": [
+      {
+       "jogador": "Dodi",
+       "saiu": "Nardoni",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Melo",
+       "saiu": "Zortea",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Monsalve",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Mec",
+       "saiu": "Enamorado",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Pavón",
+        "minuto": ""
+       },
+       {
+        "jogador": "Arthur Melo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; Picco, Yago Pikachu, Patrick, David Braga; Alef Manga, Gabriel Taliari",
+     "entraram": [
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "David Braga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jajá",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jáderson",
+       "saiu": "Gabriel Taliari",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "David Braga",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Yago Pikachu",
+        "minuto": "67"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://acritica.net/esportes/gremio-nao-aproveita-expulsao-de-rival-e-empata-sem-gols-com-o-remo-no-brasileirao/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000416,
+   "data": "2026-04-11T16:30:00-03:00",
+   "casa": "remo",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "11",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Andrés Gómez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marllon",
+     "minuto": "83",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/remo-busca-empate-com-vasco-em-jogo-eletrizante/",
+    "https://acritica.net/esportes/vasco-vacila-no-fim-e-fica-no-empate-com-o-remo-no-mangueirao/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; José Welison, David Braga, Patrick; Jajá, Gabriel Taliari, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Jáderson",
+       "saiu": "David Braga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Ricardo",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Gabriel Taliari",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Hernández",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Renato Gaúcho",
+     "time": "Léo Jardim; Paulo Henrique, Robert Renan, Saldivia, Cuiabano; Barros, Thiago Mendes, Tchê Tchê; Andrés Gómez, David, Johan Rojas",
+     "entraram": [
+      {
+       "jogador": "JP",
+       "saiu": "Barros",
+       "minuto": ""
+      },
+      {
+       "jogador": "Spinelli",
+       "saiu": "Tchê Tchê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "David",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marino Hinestroza",
+       "saiu": "Johan Rojas",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Cuiabano",
+        "minuto": ""
+       },
+       {
+        "jogador": "Saldivia",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://acritica.net/esportes/vasco-vacila-no-fim-e-fica-no-empate-com-o-remo-no-mangueirao/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
    }
   },
   {
@@ -2647,6 +3656,518 @@
    }
   },
   {
+   "id": 91000417,
+   "data": "2026-04-19T18:30:00-03:00",
+   "casa": "bragantino",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "12",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 4,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Isidro Pitta",
+     "minuto": "19",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gabriel Taliari",
+     "minuto": "27",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Isidro Pitta",
+     "minuto": "36",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Marcelinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Isidro Pitta",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Tchamba",
+     "minuto": "",
+     "tipo": "contra"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/com-hat-trick-de-pitta-bragantino-vence-o-remo-no-brasileirao/",
+    "https://www.gazetaesportiva.com/?p=3780255"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi, Hurtado, Alix Vinícius, Pedro Henrique, Juninho Capixaba, Gabriel, Matheus Fernandes, Lucas Barbosa, Vinicinho, Marcelinho Braz, Isidro Pitta",
+     "entraram": [
+      {
+       "jogador": "Sosa",
+       "saiu": "Matheus Fernandes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Vinicinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Augusto",
+       "saiu": "Marcelinho Braz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Sasha",
+       "saiu": "Isidro Pitta",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alix Vinícius",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel, Matheus Alexandre, Marllon, Tchamba, Mayk, Patrick, Zé Welison, Jaderson, Marcelinho, Gabriel Taliari, Jajá",
+     "entraram": [
+      {
+       "jogador": "Yago Pikachu",
+       "saiu": "Matheus Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Jaderson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alef Manga",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alef Manga",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3780255"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000418,
+   "data": "2026-04-25T18:30:00-03:00",
+   "casa": "remo",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "13",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Baenão",
+   "cidade": "Belém",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Arroyo",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/remo-x-cruzeiro/832019",
+    "https://www.gazetaesportiva.com/?p=3782093"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; Patrick, Zé Welison, Zé Ricardo; Yago Pikachu, Gabriel Poveda, Jajá",
+     "entraram": [
+      {
+       "jogador": "Leonel Picco",
+       "saiu": "Zé Welison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jáderson",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Hernández",
+       "saiu": "Yago Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alef Manga",
+       "saiu": "Gabriel Poveda",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Pedro",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Ricardo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Matheus Cunha; Kauã Moraes, João Marcelo, Jonathan Jesus, Kaiki Bruno; Gerson, Lucas Romero, Bruno Rodrigues; Christian, Kaio Jorge, Arroyo",
+     "entraram": [
+      {
+       "jogador": "Chico da Costa",
+       "saiu": "Bruno Rodrigues",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Christian",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sinisterra",
+       "saiu": "Arroyo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Arroyo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Cunha",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kauã Moraes",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3782093"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000419,
+   "data": "2026-05-02T16:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "14",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Estádio Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Ferraresi",
+     "minuto": "13",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Alef Manga",
+     "minuto": "70",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Jajá",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-toma-virada-do-remo-e-perde-a-primeira-com-franclim/",
+    "https://dol.com.br/esporte/remo/940631/de-virada-remo-supera-o-botafogo-e-vence-a-1-fora-de-belem"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Franclim Carvalho",
+     "time": "Neto; Vitinho, Ferraresi, Bastos, Alex Telles; Medina, Danilo, Montoro; Matheus Martins, Kadir Barría, Arthur Cabral",
+     "entraram": [
+      {
+       "jogador": "Marçal",
+       "saiu": "Alex Telles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allan",
+       "saiu": "Medina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júnior Santos",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edenílson",
+       "saiu": "Kadir Barría",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Vitinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Danilo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; Patrick, Zé Welison, Zé Ricardo; Yago Pikachu, Jajá, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Marcelinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "David Braga",
+       "saiu": "Mayk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leonel Picco",
+       "saiu": "Zé Welison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jaderson",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Tchamba",
+        "minuto": ""
+       },
+       {
+        "jogador": "Leonel Picco",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/botafogo/botafogo-toma-virada-do-remo-e-perde-a-primeira-com-franclim/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000420,
+   "data": "2026-05-10T16:00:00-03:00",
+   "casa": "remo",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "15",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Alef Manga",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Sosa",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/palmeiras-tem-gol-anulado-no-fim-e-fica-no-empate-com-o-remo-pela-serie-a/",
+    "https://www.palmeiras.com.br/noticias/palmeiras-empata-com-remo-no-mangueirao-e-alcanca-dez-jogos-de-invencibilidade-no-brasileirao/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; Zé Welison, Zé Ricardo, Patrick; Yago Pikachu, Jajá, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Pavani",
+       "saiu": "Marcelinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Picco",
+       "saiu": "Zé Welison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Hernandez",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Yago Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Poveda",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcelo Rangel",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Zé Ricardo",
+        "minuto": "70"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Giay, Murilo, Gustavo Gómez, Jefté; Marlon Freitas, Andreas Pereira, Sosa, Jhon Arias; Allan, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Bruno Fuchs",
+       "saiu": "Giay",
+       "minuto": ""
+      },
+      {
+       "jogador": "Khellven",
+       "saiu": "Jefté",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Evangelista",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho",
+       "saiu": "Jhon Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mauricio",
+       "saiu": "Allan",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Jefté",
+        "minuto": ""
+       },
+       {
+        "jogador": "Allan",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/palmeiras-tem-gol-anulado-no-fim-e-fica-no-empate-com-o-remo-pela-serie-a/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
    "id": 91000396,
    "data": "2026-05-16T19:00:00-03:00",
    "casa": "fluminense",
@@ -2785,6 +4306,150 @@
    }
   },
   {
+   "id": 91000421,
+   "data": "2026-05-17T18:30:00-03:00",
+   "casa": "chapecoense",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 2,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Yago Pikachu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marcinho",
+     "minuto": "24",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Rafael Cavalheira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Jajá",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bruno Leonardo",
+     "minuto": "87",
+     "tipo": "contra"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/chapecoense-x-remo/832049",
+    "https://www.oliberal.com/esportes/remo/remo-vence-chapecoense-em-jogo-de-cinco-gols-pela-serie-a-1.1122629"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fábio Matias",
+     "time": "Anderson; Eduardo Doma, Bruno Leonardo, João Paulo, Marcos Vinícius; Bruno Pacheco, Camilo, Rafael Cavalheira; Ênio, Marcinho, Neto Pessoa",
+     "entraram": [
+      {
+       "jogador": "Garcez",
+       "saiu": "Eduardo Doma",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Vitor",
+       "saiu": "Marcos Vinícius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ítalo",
+       "saiu": "Marcinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rubens",
+       "saiu": "Neto Pessoa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Carlos",
+       "saiu": "Ênio",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Paulo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Camilo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; Patrick, Zé Wellisson, Vitor Bueno; Yago Pikachu, Alef Manga, Jajá",
+     "entraram": [
+      {
+       "jogador": "David Braga",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leonel Picco",
+       "saiu": "Vitor Bueno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Yago Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Hernández",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Poveda",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcelinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/remo/remo-vence-chapecoense-em-jogo-de-cinco-gols-pela-serie-a-1.1122629"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
    "id": 91000398,
    "data": "2026-05-23T19:00:00-03:00",
    "casa": "mirassol",
@@ -2813,6 +4478,258 @@
     "https://www.terra.com.br/esportes/fluminense/fluminense-joga-mal-e-perde-para-o-mirassol-no-maiao,21138f12eabce6ea60f1d3315fbc710eb9v22hr8.html"
    ],
    "atualizado": "2026-11-18T03:41:00-03:00"
+  },
+  {
+   "id": 91000422,
+   "data": "2026-05-24T16:00:00-03:00",
+   "casa": "remo",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "17",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jajá",
+     "minuto": "13",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Viveros",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Viveros",
+     "minuto": "52",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/remo-x-athletico-paranaense/832059",
+    "https://www.oliberal.com/esportes/remo/em-jogo-com-expulsao-e-gols-anulados-remo-perde-para-o-athletico-pr-e-e-vice-lanterna-1.1125471"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Marllon, Tchamba, Mayk; Zé Welison, Patrick, Vitor Bueno; Yago Pikachu, Alef Manga, Jajá",
+     "entraram": [
+      {
+       "jogador": "Zé Ricardo",
+       "saiu": "Zé Welison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Picco",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Vitor Bueno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Yago Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diego Hernández",
+       "saiu": "Alef Manga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcelinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Jajá",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Odair Hellmann",
+     "time": "Santos; Benavídez, Aguirre, Arthur Dias; Gilberto, Felipinho, Jadson, Zapelli, Claudinho; Mendoza, Viveros",
+     "entraram": [
+      {
+       "jogador": "Julimar",
+       "saiu": "Gilberto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Felipinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leozinho",
+       "saiu": "Zapelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renan Peixoto",
+       "saiu": "Viveros",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zapelli",
+        "minuto": ""
+       },
+       {
+        "jogador": "Felipinho",
+        "minuto": ""
+       },
+       {
+        "jogador": "Leozinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/remo/em-jogo-com-expulsao-e-gols-anulados-remo-perde-para-o-athletico-pr-e-e-vice-lanterna-1.1125471"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000423,
+   "data": "2026-05-31T20:30:00-03:00",
+   "casa": "remo",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "18",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Marcelinho",
+     "minuto": "90+3",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/remo-bate-o-sao-paulo-nos-acrescimos-e-da-respiro-na-luta-contra-o-rebaixamento/",
+    "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-perde-do-remo-e-amarga-quinto-jogo-de-jejum-no-brasileirao/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Ivan; Marcelinho, Marllon, Tchamba, Mayk; Zé Welison, Patrick, Zé Ricardo; Pikachu, Vitor Bueno, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Picco",
+       "saiu": "Zé Welison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "David Braga",
+       "saiu": "Vitor Bueno",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "David Braga",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Lucas Ramon, Alan Franco, Osório, Enzo Díaz; Pablo Maia, Danielzinho; Artur, André Silva, Ferreirinha; Calleri",
+     "entraram": [
+      {
+       "jogador": "Hugo",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Artur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcos Antônio",
+       "saiu": "André Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Ferreirinha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tapia",
+       "saiu": "Calleri",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Osório",
+        "minuto": ""
+       },
+       {
+        "jogador": "Enzo Díaz",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-perde-do-remo-e-amarga-quinto-jogo-de-jejum-no-brasileirao/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/remo-bate-o-sao-paulo-nos-acrescimos-e-da-respiro-na-luta-contra-o-rebaixamento/"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
   },
   {
    "id": 91000399,
@@ -2849,6 +4766,519 @@
     "https://www.terra.com.br/esportes/fluminense/fluminense-evita-derrota-para-o-bragantino-aos-58-da-etapa-final,8b1796374fa5159bb054a1c4ec923a415jw2oz0s.html"
    ],
    "atualizado": "2026-11-18T03:42:00-03:00"
+  },
+  {
+   "id": 91000424,
+   "data": "2026-07-23T19:30:00-03:00",
+   "casa": "corinthians",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "19",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Yuri Alberto",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kaio César",
+     "minuto": "40",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Yuri Alberto",
+     "minuto": "45+1",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/remo/yuri-alberto-marca-duas-vezes-e-corinthians-bate-o-remo-na-volta-do-brasileirão-1.1149134",
+    "https://www.opovo.com.br/agencia/jogada10/2026/07/23/yuri-alberto-faz-dois-corinthians-vence-remo-e-encosta-no-g6.html"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Diniz",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; André, Allan, Breno Bidon, Labyad; Kaio César, Yuri Alberto",
+     "entraram": [
+      {
+       "jogador": "Lingard",
+       "saiu": "Labyad",
+       "minuto": "71"
+      },
+      {
+       "jogador": "Carrillo",
+       "saiu": "Kaio César",
+       "minuto": "71"
+      },
+      {
+       "jogador": "Angileri",
+       "saiu": "Matheus Bidu",
+       "minuto": "79"
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "André",
+       "minuto": "79"
+      },
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Breno Bidon",
+       "minuto": "86"
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Gabriel Paulista",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Zé Ivaldo, Marllon, Mayk; Zé Welison, Patrick, Vitor Bueno; Yago Pikachu, Jajá, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Zé Ricardo",
+       "saiu": "Vitor Bueno",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Taliari",
+       "saiu": "Alef Manga",
+       "minuto": "71"
+      },
+      {
+       "jogador": "Picco",
+       "saiu": "Patrick",
+       "minuto": "79"
+      },
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Yago Pikachu",
+       "minuto": "79"
+      },
+      {
+       "jogador": "Tico",
+       "saiu": "Jajá",
+       "minuto": "88"
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marllon",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.opovo.com.br/agencia/jogada10/2026/07/23/yuri-alberto-faz-dois-corinthians-vence-remo-e-encosta-no-g6.html"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000425,
+   "data": "2026-07-26T19:30:00-03:00",
+   "casa": "remo",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jajá",
+     "minuto": "38",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alef Manga",
+     "minuto": "54",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.correio24horas.com.br/esportes/vitoria-decepciona-fora-de-casa-perde-para-o-remo-e-segue-sem-vencer-como-visitante-no-brasileirao-0726",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/remo-bate-vitoria-respira-no-brasileiro-e-pressiona-gigantes-na-briga-contra-o-z4/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Zé Ivaldo, Matheus Felipe, Mayk; Zé Welison, Picco, Zé Ricardo; Yago Pikachu, Jajá, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Patrick",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Yago Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Taliari",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Ivaldo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Yago Pikachu",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Jair Ventura",
+     "time": "Lucas Arcanjo; Jamerson, Cacá, Luan Cândido, Ramon; Caíque Gonçalves, Baralhas, Zé Vitor; Tarzia, Erick, Renê",
+     "entraram": [
+      {
+       "jogador": "Fabiano Souza",
+       "saiu": "Jamerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renato Kayzer",
+       "saiu": "Cacá",
+       "minuto": ""
+      },
+      {
+       "jogador": "Walace",
+       "saiu": "Zé Vitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheuzinho",
+       "saiu": "Tarzia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pochettino",
+       "saiu": "Erick",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Cacá",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.correio24horas.com.br/esportes/vitoria-decepciona-fora-de-casa-perde-para-o-remo-e-segue-sem-vencer-como-visitante-no-brasileirao-0726"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000426,
+   "data": "2026-07-29T19:30:00-03:00",
+   "casa": "mirassol",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maião",
+   "cidade": "Mirassol",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Marllon",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Leonel Picco",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "João Victor",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3828594",
+    "https://www.opovo.com.br/agencia/jogada10/2026/07/29/mirassol-vence-o-remo-e-deixa-a-zona-de-rebaixamento.html"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Thomazella; Igor Formiga, Gabriel Knesowitsch, João Victor, Reinaldo; Denílson, Japa, Eduardo; Bruno Santos, Gustavo Mosquito, Edson Carioca",
+     "entraram": [
+      {
+       "jogador": "William Machado",
+       "saiu": "Gabriel Knesowitsch",
+       "minuto": ""
+      },
+      {
+       "jogador": "Shaylon",
+       "saiu": "Gustavo Mosquito",
+       "minuto": "59"
+      },
+      {
+       "jogador": "Gustavo Cazonatti",
+       "saiu": "Eduardo",
+       "minuto": "77"
+      },
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Japa",
+       "minuto": "85"
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Edson Carioca",
+       "minuto": "85"
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Igor Formiga",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Marcelinho, Zé Ivaldo, Marllon, Mayk; Zé Ricardo, Patrick, Picco; Pikachu, Gabriel Taliari, Alef Manga",
+     "entraram": [
+      {
+       "jogador": "Matheus Alexandre",
+       "saiu": "Marcelinho",
+       "minuto": "57"
+      },
+      {
+       "jogador": "Jajá",
+       "saiu": "Pikachu",
+       "minuto": "57"
+      },
+      {
+       "jogador": "David Braga",
+       "saiu": "Zé Ricardo",
+       "minuto": "75"
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Gabriel Taliari",
+       "minuto": "80"
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Alef Manga",
+       "minuto": "80"
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Alexandre",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Ivaldo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.opovo.com.br/agencia/jogada10/2026/07/29/mirassol-vence-o-remo-e-deixa-a-zona-de-rebaixamento.html"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
+  },
+  {
+   "id": 91000427,
+   "data": "2026-08-08T18:30:00-03:00",
+   "casa": "remo",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "22",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jajá",
+     "minuto": "2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Reinier",
+     "minuto": "33",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bernard",
+     "minuto": "37",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Taliari",
+     "minuto": "73",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/remo/remo-empata-com-o-atletico-mg-no-mangueirao-e-segue-no-z4-da-serie-a-1.1154929",
+    "https://www.folhape.com.br/esportes/atletico-mg-vira-mas-fica-apenas-no-empate-com-o-remo-pelo/505517/"
+   ],
+   "atualizado": "2026-11-20T03:46:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Matheus Alexandre, Marllon, Matheus Felipe, Mayk; Zé Welison, Picco, Zé Ricardo; Yago Pikachu, Jajá, Gabriel Taliari",
+     "entraram": [
+      {
+       "jogador": "Alef Manga",
+       "saiu": "Matheus Alexandre",
+       "minuto": ""
+      },
+      {
+       "jogador": "David Braga",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patrick",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Welison",
+        "minuto": ""
+       },
+       {
+        "jogador": "Matheus Felipe",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Éverson; Preciado, Ruan, Victor Hugo, Pascini; Cissé, Alan Franco, Maycon; Bernard, Alan Minda, Reinier",
+     "entraram": [
+      {
+       "jogador": "Thiago Borbas",
+       "saiu": "Cissé",
+       "minuto": ""
+      },
+      {
+       "jogador": "Igor Gomes",
+       "saiu": "Maycon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cuello",
+       "saiu": "Alan Minda",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cassierra",
+       "saiu": "Reinier",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alan Franco",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/remo/remo-empata-com-o-atletico-mg-no-mangueirao-e-segue-no-z4-da-serie-a-1.1154929"
+    ],
+    "atualizado": "2026-11-20T03:46:00-03:00"
+   }
   },
   {
    "id": 91000395,
