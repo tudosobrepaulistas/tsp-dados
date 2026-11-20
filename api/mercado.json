@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T04:00:00-03:00",
+ "gerado": "2026-11-20T06:57:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -11,6 +11,52 @@
   "promovido": "Subiu da base"
  },
  "itens": [
+  {
+   "id": "2026-11-19-vinicios-andrade-paulista",
+   "data": "2026-11-19",
+   "jogador": "Vinicios Andrade",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
+    "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-19",
+    "clubes_anteriores": [
+     "Sertãozinho",
+     "Marília"
+    ]
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
+  },
   {
    "id": "2026-11-19-gabriel-kenji-rio-claro",
    "data": "2026-11-19",
@@ -143,6 +189,51 @@
    },
    "comissao": true,
    "dono": "osasco-sporting"
+  },
+  {
+   "id": "2026-11-19-bryan-garcia-paulista",
+   "data": "2026-11-19",
+   "jogador": "Bryan Garcia",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 34,
+    "idade_em": "2026-11-19",
+    "clubes_anteriores": [
+     "Betim",
+     "Itabirito"
+    ]
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
   },
   {
    "id": "2026-11-18-vinicius-uniao-sao-joao",
@@ -376,6 +467,56 @@
    "ficha": {},
    "comissao": false,
    "dono": "uniao-sao-joao"
+  },
+  {
+   "id": "2026-11-18-augusto-ambrogi-taquaritinga",
+   "data": "2026-11-18",
+   "jogador": "Augusto Ambrogi",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Taquaritinga",
+    "slug": "taquaritinga",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://boainformacao.com.br/2026/11/augusto-ambrogi-assume-taquaritinga-para-serie-a4-em-2027/",
+    "https://odefensor.com.br/novo-comandante-cat-tera-augusto-ambrogi-como-treinador-para-a-temporada-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "natural": "Taubaté",
+    "idade": 46,
+    "idade_em": "2026-11-18",
+    "clubes_anteriores": [
+     "Taubaté",
+     "Mantiqueira",
+     "Joseense",
+     "Flamengo de Guarulhos",
+     "Jacareí"
+    ]
+   },
+   "comissao": true,
+   "dono": "taquaritinga"
   },
   {
    "id": "2026-11-18-andrew-santo-andre",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T04:00:00-03:00",
+ "gerado": "2026-11-20T06:57:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3425,7 +3425,7 @@
    "sairam": []
   },
   "paulista-jundiai": {
-   "atualizado": "2026-11-17",
+   "atualizado": "2026-11-19",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -3528,6 +3528,44 @@
      "de": "ASA",
      "ficha": {},
      "comissao": false
+    },
+    {
+     "nome": "Vinicios Andrade",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-19",
+      "clubes_anteriores": [
+       "Sertãozinho",
+       "Marília"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Bryan Garcia",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 34,
+      "idade_em": "2026-11-19",
+      "clubes_anteriores": [
+       "Betim",
+       "Itabirito"
+      ]
+     },
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -3554,6 +3592,18 @@
      "de": "ASA",
      "tipo": "Contratação",
      "data": "2026-11-17"
+    },
+    {
+     "nome": "Vinicios Andrade",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-19"
+    },
+    {
+     "nome": "Bryan Garcia",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-19"
     }
    ],
    "sairam": []
@@ -9195,6 +9245,45 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-19"
+    }
+   ],
+   "sairam": []
+  },
+  "taquaritinga": {
+   "atualizado": "2026-11-18",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Augusto Ambrogi",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "natural": "Taubaté",
+      "idade": 46,
+      "idade_em": "2026-11-18",
+      "clubes_anteriores": [
+       "Taubaté",
+       "Mantiqueira",
+       "Joseense",
+       "Flamengo de Guarulhos",
+       "Jacareí"
+      ]
+     },
+     "comissao": true
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Augusto Ambrogi",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
     }
    ],
    "sairam": []

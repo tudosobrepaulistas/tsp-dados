@@ -4,6 +4,34 @@
  "itens": [
   {
    "data": "2026-11-19",
+   "jogador": "Vinicios Andrade",
+   "posicao": "Volante",
+   "de": "",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
+    "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/"
+   ],
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-19",
+    "clubes_anteriores": [
+     "Sertãozinho",
+     "Marília"
+    ],
+    "fonte": "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+   },
+   "id": "2026-11-19-vinicios-andrade-paulista",
+   "atualizado": "2026-11-20T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-19",
    "jogador": "Gabriel Kenji",
    "posicao": "Lateral",
    "de": "Tanabi",
@@ -80,6 +108,33 @@
    },
    "id": "2026-11-19-dionisio-alves-osasco-sporting",
    "atualizado": "2026-11-20T03:58:00-03:00"
+  },
+  {
+   "data": "2026-11-19",
+   "jogador": "Bryan Garcia",
+   "posicao": "Lateral",
+   "de": "",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+   ],
+   "ficha": {
+    "idade": 34,
+    "idade_em": "2026-11-19",
+    "clubes_anteriores": [
+     "Betim",
+     "Itabirito"
+    ],
+    "fonte": "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+   },
+   "id": "2026-11-19-bryan-garcia-paulista",
+   "atualizado": "2026-11-20T06:57:00-03:00"
   },
   {
    "data": "2026-11-18",
@@ -225,6 +280,38 @@
     "fonte": "https://www.instagram.com/uniaosaojoaooficial/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-18",
+   "jogador": "Augusto Ambrogi",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Taquaritinga",
+   "para_slug": "taquaritinga",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "anuncio_do_clube": true,
+   "fontes": [
+    "https://boainformacao.com.br/2026/11/augusto-ambrogi-assume-taquaritinga-para-serie-a4-em-2027/",
+    "https://odefensor.com.br/novo-comandante-cat-tera-augusto-ambrogi-como-treinador-para-a-temporada-2027/"
+   ],
+   "ficha": {
+    "natural": "Taubaté",
+    "idade": 46,
+    "idade_em": "2026-11-18",
+    "clubes_anteriores": [
+     "Taubaté",
+     "Mantiqueira",
+     "Joseense",
+     "Flamengo de Guarulhos",
+     "Jacareí"
+    ],
+    "fonte": "https://boainformacao.com.br/2026/11/augusto-ambrogi-assume-taquaritinga-para-serie-a4-em-2027/"
+   },
+   "id": "2026-11-18-augusto-ambrogi-taquaritinga",
+   "atualizado": "2026-11-20T06:57:00-03:00"
   },
   {
    "de": "",
