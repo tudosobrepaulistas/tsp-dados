@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-20T09:19-03:00",
+ "gerado": "2026-11-20T10:31-03:00",
  "avisos": [
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-19T17:26-03:00",
-   "motivo": "Últimas notícias são de 09/11 (10 pré-contratos, Ricardo Guedes) e 09/11 (negociação com Johnny, sem confirmação); evergreen só a partir de 20/11",
-   "sugestao": "Confirmar com o clube se o centroavante Johnny (ex-Bandeirante) fechou e quem são os 10 pré-contratos"
-  },
-  {
-   "clube": "jabaquara",
-   "nome": "Jabaquara",
-   "quando": "2026-11-19T17:26-03:00",
-   "motivo": "Sem notícia nova em 48h; evergreen possível (guia do Estádio Espanha), mas sem foto livre no Wikimedia",
-   "sugestao": "Guia do Estádio Espanha com foto do clube; conferir se Marcos Bruno segue como técnico para a A4 2027"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "nome": "XV de Piracicaba",
-   "quando": "2026-11-19T17:26-03:00",
-   "motivo": "Última notícia é de 03/11 (8 reforços, já publicada); nada novo em 48h",
-   "sugestao": "Data da reapresentação do XV para a A2 de 2027"
-  },
   {
    "clube": "guarani",
    "nome": "Guarani",
@@ -420,6 +399,27 @@
    "quando": "2026-11-20T09:19-03:00",
    "motivo": "Evergreen da Cristiane pronto, mas as únicas fotos livres são da Agência Soccer Digital (regra: sem foto de agência); notícia do play-in foi como rascunho esperando foto",
    "sugestao": "Redator: pôr foto oficial do Santos na matéria do play-in contra o São Paulo (sábado, 11h, Brinco de Ouro)"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-20T10:31-03:00",
+   "motivo": "Sem fato novo nas últimas 24h: critérios de Soutto e reapresentação em 7/12 já estão na matéria da coletiva de 17/11; Derek já publicado em 18/11",
+   "sugestao": "Anúncio oficial do centroavante Derek (Tribuna Ribeirão diz que sai na próxima semana) e a tabela do Paulistão 2027 em dezembro"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-20T10:31-03:00",
+   "motivo": "Nenhuma notícia confirmada em 2 fontes nas últimas 24h (site oficial só traz ação social de 18/11)",
+   "sugestao": "Primeiros reforços para a Série A 2027 e renovações do elenco campeão da Série B; conferir site oficial e Diário da Região"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-20T10:31-03:00",
+   "motivo": "Nenhuma notícia nova confirmada nas últimas 24h além das já publicadas (Cauan, Alef Manga, saídas)",
+   "sugestao": "Oficialização de Alef Manga e lista de renovações para 2027; conferir site do clube e Diário do Grande ABC"
   }
  ]
 }
