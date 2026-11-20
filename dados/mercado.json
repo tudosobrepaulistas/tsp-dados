@@ -4142,6 +4142,30 @@
   },
   {
    "data": "2026-11-03",
+   "jogador": "Roberto Padilha",
+   "posicao": "Treinador de goleiros",
+   "de": "Inter de Limeira",
+   "para": "XV de Piracicaba",
+   "para_slug": "xvdepiracicaba",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://xvpiracicaba.com.br/noticias/elenco-comeca-a-pre-temporada-visando-2027-primeiro-desafio-e-a-disputa-do-paulistao-a2/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "natural": "Piracicaba (SP)",
+    "idade": 34,
+    "idade_em": "2026-11-04",
+    "fonte": "https://xvpiracicaba.com.br/noticias/elenco-comeca-a-pre-temporada-visando-2027-primeiro-desafio-e-a-disputa-do-paulistao-a2/"
+   },
+   "id": "2026-11-03-roberto-padilha-xv-de-piracicaba",
+   "atualizado": "2026-11-20T03:27:00-03:00"
+  },
+  {
+   "data": "2026-11-03",
    "jogador": "Richard Franco",
    "posicao": "Volante",
    "de": "ASA",

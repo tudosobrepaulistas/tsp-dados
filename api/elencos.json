@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T03:25:00-03:00",
+ "gerado": "2026-11-20T03:27:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -4456,6 +4456,22 @@
      "comissao": false
     },
     {
+     "nome": "Roberto Padilha",
+     "posicao": "Treinador de goleiros",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Inter de Limeira",
+     "ficha": {
+      "natural": "Piracicaba (SP)",
+      "idade": 34,
+      "idade_em": "2026-11-04"
+     },
+     "comissao": true
+    },
+    {
      "nome": "Richard Franco",
      "posicao": "Volante",
      "foto": {
@@ -4682,6 +4698,16 @@
      "de": "",
      "ficha": {},
      "comissao": false
+    },
+    {
+     "nome": "Fernando Marchiori",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {},
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [
@@ -4694,6 +4720,12 @@
     {
      "nome": "Roberto",
      "de": "Caxias",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Roberto Padilha",
+     "de": "Inter de Limeira",
      "tipo": "Contratação",
      "data": "2026-11-03"
     },
@@ -8197,7 +8229,12 @@
     {
      "nome": "Márcio Silva",
      "posicao": "Treinador de goleiros",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-marcio-silva-monte-azul.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/atleticomonteazul/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -8295,7 +8332,12 @@
     {
      "nome": "Sérgio Guedes",
      "posicao": "Treinador",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/comissao-portuguesa-santista-sergio-guedes.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/briosaoficial/",
+      "ia": true
+     },
      "comissao": true,
      "nascimento": "",
      "ficha": {

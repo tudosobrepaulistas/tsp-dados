@@ -17,6 +17,12 @@
       "Dois acessos ao Paulistão A2"
      ],
      "fonte": "https://www.instagram.com/briosaoficial/"
+    },
+    "foto": {
+     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/comissao-portuguesa-santista-sergio-guedes.webp",
+     "credito": "Montagem com IA (ilustrativa) · TSP",
+     "fonte": "https://www.instagram.com/briosaoficial/",
+     "ia": true
     }
    }
   ],
@@ -136,6 +142,16 @@
      "contrato": "até o fim de 2027",
      "fonte": "https://www.folhavitoria.com.br/esportes/abel-ferreira-renova-contrato-com-o-palmeiras-ate-fim-de-2027-nossa-historia-continua/"
     }
+   }
+  ],
+  "xvdepiracicaba": [
+   {
+    "id": "comissao-xvdepiracicaba-fernando-marchiori",
+    "nome": "Fernando Marchiori",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://xvpiracicaba.com.br/noticias/elenco-comeca-a-pre-temporada-visando-2027-primeiro-desafio-e-a-disputa-do-paulistao-a2/"
+    ]
    }
   ]
  }
