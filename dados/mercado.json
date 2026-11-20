@@ -30,6 +30,58 @@
    "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
+   "data": "2026-11-19",
+   "jogador": "Gabriel Baruffi",
+   "posicao": "Preparador físico",
+   "de": "",
+   "para": "Osasco Sporting",
+   "para_slug": "osasco-sporting",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/osascosporting.oz/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Cianorte",
+     "Atlético Monte Azul",
+     "Maringá"
+    ],
+    "titulos": [
+     "Taça Paraná 2025 (Cianorte)",
+     "Copa Paulista 2024 (Monte Azul)"
+    ],
+    "fonte": "https://www.instagram.com/osascosporting.oz/"
+   },
+   "id": "2026-11-19-gabriel-baruffi-osasco-sporting",
+   "atualizado": "2026-11-20T03:58:00-03:00"
+  },
+  {
+   "data": "2026-11-19",
+   "jogador": "Dionísio Alves",
+   "posicao": "Auxiliar técnico",
+   "de": "",
+   "para": "Osasco Sporting",
+   "para_slug": "osasco-sporting",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/osascosporting.oz/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "no_clube": "12 anos como jogador profissional (Libertadores, Brasileirão e Paulistão); formação técnica pela CBF",
+    "fonte": "https://www.instagram.com/osascosporting.oz/"
+   },
+   "id": "2026-11-19-dionisio-alves-osasco-sporting",
+   "atualizado": "2026-11-20T03:58:00-03:00"
+  },
+  {
    "data": "2026-11-18",
    "jogador": "Vinicius",
    "posicao": "Meia",
@@ -91,6 +143,31 @@
     "fonte": "https://www.instagram.com/atleticomonteazul/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-18",
+   "jogador": "Kinho Forgiarini",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Osasco Sporting",
+   "para_slug": "osasco-sporting",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/osascosporting.oz/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "titulos": [
+     "Vice da Série A3 2025 e acesso com o Monte Azul",
+     "Acesso à A4 em 2026 com o América de Rio Preto"
+    ],
+    "fonte": "https://www.instagram.com/osascosporting.oz/"
+   },
+   "id": "2026-11-18-kinho-forgiarini-osasco-sporting",
+   "atualizado": "2026-11-20T03:58:00-03:00"
   },
   {
    "de": "",
@@ -6677,10 +6754,15 @@
    "anuncio_do_clube": true,
    "obs": "Treinava o sub-20 do clube e comanda o profissional na Série A4 2027",
    "fontes": [
-    "https://www.futebolinterior.com.br/uniao-suzano-confirma-tassio-lopes-no-paulistao-a4-2027/"
+    "https://www.futebolinterior.com.br/uniao-suzano-confirma-tassio-lopes-no-paulistao-a4-2027/",
+    "https://www.instagram.com/uniaosuzano/"
    ],
    "id": "2026-10-07-tassio-lopes-uniao-suzano",
-   "atualizado": "2026-11-17T06:59:00-03:00"
+   "ficha": {
+    "no_clube": "Assumiu o sub-20 na zona de rebaixamento e levou o time ao mata-mata do Paulista; segue no profissional em 2027",
+    "fonte": "https://www.instagram.com/uniaosuzano/"
+   },
+   "atualizado": "2026-11-20T03:58:00-03:00"
   },
   {
    "data": "2026-10-07",

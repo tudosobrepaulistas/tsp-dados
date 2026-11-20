@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T03:56:00-03:00",
+ "gerado": "2026-11-20T03:58:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -4309,7 +4309,9 @@
      "foto": null,
      "numeros": null,
      "selos": [],
-     "ficha": {},
+     "ficha": {
+      "no_clube": "Assumiu o sub-20 na zona de rebaixamento e levou o time ao mata-mata do Paulista; segue no profissional em 2027"
+     },
      "comissao": true
     }
    ],
@@ -9109,6 +9111,87 @@
     }
    ],
    "chegaram": [],
+   "sairam": []
+  },
+  "osasco-sporting": {
+   "atualizado": "2026-11-19",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Kinho Forgiarini",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "titulos": [
+       "Vice da Série A3 2025 e acesso com o Monte Azul",
+       "Acesso à A4 em 2026 com o América de Rio Preto"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Gabriel Baruffi",
+     "posicao": "Preparador físico",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "clubes_anteriores": [
+       "Cianorte",
+       "Atlético Monte Azul",
+       "Maringá"
+      ],
+      "titulos": [
+       "Taça Paraná 2025 (Cianorte)",
+       "Copa Paulista 2024 (Monte Azul)"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Dionísio Alves",
+     "posicao": "Auxiliar técnico",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "no_clube": "12 anos como jogador profissional (Libertadores, Brasileirão e Paulistão); formação técnica pela CBF"
+     },
+     "comissao": true
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Kinho Forgiarini",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
+    },
+    {
+     "nome": "Gabriel Baruffi",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-19"
+    },
+    {
+     "nome": "Dionísio Alves",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-19"
+    }
+   ],
    "sairam": []
   },
   "portuguesasantista": {
