@@ -108,6 +108,12 @@
   "gols": 2
  },
  {
+  "jogador": "Juninho",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 2
+ },
+ {
   "jogador": "Lucho Acosta",
   "time": "Fluminense",
   "time_id": 900005,
@@ -252,6 +258,12 @@
   "gols": 1
  },
  {
+  "jogador": "Brítez",
+  "time": "Vitória",
+  "time_id": 900014,
+  "gols": 1
+ },
+ {
   "jogador": "Cano",
   "time": "Fluminense",
   "time_id": 900005,
@@ -267,6 +279,12 @@
   "jogador": "Cauly",
   "time": "São Paulo",
   "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Colidio",
+  "time": "Vasco",
+  "time_id": 900013,
   "gols": 1
  },
  {
@@ -420,12 +438,6 @@
   "gols": 1
  },
  {
-  "jogador": "Juninho",
-  "time": "Internacional",
-  "time_id": 900016,
-  "gols": 1
- },
- {
   "jogador": "Juninho Capixaba",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
@@ -576,6 +588,12 @@
   "gols": 1
  },
  {
+  "jogador": "Renê",
+  "time": "Vitória",
+  "time_id": 900014,
+  "gols": 1
+ },
+ {
   "jogador": "Rodrigo Nestor",
   "time": "Bahia",
   "time_id": 900007,
@@ -603,6 +621,12 @@
   "jogador": "Thaciano",
   "time": "Santos",
   "time_id": 900008,
+  "gols": 1
+ },
+ {
+  "jogador": "Thiago Mendes",
+  "time": "Vasco",
+  "time_id": 900013,
   "gols": 1
  },
  {

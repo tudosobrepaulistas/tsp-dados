@@ -8373,22 +8373,43 @@
    "data": "2026-11-19T19:30:00-03:00",
    "casa": "vasco",
    "fora": "internacional",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "São Januário",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Thiago Mendes",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Juninho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Colidio",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-bate-internacional-e-empurra-equipe-gaucha-para-zona-de-rebaixamento/",
+    "https://www.gazetaesportiva.com/times/vasco/vasco-vence-elimina-risco-de-rebaixamento-e-deixa-inter-no-z4/"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-19T22:10:00-03:00",
    "prejogo": {
     "analise": [
      "Vasco e Internacional se enfrentam na quinta-feira (19/11), às 19h30, em São Januário, no Rio de Janeiro, pela 35ª rodada da Série A. O Inter é o 16º, com 38 pontos, o primeiro time fora da zona de rebaixamento, só um ponto à frente de Corinthians e Grêmio (37). O Vasco é o 11º, com 44 pontos, e quer se afastar de vez da parte de baixo.",
@@ -8439,6 +8460,64 @@
      ],
      "atualizado": "2026-11-19T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Puma Rodríguez, Saldívia, Robert Renan, Cuiabano; Lescano, Sosa, Thiago Mendes; Andrés Gómez, Colidio, Bruno Duarte",
+     "entraram": [
+      {
+       "jogador": "Paulo Henrique",
+       "saiu": "Puma Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jair",
+       "saiu": "Lescano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hinestroza",
+       "saiu": "Colidio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Bruno Duarte",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Kauan; Bruno Gomes, Mercado, Juninho; Aguirre, Villagra, Bruno Henrique, Victor Gabriel; Alerrandro, Vitinho, Alan Patrick",
+     "entraram": [
+      {
+       "jogador": "Paulinho Paula",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ronaldo",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carbonero",
+       "saiu": "Victor Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Alerrandro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/vasco/vasco-vence-elimina-risco-de-rebaixamento-e-deixa-inter-no-z4/"
+    ],
+    "atualizado": "2026-11-19T22:10:00-03:00"
    }
   },
   {
@@ -8446,22 +8525,43 @@
    "data": "2026-11-19T19:30:00-03:00",
    "casa": "vitoria",
    "fora": "bragantino",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Barradão",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Brítez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Renê",
+     "minuto": "23",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gean",
+     "minuto": "27",
+     "tipo": "contra"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-bate-o-rb-bragantino-encerra-jejum-e-ganha-folego-contra-o-z4/",
+    "https://www.terra.com.br/esportes/futebol/vitoria-vence-o-bragantino-e-se-afasta-do-z4-do-brasileirao,a536b729d1f705ff471f00e1d67c6b09vylqkxb1.html"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-19T22:10:00-03:00",
    "prejogo": {
     "analise": [
      "Vitória e Red Bull Bragantino se enfrentam na quinta-feira (19/11), às 19h30, no Barradão, em Salvador, pela 35ª rodada da Série A. O Vitória é o 15º, com 38 pontos, mesma pontuação do Internacional e só um ponto acima de Corinthians e Grêmio (37), que abrem a zona de rebaixamento. O Bragantino é o 8º, com 47 pontos, e mira uma vaga na próxima Libertadores.",
@@ -8508,6 +8608,74 @@
      ],
      "atualizado": "2026-11-19T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Lucas Arcanjo; Mateus Silva, Cacá, Brítez, Jamerson; Baralhas, Emmanuel Martínez, Matheuzinho, Erick; Tarzia, Renê",
+     "entraram": [
+      {
+       "jogador": "Caique Gonçalves",
+       "saiu": "Matheuzinho",
+       "minuto": "60"
+      },
+      {
+       "jogador": "Marinho",
+       "saiu": "Erick",
+       "minuto": "60"
+      },
+      {
+       "jogador": "Gean",
+       "saiu": "Mateus Silva",
+       "minuto": "69"
+      },
+      {
+       "jogador": "Zé Vitor",
+       "saiu": "Baralhas",
+       "minuto": "75"
+      },
+      {
+       "jogador": "Renato Kayzer",
+       "saiu": "Renê",
+       "minuto": "75"
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Sant'Anna, Gustavo Marques, Guzmán Rodríguez, Juninho Capixaba; Fabinho, Eric Ramires, Eduardo Sasha; Herrera, Wallace Yan, Fernando",
+     "entraram": [
+      {
+       "jogador": "Alix Vinícius",
+       "saiu": "Guzmán Rodríguez",
+       "minuto": "46"
+      },
+      {
+       "jogador": "Gustavinho",
+       "saiu": "Herrera",
+       "minuto": "46"
+      },
+      {
+       "jogador": "Mosquera",
+       "saiu": "Fabinho",
+       "minuto": "68"
+      },
+      {
+       "jogador": "Vinicinho",
+       "saiu": "Fernando",
+       "minuto": "68"
+      },
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Eric Ramires",
+       "minuto": "77"
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.terra.com.br/esportes/futebol/vitoria-vence-o-bragantino-e-se-afasta-do-z4-do-brasileirao,a536b729d1f705ff471f00e1d67c6b09vylqkxb1.html"
+    ],
+    "atualizado": "2026-11-19T22:10:00-03:00"
    }
   },
   {

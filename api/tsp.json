@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T18:26:00-03:00",
+ "gerado": "2026-11-19T22:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -123,12 +123,23 @@
      "id": 900010,
      "nome": "Red Bull Bragantino",
      "pts": 47,
-     "j": 34,
+     "j": 35,
      "v": 13,
      "e": 8,
-     "d": 13,
-     "gp": 44,
-     "gc": 39
+     "d": 14,
+     "gp": 45,
+     "gc": 41
+    },
+    {
+     "id": 900013,
+     "nome": "Vasco",
+     "pts": 47,
+     "j": 35,
+     "v": 13,
+     "e": 8,
+     "d": 14,
+     "gp": 47,
+     "gc": 51
     },
     {
      "id": 900009,
@@ -140,17 +151,6 @@
      "d": 14,
      "gp": 39,
      "gc": 39
-    },
-    {
-     "id": 900013,
-     "nome": "Vasco",
-     "pts": 44,
-     "j": 34,
-     "v": 12,
-     "e": 8,
-     "d": 14,
-     "gp": 45,
-     "gc": 50
     },
     {
      "id": 900011,
@@ -172,6 +172,17 @@
      "e": 9,
      "d": 15,
      "gp": 40,
+     "gc": 52
+    },
+    {
+     "id": 900014,
+     "nome": "Vitória",
+     "pts": 41,
+     "j": 35,
+     "v": 11,
+     "e": 8,
+     "d": 16,
+     "gp": 37,
      "gc": 52
     },
     {
@@ -197,26 +208,15 @@
      "gc": 42
     },
     {
-     "id": 900014,
-     "nome": "Vitória",
-     "pts": 38,
-     "j": 34,
-     "v": 10,
-     "e": 8,
-     "d": 16,
-     "gp": 35,
-     "gc": 51
-    },
-    {
      "id": 900016,
      "nome": "Internacional",
      "pts": 38,
-     "j": 34,
+     "j": 35,
      "v": 9,
      "e": 11,
-     "d": 14,
-     "gp": 38,
-     "gc": 42
+     "d": 15,
+     "gp": 39,
+     "gc": 44
     },
     {
      "id": 900017,
@@ -253,22 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000152,
-     "rodada": "35",
-     "data": "2026-11-19T19:30",
-     "casa": 900013,
-     "fora": 900016,
-     "a_confirmar": false
-    },
-    {
-     "id": 91000153,
-     "rodada": "35",
-     "data": "2026-11-19T19:30",
-     "casa": 900014,
-     "fora": 900010,
-     "a_confirmar": false
-    },
     {
      "id": 91000154,
      "rodada": "35",
@@ -1178,6 +1162,18 @@
      900007,
      0,
      0
+    ],
+    [
+     900013,
+     900016,
+     2,
+     1
+    ],
+    [
+     900014,
+     900010,
+     2,
+     1
     ]
    ]
   }
@@ -12098,14 +12094,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-bate-internacional-e-empurra-equipe-gaucha-para-zona-de-rebaixamento/",
+    "https://www.gazetaesportiva.com/times/vasco/vasco-vence-elimina-risco-de-rebaixamento-e-deixa-inter-no-z4/"
    ],
    "fixture": {
     "id": 91000152,
     "timestamp": 1795127400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "São Januário",
@@ -12127,8 +12125,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -12182,36 +12180,131 @@
      "atualizado": "2026-11-19T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 44,
-    "empate": 24,
-    "fora": 32,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.66,
-     1.37
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Puma Rodríguez, Saldívia, Robert Renan, Cuiabano; Lescano, Sosa, Thiago Mendes; Andrés Gómez, Colidio, Bruno Duarte",
+     "entraram": [
+      {
+       "jogador": "Paulo Henrique",
+       "saiu": "Puma Rodríguez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jair",
+       "saiu": "Lescano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hinestroza",
+       "saiu": "Colidio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Bruno Duarte",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Kauan; Bruno Gomes, Mercado, Juninho; Aguirre, Villagra, Bruno Henrique, Victor Gabriel; Alerrandro, Vitinho, Alan Patrick",
+     "entraram": [
+      {
+       "jogador": "Paulinho Paula",
+       "saiu": "Juninho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ronaldo",
+       "saiu": "Bruno Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carbonero",
+       "saiu": "Victor Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Alerrandro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/vasco/vasco-vence-elimina-risco-de-rebaixamento-e-deixa-inter-no-z4/"
     ],
-    "base": [
-     13,
-     25
-    ]
+    "atualizado": "2026-11-19T22:10:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Thiago Mendes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Juninho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Colidio"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-bate-o-rb-bragantino-encerra-jejum-e-ganha-folego-contra-o-z4/",
+    "https://www.terra.com.br/esportes/futebol/vitoria-vence-o-bragantino-e-se-afasta-do-z4-do-brasileirao,a536b729d1f705ff471f00e1d67c6b09vylqkxb1.html"
    ],
    "fixture": {
     "id": 91000153,
     "timestamp": 1795127400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Barradão",
@@ -12233,8 +12326,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 2,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -12284,22 +12377,125 @@
      "atualizado": "2026-11-19T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 30,
-    "empate": 25,
-    "fora": 45,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.22,
-     1.56
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Lucas Arcanjo; Mateus Silva, Cacá, Brítez, Jamerson; Baralhas, Emmanuel Martínez, Matheuzinho, Erick; Tarzia, Renê",
+     "entraram": [
+      {
+       "jogador": "Caique Gonçalves",
+       "saiu": "Matheuzinho",
+       "minuto": "60"
+      },
+      {
+       "jogador": "Marinho",
+       "saiu": "Erick",
+       "minuto": "60"
+      },
+      {
+       "jogador": "Gean",
+       "saiu": "Mateus Silva",
+       "minuto": "69"
+      },
+      {
+       "jogador": "Zé Vitor",
+       "saiu": "Baralhas",
+       "minuto": "75"
+      },
+      {
+       "jogador": "Renato Kayzer",
+       "saiu": "Renê",
+       "minuto": "75"
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Sant'Anna, Gustavo Marques, Guzmán Rodríguez, Juninho Capixaba; Fabinho, Eric Ramires, Eduardo Sasha; Herrera, Wallace Yan, Fernando",
+     "entraram": [
+      {
+       "jogador": "Alix Vinícius",
+       "saiu": "Guzmán Rodríguez",
+       "minuto": "46"
+      },
+      {
+       "jogador": "Gustavinho",
+       "saiu": "Herrera",
+       "minuto": "46"
+      },
+      {
+       "jogador": "Mosquera",
+       "saiu": "Fabinho",
+       "minuto": "68"
+      },
+      {
+       "jogador": "Vinicinho",
+       "saiu": "Fernando",
+       "minuto": "68"
+      },
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Eric Ramires",
+       "minuto": "77"
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.terra.com.br/esportes/futebol/vitoria-vence-o-bragantino-e-se-afasta-do-z4-do-brasileirao,a536b729d1f705ff471f00e1d67c6b09vylqkxb1.html"
     ],
-    "base": [
-     12,
-     13
-    ]
+    "atualizado": "2026-11-19T22:10:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Brítez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 23,
+      "extra": null,
+      "texto": "23"
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Renê"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 27,
+      "extra": null,
+      "texto": "27"
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Gean"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -12567,7 +12763,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.72,
-     1.02
+     1.01
     ],
     "base": [
      15,
@@ -12722,7 +12918,7 @@
    "previsao": {
     "casa": 67,
     "empate": 19,
-    "fora": 14,
+    "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
      2.13,
@@ -12832,17 +13028,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
-    "empate": 20,
-    "fora": 16,
-    "placar": "2x0",
+    "casa": 60,
+    "empate": 21,
+    "fora": 19,
+    "placar": "2x1",
     "gols_esperados": [
-     2.15,
-     0.99
+     2.06,
+     1.09
     ],
     "base": [
-     13,
-     13
+     14,
+     14
     ]
    },
    "events": []
@@ -12888,17 +13084,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 67,
-    "empate": 19,
-    "fora": 14,
+    "casa": 64,
+    "empate": 20,
+    "fora": 16,
     "placar": "2x0",
     "gols_esperados": [
-     2.22,
-     0.92
+     2.14,
+     0.99
     ],
     "base": [
-     25,
-     12
+     26,
+     13
     ]
    },
    "events": []
@@ -12946,7 +13142,7 @@
    "previsao": {
     "casa": 48,
     "empate": 27,
-    "fora": 26,
+    "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
      1.43,
@@ -13062,7 +13258,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.76,
-     2.04
+     2.03
     ],
     "base": [
      15,
@@ -13168,7 +13364,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
+    "casa": 58,
     "empate": 25,
     "fora": 18,
     "placar": "1x0",
@@ -36960,17 +37156,31 @@
       900010,
       "Red Bull Bragantino",
       47,
-      34,
+      35,
       13,
       8,
-      13,
-      5,
+      14,
+      4,
       "",
-      44,
-      39
+      45,
+      41
      ],
      [
       10,
+      900013,
+      "Vasco",
+      47,
+      35,
+      13,
+      8,
+      14,
+      -4,
+      "",
+      47,
+      51
+     ],
+     [
+      11,
       900009,
       "São Paulo",
       44,
@@ -36982,20 +37192,6 @@
       "",
       39,
       39
-     ],
-     [
-      11,
-      900013,
-      "Vasco",
-      44,
-      34,
-      12,
-      8,
-      14,
-      -5,
-      "",
-      45,
-      50
      ],
      [
       12,
@@ -37027,6 +37223,20 @@
      ],
      [
       14,
+      900014,
+      "Vitória",
+      41,
+      35,
+      11,
+      8,
+      16,
+      -15,
+      "",
+      37,
+      52
+     ],
+     [
+      15,
       900015,
       "Mirassol",
       41,
@@ -37040,7 +37250,7 @@
       48
      ],
      [
-      15,
+      16,
       900018,
       "Corinthians",
       40,
@@ -37054,32 +37264,18 @@
       42
      ],
      [
-      16,
-      900014,
-      "Vitória",
-      38,
-      34,
-      10,
-      8,
-      16,
-      -16,
-      "",
-      35,
-      51
-     ],
-     [
       17,
       900016,
       "Internacional",
       38,
-      34,
+      35,
       9,
       11,
-      14,
-      -4,
+      15,
+      -5,
       "",
-      38,
-      42
+      39,
+      44
      ],
      [
       18,
@@ -37524,6 +37720,12 @@
     "gols": 2
    },
    {
+    "jogador": "Juninho",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 2
+   },
+   {
     "jogador": "Lucho Acosta",
     "time": "Fluminense",
     "time_id": 900005,
@@ -37668,6 +37870,12 @@
     "gols": 1
    },
    {
+    "jogador": "Brítez",
+    "time": "Vitória",
+    "time_id": 900014,
+    "gols": 1
+   },
+   {
     "jogador": "Cano",
     "time": "Fluminense",
     "time_id": 900005,
@@ -37683,6 +37891,12 @@
     "jogador": "Cauly",
     "time": "São Paulo",
     "time_id": 900009,
+    "gols": 1
+   },
+   {
+    "jogador": "Colidio",
+    "time": "Vasco",
+    "time_id": 900013,
     "gols": 1
    },
    {
@@ -37836,12 +38050,6 @@
     "gols": 1
    },
    {
-    "jogador": "Juninho",
-    "time": "Internacional",
-    "time_id": 900016,
-    "gols": 1
-   },
-   {
     "jogador": "Juninho Capixaba",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
@@ -37992,6 +38200,12 @@
     "gols": 1
    },
    {
+    "jogador": "Renê",
+    "time": "Vitória",
+    "time_id": 900014,
+    "gols": 1
+   },
+   {
     "jogador": "Rodrigo Nestor",
     "time": "Bahia",
     "time_id": 900007,
@@ -38019,6 +38233,12 @@
     "jogador": "Thaciano",
     "time": "Santos",
     "time_id": 900008,
+    "gols": 1
+   },
+   {
+    "jogador": "Thiago Mendes",
+    "time": "Vasco",
+    "time_id": 900013,
     "gols": 1
    },
    {
