@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T06:57:00-03:00",
+ "gerado": "2026-11-20T03:20:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -50,7 +50,59 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-sao-joao"
+  },
+  {
+   "id": "2026-11-18-marcio-silva-monte-azul",
+   "data": "2026-11-18",
+   "jogador": "Márcio Silva",
+   "posicao": "Treinador de goleiros",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Monte Azul",
+    "slug": "monteazul",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/atleticomonteazul/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "natural": "Londrina (PR)",
+    "idade": 48,
+    "idade_em": "2026-11-18",
+    "clubes_anteriores": [
+     "Operário-PR",
+     "Rio Preto",
+     "Cascavel",
+     "Operário-MT",
+     "Porto Velho",
+     "Águia Negra"
+    ]
+   },
+   "comissao": true,
+   "dono": "monteazul"
   },
   {
    "id": "2026-11-18-guilherme-matheus-inter-de-bebedouro",
@@ -97,6 +149,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -138,6 +192,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-sao-joao"
   },
   {
@@ -185,6 +241,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -226,6 +284,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -273,6 +333,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -309,6 +371,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "saocaetano"
   },
   {
@@ -345,6 +409,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "portuguesa"
   },
   {
@@ -390,6 +456,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -435,6 +503,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "paulista-jundiai"
   },
   {
@@ -478,6 +548,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -514,6 +586,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "saojose"
   },
   {
@@ -550,6 +624,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "saojose"
   },
   {
@@ -586,6 +662,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -632,6 +710,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -673,6 +753,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "saojose"
   },
   {
@@ -714,6 +796,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -763,6 +847,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -812,6 +898,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -853,6 +941,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -905,6 +995,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -949,6 +1041,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "votuporanguense"
   },
   {
@@ -998,6 +1092,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -1047,6 +1143,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -1075,7 +1173,12 @@
     "b",
     "d1"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-heron-botafogo-sp.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/botafogosp/",
+    "ia": true
+   },
    "fontes": [
     "https://acidadeon.com/ribeiraopreto/esportes/botafogo-anuncia-dois-reforcos-para-a-temporada-2027",
     "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/"
@@ -1094,6 +1197,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -1122,7 +1227,12 @@
     "b",
     "d1"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-gustavo-barreto-botafogo-sp.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/botafogosp/",
+    "ia": true
+   },
    "fontes": [
     "https://acidadeon.com/ribeiraopreto/esportes/botafogo-anuncia-dois-reforcos-para-a-temporada-2027",
     "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/"
@@ -1142,6 +1252,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -1183,6 +1295,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -1219,6 +1333,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "independente"
   },
   {
@@ -1268,6 +1384,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -1314,6 +1432,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "paulista-jundiai"
   },
   {
@@ -1352,7 +1472,59 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
+  },
+  {
+   "id": "2026-11-15-cristiano-fonseca-monte-azul",
+   "data": "2026-11-15",
+   "jogador": "Cristiano Fonseca",
+   "posicao": "Preparador físico",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Azuriz",
+    "slug": "",
+    "id": 900050,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Monte Azul",
+    "slug": "monteazul",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/atleticomonteazul/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "natural": "Porto Alegre (RS)",
+    "clubes_anteriores": [
+     "Azuriz (2026)",
+     "Botafogo-SP (2023 a 2025)",
+     "Flamengo de Arcoverde",
+     "Independente de Tucuruí",
+     "Palmas",
+     "Imperatriz",
+     "Olímpia",
+     "Francana"
+    ]
+   },
+   "comissao": true,
+   "dono": "monteazul"
   },
   {
    "id": "2026-11-13-wesley-ituano",
@@ -1388,6 +1560,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -1425,6 +1599,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "penapolense"
   },
   {
@@ -1466,6 +1642,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -1517,6 +1695,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -1662,6 +1842,8 @@
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/luketa/715512",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -1707,6 +1889,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -1758,7 +1942,54 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
+  },
+  {
+   "id": "2026-11-13-gilsinho-monte-azul",
+   "data": "2026-11-13",
+   "jogador": "Gilsinho",
+   "posicao": "Auxiliar técnico",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Segue como auxiliar técnico permanente em 2027",
+   "de": {
+    "nome": "Monte Azul",
+    "slug": "monteazul",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Monte Azul",
+    "slug": "monteazul",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/atleticomonteazul/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "natural": "Monte Azul Paulista (SP)",
+    "no_clube": "Jogou no Azulão em 2002, 2005 e de 2020 a 2022; na comissão técnica fixa desde 2023",
+    "titulos": [
+     "Copa Paulista 2024",
+     "Acesso à Série A2 em 2025"
+    ]
+   },
+   "comissao": true,
+   "dono": "monteazul"
   },
   {
    "id": "2026-11-13-gabriel-gasparotto-ituano",
@@ -1803,6 +2034,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -1855,6 +2088,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -1901,6 +2136,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -1953,6 +2190,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -1994,6 +2233,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -2049,6 +2290,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -2090,13 +2333,15 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
    "id": "2026-11-12-jonathan-botafogo-sp",
    "data": "2026-11-12",
    "jogador": "Jonathan",
-   "posicao": "",
+   "posicao": "Lateral",
    "tipo": "renovacao",
    "tipo_nome": "Renovação",
    "situacao": "oficial",
@@ -2118,7 +2363,12 @@
     "b",
     "d1"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-jonathan-botafogo-sp.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/botafogosp/",
+    "ia": true
+   },
    "fontes": [
     "https://www.bra1.com.br/esportes/id-725012/jonathan_renova_com_o_botafogo_sp_ate_2027_e_mira_vitoria_sobre_o_juventude",
     "https://cbnribeirao.com.br/entre-renovacoes-de-atletas-botafogo-sp-mira-preparacao-para-atingir-objetivo-de-chegar-no-top-10-da-serie-b/"
@@ -2139,6 +2389,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "botafogosp"
   },
   {
@@ -2196,6 +2448,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -2237,6 +2491,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -2283,6 +2539,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -2335,6 +2593,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -2384,6 +2644,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -2433,6 +2695,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -2476,6 +2740,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -2522,6 +2788,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "paulista-jundiai"
   },
   {
@@ -2558,6 +2826,10 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {
+    "no_clube": "Treinou o Azulão em 2018; voltou em 2026 e garantiu a permanência na Série A2"
+   },
+   "comissao": true,
    "dono": "monteazul"
   },
   {
@@ -2594,6 +2866,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -2645,6 +2919,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -2700,6 +2976,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -2746,6 +3024,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -2782,6 +3062,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "bandeirante"
   },
   {
@@ -2818,6 +3100,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "portuguesa"
   },
   {
@@ -2865,6 +3149,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -2901,6 +3187,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "portuguesa"
   },
   {
@@ -2944,6 +3232,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "portuguesa"
   },
   {
@@ -2992,6 +3282,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "bandeirante"
   },
   {
@@ -3034,6 +3326,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -3087,6 +3381,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -3138,6 +3434,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -3187,6 +3485,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -3233,6 +3533,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "bandeirante"
   },
   {
@@ -3285,6 +3587,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -3338,6 +3642,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -3393,6 +3699,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -3429,6 +3737,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "portuguesa"
   },
   {
@@ -3483,6 +3793,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -3531,6 +3843,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -3579,6 +3893,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -3629,6 +3945,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -3674,6 +3992,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -3724,6 +4044,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -3772,6 +4094,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -3823,6 +4147,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -3864,6 +4190,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -3907,6 +4235,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -3954,6 +4284,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -4003,6 +4335,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "paulista-jundiai"
   },
   {
@@ -4052,6 +4386,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -4100,6 +4436,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -4152,6 +4490,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -4188,6 +4528,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -4235,6 +4577,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -4271,6 +4615,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "ituano"
   },
   {
@@ -4319,6 +4665,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "votuporanguense"
   },
   {
@@ -4371,7 +4719,65 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
+  },
+  {
+   "id": "2026-11-07-darlan-botafogo-sp",
+   "data": "2026-11-07",
+   "jogador": "Darlan",
+   "posicao": "Zagueiro",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Contrato até dezembro de 2029",
+   "de": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-07-darlan-botafogo-sp.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/botafogosp/",
+    "ia": true
+   },
+   "fontes": [
+    "https://botafogofutebolsa.com.br/botafogo-renova-com-o-zagueiro-darlan-ate-2029",
+    "https://www.tribunaribeirao.com.br/botafogo-perde-brey-e-maciel-mas-traz-dois-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 2,
+    "gols": 0,
+    "minutos": 180,
+    "minutos_estimados": false,
+    "clube": "Botafogo-SP",
+    "clubes": [
+     "Botafogo-SP"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
+   "dono": "botafogosp"
   },
   {
    "id": "2026-11-06-wagner-inter-de-bebedouro",
@@ -4412,6 +4818,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -4457,6 +4865,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -4504,6 +4914,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -4547,6 +4959,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -4588,6 +5002,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -4636,6 +5052,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -4672,6 +5090,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -4719,6 +5139,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -4769,6 +5191,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -4805,6 +5229,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -4853,6 +5279,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xv-de-jau"
   },
   {
@@ -4959,6 +5387,8 @@
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -5002,6 +5432,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -5047,6 +5479,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -5088,6 +5522,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-sao-joao"
   },
   {
@@ -5124,6 +5560,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "tanabi"
   },
   {
@@ -5160,6 +5598,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "tanabi"
   },
   {
@@ -5209,6 +5649,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -5261,6 +5703,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -5297,6 +5741,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "tanabi"
   },
   {
@@ -5334,6 +5780,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -5370,6 +5818,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "tanabi"
   },
   {
@@ -5417,6 +5867,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -5460,6 +5912,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "tanabi"
   },
   {
@@ -5496,6 +5950,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "tanabi"
   },
   {
@@ -5532,6 +5988,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "tanabi"
   },
   {
@@ -5581,6 +6039,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -5618,6 +6078,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -5660,6 +6122,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "rioclaro"
   },
   {
@@ -5709,6 +6173,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -5761,6 +6227,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -5811,6 +6279,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -5852,6 +6322,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -5903,6 +6375,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -5956,6 +6430,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "penapolense"
   },
   {
@@ -5997,6 +6473,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -6038,6 +6516,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -6088,6 +6568,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -6136,6 +6618,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "taubate"
   },
   {
@@ -6177,6 +6661,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -6213,6 +6699,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -6260,6 +6748,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -6306,6 +6796,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -6347,6 +6839,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -6400,6 +6894,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -6456,6 +6952,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -6510,6 +7008,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -6556,6 +7056,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -6602,6 +7104,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "bandeirante"
   },
   {
@@ -6653,6 +7157,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -6689,6 +7195,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -6730,6 +7238,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -6776,6 +7286,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -6812,6 +7324,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -6868,6 +7382,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -6919,6 +7435,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -6955,6 +7473,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -7006,6 +7526,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -7047,6 +7569,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -7089,6 +7613,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -7140,6 +7666,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -7181,6 +7709,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -7232,6 +7762,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -7273,6 +7805,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "marilia"
   },
   {
@@ -7338,6 +7872,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -7385,6 +7921,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -7426,6 +7964,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -7462,6 +8002,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -7498,6 +8040,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "uniao-barbarense"
   },
   {
@@ -7549,6 +8093,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -7601,6 +8147,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -7642,6 +8190,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -7689,6 +8239,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -7736,6 +8288,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -7789,6 +8343,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -7831,6 +8387,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -7888,6 +8446,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -7936,6 +8496,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "inter-de-bebedouro"
   },
   {
@@ -7972,6 +8534,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "vocem"
   },
   {
@@ -8013,6 +8577,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -8182,6 +8748,8 @@
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/luiz-henrique/562358",
+   "ficha": {},
+   "comissao": false,
    "dono": "ituano"
   },
   {
@@ -8233,6 +8801,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -8285,6 +8855,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -8326,6 +8898,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -8377,6 +8951,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -8418,6 +8994,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -8454,6 +9032,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "barretos"
   },
   {
@@ -8501,6 +9081,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "barretos"
   },
   {
@@ -8546,6 +9128,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "barretos"
   },
   {
@@ -8587,6 +9171,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "uniao-sao-joao"
   },
   {
@@ -8640,6 +9226,8 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "santoandre"
   },
   {
@@ -8681,6 +9269,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "lemense"
   },
   {
@@ -8722,6 +9312,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -8758,6 +9350,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "independente"
   },
   {
@@ -8794,6 +9388,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "barretos"
   },
   {
@@ -8831,6 +9427,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "primavera"
   },
   {
@@ -8872,6 +9470,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
    "dono": "xvdepiracicaba"
   },
   {
@@ -8908,6 +9508,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "uniao-suzano"
   },
   {
@@ -8950,6 +9552,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "santoandre"
   },
   {
@@ -8986,6 +9590,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "uniao-barbarense"
   },
   {
@@ -9022,6 +9628,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "rio-preto"
   },
   {
@@ -9058,6 +9666,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "paulista-jundiai"
   },
   {
@@ -9094,6 +9704,8 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "bandeirante"
   }
  ]

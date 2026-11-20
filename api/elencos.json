@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T06:57:00-03:00",
+ "gerado": "2026-11-20T03:20:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -131,8 +131,19 @@
       "clubes": [
        "Botafogo-SP"
       ],
-      "fonte": "Base TSP (fichas técnicas conferidas)"
-     }
+      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "escudos": {}
+     },
+     "renovou": true,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-07-darlan-botafogo-sp.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/botafogosp/",
+      "ia": true
+     },
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Henrique Teles",
@@ -169,8 +180,15 @@
       "escudos": {}
      },
      "renovou": true,
-     "foto": null,
-     "selos": []
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-jonathan-botafogo-sp.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/botafogosp/",
+      "ia": true
+     },
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gabriel Inocêncio",
@@ -375,7 +393,12 @@
     {
      "nome": "Heron",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-heron-botafogo-sp.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/botafogosp/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "jogos": 31,
@@ -389,12 +412,19 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Londrina"
+     "de": "Londrina",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Barreto",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-gustavo-barreto-botafogo-sp.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/botafogosp/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/gustavo-barreto/421710",
@@ -409,7 +439,9 @@
      },
      "selos": [],
      "nascimento": "1995-12-10",
-     "de": "América-MG"
+     "de": "América-MG",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -3105,7 +3137,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Pedro Nagel",
@@ -3125,7 +3159,9 @@
      },
      "selos": [],
      "nascimento": "2002-10-14",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Vitão",
@@ -3133,7 +3169,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Pedro Scaramussa",
@@ -3153,7 +3191,9 @@
       "assistencias": 0,
       "escudos": {}
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Foguinho",
@@ -3171,7 +3211,9 @@
       "assistencias": 0,
       "escudos": {}
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -3197,7 +3239,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Marília"
+     "de": "Marília",
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Lucas Batatinha",
@@ -3218,7 +3262,9 @@
        "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
       }
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Matheus Abreu",
@@ -3238,7 +3284,9 @@
      },
      "selos": [],
      "nascimento": "1998-03-25",
-     "de": "Marília"
+     "de": "Marília",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Dérick",
@@ -3258,7 +3306,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Marília"
+     "de": "Marília",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Léo Príncipe",
@@ -3277,7 +3327,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "ASA"
+     "de": "ASA",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -3321,7 +3373,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Vinicius Oliveira",
@@ -3331,7 +3385,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Tiago Barbosa",
@@ -3352,7 +3408,9 @@
      },
      "selos": [],
      "nascimento": "2001-06-25",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Sandro Krett",
@@ -3372,7 +3430,9 @@
      },
      "selos": [],
      "nascimento": "2001-10-14",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Pedro Rinaldi",
@@ -3392,7 +3452,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Masterson",
@@ -3402,7 +3464,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Marcelo Vieira",
@@ -3422,7 +3486,9 @@
      },
      "selos": [],
      "nascimento": "2001-06-08",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Luiz Phillipe",
@@ -3432,7 +3498,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Jonathan Braz",
@@ -3442,7 +3510,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Jonas Cabral",
@@ -3467,7 +3537,9 @@
       }
      ],
      "nascimento": "",
-     "de": "City London"
+     "de": "City London",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gabriel Oliveira",
@@ -3492,7 +3564,9 @@
       }
      ],
      "nascimento": "",
-     "de": "City London"
+     "de": "City London",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Fabrício Miranda",
@@ -3513,7 +3587,9 @@
      },
      "selos": [],
      "nascimento": "2002-10-22",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Daniel Silva",
@@ -3523,7 +3599,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Daniel Cruz",
@@ -3533,7 +3611,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Guilherme Queiroz",
@@ -3561,7 +3641,9 @@
      },
      "selos": [],
      "nascimento": "2005-12-03",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -3669,7 +3751,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": true
     }
    ],
    "chegaram": [],
@@ -3686,7 +3770,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": true
     }
    ],
    "chegaram": [],
@@ -3710,7 +3796,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "América-MG"
+     "de": "América-MG",
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Danilinho",
@@ -3736,7 +3824,9 @@
       }
      ],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Anderson Ligeiro",
@@ -3751,7 +3841,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Wandson",
@@ -3776,7 +3868,9 @@
      },
      "selos": [],
      "nascimento": "1998-03-24",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Nicola",
@@ -3802,7 +3896,9 @@
      },
      "selos": [],
      "nascimento": "1998-10-27",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Douglas Marques",
@@ -3817,7 +3913,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "São Caetano"
+     "de": "São Caetano",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Cayo Tenório",
@@ -3842,7 +3940,9 @@
      },
      "selos": [],
      "nascimento": "1999-02-22",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Diogo Vieira",
@@ -3873,7 +3973,9 @@
       }
      ],
      "nascimento": "2003-04-03",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Rodrigo Gaia",
@@ -3888,7 +3990,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Júlio Vaz",
@@ -3913,7 +4017,9 @@
      },
      "selos": [],
      "nascimento": "1997-07-28",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Sérgio Raphael",
@@ -3935,7 +4041,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Marcos Pedro",
@@ -3956,7 +4064,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Metropolitano-SC"
+     "de": "Metropolitano-SC",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Félix Jorge",
@@ -3981,7 +4091,9 @@
      },
      "selos": [],
      "nascimento": "1998-04-02",
-     "de": "CSA"
+     "de": "CSA",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Renan Areias",
@@ -3996,7 +4108,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Andrew",
@@ -4017,7 +4131,9 @@
       }
      ],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -4127,7 +4243,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": true
     }
    ],
    "chegaram": [
@@ -4156,7 +4274,9 @@
       "ia": true
      },
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Richard Alexandre",
@@ -4171,7 +4291,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Roberto",
@@ -4197,7 +4319,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Caxias"
+     "de": "Caxias",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Richard Franco",
@@ -4227,7 +4351,9 @@
       }
      ],
      "nascimento": "1992-07-16",
-     "de": "ASA"
+     "de": "ASA",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Rafael Longuine",
@@ -4253,7 +4379,9 @@
      },
      "selos": [],
      "nascimento": "1990-05-30",
-     "de": "Primavera"
+     "de": "Primavera",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Maurício Ribeiro",
@@ -4278,7 +4406,9 @@
      },
      "selos": [],
      "nascimento": "1991-05-04",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Marcelo",
@@ -4293,7 +4423,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Keven",
@@ -4322,7 +4454,9 @@
       }
      ],
      "nascimento": "",
-     "de": "Juventus"
+     "de": "Juventus",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Talles",
@@ -4337,7 +4471,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Hebling",
@@ -4360,7 +4496,9 @@
       "assistencias": 0,
       "escudos": {}
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Cabral",
@@ -4375,7 +4513,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Douglas Carvalho",
@@ -4390,7 +4530,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Oliver",
@@ -4405,7 +4547,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -4489,7 +4633,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Filipe Samuell",
@@ -4499,7 +4645,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Vila Nova-GO"
+     "de": "Vila Nova-GO",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -4525,7 +4673,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Vinícius Marques",
@@ -4535,7 +4685,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Levy Moreira",
@@ -4556,7 +4708,9 @@
      },
      "selos": [],
      "nascimento": "2005-03-05",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Junnior Batata",
@@ -4575,7 +4729,9 @@
      },
      "selos": [],
      "nascimento": "1991-08-09",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -4624,7 +4780,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gabriel Almeida",
@@ -4639,7 +4797,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Wesley Pacheco",
@@ -4654,7 +4814,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Gramadense"
+     "de": "Gramadense",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "João Victor",
@@ -4669,7 +4831,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Franklin Rocha",
@@ -4708,7 +4872,9 @@
       }
      ],
      "nascimento": "1992-11-11",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Arthur Mascaro",
@@ -4733,7 +4899,9 @@
      },
      "selos": [],
      "nascimento": "2004-05-17",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Luizão",
@@ -4748,7 +4916,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Boa Esporte"
+     "de": "Boa Esporte",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Dias",
@@ -4763,7 +4933,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -4836,7 +5008,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Reynaldo",
@@ -4851,7 +5025,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Vinicius",
@@ -4866,7 +5042,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Bernardo",
@@ -4881,7 +5059,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -4943,7 +5123,9 @@
      },
      "selos": [],
      "nascimento": "1998-01-17",
-     "de": "Noroeste"
+     "de": "Noroeste",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Eduardo Henrique",
@@ -4968,7 +5150,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Floresta"
+     "de": "Floresta",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Fausto Dias",
@@ -4978,7 +5162,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Wesley",
@@ -4986,7 +5172,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Neto Berola",
@@ -5011,7 +5199,9 @@
      },
      "selos": [],
      "nascimento": "1987-11-18",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Luketa",
@@ -5044,7 +5234,9 @@
       }
      ],
      "nascimento": "1999-03-06",
-     "de": "Sertãozinho"
+     "de": "Sertãozinho",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Wingert",
@@ -5061,7 +5253,9 @@
       "assistencias": 0,
       "escudos": {}
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Isaque",
@@ -5086,7 +5280,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Itabaiana"
+     "de": "Itabaiana",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gabriel Gasparotto",
@@ -5105,7 +5301,9 @@
      },
      "selos": [],
      "nascimento": "1993-12-09",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -5196,7 +5394,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": true
     }
    ],
    "chegaram": [
@@ -5232,7 +5432,9 @@
       }
      ],
      "nascimento": "",
-     "de": "Juventus"
+     "de": "Juventus",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Cezane",
@@ -5258,7 +5460,9 @@
      },
      "selos": [],
      "nascimento": "1992-09-14",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Hugo Henrique",
@@ -5273,7 +5477,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "André Luiz",
@@ -5294,7 +5500,9 @@
       }
      ],
      "nascimento": "",
-     "de": "XV de Piracicaba"
+     "de": "XV de Piracicaba",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Kriguer",
@@ -5315,7 +5523,9 @@
       }
      ],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "André Pereira",
@@ -5330,7 +5540,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Wagner",
@@ -5345,7 +5557,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Loram Ramires",
@@ -5364,7 +5578,9 @@
        "tipo": "acesso",
        "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
-     ]
+     ],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Samuel Balbino",
@@ -5385,7 +5601,9 @@
       }
      ],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Hericles",
@@ -5410,7 +5628,9 @@
      },
      "selos": [],
      "nascimento": "1995-10-20",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Diogo Silva",
@@ -5434,7 +5654,9 @@
        "tipo": "premio",
        "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
-     ]
+     ],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Biel",
@@ -5453,7 +5675,9 @@
        "tipo": "acesso",
        "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
-     ]
+     ],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Artur Melo",
@@ -5472,7 +5696,9 @@
        "tipo": "acesso",
        "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
-     ]
+     ],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Guilherme Givigi",
@@ -5487,7 +5713,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Guilherme Matheus",
@@ -5508,7 +5736,9 @@
       }
      ],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -5599,7 +5829,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "São José"
+     "de": "São José",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Marcos Moser",
@@ -5621,7 +5853,9 @@
      },
      "selos": [],
      "nascimento": "1998-05-17",
-     "de": "Capivariano"
+     "de": "Capivariano",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Keké",
@@ -5646,7 +5880,9 @@
       }
      ],
      "nascimento": "",
-     "de": "Boavista-RJ"
+     "de": "Boavista-RJ",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "João Lucas",
@@ -5654,7 +5890,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Erik Bessa",
@@ -5674,7 +5912,9 @@
      },
      "selos": [],
      "nascimento": "1996-05-24",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Alyson Motta",
@@ -5694,7 +5934,9 @@
       "assistencias": 3,
       "escudos": {}
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Albert",
@@ -5704,7 +5946,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Luiz Gustavo",
@@ -5721,7 +5965,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "XV de Piracicaba"
+     "de": "XV de Piracicaba",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Alisson",
@@ -5742,7 +5988,9 @@
      },
      "selos": [],
      "nascimento": "1999-05-13",
-     "de": "Santo André"
+     "de": "Santo André",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Iury Marley",
@@ -5765,7 +6013,9 @@
       }
      ],
      "nascimento": "",
-     "de": "Hercílio Luz"
+     "de": "Hercílio Luz",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Alan Leite",
@@ -5790,7 +6040,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Kuhn",
@@ -5813,7 +6065,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "XV de Piracicaba"
+     "de": "XV de Piracicaba",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Wallace Moraes",
@@ -5830,7 +6084,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Primavera-MT"
+     "de": "Primavera-MT",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Alessandro",
@@ -5853,7 +6109,9 @@
       }
      ],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -5950,7 +6208,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "William Rafael",
@@ -5969,7 +6229,9 @@
      },
      "selos": [],
      "nascimento": "2001-09-30",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Vinicius Sousa",
@@ -5993,7 +6255,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Rio Preto"
+     "de": "Rio Preto",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Theo Lanza",
@@ -6015,7 +6279,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Pedro Da Dalto",
@@ -6040,7 +6306,9 @@
      },
      "selos": [],
      "nascimento": "2003-03-23",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Matheus Pellegrini",
@@ -6057,7 +6325,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Luan Sousa",
@@ -6080,7 +6350,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gabriel Cunha",
@@ -6090,7 +6362,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gabriel Adão",
@@ -6111,7 +6385,9 @@
      },
      "selos": [],
      "nascimento": "2006-05-01",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Rayan Corrêa",
@@ -6132,7 +6408,9 @@
      },
      "selos": [],
      "nascimento": "2002-04-25",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Kleverson",
@@ -6149,7 +6427,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Juventus-SC"
+     "de": "Juventus-SC",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Pereira",
@@ -6159,7 +6439,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Chileno",
@@ -6179,7 +6461,9 @@
      },
      "selos": [],
      "nascimento": "2002-07-25",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -6293,7 +6577,9 @@
      },
      "selos": [],
      "nascimento": "2001-10-16",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Reginaldo Júnior",
@@ -6317,7 +6603,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Jeder",
@@ -6342,7 +6630,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Foguete",
@@ -6357,7 +6647,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Felipe Rocha",
@@ -6372,7 +6664,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Alejandro Viniegra",
@@ -6396,7 +6690,9 @@
      },
      "selos": [],
      "nascimento": "2002-02-13",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Adílson Júnior",
@@ -6416,7 +6712,9 @@
       "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
       "escudos": {}
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gabriel Masson",
@@ -6442,7 +6740,9 @@
      },
      "selos": [],
      "nascimento": "2002-07-01",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Bruno Negueba",
@@ -6470,7 +6770,9 @@
      },
      "selos": [],
      "nascimento": "2001-01-27",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Everaldo Filho",
@@ -6499,7 +6801,9 @@
      },
      "selos": [],
      "nascimento": "2002-07-11",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Victor Lima",
@@ -6514,7 +6818,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Denis Germano",
@@ -6540,7 +6846,9 @@
      },
      "selos": [],
      "nascimento": "1998-09-25",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Bilhalva",
@@ -6564,7 +6872,9 @@
        "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
       }
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Vinícius Silva",
@@ -6579,7 +6889,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Adílson Bahia",
@@ -6594,7 +6906,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -6708,7 +7022,9 @@
      },
      "selos": [],
      "nascimento": "1997-09-12",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Luis Felipe",
@@ -6723,7 +7039,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Xavier",
@@ -6749,7 +7067,9 @@
       }
      ],
      "nascimento": "1994-07-26",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Dudu Bahia",
@@ -6774,7 +7094,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "David Lima",
@@ -6802,7 +7124,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Werley Ferreira",
@@ -6828,7 +7152,9 @@
      },
      "selos": [],
      "nascimento": "1999-07-30",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Roger Ruan",
@@ -6856,7 +7182,9 @@
       }
      ],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Gomes",
@@ -6871,7 +7199,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "João Pedro",
@@ -6901,7 +7231,9 @@
       }
      ],
      "nascimento": "",
-     "de": "Kasembundit (Tailândia)"
+     "de": "Kasembundit (Tailândia)",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Ícaro",
@@ -6916,7 +7248,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Hilton Neto",
@@ -6935,7 +7269,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Fernando Junior",
@@ -6960,7 +7296,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Diego Cardoso",
@@ -6982,7 +7320,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Thiago Oliveira",
@@ -6992,7 +7332,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "União São João"
+     "de": "União São João",
+     "ficha": {},
+     "comissao": true
     },
     {
      "nome": "Bady",
@@ -7012,7 +7354,9 @@
      },
      "selos": [],
      "nascimento": "1989-04-27",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Nikollas Sena",
@@ -7031,7 +7375,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Foz do Iguaçu"
+     "de": "Foz do Iguaçu",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -7147,7 +7493,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Itapirense"
+     "de": "Itapirense",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Rafael Gatto",
@@ -7155,7 +7503,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "João Monteiro",
@@ -7165,7 +7515,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Independência-AC"
+     "de": "Independência-AC",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Giovanni Carignano",
@@ -7175,7 +7527,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "SC Gaúcho"
+     "de": "SC Gaúcho",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Denis Santos",
@@ -7192,7 +7546,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Daniel Dandan",
@@ -7202,7 +7558,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Bernardo",
@@ -7212,7 +7570,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Araxá-MG"
+     "de": "Araxá-MG",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -7273,7 +7633,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Kelvin Moreira",
@@ -7294,7 +7656,9 @@
      },
      "selos": [],
      "nascimento": "2000-03-07",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Henrique Lima",
@@ -7304,7 +7668,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Gustavo Brandão",
@@ -7326,7 +7692,9 @@
      },
      "selos": [],
      "nascimento": "2001-04-18",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Willian Daltro",
@@ -7350,7 +7718,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Águia de Marabá"
+     "de": "Águia de Marabá",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Lucas Nathan",
@@ -7371,7 +7741,9 @@
      },
      "selos": [],
      "nascimento": "1998-11-17",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Humberto",
@@ -7379,7 +7751,9 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Diego Lopes",
@@ -7397,7 +7771,9 @@
       "assistencias": 0,
       "escudos": {}
      },
-     "selos": []
+     "selos": [],
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -7465,7 +7841,9 @@
      },
      "selos": [],
      "nascimento": "1997-08-19",
-     "de": "São José-RS"
+     "de": "São José-RS",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Luan Oliveira",
@@ -7483,7 +7861,9 @@
      },
      "selos": [],
      "nascimento": "",
-     "de": "Interporto-TO"
+     "de": "Interporto-TO",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -7515,7 +7895,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Romarinho",
@@ -7525,7 +7907,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Ricardo Friedrich",
@@ -7542,7 +7926,9 @@
      },
      "selos": [],
      "nascimento": "1993-02-18",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Cesinha",
@@ -7552,7 +7938,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Água Santa"
+     "de": "Água Santa",
+     "ficha": {},
+     "comissao": false
     },
     {
      "nome": "Pedro Felipe",
@@ -7562,7 +7950,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": ""
+     "de": "",
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -7600,7 +7990,7 @@
    "sairam": []
   },
   "monteazul": {
-   "atualizado": "2026-11-11",
+   "atualizado": "2026-11-18",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -7610,10 +8000,92 @@
      "renovou": true,
      "foto": null,
      "numeros": null,
-     "selos": []
+     "selos": [],
+     "ficha": {
+      "no_clube": "Treinou o Azulão em 2018; voltou em 2026 e garantiu a permanência na Série A2"
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Gilsinho",
+     "posicao": "Auxiliar técnico",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {
+      "natural": "Monte Azul Paulista (SP)",
+      "no_clube": "Jogou no Azulão em 2002, 2005 e de 2020 a 2022; na comissão técnica fixa desde 2023",
+      "titulos": [
+       "Copa Paulista 2024",
+       "Acesso à Série A2 em 2025"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Cristiano Fonseca",
+     "posicao": "Preparador físico",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Azuriz",
+     "ficha": {
+      "natural": "Porto Alegre (RS)",
+      "clubes_anteriores": [
+       "Azuriz (2026)",
+       "Botafogo-SP (2023 a 2025)",
+       "Flamengo de Arcoverde",
+       "Independente de Tucuruí",
+       "Palmas",
+       "Imperatriz",
+       "Olímpia",
+       "Francana"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Márcio Silva",
+     "posicao": "Treinador de goleiros",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "natural": "Londrina (PR)",
+      "idade": 48,
+      "idade_em": "2026-11-18",
+      "clubes_anteriores": [
+       "Operário-PR",
+       "Rio Preto",
+       "Cascavel",
+       "Operário-MT",
+       "Porto Velho",
+       "Águia Negra"
+      ]
+     },
+     "comissao": true
     }
    ],
-   "chegaram": [],
+   "chegaram": [
+    {
+     "nome": "Cristiano Fonseca",
+     "de": "Azuriz",
+     "tipo": "Contratação",
+     "data": "2026-11-15"
+    },
+    {
+     "nome": "Márcio Silva",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
+    }
+   ],
    "sairam": []
   },
   "saocaetano": {
@@ -7629,7 +8101,9 @@
      "numeros": {},
      "selos": [],
      "nascimento": "",
-     "de": "Comercial"
+     "de": "Comercial",
+     "ficha": {},
+     "comissao": true
     }
    ],
    "chegaram": [
@@ -7658,7 +8132,9 @@
        "texto": "Campeão Copa Paulista 2026",
        "fonte": "https://www.futebolinterior.com.br/permanencias-e-contratacoes-no-sao-jose/"
       }
-     ]
+     ],
+     "ficha": {},
+     "comissao": false
     }
    ],
    "chegaram": [],

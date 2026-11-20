@@ -82,7 +82,23 @@ def resolver(nome, slug_dado, feminino, tm, pl):
 
 
 # Treinador entra no mercado e no elenco (15/11/2026); tem página própria no site (/mercado-da-bola/treinadores/)
-POS_MC = tsp.POSICOES + ("Treinador",)
+# Comissão técnica (20/11/2026, pedido do Thiago): auxiliar, preparador físico e treinador de goleiros entram como o treinador
+COMISSAO = ("Treinador", "Auxiliar técnico", "Preparador físico", "Treinador de goleiros")
+POS_MC = tsp.POSICOES + COMISSAO
+
+
+def checar_ficha(fc):
+    """Ficha técnica (card): natural, idade (com a data em que a fonte disse), clubes anteriores, contrato. Tudo com fonte."""
+    e = []
+    if not fc:
+        return e
+    if not isinstance(fc, dict):
+        return ["ficha precisa ser um objeto {natural, idade, idade_em, clubes_anteriores, contrato, fonte}"]
+    if not str(fc.get("fonte", "")).startswith("https://") or tsp.FONTE_RUIM.search(str(fc.get("fonte", ""))):
+        e.append("ficha precisa de 'fonte' (anúncio oficial ou matéria aceita)")
+    if fc.get("idade") and not fc.get("idade_em"):
+        e.append("ficha: 'idade' precisa de 'idade_em' (AAAA-MM-DD da fonte), para a idade não envelhecer errada")
+    return e
 
 
 def checar(m, tm, pl):
@@ -123,6 +139,7 @@ def checar(m, tm, pl):
         e.append("numeros_2026 precisa de 'fonte' (matéria aceita ou página do jogador no oGol)")
     if m.get("carreira") and ("ogol.com.br/jogador/" not in str(m.get("carreira_fonte", "")) and not str(m.get("carreira_fonte", "")).startswith("https://")):
         e.append("carreira precisa de carreira_fonte (página do jogador no oGol ou matéria)")
+    e += checar_ficha(m.get("ficha"))
     for sl in m.get("selos", []):
         if not isinstance(sl, dict) or not sl.get("texto") or not str(sl.get("fonte", "")).startswith("https://") or tsp.FONTE_RUIM.search(str(sl.get("fonte", ""))):
             e.append("selos: lista de {texto, fonte} (título/acesso de 2026 citado em fonte aceita)")
@@ -262,11 +279,23 @@ def cmd_gerar(a):
                       "blocos": blocos, "foto": foto or {}, "fontes": m["fontes"][:3],
                       "nascimento": nasc or "", "numeros": numeros or {}, "selos": m.get("selos", []),
                       "carreira": carreira, "carreira_fonte": m.get("carreira_fonte", ""),
+                      "ficha": ficha_pub(m.get("ficha")), "comissao": m.get("posicao", "") in COMISSAO,
                       "dono": dono})
     tsp.gravar(API / "mercado.json", {"gerado": tsp.iso(tsp.agora()), "temporada": b.get("temporada", 2027),
                                       "tipos": TIPOS, "itens": saida})
     print(f"OK: api/mercado.json com {len(saida)} movimento(s)")
     print(f"OK: api/elencos.json com {gerar_elencos(saida, tm, pl)} elenco(s)")
+
+
+def ficha_pub(fc):
+    """Ficha para o site: sem a fonte interna, com a idade já calculada para hoje quando só se sabe a idade anunciada."""
+    if not fc:
+        return {}
+    f = {k: v for k, v in fc.items() if k not in ("fonte",)}
+    if fc.get("idade") and fc.get("idade_em"):
+        anos = (datetime.date.today() - datetime.date.fromisoformat(fc["idade_em"])).days // 365
+        f["idade"] = int(fc["idade"]) + anos
+    return f
 
 
 CHEGA = {"contratacao", "emprestimo", "retorno", "promovido"}
@@ -305,7 +334,8 @@ def gerar_elencos(itens, tm, pl):
                     j = {"nome": m["jogador"], "posicao": m["posicao"]}
                     el["jogadores"].append(j)
                 j.update({"renovou": True, "foto": j.get("foto") or m["foto"] or None,
-                          "numeros": m["numeros"] or j.get("numeros"), "selos": m["selos"]})
+                          "numeros": m["numeros"] or j.get("numeros"), "selos": m["selos"],
+                          "ficha": m.get("ficha") or j.get("ficha") or {}, "comissao": m.get("comissao", False)})
                 el["atualizado"] = max(el["atualizado"], m["data"])
             continue
         d, p = m["de"]["slug"], m["para"]["slug"]
@@ -319,12 +349,27 @@ def gerar_elencos(itens, tm, pl):
             if not any(norm(j["nome"]) == norm(m["jogador"]) for j in saida[p]["jogadores"]):
                 saida[p]["jogadores"].append({"nome": m["jogador"], "posicao": m["posicao"], "foto": m["foto"] or None, "novo": True,
                                               "numeros": m["numeros"], "selos": m["selos"], "nascimento": m["nascimento"],
-                                              "de": m["de"]["nome"]})
+                                              "de": m["de"]["nome"], "ficha": m.get("ficha") or {},
+                                              "comissao": m.get("comissao", False)})
             else:
                 for j in saida[p]["jogadores"]:
                     if norm(j["nome"]) == norm(m["jogador"]):
                         j["novo"] = True
             saida[p]["chegaram"].append({"nome": m["jogador"], "de": m["de"]["nome"], "tipo": m["tipo_nome"], "data": m["data"]})
+    # Comissões técnicas que seguem no clube (sem movimento no mercado): dados/comissoes.json
+    com = tsp.ler(DADOS / "comissoes.json") or {}
+    for s_, lista in (com.get("clubes") or {}).items():
+        if s_ not in pl:
+            continue
+        el = saida.setdefault(s_, {"atualizado": "", "fonte": "", "em_montagem": True, "jogadores": [], "chegaram": [], "sairam": []})
+        for c in lista:
+            if checar_comissao(c):
+                continue
+            if any(norm(j["nome"]) == norm(c["nome"]) for j in el["jogadores"]):
+                continue
+            el["jogadores"].append({"nome": c["nome"], "posicao": c["funcao"], "foto": c.get("foto") or None, "comissao": True,
+                                    "nascimento": c.get("nascimento", ""), "ficha": ficha_pub(c.get("ficha")),
+                                    "selos": c.get("selos", []), "desde": c.get("desde", "")})
     tsp.gravar(API / "elencos.json", {"gerado": tsp.iso(tsp.agora()), "temporada": 2027, "clubes": saida})
     return len(saida)
 
@@ -337,6 +382,16 @@ PROMPT = ("Gere uma imagem: retrato para FIGURINHA DE ÁLBUM DE FUTEBOL, formato
           "SEM patrocinadores, SEM marcas de anunciantes, SEM número e SEM nenhum outro texto. Do peito para cima, de frente, "
           "fundo liso em degradê das cores do clube, sem moldura. (Se a referência não mostrar a camisa 2026, anexe também uma foto "
           "oficial do time com a camisa 2026.)")
+
+
+def checar_comissao(c):
+    e = []
+    if not c.get("nome") or c.get("funcao") not in COMISSAO:
+        e.append(f"comissao: nome e funcao ({', '.join(COMISSAO)})")
+    f = [str(u) for u in c.get("fontes", [])]
+    if not f or any(not u.startswith("https://") or tsp.FONTE_RUIM.search(u) for u in f):
+        e.append(f"comissao {c.get('nome')}: fontes (anúncio oficial do clube ou matéria aceita que diga que ele é o {c.get('funcao')} hoje)")
+    return e + checar_ficha(c.get("ficha"))
 
 
 def cmd_figurinhas(a):
@@ -410,6 +465,15 @@ def cmd_validar(a):
         if e:
             erros += 1
             print(f"ERRO {m['id']}: " + "; ".join(e))
+    for s_, lista in ((tsp.ler(DADOS / "comissoes.json") or {}).get("clubes") or {}).items():
+        if s_ not in pl:
+            erros += 1
+            print(f"ERRO comissoes.json: '{s_}' não é clube paulista do site")
+        for c in lista:
+            e = checar_comissao(c)
+            if e:
+                erros += 1
+                print(f"ERRO comissoes.json {s_}: " + "; ".join(e))
     print("Mercado OK" if not erros else f"{erros} erro(s)")
     if erros:
         sys.exit(1)
