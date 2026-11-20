@@ -1,0 +1,24 @@
+{
+ "_leia": "Comissões técnicas que SEGUEM no clube (sem movimento no mercado). Quem chega, sai ou renova vai em dados/mercado.json. Cada pessoa: id, nome, funcao (Treinador, Auxiliar técnico, Preparador físico, Treinador de goleiros), fontes (anúncio oficial ou matéria aceita que diga que ele está no cargo hoje), ficha opcional {natural, idade+idade_em, no_clube, contrato, clubes_anteriores, titulos, fonte}.",
+ "clubes": {
+  "portuguesasantista": [
+   {
+    "id": "comissao-portuguesa-santista-sergio-guedes",
+    "nome": "Sérgio Guedes",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://www.instagram.com/briosaoficial/"
+    ],
+    "ficha": {
+     "no_clube": "164 jogos no comando da Briosa",
+     "titulos": [
+      "Copa Paulista",
+      "Paulistão A3",
+      "Dois acessos ao Paulistão A2"
+     ],
+     "fonte": "https://www.instagram.com/briosaoficial/"
+    }
+   }
+  ]
+ }
+}

@@ -425,6 +425,14 @@ def cmd_figurinha(a):
         raise SystemExit("ERRO: --ref = link https da foto oficial usada como referência")
     b = base()
     m = next((x for x in b["itens"] if x["id"] == mid), None)
+    arq_gravar = ARQ
+    if not m:
+        # membro de comissão técnica que segue no clube (dados/comissoes.json, campo "id")
+        b = tsp.ler(DADOS / "comissoes.json") or {}
+        m = next((c for lista in (b.get("clubes") or {}).values() for c in lista if c.get("id") == mid), None)
+        arq_gravar = DADOS / "comissoes.json"
+        if m:
+            m["jogador"] = m["nome"]
     if not m:
         raise SystemExit("id não encontrado")
     destino = API / "figurinhas" / f"{mid}.webp"
@@ -449,8 +457,10 @@ def cmd_figurinha(a):
     im.save(destino, "WEBP", quality=82)
     m["foto"] = {"url": f"https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/{mid}.webp",
                  "credito": "Montagem com IA (ilustrativa) · TSP", "fonte": ref, "ia": True}
-    tsp.gravar(ARQ, b)
-    print(f"OK: figurinha de {m['jogador']} gravada ({destino.name})")
+    if arq_gravar != ARQ:
+        m.pop("jogador", None)
+    tsp.gravar(arq_gravar, b)
+    print(f"OK: figurinha de {m.get('jogador') or m.get('nome')} gravada ({destino.name})")
 
 
 def cmd_validar(a):
