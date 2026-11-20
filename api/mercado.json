@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T03:27:00-03:00",
+ "gerado": "2026-11-20T03:45:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -1535,6 +1535,151 @@
    },
    "comissao": true,
    "dono": "monteazul"
+  },
+  {
+   "id": "2026-11-14-max-eduardo-uniao-barbarense",
+   "data": "2026-11-14",
+   "jogador": "Max Eduardo",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-14-max-eduardo-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/uniaobarbarense_oficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Caldense",
+     "America-RJ",
+     "Fluminense-PI",
+     "Operário-AM",
+     "Interporto"
+    ]
+   },
+   "comissao": false,
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-14-jo-galiao-uniao-barbarense",
+   "data": "2026-11-14",
+   "jogador": "Jô Galião",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-14-jo-galiao-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/uniaobarbarense_oficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Brasil de Pelotas",
+     "Aimoré",
+     "Monsoon",
+     "Vitória-ES",
+     "Real Brasília"
+    ]
+   },
+   "comissao": false,
+   "dono": "uniao-barbarense"
+  },
+  {
+   "id": "2026-11-14-gabriel-hilario-uniao-barbarense",
+   "data": "2026-11-14",
+   "jogador": "Gabriel Hilário",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Barcelona de Ilhéus",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-14-gabriel-hilario-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/uniaobarbarense_oficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
+   "dono": "uniao-barbarense"
   },
   {
    "id": "2026-11-13-wesley-ituano",
@@ -3307,6 +3452,58 @@
    "dono": "bandeirante"
   },
   {
+   "id": "2026-11-10-matheus-cambuci-uniao-barbarense",
+   "data": "2026-11-10",
+   "jogador": "Matheus Cambuci",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-matheus-cambuci-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/uniaobarbarense_oficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 29,
+    "idade_em": "2026-11-10",
+    "clubes_anteriores": [
+     "Botafogo-RJ (base)",
+     "Bangu",
+     "Manaus",
+     "Campinense"
+    ]
+   },
+   "comissao": false,
+   "dono": "uniao-barbarense"
+  },
+  {
    "id": "2026-11-10-luis-felipe-penapolense",
    "data": "2026-11-10",
    "jogador": "Luis Felipe",
@@ -3404,6 +3601,58 @@
    "ficha": {},
    "comissao": false,
    "dono": "penapolense"
+  },
+  {
+   "id": "2026-11-10-juninho-uniao-barbarense",
+   "data": "2026-11-10",
+   "jogador": "Juninho",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-juninho-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/uniaobarbarense_oficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 23,
+    "idade_em": "2026-11-10",
+    "clubes_anteriores": [
+     "Monte Azul",
+     "ABC",
+     "Grêmio Maringá",
+     "Náutico-RR"
+    ]
+   },
+   "comissao": false,
+   "dono": "uniao-barbarense"
   },
   {
    "id": "2026-11-10-hericles-inter-de-bebedouro",
@@ -3610,6 +3859,59 @@
    "ficha": {},
    "comissao": false,
    "dono": "penapolense"
+  },
+  {
+   "id": "2026-11-10-douglas-valle-uniao-barbarense",
+   "data": "2026-11-10",
+   "jogador": "Douglas Valle",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-douglas-valle-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
+   "fontes": [
+    "https://www.instagram.com/uniaobarbarense_oficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 30,
+    "idade_em": "2026-11-10",
+    "clubes_anteriores": [
+     "Audax Rio",
+     "Villa Nova-MG",
+     "Boavista-RJ",
+     "Falcon-SE",
+     "clubes da Jordânia e do Kuwait"
+    ]
+   },
+   "comissao": false,
+   "dono": "uniao-barbarense"
   },
   {
    "id": "2026-11-10-diogo-silva-inter-de-bebedouro",
@@ -5843,6 +6145,63 @@
    "dono": "tanabi"
   },
   {
+   "id": "2026-11-05-felipe-araujo-uniao-barbarense",
+   "data": "2026-11-05",
+   "jogador": "Felipe Araújo",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Lemense",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União Barbarense",
+    "slug": "uniao-barbarense",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/uniaobarbarense_oficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "natural": "Feira de Santana (BA)",
+    "idade": 23,
+    "idade_em": "2026-11-05",
+    "clubes_anteriores": [
+     "Lemense",
+     "Vitória",
+     "ABC",
+     "Santo André",
+     "Barretos",
+     "Grêmio São-Carlense",
+     "Serra Branca",
+     "Alecrim",
+     "Oeste",
+     "Rio Branco de Venda Nova"
+    ],
+    "titulos": [
+     "Campeonato Paraibano Júnior"
+    ]
+   },
+   "comissao": false,
+   "dono": "uniao-barbarense"
+  },
+  {
    "id": "2026-11-05-erik-bessa-marilia",
    "data": "2026-11-05",
    "jogador": "Erik Bessa",
@@ -6719,7 +7078,19 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-10-15",
+    "clubes_anteriores": [
+     "Comercial",
+     "Portuguesa Santista",
+     "União São João",
+     "Francana",
+     "Rio Preto",
+     "Joinville",
+     "Uberaba"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -6768,7 +7139,19 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-02",
+    "clubes_anteriores": [
+     "Lemense",
+     "Linense",
+     "Penedense",
+     "Rive",
+     "Atlético Três Corações",
+     "FK Valmiera (Letônia)",
+     "PS Kemi (Finlândia)"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -6816,7 +7199,16 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-10-15",
+    "clubes_anteriores": [
+     "Metropolitano",
+     "Capivariano",
+     "Grêmio Prudente",
+     "XV de Jaú"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -7118,7 +7510,14 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "clubes_anteriores": [
+     "Bandeirante",
+     "Grêmio Prudente",
+     "Mamoré",
+     "Araxá"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -7226,7 +7625,7 @@
   {
    "id": "2026-11-03-masterson-uniao-barbarense",
    "data": "2026-11-03",
-   "jogador": "Masterson",
+   "jogador": "Mastherson",
    "posicao": "Lateral",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
@@ -7257,7 +7656,12 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "no_clube": "Peça do título da A4 de 2025",
+    "titulos": [
+     "Campeão Paulista A4 2025"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -7348,7 +7752,20 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "natural": "Santa Bárbara d'Oeste (SP)",
+    "idade": 25,
+    "idade_em": "2026-10-15",
+    "no_clube": "Jogou no clube em 2023 e 2024",
+    "clubes_anteriores": [
+     "São Caetano",
+     "Flamengo-SP",
+     "Nacional de Uberaba",
+     "Guarani-MG",
+     "Patriotas-PR",
+     "Araucária-PR"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -7386,7 +7803,21 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-10-29",
+    "clubes_anteriores": [
+     "Bangu (base)",
+     "Santacruzense",
+     "Itararé",
+     "Independente-SE",
+     "Valeriodoce",
+     "Grêmio Mauaense",
+     "Araguaia",
+     "Aparecida",
+     "Independente-AP"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -7824,7 +8255,19 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 27,
+    "idade_em": "2026-11-02",
+    "clubes_anteriores": [
+     "Paranavaí",
+     "Rolândia",
+     "Naviraiense",
+     "Portuguesa Londrinense",
+     "América-SP",
+     "Operário Mafra",
+     "Grêmio Maringá"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -7983,7 +8426,12 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "no_clube": "Titular no título da A4 de 2025; seguiu em 2026",
+    "titulos": [
+     "Campeão Paulista A4 2025"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -8064,7 +8512,17 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "no_clube": "Jogou a Série A3 de 2026 pelo clube",
+    "clubes_anteriores": [
+     "Guarani",
+     "Grêmio Prudente",
+     "Monte Azul"
+    ],
+    "titulos": [
+     "Copa Paulista (Monte Azul)"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -8102,7 +8560,12 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "no_clube": "Decisivo no título da A4 de 2025 e destaque na A3 de 2026",
+    "titulos": [
+     "Campeão Paulista A4 2025"
+    ]
+   },
    "comissao": false,
    "dono": "uniao-barbarense"
   },
@@ -8567,14 +9030,14 @@
    "data": "2026-10-29",
    "jogador": "Paulinho McLaren",
    "posicao": "Treinador",
-   "tipo": "contratacao",
-   "tipo_nome": "Contratação",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Volta ao clube, que comandou em 2025",
+   "obs": "Renovou para a Série A4 de 2027",
    "de": {
-    "nome": "",
-    "slug": "",
+    "nome": "Vocem",
+    "slug": "vocem",
     "id": 0,
     "escudo": ""
    },
@@ -8589,14 +9052,17 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/vocem-confirma-paulinho-mclaren/"
+    "https://www.futebolinterior.com.br/vocem-confirma-paulinho-mclaren/",
+    "https://www.instagram.com/vocemassis/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "no_clube": "Segue no comando do Esquadrão da Fé; trabalho marcado pela aposta em jovens da base"
+   },
    "comissao": true,
    "dono": "vocem"
   },
@@ -9627,7 +10093,7 @@
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "",
+   "obs": "Retorna ao clube para a Série A3 de 2027",
    "de": {
     "nome": "",
     "slug": "",
@@ -9652,7 +10118,9 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "no_clube": "Volta ao União Barbarense para a A3 de 2027; conhecido como \"Rei do Acesso\", com mais de dez acessos na carreira"
+   },
    "comissao": true,
    "dono": "uniao-barbarense"
   },
