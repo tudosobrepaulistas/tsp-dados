@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19T22:25:00-03:00",
+ "gerado": "2026-11-20T00:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -67,12 +67,12 @@
     {
      "id": 900005,
      "nome": "Fluminense",
-     "pts": 57,
-     "j": 34,
-     "v": 16,
+     "pts": 60,
+     "j": 35,
+     "v": 17,
      "e": 9,
      "d": 9,
-     "gp": 55,
+     "gp": 56,
      "gc": 42
     },
     {
@@ -145,12 +145,12 @@
      "id": 900009,
      "nome": "São Paulo",
      "pts": 44,
-     "j": 34,
+     "j": 35,
      "v": 12,
      "e": 8,
-     "d": 14,
+     "d": 15,
      "gp": 39,
-     "gc": 39
+     "gc": 40
     },
     {
      "id": 900011,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000154,
-     "rodada": "35",
-     "data": "2026-11-19T21:30",
-     "casa": 900009,
-     "fora": 900005,
-     "a_confirmar": false
-    },
     {
      "id": 91000155,
      "rodada": "36",
@@ -1173,6 +1165,12 @@
      900014,
      900010,
      2,
+     1
+    ],
+    [
+     900009,
+     900005,
+     0,
      1
     ]
    ]
@@ -12502,14 +12500,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-0-x-1-fluminense-assista-aos-melhores-momentos-do-jogo-pelo-brasileirao/",
+    "https://www.oliberal.com/esportes/sao-paulo-perde-do-fluminense-e-vaiado-no-morumbis-e-ouve-gritos-de-ole-da-propria-torcida-1.1196406"
    ],
    "fixture": {
     "id": 91000154,
     "timestamp": 1795134600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Morumbis",
@@ -12531,8 +12531,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -12589,22 +12589,93 @@
      "atualizado": "2026-11-19T18:26:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 38,
-    "empate": 26,
-    "fora": 35,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.33,
-     1.27
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Rafael Tolói, Arboleda, Osorio; Pedro Lima, Danielzinho, Pablo Maia, Iago; Artur, Calleri, Lucas Moura",
+     "entraram": [
+      {
+       "jogador": "Djhordney",
+       "saiu": "Rafael Tolói",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wendell",
+       "saiu": "Iago",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Santana",
+       "saiu": "Calleri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Francisco",
+       "saiu": "Lucas Moura",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Thiago Silva, Ignácio, Renê; Hércules, Nonato, Lucho Acosta; Serna, Hulk, Soteldo",
+     "entraram": [
+      {
+       "jogador": "Ganso",
+       "saiu": "Nonato",
+       "minuto": ""
+      },
+      {
+       "jogador": "Martinelli",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Arana",
+       "saiu": "Serna",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Castillo",
+       "saiu": "Hulk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme Felipe",
+       "saiu": "Soteldo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/sao-paulo-perde-do-fluminense-e-vaiado-no-morumbis-e-ouve-gritos-de-ole-da-propria-torcida-1.1196406"
     ],
-    "base": [
-     13,
-     18
-    ]
+    "atualizado": "2026-11-20T00:10:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 31,
+      "extra": null,
+      "texto": "31"
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Hércules"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -12763,7 +12834,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.72,
-     1.01
+     1.02
     ],
     "base": [
      15,
@@ -12918,7 +12989,7 @@
    "previsao": {
     "casa": 67,
     "empate": 19,
-    "fora": 13,
+    "fora": 14,
     "placar": "2x0",
     "gols_esperados": [
      2.13,
@@ -13005,15 +13076,15 @@
    "escalacoes": {},
    "previsao": {
     "casa": 43,
-    "empate": 29,
-    "fora": 28,
+    "empate": 30,
+    "fora": 27,
     "placar": "1x0",
     "gols_esperados": [
-     1.22,
-     0.94
+     1.2,
+     0.89
     ],
     "base": [
-     18,
+     19,
      23
     ]
    },
@@ -13201,17 +13272,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
+    "casa": 49,
     "empate": 27,
-    "fora": 25,
+    "fora": 24,
     "placar": "1x0",
     "gols_esperados": [
      1.43,
-     0.97
+     0.9
     ],
     "base": [
      26,
-     13
+     14
     ]
    },
    "events": []
@@ -13319,7 +13390,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.76,
-     2.03
+     2.04
     ],
     "base": [
      15,
@@ -13425,16 +13496,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 58,
-    "empate": 25,
-    "fora": 18,
+    "casa": 55,
+    "empate": 26,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.62,
+     1.5,
      0.77
     ],
     "base": [
-     13,
+     14,
      12
     ]
    },
@@ -37146,14 +37217,14 @@
       4,
       900005,
       "Fluminense",
-      57,
-      34,
-      16,
+      60,
+      35,
+      17,
       9,
       9,
-      13,
+      14,
       "",
-      55,
+      56,
       42
      ],
      [
@@ -37245,14 +37316,14 @@
       900009,
       "São Paulo",
       44,
-      34,
+      35,
       12,
       8,
-      14,
-      0,
+      15,
+      -1,
       "",
       39,
-      39
+      40
      ],
      [
       12,
@@ -37715,6 +37786,12 @@
     "gols": 3
    },
    {
+    "jogador": "Hércules",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 3
+   },
+   {
     "jogador": "Kaio Jorge",
     "time": "Cruzeiro",
     "time_id": 900003,
@@ -37760,12 +37837,6 @@
     "jogador": "Carrascal",
     "time": "Flamengo",
     "time_id": 900001,
-    "gols": 2
-   },
-   {
-    "jogador": "Hércules",
-    "time": "Fluminense",
-    "time_id": 900005,
     "gols": 2
    },
    {

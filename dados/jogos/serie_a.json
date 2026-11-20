@@ -8683,22 +8683,31 @@
    "data": "2026-11-19T21:30:00-03:00",
    "casa": "sao-paulo",
    "fora": "fluminense",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "35",
    "fase": "",
    "grupo": "",
    "estadio": "Morumbis",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Hércules",
+     "minuto": "31",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-0-x-1-fluminense-assista-aos-melhores-momentos-do-jogo-pelo-brasileirao/",
+    "https://www.oliberal.com/esportes/sao-paulo-perde-do-fluminense-e-vaiado-no-morumbis-e-ouve-gritos-de-ole-da-propria-torcida-1.1196406"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-20T00:10:00-03:00",
    "prejogo": {
     "analise": [
      "São Paulo e Fluminense se enfrentam na quinta-feira (19/11), às 21h30, no MorumBIS, pela 35ª rodada da Série A. O Fluminense é o 4º, com 57 pontos, e defende a vaga no G4: está três pontos atrás do Cruzeiro (60) e três à frente do Athletico-PR (54). O São Paulo é o 10º, com 44 pontos, empatado com o Vasco, e busca subir na tabela.",
@@ -8752,6 +8761,74 @@
      ],
      "atualizado": "2026-11-19T18:26:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Rafael Tolói, Arboleda, Osorio; Pedro Lima, Danielzinho, Pablo Maia, Iago; Artur, Calleri, Lucas Moura",
+     "entraram": [
+      {
+       "jogador": "Djhordney",
+       "saiu": "Rafael Tolói",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wendell",
+       "saiu": "Iago",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Santana",
+       "saiu": "Calleri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Francisco",
+       "saiu": "Lucas Moura",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Thiago Silva, Ignácio, Renê; Hércules, Nonato, Lucho Acosta; Serna, Hulk, Soteldo",
+     "entraram": [
+      {
+       "jogador": "Ganso",
+       "saiu": "Nonato",
+       "minuto": ""
+      },
+      {
+       "jogador": "Martinelli",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Arana",
+       "saiu": "Serna",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Castillo",
+       "saiu": "Hulk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme Felipe",
+       "saiu": "Soteldo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/sao-paulo-perde-do-fluminense-e-vaiado-no-morumbis-e-ouve-gritos-de-ole-da-propria-torcida-1.1196406"
+    ],
+    "atualizado": "2026-11-20T00:10:00-03:00"
    }
   },
   {

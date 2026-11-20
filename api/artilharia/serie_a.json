@@ -42,6 +42,12 @@
   "gols": 3
  },
  {
+  "jogador": "Hércules",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 3
+ },
+ {
   "jogador": "Kaio Jorge",
   "time": "Cruzeiro",
   "time_id": 900003,
@@ -87,12 +93,6 @@
   "jogador": "Carrascal",
   "time": "Flamengo",
   "time_id": 900001,
-  "gols": 2
- },
- {
-  "jogador": "Hércules",
-  "time": "Fluminense",
-  "time_id": 900005,
   "gols": 2
  },
  {
