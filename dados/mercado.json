@@ -3,6 +3,33 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-19",
+   "jogador": "Gabriel Kenji",
+   "posicao": "Lateral",
+   "de": "Tanabi",
+   "para": "Rio Claro",
+   "para_slug": "rioclaro",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/rioclarofco/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 23,
+    "idade_em": "2026-11-19",
+    "no_clube": "Segunda passagem: em 2024 fez 7 jogos e 1 gol na Copa Paulista",
+    "clubes_anteriores": [
+     "Tanabi (28 jogos em 2026)"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "id": "2026-11-19-gabriel-kenji-rio-claro",
+   "atualizado": "2026-11-20T03:56:00-03:00"
+  },
+  {
    "data": "2026-11-18",
    "jogador": "Vinicius",
    "posicao": "Meia",
@@ -192,11 +219,11 @@
    "feminino": false,
    "obs": "Defensor",
    "fontes": [
-    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-17-rayan-correa-rio-claro",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/rayan-correa/721948",
     "clubes": [
@@ -208,7 +235,16 @@
     "gols": 0,
     "assistencias": 0
    },
-   "nascimento": "2002-04-25"
+   "nascimento": "2002-04-25",
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-14",
+    "clubes_anteriores": [
+     "EC São Bernardo"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -317,7 +353,8 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "numeros_2026": {
@@ -328,7 +365,16 @@
     "fonte": "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
    },
    "id": "2026-11-17-kleverson-rio-claro",
-   "atualizado": "2026-11-18T06:57:00-03:00"
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-18",
+    "clubes_anteriores": [
+     "Rio Preto (16 jogos na A3 2026)",
+     "Juventus-SC"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -381,11 +427,21 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-17-gustavo-pereira-rio-claro",
-   "atualizado": "2026-11-18T06:57:00-03:00"
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-15",
+    "clubes_anteriores": [
+     "Blumenau (15 jogos, 4 gols)",
+     "Francana (6 gols em 9 jogos na A3)"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -400,11 +456,11 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/"
+    "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-17-chileno-rio-claro",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/chileno/736932",
     "clubes": [
@@ -415,7 +471,14 @@
     "gols": 2,
     "assistencias": 0
    },
-   "nascimento": "2002-07-25"
+   "nascimento": "2002-07-25",
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-13",
+    "no_clube": "Nome completo: Valdison de Sousa Moreira; joga no meio e no ataque",
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -1695,10 +1758,30 @@
     }
    ],
    "fontes": [
-    "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
+    "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "id": "2026-11-12-alessandro-marilia",
-   "atualizado": "2026-11-17T06:59:00-03:00"
+   "ficha": {
+    "clubes_anteriores": [
+     "Figueirense (base)",
+     "Juventude",
+     "Ceará",
+     "Ituano",
+     "Botafogo-PB",
+     "Santo André",
+     "São Luiz",
+     "Luverdense",
+     "Dourados",
+     "Lagarto",
+     "Passo Fundo"
+    ],
+    "titulos": [
+     "Divisão de Acesso Gaúcha 2026 (Passo Fundo)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-11",
@@ -1713,7 +1796,8 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "anuncio_do_clube": true,
    "numeros_2026": {
@@ -1724,7 +1808,19 @@
     "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
    },
    "id": "2026-11-11-wallace-moraes-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "ficha": {
+    "clubes_anteriores": [
+     "Remo (base)",
+     "Monte Azul",
+     "Primavera-MT",
+     "Barra-SC",
+     "Santa Rosa",
+     "Resende",
+     "Manauara"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-11",
@@ -2585,7 +2681,7 @@
   },
   {
    "data": "2026-11-09",
-   "jogador": "William Rafael",
+   "jogador": "Rafael William",
    "posicao": "Goleiro",
    "de": "",
    "de_slug": "",
@@ -2596,11 +2692,11 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-william-rafael-rio-claro",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/rafael-william/690452",
     "clubes": [
@@ -2610,7 +2706,18 @@
     "minutos": 983,
     "assistencias": 0
    },
-   "nascimento": "2001-09-30"
+   "nascimento": "2001-09-30",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-05",
+    "clubes_anteriores": [
+     "Coritiba (base e profissional)",
+     "São Caetano",
+     "Maringá"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-09",
@@ -2659,11 +2766,11 @@
    "feminino": false,
    "obs": "10 gols em 2026",
    "fontes": [
-    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-theo-lanza-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00",
    "numeros_2026": {
     "jogos": 30,
     "gols": 10,
@@ -2673,7 +2780,19 @@
      "Nova Lavras"
     ],
     "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/"
-   }
+   },
+   "ficha": {
+    "idade": 23,
+    "idade_em": "2026-11-06",
+    "clubes_anteriores": [
+     "Jacareí",
+     "Patrocinense",
+     "Nova Lavras"
+    ],
+    "no_clube": "30 jogos e 10 gols em 2026",
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-09",
@@ -2738,6 +2857,42 @@
   },
   {
    "data": "2026-11-09",
+   "jogador": "Matheus Prado",
+   "posicao": "Meia",
+   "de": "Pelotas",
+   "para": "Marília",
+   "para_slug": "marilia",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/mariliaac1942/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 26,
+    "idade_em": "2026-11-09",
+    "clubes_anteriores": [
+     "Sertãozinho",
+     "Piauí",
+     "Pelotas",
+     "Monte Azul",
+     "Colorado Caieiras",
+     "CEOV Operário",
+     "Francana",
+     "Mamoré",
+     "Itabaiana",
+     "Comercial",
+     "Oratory Youths (Malta)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "id": "2026-11-09-matheus-prado-marilia",
+   "atualizado": "2026-11-20T03:49:00-03:00"
+  },
+  {
+   "data": "2026-11-09",
    "jogador": "Matheus Pellegrini",
    "posicao": "Goleiro",
    "de": "",
@@ -2749,18 +2904,27 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-matheus-pellegrini-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00",
    "numeros_2026": {
     "clubes": [
      "União São João",
      "Comercial"
     ],
     "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
-   }
+   },
+   "ficha": {
+    "idade": 26,
+    "idade_em": "2026-11-05",
+    "clubes_anteriores": [
+     "União São João"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-09",
@@ -2837,11 +3001,11 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-luan-sousa-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00",
    "numeros_2026": {
     "jogos": 6,
     "gols": 7,
@@ -2852,7 +3016,19 @@
     ],
     "obs": "números só pelo Oeste Brasil",
     "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
-   }
+   },
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-05",
+    "no_clube": "Formado na base do clube, volta ao Rio Claro",
+    "clubes_anteriores": [
+     "Santo André",
+     "Santa Catarina",
+     "Oeste-PR (7 gols em 6 jogos)"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-09",
@@ -2937,11 +3113,22 @@
    "feminino": false,
    "obs": "Lateral-esquerdo, revelado pelo Vasco",
    "fontes": [
-    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-gabriel-cunha-rio-claro",
-   "atualizado": "2026-11-14T03:11:00-03:00"
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-07",
+    "clubes_anteriores": [
+     "Vasco (base)",
+     "Catanduva",
+     "União São João"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-09",
@@ -2956,11 +3143,11 @@
    "feminino": false,
    "obs": "20 anos",
    "fontes": [
-    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/"
+    "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+    "https://www.instagram.com/rioclarofco/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-09-gabriel-adao-rio-claro",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/gabriel-adao/1178668",
     "clubes": [
@@ -2972,7 +3159,19 @@
     "gols": 7,
     "assistencias": 0
    },
-   "nascimento": "2006-05-01"
+   "nascimento": "2006-05-01",
+   "ficha": {
+    "idade": 20,
+    "idade_em": "2026-11-09",
+    "clubes_anteriores": [
+     "PSTC (12 jogos, 6 gols em 2026)",
+     "Internacional (base)",
+     "Goiás (base)",
+     "Atlético-GO (base)"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "atualizado": "2026-11-20T03:56:00-03:00"
   },
   {
    "data": "2026-11-09",
@@ -3036,7 +3235,8 @@
    "obs": "",
    "fontes": [
     "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
-    "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "numeros_2026": {
     "clubes": [
@@ -3047,13 +3247,126 @@
     "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
    },
    "id": "2026-11-09-alan-leite-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-alan-leite-marilia.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
     "ia": true
-   }
+   },
+   "ficha": {
+    "clubes_anteriores": [
+     "Guarani",
+     "Campinense",
+     "ASA",
+     "XV de Jaú",
+     "Taquaritinga",
+     "Catanduva",
+     "Coimbra",
+     "Glória"
+    ],
+    "titulos": [
+     "Série A3 2025 (Sertãozinho)",
+     "Paraibano 2022 (Campinense)",
+     "Paraibano 2ª divisão 2022 (Serra Branca)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
+  },
+  {
+   "data": "2026-11-08",
+   "jogador": "Willian Bigode",
+   "posicao": "Volante",
+   "de": "Marília",
+   "para": "Marília",
+   "para_slug": "marilia",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/mariliaac1942/"
+   ],
+   "anuncio_do_clube": true,
+   "de_slug": "marilia",
+   "ficha": {
+    "no_clube": "Marcou um dos gols do jogo do acesso à A2",
+    "clubes_anteriores": [
+     "São Bernardo FC (base)",
+     "Atlético Diadema",
+     "Penapolense",
+     "Francana",
+     "EC São Bernardo",
+     "Ipatinga",
+     "Santo André",
+     "Hercílio Luz"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "id": "2026-11-08-willian-bigode-marilia",
+   "atualizado": "2026-11-20T03:49:00-03:00"
+  },
+  {
+   "data": "2026-11-07",
+   "jogador": "Henrique Guedes",
+   "posicao": "Goleiro",
+   "de": "Marília",
+   "para": "Marília",
+   "para_slug": "marilia",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/mariliaac1942/"
+   ],
+   "anuncio_do_clube": true,
+   "de_slug": "marilia",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-07",
+    "clubes_anteriores": [
+     "Linense",
+     "Araçatuba",
+     "Vocem",
+     "Independente de Limeira",
+     "Atlético Três Corações"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "id": "2026-11-07-henrique-guedes-marilia",
+   "atualizado": "2026-11-20T03:49:00-03:00"
+  },
+  {
+   "data": "2026-11-07",
+   "jogador": "Felipe Nicolas",
+   "posicao": "Goleiro",
+   "de": "Marília",
+   "para": "Marília",
+   "para_slug": "marilia",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/mariliaac1942/"
+   ],
+   "anuncio_do_clube": true,
+   "de_slug": "marilia",
+   "ficha": {
+    "clubes_anteriores": [
+     "Taubaté (base)",
+     "União Suzano",
+     "Santa Catarina"
+    ],
+    "titulos": [
+     "Paulista Segunda Divisão 2021 (União Suzano)",
+     "Série C Catarinense (Santa Catarina)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "id": "2026-11-07-felipe-nicolas-marilia",
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-07",
@@ -3177,7 +3490,8 @@
    "feminino": false,
    "obs": "",
    "fontes": [
-    "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "anuncio_do_clube": true,
    "numeros_2026": {
@@ -3188,7 +3502,16 @@
     "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/"
    },
    "id": "2026-11-06-luiz-gustavo-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "ficha": {
+    "clubes_anteriores": [
+     "XV de Piracicaba"
+    ],
+    "titulos": [
+     "Copa Paulista 2025 (XV de Piracicaba)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-06",
@@ -3229,10 +3552,10 @@
    "obs": "",
    "fontes": [
     "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
-    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "id": "2026-11-06-lucas-alisson-marilia",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/lucas-alisson/550974",
     "clubes": [
@@ -3244,7 +3567,24 @@
     "gols": 1,
     "assistencias": 0
    },
-   "nascimento": "1999-05-13"
+   "nascimento": "1999-05-13",
+   "ficha": {
+    "clubes_anteriores": [
+     "Corinthians (base)",
+     "Fortaleza",
+     "Floresta",
+     "Campinense",
+     "Treze",
+     "Barra",
+     "Santo André",
+     "Barreiras"
+    ],
+    "titulos": [
+     "Série D 2025 (Barra)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-06",
@@ -3310,7 +3650,8 @@
    "obs": "",
    "fontes": [
     "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
-    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "numeros_2026": {
     "clubes": [
@@ -3325,7 +3666,24 @@
     }
    ],
    "id": "2026-11-06-iury-marley-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "ficha": {
+    "clubes_anteriores": [
+     "Bahia (base)",
+     "Atlético-MG (base)",
+     "Taquaritinga",
+     "Princesa",
+     "Mamoré",
+     "Operário-MT",
+     "URT",
+     "Hercílio Luz"
+    ],
+    "titulos": [
+     "Série A3 2025 (Sertãozinho)",
+     "Catarinense Série B 2026 (Hercílio Luz)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-06",
@@ -3599,10 +3957,10 @@
    "obs": "",
    "fontes": [
     "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
-    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "id": "2026-11-05-marcos-moser-marilia",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/marcos-moser/547502",
     "clubes": [
@@ -3615,7 +3973,24 @@
     "gols": 2,
     "assistencias": 1
    },
-   "nascimento": "1998-05-17"
+   "nascimento": "1998-05-17",
+   "ficha": {
+    "clubes_anteriores": [
+     "Coritiba",
+     "Portuguesa",
+     "Juventus-SC",
+     "Racing de Ferrol (Espanha)",
+     "Kalamata (Grécia)",
+     "Capivariano",
+     "ABECAT",
+     "Goiânia"
+    ],
+    "titulos": [
+     "Paulistão A2 2025 (Capivariano)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-05",
@@ -3631,7 +4006,8 @@
    "obs": "",
    "fontes": [
     "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
-    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "numeros_2026": {
     "clubes": [
@@ -3647,7 +4023,23 @@
     }
    ],
    "id": "2026-11-05-keke-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "ficha": {
+    "natural": "Marília (SP)",
+    "clubes_anteriores": [
+     "Mogi Mirim (base)",
+     "Cruzeiro",
+     "Ituano",
+     "Vila Nova",
+     "Figueirense",
+     "Joinville",
+     "Boavista-RJ"
+    ],
+    "titulos": [
+     "Copa Rio 2026 (Boavista)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-05",
@@ -3741,7 +4133,13 @@
     "fonte": "https://www.instagram.com/uniaobarbarense_oficial/"
    },
    "id": "2026-11-05-felipe-araujo-uniao-barbarense",
-   "atualizado": "2026-11-20T03:32:00-03:00"
+   "atualizado": "2026-11-20T03:32:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-felipe-araujo-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-05",
@@ -3880,10 +4278,19 @@
    "obs": "Volta ao clube",
    "fontes": [
     "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
-    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+    "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "id": "2026-11-05-albert-marilia",
-   "atualizado": "2026-11-14T13:01:00-03:00"
+   "ficha": {
+    "no_clube": "54 jogos e 6 gols pelo MAC; vice da Copa Paulista 2022",
+    "clubes_anteriores": [
+     "Portuguesa-RJ",
+     "Pouso Alegre"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-04",
@@ -4322,7 +4729,13 @@
     ],
     "fonte": "https://www.instagram.com/uniaobarbarense_oficial/"
    },
-   "atualizado": "2026-11-20T03:32:00-03:00"
+   "atualizado": "2026-11-20T03:32:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-tiago-barbosa-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-03",
@@ -5041,7 +5454,13 @@
     ],
     "fonte": "https://www.instagram.com/uniaobarbarense_oficial/"
    },
-   "atualizado": "2026-11-20T03:32:00-03:00"
+   "atualizado": "2026-11-20T03:32:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gabriel-oliveira-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-03",
@@ -5057,16 +5476,34 @@
    "obs": "Para a Série A2 de 2027",
    "anuncio_do_clube": true,
    "fontes": [
-    "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/"
+    "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/",
+    "https://www.instagram.com/mariliaac1942/"
    ],
    "id": "2026-11-03-gabriel-oliveira-marilia",
-   "atualizado": "2026-11-14T07:02:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gabriel-oliveira-marilia.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/",
     "ia": true
-   }
+   },
+   "ficha": {
+    "clubes_anteriores": [
+     "Vitória (base)",
+     "Santos (base)",
+     "Ferroviária",
+     "CSA",
+     "Novo Hamburgo",
+     "Anapolina",
+     "Olímpico",
+     "Guarany-AL",
+     "Grêmio São-Carlense"
+    ],
+    "titulos": [
+     "Copa Paulista (São José)"
+    ],
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-11-03",
@@ -5431,6 +5868,32 @@
   },
   {
    "data": "2026-10-30",
+   "jogador": "Leandro Samarone",
+   "posicao": "Auxiliar técnico",
+   "de": "",
+   "para": "Rio Claro",
+   "para_slug": "rioclaro",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/rioclarofco/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 55,
+    "idade_em": "2026-10-30",
+    "clubes_anteriores": [
+     "XV de Piracicaba (auxiliar e técnico)"
+    ],
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "id": "2026-10-30-leandro-samarone-rio-claro",
+   "atualizado": "2026-11-20T03:56:00-03:00"
+  },
+  {
+   "data": "2026-10-30",
    "jogador": "Hugo Henrique",
    "posicao": "Goleiro",
    "de": "",
@@ -5765,6 +6228,30 @@
   },
   {
    "data": "2026-10-28",
+   "jogador": "Marcos Campagnollo",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Rio Claro",
+   "para_slug": "rioclaro",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/rioclarofco/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 56,
+    "idade_em": "2026-10-28",
+    "no_clube": "Era gerente de futebol do clube e assumiu o comando para a A3 2027",
+    "fonte": "https://www.instagram.com/rioclarofco/"
+   },
+   "id": "2026-10-28-marcos-campagnollo-rio-claro",
+   "atualizado": "2026-11-20T03:56:00-03:00"
+  },
+  {
+   "data": "2026-10-28",
    "jogador": "Gustavo Nicola",
    "posicao": "Volante",
    "de": "",
@@ -6023,6 +6510,28 @@
     "fonte": "https://www.instagram.com/ecsantoandre/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-10-18",
+   "jogador": "Marcelo Marelli",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Marília",
+   "para_slug": "marilia",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Apresentado em 19/10 para o Paulistão A2 2027",
+   "fontes": [
+    "https://www.instagram.com/mariliaac1942/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "no_clube": "Novo comandante do MAC para o Paulistão A2 2027",
+    "fonte": "https://www.instagram.com/mariliaac1942/"
+   },
+   "id": "2026-10-18-marcelo-marelli-marilia",
+   "atualizado": "2026-11-20T03:49:00-03:00"
   },
   {
    "data": "2026-10-13",

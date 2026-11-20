@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T03:45:00-03:00",
+ "gerado": "2026-11-20T03:56:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -538,9 +538,9 @@
      "posicao": "Goleiro",
      "numero": 18,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 270,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -590,9 +590,9 @@
      "posicao": "Zagueiro",
      "numero": 4,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 382,
+      "minutos": 472,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -606,9 +606,9 @@
      "posicao": "Zagueiro",
      "numero": 14,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 1,
-      "minutos": 44,
+      "minutos": 134,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -675,9 +675,9 @@
      "posicao": "Lateral",
      "numero": 29,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 1,
-      "minutos": 540,
+      "minutos": 630,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -770,9 +770,9 @@
      "posicao": "Volante",
      "numero": 35,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 180,
+      "minutos": 248,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -786,10 +786,10 @@
      "posicao": "Atacante",
      "numero": 8,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 2,
-      "minutos": 419,
-      "minutos_estimados": false,
+      "minutos": 441,
+      "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
        "Red Bull Bragantino"
@@ -802,9 +802,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 1,
-      "gols": 0,
-      "minutos": 63,
+      "jogos": 2,
+      "gols": 3,
+      "minutos": 131,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -818,9 +818,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 139,
+      "minutos": 161,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -839,9 +839,9 @@
      "posicao": "Atacante",
      "numero": 21,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 450,
+      "minutos": 540,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -921,9 +921,9 @@
      "nome": "Hugo Souza",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 720,
+      "minutos": 810,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -966,9 +966,9 @@
      "nome": "Gabriel Paulista",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 406,
+      "minutos": 496,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -981,9 +981,9 @@
      "nome": "Gustavo Henrique",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 2,
-      "minutos": 720,
+      "minutos": 810,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1049,9 +1049,9 @@
      "nome": "Matheuzinho",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 630,
+      "minutos": 720,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1079,9 +1079,9 @@
      "nome": "Matheus Bidu",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 2,
-      "minutos": 676,
+      "minutos": 755,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1109,9 +1109,9 @@
      "nome": "Allan",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 270,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1124,9 +1124,9 @@
      "nome": "André",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 1,
-      "minutos": 496,
+      "minutos": 575,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1154,9 +1154,9 @@
      "nome": "Breno Bidon",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 610,
+      "minutos": 696,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1184,9 +1184,9 @@
      "nome": "Dieguinho",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 200,
+      "minutos": 204,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1218,9 +1218,9 @@
      "nome": "Matheus Pereira",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 88,
+      "minutos": 99,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1278,9 +1278,9 @@
      "nome": "Kaio César",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 6,
-      "gols": 1,
-      "minutos": 474,
+      "jogos": 7,
+      "gols": 2,
+      "minutos": 545,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1297,9 +1297,9 @@
      "nome": "Labyad",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 44,
+      "minutos": 115,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1312,9 +1312,9 @@
      "nome": "Lingard",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 88,
+      "minutos": 107,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1372,9 +1372,9 @@
      "nome": "Yuri Alberto",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 5,
-      "gols": 1,
-      "minutos": 338,
+      "jogos": 6,
+      "gols": 3,
+      "minutos": 428,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1414,9 +1414,9 @@
      "posicao": "Goleiro",
      "numero": 22,
      "numeros": {
-      "jogos": 11,
+      "jogos": 12,
       "gols": 0,
-      "minutos": 990,
+      "minutos": 1080,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1428,7 +1428,18 @@
     {
      "nome": "Thomazella",
      "posicao": "Goleiro",
-     "numero": 90
+     "numero": 90,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Alex Muralha",
@@ -1477,9 +1488,9 @@
      "posicao": "Lateral",
      "numero": 32,
      "numeros": {
-      "jogos": 9,
-      "gols": 2,
-      "minutos": 788,
+      "jogos": 10,
+      "gols": 3,
+      "minutos": 878,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1509,9 +1520,9 @@
      "posicao": "Lateral",
      "numero": 6,
      "numeros": {
-      "jogos": 11,
+      "jogos": 13,
       "gols": 2,
-      "minutos": 968,
+      "minutos": 1148,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1525,9 +1536,9 @@
      "posicao": "Zagueiro",
      "numero": 44,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 90,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1561,9 +1572,9 @@
      "posicao": "Zagueiro",
      "numero": 97,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 112,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1593,9 +1604,9 @@
      "posicao": "Zagueiro",
      "numero": 34,
      "numeros": {
-      "jogos": 13,
-      "gols": 1,
-      "minutos": 1154,
+      "jogos": 15,
+      "gols": 2,
+      "minutos": 1334,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1622,12 +1633,34 @@
     },
     {
      "nome": "Gustavo Cazonatti",
-     "posicao": "Meia"
+     "posicao": "Meia",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 13,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Japa",
      "posicao": "Meia",
-     "numero": 5
+     "numero": 5,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 85,
+      "minutos_estimados": false,
+      "clube": "Mirassol",
+      "clubes": [
+       "Mirassol"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gabriel Pires",
@@ -1666,9 +1699,9 @@
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 10,
+      "jogos": 11,
       "gols": 1,
-      "minutos": 610,
+      "minutos": 641,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1682,9 +1715,9 @@
      "posicao": "Meia",
      "numero": 33,
      "numeros": {
-      "jogos": 11,
+      "jogos": 13,
       "gols": 3,
-      "minutos": 654,
+      "minutos": 821,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1698,9 +1731,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 9,
+      "jogos": 11,
       "gols": 1,
-      "minutos": 428,
+      "minutos": 608,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1714,9 +1747,9 @@
      "posicao": "Meia",
      "numero": 10,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 156,
+      "minutos": 161,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1767,9 +1800,9 @@
      "posicao": "Atacante",
      "numero": 30,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 316,
+      "minutos": 406,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1815,9 +1848,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 1,
-      "minutos": 226,
+      "minutos": 316,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1832,7 +1865,7 @@
      "numero": 9,
      "numeros": {
       "jogos": 6,
-      "gols": 1,
+      "gols": 2,
       "minutos": 224,
       "minutos_estimados": true,
       "clube": "Mirassol",
@@ -1868,9 +1901,9 @@
      "posicao": "Atacante",
      "numero": 95,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 292,
+      "minutos": 377,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1884,9 +1917,9 @@
      "posicao": "Atacante",
      "numero": 96,
      "numeros": {
-      "jogos": 9,
+      "jogos": 11,
       "gols": 0,
-      "minutos": 312,
+      "minutos": 407,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -2401,9 +2434,9 @@
      "posicao": "Goleiro",
      "numero": 1,
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 840,
+      "minutos": 930,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2443,10 +2476,10 @@
      "posicao": "Zagueiro",
      "numero": 3,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
-      "minutos_estimados": false,
+      "minutos": 202,
+      "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
        "Palmeiras"
@@ -2459,9 +2492,9 @@
      "posicao": "Zagueiro",
      "numero": 15,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 1,
-      "minutos": 706,
+      "minutos": 796,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2475,9 +2508,9 @@
      "posicao": "Zagueiro",
      "numero": 26,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 630,
+      "minutos": 720,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2496,10 +2529,10 @@
      "posicao": "Lateral",
      "numero": 12,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 338,
-      "minutos_estimados": false,
+      "minutos": 360,
+      "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
        "Palmeiras"
@@ -2526,7 +2559,18 @@
     {
      "nome": "Jefté",
      "posicao": "Lateral",
-     "numero": 6
+     "numero": 6,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Joaquín Piquerez",
@@ -2538,9 +2582,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 482,
+      "minutos": 550,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2602,9 +2646,9 @@
      "posicao": "Meia",
      "numero": 30,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 412,
+      "minutos": 434,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2618,9 +2662,9 @@
      "posicao": "Meia",
      "numero": 17,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 706,
+      "minutos": 796,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2634,9 +2678,9 @@
      "posicao": "Meia",
      "numero": 18,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 4,
-      "minutos": 450,
+      "minutos": 472,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2650,9 +2694,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 2,
-      "minutos": 428,
+      "minutos": 496,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2669,7 +2713,18 @@
     {
      "nome": "Paulinho",
      "posicao": "Atacante",
-     "numero": 10
+     "numero": 10,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Ramón Sosa",
@@ -2777,10 +2832,10 @@
      "posicao": "Volante",
      "numero": 8,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 270,
-      "minutos_estimados": false,
+      "minutos": 292,
+      "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
        "São Paulo"
@@ -2793,9 +2848,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 360,
+      "minutos": 428,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2889,9 +2944,9 @@
      "posicao": "Atacante",
      "numero": 17,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 158,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2921,9 +2976,9 @@
      "posicao": "Lateral",
      "numero": 19,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 270,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2974,9 +3029,9 @@
      "posicao": "Goleiro",
      "numero": 23,
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 810,
+      "minutos": 900,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3011,9 +3066,9 @@
      "posicao": "Meia",
      "numero": 29,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 275,
+      "minutos": 365,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3046,7 +3101,18 @@
     {
      "nome": "Tete",
      "posicao": "Atacante",
-     "numero": 34
+     "numero": 34,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Sabino",
@@ -3069,9 +3135,9 @@
      "posicao": "Atacante",
      "numero": 37,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 338,
+      "minutos": 406,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3106,9 +3172,9 @@
      "posicao": "Atacante",
      "numero": 45,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 44,
+      "minutos": 66,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3174,9 +3240,9 @@
      "posicao": "Zagueiro",
      "numero": 54,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3222,9 +3288,9 @@
      "posicao": "Meia",
      "numero": 94,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 355,
+      "minutos": 423,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3538,7 +3604,12 @@
     {
      "nome": "Tiago Barbosa",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-tiago-barbosa-uniao-barbarense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/tiago-mumu/867694",
@@ -3750,7 +3821,12 @@
     {
      "nome": "Gabriel Oliveira",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gabriel-oliveira-uniao-barbarense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -3856,7 +3932,12 @@
     {
      "nome": "Felipe Araújo",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-felipe-araujo-uniao-barbarense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -5479,6 +5560,629 @@
    ],
    "sairam": []
   },
+  "marilia": {
+   "atualizado": "2026-11-12",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Marcelo Marelli",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "no_clube": "Novo comandante do MAC para o Paulistão A2 2027"
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Gabriel Oliveira",
+     "posicao": "Zagueiro",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gabriel-oliveira-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "São José",
+     "ficha": {
+      "clubes_anteriores": [
+       "Vitória (base)",
+       "Santos (base)",
+       "Ferroviária",
+       "CSA",
+       "Novo Hamburgo",
+       "Anapolina",
+       "Olímpico",
+       "Guarany-AL",
+       "Grêmio São-Carlense"
+      ],
+      "titulos": [
+       "Copa Paulista (São José)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Marcos Moser",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/marcos-moser/547502",
+      "clubes": [
+       "Goiânia",
+       "ABECAT Ouvidorense",
+       "Capivariano"
+      ],
+      "jogos": 27,
+      "minutos": 2145,
+      "gols": 2,
+      "assistencias": 1,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1998-05-17",
+     "de": "Capivariano",
+     "ficha": {
+      "clubes_anteriores": [
+       "Coritiba",
+       "Portuguesa",
+       "Juventus-SC",
+       "Racing de Ferrol (Espanha)",
+       "Kalamata (Grécia)",
+       "Capivariano",
+       "ABECAT",
+       "Goiânia"
+      ],
+      "titulos": [
+       "Paulistão A2 2025 (Capivariano)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Keké",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Joinville",
+       "Boavista-RJ"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+      "escudos": {
+       "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png",
+       "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
+      }
+     },
+     "selos": [
+      {
+       "texto": "Campeão da Copa Rio 2026",
+       "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Boavista-RJ",
+     "ficha": {
+      "natural": "Marília (SP)",
+      "clubes_anteriores": [
+       "Mogi Mirim (base)",
+       "Cruzeiro",
+       "Ituano",
+       "Vila Nova",
+       "Figueirense",
+       "Joinville",
+       "Boavista-RJ"
+      ],
+      "titulos": [
+       "Copa Rio 2026 (Boavista)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "João Lucas",
+     "posicao": "Meia",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Erik Bessa",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/erik-bessa/562792",
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "jogos": 35,
+      "minutos": 924,
+      "gols": 2,
+      "assistencias": 1,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1996-05-24",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Alyson Motta",
+     "posicao": "Atacante",
+     "renovou": true,
+     "foto": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/alyson-motta/647950",
+      "clubes": [
+       "Marília",
+       "Tirol",
+       "EC São Bernardo"
+      ],
+      "jogos": 29,
+      "minutos": 1775,
+      "gols": 3,
+      "assistencias": 3,
+      "escudos": {}
+     },
+     "selos": [],
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Albert",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "no_clube": "54 jogos e 6 gols pelo MAC; vice da Copa Paulista 2022",
+      "clubes_anteriores": [
+       "Portuguesa-RJ",
+       "Pouso Alegre"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 15,
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "XV de Piracicaba",
+     "ficha": {
+      "clubes_anteriores": [
+       "XV de Piracicaba"
+      ],
+      "titulos": [
+       "Copa Paulista 2025 (XV de Piracicaba)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Lucas Alisson",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-alisson/550974",
+      "clubes": [
+       "Barreiras FC",
+       "Santo André"
+      ],
+      "jogos": 19,
+      "minutos": 1363,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1999-05-13",
+     "de": "Santo André",
+     "ficha": {
+      "clubes_anteriores": [
+       "Corinthians (base)",
+       "Fortaleza",
+       "Floresta",
+       "Campinense",
+       "Treze",
+       "Barra",
+       "Santo André",
+       "Barreiras"
+      ],
+      "titulos": [
+       "Série D 2025 (Barra)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Iury Marley",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Hercílio Luz"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+      "escudos": {
+       "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+      }
+     },
+     "selos": [
+      {
+       "texto": "Campeão Catarinense 2026",
+       "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Hercílio Luz",
+     "ficha": {
+      "clubes_anteriores": [
+       "Bahia (base)",
+       "Atlético-MG (base)",
+       "Taquaritinga",
+       "Princesa",
+       "Mamoré",
+       "Operário-MT",
+       "URT",
+       "Hercílio Luz"
+      ],
+      "titulos": [
+       "Série A3 2025 (Sertãozinho)",
+       "Catarinense Série B 2026 (Hercílio Luz)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Henrique Guedes",
+     "posicao": "Goleiro",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-07",
+      "clubes_anteriores": [
+       "Linense",
+       "Araçatuba",
+       "Vocem",
+       "Independente de Limeira",
+       "Atlético Três Corações"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Felipe Nicolas",
+     "posicao": "Goleiro",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {
+      "clubes_anteriores": [
+       "Taubaté (base)",
+       "União Suzano",
+       "Santa Catarina"
+      ],
+      "titulos": [
+       "Paulista Segunda Divisão 2021 (União Suzano)",
+       "Série C Catarinense (Santa Catarina)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Willian Bigode",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {
+      "no_clube": "Marcou um dos gols do jogo do acesso à A2",
+      "clubes_anteriores": [
+       "São Bernardo FC (base)",
+       "Atlético Diadema",
+       "Penapolense",
+       "Francana",
+       "EC São Bernardo",
+       "Ipatinga",
+       "Santo André",
+       "Hercílio Luz"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Matheus Prado",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Pelotas",
+     "ficha": {
+      "idade": 26,
+      "idade_em": "2026-11-09",
+      "clubes_anteriores": [
+       "Sertãozinho",
+       "Piauí",
+       "Pelotas",
+       "Monte Azul",
+       "Colorado Caieiras",
+       "CEOV Operário",
+       "Francana",
+       "Mamoré",
+       "Itabaiana",
+       "Comercial",
+       "Oratory Youths (Malta)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Alan Leite",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-alan-leite-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Catanduva",
+       "Coimbra Sports",
+       "Glória"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+      "escudos": {
+       "Glória": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gloria.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "clubes_anteriores": [
+       "Guarani",
+       "Campinense",
+       "ASA",
+       "XV de Jaú",
+       "Taquaritinga",
+       "Catanduva",
+       "Coimbra",
+       "Glória"
+      ],
+      "titulos": [
+       "Série A3 2025 (Sertãozinho)",
+       "Paraibano 2022 (Campinense)",
+       "Paraibano 2ª divisão 2022 (Serra Branca)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gustavo Kuhn",
+     "posicao": "Lateral",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-gustavo-kuhn-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {
+      "jogos": 16,
+      "gols": 1,
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "XV de Piracicaba",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Wallace Moraes",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Monte Azul",
+       "Primavera-MT"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Primavera-MT",
+     "ficha": {
+      "clubes_anteriores": [
+       "Remo (base)",
+       "Monte Azul",
+       "Primavera-MT",
+       "Barra-SC",
+       "Santa Rosa",
+       "Resende",
+       "Manauara"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Alessandro",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Dourados-MS",
+       "Lagarto-SE",
+       "Passo Fundo"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/",
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Campeão Gaúcho Série A2 2026",
+       "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
+      }
+     ],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "clubes_anteriores": [
+       "Figueirense (base)",
+       "Juventude",
+       "Ceará",
+       "Ituano",
+       "Botafogo-PB",
+       "Santo André",
+       "São Luiz",
+       "Luverdense",
+       "Dourados",
+       "Lagarto",
+       "Passo Fundo"
+      ],
+      "titulos": [
+       "Divisão de Acesso Gaúcha 2026 (Passo Fundo)"
+      ]
+     },
+     "comissao": false
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Marcelo Marelli",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-18"
+    },
+    {
+     "nome": "Gabriel Oliveira",
+     "de": "São José",
+     "tipo": "Contratação",
+     "data": "2026-11-03"
+    },
+    {
+     "nome": "Marcos Moser",
+     "de": "Capivariano",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Keké",
+     "de": "Boavista-RJ",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Erik Bessa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Albert",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-05"
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "de": "XV de Piracicaba",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Lucas Alisson",
+     "de": "Santo André",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Iury Marley",
+     "de": "Hercílio Luz",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Matheus Prado",
+     "de": "Pelotas",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Alan Leite",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Gustavo Kuhn",
+     "de": "XV de Piracicaba",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Wallace Moraes",
+     "de": "Primavera-MT",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Alessandro",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    }
+   ],
+   "sairam": []
+  },
   "uniao-sao-joao": {
    "atualizado": "2026-11-18",
    "fonte": "",
@@ -5869,6 +6573,508 @@
      "estava_no_elenco": false
     }
    ]
+  },
+  "rioclaro": {
+   "atualizado": "2026-11-19",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Marcos Campagnollo",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 56,
+      "idade_em": "2026-10-28",
+      "no_clube": "Era gerente de futebol do clube e assumiu o comando para a A3 2027"
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Leandro Samarone",
+     "posicao": "Auxiliar técnico",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 55,
+      "idade_em": "2026-10-30",
+      "clubes_anteriores": [
+       "XV de Piracicaba (auxiliar e técnico)"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Vitor Braga",
+     "posicao": "Meia",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-vitor-braga-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/paulistao-a3-rio-claro-vitor-braga/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Rafael William",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rafael-william/690452",
+      "clubes": [
+       "São Caetano"
+      ],
+      "jogos": 11,
+      "minutos": 983,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2001-09-30",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-05",
+      "clubes_anteriores": [
+       "Coritiba (base e profissional)",
+       "São Caetano",
+       "Maringá"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Vinicius Sousa",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-vinicius-sousa-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {
+      "jogos": 18,
+      "gols": 3,
+      "clube": "Rio Preto (Série A3)",
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "clubes": [
+       "Rio Preto (Série A3)"
+      ],
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Rio Preto",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Theo Lanza",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 30,
+      "gols": 10,
+      "clubes": [
+       "Jacareí",
+       "Patrocinense",
+       "Nova Lavras"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/",
+      "escudos": {
+       "Patrocinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/patrocinense.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 23,
+      "idade_em": "2026-11-06",
+      "clubes_anteriores": [
+       "Jacareí",
+       "Patrocinense",
+       "Nova Lavras"
+      ],
+      "no_clube": "30 jogos e 10 gols em 2026"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Pedro Da Dalto",
+     "posicao": "Zagueiro",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-pedro-da-dalto-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "ia": true
+     },
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/pedro-da-dalto/722689",
+      "clubes": [
+       "Maracanã"
+      ],
+      "jogos": 13,
+      "minutos": 940,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2003-03-23",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Matheus Pellegrini",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "União São João",
+       "Comercial"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 26,
+      "idade_em": "2026-11-05",
+      "clubes_anteriores": [
+       "União São João"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Luan Sousa",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 6,
+      "gols": 7,
+      "clubes": [
+       "Santo André",
+       "Santa Catarina",
+       "Oeste Brasil"
+      ],
+      "obs": "números só pelo Oeste Brasil",
+      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+      "escudos": {
+       "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-05",
+      "no_clube": "Formado na base do clube, volta ao Rio Claro",
+      "clubes_anteriores": [
+       "Santo André",
+       "Santa Catarina",
+       "Oeste-PR (7 gols em 6 jogos)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gabriel Cunha",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-07",
+      "clubes_anteriores": [
+       "Vasco (base)",
+       "Catanduva",
+       "União São João"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gabriel Adão",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gabriel-adao/1178668",
+      "clubes": [
+       "PSTC",
+       "Atlético Goianiense"
+      ],
+      "jogos": 26,
+      "minutos": 1423,
+      "gols": 7,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2006-05-01",
+     "de": "",
+     "ficha": {
+      "idade": 20,
+      "idade_em": "2026-11-09",
+      "clubes_anteriores": [
+       "PSTC (12 jogos, 6 gols em 2026)",
+       "Internacional (base)",
+       "Goiás (base)",
+       "Atlético-GO (base)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Rayan Corrêa",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rayan-correa/721948",
+      "clubes": [
+       "Valeriodoce",
+       "Galo Maringá"
+      ],
+      "jogos": 12,
+      "minutos": 660,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2002-04-25",
+     "de": "",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-14",
+      "clubes_anteriores": [
+       "EC São Bernardo"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Kleverson",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Rio Preto",
+       "Juventus-SC"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Juventus-SC",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-18",
+      "clubes_anteriores": [
+       "Rio Preto (16 jogos na A3 2026)",
+       "Juventus-SC"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gustavo Pereira",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-15",
+      "clubes_anteriores": [
+       "Blumenau (15 jogos, 4 gols)",
+       "Francana (6 gols em 9 jogos na A3)"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Chileno",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/chileno/736932",
+      "clubes": [
+       "Bataguassu"
+      ],
+      "jogos": 9,
+      "minutos": 614,
+      "gols": 2,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2002-07-25",
+     "de": "",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-13",
+      "no_clube": "Nome completo: Valdison de Sousa Moreira; joga no meio e no ataque"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gabriel Kenji",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Tanabi",
+     "ficha": {
+      "idade": 23,
+      "idade_em": "2026-11-19",
+      "no_clube": "Segunda passagem: em 2024 fez 7 jogos e 1 gol na Copa Paulista",
+      "clubes_anteriores": [
+       "Tanabi (28 jogos em 2026)"
+      ]
+     },
+     "comissao": false
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Marcos Campagnollo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-28"
+    },
+    {
+     "nome": "Leandro Samarone",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-30"
+    },
+    {
+     "nome": "Vitor Braga",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Rafael William",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Vinicius Sousa",
+     "de": "Rio Preto",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Theo Lanza",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Pedro Da Dalto",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Matheus Pellegrini",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Luan Sousa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Gabriel Cunha",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Gabriel Adão",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Rayan Corrêa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Kleverson",
+     "de": "Juventus-SC",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Gustavo Pereira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Chileno",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Gabriel Kenji",
+     "de": "Tanabi",
+     "tipo": "Contratação",
+     "data": "2026-11-19"
+    }
+   ],
+   "sairam": []
   },
   "vocem": {
    "atualizado": "2026-10-29",
@@ -6289,743 +7495,6 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-18"
-    }
-   ],
-   "sairam": []
-  },
-  "marilia": {
-   "atualizado": "2026-11-12",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Gabriel Oliveira",
-     "posicao": "Zagueiro",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-gabriel-oliveira-marilia.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/marilia-contrata-zagueiro-serie-a2/",
-      "ia": true
-     },
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "São José",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Marcos Moser",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/marcos-moser/547502",
-      "clubes": [
-       "Goiânia",
-       "ABECAT Ouvidorense",
-       "Capivariano"
-      ],
-      "jogos": 27,
-      "minutos": 2145,
-      "gols": 2,
-      "assistencias": 1,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "1998-05-17",
-     "de": "Capivariano",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Keké",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Joinville",
-       "Boavista-RJ"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
-      "escudos": {
-       "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png",
-       "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
-      }
-     },
-     "selos": [
-      {
-       "texto": "Campeão da Copa Rio 2026",
-       "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
-      }
-     ],
-     "nascimento": "",
-     "de": "Boavista-RJ",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "João Lucas",
-     "posicao": "Meia",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": [],
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Erik Bessa",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/erik-bessa/562792",
-      "clubes": [
-       "XV de Piracicaba"
-      ],
-      "jogos": 35,
-      "minutos": 924,
-      "gols": 2,
-      "assistencias": 1,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "1996-05-24",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Alyson Motta",
-     "posicao": "Atacante",
-     "renovou": true,
-     "foto": null,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/alyson-motta/647950",
-      "clubes": [
-       "Marília",
-       "Tirol",
-       "EC São Bernardo"
-      ],
-      "jogos": 29,
-      "minutos": 1775,
-      "gols": 3,
-      "assistencias": 3,
-      "escudos": {}
-     },
-     "selos": [],
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Albert",
-     "posicao": "Volante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Luiz Gustavo",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "jogos": 15,
-      "clubes": [
-       "XV de Piracicaba"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/",
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "XV de Piracicaba",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Lucas Alisson",
-     "posicao": "Volante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/lucas-alisson/550974",
-      "clubes": [
-       "Barreiras FC",
-       "Santo André"
-      ],
-      "jogos": 19,
-      "minutos": 1363,
-      "gols": 1,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "1999-05-13",
-     "de": "Santo André",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Iury Marley",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Hercílio Luz"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
-      "escudos": {
-       "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
-      }
-     },
-     "selos": [
-      {
-       "texto": "Campeão Catarinense 2026",
-       "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
-      }
-     ],
-     "nascimento": "",
-     "de": "Hercílio Luz",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Alan Leite",
-     "posicao": "Atacante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-alan-leite-marilia.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
-      "ia": true
-     },
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Catanduva",
-       "Coimbra Sports",
-       "Glória"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
-      "escudos": {
-       "Glória": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gloria.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Gustavo Kuhn",
-     "posicao": "Lateral",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-gustavo-kuhn-marilia.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
-      "ia": true
-     },
-     "novo": true,
-     "numeros": {
-      "jogos": 16,
-      "gols": 1,
-      "clubes": [
-       "XV de Piracicaba"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "XV de Piracicaba",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Wallace Moraes",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Monte Azul",
-       "Primavera-MT"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "Primavera-MT",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Alessandro",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Dourados-MS",
-       "Lagarto-SE",
-       "Passo Fundo"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/",
-      "escudos": {}
-     },
-     "selos": [
-      {
-       "texto": "Campeão Gaúcho Série A2 2026",
-       "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
-      }
-     ],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Gabriel Oliveira",
-     "de": "São José",
-     "tipo": "Contratação",
-     "data": "2026-11-03"
-    },
-    {
-     "nome": "Marcos Moser",
-     "de": "Capivariano",
-     "tipo": "Contratação",
-     "data": "2026-11-05"
-    },
-    {
-     "nome": "Keké",
-     "de": "Boavista-RJ",
-     "tipo": "Contratação",
-     "data": "2026-11-05"
-    },
-    {
-     "nome": "Erik Bessa",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-05"
-    },
-    {
-     "nome": "Albert",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-05"
-    },
-    {
-     "nome": "Luiz Gustavo",
-     "de": "XV de Piracicaba",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
-    },
-    {
-     "nome": "Lucas Alisson",
-     "de": "Santo André",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
-    },
-    {
-     "nome": "Iury Marley",
-     "de": "Hercílio Luz",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
-    },
-    {
-     "nome": "Alan Leite",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Gustavo Kuhn",
-     "de": "XV de Piracicaba",
-     "tipo": "Contratação",
-     "data": "2026-11-10"
-    },
-    {
-     "nome": "Wallace Moraes",
-     "de": "Primavera-MT",
-     "tipo": "Contratação",
-     "data": "2026-11-11"
-    },
-    {
-     "nome": "Alessandro",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-12"
-    }
-   ],
-   "sairam": []
-  },
-  "rioclaro": {
-   "atualizado": "2026-11-17",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Vitor Braga",
-     "posicao": "Meia",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-vitor-braga-rio-claro.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/paulistao-a3-rio-claro-vitor-braga/",
-      "ia": true
-     },
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "William Rafael",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/rafael-william/690452",
-      "clubes": [
-       "São Caetano"
-      ],
-      "jogos": 11,
-      "minutos": 983,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2001-09-30",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Vinicius Sousa",
-     "posicao": "Atacante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-vinicius-sousa-rio-claro.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
-      "ia": true
-     },
-     "novo": true,
-     "numeros": {
-      "jogos": 18,
-      "gols": 3,
-      "clube": "Rio Preto (Série A3)",
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
-      "clubes": [
-       "Rio Preto (Série A3)"
-      ],
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "Rio Preto",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Theo Lanza",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "jogos": 30,
-      "gols": 10,
-      "clubes": [
-       "Jacareí",
-       "Patrocinense",
-       "Nova Lavras"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/",
-      "escudos": {
-       "Patrocinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/patrocinense.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Pedro Da Dalto",
-     "posicao": "Zagueiro",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-pedro-da-dalto-rio-claro.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
-      "ia": true
-     },
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/pedro-da-dalto/722689",
-      "clubes": [
-       "Maracanã"
-      ],
-      "jogos": 13,
-      "minutos": 940,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2003-03-23",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Matheus Pellegrini",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "União São João",
-       "Comercial"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Luan Sousa",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "jogos": 6,
-      "gols": 7,
-      "clubes": [
-       "Santo André",
-       "Santa Catarina",
-       "Oeste Brasil"
-      ],
-      "obs": "números só pelo Oeste Brasil",
-      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
-      "escudos": {
-       "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Gabriel Cunha",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Gabriel Adão",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/gabriel-adao/1178668",
-      "clubes": [
-       "PSTC",
-       "Atlético Goianiense"
-      ],
-      "jogos": 26,
-      "minutos": 1423,
-      "gols": 7,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2006-05-01",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Rayan Corrêa",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/rayan-correa/721948",
-      "clubes": [
-       "Valeriodoce",
-       "Galo Maringá"
-      ],
-      "jogos": 12,
-      "minutos": 660,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2002-04-25",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Kleverson",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Rio Preto",
-       "Juventus-SC"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "Juventus-SC",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Gustavo Pereira",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Chileno",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/chileno/736932",
-      "clubes": [
-       "Bataguassu"
-      ],
-      "jogos": 9,
-      "minutos": 614,
-      "gols": 2,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2002-07-25",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Vitor Braga",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "William Rafael",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Vinicius Sousa",
-     "de": "Rio Preto",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Theo Lanza",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Pedro Da Dalto",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Matheus Pellegrini",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Luan Sousa",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Gabriel Cunha",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Gabriel Adão",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Rayan Corrêa",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-17"
-    },
-    {
-     "nome": "Kleverson",
-     "de": "Juventus-SC",
-     "tipo": "Contratação",
-     "data": "2026-11-17"
-    },
-    {
-     "nome": "Gustavo Pereira",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-17"
-    },
-    {
-     "nome": "Chileno",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-17"
     }
    ],
    "sairam": []
