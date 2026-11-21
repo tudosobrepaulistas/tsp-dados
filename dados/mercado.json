@@ -4,6 +4,150 @@
  "itens": [
   {
    "data": "2026-11-20",
+   "jogador": "Nathan",
+   "posicao": "Goleiro",
+   "de": "Bandeirante",
+   "para": "São Bento",
+   "de_slug": "bandeirante",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube onde foi da base (sub-20 em 2021 e 2022)",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-nathan-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Matheus Carvalho",
+   "posicao": "Meia",
+   "de": "XV de Piracicaba",
+   "para": "São Bento",
+   "de_slug": "xvdepiracicaba",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Campeão brasileiro pelo Fluminense (2010 e 2012); últimas duas temporadas no XV de Piracicaba",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 34,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-matheus-carvalho-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Mateus Brandão",
+   "posicao": "Zagueiro",
+   "de": "SSA FC",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Em 2026 jogou pelo SSA FC",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 26,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-mateus-brandao-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Marcos Paulo",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 29,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-marcos-paulo-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Lucas Martins",
+   "posicao": "Meia",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado na base do Guarani",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 21,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-lucas-martins-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Léo Lopes",
+   "posicao": "Goleiro",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 28,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-leo-lopes-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
    "jogador": "Gutieri",
    "posicao": "",
    "de": "",
@@ -98,6 +242,121 @@
     "fonte": "https://www.instagram.com/votuporanguenseoficial/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Fábio Bahia",
+   "posicao": "Volante",
+   "de": "São Bento",
+   "para": "São Bento",
+   "de_slug": "saobento",
+   "para_slug": "saobento",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Renovou para 2027 (prazo não divulgado)",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-20-fabio-bahia-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Deivid",
+   "posicao": "Atacante",
+   "de": "Linense",
+   "para": "São Bento",
+   "de_slug": "linense",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Segunda passagem pelo São Bento; em 2026 jogou pelo Linense",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 38,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-deivid-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Arthur Silveira",
+   "posicao": "Goleiro",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-arthur-silveira-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Arthur Querobino",
+   "posicao": "Lateral",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-arthur-querobino-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Alef Leite",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Em 2026 jogou pelo Rio Preto e pelo Goiatuba",
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 32,
+    "idade_em": "2026-11-20",
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   },
+   "id": "2026-11-20-alef-leite-sao-bento",
+   "atualizado": "2026-11-21T06:56:00-03:00"
   },
   {
    "data": "2026-11-19",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T03:53:00-03:00",
+ "gerado": "2026-11-21T06:56:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -11,6 +11,252 @@
   "promovido": "Subiu da base"
  },
  "itens": [
+  {
+   "id": "2026-11-20-nathan-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Nathan",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube onde foi da base (sub-20 em 2021 e 2022)",
+   "de": {
+    "nome": "Bandeirante",
+    "slug": "bandeirante",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-matheus-carvalho-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Matheus Carvalho",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Campeão brasileiro pelo Fluminense (2010 e 2012); últimas duas temporadas no XV de Piracicaba",
+   "de": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 34,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-mateus-brandao-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Mateus Brandão",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Em 2026 jogou pelo SSA FC",
+   "de": {
+    "nome": "SSA FC",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 26,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-marcos-paulo-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Marcos Paulo",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 29,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-lucas-martins-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Lucas Martins",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado na base do Guarani",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 21,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-leo-lopes-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Léo Lopes",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 28,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
   {
    "id": "2026-11-20-gutieri-votuporanguense",
    "data": "2026-11-20",
@@ -182,6 +428,208 @@
    "ficha": {},
    "comissao": false,
    "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-20-fabio-bahia-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Fábio Bahia",
+   "posicao": "Volante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Renovou para 2027 (prazo não divulgado)",
+   "de": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-deivid-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Deivid",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Segunda passagem pelo São Bento; em 2026 jogou pelo Linense",
+   "de": {
+    "nome": "Linense",
+    "slug": "linense",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 38,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-arthur-silveira-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Arthur Silveira",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-arthur-querobino-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Arthur Querobino",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-alef-leite-sao-bento",
+   "data": "2026-11-20",
+   "jogador": "Alef Leite",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Em 2026 jogou pelo Rio Preto e pelo Goiatuba",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 32,
+    "idade_em": "2026-11-20"
+   },
+   "comissao": false,
+   "dono": "saobento"
   },
   {
    "id": "2026-11-19-vinicios-andrade-paulista",

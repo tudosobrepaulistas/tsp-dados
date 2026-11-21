@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T03:53:00-03:00",
+ "gerado": "2026-11-21T06:56:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -9750,6 +9750,236 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-18"
+    }
+   ],
+   "sairam": []
+  },
+  "saobento": {
+   "atualizado": "2026-11-20",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Nathan",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Bandeirante",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Matheus Carvalho",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "XV de Piracicaba",
+     "ficha": {
+      "idade": 34,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Mateus Brandão",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "SSA FC",
+     "ficha": {
+      "idade": 26,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Marcos Paulo",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 29,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Lucas Martins",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 21,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Léo Lopes",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 28,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Fábio Bahia",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Deivid",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Linense",
+     "ficha": {
+      "idade": 38,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Arthur Silveira",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Arthur Querobino",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Alef Leite",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 32,
+      "idade_em": "2026-11-20"
+     },
+     "comissao": false
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Nathan",
+     "de": "Bandeirante",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Matheus Carvalho",
+     "de": "XV de Piracicaba",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Mateus Brandão",
+     "de": "SSA FC",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Marcos Paulo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Lucas Martins",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Léo Lopes",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Deivid",
+     "de": "Linense",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Arthur Silveira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Arthur Querobino",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Alef Leite",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
     }
    ],
    "sairam": []
