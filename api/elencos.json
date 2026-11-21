@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T21:55:00-03:00",
+ "gerado": "2026-11-20T22:04:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -6032,7 +6032,12 @@
     {
      "nome": "Matheus Prado",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-matheus-prado-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/mariliaac1942/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -6128,7 +6133,12 @@
     {
      "nome": "Wallace Moraes",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-wallace-moraes-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/mariliaac1942/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -6157,7 +6167,12 @@
     {
      "nome": "Alessandro",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-alessandro-marilia.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/mariliaac1942/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -7601,6 +7616,244 @@
    ],
    "sairam": []
   },
+  "votuporanguense": {
+   "atualizado": "2026-11-20",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Jonatas Paulista",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Hugo Costa",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Danilo Guimarães",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/danilo-guimaraes/699608",
+      "clubes": [
+       "São José-RS"
+      ],
+      "jogos": 13,
+      "minutos": 622,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {
+       "São José-RS": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "1997-08-19",
+     "de": "São José-RS",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Bonassa",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Luan Oliveira",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Rio Claro",
+       "Ivinhema-MS",
+       "Interporto-TO"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/votuporanguense-fecha-com-luan-oliveira/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Interporto-TO",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Amorim",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Reginaldo",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Gutieri",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Guilherme",
+     "posicao": "",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Gabriel Félix",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Fernandinho",
+     "posicao": "",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {},
+     "comissao": false
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Jonatas Paulista",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-02"
+    },
+    {
+     "nome": "Hugo Costa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Luiz Gustavo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Danilo Guimarães",
+     "de": "São José-RS",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Bonassa",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Luan Oliveira",
+     "de": "Interporto-TO",
+     "tipo": "Contratação",
+     "data": "2026-11-16"
+    },
+    {
+     "nome": "Amorim",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
+    },
+    {
+     "nome": "Reginaldo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-19"
+    },
+    {
+     "nome": "Gutieri",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Guilherme",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Gabriel Félix",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    }
+   ],
+   "sairam": []
+  },
   "taubate": {
    "atualizado": "2026-11-17",
    "fonte": "",
@@ -8865,72 +9118,6 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-09"
-    }
-   ],
-   "sairam": []
-  },
-  "votuporanguense": {
-   "atualizado": "2026-11-16",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Danilo Guimarães",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/danilo-guimaraes/699608",
-      "clubes": [
-       "São José-RS"
-      ],
-      "jogos": 13,
-      "minutos": 622,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {
-       "São José-RS": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "1997-08-19",
-     "de": "São José-RS",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Luan Oliveira",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Rio Claro",
-       "Ivinhema-MS",
-       "Interporto-TO"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/votuporanguense-fecha-com-luan-oliveira/",
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "Interporto-TO",
-     "ficha": {},
-     "comissao": false
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Danilo Guimarães",
-     "de": "São José-RS",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Luan Oliveira",
-     "de": "Interporto-TO",
-     "tipo": "Contratação",
-     "data": "2026-11-16"
     }
    ],
    "sairam": []

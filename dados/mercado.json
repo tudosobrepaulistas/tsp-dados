@@ -3,6 +3,79 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-20",
+   "jogador": "Gutieri",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Experiência internacional, reforço para a defesa",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-20-gutieri-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Guilherme",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-20-guilherme-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Gabriel Félix",
+   "posicao": "Goleiro",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube; Data do anúncio não aparece no print; registrado em 20/11",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-20-gabriel-felix-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
+   "jogador": "Fernandinho",
+   "posicao": "",
+   "de": "Votuporanguense",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Destaque da campanha até a semifinal da A2 2026; Data do anúncio não aparece no print; registrado em 20/11",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "de_slug": "votuporanguense",
+   "id": "2026-11-20-fernandinho-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
+  },
+  {
    "data": "2026-11-19",
    "jogador": "Vinicios Andrade",
    "posicao": "Volante",
@@ -29,6 +102,24 @@
    },
    "id": "2026-11-19-vinicios-andrade-paulista",
    "atualizado": "2026-11-20T06:57:00-03:00"
+  },
+  {
+   "data": "2026-11-19",
+   "jogador": "Reginaldo",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-19-reginaldo-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
   },
   {
    "data": "2026-11-19",
@@ -344,6 +435,24 @@
     "fonte": "https://www.instagram.com/ecsantoandre/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-18",
+   "jogador": "Amorim",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-18-amorim-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -1945,7 +2054,13 @@
     ],
     "fonte": "https://www.instagram.com/mariliaac1942/"
    },
-   "atualizado": "2026-11-20T03:49:00-03:00"
+   "atualizado": "2026-11-20T03:49:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-alessandro-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-11",
@@ -1984,7 +2099,13 @@
     ],
     "fonte": "https://www.instagram.com/mariliaac1942/"
    },
-   "atualizado": "2026-11-20T03:49:00-03:00"
+   "atualizado": "2026-11-20T03:49:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-wallace-moraes-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-11",
@@ -2747,6 +2868,24 @@
   },
   {
    "data": "2026-11-10",
+   "jogador": "Bonassa",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-10-bonassa-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
+  },
+  {
+   "data": "2026-11-10",
    "jogador": "Biel",
    "posicao": "Atacante",
    "de": "Inter de Bebedouro",
@@ -3053,7 +3192,13 @@
     "fonte": "https://www.instagram.com/mariliaac1942/"
    },
    "id": "2026-11-09-matheus-prado-marilia",
-   "atualizado": "2026-11-20T03:49:00-03:00"
+   "atualizado": "2026-11-20T03:49:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-matheus-prado-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true
+   }
   },
   {
    "data": "2026-11-09",
@@ -3640,6 +3785,24 @@
     "fonte": "https://www.instagram.com/ecsantoandre/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-06",
+   "jogador": "Luiz Gustavo",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-06-luiz-gustavo-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
   },
   {
    "data": "2026-11-06",
@@ -4638,6 +4801,24 @@
     "fonte": "https://www.instagram.com/ec.taubate/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-04",
+   "jogador": "Hugo Costa",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-04-hugo-costa-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
   },
   {
    "data": "2026-11-04",
@@ -5964,6 +6145,24 @@
     "fonte": "https://images.futebolinterior.com.br/2026/11/ituano-eduardo-henriqe.webp",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-02",
+   "jogador": "Jonatas Paulista",
+   "posicao": "",
+   "de": "",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube; vice da Copa Paulista pelo CAV",
+   "fontes": [
+    "https://www.instagram.com/votuporanguenseoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-02-jonatas-paulista-votuporanguense",
+   "atualizado": "2026-11-20T22:04:00-03:00"
   },
   {
    "de": "",
