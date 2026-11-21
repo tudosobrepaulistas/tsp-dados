@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T01:59:00-03:00",
+ "gerado": "2026-11-21T03:38:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -14715,12 +14715,12 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
+    "casa": 44,
     "empate": 27,
     "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.35,
+     1.36,
      1.06
     ],
     "base": [
@@ -14798,8 +14798,8 @@
     "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.67,
-     1.11
+     1.69,
+     1.12
     ],
     "base": [
      16,
@@ -14877,7 +14877,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.98,
-     1.86
+     1.88
     ],
     "base": [
      16,
@@ -14957,8 +14957,8 @@
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.35,
-     0.92
+     2.37,
+     0.93
     ],
     "base": [
      26,
@@ -15045,8 +15045,8 @@
     "fora": 25,
     "placar": "1x0",
     "gols_esperados": [
-     1.3,
-     0.88
+     1.31,
+     0.89
     ],
     "base": [
      20,
@@ -15130,8 +15130,8 @@
     "fora": 19,
     "placar": "2x1",
     "gols_esperados": [
-     2.19,
-     1.12
+     2.21,
+     1.13
     ],
     "base": [
      15,
@@ -15212,7 +15212,7 @@
     "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.16,
+     2.18,
      0.91
     ],
     "base": [
@@ -15293,8 +15293,8 @@
     "fora": 23,
     "placar": "1x0",
     "gols_esperados": [
-     1.39,
-     0.85
+     1.4,
+     0.86
     ],
     "base": [
      27,
@@ -15380,8 +15380,8 @@
     "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
-     1.5,
-     1.03
+     1.51,
+     1.04
     ],
     "base": [
      24,
@@ -15437,7 +15437,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.82,
-     2.05
+     2.07
     ],
     "base": [
      16,
@@ -15492,8 +15492,8 @@
     "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.76,
-     1.08
+     1.78,
+     1.09
     ],
     "base": [
      21,
@@ -15548,8 +15548,8 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.53,
-     0.85
+     1.54,
+     0.86
     ],
     "base": [
      15,
@@ -15604,8 +15604,8 @@
     "fora": 22,
     "placar": "1x1",
     "gols_esperados": [
-     1.71,
-     1.01
+     1.72,
+     1.02
     ],
     "base": [
      20,
@@ -15660,8 +15660,8 @@
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.2,
-     1.12
+     2.22,
+     1.13
     ],
     "base": [
      27,
@@ -15717,7 +15717,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.84,
-     1.65
+     1.67
     ],
     "base": [
      23,
@@ -15772,8 +15772,8 @@
     "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.62,
-     1.3
+     1.64,
+     1.31
     ],
     "base": [
      14,
@@ -15828,8 +15828,8 @@
     "fora": 38,
     "placar": "1x1",
     "gols_esperados": [
-     1.27,
-     1.31
+     1.28,
+     1.32
     ],
     "base": [
      17,
@@ -15884,7 +15884,7 @@
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.44,
+     1.45,
      0.77
     ],
     "base": [
@@ -15935,13 +15935,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
+    "casa": 47,
     "empate": 24,
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.7,
-     1.32
+     1.71,
+     1.33
     ],
     "base": [
      27,
@@ -15997,7 +15997,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.29,
-     1.4
+     1.41
     ],
     "base": [
      21,
@@ -16005,6 +16005,67 @@
     ]
    },
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/operario-pr-vence-com-gol-de-pablo-o-atletico-go-em-sua-estreia-na-serie-b-1.1100167",
+    "https://www.bandab.com.br/?p=1872017"
+   ],
+   "fixture": {
+    "id": 91000436,
+    "timestamp": 1774127700,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Germano Krüger",
+     "city": "Ponta Grossa"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900029,
+     "name": "Operário-PR"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 23,
+      "extra": null,
+      "texto": "23"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Pablo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -16334,6 +16395,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/04/11711305-de-virada-nautico-bate-o-atletico-go-fora-de-casa-e-conquista-primeiros-pontos-na-serie-b.html",
+    "https://ohoje.com/2026/04/02/atletico-go-sofre-virada-do-nautico-e-segue-sem-pontuar-na-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000437,
+    "timestamp": 1775080800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900036,
+     "name": "Náutico"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 40,
+      "extra": null,
+      "texto": "40"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Léo Jacó"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 77,
+      "extra": null,
+      "texto": "77"
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 81,
+      "extra": null,
+      "texto": "81"
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Igor Fernandes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://mais.opovo.com.br/jornal/esportes/2026/04/02/com-um-a-menos-ceara-arranca-empate-com-ponte-preta-na-serie-b.html",
     "https://diariodonordeste.verdesmares.com.br/jogada/ponte-preta-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3754042"
    ],
@@ -16618,6 +16772,99 @@
      },
      "type": "Goal",
      "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/04/05/vila-nova-vira-sobre-o-atletico-go-no-classico-goiano-e-conquista-primeira-vitoria-na-serie-b/",
+    "https://opopular.com.br/esporte/gol-e-gol-ta-sumula-gol-do-puskas-brinca-autor-do-gol-da-vitoria-do-vila-nova-contra-o-atletico-go-1.3394537"
+   ],
+   "fixture": {
+    "id": 91000438,
+    "timestamp": 1775343600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Onésio Brasileiro Alvarenga",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900023,
+     "name": "Vila Nova"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 32,
+      "extra": null,
+      "texto": "32"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Marrony"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Marquinhos Gabriel"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Gustavo Puskas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
     }
    ]
   },
@@ -16972,6 +17219,99 @@
      },
      "player": {
       "name": "Ryan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/04/13/atletico-go-supera-o-londrina-e-conquista-primeira-vitoria-na-serie-b/",
+    "https://opopular.com.br/esporte/atletico-go-vence-o-londrina-e-soma-primeiros-pontos-na-serie-b-1.3397558"
+   ],
+   "fixture": {
+    "id": 91000439,
+    "timestamp": 1776036600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 4"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 20,
+      "extra": null,
+      "texto": "20"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Guilherme Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 85,
+      "extra": null,
+      "texto": "85"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Léo Jacó"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 89,
+      "extra": null,
+      "texto": "89"
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Emiliano Rodríguez"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -17566,6 +17906,50 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://ohoje.com/2026/05/03/em-jogo-de-poucas-emocoes-atletico-go-e-juventude-empatam-em-0x0-no-accioly/",
+    "https://www.dgabc.com.br/Noticia/4317399/atletico-go-e-juventude-fazem-jogo-truncado-e-empatam-sem-gols-em-goiania-pela-serie-b"
+   ],
+   "fixture": {
+    "id": 91000440,
+    "timestamp": 1777843800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 7"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900022,
+     "name": "Juventude"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713900-sport-vira-sobre-a-ponte-preta-assume-a-lideranca-provisoria-e-segue-invicto-na-serie-b.html",
     "https://www.oliberal.com/esportes/sport-bate-a-ponte-preta-de-virada-em-campinas-mantem-tabu-e-invencibilidade-na-serie-b-1.1119422"
    ],
@@ -17667,6 +18051,67 @@
      },
      "type": "Goal",
      "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-x-atletico-go-pela-serie-acompanhe-ao-vivo-1.3762870",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/05/10/amp/apos-derrota-dolorida-mozart-garante-reacao-do-ceara-voltaremos-a-entregar.html"
+   ],
+   "fixture": {
+    "id": 91000441,
+    "timestamp": 1778364000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 8"
+   },
+   "teams": {
+    "home": {
+     "id": 900035,
+     "name": "Ceará"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 28,
+      "extra": null,
+      "texto": "28"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Gustavo Coutinho"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
     }
    ]
   },
@@ -17829,6 +18274,83 @@
      },
      "player": {
       "name": "Dudu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/criciuma-e-atletico-go-fazem-jogo-intenso-empatam-por-1-a-1-e-ficam-fora-do-g-6-da-serie-b-1.1122640",
+    "https://ohoje.com/2026/05/17/atletico-go-busca-reacao-arranca-empate-fora-de-casa-com-o-criciuma-e-segue-no-meio-da-tabela/"
+   ],
+   "fixture": {
+    "id": 91000442,
+    "timestamp": 1779053400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Heriberto Hülse",
+     "city": "Criciúma"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 9"
+   },
+   "teams": {
+    "home": {
+     "id": 900025,
+     "name": "Criciúma"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Nicolas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 60,
+      "extra": null,
+      "texto": "60"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Ewerthon"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -18209,6 +18731,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://ohoje.com/2026/05/30/atletico-go-e-goias-empatam-no-classico-pela-serie-b/",
+    "https://www.gazetaesportiva.com/?p=3795367"
+   ],
+   "fixture": {
+    "id": 91000443,
+    "timestamp": 1780167600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 11"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Anselmo Ramon"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Guilherme Marques"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11715406-barletta-decide-sport-vence-o-nautico-no-classico-e-dorme-na-lideranca-da-serie-b.html",
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ex-corinthians-decide-sport-bate-nautico-e-dorme-na-lideranca-da-serie-b/"
    ],
@@ -18275,6 +18874,100 @@
      },
      "player": {
       "name": "Barletta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/atletico-go-vira-sobre-o-america-mg-e-volta-a-vencer-pela-serie-b/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/ex-atletico-marca-america-perde-para-atletico-go-e-segue-sem-vencer-na-serie-b/",
+    "https://ohoje.com/2026/06/09/atletico-go-vira-sobre-o-america-mg-e-conquista-importante-vitoria-fora-de-casa-na-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000444,
+    "timestamp": 1780959600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Independência",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 12"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Felipe Amaral"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Marrony"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 73,
+      "extra": null,
+      "texto": "73"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Gustavo Coutinho"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -19347,6 +20040,50 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/?p=3823445",
+    "https://ohoje.com/2026/07/18/atletico-go-volta-a-tropecar-em-casa-e-fica-no-empate-com-o-athletic-pela-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000445,
+    "timestamp": 1784408400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900034,
+     "name": "Athletic"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-bate-novorizontino-e-segue-lider-com-invencibilidade-de-14-jogos-na-serie-b/",
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/novorizontino-x-criciuma/96155/"
    ],
@@ -19623,6 +20360,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/08/11720741-nautico-cede-empate-nos-aflitos-contra-o-atletico-go-pela-serie-b.html",
+    "https://ohoje.com/2026/08/10/atletico-go-empata-com-o-nautico-e-segue-fora-do-g-6-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000446,
+    "timestamp": 1786302000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 21"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900036,
+      "name": "Náutico"
+     },
+     "player": {
+      "name": "Kauã Maranhão"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Geovany Soares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/08/11721283-nautico-sai-atras-tem-dois-expulsos-e-fica-apenas-no-empate-com-a-lanterna-ponte-preta.html",
     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-nautico/833092"
    ],
@@ -19750,6 +20564,83 @@
      },
      "player": {
       "name": "Luciano Castán"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://jornaldebrasilia.com.br/torcida/vila-nova-vence-o-atletico-go-no-classico-goiano-e-se-reabilita-na-serie-b/",
+    "https://ohoje.com/2026/08/15/vila-nova-supera-atletico-go-e-ganha-forca-na-briga-pelo-acesso/"
+   ],
+   "fixture": {
+    "id": 91000447,
+    "timestamp": 1786820400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900023,
+     "name": "Vila Nova"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "João Vieira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Dudu"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -19993,6 +20884,99 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://ohoje.com/2026/08/26/atletico-go-vence-botafogo-sp-e-volta-a-sonhar-com-aproximacao-ao-g-6/",
+    "https://tribunadoplanalto.com.br/atletico-volta-a-vencer-em-noite-de-goleada-no-accioly/"
+   ],
+   "fixture": {
+    "id": 91000448,
+    "timestamp": 1787697000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 24"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 4,
+      "extra": null,
+      "texto": "4"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Marrony"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "João Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 79,
+      "extra": null,
+      "texto": "79"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Adriano Martins"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/ex-santos-faz-contra-criciuma-bate-cuiaba-e-dorme-na-lideranca-da-serie-b/",
     "https://www.olhardireto.com.br/noticias/cuiaba-cria-desperdica-e-perde-dourado-cai-diante-do-criciuma-e-segue-distante-do-g6"
    ],
@@ -20062,6 +21046,208 @@
      },
      "type": "Goal",
      "detail": "Own Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3853833",
+    "https://ohoje.com/2026/09/10/atletico-go-vence-o-ceara-mesmo-com-um-jogador-a-menos-e-encosta-no-g-6/"
+   ],
+   "fixture": {
+    "id": 91000449,
+    "timestamp": 1789000200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 27"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900035,
+     "name": "Ceará"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 6,
+      "extra": null,
+      "texto": "6"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Guilherme Marques"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 11,
+      "extra": null,
+      "texto": "11"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Geovany Soares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 38,
+      "extra": null,
+      "texto": "38"
+     },
+     "team": {
+      "id": 900035,
+      "name": "Ceará"
+     },
+     "player": {
+      "name": "Melk"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/09/13/atletico-go-goleia-criciuma-e-ganha-forca-na-reta-final-da-serie-b/",
+    "https://acritica.net/esportes/atletico-go-4-a-0-criciuma-hat-trick-gustavo-coutinho-g6-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000450,
+    "timestamp": 1789326000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Antônio Accioly",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 28"
+   },
+   "teams": {
+    "home": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 4,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 40,
+      "extra": null,
+      "texto": "40"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Gustavo Coutinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+6"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Gustavo Coutinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 56,
+      "extra": null,
+      "texto": "56"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Gustavo Maia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Gustavo Coutinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
     }
    ]
   },
@@ -20191,6 +21377,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://abcdoabc.com.br/sao-bernardo-vence-atletico-go-quebra-jejum/",
+    "https://www.dgabc.com.br/Noticia/4347897/sao-bernardo-fc-coloca-fim-a-jejum-de-10-jogos-em-casa-na-serie-b"
+   ],
+   "fixture": {
+    "id": 91000451,
+    "timestamp": 1789776000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "1º de Maio",
+     "city": "São Bernardo do Campo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 29"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 64,
+      "extra": null,
+      "texto": "64"
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Felipe Garcia"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://ohoje.com/2026/09/20/goias-vira-sobre-o-avai-na-serrinha-e-fica-mais-perto-do-g-6/",
     "https://tribunadoplanalto.com.br/?p=112065"
    ],
@@ -20229,6 +21476,160 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/09/27/atletico-go-vence-goias-na-serrinha-e-entra-no-g-6-da-serie-b/",
+    "https://acritica.net/esportes/atletico-go-vence-o-goias-quebra-jejum-e-fica-no-g-6-da-serie-b-do-campeonato-brasileiro/"
+   ],
+   "fixture": {
+    "id": 91000452,
+    "timestamp": 1790458200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Hailé Pinheiro (Serrinha)",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 30"
+   },
+   "teams": {
+    "home": {
+     "id": 900030,
+     "name": "Goiás"
+    },
+    "away": {
+     "id": 900028,
+     "name": "Atlético-GO"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mozart",
+     "time": "Tadeu; Rodrigo Soares, Luisão, Luiz Felipe, Djalma; Filipe Machado, Lourenço, Lucas Lima; Jean Carlos, Kadu Sousa, Pedrinho",
+     "entraram": [
+      {
+       "jogador": "Nicolas",
+       "saiu": "Rodrigo Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gegê",
+       "saiu": "Lourenço",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cadu",
+       "saiu": "Lucas Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wellington Rato",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Clemente",
+       "saiu": "Pedrinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lourenço",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nicolas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vitor; Warley, Adriano Martins, Junior Barreto, Guilherme Lopes; Peixoto, Netinho, Marrony; Gustavo Maia, Gustavo Coutinho, Geovany Soares",
+     "entraram": [
+      {
+       "jogador": "Ewerthon",
+       "saiu": "Warley",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cristiano",
+       "saiu": "Netinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Henrique Freitas",
+       "saiu": "Marrony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tito",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno José",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Netinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://acritica.net/esportes/atletico-go-vence-o-goias-quebra-jejum-e-fica-no-g-6-da-serie-b-do-campeonato-brasileiro/"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   },
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 32,
+      "extra": null,
+      "texto": "32"
+     },
+     "team": {
+      "id": 900028,
+      "name": "Atlético-GO"
+     },
+     "player": {
+      "name": "Guilherme Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -41076,6 +42477,12 @@
     "gols": 8
    },
    {
+    "jogador": "Gustavo Coutinho",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 8
+   },
+   {
     "jogador": "Fellipe Mateus",
     "time": "Criciúma",
     "time_id": 900025,
@@ -41112,7 +42519,25 @@
     "gols": 3
    },
    {
-    "jogador": "Gustavo Coutinho",
+    "jogador": "Dudu",
+    "time": "Vila Nova",
+    "time_id": 900023,
+    "gols": 3
+   },
+   {
+    "jogador": "Guilherme Marques",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 3
+   },
+   {
+    "jogador": "Léo Jacó",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 3
+   },
+   {
+    "jogador": "Marrony",
     "time": "Atlético-GO",
     "time_id": 900028,
     "gols": 3
@@ -41122,6 +42547,12 @@
     "time": "América-MG",
     "time_id": 900039,
     "gols": 3
+   },
+   {
+    "jogador": "Anselmo Ramon",
+    "time": "Goiás",
+    "time_id": 900030,
+    "gols": 2
    },
    {
     "jogador": "Borasi",
@@ -41148,12 +42579,6 @@
     "gols": 2
    },
    {
-    "jogador": "Dudu",
-    "time": "Vila Nova",
-    "time_id": 900023,
-    "gols": 2
-   },
-   {
     "jogador": "Fabrício Daniel",
     "time": "São Bernardo",
     "time_id": 900031,
@@ -41166,6 +42591,18 @@
     "gols": 2
    },
    {
+    "jogador": "Geovany Soares",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 2
+   },
+   {
+    "jogador": "Guilherme Lopes",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 2
+   },
+   {
     "jogador": "Ian Luccas",
     "time": "Athletic",
     "time_id": 900034,
@@ -41175,6 +42612,12 @@
     "jogador": "Janderson",
     "time": "Vila Nova",
     "time_id": 900023,
+    "gols": 2
+   },
+   {
+    "jogador": "João Pedro",
+    "time": "Atlético-GO",
+    "time_id": 900028,
     "gols": 2
    },
    {
@@ -41193,6 +42636,12 @@
     "jogador": "Marcelo Hermes",
     "time": "Criciúma",
     "time_id": 900025,
+    "gols": 2
+   },
+   {
+    "jogador": "Marquinhos Gabriel",
+    "time": "Vila Nova",
+    "time_id": 900023,
     "gols": 2
    },
    {
@@ -41244,9 +42693,21 @@
     "gols": 2
    },
    {
+    "jogador": "Vinícius",
+    "time": "Náutico",
+    "time_id": 900036,
+    "gols": 2
+   },
+   {
     "jogador": "Aderlan",
     "time": "Juventude",
     "time_id": 900022,
+    "gols": 1
+   },
+   {
+    "jogador": "Adriano Martins",
+    "time": "Atlético-GO",
+    "time_id": 900028,
     "gols": 1
    },
    {
@@ -41259,12 +42720,6 @@
     "jogador": "Amarilla",
     "time": "Juventude",
     "time_id": 900022,
-    "gols": 1
-   },
-   {
-    "jogador": "Anselmo Ramon",
-    "time": "Goiás",
-    "time_id": 900030,
     "gols": 1
    },
    {
@@ -41400,6 +42855,30 @@
     "gols": 1
    },
    {
+    "jogador": "Emiliano Rodríguez",
+    "time": "Londrina",
+    "time_id": 900038,
+    "gols": 1
+   },
+   {
+    "jogador": "Ewerthon",
+    "time": "Atlético-GO",
+    "time_id": 900028,
+    "gols": 1
+   },
+   {
+    "jogador": "Felipe Amaral",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 1
+   },
+   {
+    "jogador": "Felipe Garcia",
+    "time": "São Bernardo",
+    "time_id": 900031,
+    "gols": 1
+   },
+   {
     "jogador": "Felipinho",
     "time": "Sport",
     "time_id": 900027,
@@ -41430,15 +42909,21 @@
     "gols": 1
    },
    {
-    "jogador": "Guilherme Marques",
+    "jogador": "Gustavo Almeida",
+    "time": "Ponte Preta",
+    "time_id": 900040,
+    "gols": 1
+   },
+   {
+    "jogador": "Gustavo Maia",
     "time": "Atlético-GO",
     "time_id": 900028,
     "gols": 1
    },
    {
-    "jogador": "Gustavo Almeida",
-    "time": "Ponte Preta",
-    "time_id": 900040,
+    "jogador": "Gustavo Puskas",
+    "time": "Vila Nova",
+    "time_id": 900023,
     "gols": 1
    },
    {
@@ -41463,6 +42948,12 @@
     "jogador": "Igor Bahia",
     "time": "Londrina",
     "time_id": 900038,
+    "gols": 1
+   },
+   {
+    "jogador": "Igor Fernandes",
+    "time": "Náutico",
+    "time_id": 900036,
     "gols": 1
    },
    {
@@ -41520,9 +43011,9 @@
     "gols": 1
    },
    {
-    "jogador": "João Pedro",
-    "time": "Atlético-GO",
-    "time_id": 900028,
+    "jogador": "João Vieira",
+    "time": "Vila Nova",
+    "time_id": 900023,
     "gols": 1
    },
    {
@@ -41539,6 +43030,12 @@
    },
    {
     "jogador": "Júnior Todinho",
+    "time": "Náutico",
+    "time_id": 900036,
+    "gols": 1
+   },
+   {
+    "jogador": "Kauã Maranhão",
     "time": "Náutico",
     "time_id": 900036,
     "gols": 1
@@ -41592,12 +43089,6 @@
     "gols": 1
    },
    {
-    "jogador": "Léo Jacó",
-    "time": "Atlético-GO",
-    "time_id": 900028,
-    "gols": 1
-   },
-   {
     "jogador": "Madson",
     "time": "Sport",
     "time_id": 900027,
@@ -41607,12 +43098,6 @@
     "jogador": "Marcelo Benevenuto",
     "time": "Sport",
     "time_id": 900027,
-    "gols": 1
-   },
-   {
-    "jogador": "Marquinhos Gabriel",
-    "time": "Vila Nova",
-    "time_id": 900023,
     "gols": 1
    },
    {
@@ -41628,6 +43113,12 @@
     "gols": 1
    },
    {
+    "jogador": "Melk",
+    "time": "Ceará",
+    "time_id": 900035,
+    "gols": 1
+   },
+   {
     "jogador": "Moraes",
     "time": "Operário-PR",
     "time_id": 900029,
@@ -41637,6 +43128,12 @@
     "jogador": "Moraes Jr.",
     "time": "Operário-PR",
     "time_id": 900029,
+    "gols": 1
+   },
+   {
+    "jogador": "Nicolas",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 1
    },
    {
@@ -41661,6 +43158,12 @@
     "jogador": "Otero",
     "time": "Criciúma",
     "time_id": 900025,
+    "gols": 1
+   },
+   {
+    "jogador": "Pablo",
+    "time": "Operário-PR",
+    "time_id": 900029,
     "gols": 1
    },
    {
@@ -41761,12 +43264,6 @@
    },
    {
     "jogador": "Victor Andrade",
-    "time": "Náutico",
-    "time_id": 900036,
-    "gols": 1
-   },
-   {
-    "jogador": "Vinícius",
     "time": "Náutico",
     "time_id": 900036,
     "gols": 1

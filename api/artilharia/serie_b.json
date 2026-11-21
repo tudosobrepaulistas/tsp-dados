@@ -12,6 +12,12 @@
   "gols": 8
  },
  {
+  "jogador": "Gustavo Coutinho",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 8
+ },
+ {
   "jogador": "Fellipe Mateus",
   "time": "Criciúma",
   "time_id": 900025,
@@ -48,7 +54,25 @@
   "gols": 3
  },
  {
-  "jogador": "Gustavo Coutinho",
+  "jogador": "Dudu",
+  "time": "Vila Nova",
+  "time_id": 900023,
+  "gols": 3
+ },
+ {
+  "jogador": "Guilherme Marques",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 3
+ },
+ {
+  "jogador": "Léo Jacó",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 3
+ },
+ {
+  "jogador": "Marrony",
   "time": "Atlético-GO",
   "time_id": 900028,
   "gols": 3
@@ -58,6 +82,12 @@
   "time": "América-MG",
   "time_id": 900039,
   "gols": 3
+ },
+ {
+  "jogador": "Anselmo Ramon",
+  "time": "Goiás",
+  "time_id": 900030,
+  "gols": 2
  },
  {
   "jogador": "Borasi",
@@ -84,12 +114,6 @@
   "gols": 2
  },
  {
-  "jogador": "Dudu",
-  "time": "Vila Nova",
-  "time_id": 900023,
-  "gols": 2
- },
- {
   "jogador": "Fabrício Daniel",
   "time": "São Bernardo",
   "time_id": 900031,
@@ -102,6 +126,18 @@
   "gols": 2
  },
  {
+  "jogador": "Geovany Soares",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 2
+ },
+ {
+  "jogador": "Guilherme Lopes",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 2
+ },
+ {
   "jogador": "Ian Luccas",
   "time": "Athletic",
   "time_id": 900034,
@@ -111,6 +147,12 @@
   "jogador": "Janderson",
   "time": "Vila Nova",
   "time_id": 900023,
+  "gols": 2
+ },
+ {
+  "jogador": "João Pedro",
+  "time": "Atlético-GO",
+  "time_id": 900028,
   "gols": 2
  },
  {
@@ -129,6 +171,12 @@
   "jogador": "Marcelo Hermes",
   "time": "Criciúma",
   "time_id": 900025,
+  "gols": 2
+ },
+ {
+  "jogador": "Marquinhos Gabriel",
+  "time": "Vila Nova",
+  "time_id": 900023,
   "gols": 2
  },
  {
@@ -180,9 +228,21 @@
   "gols": 2
  },
  {
+  "jogador": "Vinícius",
+  "time": "Náutico",
+  "time_id": 900036,
+  "gols": 2
+ },
+ {
   "jogador": "Aderlan",
   "time": "Juventude",
   "time_id": 900022,
+  "gols": 1
+ },
+ {
+  "jogador": "Adriano Martins",
+  "time": "Atlético-GO",
+  "time_id": 900028,
   "gols": 1
  },
  {
@@ -195,12 +255,6 @@
   "jogador": "Amarilla",
   "time": "Juventude",
   "time_id": 900022,
-  "gols": 1
- },
- {
-  "jogador": "Anselmo Ramon",
-  "time": "Goiás",
-  "time_id": 900030,
   "gols": 1
  },
  {
@@ -336,6 +390,30 @@
   "gols": 1
  },
  {
+  "jogador": "Emiliano Rodríguez",
+  "time": "Londrina",
+  "time_id": 900038,
+  "gols": 1
+ },
+ {
+  "jogador": "Ewerthon",
+  "time": "Atlético-GO",
+  "time_id": 900028,
+  "gols": 1
+ },
+ {
+  "jogador": "Felipe Amaral",
+  "time": "América-MG",
+  "time_id": 900039,
+  "gols": 1
+ },
+ {
+  "jogador": "Felipe Garcia",
+  "time": "São Bernardo",
+  "time_id": 900031,
+  "gols": 1
+ },
+ {
   "jogador": "Felipinho",
   "time": "Sport",
   "time_id": 900027,
@@ -366,15 +444,21 @@
   "gols": 1
  },
  {
-  "jogador": "Guilherme Marques",
+  "jogador": "Gustavo Almeida",
+  "time": "Ponte Preta",
+  "time_id": 900040,
+  "gols": 1
+ },
+ {
+  "jogador": "Gustavo Maia",
   "time": "Atlético-GO",
   "time_id": 900028,
   "gols": 1
  },
  {
-  "jogador": "Gustavo Almeida",
-  "time": "Ponte Preta",
-  "time_id": 900040,
+  "jogador": "Gustavo Puskas",
+  "time": "Vila Nova",
+  "time_id": 900023,
   "gols": 1
  },
  {
@@ -399,6 +483,12 @@
   "jogador": "Igor Bahia",
   "time": "Londrina",
   "time_id": 900038,
+  "gols": 1
+ },
+ {
+  "jogador": "Igor Fernandes",
+  "time": "Náutico",
+  "time_id": 900036,
   "gols": 1
  },
  {
@@ -456,9 +546,9 @@
   "gols": 1
  },
  {
-  "jogador": "João Pedro",
-  "time": "Atlético-GO",
-  "time_id": 900028,
+  "jogador": "João Vieira",
+  "time": "Vila Nova",
+  "time_id": 900023,
   "gols": 1
  },
  {
@@ -475,6 +565,12 @@
  },
  {
   "jogador": "Júnior Todinho",
+  "time": "Náutico",
+  "time_id": 900036,
+  "gols": 1
+ },
+ {
+  "jogador": "Kauã Maranhão",
   "time": "Náutico",
   "time_id": 900036,
   "gols": 1
@@ -528,12 +624,6 @@
   "gols": 1
  },
  {
-  "jogador": "Léo Jacó",
-  "time": "Atlético-GO",
-  "time_id": 900028,
-  "gols": 1
- },
- {
   "jogador": "Madson",
   "time": "Sport",
   "time_id": 900027,
@@ -543,12 +633,6 @@
   "jogador": "Marcelo Benevenuto",
   "time": "Sport",
   "time_id": 900027,
-  "gols": 1
- },
- {
-  "jogador": "Marquinhos Gabriel",
-  "time": "Vila Nova",
-  "time_id": 900023,
   "gols": 1
  },
  {
@@ -564,6 +648,12 @@
   "gols": 1
  },
  {
+  "jogador": "Melk",
+  "time": "Ceará",
+  "time_id": 900035,
+  "gols": 1
+ },
+ {
   "jogador": "Moraes",
   "time": "Operário-PR",
   "time_id": 900029,
@@ -573,6 +663,12 @@
   "jogador": "Moraes Jr.",
   "time": "Operário-PR",
   "time_id": 900029,
+  "gols": 1
+ },
+ {
+  "jogador": "Nicolas",
+  "time": "Criciúma",
+  "time_id": 900025,
   "gols": 1
  },
  {
@@ -597,6 +693,12 @@
   "jogador": "Otero",
   "time": "Criciúma",
   "time_id": 900025,
+  "gols": 1
+ },
+ {
+  "jogador": "Pablo",
+  "time": "Operário-PR",
+  "time_id": 900029,
   "gols": 1
  },
  {
@@ -697,12 +799,6 @@
  },
  {
   "jogador": "Victor Andrade",
-  "time": "Náutico",
-  "time_id": 900036,
-  "gols": 1
- },
- {
-  "jogador": "Vinícius",
   "time": "Náutico",
   "time_id": 900036,
   "gols": 1

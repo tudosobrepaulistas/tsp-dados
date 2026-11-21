@@ -1,6 +1,126 @@
 {
  "jogos": [
   {
+   "id": 91000436,
+   "data": "2026-03-21T18:15:00-03:00",
+   "casa": "operario-pr",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Germano Krüger",
+   "cidade": "Ponta Grossa",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Pablo",
+     "minuto": "23",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/operario-pr-vence-com-gol-de-pablo-o-atletico-go-em-sua-estreia-na-serie-b-1.1100167",
+    "https://www.bandab.com.br/?p=1872017"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luizinho Lopes",
+     "time": "Vagner; Doka, Cuenú, Miranda, Moraes; Índio, Vinícius Diniz, Boschilia; Edwin Torres, Pablo, Aylon",
+     "entraram": [
+      {
+       "jogador": "Gabriel Feliciano",
+       "saiu": "Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Trindade",
+       "saiu": "Índio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Neto Paraíba",
+       "saiu": "Vinícius Diniz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Augusto",
+       "saiu": "Edwin Torres",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Gaúcho",
+       "saiu": "Pablo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Índio",
+        "minuto": ""
+       },
+       {
+        "jogador": "Boschilia",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Souza",
+     "time": "Paulo Vítor; Ewerthon, Tito, Adriano Martins, Guilherme Lopes; Matheus Índio, Cristiano, Guilherme Marques; Jean Dias, Kevin Ramírez, Marrony",
+     "entraram": [
+      {
+       "jogador": "Igor Henrique",
+       "saiu": "Matheus Índio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ariel",
+       "saiu": "Cristiano",
+       "minuto": ""
+      },
+      {
+       "jogador": "GH",
+       "saiu": "Guilherme Marques",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno José",
+       "saiu": "Jean Dias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Jacó",
+       "saiu": "Kevin Ramírez",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Adriano Martins",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/operario-pr-vence-com-gol-de-pablo-o-atletico-go-em-sua-estreia-na-serie-b-1.1100167"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
+  },
+  {
    "id": 91000238,
    "data": "2026-03-21T19:15:00-03:00",
    "casa": "botafogo-sp",
@@ -542,6 +662,137 @@
    }
   },
   {
+   "id": 91000437,
+   "data": "2026-04-01T19:00:00-03:00",
+   "casa": "atletico-go",
+   "fora": "nautico",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Léo Jacó",
+     "minuto": "40",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vinícius",
+     "minuto": "77",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Igor Fernandes",
+     "minuto": "81",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/04/11711305-de-virada-nautico-bate-o-atletico-go-fora-de-casa-e-conquista-primeiros-pontos-na-serie-b.html",
+    "https://ohoje.com/2026/04/02/atletico-go-sofre-virada-do-nautico-e-segue-sem-pontuar-na-serie-b/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Souza",
+     "time": "Paulo Vítor; Ewerthon, Tito, Natã Felipe, Guilherme Lopes; Igor Henrique, Cristiano, Guilherme Marques; Assis, Marrony, Léo Jacó",
+     "entraram": [
+      {
+       "jogador": "Felipe Guimarães",
+       "saiu": "Ewerthon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Índio",
+       "saiu": "Igor Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jader",
+       "saiu": "Cristiano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Guilherme Marques",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Hélio dos Anjos",
+     "time": "Muriel; Matheus Ribeiro, Mateus Silva, Betão, Yuri Silva; Wenderson, Luiz Felipe, Vitinho; Dodô, Juninho, Vinícius",
+     "entraram": [
+      {
+       "jogador": "Wanderson",
+       "saiu": "Mateus Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Igor Fernandes",
+       "saiu": "Betão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Leonai",
+       "saiu": "Luiz Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Saraiva",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Andrade",
+       "saiu": "Juninho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Luiz Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Leonai",
+        "minuto": ""
+       },
+       {
+        "jogador": "Felipe Saraiva",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Wanderson",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/04/11711305-de-virada-nautico-bate-o-atletico-go-fora-de-casa-e-conquista-primeiros-pontos-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
+  },
+  {
    "id": 91000391,
    "data": "2026-04-01T21:00:00-03:00",
    "casa": "ponte-preta",
@@ -875,6 +1126,48 @@
     ],
     "atualizado": "2026-11-17T03:32:00-03:00"
    }
+  },
+  {
+   "id": 91000438,
+   "data": "2026-04-04T20:00:00-03:00",
+   "casa": "vila-nova",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Onésio Brasileiro Alvarenga",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Marrony",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Marquinhos Gabriel",
+     "minuto": "61",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Puskas",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/04/05/vila-nova-vira-sobre-o-atletico-go-no-classico-goiano-e-conquista-primeira-vitoria-na-serie-b/",
+    "https://opopular.com.br/esporte/gol-e-gol-ta-sumula-gol-do-puskas-brinca-autor-do-gol-da-vitoria-do-vila-nova-contra-o-atletico-go-1.3394537"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
   },
   {
    "id": 91000327,
@@ -1296,6 +1589,48 @@
     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-b/2026/ponte-preta-x-vila-nova/832868"
    ],
    "atualizado": "2026-11-17T03:34:00-03:00"
+  },
+  {
+   "id": 91000439,
+   "data": "2026-04-12T20:30:00-03:00",
+   "casa": "atletico-go",
+   "fora": "londrina",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Guilherme Lopes",
+     "minuto": "20",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Léo Jacó",
+     "minuto": "85",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Emiliano Rodríguez",
+     "minuto": "89",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/04/13/atletico-go-supera-o-londrina-e-conquista-primeira-vitoria-na-serie-b/",
+    "https://opopular.com.br/esporte/atletico-go-vence-o-londrina-e-soma-primeiros-pontos-na-serie-b-1.3397558"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
   },
   {
    "id": 91000329,
@@ -2078,6 +2413,29 @@
    }
   },
   {
+   "id": 91000440,
+   "data": "2026-05-03T18:30:00-03:00",
+   "casa": "atletico-go",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "7",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/05/03/em-jogo-de-poucas-emocoes-atletico-go-e-juventude-empatam-em-0x0-no-accioly/",
+    "https://www.dgabc.com.br/Noticia/4317399/atletico-go-e-juventude-fazem-jogo-truncado-e-empatam-sem-gols-em-goiania-pela-serie-b"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
+  },
+  {
    "id": 91000332,
    "data": "2026-05-09T18:30:00-03:00",
    "casa": "ponte-preta",
@@ -2223,6 +2581,135 @@
      "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11713900-sport-vira-sobre-a-ponte-preta-assume-a-lideranca-provisoria-e-segue-invicto-na-serie-b.html"
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000441,
+   "data": "2026-05-09T19:00:00-03:00",
+   "casa": "ceara",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "8",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "28",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-x-atletico-go-pela-serie-acompanhe-ao-vivo-1.3762870",
+    "https://www.opovo.com.br/esportes/futebol/times/ceara/2026/05/10/amp/apos-derrota-dolorida-mozart-garante-reacao-do-ceara-voltaremos-a-entregar.html"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mozart",
+     "time": "Bruno Ferreira; Alex Silva, Éder, Luizão, Sanchez; Lucas Lima, Dieguinho, Matheus Araújo; Melk, Pedro Henrique, Lucca",
+     "entraram": [
+      {
+       "jogador": "Rafael Ramos",
+       "saiu": "Alex Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Lucas Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vina",
+       "saiu": "Dieguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Richardson",
+       "saiu": "Matheus Araújo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alano",
+       "saiu": "Pedro Henrique",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Melk",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vina",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Souza",
+     "time": "Paulo Vitor; Ewerthon, Tito, Junior Barreto, Guilherme Lopes; Leandro Vilela, Matheus Índio, Marrony; Geovany Soares, Bruno José, Gustavo Coutinho",
+     "entraram": [
+      {
+       "jogador": "Felipe Guimarães",
+       "saiu": "Guilherme Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Natã Felipe",
+       "saiu": "Matheus Índio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Tocantis",
+       "saiu": "Marrony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Adriano Martins",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Jacó",
+       "saiu": "Gustavo Coutinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Paulo Vitor",
+        "minuto": ""
+       },
+       {
+        "jogador": "Léo Jacó",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Bruno José",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://diariodonordeste.verdesmares.com.br/jogada/ceara-x-atletico-go-pela-serie-acompanhe-ao-vivo-1.3762870"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
    }
   },
   {
@@ -2408,6 +2895,148 @@
     "https://ohoje.com/2026/05/17/vila-nova-bate-o-avai-no-oba-encerra-jejum-e-retoma-lugar-no-g4-da-serie-b/"
    ],
    "atualizado": "2026-11-10T02:39:00-03:00"
+  },
+  {
+   "id": 91000442,
+   "data": "2026-05-17T18:30:00-03:00",
+   "casa": "criciuma",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "9",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Heriberto Hülse",
+   "cidade": "Criciúma",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Nicolas",
+     "minuto": "58",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ewerthon",
+     "minuto": "60",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/criciuma-e-atletico-go-fazem-jogo-intenso-empatam-por-1-a-1-e-ficam-fora-do-g-6-da-serie-b-1.1122640",
+    "https://ohoje.com/2026/05/17/atletico-go-busca-reacao-arranca-empate-fora-de-casa-com-o-criciuma-e-segue-no-meio-da-tabela/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Pedro; Ruan, César Martins, Luciano Castan; Marcinho, Gui Lobo, Jhonata Robert, Marcelo Hermes; Diego Gonçalves, Fellipe Mateus; Waguininho",
+     "entraram": [
+      {
+       "jogador": "João Carlos",
+       "saiu": "Ruan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willean Lepo",
+       "saiu": "Marcinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nicolas",
+       "saiu": "Jhonata Robert",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hiago",
+       "saiu": "Diego Gonçalves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Otero",
+       "saiu": "Waguininho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "César Martins",
+        "minuto": ""
+       },
+       {
+        "jogador": "Diego Gonçalves",
+        "minuto": ""
+       },
+       {
+        "jogador": "Fellipe Mateus",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Souza",
+     "time": "Paulo Vitor; Natã Felipe, Tito, Adriano Martins, Guilherme Lopes; Leandro Vilela, Cristiano; Marrony; Ewerthon, Gustavo Coutinho, Geovany Soares",
+     "entraram": [
+      {
+       "jogador": "Gustavo Daniel",
+       "saiu": "Guilherme Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Índio",
+       "saiu": "Leandro Vilela",
+       "minuto": ""
+      },
+      {
+       "jogador": "Igor Henrique",
+       "saiu": "Cristiano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Assis",
+       "saiu": "Marrony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Jacó",
+       "saiu": "Gustavo Coutinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Natã Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Paulo Vitor",
+        "minuto": ""
+       },
+       {
+        "jogador": "Ewerthon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Guilherme Lopes",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/criciuma-e-atletico-go-fazem-jogo-intenso-empatam-por-1-a-1-e-ficam-fora-do-g-6-da-serie-b-1.1122640"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
   },
   {
    "id": 91000333,
@@ -3045,6 +3674,42 @@
    }
   },
   {
+   "id": 91000443,
+   "data": "2026-05-30T16:00:00-03:00",
+   "casa": "atletico-go",
+   "fora": "goias",
+   "status": "encerrado",
+   "rodada": "11",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Anselmo Ramon",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Guilherme Marques",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/05/30/atletico-go-e-goias-empatam-no-classico-pela-serie-b/",
+    "https://www.gazetaesportiva.com/?p=3795367"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
+  },
+  {
    "id": 91000335,
    "data": "2026-05-30T20:30:00-03:00",
    "casa": "sport",
@@ -3187,6 +3852,49 @@
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
    }
+  },
+  {
+   "id": 91000444,
+   "data": "2026-06-08T20:00:00-03:00",
+   "casa": "america-mg",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "12",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Independência",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Felipe Amaral",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Marrony",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "73",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/atletico-go-vira-sobre-o-america-mg-e-volta-a-vencer-pela-serie-b/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/ex-atletico-marca-america-perde-para-atletico-go-e-segue-sem-vencer-na-serie-b/",
+    "https://ohoje.com/2026/06/09/atletico-go-vira-sobre-o-america-mg-e-conquista-importante-vitoria-fora-de-casa-na-serie-b/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
   },
   {
    "id": 91000336,
@@ -4202,6 +4910,29 @@
    "atualizado": "2026-11-11T18:43:00-03:00"
   },
   {
+   "id": 91000445,
+   "data": "2026-07-18T18:00:00-03:00",
+   "casa": "atletico-go",
+   "fora": "athletic-mg",
+   "status": "encerrado",
+   "rodada": "18",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3823445",
+    "https://ohoje.com/2026/07/18/atletico-go-volta-a-tropecar-em-casa-e-fica-no-empate-com-o-athletic-pela-serie-b/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
+  },
+  {
    "id": 91000275,
    "data": "2026-07-21T19:30:00-03:00",
    "casa": "novorizontino",
@@ -4509,6 +5240,42 @@
    }
   },
   {
+   "id": 91000446,
+   "data": "2026-08-09T16:00:00-03:00",
+   "casa": "nautico",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Aflitos",
+   "cidade": "Recife",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Kauã Maranhão",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Geovany Soares",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/08/11720741-nautico-cede-empate-nos-aflitos-contra-o-atletico-go-pela-serie-b.html",
+    "https://ohoje.com/2026/08/10/atletico-go-empata-com-o-nautico-e-segue-fora-do-g-6-da-serie-b/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
+  },
+  {
    "id": 91000392,
    "data": "2026-08-14T19:30:00-03:00",
    "casa": "ponte-preta",
@@ -4679,6 +5446,84 @@
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/criciuma-bate-goias-em-casa-poe-fim-a-jejum-e-segue-lider-da-serie-b,18f2d292bb526932aaadbb5166cce733zyyyjg2s.html"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000447,
+   "data": "2026-08-15T16:00:00-03:00",
+   "casa": "atletico-go",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "22",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "João Vieira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Dudu",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://jornaldebrasilia.com.br/torcida/vila-nova-vence-o-atletico-go-no-classico-goiano-e-se-reabilita-na-serie-b/",
+    "https://ohoje.com/2026/08/15/vila-nova-supera-atletico-go-e-ganha-forca-na-briga-pelo-acesso/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vitor; Ewerthon, Junior Barreto, Adriano Martins, Guilherme Lopes; Cristiano, Peixoto, Henrique Freitas; Geovany Soares, Bruno José, Gustavo Coutinho",
+     "entraram": [],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Guilherme Lopes",
+        "minuto": ""
+       },
+       {
+        "jogador": "Igor Henrique Peixoto",
+        "minuto": ""
+       },
+       {
+        "jogador": "Geovanny Soares",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Guto Ferreira",
+     "time": "Helton Leite; Nathan Camargo, Tiago Pagnussat, Breno Bora, Higor; João Vieira, Dudu, Marquinhos Gabriel; Janderson, Dellatorre, André Luis",
+     "entraram": [],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Tiago Pagnussat",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://jornaldebrasilia.com.br/torcida/vila-nova-vence-o-atletico-go-no-classico-goiano-e-se-reabilita-na-serie-b/"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
   },
   {
    "id": 91000277,
@@ -5053,6 +5898,124 @@
    }
   },
   {
+   "id": 91000448,
+   "data": "2026-08-25T19:30:00-03:00",
+   "casa": "atletico-go",
+   "fora": "botafogo-sp",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Marrony",
+     "minuto": "4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "João Pedro",
+     "minuto": "70",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Adriano Martins",
+     "minuto": "79",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/08/26/atletico-go-vence-botafogo-sp-e-volta-a-sonhar-com-aproximacao-ao-g-6/",
+    "https://tribunadoplanalto.com.br/atletico-volta-a-vencer-em-noite-de-goleada-no-accioly/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vítor; Warley, Adriano Martins, Júnior Barreto, Guilherme Lopes; Leandro Vilela, Daniel Peixoto, Marrony, Henrique Freitas, Geovany Soares, Gustavo Coutinho",
+     "entraram": [
+      {
+       "jogador": "Cristiano",
+       "saiu": "Leandro Vilela",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kaique",
+       "saiu": "Marrony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno José",
+       "saiu": "Henrique Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Maia",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Pedro",
+       "saiu": "Gustavo Coutinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Tencati",
+     "time": "Michael; Ericson, Vilar, Inocêncio, Brey; Sales, Morelli, Gava; Hugo, Pinheiro Santos, Hygor",
+     "entraram": [
+      {
+       "jogador": "Lucas Maciel",
+       "saiu": "Inocêncio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marco Antônio",
+       "saiu": "Morelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kelvin",
+       "saiu": "Gava",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando Vieira",
+       "saiu": "Hugo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Caíke",
+       "saiu": "Hygor",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://ohoje.com/2026/08/26/atletico-go-vence-botafogo-sp-e-volta-a-sonhar-com-aproximacao-ao-g-6/"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
+  },
+  {
    "id": 91000279,
    "data": "2026-09-04T19:30:00-03:00",
    "casa": "criciuma",
@@ -5087,6 +6050,261 @@
     "https://www.olhardireto.com.br/noticias/cuiaba-cria-desperdica-e-perde-dourado-cai-diante-do-criciuma-e-segue-distante-do-g6"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000449,
+   "data": "2026-09-09T21:30:00-03:00",
+   "casa": "atletico-go",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Guilherme Marques",
+     "minuto": "6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Geovany Soares",
+     "minuto": "11",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Melk",
+     "minuto": "38",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3853833",
+    "https://ohoje.com/2026/09/10/atletico-go-vence-o-ceara-mesmo-com-um-jogador-a-menos-e-encosta-no-g-6/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vítor; Warley, Júnior Barreto, Adriano Martins, Guilherme Lopes; Daniel Peixoto, Netinho, Guilherme Marques; Geovany Soares, João Pedro, Gustavo Maia",
+     "entraram": [
+      {
+       "jogador": "Yuri",
+       "saiu": "Guilherme Marques",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cristiano",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Coutinho",
+       "saiu": "João Pedro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Henrique Freitas",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Pedro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Netinho",
+        "minuto": "51"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Daniel Paulista",
+     "time": "Richard; Bryan Borges, Júlio César, Luizão, Sávio; João Gabriel, Vinícius Zanocelo, Giovanni Pavani, Matheus Araújo; Melk, Vina",
+     "entraram": [
+      {
+       "jogador": "Lucas Mugni",
+       "saiu": "Vinícius Zanocelo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lenny Lobato",
+       "saiu": "Matheus Araújo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nicolás Ferreira",
+       "saiu": "Melk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Vina",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bryan Borges",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luizão",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vina",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://ohoje.com/2026/09/10/atletico-go-vence-o-ceara-mesmo-com-um-jogador-a-menos-e-encosta-no-g-6/"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
+  },
+  {
+   "id": 91000450,
+   "data": "2026-09-13T16:00:00-03:00",
+   "casa": "atletico-go",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "28",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Antônio Accioly",
+   "cidade": "Goiânia",
+   "gols_casa": 4,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "40",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "45+6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Maia",
+     "minuto": "56",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Coutinho",
+     "minuto": "61",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/09/13/atletico-go-goleia-criciuma-e-ganha-forca-na-reta-final-da-serie-b/",
+    "https://acritica.net/esportes/atletico-go-4-a-0-criciuma-hat-trick-gustavo-coutinho-g6-serie-b/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vítor; Warley, Junior Barreto, Adriano Martins, Guilherme Lopes; Leandro Vilela, Daniel Peixoto, Henrique Freitas; Geovany Soares, Gustavo Maia, Gustavo Coutinho",
+     "entraram": [
+      {
+       "jogador": "Cristiano",
+       "saiu": "Leandro Vilela",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yuri",
+       "saiu": "Henrique Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheusinho",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Klebert",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Pedro",
+       "saiu": "Gustavo Coutinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Airton; César Martins, Rodrigo, Luciano Castán; Ronald, Gui Lobo, Rómulo Otero, Diego Gonçalves, Marcelo Hermes; Waguininho, Yuri Tanque",
+     "entraram": [
+      {
+       "jogador": "Thiaguinho",
+       "saiu": "Ronald",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcinho",
+       "saiu": "Rómulo Otero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Romarinho",
+       "saiu": "Diego Gonçalves",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hiago",
+       "saiu": "Marcelo Hermes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauê",
+       "saiu": "Yuri Tanque",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://ohoje.com/2026/09/13/atletico-go-goleia-criciuma-e-ganha-forca-na-reta-final-da-serie-b/"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
   },
   {
    "id": 91000373,
@@ -5148,6 +6366,36 @@
    "atualizado": "2026-11-10T02:39:00-03:00"
   },
   {
+   "id": 91000451,
+   "data": "2026-09-18T21:00:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "29",
+   "fase": "",
+   "grupo": "",
+   "estadio": "1º de Maio",
+   "cidade": "São Bernardo do Campo",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Felipe Garcia",
+     "minuto": "64",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://abcdoabc.com.br/sao-bernardo-vence-atletico-go-quebra-jejum/",
+    "https://www.dgabc.com.br/Noticia/4347897/sao-bernardo-fc-coloca-fim-a-jejum-de-10-jogos-em-casa-na-serie-b"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00"
+  },
+  {
    "id": 91000215,
    "data": "2026-09-20T16:00:00-03:00",
    "casa": "goias",
@@ -5169,6 +6417,130 @@
     "https://tribunadoplanalto.com.br/?p=112065"
    ],
    "atualizado": "2026-11-10T02:40:00-03:00"
+  },
+  {
+   "id": 91000452,
+   "data": "2026-09-26T18:30:00-03:00",
+   "casa": "goias",
+   "fora": "atletico-go",
+   "status": "encerrado",
+   "rodada": "30",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Hailé Pinheiro (Serrinha)",
+   "cidade": "Goiânia",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Guilherme Lopes",
+     "minuto": "32",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/09/27/atletico-go-vence-goias-na-serrinha-e-entra-no-g-6-da-serie-b/",
+    "https://acritica.net/esportes/atletico-go-vence-o-goias-quebra-jejum-e-fica-no-g-6-da-serie-b-do-campeonato-brasileiro/"
+   ],
+   "atualizado": "2026-11-21T03:38:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mozart",
+     "time": "Tadeu; Rodrigo Soares, Luisão, Luiz Felipe, Djalma; Filipe Machado, Lourenço, Lucas Lima; Jean Carlos, Kadu Sousa, Pedrinho",
+     "entraram": [
+      {
+       "jogador": "Nicolas",
+       "saiu": "Rodrigo Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gegê",
+       "saiu": "Lourenço",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cadu",
+       "saiu": "Lucas Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wellington Rato",
+       "saiu": "Jean Carlos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Clemente",
+       "saiu": "Pedrinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lourenço",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Felipe",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nicolas",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vitor; Warley, Adriano Martins, Junior Barreto, Guilherme Lopes; Peixoto, Netinho, Marrony; Gustavo Maia, Gustavo Coutinho, Geovany Soares",
+     "entraram": [
+      {
+       "jogador": "Ewerthon",
+       "saiu": "Warley",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cristiano",
+       "saiu": "Netinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Henrique Freitas",
+       "saiu": "Marrony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tito",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno José",
+       "saiu": "Geovany Soares",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Netinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://acritica.net/esportes/atletico-go-vence-o-goias-quebra-jejum-e-fica-no-g-6-da-serie-b-do-campeonato-brasileiro/"
+    ],
+    "atualizado": "2026-11-21T03:38:00-03:00"
+   }
   },
   {
    "id": 91000091,
