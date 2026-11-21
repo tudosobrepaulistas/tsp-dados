@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-21T09:07-03:00",
+ "gerado": "2026-11-21T10:32-03:00",
  "avisos": [
-  {
-   "clube": "palmeiras",
-   "nome": "Palmeiras",
-   "quando": "2026-11-20T17:10-03:00",
-   "motivo": "Base: Palmeiras Sub-17 1x1 São Paulo (20/11, Barueri) e vaga na final do Paulista só com placar no site do São Paulo; 2ª fonte (Futebol Interior) não abriu",
-   "sugestao": "Palmeiras Sub-17 na final do Paulista após 1x1 com o São Paulo (agregado 5x1): conferir placar no site do Palmeiras e o adversário da final"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-20T20:35-03:00",
-   "motivo": "Cobertura 6h (20/11 20h): nada novo e confirmado em 24h; site oficial sem notícia desde 17/11; prévias encontradas sem segunda fonte aceita",
-   "sugestao": "Sábado 21/11: relacionados do Mirassol e prévia de Fluminense x Mirassol (dom 22/11, 18h30, Maracanã, árbitro Fernando Mendes-PA); situação de Bruno Santos após STJD reduzir suspensão para 1 jogo"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-20T20:35-03:00",
-   "motivo": "Cobertura 6h (20/11 20h): sem notícia do time principal em 24h; suspensos para o Vasco não confirmados em fonte aceita",
-   "sugestao": "Sábado 21/11: relacionados e desfalques para Bragantino x Vasco (dom 22/11, 19h30, Cícero de Souza Marques; árbitro Braulio da Silva Machado-SC, VAR Marco Aurelio Fazekas-MG); ingressos só online com biometria"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-20T21:24-03:00",
-   "motivo": "Últimas 48h: só fala de Neto Moura na Gazeta Esportiva (19/11), sem 2ª fonte nem vídeo oficial; coletiva de Lucas Oliveira já publicada",
-   "sugestao": "Treino de sábado/relacionados para Fluminense x Mirassol no Maracanã ou entrevista de Neto Moura no YouTube oficial"
-  },
-  {
-   "clube": "portuguesa",
-   "nome": "Portuguesa",
-   "quando": "2026-11-20T21:24-03:00",
-   "motivo": "Volante Wesley Dias (ex-Cuiabá) acertado só em Olhar Esportivo e NETLUSA (portal de torcedor); Lusa não anunciou",
-   "sugestao": "Publicar quando a Portuguesa anunciar Wesley Dias oficialmente; carta de conselheiros contra jogos na Arena Inamar (Diadema)"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-20T21:24-03:00",
-   "motivo": "Aprovação da SAF (309 a 19) já publicada hoje; Cristian de Souza segue só encaminhado",
-   "sugestao": "Como fica o comando da SAF do Guarani (conselho de 5, 51% por 3 anos) quando o contrato for assinado"
-  },
   {
    "clube": "xvdepiracicaba",
    "nome": "XV de Piracicaba",
@@ -420,6 +378,48 @@
    "quando": "2026-11-21T09:07-03:00",
    "motivo": "sem notícia confirmada em 2 fontes nas últimas 48h (buscas de 21/11 9h); evergreen sem foto conferível: Wikimedia Commons bloqueou o download (429, excesso de pedidos) e os sites dos clubes/jornais estão fora do alcance desta execução",
    "sugestao": "Assisense: técnico e elenco para a Segunda Divisão 2027"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-21T10:32-03:00",
+   "motivo": "Cobertura 6h: nenhuma notícia nova do Botafogo-SP nas últimas 24h em fonte aceita (últimas: reforços Heron e Barreto e entrevista de Fillipe Soutto em 19/11, já cobertos)",
+   "sugestao": "Conferir anúncios do Botafogo-SP no site/Instagram oficiais (pré-temporada começa em 7/12); próximo reforço ou saída oficial"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-21T10:32-03:00",
+   "motivo": "Cobertura 6h: sem notícia confirmada em 2 fontes nas últimas 24h; a doação de 8 toneladas de alimentos a entidades (Futebol Interior, 20/11) não pôde ser aberta",
+   "sugestao": "Novorizontino entrega 8 toneladas de alimentos a entidades de Novo Horizonte: https://www.futebolinterior.com.br/novorizontino-realiza-entrega-alimentos/ (confirmar no site/Instagram do clube, com foto oficial)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-21T10:32-03:00",
+   "motivo": "Cobertura 6h: nenhuma notícia nova do São Bernardo nas últimas 24h em fonte aceita (renovação de Alex Alves em 20/11 já publicada)",
+   "sugestao": "Acompanhar Diário do Grande ABC e redes do São Bernardo FC: definição de Foguinho e Alex Alves, primeiros reforços de Cauan de Almeida"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-21T10:32-03:00",
+   "motivo": "Bloco A1 (cobertura 6h): sem notícia das últimas 48h de Noroeste, Ferroviária, Primavera ou Juventus em fonte aceita",
+   "sugestao": "Noroeste: reforços para o Paulistão 2027 e estreia contra o Corinthians (JCNET/96FM Bauru)"
+  },
+  {
+   "clube": "votuporanguense",
+   "nome": "Votuporanguense",
+   "quando": "2026-11-21T10:32-03:00",
+   "motivo": "Bloco A2 (cobertura 6h): sem notícia das últimas 48h de Votuporanguense, Água Santa, XV de Piracicaba ou Velo Clube em fonte aceita",
+   "sugestao": "CAV: preparação para a A2 2027 e reforços (Diário de Votuporanga)"
+  },
+  {
+   "clube": "uniao-sao-joao",
+   "nome": "União São João",
+   "quando": "2026-11-21T10:32-03:00",
+   "motivo": "Bloco A3 (cobertura 6h): sem notícia das últimas 48h de União São João, Itapirense, Rio Branco ou XV de Jaú em fonte aceita",
+   "sugestao": "União São João: elenco de Paulo Roberto Santos para a A3 2027 e saída de Xavier e Marcelo Henrique da gestão (Repórter Beto Ribeiro, 09/11)"
   }
  ]
 }
