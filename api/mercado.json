@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T21:53:00-03:00",
+ "gerado": "2026-11-20T21:55:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -9349,7 +9349,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-daniel-cruz-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
    ],
