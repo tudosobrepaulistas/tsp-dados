@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-21T17:01-03:00",
+ "gerado": "2026-11-21T20:37-03:00",
  "avisos": [
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-21T11:02-03:00",
-   "motivo": "Matéria do Jornal Primeira Página sobre o planejamento de 2027 não abriu (erro do site)",
-   "sugestao": "Grêmio São-Carlense começa a projetar a temporada 2027 e fica no Grupo A da A4: https://jornalpp.com.br/noticias/esporte/gremio-sao-carlense-comeca-a-projetar-temporada-2027/ e https://jornalpp.com.br/noticias/esporte/a4-de-2027-tera-grupos-regionalizados-e-gremio-fica-no-grupo-a/"
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-21T11:02-03:00",
-   "motivo": "Matéria da CBN Vale sobre o Jacareí na A4 2027 não abriu (erro do site); sem 2ª fonte",
-   "sugestao": "Jacareí FC conhece as diretrizes da Série A4 2027 (grupos regionais, limite de cinco atletas acima de 23 anos): https://www.cbnvale.com.br/jacarei-fc-conhece-diretrizes-do-campeonato-paulista-da-serie-a4-de-2027/"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-21T11:02-03:00",
-   "motivo": "Sem notícia confirmada nos últimos 7 dias (clube fora de temporada) e sem foto livre que abrisse nesta execução (Wikimedia Commons com bloqueio temporário de acesso)",
-   "sugestao": "Guia do estádio do Amparo ou 'como está o clube para 2027' com o site/Instagram oficial e o jornal da cidade"
-  },
-  {
-   "clube": "barcelona-capela",
-   "nome": "Barcelona Capela",
-   "quando": "2026-11-21T11:02-03:00",
-   "motivo": "Sem notícia confirmada nos últimos 7 dias (clube fora de temporada) e sem foto livre que abrisse nesta execução (Wikimedia Commons com bloqueio temporário de acesso)",
-   "sugestao": "Barcelona Capela: planejamento para a Segunda Divisão 2027 (diretoria, técnico, peneiras) pelo Instagram oficial"
-  },
-  {
-   "clube": "ranchariense",
-   "nome": "Ranchariense",
-   "quando": "2026-11-21T11:02-03:00",
-   "motivo": "Sem notícia confirmada nos últimos 7 dias (clube fora de temporada) e sem foto livre que abrisse nesta execução (Wikimedia Commons com bloqueio temporário de acesso)",
-   "sugestao": "Ranchariense: história do clube de Rancharia e o estádio, com jornal da região de Presidente Prudente"
-  },
   {
    "clube": "ad-guarulhos",
    "nome": "AD Guarulhos",
@@ -420,6 +385,41 @@
    "quando": "2026-11-21T17:01-03:00",
    "motivo": "Site oficial não abriu; Clássico dos Gêmeos já publicado",
    "sugestao": "Apresentação do elenco com Tássio (confirmar sobrenome) prevista para a 2ª quinzena de novembro"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-21T20:37-03:00",
+   "motivo": "Sem fato novo confirmado nas últimas 24h: Derek segue 'encaminhado' (CBN Ribeirão e Tribuna Ribeirão, 20/11), já publicado em 18/11",
+   "sugestao": "Publicar o anúncio oficial do centroavante Derek (empréstimo do Atlético-GO até o fim de 2027) assim que sair no site/Instagram do Botafogo-SP; cruzar com cbnribeirao.com.br ou tribunaribeirao.com.br"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-21T20:37-03:00",
+   "motivo": "Nenhuma notícia nova confirmada nas últimas 24h (Diário do Grande ABC, ABC do ABC, ge); Alef Manga, Foguinho e Alex Alves ainda sem anúncio oficial",
+   "sugestao": "Quando sair o primeiro anúncio oficial no Instagram @saobernardofc, fazer uma matéria única com reforços e renovações para 2027; perguntar à assessoria a comissão de Cauan de Almeida e a data da reapresentação"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-21T20:37-03:00",
+   "motivo": "Pauta Kleina já publicada em 18/11; interesse em Gabriel Caran e Karl (Boavista cobra salário integral) só tem 1 fonte independente (Portal CB, 21/11) e Karl já saiu em 18/11",
+   "sugestao": "Confirmar com Correio Popular/ge Campinas a situação de Caran e Karl com o Boavista; data de reapresentação (7/12) quando o clube oficializar"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-21T20:37-03:00",
+   "motivo": "Pauta da reapresentação vem de matéria de 12/11 (Correio da Manhã), desatualizada e sem 2ª fonte recente; Noroeste, Ferroviária, Primavera e Juventus sem notícia nas últimas 48h",
+   "sugestao": "Cobrir no dia a reapresentação do Guarani na segunda (23/11): confirmar data, local e hora com a assessoria, foto oficial do treino e reforços anunciados"
+  },
+  {
+   "clube": "uniao-sao-joao",
+   "nome": "União São João",
+   "quando": "2026-11-21T20:37-03:00",
+   "motivo": "Lista de 13 renovações e 3 reforços só no Futebol Interior (20/11); TV Sim confirma apenas a coletiva de apresentação em 23/11; Itapirense, Rio Branco e XV de Jaú sem notícia em 2 fontes nas últimas 48h",
+   "sugestao": "Cobrir a apresentação do elenco do União São João na segunda (23/11, 17h30), com novos uniformes e projeto de iluminação; usar o post oficial do clube + TV Sim/Opinião Araras"
   }
  ]
 }
