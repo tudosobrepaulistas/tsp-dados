@@ -492,6 +492,19 @@ def cmd_adicionar(a):
     if not posjogo and c["nome"].split()[0].lower() not in norm(it.get("titulo", "")) and norm(c["nome"]).split()[0] not in norm(it.get("titulo", "")):
         erros.append("o nome do clube precisa estar no título")
     corpo = it.get("corpo", [])
+    # 21/11/2026: Chefe de Redação (subagente que não escreveu o texto) confere cada fato antes de publicar
+    rv = it.get("revisao") or {}
+    if True:
+        if rv.get("veredito") != "aprovado" or len(rv.get("conferidos") or []) < 3:
+            erros.append("falta a revisão do Chefe de Redação: campo 'revisao' com veredito 'aprovado' e pelo menos 3 fatos conferidos (diretrizes/chefe-de-redacao.md)")
+    texto_todo = " ".join([it.get("titulo", ""), it.get("subtitulo", ""), " ".join(str(x) for x in (it.get("resumo") or []))] + [list(b.values())[0] if isinstance(b, dict) and b else "" for b in corpo])
+    if re.search(r"\bbezinha\b", texto_todo, re.I):
+        erros.append("não use o apelido 'Bezinha': escreva 'Segunda Divisão' (5º nível, Sub-23). A Série A4 é outra divisão")
+    for num in re.findall(r"\b(\d+) d[oa]s (\d+)\b", it.get("titulo", "")):
+        if " ".join(num) and f"{num[0]} dos {num[1]}" not in texto_todo.replace(it.get("titulo", ""), "", 1) and f"{num[0]} das {num[1]}" not in texto_todo.replace(it.get("titulo", ""), "", 1):
+            erros.append(f"o título promete '{num[0]} de {num[1]}': repita e detalhe no texto")
+    if re.search(r"veja a lista|veja quem|quem são", it.get("titulo", ""), re.I) and sum(1 for b in corpo if b.get("p")) < 3:
+        erros.append("o título promete uma lista: ela precisa estar completa no corpo")
     if sum(1 for b in corpo if b.get("p")) < (4 if video else 5):
         erros.append("corpo precisa de pelo menos 5 parágrafos (vídeo: 4)")
     erros += checar_citacoes(corpo)

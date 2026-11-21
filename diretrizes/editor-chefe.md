@@ -44,3 +44,7 @@ o Thiago ou o Vinicios clicarem em "Liberar redator".
 ## Tom
 Os textos de `--motivo` e `--sugestao` são lidos pelo redator: claros, respeitosos, sem ironia, dizendo o que está errado
 e o certo, com o trecho a mudar.
+
+
+## Lista de conferência (21/11/2026)
+Use também a seção "O que conferir" de `diretrizes/chefe-de-redacao.md`: promessa do título cumprida, divisão certa (Série A4 não é a Bezinha/Segunda Divisão), nomes e cargos exatos, "ex-clube" só com fonte.

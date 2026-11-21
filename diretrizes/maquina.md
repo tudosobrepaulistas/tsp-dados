@@ -44,7 +44,9 @@ Faça **um commit e push depois de cada matéria** (se a execução cair no meio
 6. Sem notícia (ou com a cota de histórias do dia cheia)? **Não escreva.** Rode
    `maquina.py sem-pauta CLUBE --motivo "..." --sugestao "pauta concreta para um redator"` e passe para o próximo clube da lista.
    Só termine com o grupo abaixo de 8 depois de tentar todos os clubes dele; diga no resumo quantos faltaram e por quê.
-7. Monte o JSON (formato abaixo) em `/tmp/materia.json` e rode `maquina.py adicionar /tmp/materia.json`. A ferramenta recusa
+7. Monte o JSON (formato abaixo) em `/tmp/materia.json`. **Antes de publicar, chame o Chefe de Redação** (subagente, veja
+   `diretrizes/chefe-de-redacao.md`): ele confere cada fato nas fontes. Aplique as correções e grave o retorno no campo `revisao`.
+   Só então rode `maquina.py adicionar /tmp/materia.json`. A ferramenta recusa
    título repetido, palavra-chave repetida, fonte proibida, conteúdo de aposta e horário ocupado. Corrija e rode de novo.
 8. `git add -A && git commit -m "máquina: <clube> - <título curto>" && git push` (com as linhas de coautoria do CLAUDE.md da sessão).
 
