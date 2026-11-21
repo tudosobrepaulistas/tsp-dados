@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T22:04:00-03:00",
+ "gerado": "2026-11-20T22:10:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -5851,7 +5851,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-08-willian-bigode-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true
+   },
    "fontes": [
     "https://www.instagram.com/mariliaac1942/"
    ],
@@ -5901,7 +5906,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-07-henrique-guedes-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true
+   },
    "fontes": [
     "https://www.instagram.com/mariliaac1942/"
    ],
@@ -5949,7 +5959,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-07-felipe-nicolas-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true
+   },
    "fontes": [
     "https://www.instagram.com/mariliaac1942/"
    ],
@@ -6230,7 +6245,12 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-luiz-gustavo-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/",
     "https://www.instagram.com/mariliaac1942/"
