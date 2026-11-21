@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T23:09:00-03:00",
+ "gerado": "2026-11-21T03:53:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -44,9 +44,9 @@
      "nome": "Ericson",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 338,
+      "minutos": 428,
       "minutos_estimados": false,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -89,9 +89,9 @@
      "nome": "Vilar",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 2,
-      "minutos": 720,
+      "minutos": 810,
       "minutos_estimados": false,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -315,9 +315,9 @@
      "nome": "Hygor",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 4,
-      "minutos": 520,
+      "minutos": 588,
       "minutos_estimados": false,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -330,9 +330,9 @@
      "nome": "Kelvin",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 294,
+      "minutos": 316,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -375,9 +375,9 @@
      "nome": "Arthur Caíke",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 134,
+      "minutos": 156,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -3616,7 +3616,12 @@
     {
      "nome": "Luiz Carlos Martins",
      "posicao": "Treinador",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-03-luiz-carlos-martins-uniao-barbarense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -3735,7 +3740,12 @@
     {
      "nome": "Pedro Rinaldi",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-pedro-rinaldi-uniao-barbarense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -7322,7 +7332,12 @@
      "nome": "Paulinho McLaren",
      "posicao": "Treinador",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-29-paulinho-mclaren-vocem.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/vocemassis/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -9427,7 +9442,36 @@
      "numeros": null,
      "selos": [],
      "ficha": {
-      "no_clube": "Treinou o Azulão em 2018; voltou em 2026 e garantiu a permanência na Série A2"
+      "nome_completo": "José Francisco de Oliveira",
+      "no_clube": "Treinou o Azulão em 2018 (19 jogos, 7 vitórias); voltou em 2026 para as duas últimas rodadas da A2 e garantiu a permanência",
+      "inicio": "Ex-goleiro profissional; começou fora de campo em 2002, como treinador de goleiros do São José. Primeiro trabalho como técnico principal em 2015, no São José",
+      "clubes_anteriores": [
+       "Francana",
+       "Araçatuba",
+       "América-GO",
+       "Santo André",
+       "Corumbaense",
+       "Águia Negra",
+       "Rio Preto",
+       "Colorado Caieiras",
+       "Sertãozinho",
+       "Lemense",
+       "São José",
+       "SERC",
+       "Itapirense",
+       "EC São Bernardo",
+       "Olímpia",
+       "Paulista",
+       "Taquaritinga"
+      ],
+      "acessos": [
+       "Vice-campeão Sul-Mato-Grossense 2024 com o Águia Negra"
+      ],
+      "destaques": [
+       "Livrou o Monte Azul do rebaixamento na Série A2 de 2026 em duas rodadas",
+       "Garantiu a permanência da Francana na Série A3 de 2026, 15 dias depois",
+       "América-GO na Divisão de Acesso Goiana 2025: 6 vitórias em 11 jogos"
+      ]
      },
      "comissao": true
     },

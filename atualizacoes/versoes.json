@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-21T00:50-03:00",
+ "gerado": "2026-11-21T04:10-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.9.0",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.7.4",
-   "zip": "tsp-nova-era-1.7.4.zip",
-   "notas": "Mercado da Bola: figurinha padrão para todos (posição, de onde veio → para onde foi com escudos, jogos e gols de 2026 e selo de seleção quando houver). Foto e nome levam à página do atleta. Na home, cada divisão mostra jogadores em cima e treinadores/comissão embaixo, em ordem sorteada a cada visita."
+   "versao": "1.7.5",
+   "zip": "tsp-nova-era-1.7.5.zip",
+   "notas": "Página própria para treinador e comissão técnica: /treinador/<clube>/<nome>/ (e /comissao-tecnica/...), com ficha técnica, números da carreira, aproveitamento, acessos, títulos e destaques, trajetória temporada a temporada, clubes, matérias do TSP e perguntas frequentes respondidas (com dados estruturados). O endereço antigo /jogador/ redireciona. Rótulo \"No clube\" virou \"Trajetória\"; a nota da página do jogador não cita mais o oGol."
   },
   "tsp-shopee": {
    "versao": "1.1.0",

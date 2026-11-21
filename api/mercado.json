@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T23:09:00-03:00",
+ "gerado": "2026-11-21T03:53:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -1527,9 +1527,9 @@
    ],
    "nascimento": "",
    "numeros": {
-    "jogos": 3,
+    "jogos": 4,
     "gols": 0,
-    "minutos": 66,
+    "minutos": 88,
     "minutos_estimados": true,
     "clube": "Botafogo-SP",
     "clubes": [
@@ -3666,15 +3666,320 @@
     "ia": true
    },
    "fontes": [
-    "https://www.futebolinterior.com.br/paulista-a2-monte-azul-contrata-tecnico/"
+    "https://www.futebolinterior.com.br/paulista-a2-monte-azul-contrata-tecnico/",
+    "https://www.futebolinterior.com.br/paulistao-a2-monte-azul-oficializa-a-contratacao-de-jose-oliveira-como-novo-treinador/"
    ],
-   "nascimento": "",
+   "nascimento": "1968-07-10",
    "numeros": {},
    "selos": [],
-   "carreira": [],
-   "carreira_fonte": "",
+   "carreira": [
+    {
+     "temporada": "2026",
+     "clube": "Francana",
+     "funcao": "Treinador",
+     "jogos": 2,
+     "vitorias": 1,
+     "empates": 0,
+     "derrotas": 1
+    },
+    {
+     "temporada": "2026",
+     "clube": "Monte Azul",
+     "funcao": "Treinador",
+     "jogos": 2,
+     "vitorias": 0,
+     "empates": 1,
+     "derrotas": 1
+    },
+    {
+     "temporada": "2026",
+     "clube": "Araçatuba",
+     "funcao": "Treinador",
+     "jogos": 4,
+     "vitorias": 0,
+     "empates": 1,
+     "derrotas": 3
+    },
+    {
+     "temporada": "2025",
+     "clube": "América-GO",
+     "funcao": "Treinador",
+     "jogos": 11,
+     "vitorias": 6
+    },
+    {
+     "temporada": "2025",
+     "clube": "Santo André",
+     "funcao": "Treinador",
+     "jogos": 4,
+     "vitorias": 0
+    },
+    {
+     "temporada": "2025",
+     "clube": "Corumbaense",
+     "funcao": "Treinador",
+     "jogos": 1,
+     "vitorias": 0
+    },
+    {
+     "temporada": "2025",
+     "clube": "Águia Negra",
+     "funcao": "Treinador",
+     "jogos": 2,
+     "vitorias": 1
+    },
+    {
+     "temporada": "2024",
+     "clube": "Águia Negra",
+     "funcao": "Treinador",
+     "jogos": 7,
+     "vitorias": 3
+    },
+    {
+     "temporada": "2024",
+     "clube": "Rio Preto",
+     "funcao": "Treinador",
+     "jogos": 9,
+     "vitorias": 3
+    },
+    {
+     "temporada": "2023",
+     "clube": "Águia Negra",
+     "funcao": "Treinador",
+     "jogos": 8,
+     "vitorias": 3
+    },
+    {
+     "temporada": "2023",
+     "clube": "Colorado Caieiras",
+     "funcao": "Treinador",
+     "jogos": 7,
+     "vitorias": 2
+    },
+    {
+     "temporada": "2023",
+     "clube": "Sertãozinho",
+     "funcao": "Treinador",
+     "jogos": 6,
+     "vitorias": 3
+    },
+    {
+     "temporada": "2023",
+     "clube": "Lemense",
+     "funcao": "Treinador",
+     "jogos": 5,
+     "vitorias": 2
+    },
+    {
+     "temporada": "2022",
+     "clube": "São José",
+     "funcao": "Treinador",
+     "jogos": 4,
+     "vitorias": 0
+    },
+    {
+     "temporada": "2022",
+     "clube": "SERC",
+     "funcao": "Treinador",
+     "jogos": 13,
+     "vitorias": 4
+    },
+    {
+     "temporada": "2021",
+     "clube": "Colorado Caieiras",
+     "funcao": "Treinador",
+     "jogos": 7,
+     "vitorias": 2
+    },
+    {
+     "temporada": "2021",
+     "clube": "Itapirense",
+     "funcao": "Treinador",
+     "jogos": 2,
+     "vitorias": 0
+    },
+    {
+     "temporada": "2021",
+     "clube": "EC São Bernardo",
+     "funcao": "Treinador",
+     "jogos": 5,
+     "vitorias": 1
+    },
+    {
+     "temporada": "2021",
+     "clube": "Olímpia",
+     "funcao": "Treinador",
+     "jogos": 3,
+     "vitorias": 0
+    },
+    {
+     "temporada": "2020",
+     "clube": "Itapirense",
+     "funcao": "Treinador",
+     "jogos": 8,
+     "vitorias": 4
+    },
+    {
+     "temporada": "2020",
+     "clube": "Paulista",
+     "funcao": "Treinador",
+     "jogos": 9,
+     "vitorias": 3
+    },
+    {
+     "temporada": "2019",
+     "clube": "São José",
+     "funcao": "Treinador",
+     "jogos": 7,
+     "vitorias": 3
+    },
+    {
+     "temporada": "2019",
+     "clube": "EC São Bernardo",
+     "funcao": "Treinador",
+     "jogos": 6,
+     "vitorias": 2
+    },
+    {
+     "temporada": "2018",
+     "clube": "Taquaritinga",
+     "funcao": "Treinador",
+     "jogos": 1,
+     "vitorias": 0
+    },
+    {
+     "temporada": "2018",
+     "clube": "Monte Azul",
+     "funcao": "Treinador",
+     "jogos": 19,
+     "vitorias": 7
+    },
+    {
+     "temporada": "2017",
+     "clube": "São José",
+     "funcao": "Treinador",
+     "jogos": 20,
+     "vitorias": 11
+    },
+    {
+     "temporada": "2016",
+     "clube": "Olímpia",
+     "funcao": "Treinador",
+     "jogos": 3,
+     "vitorias": 1
+    },
+    {
+     "temporada": "2016",
+     "clube": "São José",
+     "funcao": "Treinador",
+     "jogos": 2,
+     "vitorias": 1
+    },
+    {
+     "temporada": "2015",
+     "clube": "São José",
+     "funcao": "Treinador",
+     "jogos": 2,
+     "vitorias": 0
+    },
+    {
+     "temporada": "2014",
+     "clube": "São Bernardo",
+     "funcao": "Auxiliar técnico"
+    },
+    {
+     "temporada": "2013",
+     "clube": "São Bernardo",
+     "funcao": "Auxiliar técnico"
+    },
+    {
+     "temporada": "2012",
+     "clube": "São Bernardo",
+     "funcao": "Treinador de goleiros"
+    },
+    {
+     "temporada": "2011",
+     "clube": "São Bernardo",
+     "funcao": "Treinador de goleiros"
+    },
+    {
+     "temporada": "2010",
+     "clube": "São José",
+     "funcao": "Treinador de goleiros"
+    },
+    {
+     "temporada": "2009",
+     "clube": "São José",
+     "funcao": "Treinador de goleiros"
+    },
+    {
+     "temporada": "2008",
+     "clube": "CSA",
+     "funcao": "Auxiliar técnico"
+    },
+    {
+     "temporada": "2007",
+     "clube": "América-RN",
+     "funcao": "Treinador de goleiros"
+    },
+    {
+     "temporada": "2006",
+     "clube": "União São João",
+     "funcao": "Treinador de goleiros"
+    },
+    {
+     "temporada": "2005",
+     "clube": "Corinthians-AL",
+     "funcao": "Auxiliar técnico"
+    },
+    {
+     "temporada": "2004",
+     "clube": "Ceará",
+     "funcao": "Auxiliar técnico"
+    },
+    {
+     "temporada": "2003",
+     "clube": "São José",
+     "funcao": "Treinador de goleiros"
+    },
+    {
+     "temporada": "2002",
+     "clube": "São José",
+     "funcao": "Treinador de goleiros"
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/treinador/jose-oliveira/30609",
    "ficha": {
-    "no_clube": "Treinou o Azulão em 2018; voltou em 2026 e garantiu a permanência na Série A2"
+    "nome_completo": "José Francisco de Oliveira",
+    "no_clube": "Treinou o Azulão em 2018 (19 jogos, 7 vitórias); voltou em 2026 para as duas últimas rodadas da A2 e garantiu a permanência",
+    "inicio": "Ex-goleiro profissional; começou fora de campo em 2002, como treinador de goleiros do São José. Primeiro trabalho como técnico principal em 2015, no São José",
+    "clubes_anteriores": [
+     "Francana",
+     "Araçatuba",
+     "América-GO",
+     "Santo André",
+     "Corumbaense",
+     "Águia Negra",
+     "Rio Preto",
+     "Colorado Caieiras",
+     "Sertãozinho",
+     "Lemense",
+     "São José",
+     "SERC",
+     "Itapirense",
+     "EC São Bernardo",
+     "Olímpia",
+     "Paulista",
+     "Taquaritinga"
+    ],
+    "acessos": [
+     "Vice-campeão Sul-Mato-Grossense 2024 com o Águia Negra"
+    ],
+    "destaques": [
+     "Livrou o Monte Azul do rebaixamento na Série A2 de 2026 em duas rodadas",
+     "Garantiu a permanência da Francana na Série A3 de 2026, 15 dias depois",
+     "América-GO na Divisão de Acesso Goiana 2025: 6 vitórias em 11 jogos"
+    ]
    },
    "comissao": true,
    "dono": "monteazul"
@@ -8755,7 +9060,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-pedro-rinaldi-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/"
    ],
@@ -10467,7 +10777,12 @@
    "blocos": [
     "d4"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-29-paulinho-mclaren-vocem.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/vocemassis/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/vocem-confirma-paulinho-mclaren/",
     "https://www.instagram.com/vocemassis/"
@@ -11626,7 +11941,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-03-luiz-carlos-martins-uniao-barbarense.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaobarbarense_oficial/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/paulistao-a3-confira-os-treinadores-ja-definidos-para-2027/"
    ],
