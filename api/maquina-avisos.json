@@ -1,153 +1,6 @@
 {
- "gerado": "2026-11-20T20:35-03:00",
+ "gerado": "2026-11-20T21:25-03:00",
  "avisos": [
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "sem notícia; fontes do estádio (Sílvio Salles) confusas entre Grêmio Catanduvense e Grêmio Esportivo Catanduvense, site oficial bloqueia leitura",
-   "sugestao": "Guia do Sílvio Salles/Arena Moacir Bernardes Brida conferido com o clube e a Prefeitura de Catanduva"
-  },
-  {
-   "clube": "fernandopolis",
-   "nome": "Fernandópolis",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "nada novo desde a desistência/crise financeira da Segundona",
-   "sugestao": "Fernandópolis em 2027: o clube volta à Segunda Divisão? Entrevista com o presidente"
-  },
-  {
-   "clube": "olimpia",
-   "nome": "Olímpia",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "resultados da busca eram do Olímpia do Maranhão; nada do clube paulista nos últimos 7 dias",
-   "sugestao": "Olímpia FC: andamento do plano de volta à FPF em 2028"
-  },
-  {
-   "clube": "tupa",
-   "nome": "Tupã",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "últimas notícias do clube (novo site, base) são de dez/2025 e fev/2026",
-   "sugestao": "Tupã FC: como foi a temporada 2026 da base e o que o clube prepara para 2027"
-  },
-  {
-   "clube": "riopretano",
-   "nome": "Riopretano",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "última notícia de agosto (Segunda Divisão 2027 no Riopretão)",
-   "sugestao": "Riopretano 2027: técnico, elenco e data da apresentação para a Segunda Divisão"
-  },
-  {
-   "clube": "ad-guarulhos",
-   "nome": "AD Guarulhos",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "só notícia de basquete de Guarulhos; nada do clube nos últimos 7 dias",
-   "sugestao": "AD Guarulhos: planejamento para a Bezinha 2027 e o acesso à A4"
-  },
-  {
-   "clube": "flamengo-sp",
-   "nome": "Flamengo SP",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "matéria do Radar de Guarulhos sobre Copinha 2027 não abriu (erro do site); sem 2ª fonte",
-   "sugestao": "Flamengo de Guarulhos vai à Copinha 2027? Confirmar com o clube e o Radar de Guarulhos"
-  },
-  {
-   "clube": "sao-carlos",
-   "nome": "São Carlos",
-   "quando": "2026-11-20T06:31-03:00",
-   "motivo": "Reforma do gramado do Luisão (São Carlos Agora, 16/11) já publicada no site em 16/11 na matéria do Grêmio São-Carlense; nada novo do São Carlos FC",
-   "sugestao": "Redator: confirmar com o São Carlos FC planejamento e divisão que vai disputar em 2027 e se mandará jogos no Luisão reformado"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-20T09:19-03:00",
-   "motivo": "Sem notícia nova com 2 fontes em 18-20/11; guia do Palma Travassos pronto, mas evergreen anterior (06/11) ainda dentro dos 14 dias",
-   "sugestao": "Publicar amanhã (21/11) o guia do Estádio Palma Travassos, já apurado pela Máquina"
-  },
-  {
-   "clube": "ecus",
-   "nome": "ECUS",
-   "quando": "2026-11-20T09:19-03:00",
-   "motivo": "Técnico Adriano Rodrigues (ex-CSA) só no Futebol Interior; evergreen anterior (06/11) ainda dentro dos 14 dias",
-   "sugestao": "Confirmar com o ECUS ou o Diário de Suzano a chegada do técnico Adriano Rodrigues"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-20T09:19-03:00",
-   "motivo": "Evergreen da Cristiane pronto, mas as únicas fotos livres são da Agência Soccer Digital (regra: sem foto de agência); notícia do play-in foi como rascunho esperando foto",
-   "sugestao": "Redator: pôr foto oficial do Santos na matéria do play-in contra o São Paulo (sábado, 11h, Brinco de Ouro)"
-  },
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-20T10:31-03:00",
-   "motivo": "Sem fato novo nas últimas 24h: critérios de Soutto e reapresentação em 7/12 já estão na matéria da coletiva de 17/11; Derek já publicado em 18/11",
-   "sugestao": "Anúncio oficial do centroavante Derek (Tribuna Ribeirão diz que sai na próxima semana) e a tabela do Paulistão 2027 em dezembro"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-20T10:31-03:00",
-   "motivo": "Nenhuma notícia confirmada em 2 fontes nas últimas 24h (site oficial só traz ação social de 18/11)",
-   "sugestao": "Primeiros reforços para a Série A 2027 e renovações do elenco campeão da Série B; conferir site oficial e Diário da Região"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-20T10:31-03:00",
-   "motivo": "Nenhuma notícia nova confirmada nas últimas 24h além das já publicadas (Cauan, Alef Manga, saídas)",
-   "sugestao": "Oficialização de Alef Manga e lista de renovações para 2027; conferir site do clube e Diário do Grande ABC"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-20T11:01-03:00",
-   "motivo": "Sem notícia recente em jornais e portais (busca de 20/11); clube sem calendário até 2027",
-   "sugestao": "Redator: confirmar com a diretoria do Amparo se o clube disputa a Segunda Divisão de 2027 e quem será o técnico"
-  },
-  {
-   "clube": "batatais",
-   "nome": "Batatais",
-   "quando": "2026-11-20T11:01-03:00",
-   "motivo": "Últimas notícias do Futebol Interior são da campanha na Segundona; nada novo nos últimos 7 dias",
-   "sugestao": "Planejamento do Batatais para 2027: técnico, elenco e uso do Estádio Oswaldo Scatena (ouvir a diretoria)"
-  },
-  {
-   "clube": "centro-olimpico",
-   "nome": "Centro Olímpico",
-   "quando": "2026-11-20T11:01-03:00",
-   "motivo": "Copinha Feminina 2026: Brasil em Folhas e Portal Morada divergem sobre a 1ª rodada do Grupo C (data e adversário do Centro Olímpico); não publiquei",
-   "sugestao": "Conferir na tabela oficial da FPF (futebolpaulista.com.br, PDF 3960_1) os jogos do Centro Olímpico no Grupo C da Copinha F e fazer a prévia da estreia"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-20T11:01-03:00",
-   "motivo": "Sem anúncio de técnico ou reforços para a A4 2027 encontrado em notícias dos últimos 7 dias",
-   "sugestao": "Colorado Caieiras é um dos 5 clubes da A4 2027 sem técnico anunciado: perguntar à diretoria o planejamento e a data de apresentação"
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-20T11:01-03:00",
-   "motivo": "CBN Vale fala em oito reforços encaminhados e seletiva, mas a página não abriu; as demais notícias são de setembro e abril",
-   "sugestao": "Jacareí FC: oito reforços encaminhados e seletiva para a A4 2027 (CBN Vale) - confirmar nomes e data da seletiva com o clube"
-  },
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-20T11:01-03:00",
-   "motivo": "Jornal Primeira Página tem 'Grêmio São-carlense começa a projetar temporada 2027', mas a página não abriu; sem segunda fonte",
-   "sugestao": "Planejamento do Grêmio São-Carlense para a A4 2027 (técnico ainda não anunciado; reforma do Luisão em andamento)"
-  },
-  {
-   "clube": "red-bull-bragantino-feminino",
-   "nome": "Red Bull Bragantino Feminino",
-   "quando": "2026-11-20T11:01-03:00",
-   "motivo": "Play-in com o Corinthians (volta domingo, 22/11, na Fazendinha) já tem matéria no site; site oficial não abre para leitura",
-   "sugestao": "Pós-jogo de Corinthians x Red Bull Bragantino no domingo (22/11) pelo play-in do Paulistão Feminino"
-  },
   {
    "clube": "taubate-feminino",
    "nome": "Taubaté Feminino",
@@ -420,6 +273,153 @@
    "quando": "2026-11-20T20:35-03:00",
    "motivo": "Cobertura 6h (20/11 20h): sem notícia do time principal em 24h; suspensos para o Vasco não confirmados em fonte aceita",
    "sugestao": "Sábado 21/11: relacionados e desfalques para Bragantino x Vasco (dom 22/11, 19h30, Cícero de Souza Marques; árbitro Braulio da Silva Machado-SC, VAR Marco Aurelio Fazekas-MG); ingressos só online com biometria"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Últimas 48h: só fala de Neto Moura na Gazeta Esportiva (19/11), sem 2ª fonte nem vídeo oficial; coletiva de Lucas Oliveira já publicada",
+   "sugestao": "Treino de sábado/relacionados para Fluminense x Mirassol no Maracanã ou entrevista de Neto Moura no YouTube oficial"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Volante Wesley Dias (ex-Cuiabá) acertado só em Olhar Esportivo e NETLUSA (portal de torcedor); Lusa não anunciou",
+   "sugestao": "Publicar quando a Portuguesa anunciar Wesley Dias oficialmente; carta de conselheiros contra jogos na Arena Inamar (Diadema)"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Aprovação da SAF (309 a 19) já publicada hoje; Cristian de Souza segue só encaminhado",
+   "sugestao": "Como fica o comando da SAF do Guarani (conselho de 5, 51% por 3 anos) quando o contrato for assinado"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Nada novo após a matéria de hoje sobre a dívida/Beraldo; site oficial e Jornal de Piracicaba sem novidade desde 14/11",
+   "sugestao": "Datas dos jogos-treino da pré-temporada e andamento da SAF na Justiça"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Só promoção de camisas (Black Friday), sem 2ª fonte independente",
+   "sugestao": "Como está o elenco de Eduardo Souza para o Paulistão 2027"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Max (ex-Athletic) encaminhado: 1 fonte, negócio não fechado",
+   "sugestao": "Confirmar Max com o clube; andamento das obras da Rua Javari"
+  },
+  {
+   "clube": "primavera",
+   "nome": "Primavera",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Nada novo em 7 dias",
+   "sugestao": "Elenco do centenário para Paulistão e Série D; situação de Ericson"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Copinha 2027 em Araraquara em risco: só Portal Morada (20/11)",
+   "sugestao": "Confirmar com Ferroviária/FPF se Araraquara recebe a Copinha 2027: https://portalmorada.com.br/araraquara-pode-ficar-fora-da-copinha-em-2027"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Reapresentação de 7/12 e Derek já publicados",
+   "sugestao": "Anúncio oficial do atacante Derek (ex-Náutico), previsto para a próxima semana"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Doação de 8 toneladas de alimentos já publicada pela cobertura 6h",
+   "sugestao": "Próximos reforços e reapresentação para 2027"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Sem notícia em 7 dias; matéria da CBN Vale sobre 8 reforços não abriu; sem foto livre do Du Cambusano",
+   "sugestao": "https://cbnvale.com.br/jacarei-fc-tem-oito-reforcos-encaminhados-e-prepara-seletiva-para-a-serie-a4-de-2027/"
+  },
+  {
+   "clube": "taquaritinga",
+   "nome": "Taquaritinga",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Sem notícia nova; evergreen de Gustavo Silva sem foto livre",
+   "sugestao": "Você sabia: Gustavo Silva, revelado no Taquaritinga, campeão da Taça da Liga pelo Vitória SC (foto oficial do Vitória)"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Reapresentação em 4/1 e elenco de 13 nomes só no Futebol Interior (19/11)",
+   "sugestao": "Confirmar no Instagram do Tanabi e escrever sobre a reapresentação de 4 de janeiro"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Sem notícia; evergreen bloqueado pela regra de 14 dias até 21/11",
+   "sugestao": "Apresentação do elenco de Tássio (Diário de Suzano / redes do clube)"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Sem notícia; evergreen bloqueado até 21/11",
+   "sugestao": "Técnico e reforços de 2027 pelas redes oficiais"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Notícia da semana já publicada; evergreen do acesso de 2013 pronto mas bloqueado pela regra de 14 dias até 21/11",
+   "sugestao": "Jogos-treino e SAF: https://cbnribeirao.com.br/comercial-marca-jogos-treino-e-avanca-em-diligencias-para-implantacao-da-saf/"
+  },
+  {
+   "clube": "itapirense",
+   "nome": "Itapirense",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Nada após a SAF (06/11)",
+   "sugestao": "Andamento da SAF e técnico para 2027"
+  },
+  {
+   "clube": "uniao-sao-joao",
+   "nome": "União São João",
+   "quando": "2026-11-20T21:24-03:00",
+   "motivo": "Nada após o reforço Vinícius Fernando (08/11)",
+   "sugestao": "Novos reforços e reapresentação com Paulo Roberto Santos"
+  },
+  {
+   "clube": "audax",
+   "nome": "Audax",
+   "quando": "2026-11-20T21:25-03:00",
+   "motivo": "Guia do José Liberatti pronto, mas não deu para conferir autor e licença da foto no Commons",
+   "sugestao": "Rochdalão: guia do estádio do Audax, com crédito conferido em https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Municipal_Jos%C3%A9_Liberatti.jpg"
+  },
+  {
+   "clube": "batatais",
+   "nome": "Batatais",
+   "quando": "2026-11-20T21:25-03:00",
+   "motivo": "Sem foto livre do Scatenão",
+   "sugestao": "Guia do Scatenão e o título da A2 de 1945, com foto do clube"
+  },
+  {
+   "clube": "assisense",
+   "nome": "Assisense",
+   "quando": "2026-11-20T21:25-03:00",
+   "motivo": "Sem foto livre do Tonicão",
+   "sugestao": "Falcão do Vale: apelido e fundação em 1995, com foto do clube"
   }
  ]
 }
