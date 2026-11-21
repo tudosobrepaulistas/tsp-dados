@@ -1,55 +1,6 @@
 {
- "gerado": "2026-11-21T13:17-03:00",
+ "gerado": "2026-11-21T15:39-03:00",
  "avisos": [
-  {
-   "clube": "batatais",
-   "nome": "Batatais",
-   "quando": "2026-11-21T06:24-03:00",
-   "motivo": "sem notícia confirmada dos últimos 7 dias nas buscas; evergreen sem foto livre conferível nesta varredura (Wikimedia Commons recusou por excesso de pedidos e a Wikipédia ficou inacessível)",
-   "sugestao": "Como ficou o Scatenão depois dos furtos de outubro; planejamento para a Segunda Divisão 2027"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-21T06:24-03:00",
-   "motivo": "sem notícia confirmada dos últimos 7 dias nas buscas; evergreen sem foto livre conferível nesta varredura (Wikimedia Commons recusou por excesso de pedidos e a Wikipédia ficou inacessível)",
-   "sugestao": "Planejamento do Amparo para a Segunda Divisão 2027"
-  },
-  {
-   "clube": "tupa",
-   "nome": "Tupã",
-   "quando": "2026-11-21T06:24-03:00",
-   "motivo": "sem notícia confirmada dos últimos 7 dias nas buscas; evergreen sem foto livre conferível nesta varredura (Wikimedia Commons recusou por excesso de pedidos e a Wikipédia ficou inacessível)",
-   "sugestao": "Técnico e elenco do Tupã para a Segunda Divisão 2027"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-21T06:24-03:00",
-   "motivo": "sem notícia confirmada dos últimos 7 dias nas buscas; evergreen sem foto livre conferível nesta varredura (Wikimedia Commons recusou por excesso de pedidos e a Wikipédia ficou inacessível)",
-   "sugestao": "Técnico e elenco do Catanduvense para a Segunda Divisão 2027"
-  },
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-21T06:24-03:00",
-   "motivo": "sem notícia confirmada dos últimos 7 dias nas buscas; evergreen sem foto livre conferível nesta varredura (Wikimedia Commons recusou por excesso de pedidos e a Wikipédia ficou inacessível)",
-   "sugestao": "Estreia do Taubaté na Copinha Feminina e rivais da Copa Paulista 2027 depois do play-in"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-21T06:24-03:00",
-   "motivo": "sem notícia confirmada dos últimos 7 dias nas buscas; evergreen sem foto livre conferível nesta varredura (Wikimedia Commons recusou por excesso de pedidos e a Wikipédia ficou inacessível)",
-   "sugestao": "Planejamento do Mirassol Feminino para 2027 (técnica, renovações, reforços)"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-21T06:24-03:00",
-   "motivo": "sem notícia confirmada dos últimos 7 dias nas buscas; evergreen sem foto livre conferível nesta varredura (Wikimedia Commons recusou por excesso de pedidos e a Wikipédia ficou inacessível)",
-   "sugestao": "Resultado de São Paulo x Santos no domingo e o que vem para as Sereias em 2027"
-  },
   {
    "clube": "corinthians-feminino",
    "nome": "Corinthians Feminino",
@@ -420,6 +371,55 @@
    "quando": "2026-11-21T13:17-03:00",
    "motivo": "Sem notícia nova nos últimos 7 dias; evergreen sem foto livre que abrisse nesta execução",
    "sugestao": "Taubaté Feminino na Copa Paulista Feminina: tabela e estreia, quando a FPF divulgar"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-21T15:39-03:00",
+   "motivo": "Cobertura 6h (15h30): nada novo em 2 fontes nas últimas 24h; reapresentação em 7/12 já está como rascunho esperando foto; Derek ainda sem anúncio oficial",
+   "sugestao": "Anúncio oficial do centroavante Derek (Tribuna Ribeirão prevê para a semana de 23/11); pôr foto no rascunho da reapresentação"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-21T15:39-03:00",
+   "motivo": "Cobertura 6h (15h30): única novidade (8 toneladas de alimentos, comunicado de 20/11) já está como rascunho esperando foto",
+   "sugestao": "Pôr no rascunho a foto https://www.gremionovorizontino.com.br/wp-content/uploads/2026/11/entrega-alimentos-2026-05-scaled.webp (Juan Rodrigues/Novorizontino) e publicar; reserva: Sub-13 campeão da Spring Soccer Fest em Bebedouro (site oficial, 21/11)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-21T15:39-03:00",
+   "motivo": "Cobertura 6h (15h30): nenhuma notícia nova em 2 fontes desde 20/11; Alef Manga ainda 'encaminhado', site oficial parado desde março",
+   "sugestao": "Anúncio oficial de Alef Manga ou apresentação do técnico Cauan de Almeida (conferir DGABC e ABC do ABC)"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-21T15:39-03:00",
+   "motivo": "Cobertura 6h (15h30): desfalques para o Vasco (Fernando e Matheus Fernandes suspensos, volta de Lucas Barbosa) só no Futebol Interior e no SuperVasco (site de torcedor); sem 2ª fonte aceita",
+   "sugestao": "Bragantino x Vasco (dom 22/11, 19h30, Cícero de Souza Marques): matéria de desfalques quando sair a lista oficial de relacionados do clube ou matéria do ge"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-21T15:39-03:00",
+   "motivo": "Bloco A1 (15h30): Noroeste, Ferroviária, Primavera e Juventus sem notícia em 2 fontes nas últimas 48h; SAF do Guarani já publicada",
+   "sugestao": "Ferroviária: impasse Prefeitura/Revee/Ferroviária pode tirar a Copinha 2027 de Araraquara (Portal Morada 20/11; falta 2ª fonte: ACidade ON, RCIA, Rádio Uniara)"
+  },
+  {
+   "clube": "votuporanguense",
+   "nome": "Votuporanguense",
+   "quando": "2026-11-21T15:39-03:00",
+   "motivo": "Bloco A2 (15h30): lateral Reginaldo de Lima só no Diário de Votuporanga (Instagram do CAV não abriu); Santo André/Vitinho só com DGABC lido",
+   "sugestao": "Votuporanguense anuncia lateral Reginaldo de Lima (https://diariodevotuporanga.com.br/cav-anuncia-lateral-com-experiencia-na-europa-para-reforcar-elenco-da-serie-a2/) confirmando no Instagram do clube; ou Santo André acerta Vitinho (DGABC 20/11 + Repórter Diário)"
+  },
+  {
+   "clube": "uniao-sao-joao",
+   "nome": "União São João",
+   "quando": "2026-11-21T15:39-03:00",
+   "motivo": "Bloco A3 (15h30): 13 renovações do União só no Futebol Interior; Copinha em Araras só na TV Sim; nada em 2 fontes",
+   "sugestao": "Coletiva do União São João na segunda 23/11, 17h30, no Hermínio Ometto: uniformes, elenco 2027 e iluminação do estádio"
   }
  ]
 }
