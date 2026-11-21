@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T22:45:00-03:00",
+ "gerado": "2026-11-20T23:09:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -4406,7 +4406,12 @@
      "nome": "Tássio Lopes",
      "posicao": "Treinador",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-07-tassio-lopes-uniao-suzano.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/uniaosuzano/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -7739,7 +7744,12 @@
     {
      "nome": "Jonatas Paulista",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-02-jonatas-paulista-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7751,7 +7761,12 @@
     {
      "nome": "Hugo Costa",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-hugo-costa-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7763,7 +7778,12 @@
     {
      "nome": "Luiz Gustavo",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-luiz-gustavo-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7775,7 +7795,12 @@
     {
      "nome": "Danilo Guimarães",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-danilo-guimaraes-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/danilo-guimaraes/699608",
@@ -7799,7 +7824,12 @@
     {
      "nome": "Bonassa",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-bonassa-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7811,7 +7841,12 @@
     {
      "nome": "Luan Oliveira",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-luan-oliveira-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -7831,7 +7866,12 @@
     {
      "nome": "Amorim",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-amorim-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7843,7 +7883,12 @@
     {
      "nome": "Reginaldo",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-19-reginaldo-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7855,7 +7900,12 @@
     {
      "nome": "Gutieri",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-gutieri-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7867,7 +7917,12 @@
     {
      "nome": "Guilherme",
      "posicao": "",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-guilherme-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7879,7 +7934,12 @@
     {
      "nome": "Gabriel Félix",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-gabriel-felix-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7892,7 +7952,12 @@
      "nome": "Fernandinho",
      "posicao": "",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-fernandinho-votuporanguense.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/votuporanguenseoficial/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [],
      "ficha": {},
@@ -9523,7 +9588,12 @@
     {
      "nome": "Kinho Forgiarini",
      "posicao": "Treinador",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-kinho-forgiarini-osasco-sporting.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/osascosporting.oz/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9562,7 +9632,12 @@
     {
      "nome": "Dionísio Alves",
      "posicao": "Auxiliar técnico",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-19-dionisio-alves-osasco-sporting.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/osascosporting.oz/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
