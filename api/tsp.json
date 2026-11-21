@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T03:38:00-03:00",
+ "gerado": "2026-11-21T03:51:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -46685,6 +46685,160 @@
   }
  ],
  "elencos": {
+  "900063": {
+   "time": "abc",
+   "atualizado": "2026-11-21T03:51:00-03:00",
+   "fonte": "https://www.abcfc.com.br/futebol/plantel",
+   "jogadores": [
+    {
+     "nome": "Matheus Alves",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Rodolfo",
+     "posicao": "Goleiro",
+     "numero": 12
+    },
+    {
+     "nome": "Vitor Luiz",
+     "posicao": "Goleiro",
+     "numero": 30
+    },
+    {
+     "nome": "Darlan",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Edson",
+     "posicao": "Zagueiro",
+     "numero": 5
+    },
+    {
+     "nome": "Fabão",
+     "posicao": "Zagueiro",
+     "numero": 13
+    },
+    {
+     "nome": "João Victor",
+     "posicao": "Zagueiro",
+     "numero": 28
+    },
+    {
+     "nome": "Lucas Souza",
+     "posicao": "Zagueiro",
+     "numero": 4
+    },
+    {
+     "nome": "Régis Potiguar",
+     "posicao": "Zagueiro"
+    },
+    {
+     "nome": "Wellington Carvalho",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Cayo Tenório",
+     "posicao": "Lateral",
+     "numero": 23
+    },
+    {
+     "nome": "Dudu Mandai",
+     "posicao": "Lateral",
+     "numero": 6
+    },
+    {
+     "nome": "Lucas Marques",
+     "posicao": "Lateral",
+     "numero": 2
+    },
+    {
+     "nome": "Maurício",
+     "posicao": "Lateral",
+     "numero": 26
+    },
+    {
+     "nome": "Thallyson",
+     "posicao": "Lateral",
+     "numero": 16
+    },
+    {
+     "nome": "Geilson",
+     "posicao": "Volante",
+     "numero": 8
+    },
+    {
+     "nome": "Jhosefer",
+     "posicao": "Volante",
+     "numero": 7
+    },
+    {
+     "nome": "Jonathan",
+     "posicao": "Volante",
+     "numero": 15
+    },
+    {
+     "nome": "Ramires",
+     "posicao": "Volante",
+     "numero": 17
+    },
+    {
+     "nome": "Wellington Reis",
+     "posicao": "Volante",
+     "numero": 14
+    },
+    {
+     "nome": "João Pedro",
+     "posicao": "Meia",
+     "numero": 10
+    },
+    {
+     "nome": "Lima",
+     "posicao": "Meia",
+     "numero": 21
+    },
+    {
+     "nome": "Mateus Bernardo",
+     "posicao": "Meia"
+    },
+    {
+     "nome": "Brunão",
+     "posicao": "Atacante",
+     "numero": 99
+    },
+    {
+     "nome": "Esquerdinha",
+     "posicao": "Atacante",
+     "numero": 19
+    },
+    {
+     "nome": "Igor Bahia",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Luís Felipe",
+     "posicao": "Atacante",
+     "numero": 25
+    },
+    {
+     "nome": "Luiz Fernando",
+     "posicao": "Atacante",
+     "numero": 18
+    },
+    {
+     "nome": "Rikelmi",
+     "posicao": "Atacante",
+     "numero": 27
+    },
+    {
+     "nome": "Wallyson",
+     "posicao": "Atacante",
+     "numero": 11
+    }
+   ]
+  },
   "900004": {
    "time": "athletico-pr",
    "atualizado": "2026-11-13T03:51:00-03:00",
