@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T22:28:00-03:00",
+ "gerado": "2026-11-20T22:45:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -6749,7 +6749,12 @@
     {
      "nome": "Marcos Campagnollo",
      "posicao": "Treinador",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-28-marcos-campagnollo-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -6765,7 +6770,12 @@
     {
      "nome": "Leandro Samarone",
      "posicao": "Auxiliar técnico",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-30-leandro-samarone-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -6800,7 +6810,12 @@
     {
      "nome": "Rafael William",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-william-rafael-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/rafael-william/690452",
@@ -6855,7 +6870,12 @@
     {
      "nome": "Theo Lanza",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-theo-lanza-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "jogos": 30,
@@ -6915,7 +6935,12 @@
     {
      "nome": "Matheus Pellegrini",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-matheus-pellegrini-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -6940,7 +6965,12 @@
     {
      "nome": "Luan Sousa",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-luan-sousa-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "jogos": 6,
@@ -6974,7 +7004,12 @@
     {
      "nome": "Gabriel Cunha",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-gabriel-cunha-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -6994,7 +7029,12 @@
     {
      "nome": "Gabriel Adão",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-gabriel-adao-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/gabriel-adao/1178668",
@@ -7115,7 +7155,12 @@
     {
      "nome": "Chileno",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-chileno-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/chileno/736932",
