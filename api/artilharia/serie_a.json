@@ -6,15 +6,15 @@
   "gols": 8
  },
  {
-  "jogador": "Alef Manga",
-  "time": "Remo",
-  "time_id": 900019,
-  "gols": 5
- },
- {
   "jogador": "Breno Lopes",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 6
+ },
+ {
+  "jogador": "Alef Manga",
+  "time": "Remo",
+  "time_id": 900019,
   "gols": 5
  },
  {
@@ -27,6 +27,12 @@
   "jogador": "John Kennedy",
   "time": "Fluminense",
   "time_id": 900005,
+  "gols": 5
+ },
+ {
+  "jogador": "Samuel Lino",
+  "time": "Flamengo",
+  "time_id": 900001,
   "gols": 5
  },
  {
@@ -45,12 +51,6 @@
   "jogador": "Pedro Rocha",
   "time": "Coritiba",
   "time_id": 900012,
-  "gols": 4
- },
- {
-  "jogador": "Samuel Lino",
-  "time": "Flamengo",
-  "time_id": 900001,
   "gols": 4
  },
  {
@@ -81,6 +81,12 @@
   "jogador": "Isidro Pitta",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
+  "gols": 3
+ },
+ {
+  "jogador": "Jhon Arias",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 3
  },
  {
@@ -147,12 +153,6 @@
   "jogador": "Igor Formiga",
   "time": "Mirassol",
   "time_id": 900015,
-  "gols": 2
- },
- {
-  "jogador": "Jhon Arias",
-  "time": "Palmeiras",
-  "time_id": 900002,
   "gols": 2
  },
  {

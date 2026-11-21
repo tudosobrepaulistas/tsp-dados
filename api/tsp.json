@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T06:56:00-03:00",
+ "gerado": "2026-11-21T20:11:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -34,24 +34,24 @@
     {
      "id": 900001,
      "nome": "Flamengo",
-     "pts": 79,
-     "j": 35,
+     "pts": 80,
+     "j": 36,
      "v": 24,
-     "e": 7,
+     "e": 8,
      "d": 4,
-     "gp": 73,
-     "gc": 30
+     "gp": 74,
+     "gc": 31
     },
     {
      "id": 900002,
      "nome": "Palmeiras",
-     "pts": 73,
-     "j": 35,
+     "pts": 74,
+     "j": 36,
      "v": 21,
-     "e": 10,
+     "e": 11,
      "d": 4,
-     "gp": 63,
-     "gc": 25
+     "gp": 64,
+     "gc": 26
     },
     {
      "id": 900003,
@@ -90,12 +90,12 @@
      "id": 900007,
      "nome": "Bahia",
      "pts": 54,
-     "j": 35,
+     "j": 36,
      "v": 14,
      "e": 12,
-     "d": 9,
+     "d": 10,
      "gp": 50,
-     "gc": 45
+     "gc": 46
     },
     {
      "id": 900006,
@@ -142,6 +142,17 @@
      "gc": 51
     },
     {
+     "id": 900012,
+     "nome": "Coritiba",
+     "pts": 45,
+     "j": 36,
+     "v": 12,
+     "e": 9,
+     "d": 15,
+     "gp": 41,
+     "gc": 52
+    },
+    {
      "id": 900009,
      "nome": "São Paulo",
      "pts": 44,
@@ -162,17 +173,6 @@
      "d": 15,
      "gp": 46,
      "gc": 57
-    },
-    {
-     "id": 900012,
-     "nome": "Coritiba",
-     "pts": 42,
-     "j": 35,
-     "v": 11,
-     "e": 9,
-     "d": 15,
-     "gp": 40,
-     "gc": 52
     },
     {
      "id": 900014,
@@ -253,22 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000155,
-     "rodada": "36",
-     "data": "2026-11-21T16:30",
-     "casa": 900002,
-     "fora": 900001,
-     "a_confirmar": false
-    },
-    {
-     "id": 91000156,
-     "rodada": "36",
-     "data": "2026-11-21T17:30",
-     "casa": 900007,
-     "fora": 900012,
-     "a_confirmar": false
-    },
     {
      "id": 91000157,
      "rodada": "36",
@@ -1290,6 +1274,18 @@
     [
      900009,
      900005,
+     0,
+     1
+    ],
+    [
+     900002,
+     900001,
+     1,
+     1
+    ],
+    [
+     900007,
+     900012,
      0,
      1
     ]
@@ -14647,14 +14643,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/",
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/flamengo-conquista-brasileirao-2026"
    ],
    "fixture": {
     "id": 91000155,
     "timestamp": 1795289400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Nubank Parque",
@@ -14676,8 +14674,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -14713,36 +14711,121 @@
      ]
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 44,
-    "empate": 27,
-    "fora": 29,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.36,
-     1.06
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Gustavo Gómez, Bruno Fuchs, Benedetti; Giay, Marlon Freitas, Andreas Pereira, Jhon Arias, Arthur; Vitor Roque, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Luis Pacheco",
+       "saiu": "Marlon Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Evangelista",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramón Sosa",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mauricio",
+       "saiu": "Flaco López",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Danilo, Alex Sandro; Jorginho, Lucas Paquetá, Arrascaeta; Plata, Samuel Lino, Pedro",
+     "entraram": [
+      {
+       "jogador": "Vitão",
+       "saiu": "Danilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Saúl",
+       "saiu": "Lucas Paquetá",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carrascal",
+       "saiu": "Plata",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ayrton Lucas",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Pedro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/"
     ],
-    "base": [
-     18,
-     14
-    ]
+    "atualizado": "2026-11-21T20:11:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 11,
+      "extra": null,
+      "texto": "11"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Jhon Arias"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 75,
+      "extra": null,
+      "texto": "75"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/coritiba/coritiba-vence-bahia-fora-de-casa-e-abre-sete-pontos-do-z4-no-brasileirao/",
+    "https://bahia.ba/esporte/bahia-decepciona-sob-olhares-de-guardiola-e-perde-para-o-coritiba/",
+    "https://www.metropoles.com/esportes/coritiba-bate-bahia-fora-de-casa-e-chega-aos-45-pontos-no-brasileirao"
    ],
    "fixture": {
     "id": 91000156,
     "timestamp": 1795293000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Fonte Nova",
@@ -14764,8 +14847,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -14791,22 +14874,93 @@
     ],
     "atualizado": "2026-11-19T00:25:00-03:00"
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 51,
-    "empate": 24,
-    "fora": 25,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.69,
-     1.12
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Nicolás Acevedo, Erick, Rodrigo Nestor; Cristian Olivera, Alejo Véliz, Erick Pulga",
+     "entraram": [
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Éverton Ribeiro",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Lucas",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ruan Pablo",
+       "saiu": "Cristian Olivera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mateo Sanabria",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Guilherme Bossle",
+     "time": "Pedro Morisco; Tinga, Tiago Cóser, Bruno Melo, Maicon, Felipe Jonatan; Thiago Santos, Sebastián Gómez, Josué; Breno Lopes, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Maicon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Lavega",
+       "saiu": "Felipe Jonatan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Roberto",
+       "saiu": "Josué",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tissi",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Gelado",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/coritiba/coritiba-vence-bahia-fora-de-casa-e-abre-sete-pontos-do-z4-no-brasileirao/"
     ],
-    "base": [
-     16,
-     23
-    ]
+    "atualizado": "2026-11-21T20:11:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900012,
+      "name": "Coritiba"
+     },
+     "player": {
+      "name": "Breno Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -14876,8 +15030,8 @@
     "fora": 58,
     "placar": "0x1",
     "gols_esperados": [
-     0.98,
-     1.88
+     0.99,
+     1.89
     ],
     "base": [
      16,
@@ -15213,7 +15367,7 @@
     "placar": "2x0",
     "gols_esperados": [
      2.18,
-     0.91
+     0.92
     ],
     "base": [
      27,
@@ -15433,15 +15587,15 @@
    "previsao": {
     "casa": 14,
     "empate": 20,
-    "fora": 66,
+    "fora": 65,
     "placar": "0x2",
     "gols_esperados": [
-     0.82,
-     2.07
+     0.83,
+     2.03
     ],
     "base": [
      16,
-     18
+     19
     ]
    },
    "events": []
@@ -15660,12 +15814,12 @@
     "fora": 18,
     "placar": "2x1",
     "gols_esperados": [
-     2.22,
-     1.13
+     2.16,
+     1.06
     ],
     "base": [
      27,
-     16
+     17
     ]
    },
    "events": []
@@ -15711,17 +15865,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 19,
-    "empate": 24,
-    "fora": 57,
+    "casa": 21,
+    "empate": 26,
+    "fora": 54,
     "placar": "0x1",
     "gols_esperados": [
-     0.84,
-     1.67
+     0.85,
+     1.55
     ],
     "base": [
-     23,
-     14
+     24,
+     15
     ]
    },
    "events": []
@@ -15773,7 +15927,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.64,
-     1.31
+     1.32
     ],
     "base": [
      14,
@@ -15829,7 +15983,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.28,
-     1.32
+     1.33
     ],
     "base": [
      17,
@@ -15884,8 +16038,8 @@
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.45,
-     0.77
+     1.46,
+     0.78
     ],
     "base": [
      25,
@@ -15935,7 +16089,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 46,
     "empate": 24,
     "fora": 30,
     "placar": "1x1",
@@ -15997,7 +16151,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.29,
-     1.41
+     1.42
     ],
     "base": [
      21,
@@ -41072,29 +41226,29 @@
       1,
       900001,
       "Flamengo",
-      79,
-      35,
+      80,
+      36,
       24,
-      7,
+      8,
       4,
       43,
       "",
-      73,
-      30
+      74,
+      31
      ],
      [
       2,
       900002,
       "Palmeiras",
-      73,
-      35,
+      74,
+      36,
       21,
-      10,
+      11,
       4,
       38,
       "",
-      63,
-      25
+      64,
+      26
      ],
      [
       3,
@@ -41143,14 +41297,14 @@
       900007,
       "Bahia",
       54,
-      35,
+      36,
       14,
       12,
-      9,
-      5,
+      10,
+      4,
       "",
       50,
-      45
+      46
      ],
      [
       7,
@@ -41210,6 +41364,20 @@
      ],
      [
       11,
+      900012,
+      "Coritiba",
+      45,
+      36,
+      12,
+      9,
+      15,
+      -11,
+      "",
+      41,
+      52
+     ],
+     [
+      12,
       900009,
       "São Paulo",
       44,
@@ -41223,7 +41391,7 @@
       40
      ],
      [
-      12,
+      13,
       900011,
       "Botafogo",
       42,
@@ -41235,20 +41403,6 @@
       "",
       46,
       57
-     ],
-     [
-      13,
-      900012,
-      "Coritiba",
-      42,
-      35,
-      11,
-      9,
-      15,
-      -12,
-      "",
-      40,
-      52
      ],
      [
       14,
@@ -41647,15 +41801,15 @@
     "gols": 8
    },
    {
-    "jogador": "Alef Manga",
-    "time": "Remo",
-    "time_id": 900019,
-    "gols": 5
-   },
-   {
     "jogador": "Breno Lopes",
     "time": "Coritiba",
     "time_id": 900012,
+    "gols": 6
+   },
+   {
+    "jogador": "Alef Manga",
+    "time": "Remo",
+    "time_id": 900019,
     "gols": 5
    },
    {
@@ -41668,6 +41822,12 @@
     "jogador": "John Kennedy",
     "time": "Fluminense",
     "time_id": 900005,
+    "gols": 5
+   },
+   {
+    "jogador": "Samuel Lino",
+    "time": "Flamengo",
+    "time_id": 900001,
     "gols": 5
    },
    {
@@ -41686,12 +41846,6 @@
     "jogador": "Pedro Rocha",
     "time": "Coritiba",
     "time_id": 900012,
-    "gols": 4
-   },
-   {
-    "jogador": "Samuel Lino",
-    "time": "Flamengo",
-    "time_id": 900001,
     "gols": 4
    },
    {
@@ -41722,6 +41876,12 @@
     "jogador": "Isidro Pitta",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
+    "gols": 3
+   },
+   {
+    "jogador": "Jhon Arias",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 3
    },
    {
@@ -41788,12 +41948,6 @@
     "jogador": "Igor Formiga",
     "time": "Mirassol",
     "time_id": 900015,
-    "gols": 2
-   },
-   {
-    "jogador": "Jhon Arias",
-    "time": "Palmeiras",
-    "time_id": 900002,
     "gols": 2
    },
    {

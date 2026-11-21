@@ -11266,22 +11266,37 @@
    "data": "2026-11-21T16:30:00-03:00",
    "casa": "palmeiras",
    "fora": "flamengo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Nubank Parque",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jhon Arias",
+     "minuto": "11",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Samuel Lino",
+     "minuto": "75",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/",
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/flamengo-conquista-brasileirao-2026"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-21T20:11:00-03:00",
    "prejogo": {
     "analise": [
      "Palmeiras e Flamengo se enfrentam no sábado (21/11), às 16h30, no Nubank Parque, em São Paulo, pela 36ª rodada da Série A, no jogo que pode decidir o Brasileirão. O Flamengo lidera com 79 pontos, seis à frente do Palmeiras (73), a três rodadas do fim. Segundo o Lance!, uma vitória leva o Flamengo a 82 pontos e garante o título; um empate (80 pontos) também tira do Palmeiras a chance de ultrapassagem. Só a vitória alviverde mantém a disputa aberta, com a diferença caindo para três pontos.",
@@ -11314,6 +11329,69 @@
       "https://www.dgabc.com.br/Noticia/4369767/palmeiras-x-flamengo-veja-onde-assistir-e-as-provaveis-escalacoes"
      ]
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Gustavo Gómez, Bruno Fuchs, Benedetti; Giay, Marlon Freitas, Andreas Pereira, Jhon Arias, Arthur; Vitor Roque, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Luis Pacheco",
+       "saiu": "Marlon Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Evangelista",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramón Sosa",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mauricio",
+       "saiu": "Flaco López",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Danilo, Alex Sandro; Jorginho, Lucas Paquetá, Arrascaeta; Plata, Samuel Lino, Pedro",
+     "entraram": [
+      {
+       "jogador": "Vitão",
+       "saiu": "Danilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Saúl",
+       "saiu": "Lucas Paquetá",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carrascal",
+       "saiu": "Plata",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ayrton Lucas",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Pedro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-x-flamengo-36-rodada-brasileirao-21-11-2026/"
+    ],
+    "atualizado": "2026-11-21T20:11:00-03:00"
    }
   },
   {
@@ -11321,22 +11399,32 @@
    "data": "2026-11-21T17:30:00-03:00",
    "casa": "bahia",
    "fora": "coritiba",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Fonte Nova",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Breno Lopes",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/coritiba/coritiba-vence-bahia-fora-de-casa-e-abre-sete-pontos-do-z4-no-brasileirao/",
+    "https://bahia.ba/esporte/bahia-decepciona-sob-olhares-de-guardiola-e-perde-para-o-coritiba/",
+    "https://www.metropoles.com/esportes/coritiba-bate-bahia-fora-de-casa-e-chega-aos-45-pontos-no-brasileirao"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-21T20:11:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -11359,6 +11447,74 @@
      "https://maquinadoesporte.com.br/?p=246906"
     ],
     "atualizado": "2026-11-19T00:25:00-03:00"
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Nicolás Acevedo, Erick, Rodrigo Nestor; Cristian Olivera, Alejo Véliz, Erick Pulga",
+     "entraram": [
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Éverton Ribeiro",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Lucas",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ruan Pablo",
+       "saiu": "Cristian Olivera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mateo Sanabria",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Guilherme Bossle",
+     "time": "Pedro Morisco; Tinga, Tiago Cóser, Bruno Melo, Maicon, Felipe Jonatan; Thiago Santos, Sebastián Gómez, Josué; Breno Lopes, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Vini Paulista",
+       "saiu": "Maicon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Joaquín Lavega",
+       "saiu": "Felipe Jonatan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Roberto",
+       "saiu": "Josué",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tissi",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Gelado",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/coritiba/coritiba-vence-bahia-fora-de-casa-e-abre-sete-pontos-do-z4-no-brasileirao/"
+    ],
+    "atualizado": "2026-11-21T20:11:00-03:00"
    }
   },
   {
