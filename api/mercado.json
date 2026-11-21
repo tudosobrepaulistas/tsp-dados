@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T22:21:00-03:00",
+ "gerado": "2026-11-20T22:28:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -272,7 +272,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-19-gabriel-kenji-rio-claro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/rioclarofco/",
+    "ia": true
+   },
    "fontes": [
     "https://www.instagram.com/rioclarofco/"
    ],
@@ -863,7 +868,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-rayan-correa-rio-claro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/rioclarofco/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
     "https://www.instagram.com/rioclarofco/"
@@ -1089,7 +1099,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-kleverson-rio-claro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/rioclarofco/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
     "https://www.instagram.com/rioclarofco/"
@@ -1218,7 +1233,12 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-gustavo-pereira-rio-claro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/rioclarofco/",
+    "ia": true
+   },
    "fontes": [
     "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
     "https://www.instagram.com/rioclarofco/"

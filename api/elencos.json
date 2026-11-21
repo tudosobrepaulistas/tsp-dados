@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T22:21:00-03:00",
+ "gerado": "2026-11-20T22:28:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -7026,7 +7026,12 @@
     {
      "nome": "Rayan Corrêa",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-rayan-correa-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "fonte": "https://www.ogol.com.br/jogador/rayan-correa/721948",
@@ -7055,7 +7060,12 @@
     {
      "nome": "Kleverson",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-kleverson-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -7081,7 +7091,12 @@
     {
      "nome": "Gustavo Pereira",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-gustavo-pereira-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -7126,7 +7141,12 @@
     {
      "nome": "Gabriel Kenji",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-19-gabriel-kenji-rio-claro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/rioclarofco/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
