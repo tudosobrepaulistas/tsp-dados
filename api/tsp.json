@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20T20:25:00-03:00",
+ "gerado": "2026-11-20T22:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -15341,7 +15341,38 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "SporTV",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=246978",
+      "https://abcdoabc.com.br/bf-confirma-santos-x-gremio-no-morumbi/"
+     ]
+    },
+    "analise": [
+     "Santos e Grêmio se enfrentam na segunda-feira (23/11), às 21h, no MorumBis, em São Paulo, pela 36ª rodada da Série A. O jogo saiu da Vila Belmiro a pedido do Santos, que buscava um estádio maior para aumentar a renda, num acordo de uso recíproco com o São Paulo. O Santos é o 8º, com 50 pontos, quatro atrás de Athletico-PR e Bahia (54). O Grêmio vive situação oposta: é o 18º, com 38 pontos, empatado com o Internacional, primeiro time fora do Z4, e dois atrás do Corinthians (40), o 16º.",
+     "O Santos chega de vitória: bateu o Coritiba por 1 a 0 no Couto Pereira, na quarta-feira (18/11), com gol de Gabigol. Antes, perdeu para o Bragantino por 2 a 1 (02/11) e empatou com Palmeiras (0 a 0, em 28/10) e Bahia (1 a 1, em 24/10), estes dois em casa.",
+     "O Grêmio vem de empate sem gols com o Bahia em Porto Alegre, na quarta-feira (18/11). Fora de casa, alternou resultados nas últimas rodadas: venceu o Coritiba por 1 a 0 (26/10), gol de Braithwaite, e perdeu para o Flamengo por 3 a 1 (04/11). Com três rodadas pela frente, cada ponto conta na briga para deixar a zona de rebaixamento.",
+     "No primeiro turno, em 23/05, pela 17ª rodada, o Grêmio venceu o Santos de virada por 3 a 2 na Arena: Gabriel Barbosa marcou duas vezes para o Santos e Carlos Vinícius, também duas, para o Grêmio, que fez o terceiro aos 18 minutos do segundo tempo, segundo o site oficial do clube gaúcho."
+    ],
+    "retrospecto": "No primeiro turno do Brasileirão de 2026, em 23/05, pela 17ª rodada, o Grêmio venceu o Santos de virada por 3 a 2 na Arena do Grêmio. Gabriel Barbosa fez os dois gols do Santos (aos 31 do 1º tempo e aos 9 do 2º), Carlos Vinícius marcou duas vezes para o Grêmio (aos 39 do 1º e aos 13 do 2º) e o gol da virada saiu aos 18 do 2º tempo, segundo o site oficial do Grêmio.",
+    "estadio_wiki": "Estádio do Morumbi",
+    "fontes": [
+     "https://abcdoabc.com.br/bf-confirma-santos-x-gremio-no-morumbi/",
+     "https://tribunadejundiai.com.br/mais/esportes/santos-x-gremio-e-confirmado-no-morumbi/",
+     "https://gremio.net/noticias/detalhes/30408/gremio-bate-o-santos-de-virada-na-arena-pelo-brasileirao"
+    ],
+    "atualizado": "2026-11-20T22:25:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 48,
