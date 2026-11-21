@@ -1,55 +1,6 @@
 {
  "itens": [
   {
-   "clube": "palmeiras",
-   "titulo": "Abel diz que o título está \"entregue\" ao Flamengo após a derrota para o Cruzeiro: o que resta ao Palmeiras na reta final",
-   "resumo": "Depois do 2 a 1 para o Cruzeiro no Mineirão, na quarta (18), Abel Ferreira afirmou na coletiva que o título está entregue e criticou a falta de isonomia por causa das ausências na Data Fifa. O confronto direto com o Flamengo é no sábado (21), às 16h30, em São Paulo.",
-   "angulo": "Repercutir a fala com o que ainda está em jogo para o Palmeiras (vice, vaga direta na Libertadores) e o retrospecto do Abel contra o Flamengo, com dados da Base TSP.",
-   "fontes": [
-    {
-     "nome": "Placar",
-     "url": "https://placar.com.br/brasileirao/abel-entrega-titulo-do-brasileirao-e-admite-que-palmeiras-sera-vice-para-o-flamengo/"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/flamengo-e-palmeiras-sao-avisados-de-decisao-da-cbf-sobre-o-titulo-brasileiro,e79f1a97ba37bce495ad26535db567aae3gldovg.html"
-    }
-   ],
-   "id": "pd3eacf02a6",
-   "gerado": "2026-11-19T16:44-03:00",
-   "quando": "19/11 16h"
-  },
-  {
-   "clube": "palmeiras",
-   "titulo": "Flamengo pode ser campeão na casa do Palmeiras no sábado, mas a taça só seria entregue no Maracanã",
-   "resumo": "Segundo o Terra (com informação do ge), a CBF planeja entregar o troféu no primeiro jogo em casa do campeão após a confirmação matemática. Se o Flamengo garantir o título no sábado (21), em São Paulo, só levantaria a taça contra a Chapecoense, no Maracanã, em 2 de dezembro.",
-   "angulo": "Serviço completo de Palmeiras x Flamengo (horário, onde assistir, ingressos) com o cenário de título explicado de forma simples.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/futebol/flamengo-e-palmeiras-sao-avisados-de-decisao-da-cbf-sobre-o-titulo-brasileiro,e79f1a97ba37bce495ad26535db567aae3gldovg.html"
-    }
-   ],
-   "id": "p76e4cf0b99",
-   "gerado": "2026-11-19T16:44-03:00",
-   "quando": "19/11 16h"
-  },
-  {
-   "clube": "pontepreta",
-   "titulo": "Eberlin diz que a Ponte Preta já tem reforços contratados para 2027; nomes saem após exames",
-   "resumo": "O diretor de futebol Marco Antônio Eberlin disse à Rádio Bandeirantes de Campinas que a Ponte já tem jogadores acertados para 2027, sem revelar nomes. Os anúncios devem vir depois dos pré-contratos e dos exames médicos. Interessa ao torcedor depois da pior campanha da história do clube na Série B.",
-   "angulo": "Cruzar com o Mercado da Bola do TSP: quem saiu, quem renovou e o que falta no elenco para 2027.",
-   "fontes": [
-    {
-     "nome": "Futebol Interior",
-     "url": "https://futebolinterior.com.br/ponte-preta-ja-tem-reforcos-contratados-para-2027-revela-eberlin-veja-cenario"
-    }
-   ],
-   "id": "p6a07b6899b",
-   "gerado": "2026-11-19T16:44-03:00",
-   "quando": "19/11 16h"
-  },
-  {
    "clube": "saopaulo",
    "titulo": "São Paulo perde para o Fluminense no Morumbis, cai para 11º e vê vaga continental mais distante",
    "resumo": "O Fluminense venceu por 1 a 0 na quinta (19), pela 35ª rodada, com gol de Hércules aos 32 do 1º tempo. O São Paulo finalizou 12 vezes sem acertar o alvo e ficou em 11º, com 44 pontos, a três rodadas do fim.",
@@ -222,7 +173,22 @@
    "id": "p8114aaf1f9",
    "gerado": "2026-11-21T07:49-03:00",
    "quando": "21/11 07h"
+  },
+  {
+   "clube": "guarani",
+   "titulo": "Guarani se reapresenta na segunda (23) e começa a montar o time de 2027 com folha menor",
+   "resumo": "O executivo Carlos Frontini confirmou que o Guarani já tem contratações acertadas para 2027, ainda sem nomes divulgados, e que o elenco se reapresenta em 23 de novembro. A diretoria quer reduzir a folha depois de ter uma das maiores da Série C em 2026; o técnico Umberto Louzer, emprestado ao Criciúma até o fim da temporada, participa das decisões.",
+   "angulo": "Acompanhar a reapresentação na segunda: quem fica, quem chega (só com anúncio oficial) e o que o Bugre precisa para o Paulistão A2 e a Série C.",
+   "fontes": [
+    {
+     "nome": "Correio da Manhã",
+     "url": "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/regiao-de-campinas/2026/11/334280-guarani-prepara-montagem-do-elenco-para-a-temporada-2027.html"
+    }
+   ],
+   "id": "pdbdfbd4d66",
+   "gerado": "2026-11-21T16:44-03:00",
+   "quando": "21/11 16h"
   }
  ],
- "gerado": "2026-11-21T07:49-03:00"
+ "gerado": "2026-11-21T16:44-03:00"
 }
