@@ -1,51 +1,6 @@
 {
  "itens": [
   {
-   "clube": "saopaulo",
-   "titulo": "Vaiado após o 1 a 0 para o Fluminense, São Paulo recebe o Remo no dia 26 tentando reagir na reta final",
-   "resumo": "O São Paulo perdeu para o Fluminense na quinta (19), no MorumBIS, com cerca de 24 mil torcedores, que vaiaram o time no fim. O time é 11º, com 44 pontos, e volta a jogar contra o Remo em 26/11, às 20h, no MorumBIS.",
-   "angulo": "Serviço do próximo jogo (onde assistir, ingressos) e o que o São Paulo ainda pode alcançar nas 3 rodadas finais, com a tabela da Base TSP.",
-   "fontes": [
-    {
-     "nome": "O Liberal",
-     "url": "https://www.oliberal.com/esportes/antes-de-encarar-o-remo-sao-paulo-perde-e-e-chamado-de-time-sem-vergonha-1.1196406"
-    }
-   ],
-   "id": "p6565f7757a",
-   "gerado": "2026-11-20T16:43-03:00",
-   "quando": "20/11 16h"
-  },
-  {
-   "clube": "bragantino",
-   "titulo": "Bragantino perde para o Vitória no Barradão com gol contra e recebe o Vasco no domingo em Bragança",
-   "resumo": "O Vitória venceu o Red Bull Bragantino por 2 a 1 na quinta (19), em Salvador, pela 35ª rodada; o gol do Massa Bruta foi contra, de Gean. O time é 9º, com 47 pontos, e enfrenta o Vasco no domingo (22), às 19h30, no Cícero de Souza Marques.",
-   "angulo": "Prévia de Bragantino x Vasco com histórico do confronto e a briga pela vaga continental nas rodadas finais.",
-   "fontes": [
-    {
-     "nome": "Red Bull Bragantino (oficial)",
-     "url": "https://redbullbragantino.com/br-pt/noticias/no-barradao-red-bull-bragantino-e-superado-pelo-vitoria-pela-35-rodada-do-brasileirao-2026"
-    }
-   ],
-   "id": "pdcf7b44d5b",
-   "gerado": "2026-11-20T16:43-03:00",
-   "quando": "20/11 16h"
-  },
-  {
-   "clube": "pontepreta",
-   "titulo": "Gilson Kleina renova e comanda a Ponte Preta no Paulistão A2 e na Série C de 2027",
-   "resumo": "A Ponte Preta renovou com o técnico Gilson Kleina, que segue no cargo para a Série A2 do Paulistão, com início previsto para 17 de janeiro. Em 2027 o clube disputa a Série C do Brasileiro.",
-   "angulo": "Retrospecto de Kleina nas passagens pela Ponte e o calendário 2027 da Macaca.",
-   "fontes": [
-    {
-     "nome": "Hora Campinas",
-     "url": "https://horacampinas.com.br/gilson-kleina-renova-contrato-e-permanecera-na-ponte-preta-em-2027/"
-    }
-   ],
-   "id": "p77f5d9cfd8",
-   "gerado": "2026-11-20T16:43-03:00",
-   "quando": "20/11 16h"
-  },
-  {
    "clube": "palmeiras",
    "titulo": "Por que Palmeiras x Flamengo é neste sábado: a final da Libertadores contra o Estudiantes, dia 28, apertou o calendário",
    "resumo": "O jogo da 36ª rodada foi antecipado para hoje (21/11), às 16h30, no Nubank Parque, porque o Palmeiras decide a Libertadores contra o Estudiantes em Montevidéu no sábado seguinte (28/11). O Flamengo lidera com 79 pontos, seis à frente, e um empate já lhe dá o título.",
@@ -237,7 +192,37 @@
    "id": "pc64f22e750",
    "gerado": "2026-11-22T07:44-03:00",
    "quando": "22/11 07h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Sem Yuri Alberto, Carrillo e Gabriel Paulista: como Seedorf deve montar o Corinthians para o Atlético-MG na quarta",
+   "resumo": "O Corinthians treinou posse de bola neste domingo (22) e terá três desfalques contra o Atlético-MG, quarta-feira (25), às 20h, na Arena MRV: Gabriel Paulista (estiramento no joelho), Yuri Alberto (suspenso pelo STJD) e Carrillo (terceiro amarelo). O time está em 15º, com 40 pontos, e briga para se afastar do Z4.",
+   "angulo": "Mostrar quem disputa cada vaga (Raniele e André no meio) e a situação na tabela com a Base TSP: distância para o Z4 e jogos que faltam.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-trabalha-posse-de-bola-e-intensifica-preparacao-para-encarar-o-atletico-mg/"
+    }
+   ],
+   "id": "p2096b98eb5",
+   "gerado": "2026-11-22T16:44-03:00",
+   "quando": "22/11 16h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Newton, Ferreirinha e Luciano voltam de suspensão e reforçam o São Paulo contra o Botafogo na segunda",
+   "resumo": "O São Paulo encerrou a preparação para enfrentar o Botafogo nesta segunda-feira (23), às 20h, no Nilton Santos, com a volta de três suspensos. Artur, Marcos Antônio e Buta seguem fora, Sabino e Domingos Duarte se recuperam e Rafael Tolói é dúvida. Depois, o time recebe o Remo no dia 26, no MorumBis.",
+   "angulo": "Provável escalação comentada e a reta final do Tricolor (Botafogo, Remo e Athletico-PR) com a tabela da Base TSP.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/reforcado-sao-paulo-fecha-preparacao-para-enfrentar-o-botafogo-veja-provavel-escalacao/"
+    }
+   ],
+   "id": "p9a826a0871",
+   "gerado": "2026-11-22T16:44-03:00",
+   "quando": "22/11 16h"
   }
  ],
- "gerado": "2026-11-22T07:44-03:00"
+ "gerado": "2026-11-22T16:44-03:00"
 }
