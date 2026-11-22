@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T12:29:00-03:00",
+ "gerado": "2026-11-22T12:30:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -772,10 +772,64 @@
      1
     ],
     [
+     900017,
+     900009,
+     2,
+     1
+    ],
+    [
+     900011,
+     900005,
+     1,
+     1
+    ],
+    [
      900019,
      900006,
      2,
      2
+    ],
+    [
+     900012,
+     900020,
+     2,
+     1
+    ],
+    [
+     900003,
+     900015,
+     3,
+     1
+    ],
+    [
+     900008,
+     900004,
+     0,
+     2
+    ],
+    [
+     900007,
+     900013,
+     0,
+     0
+    ],
+    [
+     900002,
+     900016,
+     0,
+     0
+    ],
+    [
+     900010,
+     900018,
+     0,
+     2
+    ],
+    [
+     900001,
+     900014,
+     2,
+     0
     ],
     [
      900005,
@@ -6432,6 +6486,94 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.band.com.br/esportes/gremio-2-x-1-sao-paulo-veja-os-melhores-momentos-da-virada-202608081912",
+    "https://jornalgrandebahia.com.br/?p=1376859"
+   ],
+   "fixture": {
+    "id": 91000521,
+    "timestamp": 1786201200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.band.com.br/esportes/botafogo-1-x-1-fluminense-veja-os-melhores-momentos-do-classico-202608082346",
+    "https://jornalgrandebahia.com.br/?p=1376859"
+   ],
+   "fixture": {
+    "id": 91000522,
+    "timestamp": 1786201200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nilton Santos",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900011,
+     "name": "Botafogo"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.oliberal.com/esportes/remo/remo-empata-com-o-atletico-mg-no-mangueirao-e-segue-no-z4-da-serie-a-1.1154929",
     "https://www.folhape.com.br/esportes/atletico-mg-vira-mas-fica-apenas-no-empate-com-o-remo-pelo/505517/"
    ],
@@ -6535,6 +6677,314 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/coritiba-saf-x-chapecoense/832107",
+    "https://jornalgrandebahia.com.br/?p=1376859"
+   ],
+   "fixture": {
+    "id": 91000523,
+    "timestamp": 1786231800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.band.com.br/esportes/cruzeiro-bate-mirassol-por-3-a-1-e-sobe-para-quinto-no-brasileirao-202608091320",
+    "https://jornalgrandebahia.com.br/?p=1376859"
+   ],
+   "fixture": {
+    "id": 91000524,
+    "timestamp": 1786287600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.band.com.br/esportes/santos-0-x-2-athletico-veja-os-melhores-momentos-da-partida-202608092113",
+    "https://jornalgrandebahia.com.br/?p=1376859"
+   ],
+   "fixture": {
+    "id": 91000525,
+    "timestamp": 1786287600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.band.com.br/esportes/vasco-e-bahia-tem-gols-anulados-e-empatam-em-0-a-0-em-salvador-202608091802",
+    "https://www.oliberal.com/esportes/com-quatro-gols-anulados-bahia-e-vasco-nao-saem-do-zero-no-brasileirao-1.1155104"
+   ],
+   "fixture": {
+    "id": 91000527,
+    "timestamp": 1786287600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900013,
+     "name": "Vasco"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/palmeiras-x-internacional/832103",
+    "https://www.dgabc.com.br/Noticia/4340202/palmeiras-e-internacional-empatam-sem-gols-em-partida-do-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000526,
+    "timestamp": 1786302000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/red-bull-bragantino-x-corinthians/832104",
+    "https://jornalgrandebahia.com.br/?p=1376859"
+   ],
+   "fixture": {
+    "id": 91000528,
+    "timestamp": 1786311000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/flamengo-x-vitoria/832100",
+    "https://jornalgrandebahia.com.br/?p=1376859"
+   ],
+   "fixture": {
+    "id": 91000529,
+    "timestamp": 1786314600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 22"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   },
   {
    "liga": "serie_a",
@@ -19392,16 +19842,16 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 70,
-    "empate": 17,
-    "fora": 14,
+    "casa": 71,
+    "empate": 16,
+    "fora": 13,
     "placar": "2x1",
     "gols_esperados": [
-     2.58,
-     1.07
+     2.6,
+     1.04
     ],
     "base": [
-     30,
+     31,
      37
     ]
    },
@@ -19480,17 +19930,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
-    "empate": 25,
-    "fora": 23,
-    "placar": "1x1",
+    "casa": 55,
+    "empate": 24,
+    "fora": 22,
+    "placar": "1x0",
     "gols_esperados": [
-     1.64,
-     1.0
+     1.73,
+     0.99
     ],
     "base": [
-     24,
-     30
+     25,
+     31
     ]
    },
    "events": []
@@ -19565,17 +20015,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 64,
-    "empate": 19,
-    "fora": 17,
+    "casa": 60,
+    "empate": 20,
+    "fora": 19,
     "placar": "2x1",
     "gols_esperados": [
-     2.36,
-     1.15
+     2.14,
+     1.14
     ],
     "base": [
-     19,
-     20
+     20,
+     21
     ]
    },
    "events": []
@@ -19647,17 +20097,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
-    "empate": 21,
-    "fora": 16,
+    "casa": 65,
+    "empate": 20,
+    "fora": 15,
     "placar": "2x0",
     "gols_esperados": [
-     2.04,
-     0.93
+     2.03,
+     0.86
     ],
     "base": [
-     32,
-     19
+     33,
+     20
     ]
    },
    "events": []
@@ -19728,17 +20178,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 44,
+    "casa": 46,
     "empate": 29,
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.24,
+     1.29,
      0.89
     ],
     "base": [
-     32,
-     20
+     33,
+     21
     ]
    },
    "events": []
@@ -19815,17 +20265,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 58,
-    "empate": 23,
-    "fora": 19,
+    "casa": 55,
+    "empate": 24,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.76,
-     0.9
+     1.69,
+     0.95
     ],
     "base": [
-     29,
-     24
+     30,
+     25
     ]
    },
    "events": []
@@ -19884,16 +20334,16 @@
    "escalacoes": {},
    "previsao": {
     "casa": 15,
-    "empate": 20,
+    "empate": 21,
     "fora": 64,
-    "placar": "0x2",
+    "placar": "0x1",
     "gols_esperados": [
-     0.86,
-     2.03
+     0.83,
+     1.96
     ],
     "base": [
-     22,
-     23
+     23,
+     24
     ]
    },
    "events": []
@@ -19939,17 +20389,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 21,
-    "fora": 17,
+    "casa": 59,
+    "empate": 22,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.95,
-     0.92
+     1.87,
+     0.96
     ],
     "base": [
      26,
-     22
+     23
     ]
    },
    "events": []
@@ -19995,16 +20445,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 53,
     "empate": 26,
-    "fora": 20,
+    "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
      1.55,
-     0.83
+     0.87
     ],
     "base": [
-     20,
+     21,
      37
     ]
    },
@@ -20051,17 +20501,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
+    "casa": 52,
     "empate": 23,
-    "fora": 24,
+    "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.85,
-     1.18
+     1.82,
+     1.21
     ],
     "base": [
-     24,
-     34
+     25,
+     35
     ]
    },
    "events": []
@@ -20107,17 +20557,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
-    "empate": 22,
+    "casa": 50,
+    "empate": 23,
     "fora": 27,
     "placar": "1x1",
     "gols_esperados": [
-     1.94,
-     1.37
+     1.85,
+     1.31
     ],
     "base": [
-     32,
-     22
+     33,
+     23
     ]
    },
    "events": []
@@ -20165,15 +20615,15 @@
    "previsao": {
     "casa": 20,
     "empate": 23,
-    "fora": 56,
+    "fora": 57,
     "placar": "0x1",
     "gols_esperados": [
-     0.97,
-     1.78
+     0.95,
+     1.77
     ],
     "base": [
-     29,
-     20
+     30,
+     21
     ]
    },
    "events": []
@@ -20219,17 +20669,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 39,
-    "empate": 25,
+    "casa": 38,
+    "empate": 26,
     "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
-     1.42,
+     1.38,
      1.35
     ],
     "base": [
-     19,
-     29
+     20,
+     30
     ]
    },
    "events": []
@@ -20275,17 +20725,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 38,
+    "casa": 39,
     "empate": 27,
-    "fora": 36,
+    "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.29,
-     1.25
+     1.33,
+     1.24
     ],
     "base": [
-     22,
-     24
+     23,
+     25
     ]
    },
    "events": []
@@ -20331,17 +20781,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
+    "casa": 49,
     "empate": 24,
-    "fora": 23,
+    "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
-     1.73,
-     1.07
+     1.66,
+     1.15
     ],
     "base": [
-     30,
-     30
+     31,
+     31
     ]
    },
    "events": []
@@ -20387,17 +20837,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
+    "casa": 51,
     "empate": 23,
-    "fora": 28,
+    "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
-     1.79,
-     1.33
+     1.81,
+     1.23
     ],
     "base": [
-     32,
-     19
+     33,
+     20
     ]
    },
    "events": []
@@ -20443,17 +20893,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 46,
     "empate": 25,
     "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.62,
-     1.22
+     1.55,
+     1.17
     ],
     "base": [
      26,
-     20
+     21
     ]
    },
    "events": []
