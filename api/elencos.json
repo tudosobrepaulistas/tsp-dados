@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T06:56:00-03:00",
+ "gerado": "2026-11-22T03:00:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -2434,9 +2434,9 @@
      "posicao": "Goleiro",
      "numero": 1,
      "numeros": {
-      "jogos": 10,
+      "jogos": 11,
       "gols": 0,
-      "minutos": 930,
+      "minutos": 1020,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2460,9 +2460,9 @@
      "posicao": "Zagueiro",
      "numero": 43,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 112,
+      "minutos": 202,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2476,9 +2476,9 @@
      "posicao": "Zagueiro",
      "numero": 3,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 202,
+      "minutos": 292,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2492,9 +2492,9 @@
      "posicao": "Zagueiro",
      "numero": 15,
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 1,
-      "minutos": 796,
+      "minutos": 886,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2545,9 +2545,9 @@
      "posicao": "Lateral",
      "numero": 56,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 300,
+      "minutos": 390,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2582,9 +2582,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 550,
+      "minutos": 618,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2646,9 +2646,9 @@
      "posicao": "Meia",
      "numero": 30,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 434,
+      "minutos": 456,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2662,9 +2662,9 @@
      "posicao": "Meia",
      "numero": 17,
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 796,
+      "minutos": 864,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2678,9 +2678,9 @@
      "posicao": "Meia",
      "numero": 18,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 4,
-      "minutos": 472,
+      "minutos": 494,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2694,9 +2694,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 8,
-      "gols": 2,
-      "minutos": 496,
+      "jogos": 9,
+      "gols": 3,
+      "minutos": 586,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2731,9 +2731,9 @@
      "posicao": "Atacante",
      "numero": 19,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 1,
-      "minutos": 232,
+      "minutos": 254,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2747,9 +2747,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 1,
-      "minutos": 436,
+      "minutos": 504,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -3336,7 +3336,24 @@
      "foto": null,
      "numeros": null,
      "selos": [],
-     "ficha": {},
+     "ficha": {
+      "idade": 36,
+      "idade_em": "2026-10-01",
+      "inicio": "Trabalhou nas categorias de base de Velo Clube, Sertãozinho e Rio Branco",
+      "no_clube": "Chegou ao Bandeirante no meio de 2026, dirigiu o time na Copa Paulista (eliminado no play-in) e renovou até o fim da A3 2027",
+      "clubes_anteriores": [
+       "Independente de Limeira",
+       "Rio Claro",
+       "União Barbarense",
+       "Passo Fundo",
+       "Corumbaense"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/bandeirante-renova-com-lucio-borges-para-paulistao-a3-2027/",
+       "https://www.futebolinterior.com.br/crescimento-bandeirante-copa-paulista/",
+       "https://www.futebolinterior.com.br/paulistao-a3-confira-os-treinadores-ja-definidos-para-2027/"
+      ]
+     },
      "comissao": true
     },
     {
@@ -3438,7 +3455,41 @@
      "selos": [],
      "nascimento": "",
      "de": "Marília",
-     "ficha": {},
+     "ficha": {
+      "natural": "Campinas/SP",
+      "idade": 45,
+      "idade_em": "2026-10-02",
+      "titulos": [
+       "Campeão da Segunda Divisão Paulista 2020 com o São José",
+       "Campeão da Segunda Divisão Paulista 2021 com o União Suzano"
+      ],
+      "acessos": [
+       "Acesso à Série A3 em 2016 com a Portuguesa Santista",
+       "Acesso em 2017 com o EC São Bernardo (vice da Segunda Divisão)",
+       "Acesso à Série A3 em 2019 com o Marília (vice da Segunda Divisão)",
+       "Acesso à Série A3 em 2020 com o São José",
+       "Acesso à Série A3 em 2021 com o União Suzano",
+       "Acesso à Série A2 em 2023 com o São José (vice da Série A3)",
+       "Acesso à Série A2 em 2026 com o Marília (vice da Série A3)"
+      ],
+      "destaques": [
+       "74 jogos pelo Marília em duas passagens (7º técnico que mais dirigiu o clube)"
+      ],
+      "clubes_anteriores": [
+       "Marília",
+       "São José",
+       "União Suzano",
+       "EC São Bernardo",
+       "Portuguesa Santista"
+      ],
+      "fontes": [
+       "https://tribunadejundiai.com.br/cidades/jundiai/ricardo-costa-paulista/",
+       "https://www.futebolinterior.com.br/conheca-os-tecnicos-da-serie-a3-2026/",
+       "https://www.futebolinterior.com.br/paulista-oficializa-acerto-com-ricardo-costa/",
+       "https://www.futebolinterior.com.br/paulistao-a3-confira-os-treinadores-ja-definidos-para-2027/",
+       "https://www.futebolinterior.com.br/segundona-conheca-os-ultimos-20-tecnicos-campeoes-desta-divisao/"
+      ]
+     },
      "comissao": true
     },
     {
@@ -3628,7 +3679,49 @@
      "nascimento": "",
      "de": "",
      "ficha": {
-      "no_clube": "Volta ao União Barbarense para a A3 de 2027; conhecido como \"Rei do Acesso\", com mais de dez acessos na carreira"
+      "no_clube": "Volta ao União Barbarense para a A3 de 2027; conhecido como \"Rei do Acesso\", com mais de dez acessos na carreira",
+      "natural": "Cafelândia",
+      "idade": 71,
+      "idade_em": "2026-10-28",
+      "conhecido_como": "\"Rei do Acesso\" (Futebol Interior e Gazeta Esportiva)",
+      "inicio": "Jogador profissional por 15 anos: começou no Noroeste em 1972 e parou no Guaçuano em 1987 (passou por Vasco, Novorizontino, Paulista, Gama, Nacional-SP, Pinhalense e Matsubara)",
+      "titulos": [
+       "Campeão da Série C 2012 com o Oeste",
+       "Campeão da Série A2 2017 com o São Caetano"
+      ],
+      "acessos": [
+       "Acesso à Série A2 em 1992 com o Guaçuano",
+       "Acesso à Série A1 em 2007 com o Mirassol",
+       "Acesso à Série B em 2012 com o Oeste",
+       "Acesso à Série A1 em 2017 com o São Caetano"
+      ],
+      "destaques": [
+       "Técnico com mais jogos pelo São Caetano: 165 até janeiro de 2018, igualando Jair Picerni"
+      ],
+      "clubes_anteriores": [
+       "Grêmio Prudente",
+       "Noroeste",
+       "Portuguesa",
+       "São Caetano",
+       "Comercial",
+       "Oeste",
+       "São Bernardo",
+       "Mirassol",
+       "América-RN",
+       "Santo André",
+       "Matonense",
+       "Paraguaçuense",
+       "Guaçuano",
+       "Rio Branco"
+      ],
+      "fontes": [
+       "https://www.dgabc.com.br/Noticia/2824663/martins-se-torna-o-tecnico-com-mais-jogos-pelo-azulao",
+       "https://www.futebolinterior.com.br/paulistao-a3-confira-os-treinadores-ja-definidos-para-2027/",
+       "https://www.futebolinterior.com.br/rei-do-acesso-pode-alcancar-marca-impressionante-no-uniao-barbarense-e-repetir-feito-de-30-anos-atras/",
+       "https://www.futebolinterior.com.br/serie-a3-rei-do-acesso-se-consolida-como-treinador-vitorioso-com-o-19o-acesso-na-carreira/",
+       "https://www.gazetaesportiva.com/?p=2081043",
+       "https://www.gazetaesportiva.com/?p=2660387"
+      ]
      },
      "comissao": true
     },
@@ -4400,7 +4493,24 @@
      "foto": null,
      "numeros": null,
      "selos": [],
-     "ficha": {},
+     "ficha": {
+      "idade": 52,
+      "idade_em": "2026-10-03",
+      "no_clube": "Várias passagens pelo Rio Preto: trabalhou na base (sub-17 e sub-20) e dirigiu o profissional em diferentes campeonatos antes de assumir a A3 de 2026",
+      "destaques": [
+       "Semifinalista da Série A3 de 2026 com o Rio Preto: 9 vitórias, 7 empates e 3 derrotas (eliminado pela Portuguesa Santista)"
+      ],
+      "clubes_anteriores": [
+       "América (passagem breve)",
+       "Olímpia (base)",
+       "José Bonifácio (base)"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/conheca-os-tecnicos-da-serie-a3-2026/",
+       "https://www.futebolinterior.com.br/paulistao-a3-confira-os-treinadores-ja-definidos-para-2027/",
+       "https://www.futebolinterior.com.br/rio-preto-ja-tem-tecnico-a3-2026/"
+      ]
+     },
      "comissao": true
     }
    ],
@@ -4425,7 +4535,23 @@
      "numeros": null,
      "selos": [],
      "ficha": {
-      "no_clube": "Assumiu o sub-20 na zona de rebaixamento e levou o time ao mata-mata do Paulista; segue no profissional em 2027"
+      "no_clube": "Assumiu o sub-20 na zona de rebaixamento e levou o time ao mata-mata do Paulista; segue no profissional em 2027",
+      "idade": 44,
+      "idade_em": "2026-10-07",
+      "destaques": [
+       "Semifinalista da Série A3 de 2026 com o XV de Jaú",
+       "Vice-campeão da Segunda Divisão Paulista de 2022 com o Itapirense"
+      ],
+      "clubes_anteriores": [
+       "XV de Jaú",
+       "Itapirense",
+       "Santo André",
+       "Grêmio Mauaense"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/segundona-conheca-os-ultimos-20-tecnicos-campeoes-desta-divisao/",
+       "https://www.futebolinterior.com.br/uniao-suzano-confirma-tassio-lopes-no-paulistao-a4-2027/"
+      ]
      },
      "comissao": true
     }
@@ -4452,7 +4578,31 @@
      "selos": [],
      "nascimento": "",
      "de": "América-MG",
-     "ficha": {},
+     "ficha": {
+      "posicao_jogador": "Goleiro",
+      "inicio": "Ex-goleiro, começou a carreira de jogador no São José; jogou ainda por Guarani, Coritiba, Avaí, Náutico, Criciúma, Linense, Icasa, Khazar (Azerbaijão) e Audax-RJ. Cerca de 30 anos no futebol",
+      "destaques": [
+       "Como jogador, titular do Guarani na campanha do acesso à Série A; 101 jogos pelo clube (2009-2010 e 2014)",
+       "Como técnico principal: 50 jogos, 14 vitórias, 13 empates e 23 derrotas (até outubro de 2026)",
+       "Interino do Ituano em várias ocasiões, inclusive no Paulistão 2024"
+      ],
+      "clubes_anteriores": [
+       "América-MG",
+       "Ituano",
+       "Ponte Preta",
+       "Paranavaí",
+       "Icasa",
+       "Taubaté",
+       "Paraná"
+      ],
+      "fontes": [
+       "https://abcdoabc.com.br/douglas-leite-novo-tecnico-santo-andre/",
+       "https://diariodonordeste.verdesmares.com.br/jogada/am%C3%A9rica-mg-anuncia-novo-t%C3%A9cnico-antes-de-jogo-com-fortaleza-1.3797040",
+       "https://www.dgabc.com.br/Noticia/4351485/santo-andre-anuncia-douglas-leite-como-tecnico-para-2027",
+       "https://www.dgabc.com.br/Noticia/4352931/santo-andre-apresenta-novo-treinador-para-2027",
+       "https://www.dgabc.com.br/Noticia/4353061/douglas-leite-chega-mas-sem-estabelecer-objetivos"
+      ]
+     },
      "comissao": true
     },
     {
@@ -4899,7 +5049,43 @@
      "selos": [],
      "nascimento": "",
      "de": "",
-     "ficha": {},
+     "ficha": {
+      "idade": 54,
+      "idade_em": "2026-10-09",
+      "posicao_jogador": "Meia",
+      "conhecido_como": "\"Reizinho da Toca\" (apelido do início da carreira de jogador, no Cruzeiro, segundo Folha de Pernambuco e O Povo)",
+      "inicio": "Revelado pelo Cruzeiro (estreou em 1990), encerrou a carreira de jogador em 2013, no Cabofriense. No mesmo ano estagiou com Oswaldo de Oliveira no Botafogo e virou auxiliar técnico no Joinville",
+      "titulos": [
+       "Campeão Sul-Americano Sub-20 2023 com a Seleção Brasileira",
+       "Medalha de ouro nos Jogos Pan-Americanos 2023 com a Seleção Brasileira",
+       "Campeão Sul-Americano Sub-20 2025 com a Seleção Brasileira"
+      ],
+      "destaques": [
+       "Técnico interino da Seleção Brasileira principal em 2023 (3 jogos)",
+       "Auxiliar técnico na campanha do título da Série B 2014 do Joinville",
+       "Vasco 2020: 16 jogos, 8 vitórias, 3 empates e 5 derrotas",
+       "Como jogador: Cruzeiro, Bahia, Vitória, Bayer Leverkusen, Vasco, Fluminense, Atlético-MG, Tokyo Verdy, Botafogo, Athletico-PR, Joinville e Cabofriense"
+      ],
+      "clubes_anteriores": [
+       "Seleção Brasileira Sub-20",
+       "Vitória",
+       "CRB",
+       "Vasco",
+       "Tombense",
+       "Joinville",
+       "Guarani-MG",
+       "Anápolis"
+      ],
+      "fontes": [
+       "https://agenciabrasil.ebc.com.br/esportes/noticia/2025-02/ramon-menezes-celebra-titulo-do-sul-americano-sub-20",
+       "https://blogs.correiobraziliense.com.br/dribledecorpo/ouro-no-pan-fortalece-ramon-para-testes-em-brasilia-antes-do-pre-olimpico/",
+       "https://ncnews.com.br/?p=60423",
+       "https://www.folhape.com.br/esportes/saiba-quem-e-ramon-menezes-novo-tecnico-interino-da-selecao/258473/",
+       "https://www.lance.com.br/futebol-internacional/nos-penaltis-brasil-leva-medalha-de-ouro-contra-o-chile-no-pan-2023.html",
+       "https://www.opovo.com.br/esportes/futebol/2023/02/15/quem-e-ramon-menezes-treinador-interino-da-selecao-brasileira.html",
+       "https://www.opovo.com.br/noticias/mundo/2025/02/17/amp/da-goleada-sofrida-na-estreia-ao-titulo-brasil-e-campeao-do-sul-americano-sub-20.html"
+      ]
+     },
      "comissao": true
     }
    ],
@@ -5321,7 +5507,36 @@
      "foto": null,
      "numeros": null,
      "selos": [],
-     "ficha": {},
+     "ficha": {
+      "nome_completo": "Tiago Miguel Gomes Fonseca Rodrigues Cardoso",
+      "natural": "Lisboa (Portugal)",
+      "inicio": "Começou na base do CD Belas (Portugal) em 2012/13, como técnico do sub-15 e depois auxiliar do sub-17; chegou ao Brasil em 2019 para treinar o sub-17 do Maringá",
+      "no_clube": "Chegou em março de 2026, primeira experiência no futebol paulista; campeão da Segunda Divisão e mantido para a A4 2027",
+      "titulos": [
+       "Campeão da Segunda Divisão Paulista 2026 com o Independente"
+      ],
+      "acessos": [
+       "Acesso à Série A4 em 2026 com o Independente"
+      ],
+      "destaques": [
+       "Eleito o melhor técnico da Segunda Divisão Paulista de 2026",
+       "Varginha, primeira passagem: 31 jogos e 15 vitórias"
+      ],
+      "clubes_anteriores": [
+       "Varginha",
+       "Valeriodoce",
+       "AE Paracatu",
+       "Atlético Três Corações",
+       "Maringá (sub-17)",
+       "CD Belas (base)"
+      ],
+      "fontes": [
+       "https://atarde.com.br/esportes/clube-tradicional-renasce-apos-25-anos-conquista-acesso-e-mira-elite-1399675",
+       "https://www.futebolinterior.com.br/conheca-tiago-miguel-treinador-sensacao-do-independente-de-limeira/",
+       "https://www.futebolinterior.com.br/independente-renova-treinador-2027/",
+       "https://www.futebolinterior.com.br/segundona-brasil-x-portugal-duelo/"
+      ]
+     },
      "comissao": true
     },
     {
@@ -5361,7 +5576,26 @@
      "selos": [],
      "nascimento": "",
      "de": "",
-     "ficha": {},
+     "ficha": {
+      "inicio": "Ex-jogador de Athletico-PR, Avaí, Gama, Remo e clubes da China",
+      "destaques": [
+       "Participou da formação de Rodrigo Muniz (Fulham) e Ederson (Atalanta)"
+      ],
+      "clubes_anteriores": [
+       "XV de Piracicaba (sub-20)",
+       "Safor (Espanha)",
+       "Guangzhou Evergrande (China)",
+       "Taubaté",
+       "Boa Esporte",
+       "Desportivo Brasil",
+       "Serrano",
+       "Iraty"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/",
+       "https://www.futebolinterior.com.br/edson-paulista-oficializado-barretos/"
+      ]
+     },
      "comissao": true
     },
     {
@@ -5697,7 +5931,32 @@
      "nascimento": "",
      "de": "",
      "ficha": {
-      "no_clube": "Novo comandante do MAC para o Paulistão A2 2027"
+      "no_clube": "Novo comandante do MAC para o Paulistão A2 2027",
+      "idade": 44,
+      "idade_em": "2026-10-05",
+      "inicio": "Começou na base: Flamengo (2005-2010), Centro de Futebol Zico (2011), Corinthians (2012-2014), Flamengo de Guarulhos, Atibaia e Ponte Preta",
+      "acessos": [
+       "Acesso à Série A2 em 2025 com o Sertãozinho"
+      ],
+      "destaques": [
+       "Eleito o melhor técnico da Série A3 de 2025"
+      ],
+      "clubes_anteriores": [
+       "Guarani (auxiliar)",
+       "Rio Branco",
+       "São José",
+       "Sertãozinho",
+       "Taquaritinga",
+       "Bangu",
+       "Palmas",
+       "Flamengo de Guarulhos"
+      ],
+      "fontes": [
+       "https://trivela.com.br/brasil/sertaozinho-final-serie-a3-paulista-mudanca-cidade/",
+       "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/",
+       "https://www.futebolinterior.com.br/marilia-oficializa-o-novo-treinador-para-a-serie-a2-de-2027/",
+       "https://www.futebolinterior.com.br/saiba-quais-serao-os-treinadores-da-serie-a2-de-2027/"
+      ]
      },
      "comissao": true
     },
@@ -6384,7 +6643,56 @@
      "selos": [],
      "nascimento": "",
      "de": "",
-     "ficha": {},
+     "ficha": {
+      "natural": "Rio de Janeiro/RJ",
+      "idade": 66,
+      "idade_em": "2026-10-24",
+      "conhecido_como": "\"Rei do Acesso\" (Futebol Interior)",
+      "inicio": "Primeiro acesso como técnico em 1988, levando o Pouso Alegre à 1ª divisão mineira",
+      "no_clube": "Treinou o União São João em 2003 e volta 23 anos depois, para a A3 de 2027",
+      "titulos": [
+       "Campeão Brasiliense 1994 com o Gama",
+       "Campeão Brasiliense 1998 com o Gama"
+      ],
+      "acessos": [
+       "Acesso à 1ª divisão mineira em 1988 com o Pouso Alegre",
+       "Acesso à 1ª divisão mineira em 1993 com o Unaí",
+       "Acesso à Série A1 em 2006 com o Rio Claro",
+       "Acesso à Série C em 2016 com o São Bento",
+       "Acesso à Série B em 2017 com o São Bento",
+       "Acesso à Série C em 2022 com o Pouso Alegre"
+      ],
+      "destaques": [
+       "Levou o Rio Claro da 6ª divisão à elite do Paulistão em cinco anos",
+       "Treinou Fábio Carille, seu zagueiro no Grêmio Barueri (2006-2007)"
+      ],
+      "clubes_anteriores": [
+       "Pouso Alegre",
+       "São Bento",
+       "Arapongas",
+       "Atlético Sorocaba",
+       "Rio Claro",
+       "Gama",
+       "Unaí",
+       "Minas Boa Esperança",
+       "Guarani",
+       "São Caetano",
+       "Grêmio Barueri",
+       "Paysandu",
+       "Botafogo-SP",
+       "Sampaio Corrêa",
+       "Brasil de Pelotas",
+       "Ferroviária",
+       "Santo André",
+       "XV de Piracicaba",
+       "Uberlândia"
+      ],
+      "fontes": [
+       "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-tecnico-sao-bento-serie-c/",
+       "https://trivela.com.br/brasil/lado-b-de-brasil/pouso-alegre-lotou-o-manduzao-e-orgulhou-o-sul-de-minas-com-a-promocao-inedita-a-serie-c/",
+       "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+      ]
+     },
      "comissao": true
     },
     {
@@ -6538,7 +6846,40 @@
      "selos": [],
      "nascimento": "",
      "de": "",
-     "ficha": {},
+     "ficha": {
+      "natural": "Jundiaí/SP",
+      "idade": 44,
+      "idade_em": "2025-01-01",
+      "inicio": "Trabalhou nas categorias de base de Taquaritinga, SKA Brasil e Athletic-MG; em 2022 foi auxiliar de Roger Silva no Athletic-MG e na Inter de Limeira. Primeira experiência como técnico principal no Paulista",
+      "no_clube": "Chegou ao Ituano em dezembro de 2025 como auxiliar de Mazola Júnior, dirigiu o time em jogos da Série C de 2026 e foi efetivado para 2027",
+      "titulos": [
+       "Campeão da Segunda Divisão Paulista 2024 com o Paulista"
+      ],
+      "acessos": [
+       "Acesso à Série A4 em 2024 com o Paulista",
+       "Acesso à Série A3 em 2025 com o Paulista"
+      ],
+      "destaques": [
+       "Primeiro jundiaiense campeão como treinador pelo Paulista na era profissional",
+       "Paulista: 54 jogos, 27 vitórias, 12 empates e 15 derrotas (57,4%)"
+      ],
+      "clubes_anteriores": [
+       "Paulista",
+       "Inter de Limeira",
+       "Athletic-MG",
+       "SKA Brasil",
+       "Taquaritinga"
+      ],
+      "fontes": [
+       "https://tribunadejundiai.com.br/mais/esportes/fausto-dias-deixa-paulista-futebol-clube/",
+       "https://tribunadejundiai.com.br/mais/esportes/paulista-de-jundiai-vence-nacional-por-3-a-0-e-garante-acesso-a-serie-a3-do-paulistao-2026/",
+       "https://www.futebolinterior.com.br/fausto-dias-deixa-comando-do-paulista/",
+       "https://www.futebolinterior.com.br/ituano-confirma-a-chegada-de-treinador-para-a-temporada-2027/",
+       "https://www.futebolinterior.com.br/segundona-conheca-os-ultimos-20-tecnicos-campeoes-desta-divisao/",
+       "https://www.futebolinterior.com.br/tecnico-acerta-com-ituano-para-serie-a2/",
+       "https://www.futebolinterior.com.br/tecnicos-paulistao-serie-a4-2025/"
+      ]
+     },
      "comissao": true
     },
     {
@@ -6778,7 +7119,22 @@
      "ficha": {
       "idade": 56,
       "idade_em": "2026-10-28",
-      "no_clube": "Era gerente de futebol do clube e assumiu o comando para a A3 2027"
+      "no_clube": "Era gerente de futebol do clube e assumiu o comando para a A3 2027",
+      "destaques": [
+       "Sete vitórias em sete jogos ao assumir a Matonense no Paulista Sub-23 de 2021"
+      ],
+      "clubes_anteriores": [
+       "Vocem",
+       "Grêmio Prudente",
+       "Matonense"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/campagnollo-gremio-prudente-decisao/",
+       "https://www.futebolinterior.com.br/paulistao-a3-rio-claro-vitor-braga/",
+       "https://www.futebolinterior.com.br/paulistao-serie-a4-marcos-campagnollo-deixa-o-vocem/",
+       "https://www.futebolinterior.com.br/segundona-conheca-os-ultimos-20-tecnicos-campeoes-desta-divisao/",
+       "https://www.futebolinterior.com.br/tecnico-marcos-campagnollo-faz-historia-na-matonense-com-sete-vitorias-em-sete-jogos/"
+      ]
      },
      "comissao": true
     },
@@ -7341,7 +7697,39 @@
      "numeros": null,
      "selos": [],
      "ficha": {
-      "no_clube": "Segue no comando do Esquadrão da Fé; trabalho marcado pela aposta em jovens da base"
+      "no_clube": "Segue no comando do Esquadrão da Fé; trabalho marcado pela aposta em jovens da base",
+      "natural": "Igaraçu do Tietê/SP",
+      "idade": 63,
+      "idade_em": "2026-10-29",
+      "posicao_jogador": "Atacante",
+      "inicio": "Começou como jogador no Bandeirante, em 1984, e encerrou a carreira em 2000, no Santa Cruz. Como técnico, começou em 2005, na base do Rio Claro",
+      "destaques": [
+       "Como jogador: Santa Cruz, Atlético-MG, Fluminense, Cruzeiro, Internacional, Santos, Figueirense e Porto (Portugal)"
+      ],
+      "clubes_anteriores": [
+       "Tupã",
+       "Sertãozinho",
+       "Uberlândia",
+       "Bandeirante",
+       "São Caetano",
+       "Francana",
+       "Barretos",
+       "São José",
+       "Taubaté",
+       "Capivariano",
+       "União São João",
+       "Itapirense",
+       "Rio Claro",
+       "Rio Branco",
+       "Grêmio Prudente",
+       "Al-Taee (Arábia Saudita)"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/paulista-a3-bandeirante-x-votuporanguense-no-duelo-de-dois-grandes-treinadores-quem-leva-a-melhor/",
+       "https://www.futebolinterior.com.br/paulistao-a4-rivalo-vocem-oficializa-o-tecnico-paulinho-mclaren/",
+       "https://www.futebolinterior.com.br/tupa-anuncia-chegada-de-novo-treinador/",
+       "https://www.futebolinterior.com.br/vocem-confirma-paulinho-mclaren/"
+      ]
      },
      "comissao": true
     }
@@ -8834,7 +9222,31 @@
      "selos": [],
      "nascimento": "",
      "de": "União São João",
-     "ficha": {},
+     "ficha": {
+      "no_clube": "Terceira passagem pelo Penapolense; treinou o clube em 2018 e 2019",
+      "destaques": [
+       "Levou o União São João à primeira final de Copa Paulista da história do clube em 2026 (1x1 e 0x0; São José campeão nos pênaltis, 4x3)",
+       "Assumiu o União São João em março de 2026, na Série A3: 3 vitórias, 1 empate e 1 derrota nos 5 últimos jogos",
+       "Manteve o Bandeirante na Série A3 em 2024"
+      ],
+      "clubes_anteriores": [
+       "União São João",
+       "Caldense",
+       "Bandeirante",
+       "Votuporanguense",
+       "Uberaba",
+       "Patrocinense",
+       "Sertãozinho",
+       "Batatais",
+       "Taboão da Serra"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/exclusivo-penapolense-anuncia-tecnico-destaque-da-copa-paulista/",
+       "https://www.futebolinterior.com.br/mineiro-caldense-confirma-treinador-conhecido-no-interior-de-sp/",
+       "https://www.futebolinterior.com.br/paulista-a3-bandeirante-x-votuporanguense-no-duelo-de-dois-grandes-treinadores-quem-leva-a-melhor/",
+       "https://www.futebolinterior.com.br/penapolense-reforca-comissao-tecnica/"
+      ]
+     },
      "comissao": true
     },
     {
@@ -9586,7 +9998,36 @@
      "selos": [],
      "nascimento": "",
      "de": "Comercial",
-     "ficha": {},
+     "ficha": {
+      "idade": 46,
+      "idade_em": "2026-11-17",
+      "inicio": "Começou como técnico no Rio Branco de Americana, em 2019, onde ficou duas temporadas",
+      "titulos": [
+       "Campeão da Série A4 2025 com o União Barbarense"
+      ],
+      "acessos": [
+       "Acesso à Série A3 em 2024 com o Rio Branco"
+      ],
+      "destaques": [
+       "Eleito o melhor técnico da Série A4 de 2025",
+       "União Barbarense: 13 vitórias em 17 jogos",
+       "Rio Branco: 24 jogos em duas temporadas a partir de 2019"
+      ],
+      "clubes_anteriores": [
+       "Comercial",
+       "Paulista",
+       "Operário-MS",
+       "União Barbarense",
+       "União São João",
+       "Rio Branco"
+      ],
+      "fontes": [
+       "https://www.campograndenews.com.br/esportes/campeao-da-4a-divisao-do-paulista-sera-o-novo-tecnico-do-operario",
+       "https://www.futebolinterior.com.br/sao-caetano-raphael-pereira-treinador/",
+       "https://www.futebolinterior.com.br/tecnicos-paulistao-serie-a4-2025/",
+       "https://www.gazetaesportiva.com/?p=3499376"
+      ]
+     },
      "comissao": true
     }
    ],
@@ -9647,6 +10088,37 @@
       "titulos": [
        "Vice da Série A3 2025 e acesso com o Monte Azul",
        "Acesso à A4 em 2026 com o América de Rio Preto"
+      ],
+      "nome_completo": "Elton Francisco Forgiarini",
+      "idade": 43,
+      "idade_em": "2026-08-04",
+      "inicio": "Começou em 2011 como auxiliar técnico do Riograndense e do Santo Ângelo (RS); de 2013 a 2015 foi auxiliar no México (Celaya e Santos Soledad)",
+      "acessos": [
+       "Vice-campeão da Série A3 2025 e acesso à A2 com o Monte Azul",
+       "Vice-campeão da Segunda Divisão 2026 e acesso à Série A4 com o América"
+      ],
+      "destaques": [
+       "Monte Azul 2025: liderou a 1ª fase da A3 com uma derrota em 19 jogos e o melhor ataque (33 gols)",
+       "América 2026: 8 vitórias, 7 empates e 1 derrota em 16 jogos da Segunda Divisão antes da final"
+      ],
+      "clubes_anteriores": [
+       "América",
+       "Decisão-PE",
+       "Monte Azul",
+       "Camboriú",
+       "Brusque",
+       "Caxias",
+       "Santos Soledad (México)",
+       "Celaya (México)",
+       "Santo Ângelo",
+       "Riograndense"
+      ],
+      "fontes": [
+       "https://atarde.com.br/esportes/clube-tradicional-renasce-apos-25-anos-conquista-acesso-e-mira-elite-1399675",
+       "https://trivela.com.br/brasil/sertaozinho-final-serie-a3-paulista-mudanca-cidade/",
+       "https://www.futebolinterior.com.br/monte-azul-anuncia-novo-treinador-para-o-paulistao-serie-a3/",
+       "https://www.futebolinterior.com.br/paulistao-serie-a3-tecnico-do-monte-azul-leva-o-acesso-em-sua-estreia-em-sp/",
+       "https://www.futebolinterior.com.br/segundona-brasil-x-portugal-duelo/"
       ]
      },
      "comissao": true
@@ -9738,7 +10210,20 @@
        "Mantiqueira",
        "Joseense",
        "Flamengo de Guarulhos",
-       "Jacareí"
+       "Jacareí",
+       "Vocem",
+       "Independente de Limeira",
+       "Assisense",
+       "Operário-MT"
+      ],
+      "inicio": "Começou como técnico no Operário-MT, em 2016",
+      "destaques": [
+       "Semifinalista da Segunda Divisão Paulista de 2020 com o Manthiqueira (eliminado pelo São José, campeão)"
+      ],
+      "fontes": [
+       "https://www.futebolinterior.com.br/flamengo-anuncia-augusto-ambrogi/",
+       "https://www.futebolinterior.com.br/segundona-treinador-semifinalista-da-segunda-divisao-deixa-gerencia-do-vocem/",
+       "https://www.futebolinterior.com.br/tecnicos-paulistao-serie-a4-2025/"
       ]
      },
      "comissao": true
