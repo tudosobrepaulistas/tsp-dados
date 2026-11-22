@@ -2,63 +2,6 @@
  "itens": [
   {
    "clube": "saopaulo",
-   "titulo": "São Paulo perde para o Fluminense no Morumbis, cai para 11º e vê vaga continental mais distante",
-   "resumo": "O Fluminense venceu por 1 a 0 na quinta (19), pela 35ª rodada, com gol de Hércules aos 32 do 1º tempo. O São Paulo finalizou 12 vezes sem acertar o alvo e ficou em 11º, com 44 pontos, a três rodadas do fim.",
-   "angulo": "Contas da reta final: quantos pontos faltam para a Sul-Americana e o que o São Paulo ainda enfrenta nas três últimas rodadas (tabela da Base TSP).",
-   "fontes": [
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-0-x-1-fluminense-veja-os-melhores-momentos-pelo-brasileirao/"
-    },
-    {
-     "nome": "Placar",
-     "url": "https://placar.com.br/brasileirao/fluminense-vence-o-sao-paulo-e-engata-terceira-vitoria-seguida-no-brasileirao/"
-    }
-   ],
-   "id": "p4e3e144713",
-   "gerado": "2026-11-20T07:44-03:00",
-   "quando": "20/11 07h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "Zero chute no alvo em casa: o que falhou no São Paulo contra o Fluminense",
-   "resumo": "Na derrota de quinta (19), o São Paulo não acertou nenhuma das 12 finalizações e sofreu o gol num cruzamento da direita. Análises da imprensa apontam falhas defensivas e um sistema que não encaixou.",
-   "angulo": "Matéria analítica com os números do jogo e as notas dos jogadores, sem repetir a crônica do resultado.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/?p=3789113"
-    },
-    {
-     "nome": "Placar",
-     "url": "https://placar.com.br/brasileirao/fluminense-vence-o-sao-paulo-e-engata-terceira-vitoria-seguida-no-brasileirao/"
-    }
-   ],
-   "id": "p9bb26a4bda",
-   "gerado": "2026-11-20T07:44-03:00",
-   "quando": "20/11 07h"
-  },
-  {
-   "clube": "palmeiras",
-   "titulo": "Palmeiras x Flamengo: sem Barboza, Abel monta a defesa para o jogo que pode decidir o título",
-   "resumo": "Alexander Barboza está suspenso para sábado (21), às 16h30, no Nubank Parque; o Flamengo não terá Léo Pereira e Pulgar. Rodrigo José Pereira de Lima (PE) apita; transmissão de Globo, GE TV e Premiere.",
-   "angulo": "Serviço completo (onde assistir, horário, árbitro, desfalques dos dois lados) mais quem deve substituir Barboza.",
-   "fontes": [
-    {
-     "nome": "Diário do Grande ABC",
-     "url": "https://www.dgabc.com.br/Noticia/4369767/palmeiras-x-flamengo-veja-onde-assistir-e-as-provaveis-escalacoes"
-    },
-    {
-     "nome": "CNN Brasil",
-     "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-perde-titulares-para-decisao-contra-o-palmeiras-pelo-brasileirao/"
-    }
-   ],
-   "id": "p4297746af9",
-   "gerado": "2026-11-20T07:44-03:00",
-   "quando": "20/11 07h"
-  },
-  {
-   "clube": "saopaulo",
    "titulo": "Vaiado após o 1 a 0 para o Fluminense, São Paulo recebe o Remo no dia 26 tentando reagir na reta final",
    "resumo": "O São Paulo perdeu para o Fluminense na quinta (19), no MorumBIS, com cerca de 24 mil torcedores, que vaiaram o time no fim. O time é 11º, com 44 pontos, e volta a jogar contra o Remo em 26/11, às 20h, no MorumBIS.",
    "angulo": "Serviço do próximo jogo (onde assistir, ingressos) e o que o São Paulo ainda pode alcançar nas 3 rodadas finais, com a tabela da Base TSP.",
@@ -188,7 +131,113 @@
    "id": "pdbdfbd4d66",
    "gerado": "2026-11-21T16:44-03:00",
    "quando": "21/11 16h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Abel admite erros após o 1 a 1 que deu o título ao Flamengo; Palmeiras vira a chave para a final da Libertadores",
+   "resumo": "O empate por 1 a 1 com o Flamengo no Nubank Parque, no sábado (21), confirmou o título brasileiro do rival. Abel reconheceu que o Flamengo foi melhor e citou erros dele e da comissão, a própria suspensão, a venda de Allan e as lesões. O Palmeiras decide a Libertadores contra o Estudiantes no dia 28/11, em Montevidéu, e a Copa do Brasil contra o Grêmio em 6/12.",
+   "angulo": "Calendário das duas finais em uma página de serviço, com o caminho do Palmeiras até elas (Base TSP).",
+   "fontes": [
+    {
+     "nome": "Lance!",
+     "url": "https://www.lance.com.br/palmeiras/abel-reconhece-superioridade-do-flamengo-sobre-o-palmeiras-no-brasileirao-e-admite-erros.html"
+    }
+   ],
+   "id": "p9c8d889b96",
+   "gerado": "2026-11-22T07:44-03:00",
+   "quando": "22/11 07h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Gabriel Paulista se lesiona e Seedorf ganha mais um problema para enfrentar o Atlético-MG na Arena MRV",
+   "resumo": "O zagueiro Gabriel Paulista teve estiramento do ligamento colateral medial do joelho direito no treino de quinta (19), sem prazo de volta. Carrillo (terceiro amarelo) e Yuri Alberto (suspenso pelo STJD) também estão fora do jogo de quarta (25), às 20h, em Belo Horizonte. O Corinthians briga para se afastar do Z4 na reta final.",
+   "angulo": "Quem pode substituir cada desfalque e como o time foi sem eles na temporada.",
+   "fontes": [
+    {
+     "nome": "O Tempo / Lance!",
+     "url": "https://www.otempo.com.br/sports/futebol-nacional/corinthians/2026/11/21/seedorf-ajusta-corinthians-para-confronto-com-atletico-mg-veja-detalhes"
+    },
+    {
+     "nome": "Terra",
+     "url": "https://www.terra.com.br/esportes/corinthians/corinthians-perde-titular-para-confronto-decisivo-contra-o-atletico-mg-pelo-brasileirao,b28ef048575cc5aa29dc7710123cf56f1oim7a89.html"
+    }
+   ],
+   "id": "p815b664c1d",
+   "gerado": "2026-11-22T07:44-03:00",
+   "quando": "22/11 07h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Marcos Antonio volta a correr no gramado e São Paulo fecha preparação para o Botafogo neste domingo",
+   "resumo": "Em recuperação de lesão no tornozelo direito, Marcos Antonio correu no gramado do CT da Barra Funda no sábado (21). Tolói será reavaliado após dores no adutor, e Sabino e Domingos Duarte seguem fora. O time faz o último treino neste domingo (22) e viaja ao Rio para o jogo de segunda (23), às 20h, no Nilton Santos.",
+   "angulo": "Situação de cada lesionado e a tabela das três rodadas finais (Botafogo, Remo e Athletico-PR).",
+   "fontes": [
+    {
+     "nome": "São Paulo FC (oficial)",
+     "url": "https://www.saopaulofc.net/tricolor-treina-neste-sabado-e-da-continuidade-aos-trabalhos-para-enfrentar-o-botafogo/"
+    },
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/com-marcos-antonio-no-gramado-sao-paulo-segue-preparacao-para-enfrentar-o-botafogo/"
+    }
+   ],
+   "id": "p8ffbafb436",
+   "gerado": "2026-11-22T07:44-03:00",
+   "quando": "22/11 07h"
+  },
+  {
+   "clube": "bragantino",
+   "titulo": "Sem Fernando e Matheus Fernandes, suspensos, Bragantino recebe o Vasco em duelo de times com 47 pontos",
+   "resumo": "Bragantino (9º) e Vasco (10º) se enfrentam neste domingo (22), às 19h30, em Bragança Paulista, ambos com 47 pontos. O Bragantino não terá Fernando e Matheus Fernandes, suspensos; o Vasco perde Nuno Moreira e Tchê Tchê, lesionados. Transmissão: SporTV e Premiere.",
+   "angulo": "O que a vitória vale na briga por vaga continental, com a tabela e a sequência em casa (Base TSP).",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/vasco/bragantino-x-vasco-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes-2/"
+    }
+   ],
+   "id": "p4b4c3266f4",
+   "gerado": "2026-11-22T07:44-03:00",
+   "quando": "22/11 07h"
+  },
+  {
+   "clube": "santos",
+   "titulo": "Santos passa de 35 mil ingressos vendidos e mira o maior público do ano contra o Grêmio no MorumBis",
+   "resumo": "O Santos informou que já vendeu 35 mil ingressos para o jogo com o Grêmio, segunda (23), às 21h, no MorumBis, e tenta bater o recorde de público do ano como mandante. A arquibancada custa R$ 160 (inteira) e R$ 80 (meia).",
+   "angulo": "Serviço completo (ingressos, como chegar, horário) e ranking de públicos do Santos em 2026.",
+   "fontes": [
+    {
+     "nome": "ABC do ABC",
+     "url": "https://www.abcdoabc.com.br/santos-vende-35-mil-ingressos-para-jogo/"
+    },
+    {
+     "nome": "Tribuna de Jundiaí",
+     "url": "https://tribunadejundiai.com.br/mais/esportes/santos-anuncia-30-mil-ingressos-vendidos-para-partida-no-morumbi/"
+    }
+   ],
+   "id": "p75aeaaed08",
+   "gerado": "2026-11-22T07:44-03:00",
+   "quando": "22/11 07h"
+  },
+  {
+   "clube": "botafogosp",
+   "titulo": "Botafogo-SP negocia a volta do atacante Bruno José, do Atlético-GO, para 2027",
+   "resumo": "Segundo o WMais, o Botafogo-SP fez proposta e tem acordo verbal com Bruno José, de 28 anos, que tem contrato com o Atlético-GO até o fim do ano; o negócio ainda não foi concluído. Ele já defendeu o Pantera em 2019. O clube tem 25 nomes garantidos para 2027 e começa a pré-temporada em 7/12.",
+   "angulo": "Só publicar como contratação quando o clube anunciar; até lá, pauta de bastidor com o elenco de 2027 já fechado.",
+   "fontes": [
+    {
+     "nome": "WMais",
+     "url": "https://wmais.com.br/wsports/botafogo-sp-avanca-contratacao-bruno-jose-atletico-go/"
+    },
+    {
+     "nome": "TV Sim",
+     "url": "https://tvsimbrasil.com.br/sp/ribeirao-preto/esportes/noticia/2026/11/19/botafogo-sp-reforcos-2027-mesmo-criterio"
+    }
+   ],
+   "id": "pc64f22e750",
+   "gerado": "2026-11-22T07:44-03:00",
+   "quando": "22/11 07h"
   }
  ],
- "gerado": "2026-11-21T16:44-03:00"
+ "gerado": "2026-11-22T07:44-03:00"
 }
