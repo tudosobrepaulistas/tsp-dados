@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T23:11:00-03:00",
+ "gerado": "2026-11-22T02:32:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -46795,7 +46795,7 @@
  "painel_feminino": [
   {
    "nome": "Paulistão Feminino 2026",
-   "fase": "Play-in (jogos de volta em 21 e 22/11)",
+   "fase": "Play-in (São Paulo classificado; Corinthians x Bragantino decide no dom. 22/11)",
    "classificacao_titulo": "Paulistão Feminino · classificação final da 1ª fase",
    "classificacao": [
     [
@@ -46902,32 +46902,32 @@
      "fase": "Play-in",
      "casa": "Santos",
      "fora": "São Paulo",
-     "quando": "Volta: sáb. 21/11, 11h, Brinco de Ouro (Campinas)",
-     "obs": "",
+     "quando": "Volta: sáb. 21/11, Brinco de Ouro (Campinas). Gols: Aline Milene e Maricel Pereyra",
+     "obs": "São Paulo classificado (5 x 1 no agregado)",
      "placar": {
       "j1": [
        1,
        3
       ],
       "j2": [
-       null,
-       null
+       0,
+       2
       ]
      }
     },
     {
      "fase": "Semifinal",
      "casa": "Ferroviária",
-     "fora": "Vencedor do play-in",
+     "fora": "Classificado do play-in",
      "quando": "9/12 e 13/12",
-     "obs": ""
+     "obs": "Contra o São Paulo se o Bragantino passar"
     },
     {
      "fase": "Semifinal",
      "casa": "Palmeiras",
-     "fora": "Vencedor do play-in",
+     "fora": "Classificado do play-in",
      "quando": "9/12 e 13/12",
-     "obs": ""
+     "obs": "Contra o São Paulo se o Corinthians passar"
     },
     {
      "fase": "Final",
@@ -46945,7 +46945,9 @@
     "https://www.gazetaesportiva.com/times/sao-paulo/santos-sao-paulo-feminino-resultado-play-in-paulistao-2026/",
     "https://www.saopaulofc.net/sao-paulo-vence-o-santos-na-partida-de-ida-do-play-in-do-paulistao-f/",
     "https://www.terra.com.br/esportes/corinthians/corinthians-perde-para-bragantino-e-se-complica-no-paulista-feminino,8cce8cc9d24b1f8a026567db7bca560alfrldrmn.html",
-    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-vencem-o-corinthians-e-saem-em-vantagem-no-play-in-do-paulistao-f-2026"
+    "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-vencem-o-corinthians-e-saem-em-vantagem-no-play-in-do-paulistao-f-2026",
+    "https://www.gazetaesportiva.com/campeonatos/paulista/sao-paulo-vence-santos-avanca-semifinal-paulista-feminino/",
+    "https://www.saopaulofc.net/sao-paulo-vence-santos-e-avanca-a-semifinal-do-paulistao-f/"
    ],
    "colunas": [
     "#",
