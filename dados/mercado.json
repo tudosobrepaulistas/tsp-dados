@@ -1182,6 +1182,25 @@
   },
   {
    "data": "2026-11-18",
+   "jogador": "Deola",
+   "posicao": "Treinador de goleiros",
+   "de": "",
+   "para": "Inter de Bebedouro",
+   "de_slug": "",
+   "para_slug": "inter-de-bebedouro",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "anuncio_do_clube": true,
+   "obs": "Ex-goleiro do Palmeiras; preparador de goleiros para a Série A3 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-acerta-campeao/"
+   ],
+   "id": "2026-11-18-deola-inter-de-bebedouro",
+   "atualizado": "2026-11-22T06:59:00-03:00"
+  },
+  {
+   "data": "2026-11-18",
    "jogador": "Bernardo",
    "posicao": "Zagueiro",
    "de": "",

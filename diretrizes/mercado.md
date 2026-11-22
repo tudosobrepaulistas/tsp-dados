@@ -88,5 +88,5 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
 - Ficha técnica (card): campo "ficha" = {natural, idade + idade_em, no_clube, contrato, clubes_anteriores, titulos, fonte}.
   Só o que a fonte trouxe. Idade anunciada sem data de nascimento: grave "idade" e "idade_em" (dia da fonte).
 - Figurinha de comissão: mesma ferramenta (`figurinha ID ...`), com a roupa de treino/polo do clube da foto, sem marcas.
-- Faltam treinadores (conferir e registrar na tarefa diária): XV de Piracicaba, Portuguesa, Lemense, Inter de Bebedouro,
+- Faltam treinadores (conferir e registrar na tarefa diária): XV de Piracicaba, Portuguesa, Lemense,
   Marília, Rio Claro, Taubaté, Tanabi, XV de Jaú, Votuporanguense, São José.

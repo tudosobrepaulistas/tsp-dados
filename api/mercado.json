@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T03:53:00-03:00",
+ "gerado": "2026-11-22T06:59:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -1776,6 +1776,44 @@
    "carreira_fonte": "",
    "ficha": {},
    "comissao": false,
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-18-deola-inter-de-bebedouro",
+   "data": "2026-11-18",
+   "jogador": "Deola",
+   "posicao": "Treinador de goleiros",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Ex-goleiro do Palmeiras; preparador de goleiros para a Série A3 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-acerta-campeao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
    "dono": "inter-de-bebedouro"
   },
   {

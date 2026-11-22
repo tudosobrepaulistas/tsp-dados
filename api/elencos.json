@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T03:53:00-03:00",
+ "gerado": "2026-11-22T06:59:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -8137,6 +8137,28 @@
      "de": "",
      "ficha": {},
      "comissao": false
+    },
+    {
+     "nome": "Deola",
+     "posicao": "Treinador de goleiros",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": true
+    },
+    {
+     "nome": "Márcio Griggio",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {},
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [
@@ -8202,6 +8224,12 @@
     },
     {
      "nome": "Guilherme Matheus",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
+    },
+    {
+     "nome": "Deola",
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-18"
