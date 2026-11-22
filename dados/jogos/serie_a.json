@@ -7537,6 +7537,586 @@
    }
   },
   {
+   "id": 91000503,
+   "data": "2026-09-11T21:00:00-03:00",
+   "casa": "coritiba",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 3,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Luiz Gustavo",
+     "minuto": "14",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Arthur Dias",
+     "minuto": "29",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Tiago Cóser",
+     "minuto": "45+1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Viveros",
+     "minuto": "62",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Rodrigo Moledo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Rodrigo Moledo",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/coritiba-saf-x-athletico-paranaense/832158",
+    "https://www.umdoisesportes.com.br/atletiba/coritiba-athletico-atletiba-brasileirao-resultado/"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00"
+  },
+  {
+   "id": 91000504,
+   "data": "2026-09-12T16:00:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Reinier",
+     "minuto": "60",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Cuello",
+     "minuto": "63",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitão",
+     "minuto": "80",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Castillo",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/atletico-mineiro-x-fluminense/832156",
+    "https://jornaldebrasilia.com.br/torcida/atletico-mg-atropela-reservas-do-fluminense-e-encerra-serie-invicta-do-rival-no-brasileirao/"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Gabriel Delfim; Natanael, Vitor Hugo, Vitão, Pascini; Alan Franco, Kevin Castaño, Fred; Bernard, Cuello, Reinier",
+     "entraram": [
+      {
+       "jogador": "Maycon",
+       "saiu": "Alan Franco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cissé",
+       "saiu": "Kevin Castaño",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Scarpa",
+       "saiu": "Bernard",
+       "minuto": ""
+      },
+      {
+       "jogador": "Igor Gomes",
+       "saiu": "Cuello",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cassierra",
+       "saiu": "Reinier",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Júlio Fidélis, Igor Rabello, Freytes, Guilherme Arana; Otávio, Nonato, Lucho Acosta; Savarino, Canobbio, Castillo",
+     "entraram": [
+      {
+       "jogador": "Jemmes",
+       "saiu": "Júlio Fidélis",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Otávio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hércules",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme Felipe",
+       "saiu": "Savarino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Canobbio",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://jornaldebrasilia.com.br/torcida/atletico-mg-atropela-reservas-do-fluminense-e-encerra-serie-invicta-do-rival-no-brasileirao/"
+    ],
+    "atualizado": "2026-11-22T12:28:00-03:00"
+   }
+  },
+  {
+   "id": 91000505,
+   "data": "2026-09-12T16:00:00-03:00",
+   "casa": "gremio",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://acritica.net/esportes/vasco-vence-gremio-de-virada-2-a-1-brasileirao/",
+    "https://diariodorio.com/esporte/vasco-da-gama/2026/09/12/melhores-momentos-de-gremio-1-x-2-vasco-pelo-brasileirao-2026.html"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00"
+  },
+  {
+   "id": 91000506,
+   "data": "2026-09-12T17:00:00-03:00",
+   "casa": "chapecoense",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Garcez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bruno Henrique",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Carbonero",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/chapecoense-x-internacional/832160",
+    "https://www.jornaldocomercio.com/esportes/2026/09/1263133-inter-aproveita-falha-bate-a-chape-e-desencanta-apos-8-jogos.html"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00"
+  },
+  {
+   "id": 91000507,
+   "data": "2026-09-12T18:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nubank Parque",
+   "cidade": "São Paulo",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Murilo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitor Roque",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.palmeiras.com.br/noticias/palmeiras-vence-sao-paulo-em-casa-e-alcanca-13-jogos-de-invencibilidade-no-choque-rei/",
+    "https://abcdoabc.com.br/palmeiras-aproveita-expulsao/"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00"
+  },
+  {
+   "id": 91000508,
+   "data": "2026-09-12T20:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "bragantino",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Lucas Monzón",
+     "minuto": "30",
+     "tipo": "contra"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitinho",
+     "minuto": "56",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/botafogo-x-red-bull-bragantino/832152",
+    "https://www.lance.com.br/botafogo/com-um-a-mais-botafogo-fica-no-empate-com-bragantino.html"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rodrigo Bellão",
+     "time": "Gabriel Batista; Vitinho, Lucas Monzón, Ferraresi, Alex Telles; Huguinho, Montoro, Danilo; Júnior Santos, Lucas Villalba, Danilo Pereira",
+     "entraram": [
+      {
+       "jogador": "Mateo Ponte",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho",
+       "saiu": "Alex Telles",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tiquinho Soares",
+       "saiu": "Júnior Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kadir",
+       "saiu": "Lucas Villalba",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Agustín Sant'Anna, Guzmán Rodríguez, Gustavo Marques, Juninho Capixaba; Fabinho, Eric Ramires, Lucas Barbosa; Fernando, Isidro Pitta, Wallace Yan",
+     "entraram": [
+      {
+       "jogador": "Hurtado",
+       "saiu": "Agustín Sant'Anna",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Girotto",
+       "saiu": "Fabinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Eric Ramires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Herrera",
+       "saiu": "Lucas Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Santos",
+       "saiu": "Isidro Pitta",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.lance.com.br/botafogo/com-um-a-mais-botafogo-fica-no-empate-com-bragantino.html"
+    ],
+    "atualizado": "2026-11-22T12:28:00-03:00"
+   }
+  },
+  {
+   "id": 91000509,
+   "data": "2026-09-12T21:00:00-03:00",
+   "casa": "santos",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/santos-fc-x-cruzeiro/832153",
+    "https://acritica.net/esportes/santos-vence-cruzeiro-2-a-1-gol-contra-fabricio-bruno/"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00"
+  },
+  {
+   "id": 91000510,
+   "data": "2026-09-13T16:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Renê",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Renê",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bruno Santos",
+     "minuto": "67",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Edson Carioca",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/na-luta-contra-o-z4-mirassol-busca-empate-no-fim-e-evita-derrota-para-o-vitoria-no-brasileirao/",
+    "https://www.correio24horas.com.br/esportes/vitoria-abre-2-a-0-vacila-diante-do-mirassol-e-cede-empate-no-brasileirao-0926"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00"
+  },
+  {
+   "id": 91000511,
+   "data": "2026-09-13T17:30:00-03:00",
+   "casa": "flamengo",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/flamengo-x-corinthians/832151",
+    "https://www.jb.com.br/esportes/2026/09/1060902-flamengo-vence-corinthians-por-2-a-1-e-reassume-lideranca-do-brasileirao.html"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00"
+  },
+  {
+   "id": 91000512,
+   "data": "2026-09-14T20:00:00-03:00",
+   "casa": "bahia",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "27",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Jean Lucas",
+     "minuto": "19",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Luciano Juba",
+     "minuto": "90",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vitor Bueno",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/bahia-x-remo/832159",
+    "https://www.oliberal.com/esportes/remo/bahia-vence-o-remo-e-afunda-o-leao-na-zona-de-rebaixamento-da-serie-a-1.1168785"
+   ],
+   "atualizado": "2026-11-22T12:27:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Acevedo, Jean Lucas, Rodrigo Nestor; Cristian Olivera, Alejo Véliz, Erick Pulga",
+     "entraram": [
+      {
+       "jogador": "Román Gómez",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everton Ribeiro",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Everaldo",
+       "saiu": "Alejo Véliz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Léo Condé",
+     "time": "Marcelo Rangel; Zé Ivaldo, Matheus Felipe, Tchamba; Yago Pikachu, Picco, Patrick, Zé Ricardo, Marlon; Galeano, Jajá",
+     "entraram": [
+      {
+       "jogador": "Gabriel Taliari",
+       "saiu": "Tchamba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Welison",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Galeano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alef Manga",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/remo/bahia-vence-o-remo-e-afunda-o-leao-na-zona-de-rebaixamento-da-serie-a-1.1168785"
+    ],
+    "atualizado": "2026-11-22T12:28:00-03:00"
+   }
+  },
+  {
    "id": 91000051,
    "data": "2026-09-19T16:00:00-03:00",
    "casa": "atletico-mg",
