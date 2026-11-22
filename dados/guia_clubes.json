@@ -1,4 +1,808 @@
 {
  "_leia": "Ficha conferida de cada clube paulista (guia da página do clube). Só dado com fonte (campo fontes). Campo vazio = não aparece no site. O tema lê api/guia_clubes.json.",
- "clubes": {}
+ "clubes": {
+  "aguasanta": {
+   "cidade": "Diadema",
+   "estadio": "Estádio Municipal José Batista Pereira Fernandes (Arena Inamar / Campo do Inamar)",
+   "apelidos": "Netuno",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "presidente": "Paulo Korek (Paulo Sirqueira Korek)",
+   "fontes": [
+    "https://abcdoabc.com.br/em-diadema-3-000-pessoas-celebram-feito-do-agua-santa-no-paulistao-2/",
+    "https://j1diario.com.br/?p=116675",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2",
+    "https://www.gazetaesportiva.com/?p=863248"
+   ]
+  },
+  "interdelimeira": {
+   "cidade": "Limeira",
+   "estadio": "Estádio Major José Levy Sobrinho (Limeirão)",
+   "apelidos": "Leão da Paulista; Leão",
+   "rival": "XV de Piracicaba",
+   "titulos": [
+    [
+     "Campeonato Paulista",
+     "1986"
+    ],
+    [
+     "Campeonato Brasileiro Série B",
+     "1988"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A2",
+    "Campeonato Brasileiro Série B"
+   ],
+   "fontes": [
+    "https://atarde.com.br/esportes/saf-com-ronaldo-e-roberto-carlos-sobe-apos-35-anos-e-mira-elite-1405713",
+    "https://trivela.com.br/brasil/lado-b-de-brasil/a-inter-de-limeira-amargou-14-anos-de-penurias-mas-voltou-a-elite-do-paulistao-em-pura-apoteose/",
+    "https://www.abola.pt/noticias/ronaldo-e-roberto-carlos-ja-podem-comprar-clube-centenario-no-brasil-2026090112263331706",
+    "https://www.correio24horas.com.br/esportes/pentacampeoes-com-a-selecao-brasileira-ficam-perto-de-assumir-saf-de-clube-tradicional-em-projeto-de-r-454-milhoes-0926",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2",
+    "https://www.opovo.com.br/esportes/futebol/2026/10/12/serie-c-2026-saiba-quem-sobe-e-quem-desce-na-temporada.html"
+   ]
+  },
+  "ituano": {
+   "cidade": "Itu",
+   "estadio": "Estádio Municipal Dr. Novelli Júnior (Novelli Júnior / Majestoso da Vila Nova)",
+   "capacidade": "17.399",
+   "fundacao": "24/05/1947",
+   "apelidos": "Galo de Itu; Galo Rubro-Negro; Galo da Comarca",
+   "mascote": "Galo",
+   "cores": "Vermelho e preto",
+   "titulos": [
+    [
+     "Campeonato Paulista",
+     "2002"
+    ],
+    [
+     "Campeonato Paulista",
+     "2014"
+    ],
+    [
+     "Campeonato Brasileiro Série C",
+     "2003"
+    ],
+    [
+     "Campeonato Brasileiro Série C",
+     "2021"
+    ],
+    [
+     "Campeonato Paulista Série A2 (Divisão Especial)",
+     "1989"
+    ],
+    [
+     "Campeão do Interior (Paulistão)",
+     "2017"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A2",
+    "Campeonato Brasileiro Série C"
+   ],
+   "site": "https://ituanofc.com",
+   "instagram": "https://www.instagram.com/ituanofc/",
+   "youtube": "https://www.youtube.com/channel/UCga4i1NKw7B6aDyPjIu-5qw",
+   "presidente": "João Paulo Silveira Ruiz",
+   "fontes": [
+    "https://ituanofc.com/clube/",
+    "https://tribunadejundiai.com.br/mais/esportes/brasileirao-serie-c-2027-lista-dos-24-clubes-foi-definida-veja-todos/",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2",
+    "https://www.ituanofc.com"
+   ]
+  },
+  "linense": {
+   "cidade": "Lins",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "marilia": {
+   "cidade": "Marília",
+   "apelidos": "MAC",
+   "mascote": "Tigre",
+   "cores": "Azul e branco",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://trivela.com.br/sem-categoria/marilia-revezando-a-preferencia/",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "monteazul": {
+   "cidade": "Monte Azul Paulista",
+   "estadio": "Estádio Otacília Patrício Arroyo",
+   "capacidade": "13.100",
+   "apelidos": "Azulão",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "presidente": "João Celso de Moraes",
+   "fontes": [
+    "https://istoe.com.br/clube-paulista-anuncia-saf-com-emerson-sheik-e-neymar-pai-como-dirigentes",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "osasco-sporting": {
+   "cidade": "Osasco",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "portuguesasantista": {
+   "cidade": "Santos",
+   "estadio": "Estádio Ulrico Mursa",
+   "apelidos": "Briosa",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2",
+    "https://www.lance.com.br/futebol-nacional/com-gol-no-fim-portuguesa-santista-e-campea-da-copa-paulista-sobre-o-sao-jose.html"
+   ]
+  },
+  "santoandre": {
+   "cidade": "Santo André",
+   "estadio": "Estádio Bruno José Daniel (Brunão)",
+   "fundacao": "18/09/1967",
+   "apelidos": "Ramalhão",
+   "cores": "Azul e branco",
+   "titulos": [
+    [
+     "Copa do Brasil",
+     "2004"
+    ],
+    [
+     "Campeonato Paulista Série A2 (Segunda Divisão)",
+     "1975"
+    ],
+    [
+     "Campeonato Paulista Série A2 (Segunda Divisão)",
+     "1981"
+    ],
+    [
+     "Copa Paulista (Copa Estado de São Paulo)",
+     "2003"
+    ],
+    [
+     "Copa São Paulo de Futebol Júnior",
+     "2003"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "presidente": "Celso Luiz de Almeida",
+   "fontes": [
+    "https://www.abcdoabc.com.br/ec-santo-andre-comemora-20-anos-do-titulo-da-copa-do-brasil-com-homenagens/",
+    "https://www.dgabc.com.br/Noticia/4347431/esporte-clube-santo-andre-celebra-59-anos-sem-esquecer-de-suas-glorias",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2",
+    "https://www.dgabc.com.br/Noticia/905684/ramalhao-historia-coroada-de-sucessos",
+    "https://www.lance.com.br/futebol-nacional/paulistao-entre-tacas-e-rebaixamentos-a-lenta-queda-dos-tradicionais-clubes-paulistas.html"
+   ]
+  },
+  "saojose": {
+   "cidade": "São José dos Campos",
+   "estadio": "Estádio Martins Pereira",
+   "apelidos": "Águia do Vale",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://trivela.com.br/brasil/lado-b-de-brasil/a-alma-lavada-no-ultimo-nivel-do-futebol-paulista-um-relato-sobre-o-dramatico-titulo-do-sao-jose-na-bezinha/",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2",
+    "https://www.gazetaesportiva.com/?p=3866361",
+    "https://www.sjc.sp.gov.br/noticias/2018/marco/15/48-anos-do-estadio-martins-pereira-tem-a-presenca-do-fundador/"
+   ]
+  },
+  "sertaozinho": {
+   "cidade": "Sertãozinho",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "taubate": {
+   "cidade": "Taubaté",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "veloclube": {
+   "cidade": "Rio Claro",
+   "estadio": "Estádio Benito Agnelo Castellano (Benitão)",
+   "rival": "Rio Claro",
+   "classico": "Clássico Rioclarense",
+   "campeonatos_2027": [
+    "Paulistão A2",
+    "Campeonato Brasileiro Série D"
+   ],
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/serie-d-de-2027-saiba-quais-clubes-ja-estao-classificados-para-a-competicao-1.3780558",
+    "https://tribunaonline.com.br/_/175785",
+    "https://trivela.com.br/brasil/titulo-paulista-a2-noroeste-velo-clube/",
+    "https://www.al.sp.gov.br/noticia/?id=498383",
+    "https://www.cnnbrasil.com.br/tudo-sobre/velo-clube",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "votuporanguense": {
+   "cidade": "Votuporanga",
+   "campeonatos_2027": [
+    "Paulistão A2"
+   ],
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2"
+   ]
+  },
+  "xvdepiracicaba": {
+   "cidade": "Piracicaba",
+   "estadio": "Estádio Municipal Barão da Serra Negra (Barão)",
+   "capacidade": "18.799",
+   "fundacao": "15/11/1913",
+   "apelidos": "Nhô Quim; Alvinegro; XV",
+   "mascote": "Nhô Quim",
+   "cores": "Preto e branco",
+   "rival": "Inter de Limeira",
+   "campeonatos_2027": [
+    "Paulistão A2",
+    "Campeonato Brasileiro Série D"
+   ],
+   "site": "https://xvpiracicaba.com.br",
+   "instagram": "https://www.instagram.com/xvpiracicaba/",
+   "youtube": "https://www.youtube.com/@XVdePiracicabaTV",
+   "presidente": "Matheus Bonassi Semmler",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/serie-d-de-2027-saiba-quais-clubes-ja-estao-classificados-para-a-competicao-1.3780558",
+    "https://trivela.com.br/brasil/lado-b-de-brasil/a-inter-de-limeira-amargou-14-anos-de-penurias-mas-voltou-a-elite-do-paulistao-em-pura-apoteose/",
+    "https://www.dgabc.com.br/Noticia/4365620/ramalhao-aposta-em-planejamento-antecipado-para-buscar-acesso-na-serie-a-2",
+    "https://www.gazetaesportiva.com/?p=3718860",
+    "https://www.lance.com.br/todos-esportes/penaltis-campeao-serie-paulista.html",
+    "https://xvpiracicaba.com.br/diretoria-e-conselhos",
+    "https://xvpiracicaba.com.br/estadio",
+    "https://xvpiracicaba.com.br/historia",
+    "https://xvpiracicaba.com.br/mais-xv",
+    "https://xvpiracicaba.com.br/mascote"
+   ]
+  },
+  "bandeirante": {
+   "cidade": "Birigui",
+   "estadio": "Estádio Pedro Marin Berbel",
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.dgabc.com.br/Noticia/4289520/bandeirante-x-ec-sao-bernardo-veja-onde-assistir-e-provaveis-escalacoes"
+   ]
+  },
+  "catanduva": {
+   "cidade": "Catanduva",
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/"
+   ]
+  },
+  "ec-sao-bernardo": {
+   "cidade": "São Bernardo do Campo",
+   "estadio": "Estádio Municipal Giglio Portugal Pichinin (Baetão)",
+   "apelidos": [
+    "Cachorrão",
+    "Alvinegro"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://abcdoabc.com.br/esporte-clube-sao-bernardo-conquista-a-concessao-do-estadio-giglio-portugal-pichinin-ate-2034/",
+    "https://www.dgabc.com.br/Noticia/4178932/ec-sao-bernardo-obtem-concessao-do-baetao-ate-2034",
+    "https://www.dgabc.com.br/Noticia/4282587/ec-sao-bernardo-x-uniao-suzano-onde-assistir-e-provaveis-escalacoes",
+    "https://www.dgabc.com.br/Noticia/4365832/ec-sao-bernardo-mira-acesso-e-aposta-na-continuidade-para-2027"
+   ]
+  },
+  "francana": {
+   "cidade": "Franca",
+   "estadio": "Estádio Municipal Dr. José Lancha Filho (Lanchão)",
+   "fundacao": "12/10/1912",
+   "apelidos": [
+    "Veterana",
+    "Feiticeira"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.al.sp.gov.br/spl/2024/04/Propositura/1000549418_1000689849_Propositura.pdf",
+    "https://www.dgabc.com.br/Noticia/4285193/veja-onde-assistir-e-provaveis-escalacoes-de-francana-x-ec-sao-bernardo",
+    "https://www.gazetaesportiva.com/?p=3499376"
+   ]
+  },
+  "prudente": {
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3767097"
+   ]
+  },
+  "inter-de-bebedouro": {
+   "cidade": "Bebedouro",
+   "estadio": "Estádio Sócrates Stamato",
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://www.al.sp.gov.br/noticia/?id=498383",
+    "https://www.dgabc.com.br/Noticia/4282577/inter-de-bebedouro-x-sao-caetano-onde-assistir-horario-e-escalacoes",
+    "https://www.dgabc.com.br/Noticia/4317286/sao-caetano-empata-com-penapolense-e-tem-adiado-acesso-a-a-3-do-paulista"
+   ]
+  },
+  "itapirense": {
+   "cidade": "Itapira",
+   "estadio": "Estádio Coronel Francisco Vieira",
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.dgabc.com.br/Noticia/4289040/itapirense-x-ec-sao-bernardo-onde-assistir-horarios-e-escalacoes"
+   ]
+  },
+  "paulista-jundiai": {
+   "cidade": "Jundiaí",
+   "estadio": "Estádio Dr. Jayme Cintra",
+   "fundacao": "17/05/1909",
+   "apelidos": [
+    "Galo da Japi",
+    "Galo de Jundiaí"
+   ],
+   "titulos": [
+    [
+     "Copa do Brasil",
+     "2005"
+    ],
+    [
+     "Brasileiro Série C",
+     "2001"
+    ],
+    [
+     "Copa Paulista",
+     "2010"
+    ],
+    [
+     "Copa Paulista",
+     "2011"
+    ],
+    [
+     "Paulistão Segunda Divisão",
+     "2019"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://atarde.com.br/esportes/clube-historico-vira-saf-e-projeta-sonho-de-serie-a-com-r-30-milhoes-1400691",
+    "https://tribunadejundiai.com.br/mais/esportes/e-campeao-paulista-leva-o-titulo-do-campeonato-paulista-da-quarta-divisao/",
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://tribunadejundiai.com.br/mais/esportes/tecnico-do-sao-paulo-levou-paulista-ao-seu-ultimo-titulo-conquistado-em-jundiai/",
+    "https://www.al.sp.gov.br/noticia/?id=282586",
+    "https://www.al.sp.gov.br/noticia/?id=498383",
+    "https://www.gazetaesportiva.com/times/paulista-de-jundiai/",
+    "https://www.goal.com/br/not%C3%ADcias/brasileiro-serie-c-terceira-campeoes-titulos/blt1b96ed17d4ed5843",
+    "https://www.lance.com.br/lancepedia/copa-do-brasil-2005-paulista-fluminense.html",
+    "https://www.umdoisesportes.com.br/campeonatos/serie-c/todos-os-campeoes-da-serie-c-a-lista-completa-da-terceira-divisao-do-brasileirao/"
+   ]
+  },
+  "penapolense": {
+   "cidade": "Penápolis",
+   "estadio": "Estádio Tenente Carriço",
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4316144/sao-caetano-x-penapolense-saiba-onde-assistir-horario-e-escalacoes",
+    "https://www.dgabc.com.br/Noticia/4317286/sao-caetano-empata-com-penapolense-e-tem-adiado-acesso-a-a-3-do-paulista"
+   ]
+  },
+  "rio-branco": {
+   "cidade": "Americana",
+   "estadio": "Estádio Décio Vitta",
+   "apelidos": [
+    "Tigre"
+   ],
+   "presidente": "Cláudio Bonaldo",
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.al.sp.gov.br/noticia/?id=336927",
+    "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/regiao-de-campinas/2026/10/327558-crise-ameaca-o-futuro-do-rio-branco-no-futebol-paulista.html",
+    "https://www.dgabc.com.br/Noticia/4351546/sao-caetano-pode-herdar-vaga-na-serie-a-3-com-possivel-fusao-entre-dois-clubes"
+   ]
+  },
+  "rioclaro": {
+   "cidade": "Rio Claro",
+   "apelidos": [
+    "Galo Azul"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.al.sp.gov.br/noticia/?id=498383",
+    "https://www.dgabc.com.br/Noticia/4287693/rio-claro-x-ec-sao-bernardo-pela-a-3-veja-onde-assistir-e-provaveis-escalacoes"
+   ]
+  },
+  "rio-preto": {
+   "cidade": "São José do Rio Preto",
+   "estadio": "Estádio Anísio Haddad",
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://abcdoabc.com.br/portuguesa-santista-rio-preto-retorno-seire-a2/",
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.gazetaesportiva.com/?p=3769598"
+   ]
+  },
+  "saobento": {
+   "cidade": "Sorocaba",
+   "estadio": "Estádio Walter Ribeiro",
+   "apelidos": [
+    "Azulão",
+    "Bentão"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://trivela.com.br/brasil/lado-b-de-brasil/da-a-3-paulista-a-serie-b-em-cinco-anos-o-sao-bento-honra-sua-tradicao-e-orgulha-o-interior/",
+    "https://www.dgabc.com.br/Noticia/4289011/santo-andre-x-sao-bento-pela-a-2-veja-onde-assistir-e-as-provaveis-escalacoes",
+    "https://www.gazetaesportiva.com/?p=3767097"
+   ]
+  },
+  "uniao-barbarense": {
+   "cidade": "Santa Bárbara d'Oeste",
+   "estadio": "Estádio Antônio Lins Ribeiro Guimarães",
+   "apelidos": [
+    "Alvinegro da Rua 13 de Maio"
+   ],
+   "titulos": [
+    [
+     "Brasileiro Série C",
+     "2004"
+    ],
+    [
+     "Paulistão A2",
+     "1998"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://atarde.com.br/esportes/justica-acha-so-r-30-mil-em-conta-de-clube-campeao-nacional-1402464",
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.camarasantabarbara.sp.gov.br/Arquivos/Downloads/1760640078488-275.pdf",
+    "https://www.goal.com/br/not%C3%ADcias/brasileiro-serie-c-terceira-campeoes-titulos/blt1b96ed17d4ed5843",
+    "https://www.umdoisesportes.com.br/campeonatos/serie-c/todos-os-campeoes-da-serie-c-a-lista-completa-da-terceira-divisao-do-brasileirao/"
+   ]
+  },
+  "uniao-sao-joao": {
+   "cidade": "Araras",
+   "estadio": "Estádio Dr. Hermínio Ometto",
+   "fundacao": "14/01/1981",
+   "titulos": [
+    [
+     "Brasileiro Série C",
+     "1988"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "presidente": "José Mário Pavan",
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.abcdoabc.com.br/uniao-sao-joao-renasce-com-primeiro-acesso-em-decadas-e-sonha-com-elite/",
+    "https://www.dgabc.com.br/Noticia/4290956/uniao-sao-joao-x-ec-sao-bernardo-pela-a-3-veja-onde-assistir-e-as-provaveis-escalacoes",
+    "https://www.goal.com/br/not%C3%ADcias/brasileiro-serie-c-terceira-campeoes-titulos/blt1b96ed17d4ed5843",
+    "https://www.umdoisesportes.com.br/campeonatos/serie-c/todos-os-campeoes-da-serie-c-a-lista-completa-da-terceira-divisao-do-brasileirao/"
+   ]
+  },
+  "xv-de-jau": {
+   "cidade": "Jaú",
+   "estadio": "Estádio Zezinho Magalhães",
+   "apelidos": [
+    "Galo da Comarca"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A3"
+   ],
+   "fontes": [
+    "https://tribunadejundiai.com.br/mais/esportes/paulistao-serie-a3-2026-datas-formato-e-clubes-confirmados/",
+    "https://www.dgabc.com.br/Noticia/4283197/xv-de-jau-x-ec-sao-bernardo-escalacoes-onde-assistir-e-horario",
+    "https://www.gazetaesportiva.com/campeonatos/paulista-segunda-divisao/excursao-do-xv-pelo-japao-teve-eliminacao-na-moeda-e-sustos-em-barco/"
+   ]
+  },
+  "america-de-rio-preto": {
+   "cidade": "São José do Rio Preto",
+   "estadio": "Estádio Benedito Teixeira (Teixeirão)",
+   "apelidos": [
+    "Mecão"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "presidente": "Marcos Cezar Vilela",
+   "fontes": [
+    "https://atarde.com.br/esportes/clube-tradicional-renasce-apos-25-anos-conquista-acesso-e-mira-elite-1399675",
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://trivela.com.br/brasil/teixeira-abandonado-america-rio-preto/",
+    "https://www.gazetaesportiva.com/?p=880871"
+   ]
+  },
+  "barretos": {
+   "cidade": "Barretos",
+   "apelidos": [
+    "Touro do Vale"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf",
+    "https://www.dgabc.com.br/Noticia/4290938/sao-caetano-x-barretos-pela-a-4-veja-onde-assistir-e-as-provaveis-escalacoes"
+   ]
+  },
+  "colorado-caieiras": {
+   "cidade": "Caieiras",
+   "estadio": "Estádio Carlos Ferracini",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf",
+    "https://www.dgabc.com.br/Noticia/4291608/colorado-caieiras-x-sao-caetano-pela-a-4-veja-onde-assistir-e-as-provaveis-escalacoes"
+   ]
+  },
+  "comercial": {
+   "cidade": "Ribeirão Preto",
+   "estadio": "Estádio Palma Travassos",
+   "apelidos": [
+    "Leão do Norte",
+    "Bafo"
+   ],
+   "rival": "Botafogo-SP",
+   "classico": "Come-Fogo",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://atarde.com.br/esportes/clube-tradicional-pode-ganhar-saf-de-r-300-milhoes-e-mira-a-elite-1402701",
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf",
+    "https://istoe.com.br/comercial-e-noroeste-sao-finalistas-e-garantem-acesso-ao-paulista-a3-de-2023",
+    "https://jornaldebrasilia.com.br/futebol/come-fogo-se-encontra-na-elite-apos-25-anos-para-evitar-paredao/",
+    "https://www.dgabc.com.br/Noticia/4288636/de-virada-sao-caetano-supera-comercial-em-casa",
+    "https://www.gazetaesportiva.com/?p=2176081",
+    "https://www.gazetaesportiva.com/campeonatos/paulista-a3/noroeste-busca-empate-contra-o-comercial-e-conquista-o-paulistao-a3/"
+   ]
+  },
+  "desportivo-brasil": {
+   "cidade": "Porto Feliz",
+   "estadio": "Estádio Municipal Ernesto Rocco",
+   "apelidos": [
+    "Dragão Chinês"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://www.dgabc.com.br/Noticia/4282046/ec-sao-bernardo-nao-toma-conhecimento-e-goleia-o-desportivo-brasil"
+   ]
+  },
+  "ecus": {
+   "cidade": "Suzano",
+   "apelidos": [
+    "Leão do Colorado",
+    "Ecus"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "presidente": "William Silva",
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf",
+    "https://www.dgabc.com.br/Noticia/4286959/veja-onde-assistir-e-provaveis-escalacoes-de-sao-caetano-x-ecus",
+    "https://www.dgabc.com.br/Noticia/4287195/sao-caetano-tenta-mas-decepciona-ao-empatar-sem-gols-com-o-ecus",
+    "https://www.youtube.com/watch?v=dGZAevJoz5E"
+   ]
+  },
+  "gremio-saocarlense": {
+   "cidade": "São Carlos",
+   "estadio": "Estádio Professor Luís Augusto de Oliveira",
+   "apelidos": [
+    "Lobo da Central"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf",
+    "https://www.dgabc.com.br/Noticia/4292179/gremio-sao-carlense-x-sao-caetano-pela-a-4-veja-onde-assistir-e-as-provaveis-escalacoes"
+   ]
+  },
+  "independente": {
+   "cidade": "Limeira",
+   "estadio": "Estádio Comendador Agostinho Prada",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://atarde.com.br/esportes/clube-tradicional-renasce-apos-25-anos-conquista-acesso-e-mira-elite-1399675",
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf"
+   ]
+  },
+  "jabaquara": {
+   "cidade": "Santos",
+   "fundacao": "15/11/1914",
+   "apelidos": [
+    "Jabuca",
+    "Leão da Caneleira"
+   ],
+   "rival": "Portuguesa Santista",
+   "classico": "Clássico das Colônias",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "presidente": "José Dominguez Fernandez (Pepe)",
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://dnbrasil.dn.pt/clssico-centenrio-mexe-com-rivalidade-portugal-x-espanha-no-brasil",
+    "https://www.tribunadosertao.com.br/esportes/2026/07/06/934678-classico-centenario-movimenta-rivalidade-portugal-x-espanha-no-brasil"
+   ]
+  },
+  "jacarei": {
+   "cidade": "Jacareí",
+   "estadio": "Estádio Stravos Papadopoulos",
+   "apelidos": [
+    "Jacaré"
+   ],
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://www.dgabc.com.br/Noticia/4285069/jacarei-x-sao-caetano-pela-a-4-veja-onde-assistir-e-provaveis-escalacoes",
+    "https://www.dgabc.com.br/Noticia/4294158/jacarei-x-sao-caetano-onde-assistir-horarios-e-provaveis-escalacoes"
+   ]
+  },
+  "lemense": {
+   "cidade": "Leme",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "instagram": "https://www.instagram.com/ec.lemense/",
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://tudosobrepaulista.com.br/materia/danilo-sacramento-assume-o-lemense-e-projeta-2027-futebol-tem-que-ser-bem-jogado/",
+    "https://www.instagram.com/ec.lemense/"
+   ]
+  },
+  "saocaetano": {
+   "cidade": "São Caetano do Sul",
+   "estadio": "Estádio Municipal Anacleto Campanella",
+   "fundacao": "04/12/1989",
+   "apelidos": [
+    "Azulão",
+    "Pequeno Gigante",
+    "Gigante do Grande ABC"
+   ],
+   "titulos": [
+    [
+     "Campeonato Paulista",
+     "2004"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2017"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2020"
+    ],
+    [
+     "Copa Paulista",
+     "2019"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://abcdoabc.com.br/ha-15-anos-sao-caetano-era-campeao-do-campeonato-paulista/",
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://istoe.com.br/sao-caetano-empata-com-xv-fatura-copa-paulista-pela-1a-vez-e-tem-vaga-na-serie-d",
+    "https://www.dgabc.com.br/Noticia/3198433/sao-caetano-empata-em-casa-e-fatura-titulo-da-copa-paulista",
+    "https://www.dgabc.com.br/Noticia/4064383/sao-caetano-vai-da-gloria-ao-ostracismo-em-duas-decadas",
+    "https://www.dgabc.com.br/Noticia/4248088/anacleto-campanella-celebra-70-anos-de-tradicao-no-futebol",
+    "https://www.dgabc.com.br/Noticia/4272882/em-aniversario-do-clube-azulao-apresenta-novo-elenco-para-2026",
+    "https://www.dgabc.com.br/Noticia/4351546/sao-caetano-pode-herdar-vaga-na-serie-a-3-com-possivel-fusao-entre-dois-clubes",
+    "https://www.gazetaesportiva.com/?p=2924088",
+    "https://www.gazetaesportiva.com/campeonatos/paulista-a2/sao-caetano-bate-o-bragantino-e-e-o-campeao-da-serie-a2-do-paulista/"
+   ]
+  },
+  "tanabi": {
+   "cidade": "Tanabi",
+   "estadio": "Estádio Prefeito Alberto Victolo",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://www.dgabc.com.br/Noticia/4290588/tanabi-x-sao-caetano-pela-a-4-veja-onde-assistir-e-as-provaveis-escalacoes",
+    "https://www.dgabc.com.br/Noticia/4290816/com-gol-nos-acrescimos-sao-caetano-supera-o-tanabi"
+   ]
+  },
+  "taquaritinga": {
+   "cidade": "Taquaritinga",
+   "estadio": "Estádio Adail Nunes da Silva (Taquarão)",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf",
+    "https://www.dgabc.com.br/Noticia/4289037/veja-onde-assistir-e-escalacoes-de-taquaritinga-x-sao-caetano",
+    "https://www.lance.com.br/futebol-nacional/construido-pelo-povo-para-salvar-taquaritinga-estadio-virou-maldicao.html"
+   ]
+  },
+  "uniao-suzano": {
+   "cidade": "Suzano",
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "instagram": "https://www.instagram.com/uniaosuzano/",
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://futebolpaulista.com.br/Repositorio/Noticia/32136/1347_2.pdf",
+    "https://www.instagram.com/uniaosuzano/"
+   ]
+  },
+  "vocem": {
+   "campeonatos_2027": [
+    "Paulistão A4"
+   ],
+   "instagram": "https://www.instagram.com/vocemassis/",
+   "fontes": [
+    "https://correiodoestado.com.br/variedades/?p=48627",
+    "https://www.dgabc.com.br/Noticia/4292853/sao-caetano-x-vocem-veja-onde-assistir-e-as-provaveis-escalacoes",
+    "https://www.instagram.com/vocemassis/"
+   ]
+  }
+ }
 }
