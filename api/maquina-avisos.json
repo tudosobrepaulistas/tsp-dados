@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-22T17:05-03:00",
+ "gerado": "2026-11-22T20:28-03:00",
  "avisos": [
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-22T10:32-03:00",
-   "motivo": "Cobertura 6h (22/11): única notícia nova é o título do sub-13 na Spring Soccer Fest (site oficial, 21/11), sem 2ª fonte; foto do site não abriu daqui",
-   "sugestao": "Sub-13 do Novorizontino campeão da Spring Soccer Fest em Bebedouro (2x0 no TR Sports na final, pênaltis 5x4 no Mirassol na semi): https://www.gremionovorizontino.com.br/2026/11/21/sub-13-do-novorizontino-e-campea-da-spring-soccer-fest-em-bebedouro/"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-22T10:32-03:00",
-   "motivo": "Cobertura 6h (22/11): nada novo confirmado em 2 fontes nas últimas 24h (Alef Manga, Alex Alves e Cauan já publicados)",
-   "sugestao": "Acompanhar DGABC/ABC do ABC e redes do São Bernardo FC para anúncios do elenco de 2027"
-  },
   {
    "clube": "pontepreta",
    "nome": "Ponte Preta",
@@ -420,6 +406,20 @@
    "quando": "2026-11-22T17:05-03:00",
    "motivo": "Jornal Cidade sem matéria do clube em novembro.",
    "sugestao": "Técnico (Cléber Gaúcho), novo diretor de futebol e reforços para a A2."
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-22T20:28-03:00",
+   "motivo": "Cobertura 6h (22/11, 20h): sem fato novo das últimas 24h em 2 fontes. Só o Jornal Opinião (22/11) resumindo saídas de emprestados, que o site já cobriu (Lucas Cunha, David da Hora, Karl). Palacios: fontes divergem (devolvido x avaliado para ficar).",
+   "sugestao": "Redator: confirmar com o ge Campinas e o site da Ponte se Sérgio Palacios e Di Mauro ficam para a A2 2027 e quem são os primeiros dos ~18 reforços citados por Eberlin; reapresentação em 7/12."
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-22T20:28-03:00",
+   "motivo": "Cobertura 6h (22/11, 20h): sem notícia nova das últimas 24h confirmada em 2 fontes; site oficial não abriu e as matérias achadas (Léo Naldi, Montemor, aeroporto) já estão no site.",
+   "sugestao": "Redator: conferir no site/Instagram do Novorizontino anúncios de renovação ou reforço para a Série A 2027 e data de reapresentação do elenco."
   }
  ]
 }
