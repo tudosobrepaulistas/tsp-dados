@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T12:25:00-03:00",
+ "gerado": "2026-11-22T12:52:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -560,9 +560,9 @@
      "posicao": "Goleiro",
      "numero": 18,
      "numeros": {
-      "jogos": 3,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 270,
+      "minutos": 450,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -591,9 +591,9 @@
      "posicao": "Zagueiro",
      "numero": 2,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 136,
+      "minutos": 226,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -605,7 +605,18 @@
     {
      "nome": "Eduardo Santos",
      "posicao": "Zagueiro",
-     "numero": 3
+     "numero": 3,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Alix Vinícius",
@@ -628,9 +639,9 @@
      "posicao": "Zagueiro",
      "numero": 14,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 1,
-      "minutos": 134,
+      "minutos": 224,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -644,9 +655,9 @@
      "posicao": "Zagueiro",
      "numero": 16,
      "numeros": {
-      "jogos": 6,
-      "gols": 1,
-      "minutos": 540,
+      "jogos": 8,
+      "gols": 2,
+      "minutos": 720,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -660,9 +671,9 @@
      "posicao": "Lateral",
      "numero": 23,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 68,
+      "minutos": 136,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -676,9 +687,9 @@
      "posicao": "Lateral",
      "numero": 34,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 149,
+      "minutos": 239,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -697,9 +708,9 @@
      "posicao": "Lateral",
      "numero": 29,
      "numeros": {
-      "jogos": 7,
+      "jogos": 9,
       "gols": 1,
-      "minutos": 630,
+      "minutos": 810,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -718,9 +729,9 @@
      "posicao": "Volante",
      "numero": 5,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 136,
+      "minutos": 204,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -732,16 +743,27 @@
     {
      "nome": "Gabriel Girotto",
      "posicao": "Volante",
-     "numero": 6
+     "numero": 6,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Eric Ramires",
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 4,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 235,
+      "minutos": 393,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -769,7 +791,18 @@
     {
      "nome": "Rodriguinho",
      "posicao": "Meia",
-     "numero": 20
+     "numero": 20,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Red Bull Bragantino",
+      "clubes": [
+       "Red Bull Bragantino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Gustavo Neves",
@@ -792,9 +825,9 @@
      "posicao": "Volante",
      "numero": 35,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 1,
-      "minutos": 248,
+      "minutos": 270,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -824,9 +857,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 3,
-      "minutos": 131,
+      "minutos": 199,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -840,9 +873,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 161,
+      "jogos": 7,
+      "gols": 1,
+      "minutos": 341,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -861,9 +894,9 @@
      "posicao": "Atacante",
      "numero": 21,
      "numeros": {
-      "jogos": 6,
-      "gols": 0,
-      "minutos": 540,
+      "jogos": 8,
+      "gols": 1,
+      "minutos": 698,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -958,9 +991,9 @@
      "nome": "Kauê",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 1,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 270,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -988,9 +1021,9 @@
      "nome": "Gabriel Paulista",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 496,
+      "minutos": 586,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1003,9 +1036,9 @@
      "nome": "Gustavo Henrique",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 9,
-      "gols": 2,
-      "minutos": 810,
+      "jogos": 11,
+      "gols": 3,
+      "minutos": 990,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1031,7 +1064,18 @@
     },
     {
      "nome": "João Pedro",
-     "posicao": "Zagueiro"
+     "posicao": "Zagueiro",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Corinthians",
+      "clubes": [
+       "Corinthians"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Fabrizio Angileri",
@@ -1071,9 +1115,9 @@
      "nome": "Matheuzinho",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 720,
+      "minutos": 810,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1086,9 +1130,9 @@
      "nome": "Pedro Milans",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 112,
+      "minutos": 180,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1101,9 +1145,9 @@
      "nome": "Matheus Bidu",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 10,
-      "gols": 2,
-      "minutos": 755,
+      "jogos": 11,
+      "gols": 3,
+      "minutos": 845,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1131,9 +1175,9 @@
      "nome": "Allan",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 4,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 270,
+      "minutos": 428,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1161,9 +1205,9 @@
      "nome": "André Carrillo",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 1,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 180,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1176,9 +1220,9 @@
      "nome": "Breno Bidon",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 10,
+      "jogos": 12,
       "gols": 0,
-      "minutos": 696,
+      "minutos": 854,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1240,9 +1284,9 @@
      "nome": "Matheus Pereira",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 5,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 99,
+      "minutos": 143,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1255,9 +1299,9 @@
      "nome": "Raniele",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 4,
-      "gols": 0,
-      "minutos": 292,
+      "jogos": 5,
+      "gols": 1,
+      "minutos": 382,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1270,9 +1314,9 @@
      "nome": "Rodrigo Garro",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 310,
+      "minutos": 378,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1285,9 +1329,9 @@
      "nome": "Gui Negão",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 4,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 202,
+      "minutos": 246,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1300,9 +1344,9 @@
      "nome": "Kaio César",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 7,
+      "jogos": 9,
       "gols": 2,
-      "minutos": 545,
+      "minutos": 725,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1364,9 +1408,9 @@
      "nome": "Pedro Raul",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 6,
+      "jogos": 8,
       "gols": 1,
-      "minutos": 246,
+      "minutos": 336,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1436,9 +1480,9 @@
      "posicao": "Goleiro",
      "numero": 22,
      "numeros": {
-      "jogos": 12,
+      "jogos": 13,
       "gols": 0,
-      "minutos": 1080,
+      "minutos": 1170,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1468,9 +1512,9 @@
      "posicao": "Goleiro",
      "numero": 23,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 270,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1510,9 +1554,9 @@
      "posicao": "Lateral",
      "numero": 32,
      "numeros": {
-      "jogos": 10,
+      "jogos": 12,
       "gols": 3,
-      "minutos": 878,
+      "minutos": 1058,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1542,9 +1586,9 @@
      "posicao": "Lateral",
      "numero": 6,
      "numeros": {
-      "jogos": 13,
+      "jogos": 15,
       "gols": 2,
-      "minutos": 1148,
+      "minutos": 1328,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1558,9 +1602,9 @@
      "posicao": "Zagueiro",
      "numero": 44,
      "numeros": {
-      "jogos": 2,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 180,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1578,9 +1622,9 @@
      "posicao": "Zagueiro",
      "numero": 3,
      "numeros": {
-      "jogos": 9,
+      "jogos": 11,
       "gols": 0,
-      "minutos": 742,
+      "minutos": 922,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1610,10 +1654,10 @@
      "posicao": "Zagueiro",
      "numero": 2,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 428,
-      "minutos_estimados": false,
+      "minutos": 450,
+      "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
        "Mirassol"
@@ -1626,9 +1670,9 @@
      "posicao": "Zagueiro",
      "numero": 34,
      "numeros": {
-      "jogos": 15,
-      "gols": 2,
-      "minutos": 1334,
+      "jogos": 17,
+      "gols": 3,
+      "minutos": 1514,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1642,10 +1686,10 @@
      "posicao": "Meia",
      "numero": 80,
      "numeros": {
-      "jogos": 1,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 68,
-      "minutos_estimados": false,
+      "minutos": 158,
+      "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
        "Mirassol"
@@ -1657,10 +1701,10 @@
      "nome": "Gustavo Cazonatti",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 13,
-      "minutos_estimados": false,
+      "minutos": 35,
+      "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
        "Mirassol"
@@ -1673,10 +1717,10 @@
      "posicao": "Meia",
      "numero": 5,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 85,
-      "minutos_estimados": false,
+      "minutos": 107,
+      "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
        "Mirassol"
@@ -1705,9 +1749,9 @@
      "posicao": "Meia",
      "numero": 25,
      "numeros": {
-      "jogos": 12,
+      "jogos": 13,
       "gols": 0,
-      "minutos": 836,
+      "minutos": 926,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1721,9 +1765,9 @@
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 11,
+      "jogos": 12,
       "gols": 1,
-      "minutos": 641,
+      "minutos": 663,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1737,9 +1781,9 @@
      "posicao": "Meia",
      "numero": 33,
      "numeros": {
-      "jogos": 13,
-      "gols": 3,
-      "minutos": 821,
+      "jogos": 15,
+      "gols": 4,
+      "minutos": 957,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1753,9 +1797,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 11,
+      "jogos": 12,
       "gols": 1,
-      "minutos": 608,
+      "minutos": 676,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1769,9 +1813,9 @@
      "posicao": "Meia",
      "numero": 10,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 161,
+      "minutos": 183,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1806,9 +1850,9 @@
      "posicao": "Atacante",
      "numero": 17,
      "numeros": {
-      "jogos": 3,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 66,
+      "minutos": 110,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1822,9 +1866,9 @@
      "posicao": "Atacante",
      "numero": 30,
      "numeros": {
-      "jogos": 5,
-      "gols": 0,
-      "minutos": 406,
+      "jogos": 7,
+      "gols": 2,
+      "minutos": 564,
       "minutos_estimados": false,
       "clube": "Mirassol",
       "clubes": [
@@ -1924,7 +1968,7 @@
      "numero": 95,
      "numeros": {
       "jogos": 8,
-      "gols": 0,
+      "gols": 1,
       "minutos": 377,
       "minutos_estimados": true,
       "clube": "Mirassol",
@@ -1939,9 +1983,9 @@
      "posicao": "Atacante",
      "numero": 96,
      "numeros": {
-      "jogos": 11,
+      "jogos": 12,
       "gols": 0,
-      "minutos": 407,
+      "minutos": 429,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -1971,9 +2015,9 @@
      "posicao": "Atacante",
      "numero": 77,
      "numeros": {
-      "jogos": 14,
+      "jogos": 16,
       "gols": 1,
-      "minutos": 858,
+      "minutos": 994,
       "minutos_estimados": true,
       "clube": "Mirassol",
       "clubes": [
@@ -2542,7 +2586,7 @@
      "numero": 26,
      "numeros": {
       "jogos": 8,
-      "gols": 0,
+      "gols": 1,
       "minutos": 720,
       "minutos_estimados": false,
       "clube": "Palmeiras",
@@ -2648,7 +2692,7 @@
      "numero": 7,
      "numeros": {
       "jogos": 4,
-      "gols": 1,
+      "gols": 2,
       "minutos": 88,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2712,7 +2756,7 @@
      "numero": 18,
      "numeros": {
       "jogos": 9,
-      "gols": 4,
+      "gols": 6,
       "minutos": 494,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2728,7 +2772,7 @@
      "numero": 11,
      "numeros": {
       "jogos": 9,
-      "gols": 3,
+      "gols": 4,
       "minutos": 586,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2765,7 +2809,7 @@
      "numero": 19,
      "numeros": {
       "jogos": 7,
-      "gols": 1,
+      "gols": 2,
       "minutos": 254,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2781,7 +2825,7 @@
      "numero": 9,
      "numeros": {
       "jogos": 9,
-      "gols": 1,
+      "gols": 3,
       "minutos": 504,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2865,9 +2909,9 @@
      "posicao": "Volante",
      "numero": 8,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 292,
+      "minutos": 314,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2881,9 +2925,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 7,
-      "gols": 0,
-      "minutos": 428,
+      "jogos": 8,
+      "gols": 1,
+      "minutos": 456,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -2897,9 +2941,9 @@
      "posicao": "Atacante",
      "numero": 10,
      "numeros": {
-      "jogos": 6,
-      "gols": 1,
-      "minutos": 435,
+      "jogos": 7,
+      "gols": 2,
+      "minutos": 525,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2929,9 +2973,9 @@
      "posicao": "Lateral",
      "numero": 12,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 248,
+      "minutos": 338,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3009,9 +3053,9 @@
      "posicao": "Lateral",
      "numero": 19,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 270,
+      "minutos": 338,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3046,9 +3090,9 @@
      "posicao": "Zagueiro",
      "numero": 22,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 68,
+      "minutos": 158,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3062,9 +3106,9 @@
      "posicao": "Goleiro",
      "numero": 23,
      "numeros": {
-      "jogos": 10,
+      "jogos": 11,
       "gols": 0,
-      "minutos": 900,
+      "minutos": 990,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3099,9 +3143,9 @@
      "posicao": "Meia",
      "numero": 29,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 365,
+      "minutos": 433,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3152,9 +3196,9 @@
      "posicao": "Zagueiro",
      "numero": 35,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 428,
+      "minutos": 518,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3168,9 +3212,9 @@
      "posicao": "Atacante",
      "numero": 37,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 406,
+      "minutos": 496,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3189,9 +3233,9 @@
      "posicao": "Atacante",
      "numero": 43,
      "numeros": {
-      "jogos": 1,
-      "gols": 0,
-      "minutos": 22,
+      "jogos": 2,
+      "gols": 1,
+      "minutos": 84,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3219,7 +3263,18 @@
     {
      "nome": "Pedro Ferreira",
      "posicao": "Meia",
-     "numero": 46
+     "numero": 46,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "São Paulo",
+      "clubes": [
+       "São Paulo"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Djhordney",
@@ -3305,9 +3360,9 @@
      "posicao": "Meia",
      "numero": 80,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 1,
-      "minutos": 164,
+      "minutos": 232,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3321,9 +3376,9 @@
      "posicao": "Meia",
      "numero": 94,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 423,
+      "minutos": 491,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -9848,7 +9903,12 @@
     {
      "nome": "Arthur Proença",
      "posicao": "Preparador físico",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-arthur-proenca-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9872,7 +9932,12 @@
     {
      "nome": "Nathan Girotto",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-nathan-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9897,7 +9962,12 @@
     {
      "nome": "Matheus Carvalho",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-matheus-carvalho-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9926,7 +9996,12 @@
     {
      "nome": "Mateus Brandão",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-mateus-brandao-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9956,7 +10031,12 @@
     {
      "nome": "Marcos Paulo",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-marcos-paulo-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9989,7 +10069,12 @@
     {
      "nome": "Lucas Martins",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-lucas-martins-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10014,7 +10099,12 @@
     {
      "nome": "Léo Lopes",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-leo-lopes-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10044,7 +10134,12 @@
      "nome": "Fábio Bahia",
      "posicao": "Volante",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-fabio-bahia-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -10060,7 +10155,12 @@
     {
      "nome": "Deivid",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-deivid-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10094,7 +10194,12 @@
     {
      "nome": "Arthur Silveira",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-arthur-silveira-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10123,7 +10228,12 @@
     {
      "nome": "Arthur Querobino",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-arthur-querobino-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10155,7 +10265,12 @@
     {
      "nome": "Alef Leite",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-alef-leite-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10182,7 +10297,12 @@
     {
      "nome": "Rodrigo Rocha",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-rodrigo-rocha-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10207,7 +10327,12 @@
     {
      "nome": "Rodrigo Augusto",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-rodrigo-augusto-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10237,7 +10362,12 @@
     {
      "nome": "Pedro Paraná",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-pedro-parana-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10262,7 +10392,12 @@
     {
      "nome": "Nauhan",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-nauhan-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10296,7 +10431,12 @@
     {
      "nome": "Joel",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-joel-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10322,7 +10462,12 @@
     {
      "nome": "Iruan",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-iruan-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10351,7 +10496,12 @@
     {
      "nome": "Gabriel Dubilde",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-gabriel-dubilde-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10382,7 +10532,12 @@
     {
      "nome": "Davi Moura",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-davi-moura-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10407,7 +10562,12 @@
     {
      "nome": "Cassius",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-21-cassius-sao-bento.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10434,7 +10594,12 @@
     {
      "nome": "Marcelo Cordeiro",
      "posicao": "Treinador",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/comissao-sao-bento-marcelo-cordeiro.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecsaobento1913/",
+      "ia": true
+     },
      "comissao": true,
      "nascimento": "",
      "ficha": {
