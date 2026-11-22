@@ -5437,6 +5437,270 @@
    }
   },
   {
+   "id": 91000513,
+   "data": "2026-08-15T21:00:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Morumbis",
+   "cidade": "São Paulo",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/sao-paulo-x-coritiba-saf/832112",
+    "https://agenciabrasil.ebc.com.br/en/node/1699910"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00"
+  },
+  {
+   "id": 91000514,
+   "data": "2026-08-16T12:00:00-03:00",
+   "casa": "chapecoense",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 3,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.oliberal.com/esportes/chapecoense-busca-empate-tres-vezes-diante-do-bahia-em-jogo-de-seis-gols-no-brasileirao-1.1157626"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000517,
+   "data": "2026-08-16T12:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 1,
+   "gols_fora": 5,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Carrascal",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Luiz Araújo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Samuel Lino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "João Victor",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.dgabc.com.br/Noticia/4341564/rodada-ajuda-e-flamengo-volta-a-depender-apenas-de-si-no-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000518,
+   "data": "2026-08-16T12:00:00-03:00",
+   "casa": "vitoria",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheuzinho",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.dgabc.com.br/Noticia/4341564/rodada-ajuda-e-flamengo-volta-a-depender-apenas-de-si-no-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000519,
+   "data": "2026-08-16T12:00:00-03:00",
+   "casa": "corinthians",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Bruno Rodrigues",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Henrique",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Wanderson",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.dgabc.com.br/Noticia/4341564/rodada-ajuda-e-flamengo-volta-a-depender-apenas-de-si-no-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000515,
+   "data": "2026-08-16T16:00:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/atletico-mineiro-x-gremio/832115",
+    "https://agenciabrasil.ebc.com.br/en/node/1699910"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00"
+  },
+  {
+   "id": 91000516,
+   "data": "2026-08-16T16:00:00-03:00",
+   "casa": "vasco",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "São Januário",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/vasco-da-gama-saf-x-santos-fc/832111",
+    "https://agenciabrasil.ebc.com.br/en/node/1699910"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00"
+  },
+  {
+   "id": 91000520,
+   "data": "2026-08-17T20:00:00-03:00",
+   "casa": "internacional",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Carbonero",
+     "minuto": "2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vitor Bueno",
+     "minuto": "90+4",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/internacional-x-remo/832116",
+    "https://www.opovo.com.br/esportes/2026/08/17/remo-empata-no-ultimo-lance-mas-inter-deixa-a-zona-de-rebaixamento.html"
+   ],
+   "atualizado": "2026-11-22T12:29:00-03:00"
+  },
+  {
    "id": 91000480,
    "data": "2026-08-22T12:00:00-03:00",
    "casa": "fluminense",

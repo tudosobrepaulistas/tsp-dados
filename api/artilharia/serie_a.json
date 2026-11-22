@@ -9,12 +9,18 @@
   "jogador": "Samuel Lino",
   "time": "Flamengo",
   "time_id": 900001,
-  "gols": 8
+  "gols": 9
  },
  {
   "jogador": "Gabigol",
   "time": "Santos",
   "time_id": 900008,
+  "gols": 7
+ },
+ {
+  "jogador": "Pedro",
+  "time": "Flamengo",
+  "time_id": 900001,
   "gols": 7
  },
  {
@@ -54,10 +60,10 @@
   "gols": 5
  },
  {
-  "jogador": "Pedro",
+  "jogador": "Carrascal",
   "time": "Flamengo",
   "time_id": 900001,
-  "gols": 5
+  "gols": 4
  },
  {
   "jogador": "Gabriel Taliari",
@@ -78,6 +84,12 @@
   "gols": 4
  },
  {
+  "jogador": "Vitor Bueno",
+  "time": "Remo",
+  "time_id": 900019,
+  "gols": 4
+ },
+ {
   "jogador": "Alan Patrick",
   "time": "Internacional",
   "time_id": 900016,
@@ -93,12 +105,6 @@
   "jogador": "Bruno Duarte",
   "time": "Vasco",
   "time_id": 900013,
-  "gols": 3
- },
- {
-  "jogador": "Carrascal",
-  "time": "Flamengo",
-  "time_id": 900001,
   "gols": 3
  },
  {
@@ -192,12 +198,6 @@
   "gols": 3
  },
  {
-  "jogador": "Vitor Bueno",
-  "time": "Remo",
-  "time_id": 900019,
-  "gols": 3
- },
- {
   "jogador": "Vitor Roque",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -234,6 +234,12 @@
   "gols": 2
  },
  {
+  "jogador": "Bruno Rodrigues",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 2
+ },
+ {
   "jogador": "Bruno Santos",
   "time": "Mirassol",
   "time_id": 900015,
@@ -246,6 +252,12 @@
   "gols": 2
  },
  {
+  "jogador": "Carbonero",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 2
+ },
+ {
   "jogador": "Christian Oliva",
   "time": "Santos",
   "time_id": 900008,
@@ -255,6 +267,12 @@
   "jogador": "Erick",
   "time": "Bahia",
   "time_id": 900007,
+  "gols": 2
+ },
+ {
+  "jogador": "Gustavo Henrique",
+  "time": "Corinthians",
+  "time_id": 900018,
   "gols": 2
  },
  {
@@ -282,6 +300,12 @@
   "gols": 2
  },
  {
+  "jogador": "João Victor",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 2
+ },
+ {
   "jogador": "Juninho",
   "time": "Internacional",
   "time_id": 900016,
@@ -297,6 +321,12 @@
   "jogador": "Kauan",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 2
+ },
+ {
+  "jogador": "Luiz Araújo",
+  "time": "Flamengo",
+  "time_id": 900001,
   "gols": 2
  },
  {
@@ -468,12 +498,6 @@
   "gols": 1
  },
  {
-  "jogador": "Bruno Rodrigues",
-  "time": "Cruzeiro",
-  "time_id": 900003,
-  "gols": 1
- },
- {
   "jogador": "Brítez",
   "time": "Vitória",
   "time_id": 900014,
@@ -483,12 +507,6 @@
   "jogador": "Cano",
   "time": "Fluminense",
   "time_id": 900005,
-  "gols": 1
- },
- {
-  "jogador": "Carbonero",
-  "time": "Internacional",
-  "time_id": 900016,
   "gols": 1
  },
  {
@@ -684,12 +702,6 @@
   "gols": 1
  },
  {
-  "jogador": "Gustavo Henrique",
-  "time": "Corinthians",
-  "time_id": 900018,
-  "gols": 1
- },
- {
   "jogador": "Gustavo Marques",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
@@ -741,12 +753,6 @@
   "jogador": "João Pedro",
   "time": "Remo",
   "time_id": 900019,
-  "gols": 1
- },
- {
-  "jogador": "João Victor",
-  "time": "Mirassol",
-  "time_id": 900015,
   "gols": 1
  },
  {
@@ -828,12 +834,6 @@
   "gols": 1
  },
  {
-  "jogador": "Luiz Araújo",
-  "time": "Flamengo",
-  "time_id": 900001,
-  "gols": 1
- },
- {
   "jogador": "Luiz Gustavo",
   "time": "Athletico-PR",
   "time_id": 900004,
@@ -873,6 +873,12 @@
   "jogador": "Matheus Martins",
   "time": "Botafogo",
   "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Matheuzinho",
+  "time": "Vitória",
+  "time_id": 900014,
   "gols": 1
  },
  {
@@ -1059,6 +1065,12 @@
   "jogador": "Walter Clar",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Wanderson",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {

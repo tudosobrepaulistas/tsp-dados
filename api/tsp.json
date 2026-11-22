@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T12:28:00-03:00",
+ "gerado": "2026-11-22T12:29:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -782,6 +782,54 @@
      900002,
      3,
      2
+    ],
+    [
+     900009,
+     900012,
+     1,
+     1
+    ],
+    [
+     900020,
+     900007,
+     3,
+     3
+    ],
+    [
+     900015,
+     900001,
+     1,
+     5
+    ],
+    [
+     900014,
+     900011,
+     1,
+     0
+    ],
+    [
+     900018,
+     900003,
+     1,
+     2
+    ],
+    [
+     900006,
+     900017,
+     3,
+     0
+    ],
+    [
+     900013,
+     900008,
+     0,
+     3
+    ],
+    [
+     900016,
+     900019,
+     1,
+     1
     ],
     [
      900005,
@@ -6607,6 +6655,554 @@
      },
      "player": {
       "name": "Cano"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/sao-paulo-x-coritiba-saf/832112",
+    "https://agenciabrasil.ebc.com.br/en/node/1699910"
+   ],
+   "fixture": {
+    "id": 91000513,
+    "timestamp": 1786838400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.oliberal.com/esportes/chapecoense-busca-empate-tres-vezes-diante-do-bahia-em-jogo-de-seis-gols-no-brasileirao-1.1157626"
+   ],
+   "fixture": {
+    "id": 91000514,
+    "timestamp": 1786892400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Condá",
+     "city": "Chapecó"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900020,
+     "name": "Chapecoense"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.dgabc.com.br/Noticia/4341564/rodada-ajuda-e-flamengo-volta-a-depender-apenas-de-si-no-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000517,
+    "timestamp": 1786892400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "José Maria de Campos Maia",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 5
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Carrascal"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Luiz Araújo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "João Victor"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.dgabc.com.br/Noticia/4341564/rodada-ajuda-e-flamengo-volta-a-depender-apenas-de-si-no-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000518,
+    "timestamp": 1786892400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Matheuzinho"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/en/node/1699910",
+    "https://www.dgabc.com.br/Noticia/4341564/rodada-ajuda-e-flamengo-volta-a-depender-apenas-de-si-no-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000519,
+    "timestamp": 1786892400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Bruno Rodrigues"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Gustavo Henrique"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Wanderson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/atletico-mineiro-x-gremio/832115",
+    "https://agenciabrasil.ebc.com.br/en/node/1699910"
+   ],
+   "fixture": {
+    "id": 91000515,
+    "timestamp": 1786906800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/vasco-da-gama-saf-x-santos-fc/832111",
+    "https://agenciabrasil.ebc.com.br/en/node/1699910"
+   ],
+   "fixture": {
+    "id": 91000516,
+    "timestamp": 1786906800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900008,
+     "name": "Santos"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/internacional-x-remo/832116",
+    "https://www.opovo.com.br/esportes/2026/08/17/remo-empata-no-ultimo-lance-mas-inter-deixa-a-zona-de-rebaixamento.html"
+   ],
+   "fixture": {
+    "id": 91000520,
+    "timestamp": 1787007600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 23"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900019,
+     "name": "Remo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 2,
+      "extra": null,
+      "texto": "2"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Carbonero"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+4"
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Vitor Bueno"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -18796,17 +19392,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 71,
-    "empate": 16,
-    "fora": 13,
+    "casa": 70,
+    "empate": 17,
+    "fora": 14,
     "placar": "2x1",
     "gols_esperados": [
-     2.64,
-     1.08
+     2.58,
+     1.07
     ],
     "base": [
      30,
-     36
+     37
     ]
    },
    "events": []
@@ -18884,17 +19480,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
-    "empate": 27,
-    "fora": 27,
+    "casa": 52,
+    "empate": 25,
+    "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.42,
-     1.01
+     1.64,
+     1.0
     ],
     "base": [
      24,
-     29
+     30
     ]
    },
    "events": []
@@ -18969,17 +19565,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 61,
-    "empate": 20,
-    "fora": 20,
+    "casa": 64,
+    "empate": 19,
+    "fora": 17,
     "placar": "2x1",
     "gols_esperados": [
-     2.25,
-     1.2
+     2.36,
+     1.15
     ],
     "base": [
      19,
-     19
+     20
     ]
    },
    "events": []
@@ -19051,17 +19647,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 66,
-    "empate": 19,
-    "fora": 15,
+    "casa": 63,
+    "empate": 21,
+    "fora": 16,
     "placar": "2x0",
     "gols_esperados": [
-     2.2,
+     2.04,
      0.93
     ],
     "base": [
-     31,
-     18
+     32,
+     19
     ]
    },
    "events": []
@@ -19132,17 +19728,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
-    "empate": 28,
+    "casa": 44,
+    "empate": 29,
     "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
-     1.3,
+     1.24,
      0.89
     ],
     "base": [
-     31,
-     19
+     32,
+     20
     ]
    },
    "events": []
@@ -19219,17 +19815,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
-    "empate": 25,
-    "fora": 23,
+    "casa": 58,
+    "empate": 23,
+    "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.6,
-     0.97
+     1.76,
+     0.9
     ],
     "base": [
-     28,
-     23
+     29,
+     24
     ]
    },
    "events": []
@@ -19288,15 +19884,15 @@
    "escalacoes": {},
    "previsao": {
     "casa": 15,
-    "empate": 21,
-    "fora": 65,
-    "placar": "0x1",
+    "empate": 20,
+    "fora": 64,
+    "placar": "0x2",
     "gols_esperados": [
-     0.81,
-     1.97
+     0.86,
+     2.03
     ],
     "base": [
-     21,
+     22,
      23
     ]
    },
@@ -19343,17 +19939,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 58,
-    "empate": 23,
-    "fora": 20,
+    "casa": 61,
+    "empate": 21,
+    "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.83,
-     0.96
+     1.95,
+     0.92
     ],
     "base": [
-     25,
-     21
+     26,
+     22
     ]
    },
    "events": []
@@ -19399,17 +19995,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 55,
-    "empate": 25,
+    "casa": 54,
+    "empate": 26,
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.58,
+     1.55,
      0.83
     ],
     "base": [
-     19,
-     36
+     20,
+     37
     ]
    },
    "events": []
@@ -19455,17 +20051,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 53,
     "empate": 23,
-    "fora": 23,
+    "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.88,
-     1.16
+     1.85,
+     1.18
     ],
     "base": [
      24,
-     33
+     34
     ]
    },
    "events": []
@@ -19511,17 +20107,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
+    "casa": 51,
     "empate": 22,
-    "fora": 26,
+    "fora": 27,
     "placar": "1x1",
     "gols_esperados": [
      1.94,
-     1.32
+     1.37
     ],
     "base": [
-     31,
-     21
+     32,
+     22
     ]
    },
    "events": []
@@ -19567,17 +20163,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 22,
-    "empate": 25,
-    "fora": 53,
+    "casa": 20,
+    "empate": 23,
+    "fora": 56,
     "placar": "0x1",
     "gols_esperados": [
-     0.98,
-     1.65
+     0.97,
+     1.78
     ],
     "base": [
-     28,
-     19
+     29,
+     20
     ]
    },
    "events": []
@@ -19623,17 +20219,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 40,
+    "casa": 39,
     "empate": 25,
-    "fora": 35,
+    "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
-     1.5,
-     1.37
+     1.42,
+     1.35
     ],
     "base": [
-     18,
-     28
+     19,
+     29
     ]
    },
    "events": []
@@ -19679,17 +20275,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 35,
+    "casa": 38,
     "empate": 27,
-    "fora": 38,
+    "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
-     1.22,
-     1.29
+     1.29,
+     1.25
     ],
     "base": [
-     21,
-     23
+     22,
+     24
     ]
    },
    "events": []
@@ -19735,16 +20331,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 57,
-    "empate": 23,
-    "fora": 19,
-    "placar": "1x0",
+    "casa": 53,
+    "empate": 24,
+    "fora": 23,
+    "placar": "1x1",
     "gols_esperados": [
-     1.76,
-     0.91
+     1.73,
+     1.07
     ],
     "base": [
-     29,
+     30,
      30
     ]
    },
@@ -19791,16 +20387,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
+    "casa": 48,
     "empate": 23,
     "fora": 28,
     "placar": "1x1",
     "gols_esperados": [
-     1.84,
+     1.79,
      1.33
     ],
     "base": [
-     31,
+     32,
      19
     ]
    },
@@ -19847,17 +20443,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 40,
+    "casa": 47,
     "empate": 25,
-    "fora": 35,
+    "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.45,
-     1.33
+     1.62,
+     1.22
     ],
     "base": [
-     25,
-     19
+     26,
+     20
     ]
    },
    "events": []
@@ -46951,12 +47547,18 @@
     "jogador": "Samuel Lino",
     "time": "Flamengo",
     "time_id": 900001,
-    "gols": 8
+    "gols": 9
    },
    {
     "jogador": "Gabigol",
     "time": "Santos",
     "time_id": 900008,
+    "gols": 7
+   },
+   {
+    "jogador": "Pedro",
+    "time": "Flamengo",
+    "time_id": 900001,
     "gols": 7
    },
    {
@@ -46996,10 +47598,10 @@
     "gols": 5
    },
    {
-    "jogador": "Pedro",
+    "jogador": "Carrascal",
     "time": "Flamengo",
     "time_id": 900001,
-    "gols": 5
+    "gols": 4
    },
    {
     "jogador": "Gabriel Taliari",
@@ -47020,6 +47622,12 @@
     "gols": 4
    },
    {
+    "jogador": "Vitor Bueno",
+    "time": "Remo",
+    "time_id": 900019,
+    "gols": 4
+   },
+   {
     "jogador": "Alan Patrick",
     "time": "Internacional",
     "time_id": 900016,
@@ -47035,12 +47643,6 @@
     "jogador": "Bruno Duarte",
     "time": "Vasco",
     "time_id": 900013,
-    "gols": 3
-   },
-   {
-    "jogador": "Carrascal",
-    "time": "Flamengo",
-    "time_id": 900001,
     "gols": 3
    },
    {
@@ -47134,12 +47736,6 @@
     "gols": 3
    },
    {
-    "jogador": "Vitor Bueno",
-    "time": "Remo",
-    "time_id": 900019,
-    "gols": 3
-   },
-   {
     "jogador": "Vitor Roque",
     "time": "Palmeiras",
     "time_id": 900002,
@@ -47176,6 +47772,12 @@
     "gols": 2
    },
    {
+    "jogador": "Bruno Rodrigues",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 2
+   },
+   {
     "jogador": "Bruno Santos",
     "time": "Mirassol",
     "time_id": 900015,
@@ -47188,6 +47790,12 @@
     "gols": 2
    },
    {
+    "jogador": "Carbonero",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 2
+   },
+   {
     "jogador": "Christian Oliva",
     "time": "Santos",
     "time_id": 900008,
@@ -47197,6 +47805,12 @@
     "jogador": "Erick",
     "time": "Bahia",
     "time_id": 900007,
+    "gols": 2
+   },
+   {
+    "jogador": "Gustavo Henrique",
+    "time": "Corinthians",
+    "time_id": 900018,
     "gols": 2
    },
    {
@@ -47224,6 +47838,12 @@
     "gols": 2
    },
    {
+    "jogador": "João Victor",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 2
+   },
+   {
     "jogador": "Juninho",
     "time": "Internacional",
     "time_id": 900016,
@@ -47239,6 +47859,12 @@
     "jogador": "Kauan",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 2
+   },
+   {
+    "jogador": "Luiz Araújo",
+    "time": "Flamengo",
+    "time_id": 900001,
     "gols": 2
    },
    {
@@ -47410,12 +48036,6 @@
     "gols": 1
    },
    {
-    "jogador": "Bruno Rodrigues",
-    "time": "Cruzeiro",
-    "time_id": 900003,
-    "gols": 1
-   },
-   {
     "jogador": "Brítez",
     "time": "Vitória",
     "time_id": 900014,
@@ -47425,12 +48045,6 @@
     "jogador": "Cano",
     "time": "Fluminense",
     "time_id": 900005,
-    "gols": 1
-   },
-   {
-    "jogador": "Carbonero",
-    "time": "Internacional",
-    "time_id": 900016,
     "gols": 1
    },
    {
@@ -47626,12 +48240,6 @@
     "gols": 1
    },
    {
-    "jogador": "Gustavo Henrique",
-    "time": "Corinthians",
-    "time_id": 900018,
-    "gols": 1
-   },
-   {
     "jogador": "Gustavo Marques",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
@@ -47683,12 +48291,6 @@
     "jogador": "João Pedro",
     "time": "Remo",
     "time_id": 900019,
-    "gols": 1
-   },
-   {
-    "jogador": "João Victor",
-    "time": "Mirassol",
-    "time_id": 900015,
     "gols": 1
    },
    {
@@ -47770,12 +48372,6 @@
     "gols": 1
    },
    {
-    "jogador": "Luiz Araújo",
-    "time": "Flamengo",
-    "time_id": 900001,
-    "gols": 1
-   },
-   {
     "jogador": "Luiz Gustavo",
     "time": "Athletico-PR",
     "time_id": 900004,
@@ -47815,6 +48411,12 @@
     "jogador": "Matheus Martins",
     "time": "Botafogo",
     "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Matheuzinho",
+    "time": "Vitória",
+    "time_id": 900014,
     "gols": 1
    },
    {
@@ -48001,6 +48603,12 @@
     "jogador": "Walter Clar",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Wanderson",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 1
    },
    {
