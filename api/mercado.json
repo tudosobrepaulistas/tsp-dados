@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T12:16:00-03:00",
+ "gerado": "2026-11-22T12:25:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -844,7 +844,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -887,7 +887,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -930,7 +930,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -967,13 +967,13 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "para": {
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -1333,7 +1333,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -2081,7 +2081,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -2380,7 +2380,9 @@
     ],
     "obs": "10 jogos por clube",
     "fonte": "https://www.futebolinterior.com.br/penapolense-oficializa-nikollas-sena/",
-    "escudos": {}
+    "escudos": {
+     "Sampaio Corrêa": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sampaio-correa.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -2403,7 +2405,7 @@
     "nome": "ASA",
     "slug": "",
     "id": 900072,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/asa.png"
    },
    "para": {
     "nome": "Paulista",
@@ -2427,7 +2429,9 @@
     ],
     "obs": "6 jogos no Alagoano, 3 na Copa Alagoas, 1 na Copa do Nordeste e 4 na Série D",
     "fonte": "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista",
-    "escudos": {}
+    "escudos": {
+     "ASA": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/asa.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -2984,7 +2988,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -3741,7 +3745,8 @@
     {
      "temporada": "2022",
      "clube": "Votuporanguense",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
     },
     {
      "temporada": "2019",
@@ -5509,7 +5514,8 @@
     "gols": 1,
     "assistencias": 0,
     "escudos": {
-     "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
+     "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
+     "Brasiliense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/brasiliense.png"
     }
    },
    "selos": [],
@@ -6513,7 +6519,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -7594,7 +7600,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -8126,7 +8132,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -9798,7 +9804,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -10444,7 +10450,7 @@
     "nome": "ASA",
     "slug": "",
     "id": 900072,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/asa.png"
    },
    "para": {
     "nome": "XV de Piracicaba",
@@ -10474,7 +10480,9 @@
     "minutos": 432,
     "gols": 0,
     "assistencias": 0,
-    "escudos": {}
+    "escudos": {
+     "ASA": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/asa.png"
+    }
    },
    "selos": [
     {
@@ -10535,7 +10543,9 @@
     "minutos": 235,
     "gols": 0,
     "assistencias": 0,
-    "escudos": {}
+    "escudos": {
+     "Brasiliense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/brasiliense.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -11840,7 +11850,7 @@
     "nome": "Votuporanguense",
     "slug": "votuporanguense",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
    },
    "blocos": [
     "d2"
@@ -12328,7 +12338,8 @@
     {
      "temporada": "2015",
      "clube": "Uberlândia",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/uberlandia.png"
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/vocem-confirma-paulinho-mclaren/",
@@ -12628,7 +12639,9 @@
     "minutos": 1443,
     "gols": 5,
     "assistencias": 3,
-    "escudos": {}
+    "escudos": {
+     "ASA": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/asa.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -13117,7 +13130,8 @@
      "fontes": [
       "https://www.dgabc.com.br/Noticia/4278643/votuporanguense-x-agua-santa-onde-assistir-e-provaveis-escalacoes"
      ],
-     "obs": "1 fonte (DGABC, 09/01/2026, provável escalação na A2); saída e números em atualização"
+     "obs": "1 fonte (DGABC, 09/01/2026, provável escalação na A2); saída e números em atualização",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
     },
     {
      "temporada": "2024",
@@ -13132,7 +13146,8 @@
       "https://jovempan.com.br/?p=45168",
       "https://diariodopara.com.br/bola/medico-comanda-vitoria-do-brasiliense-apos-saida-de-tecnico/"
      ],
-     "obs": "Contratado para a Série D 2024 (CB, 02/04/2024); pediu demissão no intervalo do 3º jogo, contra o Real Brasília, em 12/05/2024. Números: só 1 fonte (Jovem Pan: 1V 1D antes do 3º jogo), não gravados"
+     "obs": "Contratado para a Série D 2024 (CB, 02/04/2024); pediu demissão no intervalo do 3º jogo, contra o Real Brasília, em 12/05/2024. Números: só 1 fonte (Jovem Pan: 1V 1D antes do 3º jogo), não gravados",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/brasiliense.png"
     },
     {
      "temporada": "2022",
@@ -13146,7 +13161,8 @@
       "https://trivela.com.br/brasil/lado-b-de-brasil/pouso-alegre-lotou-o-manduzao-e-orgulhou-o-sul-de-minas-com-a-promocao-inedita-a-serie-c/",
       "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
       "https://www.bandab.com.br/esporte/futebol/tecnico-pouso-alegre-sabia-estrategia-parana/amp/"
-     ]
+     ],
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pouso-alegre.png"
     },
     {
      "temporada": "2022",
@@ -13201,7 +13217,8 @@
       "https://www.gazetaesportiva.com/?p=2694532",
       "https://dol.com.br/esporte/mundo/noticia-578192-portuguesa-anuncia-o-treinador-paulo-roberto-santos-ex-sao-bento.html"
      ],
-     "obs": "Contratado no fim de nov/2018, demitido em 10/02/2019 sem vitórias no Gauchão (números de 1 fonte só, não gravados)"
+     "obs": "Contratado no fim de nov/2018, demitido em 10/02/2019 sem vitórias no Gauchão (números de 1 fonte só, não gravados)",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/brasil-de-pelotas.png"
     },
     {
      "temporada": "2018",
@@ -13218,7 +13235,8 @@
       "https://dol.com.br/esporte/mundo/noticia-526817-ex-sao-bento-paulo-roberto-santos-e-o-novo-treinador-do-sampaio.html",
       "https://oimparcial.com.br/esportes/2018/09/sampaio-comunica-demissao-do-treinador-paulo-roberto/"
      ],
-     "obs": "Anunciado em 26-27/07/2018, demitido em 05/09/2018 (Série B)"
+     "obs": "Anunciado em 26-27/07/2018, demitido em 05/09/2018 (Série B)",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sampaio-correa.png"
     },
     {
      "temporada": "2018",
@@ -13300,7 +13318,8 @@
       "https://dol.com.br/esporte/esporte-brasil/noticia-105850-apos-fracasso-no-paysandu-tecnico-ganha-destaque.html",
       "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
      ],
-     "obs": "DOL (26/08/2010): chegou no fim de 2007 e seguia no cargo em ago/2010"
+     "obs": "DOL (26/08/2010): chegou no fim de 2007 e seguia no cargo em ago/2010",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-sorocaba.png"
     },
     {
      "temporada": "2007",
@@ -13313,7 +13332,8 @@
      "fontes": [
       "https://dol.com.br/esporte/esporte-brasil/noticia-105850-apos-fracasso-no-paysandu-tecnico-ganha-destaque.html"
      ],
-     "obs": "Série C 2007; ano só no DOL (Gazeta Esportiva/DOL 2018 e FI citam a passagem sem ano)"
+     "obs": "Série C 2007; ano só no DOL (Gazeta Esportiva/DOL 2018 e FI citam a passagem sem ano)",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/paysandu.png"
     },
     {
      "temporada": "2006-2007",
@@ -13368,7 +13388,8 @@
      "jogos": "",
      "vitorias": "",
      "empates": "",
-     "derrotas": ""
+     "derrotas": "",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gama.png"
     },
     {
      "temporada": "1994",
@@ -13377,7 +13398,8 @@
      "jogos": "",
      "vitorias": "",
      "empates": "",
-     "derrotas": ""
+     "derrotas": "",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gama.png"
     },
     {
      "temporada": "1993",
@@ -13386,7 +13408,8 @@
      "jogos": "",
      "vitorias": "",
      "empates": "",
-     "derrotas": ""
+     "derrotas": "",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/unai.png"
     },
     {
      "temporada": "1989",
@@ -13409,7 +13432,8 @@
      "jogos": "",
      "vitorias": "",
      "empates": "",
-     "derrotas": ""
+     "derrotas": "",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pouso-alegre.png"
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/",
@@ -13544,7 +13568,9 @@
      "Gama"
     ],
     "fonte": "https://www.dgabc.com.br/Noticia/4354067/santo-andre-anuncia-danilinho-como-primeiro-reforco-para-2027",
-    "escudos": {}
+    "escudos": {
+     "Gama": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gama.png"
+    }
    },
    "selos": [
     {
