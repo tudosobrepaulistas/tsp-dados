@@ -498,6 +498,366 @@
     "Paulistão A4"
    ],
    "instagram": "https://www.instagram.com/vocemassis/"
+  },
+  "bragantino": {
+   "cidade": "Bragança Paulista",
+   "estadio": "Estádio Municipal Cícero de Souza Marques (casa provisória durante a reforma do Nabi Abi Chedid)",
+   "fundacao": "08/01/1928",
+   "apelidos": "Massa Bruta",
+   "campeonatos_2027": [
+    "Paulistão A1"
+   ],
+   "site": "https://www.redbullbragantino.com/br-pt"
+  },
+  "mirassol": {
+   "cidade": "Mirassol",
+   "estadio": "Estádio Municipal José Maria de Campos Maia (Maião)",
+   "fundacao": "09/11/1925",
+   "apelidos": "Leão",
+   "cores": "amarelo e verde",
+   "titulos": [
+    [
+     "Campeonato Brasileiro Série D",
+     "2020"
+    ],
+    [
+     "Campeonato Brasileiro Série C",
+     "2022"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1"
+   ],
+   "site": "https://mirassolfc.com.br",
+   "instagram": "https://www.instagram.com/mirassolfc/",
+   "youtube": "https://www.youtube.com/@CanalMirassolFC"
+  },
+  "novorizontino": {
+   "cidade": "Novo Horizonte",
+   "estadio": "Estádio Doutor Jorge Ismael de Biasi (Jorjão)",
+   "capacidade": "16.000",
+   "fundacao": "01/03/2010",
+   "apelidos": "Tigre do Vale, Tigre Valente, Aurinegro",
+   "titulos": [
+    [
+     "Campeonato Paulista Série A3",
+     "2014"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "2021"
+    ],
+    [
+     "Campeonato Brasileiro Série B",
+     "2026"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série A"
+   ],
+   "site": "https://www.gremionovorizontino.com.br",
+   "instagram": "https://www.instagram.com/oficialnovorizontino/",
+   "youtube": "https://www.youtube.com/user/gremionovorizontino1"
+  },
+  "saobernardo": {
+   "cidade": "São Bernardo do Campo",
+   "estadio": "Estádio Primeiro de Maio",
+   "fundacao": "20/12/2004",
+   "apelidos": "Tigre, Aurinegro",
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série B"
+   ]
+  },
+  "botafogosp": {
+   "cidade": "Ribeirão Preto",
+   "estadio": "Estádio Santa Cruz (Santão)",
+   "capacidade": "29.300",
+   "fundacao": "12/10/1918",
+   "apelidos": "Pantera",
+   "rival": "Comercial",
+   "classico": "Come-Fogo",
+   "titulos": [
+    [
+     "Campeonato Paulista Série A2",
+     "1927"
+    ],
+    [
+     "Campeonato Paulista Série A3",
+     "2006"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "2010"
+    ],
+    [
+     "Campeonato Brasileiro Série D",
+     "2015"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série B"
+   ],
+   "site": "https://botafogofutebolsa.com.br",
+   "instagram": "https://www.instagram.com/botafogosp",
+   "youtube": "https://www.youtube.com/tvbotafogooficial",
+   "presidente": "Adalberto Dellape Baptista (presidente do Conselho de Administração da Botafogo SA)"
+  },
+  "pontepreta": {
+   "cidade": "Campinas",
+   "estadio": "Estádio Moisés Lucarelli (Majestoso)",
+   "fundacao": "11/08/1900",
+   "apelidos": "Macaca",
+   "cores": "preto e branco",
+   "rival": "Guarani",
+   "classico": "Dérbi Campineiro",
+   "titulos": [
+    [
+     "Campeonato Paulista Série A2 (Divisão de Acesso)",
+     "1969"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2023"
+    ],
+    [
+     "Campeonato Brasileiro Série C",
+     "2025"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A2",
+    "Brasileirão Série C"
+   ],
+   "site": "https://pontepreta.com.br",
+   "instagram": "https://www.instagram.com/pontepretaoficial/",
+   "youtube": "https://www.youtube.com/@PonTV",
+   "presidente": "Luiz Antônio Alves Torrano"
+  },
+  "capivariano": {
+   "cidade": "Capivari",
+   "estadio": "Estádio Municipal Carlos Colnaghi",
+   "fundacao": "12/10/1918",
+   "apelidos": "Leão da Sorocabana, Leão",
+   "cores": "vermelho e branco (alvirrubro)",
+   "titulos": [
+    [
+     "Campeonato Paulista Terceira Divisão",
+     "1984"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2014"
+    ],
+    [
+     "Campeonato Paulista Série A3",
+     "2023"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2025"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série D"
+   ],
+   "site": "https://www.capivarianofc.com.br",
+   "instagram": "https://www.instagram.com/capivariano/",
+   "presidente": "Jorge Luis Pagotto"
+  },
+  "ferroviaria": {
+   "cidade": "Araraquara",
+   "estadio": "Estádio Dr. Adhemar Pereira de Barros (Fonte Luminosa)",
+   "capacidade": "25.000",
+   "fundacao": "12/04/1950",
+   "apelidos": "Locomotiva",
+   "mascote": "Ferrão",
+   "cores": "grená (bordô) e branco",
+   "titulos": [
+    [
+     "Campeonato Paulista do Interior",
+     "1967"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "1968"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "1969"
+    ],
+    [
+     "Copa Paulista",
+     "2006"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2015"
+    ],
+    [
+     "Copa Paulista",
+     "2017"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série B"
+   ],
+   "site": "https://ferroviariasaf.com",
+   "instagram": "https://www.instagram.com/afeoficial/",
+   "youtube": "https://www.youtube.com/channel/UCZBFWeZLFOKTVPZ9QBSGmkA"
+  },
+  "guarani": {
+   "cidade": "Campinas",
+   "estadio": "Estádio Brinco de Ouro da Princesa (Brinco de Ouro)",
+   "fundacao": "02/04/1911",
+   "apelidos": "Bugre",
+   "cores": "verde e branco",
+   "rival": "Ponte Preta",
+   "classico": "Dérbi Campineiro",
+   "titulos": [
+    [
+     "Campeonato Paulista Segunda Divisão",
+     "1949"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "1972"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "1973"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "1974"
+    ],
+    [
+     "Campeonato Paulista do Interior",
+     "1975"
+    ],
+    [
+     "Campeonato Brasileiro",
+     "1978"
+    ],
+    [
+     "Campeonato Brasileiro Série B (Taça de Prata)",
+     "1981"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2018"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série C"
+   ],
+   "site": "https://guaranifc.com.br",
+   "instagram": "https://www.instagram.com/guaranifc_oficial/"
+  },
+  "juventus": {
+   "cidade": "São Paulo (Mooca)",
+   "estadio": "Estádio Conde Rodolfo Crespi (Rua Javari)",
+   "capacidade": "cerca de 5.000",
+   "fundacao": "20/04/1924",
+   "apelidos": "Moleque Travesso",
+   "cores": "grená e branco",
+   "titulos": [
+    [
+     "Campeonato Paulista Segunda Divisão",
+     "1929"
+    ],
+    [
+     "Campeonato Paulista (FPF, dividido com o Palestra Itália; reconhecido em 2021)",
+     "1934"
+    ],
+    [
+     "Campeonato Brasileiro Série B (Taça de Prata)",
+     "1983"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2005"
+    ],
+    [
+     "Copa Paulista",
+     "2007"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2026"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1"
+   ],
+   "site": "https://www.juventus.com.br",
+   "instagram": "https://www.instagram.com/oficialjuventus"
+  },
+  "noroeste": {
+   "campeonatos_2027": [
+    "Paulistão A1"
+   ],
+   "site": "https://ecnoroeste.com.br"
+  },
+  "portuguesa": {
+   "cidade": "São Paulo",
+   "estadio": "Estádio Dr. Oswaldo Teixeira Duarte (Canindé)",
+   "fundacao": "14/08/1920",
+   "apelidos": "Lusa",
+   "cores": "verde e vermelho",
+   "titulos": [
+    [
+     "Campeonato Paulista",
+     "1935"
+    ],
+    [
+     "Campeonato Paulista",
+     "1936"
+    ],
+    [
+     "Campeonato Paulista (dividido com o Santos)",
+     "1973"
+    ],
+    [
+     "Copa São Paulo de Futebol Júnior",
+     "1992"
+    ],
+    [
+     "Campeonato Brasileiro Série B",
+     "2011"
+    ],
+    [
+     "Copa Paulista",
+     "2020"
+    ],
+    [
+     "Campeonato Paulista Série A2",
+     "2022"
+    ]
+   ],
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série D"
+   ],
+   "site": "https://www.portuguesa.com.br",
+   "instagram": "https://www.instagram.com/portuguesaoficial"
+  },
+  "primavera": {
+   "cidade": "Indaiatuba",
+   "estadio": "Estádio Ítalo Mário Limongi",
+   "fundacao": "27/01/1927",
+   "apelidos": "Fantasma, Fantasma da Ituana",
+   "cores": "vermelho, preto e branco",
+   "campeonatos_2027": [
+    "Paulistão A1",
+    "Brasileirão Série D"
+   ],
+   "site": "https://ecprimavera.com.br"
   }
  }
 }
