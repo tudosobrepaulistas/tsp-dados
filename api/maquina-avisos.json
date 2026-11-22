@@ -1,188 +1,6 @@
 {
- "gerado": "2026-11-22T20:28-03:00",
+ "gerado": "2026-11-22T20:59-03:00",
  "avisos": [
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-22T10:32-03:00",
-   "motivo": "Cobertura 6h (22/11): pauta da Kleina já publicada (18/11); Eberlin e '18 a 20 reforços' é de 18-19/11 (fora das 24h)",
-   "sugestao": "Eberlin diz que a Ponte terá no mínimo 18 reforços para A2 e Série C (Hora Campinas 19/11 + Futebol Interior 18/11 + Agora Litoral 21/11), se ainda não houver matéria"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Nada novo de 20 a 22/11 em 2 fontes; história já usada em 21/11",
-   "sugestao": "Anúncio do técnico e dos reforços antes da pré-temporada (1º/12), conferindo CBN Ribeirão e WMais"
-  },
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Nada novo desde 10/11; história bloqueada até 23/11",
-   "sugestao": "Anúncio do técnico prometido pela diretoria até o fim do mês (vice Edinan Leal da Silveira)"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Último anúncio é de 11/11 (Rogério Zuin); história nos últimos 14 dias",
-   "sugestao": "Novos reforços para a A4 no site barretosec.com.br e redes do clube"
-  },
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Guia do Estádio Ernesto Rocco sem foto livre e capacidade divergente entre fontes",
-   "sugestao": "Guia do estádio com foto e dados da página oficial desportivobrasil.com.br/o-clube/estadio-ernesto-rocco/"
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Guia do estádio sem foto liberada e divergência no nome do homenageado; matéria da CBN Vale sem data conferida",
-   "sugestao": "Conferir a matéria da CBN Vale sobre oito reforços e seletiva; guia do estádio com foto do clube"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Parceria com a ADRX Saúde (20/11) só no Futebol Interior (1 fonte); história de 08/11 ainda vale",
-   "sugestao": "Confirmar a parceria com a ADRX Saúde nas redes do Tanabi SAF"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "nome": "XV de Piracicaba",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Nada novo de 20 a 22/11; site oficial sem posts desde 04/11; história em 14/11",
-   "sugestao": "Andamento da passagem das ações da SAF (Matheus Bonassi) ou 12º reforço/1º jogo-treino"
-  },
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Volta de Bruno José: só WMais confirmado (Mais Goiás e TV Sim não abriram); negócio não fechado",
-   "sugestao": "Abrir a matéria do Mais Goiás; se confirmar, 'Botafogo-SP negocia a volta do atacante Bruno José, do Atlético-GO'"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Nada novo de 20 a 22/11; site oficial sem notícia desde 12/11",
-   "sugestao": "Data de reapresentação e próximos reforços do elenco de Elio Sizenando (Instagram do clube)"
-  },
-  {
-   "clube": "ferroviaria",
-   "nome": "Ferroviária",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Masculino sem notícia nova de 20 a 22/11",
-   "sugestao": "Reapresentação do elenco em 26/11 com os primeiros reforços para Paulistão e Série B 2027"
-  },
-  {
-   "clube": "juventus",
-   "nome": "Juventus",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Contratação de Max (Athletic) só com título no Barbacena Online, sem 2ª fonte",
-   "sugestao": "Confirmar Max (Athletic-MG) em jornal de São João del-Rei ou canais oficiais"
-  },
-  {
-   "clube": "noroeste",
-   "nome": "Noroeste",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Única notícia (Sub-16 na Alcans Cup, 20/11) com 1 fonte",
-   "sugestao": "Semifinal e resultado do Noroeste na Série Ouro da Alcans Cup Sub-16 (Instagram do clube + JCNET)"
-  },
-  {
-   "clube": "portuguesa",
-   "nome": "Portuguesa",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Acerto com Wesley Dias é de 18-19/11 e não foi oficializado; demais posts já cobertos",
-   "sugestao": "Anúncio oficial de Wesley Dias (ex-Cuiabá) como reforço para o Paulistão 2027"
-  },
-  {
-   "clube": "primavera",
-   "nome": "Primavera",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Nada novo de 20 a 22/11; Instagram e YouTube bloqueiam leitura",
-   "sugestao": "Reforços ou data de reapresentação no Instagram @ecprimaveraoficial + Jornal de Indaiatuba"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Parte do São Bernardo (ex-presidente Luiz Fernando exalta Samuel Lino) só no DGABC: barrada pelo Chefe de Redação",
-   "sugestao": "Se outro veículo repercutir: 'Ex-presidente do São Bernardo FC exalta Samuel Lino, cria do Projeto Tigrinho'"
-  },
-  {
-   "clube": "itapirense",
-   "nome": "Itapirense",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Nada novo de 18 a 22/11; história em 13/11",
-   "sugestao": "Técnico e primeiros reforços para a Série A3 de 2027"
-  },
-  {
-   "clube": "rio-branco",
-   "nome": "Rio Branco",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Nada novo de 20 a 22/11; história em 14/11",
-   "sugestao": "Resposta do MP e da 2ª Vara Cível de Americana sobre a parceria com o Sertãozinho"
-  },
-  {
-   "clube": "uniao-sao-joao",
-   "nome": "União São João",
-   "quando": "2026-11-22T13:36-03:00",
-   "motivo": "Renovação de 13 jogadores (Futebol Interior, 20/11) sem 2ª fonte; site oficial fora do ar",
-   "sugestao": "Confirmar no Instagram @uniaosaojoaodeararas ou jornal de Araras e publicar a renovação dos 13 para a A3 2027"
-  },
-  {
-   "clube": "santoandre",
-   "nome": "Santo André",
-   "quando": "2026-11-22T14:41-03:00",
-   "motivo": "Contratação do atacante Vitinho (20/11) só confirmada no Diário do Grande ABC; 2ª fonte (Repórter Diário/Instagram oficial) não abriu daqui",
-   "sugestao": "Conferir o anúncio oficial do Santo André sobre Vitinho e publicar com DGABC: https://www.dgabc.com.br/Noticia/4369912/-santo-andre-acerta-contratacao-do-atacante-vitinho-para-2027"
-  },
-  {
-   "clube": "uniao-sao-joao",
-   "nome": "União São João",
-   "quando": "2026-11-22T14:41-03:00",
-   "motivo": "Renovações e Copinha 2027 no Hermínio Ometto com 1 fonte só (TV Sim Araras), sem nota oficial acessível",
-   "sugestao": "Cobrir a coletiva do União São João em 23/11, 17h30 (elenco 2027, uniformes, Copinha, iluminação): https://tvsimbrasil.com.br/sp/araras/esportes/noticia/2026/11/20/araras-volta-sediar-copinha-2027-apos-cinco-anos"
-  },
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-22T14:41-03:00",
-   "motivo": "Sem técnico anunciado; morte do ídolo Iaúca (20/11) só no Futebol Interior, sem nota do clube",
-   "sugestao": "Confirmar com o América/Diário da Região a morte de Iaúca e fazer homenagem; acompanhar anúncio do técnico até 30/11"
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-22T14:41-03:00",
-   "motivo": "Guia do Estádio Du Cambusano apurado, mas sem foto livre (Flickr da prefeitura com todos os direitos reservados)",
-   "sugestao": "Redator com foto própria/cedida do estádio Du Cambusano pode publicar o guia do estádio do Jacareí"
-  },
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-22T14:41-03:00",
-   "motivo": "Final do Paulista Feminino Sub-17 (São Paulo 4x2 Ferroviária, 22/11, Jaú) só em fonte não aceita até 14h30",
-   "sugestao": "Pós-jogo da final do Sub-17 feminino marcando Ferroviária e São Paulo quando sair em 2 fontes (sites oficiais/ge)"
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Reforços só na CBN Vale (bloqueada aqui); sem 2ª fonte",
-   "sugestao": "Jacareí FC: oito reforços encaminhados e seletiva para a Série A4 de 2027 (CBN Vale) + quem é o técnico após a saída de Augusto Ambrogi"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Troca dos bancos do Palma Travassos só na Tribuna Ribeirão (20/11); sem 2ª fonte",
-   "sugestao": "Comercial troca os bancos de reservas do Palma Travassos a pedido da FPF para a Série A4 (confirmar no Instagram oficial ou A Cidade/CBN)"
-  },
   {
    "clube": "independente",
    "nome": "Independente",
@@ -420,6 +238,188 @@
    "quando": "2026-11-22T20:28-03:00",
    "motivo": "Cobertura 6h (22/11, 20h): sem notícia nova das últimas 24h confirmada em 2 fontes; site oficial não abriu e as matérias achadas (Léo Naldi, Montemor, aeroporto) já estão no site.",
    "sugestao": "Redator: conferir no site/Instagram do Novorizontino anúncios de renovação ou reforço para a Série A 2027 e data de reapresentação do elenco."
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Conferir no Instagram/site oficial se o elenco 2027 de Tássio já foi apresentado (previsto para a 2ª quinzena de novembro) e cruzar com o Diário de Suzano"
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Confirmar no Instagram oficial quem será o técnico do Desportivo Brasil na Série A4 de 2027"
+  },
+  {
+   "clube": "america-de-rio-preto",
+   "nome": "América de Rio Preto",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Entre 28 e 30/11, conferir se o América anunciou o técnico da A4 (promessa de Edinan Leal), no americasp.com e no Diário da Região"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Os 13 reforços do Tanabi para a A4 2027 e a pré-temporada de 04/01 (Futebol Interior 19/11), com fato novo cruzado no Instagram do clube"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Como está a reforma do Estádio Fortaleza para a Copinha 2027: pedir à prefeitura ou ao clube"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Sem notícia nova; história dos nomes já publicada em 05/11; sem foto livre do Estádio Du Cambusano",
+   "sugestao": "Guia do Estádio Du Cambusano (R. Pixinguinha, 169), nova casa do Jacareí na A4 2027; fontes: parecer da Secretaria de Esportes de Jacareí (set/2025) e abcdoabc.com.br/sao-caetano-empata-jacarei-vantagem-a4-0-0; foto com crédito do clube ou da prefeitura"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Primeiros reforços e comissão de Adriano Rodrigues no Instagram do ECUS e no Diário de Suzano"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Ver se o XV anunciou o preparador físico prometido em 04/11; conferir no site oficial e no JP1"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Prévia/cobertura da reapresentação do elenco em 1º/12 com Valmir Israel (CBN Ribeirão) e o jogo da Copa CCF em 29/11"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Fatos mais novos (NETLUSA 20/11) antes da janela de 48h ou já publicados",
+   "sugestao": "Auxiliar diz que a Lusa tem 70% do elenco montado: vira coletiva se houver vídeo/post oficial (netlusa.com.br/noticias-da-portuguesa/portuguesa-tem-cerca-de-70-do-elenco-montado-para-o-paulistao-afirma-auxiliar)"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Cobrir a reapresentação do masculino em 26/11 com site oficial e Araraquara Agora"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Primeiros reforços de elenco para o Paulistão 2027 com Eduardo Souza (JCNET e redes da Noroeste SAF)"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Reforços para 2027 com Elio Sizenando (até agora só o técnico foi anunciado, 23/10)"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Depois de 30/11, ver se o Juventus fechou com Ítalo Carvalho (Paysandu tem preferência até 30/11)"
+  },
+  {
+   "clube": "primavera",
+   "nome": "Primavera",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Primeiros reforços do centenário e data da reapresentação (site oficial e CBN Campinas)"
+  },
+  {
+   "clube": "aguasanta",
+   "nome": "Água Santa",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Elenco 2027 com Jorge Castilho e a diretoria com o vice Hélio Campos (DGABC e Instagram oficial)"
+  },
+  {
+   "clube": "osasco-sporting",
+   "nome": "Osasco Sporting",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Quem será o técnico do Osasco Sporting em 2027 (Correio Paulista e redes do clube)"
+  },
+  {
+   "clube": "sertaozinho",
+   "nome": "Sertãozinho",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Confirmar se Luciano Dias foi oficializado técnico e os primeiros reforços para 2027"
+  },
+  {
+   "clube": "veloclube",
+   "nome": "Velo Clube",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Velo Clube define técnico e elenco para a A2 2027 (Jornal Cidade RC e Diário do Rio Claro)"
+  },
+  {
+   "clube": "itapirense",
+   "nome": "Itapirense",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Técnico da Itapirense para 2027 e andamento da SAF após mudança no estatuto (06/11)"
+  },
+  {
+   "clube": "rio-branco",
+   "nome": "Rio Branco",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Abrir a matéria do O Liberal sobre a pré-temporada do Rio Branco com elenco praticamente montado e confirmar técnico e elenco"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Andamento da venda da SAF do Catanduva (seis propostas, possível grupo americano), técnico e elenco 2027"
+  },
+  {
+   "clube": "francana",
+   "nome": "Francana",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
+   "sugestao": "Confirmar se Wantuil Rodrigues segue técnico em 2027 e a data da reapresentação no Lanchão"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Sem notícia nova; sem foto livre do time feminino",
+   "sugestao": "Perfil de Carine Bosetti, primeira treinadora do Mirassol feminino (Lance e Trivela), com foto oficial do clube"
+  },
+  {
+   "clube": "taubate-feminino",
+   "nome": "Taubaté Feminino",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Sem notícia nova; sem foto da equipe feminina",
+   "sugestao": "Taubaté Feminino nas quartas do Brasileiro A2 em 2019 e 2026 (Lance, NetVasco), com foto de jogo cedida pelo clube"
+  },
+  {
+   "clube": "ferroviaria-feminino",
+   "nome": "Ferroviária Feminino",
+   "quando": "2026-11-22T20:59-03:00",
+   "motivo": "Fato recente (julgamento no TJD-SP) com 1 fonte e fora das 48h",
+   "sugestao": "Resultado do julgamento no TJD-SP da briga Ferroviária x Corinthians na final do Paulista F Sub-20, segunda 23/11 às 17h (Lance + FPF/TJD)"
   }
  ]
 }
