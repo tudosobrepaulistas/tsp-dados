@@ -3,12 +3,36 @@
   "jogador": "Jajá",
   "time": "Remo",
   "time_id": 900019,
+  "gols": 9
+ },
+ {
+  "jogador": "Samuel Lino",
+  "time": "Flamengo",
+  "time_id": 900001,
   "gols": 8
+ },
+ {
+  "jogador": "Gabigol",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 7
+ },
+ {
+  "jogador": "Pedro Rocha",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 7
  },
  {
   "jogador": "Breno Lopes",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 6
+ },
+ {
+  "jogador": "Viveros",
+  "time": "Athletico-PR",
+  "time_id": 900004,
   "gols": 6
  },
  {
@@ -18,19 +42,19 @@
   "gols": 5
  },
  {
-  "jogador": "Gabigol",
-  "time": "Santos",
-  "time_id": 900008,
-  "gols": 5
- },
- {
   "jogador": "John Kennedy",
   "time": "Fluminense",
   "time_id": 900005,
   "gols": 5
  },
  {
-  "jogador": "Samuel Lino",
+  "jogador": "Matheus Pereira",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 5
+ },
+ {
+  "jogador": "Pedro",
   "time": "Flamengo",
   "time_id": 900001,
   "gols": 5
@@ -42,22 +66,22 @@
   "gols": 4
  },
  {
-  "jogador": "Pedro",
-  "time": "Flamengo",
-  "time_id": 900001,
+  "jogador": "Kaio Jorge",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 4
  },
  {
-  "jogador": "Pedro Rocha",
-  "time": "Coritiba",
-  "time_id": 900012,
-  "gols": 4
+  "jogador": "Alan Patrick",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 3
  },
  {
-  "jogador": "Viveros",
-  "time": "Athletico-PR",
-  "time_id": 900004,
-  "gols": 4
+  "jogador": "Alejo Véliz",
+  "time": "Bahia",
+  "time_id": 900007,
+  "gols": 3
  },
  {
   "jogador": "Bruno Duarte",
@@ -66,9 +90,27 @@
   "gols": 3
  },
  {
+  "jogador": "Carrascal",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 3
+ },
+ {
   "jogador": "Danilo",
   "time": "Botafogo",
   "time_id": 900011,
+  "gols": 3
+ },
+ {
+  "jogador": "Erick Pulga",
+  "time": "Bahia",
+  "time_id": 900007,
+  "gols": 3
+ },
+ {
+  "jogador": "Flaco López",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 3
  },
  {
@@ -90,12 +132,6 @@
   "gols": 3
  },
  {
-  "jogador": "Kaio Jorge",
-  "time": "Cruzeiro",
-  "time_id": 900003,
-  "gols": 3
- },
- {
   "jogador": "Lavega",
   "time": "Coritiba",
   "time_id": 900012,
@@ -108,9 +144,21 @@
   "gols": 3
  },
  {
-  "jogador": "Matheus Pereira",
-  "time": "Cruzeiro",
-  "time_id": 900003,
+  "jogador": "Lucho Acosta",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 3
+ },
+ {
+  "jogador": "Marcinho",
+  "time": "Chapecoense",
+  "time_id": 900020,
+  "gols": 3
+ },
+ {
+  "jogador": "Matheus Bidu",
+  "time": "Corinthians",
+  "time_id": 900018,
   "gols": 3
  },
  {
@@ -132,9 +180,15 @@
   "gols": 3
  },
  {
-  "jogador": "Alan Patrick",
-  "time": "Internacional",
-  "time_id": 900016,
+  "jogador": "Yago Pikachu",
+  "time": "Remo",
+  "time_id": 900019,
+  "gols": 3
+ },
+ {
+  "jogador": "Barreal",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 2
  },
  {
@@ -150,15 +204,33 @@
   "gols": 2
  },
  {
-  "jogador": "Carrascal",
-  "time": "Flamengo",
-  "time_id": 900001,
+  "jogador": "Christian Oliva",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 2
+ },
+ {
+  "jogador": "Erick",
+  "time": "Bahia",
+  "time_id": 900007,
+  "gols": 2
+ },
+ {
+  "jogador": "Hulk",
+  "time": "Fluminense",
+  "time_id": 900005,
   "gols": 2
  },
  {
   "jogador": "Igor Formiga",
   "time": "Mirassol",
   "time_id": 900015,
+  "gols": 2
+ },
+ {
+  "jogador": "João Cruz",
+  "time": "Athletico-PR",
+  "time_id": 900004,
   "gols": 2
  },
  {
@@ -180,9 +252,9 @@
   "gols": 2
  },
  {
-  "jogador": "Lucho Acosta",
-  "time": "Fluminense",
-  "time_id": 900005,
+  "jogador": "Luciano Juba",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 2
  },
  {
@@ -198,21 +270,39 @@
   "gols": 2
  },
  {
-  "jogador": "Matheus Bidu",
-  "time": "Corinthians",
-  "time_id": 900018,
-  "gols": 2
- },
- {
   "jogador": "Neymar",
   "time": "Santos",
   "time_id": 900008,
   "gols": 2
  },
  {
+  "jogador": "Reinier",
+  "time": "Atlético-MG",
+  "time_id": 900006,
+  "gols": 2
+ },
+ {
+  "jogador": "Renê",
+  "time": "Vitória",
+  "time_id": 900014,
+  "gols": 2
+ },
+ {
+  "jogador": "Santi Rodríguez",
+  "time": "Botafogo",
+  "time_id": 900011,
+  "gols": 2
+ },
+ {
   "jogador": "Savarino",
   "time": "Fluminense",
   "time_id": 900005,
+  "gols": 2
+ },
+ {
+  "jogador": "Tchê Tchê",
+  "time": "Vasco",
+  "time_id": 900013,
   "gols": 2
  },
  {
@@ -228,9 +318,9 @@
   "gols": 2
  },
  {
-  "jogador": "Yago Pikachu",
-  "time": "Remo",
-  "time_id": 900019,
+  "jogador": "Vitor Roque",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 2
  },
  {
@@ -240,15 +330,15 @@
   "gols": 2
  },
  {
-  "jogador": "Agustín Canobbio",
-  "time": "Fluminense",
-  "time_id": 900005,
+  "jogador": "Aguirre",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 1
  },
  {
-  "jogador": "Alejo Véliz",
-  "time": "Bahia",
-  "time_id": 900007,
+  "jogador": "Agustín Canobbio",
+  "time": "Fluminense",
+  "time_id": 900005,
   "gols": 1
  },
  {
@@ -312,12 +402,6 @@
   "gols": 1
  },
  {
-  "jogador": "Barreal",
-  "time": "Santos",
-  "time_id": 900008,
-  "gols": 1
- },
- {
   "jogador": "Bernabei",
   "time": "Internacional",
   "time_id": 900016,
@@ -342,9 +426,27 @@
   "gols": 1
  },
  {
+  "jogador": "Bruno Henrique",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 1
+ },
+ {
+  "jogador": "Bruno Pacheco",
+  "time": "Chapecoense",
+  "time_id": 900020,
+  "gols": 1
+ },
+ {
   "jogador": "Bruno Rodrigues",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Bruno Santos",
+  "time": "Mirassol",
+  "time_id": 900015,
   "gols": 1
  },
  {
@@ -373,6 +475,12 @@
  },
  {
   "jogador": "Colidio",
+  "time": "Vasco",
+  "time_id": 900013,
+  "gols": 1
+ },
+ {
+  "jogador": "David",
   "time": "Vasco",
   "time_id": 900013,
   "gols": 1
@@ -414,6 +522,12 @@
   "gols": 1
  },
  {
+  "jogador": "Eduardo",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
   "jogador": "Eduardo Doma",
   "time": "Chapecoense",
   "time_id": 900020,
@@ -426,9 +540,9 @@
   "gols": 1
  },
  {
-  "jogador": "Erick Pulga",
-  "time": "Bahia",
-  "time_id": 900007,
+  "jogador": "Erick",
+  "time": "Vitória",
+  "time_id": 900014,
   "gols": 1
  },
  {
@@ -438,9 +552,21 @@
   "gols": 1
  },
  {
+  "jogador": "Fabinho",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 1
+ },
+ {
   "jogador": "Fabrício Bruno",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Facundo Colidio",
+  "time": "Vasco",
+  "time_id": 900013,
   "gols": 1
  },
  {
@@ -450,15 +576,21 @@
   "gols": 1
  },
  {
-  "jogador": "Ferraresi",
-  "time": "Botafogo",
-  "time_id": 900011,
+  "jogador": "Felipe Morais",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {
-  "jogador": "Flaco López",
-  "time": "Palmeiras",
-  "time_id": 900002,
+  "jogador": "Fernando",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
+  "gols": 1
+ },
+ {
+  "jogador": "Ferraresi",
+  "time": "Botafogo",
+  "time_id": 900011,
   "gols": 1
  },
  {
@@ -504,6 +636,24 @@
   "gols": 1
  },
  {
+  "jogador": "Gustavo Marques",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
+  "gols": 1
+ },
+ {
+  "jogador": "Gustavo Mosquito",
+  "time": "Mirassol",
+  "time_id": 900015,
+  "gols": 1
+ },
+ {
+  "jogador": "Gustavo Santana",
+  "time": "São Paulo",
+  "time_id": 900009,
+  "gols": 1
+ },
+ {
   "jogador": "Henry Mosquera",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
@@ -516,12 +666,6 @@
   "gols": 1
  },
  {
-  "jogador": "Hulk",
-  "time": "Fluminense",
-  "time_id": 900005,
-  "gols": 1
- },
- {
   "jogador": "Ignácio",
   "time": "Fluminense",
   "time_id": 900005,
@@ -531,6 +675,12 @@
   "jogador": "Jacy",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 1
+ },
+ {
+  "jogador": "Jean Lucas",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 1
  },
  {
@@ -564,6 +714,18 @@
   "gols": 1
  },
  {
+  "jogador": "Keny Arroyo",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Kevin Serna",
+  "time": "Fluminense",
+  "time_id": 900005,
+  "gols": 1
+ },
+ {
   "jogador": "Kike Olivera",
   "time": "Bahia",
   "time_id": 900007,
@@ -582,9 +744,27 @@
   "gols": 1
  },
  {
+  "jogador": "Lucas Barbosa",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucas Freitas",
+  "time": "Vasco",
+  "time_id": 900013,
+  "gols": 1
+ },
+ {
   "jogador": "Lucas Moura",
   "time": "São Paulo",
   "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucas Romero",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {
@@ -594,9 +774,9 @@
   "gols": 1
  },
  {
-  "jogador": "Luciano Juba",
-  "time": "Bahia",
-  "time_id": 900007,
+  "jogador": "Luciano",
+  "time": "São Paulo",
+  "time_id": 900009,
   "gols": 1
  },
  {
@@ -609,12 +789,6 @@
   "jogador": "Léo Ortiz",
   "time": "Flamengo",
   "time_id": 900001,
-  "gols": 1
- },
- {
-  "jogador": "Marcinho",
-  "time": "Chapecoense",
-  "time_id": 900020,
   "gols": 1
  },
  {
@@ -645,6 +819,12 @@
   "jogador": "Matheus Martins",
   "time": "Botafogo",
   "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Maurício",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 1
  },
  {
@@ -684,6 +864,12 @@
   "gols": 1
  },
  {
+  "jogador": "Paulo Roberto",
+  "time": "Coritiba",
+  "time_id": 900012,
+  "gols": 1
+ },
+ {
   "jogador": "Philippe Coutinho",
   "time": "Santos",
   "time_id": 900008,
@@ -714,15 +900,15 @@
   "gols": 1
  },
  {
-  "jogador": "Reinaldo",
-  "time": "Mirassol",
-  "time_id": 900015,
+  "jogador": "Raniele",
+  "time": "Corinthians",
+  "time_id": 900018,
   "gols": 1
  },
  {
-  "jogador": "Reinier",
-  "time": "Atlético-MG",
-  "time_id": 900006,
+  "jogador": "Reinaldo",
+  "time": "Mirassol",
+  "time_id": 900015,
   "gols": 1
  },
  {
@@ -733,12 +919,6 @@
  },
  {
   "jogador": "Renato Kayzer",
-  "time": "Vitória",
-  "time_id": 900014,
-  "gols": 1
- },
- {
-  "jogador": "Renê",
   "time": "Vitória",
   "time_id": 900014,
   "gols": 1
@@ -774,9 +954,9 @@
   "gols": 1
  },
  {
-  "jogador": "Tchê Tchê",
-  "time": "Vasco",
-  "time_id": 900013,
+  "jogador": "Thiago Borbas",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  },
  {
@@ -804,9 +984,9 @@
   "gols": 1
  },
  {
-  "jogador": "Vitor Roque",
-  "time": "Palmeiras",
-  "time_id": 900002,
+  "jogador": "Vitinho",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 1
  },
  {
@@ -819,6 +999,12 @@
   "jogador": "Wesley",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Zé Ricardo",
+  "time": "Remo",
+  "time_id": 900019,
   "gols": 1
  },
  {

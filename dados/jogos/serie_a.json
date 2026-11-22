@@ -5437,6 +5437,2106 @@
    }
   },
   {
+   "id": 91000480,
+   "data": "2026-08-22T12:00:00-03:00",
+   "casa": "fluminense",
+   "fora": "remo",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Jajá",
+     "minuto": "31",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Hulk",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kevin Serna",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://diariodopara.com.br/bola/remo-perde-de-virada-para-o-fluminense-e-permanece-na-zona-de-rebaixamento/"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000481,
+   "data": "2026-08-22T12:00:00-03:00",
+   "casa": "internacional",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://jornaldebrasilia.com.br/torcida/inter-e-atletico-mg-empatam-sem-gols-e-gauchos-podem-terminar-rodada-no-z4/"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000474,
+   "data": "2026-08-22T20:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Pedro",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Keny Arroyo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-x-flamengo-brasileirao-2026/"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fágner, Fabrício Bruno, João Marcelo, Lucas Villalba; Lucas Romero, Matheus Henrique, Matheus Pereira; Keny Arroyo, João Costa, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Gerson",
+       "saiu": "Lucas Romero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Lucas",
+       "saiu": "Matheus Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kaique Kenji",
+       "saiu": "Keny Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley",
+       "saiu": "João Costa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Néiser Villarreal",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Leonardo Jardim",
+     "time": "Rossi; Varela, Léo Ortiz, Danilo, Ayrton Lucas; Erick Pulgar, Arrascaeta, Lucas Paquetá; Carrascal, Samuel Lino, Pedro",
+     "entraram": [
+      {
+       "jogador": "Evertton Araujo",
+       "saiu": "Erick Pulgar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jorginho",
+       "saiu": "Arrascaeta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Lucas Paquetá",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gonzalo Plata",
+       "saiu": "Samuel Lino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luiz Araújo",
+       "saiu": "Pedro",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/cruzeiro-x-flamengo-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-22T12:19:00-03:00"
+   }
+  },
+  {
+   "id": 91000473,
+   "data": "2026-08-23T12:00:00-03:00",
+   "casa": "palmeiras",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nubank Parque",
+   "cidade": "São Paulo",
+   "gols_casa": 4,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Flaco López",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitor Roque",
+     "minuto": "51",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Maurício",
+     "minuto": "55",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Flaco López",
+     "minuto": "89",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Facundo Colidio",
+     "minuto": "94",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://www.opovo.com.br/esportes/2026/08/24/palmeiras-goleia-vasco-e-volta-a-abrir-frente-no-brasileirao-4-a-1.html"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000475,
+   "data": "2026-08-23T12:00:00-03:00",
+   "casa": "vitoria",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 0,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Alejo Véliz",
+     "minuto": "67",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Jean Lucas",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://www.opovo.com.br/esportes/2026/08/24/palmeiras-goleia-vasco-e-volta-a-abrir-frente-no-brasileirao-4-a-1.html"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000476,
+   "data": "2026-08-23T16:00:00-03:00",
+   "casa": "bragantino",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Marques",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://www.jornaldocomercio.com/esportes/2026/08/1260685-com-gol-no-ultimo-minuto-gremio-perde-para-o-bragantino-fora-de-casa-na-semana-gre-nal.html"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00"
+  },
+  {
+   "id": 91000477,
+   "data": "2026-08-23T18:30:00-03:00",
+   "casa": "chapecoense",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Condá",
+   "cidade": "Chapecó",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Bruno Pacheco",
+     "minuto": "25",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/chapecoense-x-sao-paulo-campeonato-brasileiro-23-08-2026/"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Kauan Faria, Heitor, Eduardo Doma, Bruno Pacheco; Camilo, Yago Felipe, Giovanni Augusto; Marcinho, Túlio Eduardo, Dylan Borrero",
+     "entraram": [
+      {
+       "jogador": "Everton",
+       "saiu": "Heitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Matias",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Franco Rossi",
+       "saiu": "Túlio Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Garcez",
+       "saiu": "Dylan Borrero",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Lucas Ramon, Sabino, Domingos Duarte, Iago; Pablo Maia, Danielzinho, Cauly; Artur, Luciano, Calleri",
+     "entraram": [
+      {
+       "jogador": "Newton",
+       "saiu": "Lucas Ramon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ferreirinha",
+       "saiu": "Pablo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcos Antônio",
+       "saiu": "Danielzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Ferreira",
+       "saiu": "Cauly",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Santana",
+       "saiu": "Calleri",
+       "minuto": "28"
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/chapecoense-x-sao-paulo-campeonato-brasileiro-23-08-2026/"
+    ],
+    "atualizado": "2026-11-22T12:19:00-03:00"
+   }
+  },
+  {
+   "id": 91000478,
+   "data": "2026-08-23T18:30:00-03:00",
+   "casa": "santos",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Eduardo",
+     "minuto": "35",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Barreal",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-mirassol-brasileirao-2026/"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Gabriel Brazão; Igor Vinícius, Willian Arão, Luan Peres, Escobar; João Schmidt, Gustavo Henrique, Neymar; Barreal, Rony, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Davizinho",
+       "saiu": "Igor Vinícius",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "João Schmidt",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thaciano",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Bontempo",
+       "saiu": "Rony",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caballero",
+       "saiu": "Gabigol",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Gabriel Knesowitsch, João Victor, Willian Machado; Igor Formiga, Cazonatti, Neto Moura, Eduardo, Reinaldo; Alesson, Bruno Santos",
+     "entraram": [
+      {
+       "jogador": "Lucas Oliveira",
+       "saiu": "Gabriel Knesowitsch",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wallisson",
+       "saiu": "Cazonatti",
+       "minuto": ""
+      },
+      {
+       "jogador": "Japa",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Alesson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/santos-x-mirassol-brasileirao-2026/"
+    ],
+    "atualizado": "2026-11-22T12:19:00-03:00"
+   }
+  },
+  {
+   "id": 91000479,
+   "data": "2026-08-23T19:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Pedro Rocha",
+     "minuto": "39",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Paulo Roberto",
+     "minuto": "74",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Raniele",
+     "minuto": "92",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/palmeiras-goleia-vasco-e-volta-a-abrir-vantagem-na-lideranca-do-brasileirao",
+    "https://www.gazetaesportiva.com/?p=3843336"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; JP Chermont, Tiago Cóser, Jacy, Bruno Melo; Thiago Santos, Sebastián Gómez, Josué; Lavega, Breno Lopes, Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Vitor Tissi",
+       "saiu": "Thiago Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Roberto",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Fernando Diniz",
+     "time": "Kauê; Pedro Milans, Gabriel Paulista, Gustavo Henrique, Angileri; Raniele, Allan, André Carrillo, Breno Bidon; Kaio César, Pedro Raul",
+     "entraram": [
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Pedro Milans",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Negão",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Memphis Depay",
+       "saiu": "Pedro Raul",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3843336"
+    ],
+    "atualizado": "2026-11-22T12:19:00-03:00"
+   }
+  },
+  {
+   "id": 91000482,
+   "data": "2026-08-24T20:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "João Cruz",
+     "minuto": "10",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Viveros",
+     "minuto": "12",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Viveros",
+     "minuto": "33",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Santi Rodríguez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Santi Rodríguez",
+     "minuto": "91",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/athletico-pr-abre-tres-segura-reacao-tardia-do-botafogo-e-cola-no-vice-lider-do-brasileirao-1.1160823",
+    "https://acritica.net/esportes/futebol/athletico-pr-vence-botafogo-3-a-2-24-rodada-brasileirao/"
+   ],
+   "atualizado": "2026-11-22T12:18:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rodrigo Bellão",
+     "time": "Gabriel Batista; Vitinho, Ferraresi, Justino, Alex Telles; Allan, Edenílson, Medina, Montoro; Kauan Toledo, Danilo Pereira",
+     "entraram": [
+      {
+       "jogador": "Huguinho",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Santi Rodríguez",
+       "saiu": "Edenílson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kadir",
+       "saiu": "Medina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Martins",
+       "saiu": "Montoro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Júnior Santos",
+       "saiu": "Kauan Toledo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Odair Hellmann",
+     "time": "Santos; Dantas, Aguirre, Arthur Dias; Benavídez, Jadson, Luiz Gustavo, João Cruz, Leozinho, Mendoza; Viveros",
+     "entraram": [
+      {
+       "jogador": "Portilla",
+       "saiu": "Luiz Gustavo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu",
+       "saiu": "João Cruz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vargas",
+       "saiu": "Leozinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renan Peixoto",
+       "saiu": "Viveros",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/athletico-pr-abre-tres-segura-reacao-tardia-do-botafogo-e-cola-no-vice-lider-do-brasileirao-1.1160823"
+    ],
+    "atualizado": "2026-11-22T12:19:00-03:00"
+   }
+  },
+  {
+   "id": 91000483,
+   "data": "2026-08-29T18:30:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Thiago Borbas",
+     "minuto": "24",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Reinier",
+     "minuto": "62",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Erick",
+     "minuto": "86",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/atletico-mineiro-x-vitoria/832135",
+    "https://www.bahianoticias.com.br/esportes/vitoria/31478-pouco-inspirado-na-maior-parte-do-tempo-vitoria-perde-para-o-atletico-mg-e-segue-sem-vencer-fora-na-serie-a"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Dominguez",
+     "time": "Gabriel Delfim; Preciado, Natanael, Vitão, Pascini; Tomás Pérez, Cissé, Alexsander, Reinier; Alan Minda, Thiago Borbas",
+     "entraram": [
+      {
+       "jogador": "Vitor Hugo",
+       "saiu": "Alexsander",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cauã Soares",
+       "saiu": "Reinier",
+       "minuto": ""
+      },
+      {
+       "jogador": "Dudu",
+       "saiu": "Alan Minda",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Scarpa",
+       "saiu": "Thiago Borbas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Jair Ventura",
+     "time": "Lucas Arcanjo; Brítez, Cacá, Luan Cândido, Jamerson; Caíque, Martínez, Pochettino; Tarzia, Marinho, Alex Bruno",
+     "entraram": [
+      {
+       "jogador": "Mateus Silva",
+       "saiu": "Brítez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Walace",
+       "saiu": "Caíque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erick",
+       "saiu": "Martínez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheuzinho",
+       "saiu": "Tarzia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renê",
+       "saiu": "Alex Bruno",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.bahianoticias.com.br/esportes/vitoria/31478-pouco-inspirado-na-maior-parte-do-tempo-vitoria-perde-para-o-atletico-mg-e-segue-sem-vencer-fora-na-serie-a"
+    ],
+    "atualizado": "2026-11-22T12:22:00-03:00"
+   }
+  },
+  {
+   "id": 91000484,
+   "data": "2026-08-29T20:00:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "bragantino",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Morumbis",
+   "cidade": "São Paulo",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Luciano",
+     "minuto": "12",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Santana",
+     "minuto": "45+4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Fernando",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/sao-paulo-x-red-bull-bragantino/832132",
+    "https://www.oliberal.com/esportes/sao-paulo-ganha-do-bragantino-e-volta-a-vencer-no-brasileiro-apos-10-jogos-1.1162850"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00"
+  },
+  {
+   "id": 91000485,
+   "data": "2026-08-29T21:20:00-03:00",
+   "casa": "vasco",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "São Januário",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Tchê Tchê",
+     "minuto": "33",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Lucas Freitas",
+     "minuto": "55",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "David",
+     "minuto": "90+2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Felipe Morais",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/vasco/vasco-x-cruzeiro-brasileirao-rodada-25/",
+    "https://www.otempo.com.br/sports/futebol-nacional/2026/8/29/vasco-bate-o-cruzeiro-e-volta-a-vencer-no-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Paulo Henrique, Carlos Cuesta, Lucas Freitas, Lucas Piton; Santiago Sosa, Tchê Tchê, Thiago Mendes; Adson, Colidio, Andrés Gómez",
+     "entraram": [
+      {
+       "jogador": "Cauan Barros",
+       "saiu": "Santiago Sosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Rique",
+       "saiu": "Tchê Tchê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Puma Rodríguez",
+       "saiu": "Adson",
+       "minuto": ""
+      },
+      {
+       "jogador": "David",
+       "saiu": "Colidio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hinestroza",
+       "saiu": "Andrés Gómez",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; William, João Marcelo, Jonathan Jesus, Gabriel Rojas; Zé Lucas, Matheus Henrique, Kaique Kenji; João Costa, Villarreal, Lucho Rodríguez",
+     "entraram": [
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Morais",
+       "saiu": "Kaique Kenji",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley",
+       "saiu": "João Costa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wanderson",
+       "saiu": "Villarreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Lucho Rodríguez",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/vasco/vasco-x-cruzeiro-brasileirao-rodada-25/"
+    ],
+    "atualizado": "2026-11-22T12:22:00-03:00"
+   }
+  },
+  {
+   "id": 91000486,
+   "data": "2026-08-30T11:00:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 3,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/athletico-paranaense-x-fluminense/832137",
+    "https://ohoje.com/2026/08/30/athletico-pr-arranca-empate-contra-fluminense-em-jogo-de-seis-gols-na-arena-da-baixada/"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00"
+  },
+  {
+   "id": 91000487,
+   "data": "2026-08-30T16:00:00-03:00",
+   "casa": "flamengo",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Samuel Lino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Samuel Lino",
+     "minuto": "85",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carrascal",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/08/30/samuel-lino-decide-flamengo-goleia-o-botafogo-e-pressiona-o-palmeiras-no-brasileirao/",
+    "https://www.jb.com.br/esportes/2026/08/1060749-flamengo-vence-botafogo-por-3-a-0-no-maracana-pelo-brasileirao.html"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00"
+  },
+  {
+   "id": 91000488,
+   "data": "2026-08-30T16:00:00-03:00",
+   "casa": "corinthians",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Christian Oliva",
+     "minuto": "33",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/08/30/santos-vence-corinthians-fora-de-casa-encerra-jejum-em-classicos-e-respira-na-luta-contra-o-z4/",
+    "https://acritica.net/esportes/futebol/com-jogada-de-neymar-santos-vence-corinthians-por-1-a-0-no-brasileirao/"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00"
+  },
+  {
+   "id": 91000489,
+   "data": "2026-08-30T18:30:00-03:00",
+   "casa": "gremio",
+   "fora": "chapecoense",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/gremio-vira-diante-da-chapecoense-e-fica-com-moral-alta-antes-do-gre-nal-da-copa-do-brasil-1.1163017",
+    "https://www.jornaldocomercio.com/esportes/2026/08/1261546-vitoria-do-gremio-veio-apos-reverter-desvantagem-inicial-contra-a-chapecoense.html"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luís Castro",
+     "time": "Weverton; Pavón, Gustavo Martins, Wallace, Marlon; Danilo Barbosa, Villasanti, Krovinovic; Amuzu, Braithwaite, Enamorado",
+     "entraram": [
+      {
+       "jogador": "Pedro Gabriel",
+       "saiu": "Marlon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bernardo Zortéa",
+       "saiu": "Danilo Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Amuzu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Vinícius",
+       "saiu": "Braithwaite",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Pedro",
+       "saiu": "Enamorado",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Heitor, Kauan, Eduardo Doma, Bruno Pacheco; Yago Felipe, Bruno Matias, Giovanni Augusto; Marcinho, Túlio Eduardo, Garcez",
+     "entraram": [
+      {
+       "jogador": "Fernando",
+       "saiu": "Bruno Pacheco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel Carvalho",
+       "saiu": "Bruno Matias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ênio",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Borrero",
+       "saiu": "Marcinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Franco Rossi",
+       "saiu": "Garcez",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/gremio-vira-diante-da-chapecoense-e-fica-com-moral-alta-antes-do-gre-nal-da-copa-do-brasil-1.1163017"
+    ],
+    "atualizado": "2026-11-22T12:22:00-03:00"
+   }
+  },
+  {
+   "id": 91000490,
+   "data": "2026-08-30T19:30:00-03:00",
+   "casa": "mirassol",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "José Maria de Campos Maia",
+   "cidade": "Mirassol",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.bahianoticias.com.br/folha/noticia/407764-palmeiras-tropeca-flamengo-vence-e-assume-a-lideranca-do-brasileiro",
+    "https://abcdoabc.com.br/palmeiras-empata-por"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00"
+  },
+  {
+   "id": 91000491,
+   "data": "2026-08-30T19:30:00-03:00",
+   "casa": "bahia",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 3,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Alan Patrick",
+     "minuto": "16",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Erick Pulga",
+     "minuto": "23",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Erick Pulga",
+     "minuto": "43",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Erick",
+     "minuto": "45+4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vitinho",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/bahia-x-internacional/832138",
+    "https://www.oliberal.com/esportes/bahia-vence-batalha-de-cinco-gols-derruba-o-inter-ao-z-4-e-entra-no-g-5-do-brasileirao-1.1163029"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Román Gómez, David Duarte, Santiago Mingo, Luciano Juba; Acevedo, Erick, Rodrigo Nestor; Cristian Olivera, Alejo Véliz, Erick Pulga",
+     "entraram": [
+      {
+       "jogador": "Marcos Victor",
+       "saiu": "Román Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araújo",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Cristian Olivera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ruan Pablo",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Matheus Cunha; Aguirre, Félix Torres, Marián, Matheus Bahia; Ronaldo, Bruno Henrique, Thiago Maia, Vitinho, Bernabei; Alan Patrick",
+     "entraram": [
+      {
+       "jogador": "Juninho",
+       "saiu": "Matheus Bahia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Calebe",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliasson",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Bernabei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carbonero",
+       "saiu": "Alan Patrick",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/bahia-vence-batalha-de-cinco-gols-derruba-o-inter-ao-z-4-e-entra-no-g-5-do-brasileirao-1.1163029"
+    ],
+    "atualizado": "2026-11-22T12:22:00-03:00"
+   }
+  },
+  {
+   "id": 91000492,
+   "data": "2026-08-31T20:00:00-03:00",
+   "casa": "remo",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "25",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 2,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Zé Welison",
+     "minuto": "47",
+     "tipo": "contra"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Zé Ricardo",
+     "minuto": "61",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Yago Pikachu",
+     "minuto": "65",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Fabinho",
+     "minuto": "75",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pedro Rocha",
+     "minuto": "90+1",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.umdoisesportes.com.br/coritiba/remo-coritiba-gols-ficha-brasileirao-2026/",
+    "https://www.band.com.br/esportes/remo-2-x-3-coritiba-virada-e-coxa-perto-do-g5-do-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:22:00-03:00"
+  },
+  {
+   "id": 91000493,
+   "data": "2026-09-05T16:00:00-03:00",
+   "casa": "bragantino",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 2,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Lucas Barbosa",
+     "minuto": "4",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Luciano Juba",
+     "minuto": "33",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Alejo Véliz",
+     "minuto": "38",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Santiago Mingo",
+     "minuto": "45+1",
+     "tipo": "contra"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Erick",
+     "minuto": "49",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/red-bull-bragantino-x-bahia/832144",
+    "https://www.bahianoticias.com.br/esportes/bahia/34034-bahia-derruba-o-bragantino-fora-chega-a-dez-jogos-invicto-e-assume-o-4-lugar-do-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Andrés Hurtado, Pedro Henrique, Gustavo Marques, Juninho Capixaba; Eric Ramires, Rodriguinho, Lucas Barbosa; Herrera, Vinicinho, Fernando",
+     "entraram": [
+      {
+       "jogador": "Mosquera",
+       "saiu": "Herrera",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Román Gómez, David Duarte, Ramos Mingo, Luciano Juba; Acevedo, Erick, Rodrigo Nestor; Kike Olivera, Erick Pulga, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Caio Alexandre",
+       "saiu": "Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jean Lucas",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ademir",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.bahianoticias.com.br/esportes/bahia/34034-bahia-derruba-o-bragantino-fora-chega-a-dez-jogos-invicto-e-assume-o-4-lugar-do-brasileirao"
+    ],
+    "atualizado": "2026-11-22T12:26:00-03:00"
+   }
+  },
+  {
+   "id": 91000494,
+   "data": "2026-09-05T18:30:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Morumbis",
+   "cidade": "São Paulo",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/sao-paulo-x-atletico-mineiro/832142",
+    "https://abcdoabc.com.br/sao-paulo-joga-bem-vence-o-atletico"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00"
+  },
+  {
+   "id": 91000495,
+   "data": "2026-09-05T18:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Pedro Rocha",
+     "minuto": "60",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Mosquito",
+     "minuto": "63",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Bruno Santos",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/mirassol-vira-contra-o-coritiba-desencanta-apos-5-jogos-no-brasileirao-e-se-mantem-fora-do-z-4-1.1165535",
+    "https://www.cartacapital.com.br/esporte/de-virada-mirassol-derrota-coritiba-pelo-campeonato-brasileiro/"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; JP Chermont, Rodrigo Moledo, Jacy, Bruno Melo; Thiago Santos, Sebastián Gómez, Fabinho; Lavega, Pedro Rocha, Breno Lopes",
+     "entraram": [
+      {
+       "jogador": "Felipe Jonatan",
+       "saiu": "JP Chermont",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maicon",
+       "saiu": "Jacy",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Tissi",
+       "saiu": "Thiago Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Josué",
+       "saiu": "Fabinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Roberto",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Alex Muralha; Igor Formiga, João Victor, Willian Machado, Reinaldo; Wallisson, Denilson, Eduardo; Gustavo Mosquito, Bruno Santos, Alesson",
+     "entraram": [
+      {
+       "jogador": "Gustavo Cazonatti",
+       "saiu": "Wallisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Chico Kim",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Knesowitsch",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernandinho",
+       "saiu": "Gustavo Mosquito",
+       "minuto": ""
+      },
+      {
+       "jogador": "Shaylon",
+       "saiu": "Alesson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/mirassol-vira-contra-o-coritiba-desencanta-apos-5-jogos-no-brasileirao-e-se-mantem-fora-do-z-4-1.1165535"
+    ],
+    "atualizado": "2026-11-22T12:26:00-03:00"
+   }
+  },
+  {
+   "id": 91000496,
+   "data": "2026-09-05T21:00:00-03:00",
+   "casa": "fluminense",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Lucho Acosta",
+     "minuto": "60",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/fluminense-se-vinga-de-eliminacao-na-copa-do-brasil-segue-no-g-4-e-afunda-o-vasco-no-z-4-1.1165446",
+    "https://www.jb.com.br/esportes/2026/09/1060820-fluminense-vence-vasco-por-1-a-0-no-maracana-pelo-brasileirao.html"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Ignácio, Millán, Renê; Martinelli, Nonato, Ganso; Canobbio, Hulk, Soteldo",
+     "entraram": [
+      {
+       "jogador": "Júlio Fidelis",
+       "saiu": "Guga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucho Acosta",
+       "saiu": "Ganso",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Arana",
+       "saiu": "Hulk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Serna",
+       "saiu": "Soteldo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Paulo Henrique, Carlos Cuesta, Robert Renan, Lucas Piton; Santiago Sosa, Tchê Tchê, Thiago Mendes; Andrés Gómez, Bruno Duarte, Colidio",
+     "entraram": [
+      {
+       "jogador": "Puma Rodríguez",
+       "saiu": "Paulo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ramon Rique",
+       "saiu": "Carlos Cuesta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Spinelli",
+       "saiu": "Tchê Tchê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Adson",
+       "saiu": "Bruno Duarte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marino Hinestroza",
+       "saiu": "Adson",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/fluminense-se-vinga-de-eliminacao-na-copa-do-brasil-segue-no-g-4-e-afunda-o-vasco-no-z-4-1.1165446"
+    ],
+    "atualizado": "2026-11-22T12:26:00-03:00"
+   }
+  },
+  {
+   "id": 91000497,
+   "data": "2026-09-06T16:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "30",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "João Cruz",
+     "minuto": "45",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Lucas Romero",
+     "minuto": "70",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kaio Jorge",
+     "minuto": "80",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/cruzeiro-x-athletico-paranaense/832145",
+    "https://www.cartacapital.com.br/esporte/cruzeiro-vence-athletico-pr-e-se-mantem-na-cola-do-g5-no-campeonato-brasileiro/"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00"
+  },
+  {
+   "id": 91000498,
+   "data": "2026-09-06T16:00:00-03:00",
+   "casa": "internacional",
+   "fora": "santos",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 2,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gabigol",
+     "minuto": "7",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gabigol",
+     "minuto": "28",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Christian Oliva",
+     "minuto": "38",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Aguirre",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bruno Henrique",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3851531",
+    "https://www.jornaldocomercio.com/esportes/2026/09/1262493-santos-afunda-inter-com-redencao-de-gabigol-e-se-afasta-de-vez-da-zona-de-queda-no-brasileirao.html"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Paulo Pezzolano",
+     "time": "Matheus Cunha; Bruno Gomes, Félix Torres, Mercado, Matheus Bahia; Ronaldo, Thiago Maia, Alan Patrick; Vitinho, Carbonero, Sanabria",
+     "entraram": [
+      {
+       "jogador": "Villagra",
+       "saiu": "Ronaldo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho",
+       "saiu": "Thiago Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Henrique",
+       "saiu": "Alan Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliasson",
+       "saiu": "Carbonero",
+       "minuto": ""
+      },
+      {
+       "jogador": "Aguirre",
+       "saiu": "Sanabria",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Cuca",
+     "time": "Gabriel Brazão; Igor Vinícius, Willian Arão, Luan Peres, Escobar; Gustavo Henrique, Christian Oliva, Rollheiser; Gabriel Bontempo, Gabigol, Caballero",
+     "entraram": [
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Gustavo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguelito",
+       "saiu": "Rollheiser",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lima",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thaciano",
+       "saiu": "Gabigol",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur",
+       "saiu": "Caballero",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/?p=3851531"
+    ],
+    "atualizado": "2026-11-22T12:26:00-03:00"
+   }
+  },
+  {
+   "id": 91000499,
+   "data": "2026-09-06T16:00:00-03:00",
+   "casa": "remo",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mangueirão",
+   "cidade": "Belém",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Samuel Lino",
+     "minuto": "65",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.bahianoticias.com.br/folha/noticia/407764-palmeiras-tropeca-flamengo-vence-e-assume-a-lideranca-do-brasileiro",
+    "https://www.diariodorio.com/esporte/flamengo/2026/09/06/melhores-momentos-de-remo-0-x-1-flamengo-pelo-brasileirao-2026.html"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00"
+  },
+  {
+   "id": 91000500,
+   "data": "2026-09-06T18:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.bahianoticias.com.br/folha/noticia/407764-palmeiras-tropeca-flamengo-vence-e-assume-a-lideranca-do-brasileiro",
+    "https://diariodopara.com.br/bola/palmeiras-empata-sem-gols-com-botafogo-e-perde-a-lideranca-do-brasileirao-para-o-flamengo/"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00"
+  },
+  {
+   "id": 91000501,
+   "data": "2026-09-06T19:30:00-03:00",
+   "casa": "corinthians",
+   "fora": "chapecoense",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Bidu",
+     "minuto": "1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Marcinho",
+     "minuto": "40",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Marcinho",
+     "minuto": "77",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/corinthians-x-chapecoense/832143",
+    "https://www.oliberal.com/esportes/lanterna-chapecoense-vence-mais-uma-e-se-aproxima-do-remo-no-brasileirao-1.1165883"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Diniz",
+     "time": "Kauê; Matheuzinho, João Pedro, Gustavo Henrique, Matheus Bidu; Allan, André Carrillo, Breno Bidon, Rodrigo Garro; Kaio César, Memphis Depay",
+     "entraram": [
+      {
+       "jogador": "Jesse Lingard",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "André Carrillo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Rodrigo Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Negão",
+       "saiu": "Memphis Depay",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Heitor, Kauan, Eduardo Doma, Fernando; Camilo, Yago Felipe, Giovanni Augusto; Garcez, Túlio Eduardo, Marcinho",
+     "entraram": [
+      {
+       "jogador": "Everton",
+       "saiu": "Heitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Matias",
+       "saiu": "Yago Felipe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel Carvalho",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yannick Bolasie",
+       "saiu": "Túlio Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "David",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/lanterna-chapecoense-vence-mais-uma-e-se-aproxima-do-remo-no-brasileirao-1.1165883"
+    ],
+    "atualizado": "2026-11-22T12:26:00-03:00"
+   }
+  },
+  {
+   "id": 91000502,
+   "data": "2026-09-07T20:00:00-03:00",
+   "casa": "vitoria",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "26",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Renê",
+     "minuto": "63",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/vitoria-x-gremio/832148",
+    "https://www.oliberal.com/esportes/vitoria-vence-duelo-direto-contra-o-gremio-quebra-jejum-e-se-afasta-do-z-4-do-brasileiro-1.1166267"
+   ],
+   "atualizado": "2026-11-22T12:25:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Jair Ventura",
+     "time": "Lucas Arcanjo; Mateus Silva, Brítez, Luan Cândido, Jamerson; Caíque, Zé Vitor, Matheuzinho; Erick, Renê, Tarzia",
+     "entraram": [
+      {
+       "jogador": "Edenilson",
+       "saiu": "Caíque",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pochettino",
+       "saiu": "Matheuzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marinho",
+       "saiu": "Erick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Renato Kayzer",
+       "saiu": "Renê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabri",
+       "saiu": "Tarzia",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Luís Castro",
+     "time": "Weverton; Diego Caito, Gustavo Martins, Wallace, Pedro Gabriel; Noriega, Villasanti, Krovinovic; Pavón, Carlos Vinícius, Tetê",
+     "entraram": [
+      {
+       "jogador": "Caio Paulista",
+       "saiu": "Pedro Gabriel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo Barbosa",
+       "saiu": "Noriega",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nardoni",
+       "saiu": "Villasanti",
+       "minuto": ""
+      },
+      {
+       "jogador": "Enamorado",
+       "saiu": "Pavón",
+       "minuto": ""
+      },
+      {
+       "jogador": "Braithwaite",
+       "saiu": "Carlos Vinícius",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/vitoria-vence-duelo-direto-contra-o-gremio-quebra-jejum-e-se-afasta-do-z-4-do-brasileiro-1.1166267"
+    ],
+    "atualizado": "2026-11-22T12:26:00-03:00"
+   }
+  },
+  {
    "id": 91000051,
    "data": "2026-09-19T16:00:00-03:00",
    "casa": "atletico-mg",
