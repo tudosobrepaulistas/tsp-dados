@@ -379,6 +379,131 @@
    }
   },
   {
+   "id": 91000453,
+   "data": "2026-03-22T16:00:00-03:00",
+   "casa": "avai",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ressacada",
+   "cidade": "Florianópolis",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Felipe Avenatti",
+     "minuto": "37",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Walace França",
+     "minuto": "74",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/avai-derrota-o-juventude-por-2-a-0-na-ressacada-na-estreia-da-serie-b-do-brasileiro-1.1100451",
+    "https://www.jornaldocomercio.com/esportes/2026/03/1241742-juventude-e-derrotado-pelo-avai-na-estreia-da-serie-b.html"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cauan de Almeida",
+     "time": "Léo Aragão; Wallison, Allyson, Baldini, Douglas Teixeira; Zé Ricardo, Luiz Henrique, Daniel Penha; Jean Lucas, Felipe Avenatti, Thayllon",
+     "entraram": [
+      {
+       "jogador": "Wesley Gasolina",
+       "saiu": "Luiz Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wenderson",
+       "saiu": "Daniel Penha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Walace França",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Vitor",
+       "saiu": "Felipe Avenatti",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sorriso",
+       "saiu": "Thayllon",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Zé Ricardo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Douglas Teixeira",
+        "minuto": ""
+       },
+       {
+        "jogador": "Walace França",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Raí Ramos, Luan Martins, Mandaca, Wadson; Manuel Castro, MP, Pablo Roberto",
+     "entraram": [
+      {
+       "jogador": "Nathan Santos",
+       "saiu": "Raí Ramos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Luan Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allanzinho",
+       "saiu": "Wadson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Lima",
+       "saiu": "Manuel Castro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Raí Silva",
+       "saiu": "Pablo Roberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/avai-derrota-o-juventude-por-2-a-0-na-ressacada-na-estreia-da-serie-b-do-brasileiro-1.1100451"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000386,
    "data": "2026-03-22T18:00:00-03:00",
    "casa": "athletic-mg",
@@ -517,6 +642,29 @@
     ],
     "atualizado": "2026-11-17T03:33:00-03:00"
    }
+  },
+  {
+   "id": 91000454,
+   "data": "2026-03-31T18:30:00-03:00",
+   "casa": "juventude",
+   "fora": "novorizontino",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.oliberal.com/esportes/juventude-e-novorizontino-fazem-jogo-morno-e-nao-saem-do-zero-pela-serie-b-1.1104401",
+    "https://www.juventude.com.br/blog/no-jaconi-juventude-fica-no-empate-diante-do-novorizontino"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00"
   },
   {
    "id": 91000326,
@@ -964,6 +1112,124 @@
    "atualizado": "2026-11-11T18:43:00-03:00"
   },
   {
+   "id": 91000455,
+   "data": "2026-04-04T12:00:00-03:00",
+   "casa": "fortaleza",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-x-juventude-veja-horario-onde-assistir-palpites-e-provaveis-escalacoes-1.3754901",
+    "https://www.juventude.com.br/blog/na-arena-castelao-juventude-perde-para-o-fortaleza"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "sem_hora": true,
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Estephano Djian",
+     "time": "Brenno; Mailton, Lucas Gazal, Benítez, Mucuri; Ronald, Lucas Sasha, Pochettino; Ryan, Lucas Emanoel, Luiz Fernando",
+     "entraram": [
+      {
+       "jogador": "Lucas Crispim",
+       "saiu": "Mucuri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan Freitas",
+       "saiu": "Lucas Sasha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo",
+       "saiu": "Pochettino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodriguinho",
+       "saiu": "Ryan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miritello",
+       "saiu": "Lucas Emanoel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Luiz Fernando",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Mailton",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luiz Fernando",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Raí Ramos, Luan Martins, Mandaca, Raí Silva, Wadson; Manuel Castro, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Léo Índio",
+       "saiu": "Messias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Santos",
+       "saiu": "Marcos Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Lima",
+       "saiu": "Raí Ramos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlinhos",
+       "saiu": "Luan Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/na-arena-castelao-juventude-perde-para-o-fortaleza"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000366,
    "data": "2026-04-04T18:00:00-03:00",
    "casa": "cuiaba",
@@ -1409,6 +1675,133 @@
    }
   },
   {
+   "id": 91000456,
+   "data": "2026-04-11T16:00:00-03:00",
+   "casa": "juventude",
+   "fora": "goias",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Luiz Felipe",
+     "minuto": "",
+     "tipo": "contra"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alan Kardec",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3777689",
+    "https://ohoje.com/2026/04/11/juventude-derruba-invencibilidade-do-goias-na-temporada-e-conquista-primeira-vitoria-na-serie-b/"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Diego Favarin",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Raí Ramos, Luan Martins, Mandaca, Raí Silva, Wadson; Allanzinho, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Rodrigo Sam",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Mineiro",
+       "saiu": "Raí Ramos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Índio",
+       "saiu": "Luan Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlinhos",
+       "saiu": "Allanzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ray Breno",
+       "saiu": "Alan Kardec",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Daniel Paulista",
+     "time": "Tadeu; Rodrigo Soares, Luisão, Luiz Felipe, Nicolas; Filipe Machado, Lourenço, Gegê, Lucas Lima; Cadu, Anselmo Ramon",
+     "entraram": [
+      {
+       "jogador": "Djalma",
+       "saiu": "Nicolas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Ribeiro",
+       "saiu": "Gegê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedrinho",
+       "saiu": "Lucas Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Sávio",
+       "saiu": "Cadu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Esli Garcia",
+       "saiu": "Anselmo Ramon",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lourenço",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Rodrigo Soares",
+        "minuto": ""
+       },
+       {
+        "jogador": "Esli Garcia",
+        "minuto": "53"
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/com-imposicao-juventude-vence-o-lider-goias-no-alfredo-jaconi",
+     "https://www.gazetaesportiva.com/?p=3777689"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000328,
    "data": "2026-04-11T18:00:00-03:00",
    "casa": "sport",
@@ -1631,6 +2024,144 @@
     "https://opopular.com.br/esporte/atletico-go-vence-o-londrina-e-soma-primeiros-pontos-na-serie-b-1.3397558"
    ],
    "atualizado": "2026-11-21T03:38:00-03:00"
+  },
+  {
+   "id": 91000457,
+   "data": "2026-04-18T12:00:00-03:00",
+   "casa": "crb",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "5",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Allanzinho",
+     "minuto": "40",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.juventude.com.br/blog/allanzinho-marca-e-ju-vence-a-primeira-fora-da-casa-na-serie-b",
+    "https://crboficial.com.br/imprensa/crb-e-superado-pelo-juventude-na-5-rodada-da-serie-b"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "sem_hora": true,
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Barroca",
+     "time": "Matheus Albino; Hereda, Bressan, Fábio Alemão, Lucas Lovat; Pedro Castro, Luizão, Danielzinho; Dadá Belmonte, Douglas Baggio, Luiz Phellype",
+     "entraram": [
+      {
+       "jogador": "Henri",
+       "saiu": "Bressan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mikael",
+       "saiu": "Luizão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kevin",
+       "saiu": "Dadá Belmonte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patryck de Lucca",
+       "saiu": "Douglas Baggio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Guilherme Pato",
+       "saiu": "Luiz Phellype",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Bressan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Guilherme Pato",
+        "minuto": ""
+       },
+       {
+        "jogador": "Fábio Alemão",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lucas Lovat",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Hereda",
+        "minuto": "64"
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Manuel Castro, Luan Martins, Mandaca, Raí Silva, Wadson; Allanzinho, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Gabriel Pinheiro",
+       "saiu": "Messias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nathan Santos",
+       "saiu": "Manuel Castro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diogo Barbosa",
+       "saiu": "Wadson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Lima",
+       "saiu": "Allanzinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Alan Kardec",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Gabriel Pinheiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Diogo Barbosa",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/allanzinho-marca-e-ju-vence-a-primeira-fora-da-casa-na-serie-b"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
   },
   {
    "id": 91000329,
@@ -1974,6 +2505,138 @@
      "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11712937-melhorando-apos-o-intervalo-sport-bate-o-novorizontino-e-chega-a-primeira-vitoria-na-ilha-do-retiro-pela-serie-b.html"
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000458,
+   "data": "2026-04-25T21:00:00-03:00",
+   "casa": "juventude",
+   "fora": "londrina",
+   "status": "encerrado",
+   "rodada": "6",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "MP",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4316280/juventude-supera-lonrina-vence-a-terceira-seguida-e-aparece-na-vice-lideranca-da-serie-b",
+    "https://www.juventude.com.br/blog/ju-vence-o-londrina-no-jaconi-e-assume-a-vice-lideranca-da-serie-b"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Gabriel Pinheiro, Messias, Marcos Paulo; Raí Ramos, Lucas Mineiro, Raí Silva, Diogo Barbosa; MP, Manuel Castro, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Iba Ly",
+       "saiu": "Lucas Mineiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Raí Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Titi",
+       "saiu": "Diogo Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan Martins",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Lima",
+       "saiu": "Manuel Castro",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcos Paulo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luan Martins",
+        "minuto": ""
+       },
+       {
+        "jogador": "Raí Ramos",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Allan Aal",
+     "time": "Kozlinski; Weverton, Yago Lincoln, Wallace, Kevyn; André Luiz, Lucas Marques, João Tavares; Iago Teles, Bruno Santos, Emiliano Rodríguez",
+     "entraram": [
+      {
+       "jogador": "André Dhominique",
+       "saiu": "Weverton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Monteiro",
+       "saiu": "Kevyn",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fabiano",
+       "saiu": "André Luiz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "João Tavares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulinho Moccelin",
+       "saiu": "Emiliano Rodríguez",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "André Luiz",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kevyn",
+        "minuto": ""
+       },
+       {
+        "jogador": "Fabiano",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/ju-vence-o-londrina-no-jaconi-e-assume-a-vice-lideranca-da-serie-b"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
    }
   },
   {
@@ -2861,6 +3524,105 @@
    "atualizado": "2026-11-10T02:39:00-03:00"
   },
   {
+   "id": 91000459,
+   "data": "2026-05-17T16:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "9",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Sicredi",
+   "cidade": "São João del-Rei",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Dixon Vera",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Raí Silva",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.jornaldocomercio.com/esportes/2026/05/1248908-juventude-empata-aos-47-minutos-do-segundo-tempo-e-segura-reacao-do-athletic-mg-na-serie-b.html",
+    "https://www.juventude.com.br/blog/nos-acrescimos-juventude-marca-e-conquista-ponto-contra-o-athletic-mg"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Alex de Souza",
+     "time": "Luan Polli; Diogo, Jhonatan Silva, Lucas Belezi, Marcelo; Jota, Ian Luccas, João Miguel; Dixon Vera, Gabriel Moysés, Max",
+     "entraram": [
+      {
+       "jogador": "Gian Cabezas",
+       "saiu": "Ian Luccas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ruan Assis",
+       "saiu": "Dixon Vera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sam Otusanya",
+       "saiu": "Gabriel Moysés",
+       "minuto": ""
+      },
+      {
+       "jogador": "Douglas Silva",
+       "saiu": "Max",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Gabriel Pinheiro; Nathan Santos, Lucas Mineiro, Raí Silva, Diogo Barbosa; Manuel Castro, MP, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Aderlan",
+       "saiu": "Nathan Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Lima",
+       "saiu": "Lucas Mineiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wadson",
+       "saiu": "Diogo Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Manuel Castro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Léo Índio",
+       "saiu": "MP",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/nos-acrescimos-juventude-marca-e-conquista-ponto-contra-o-athletic-mg"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000210,
    "data": "2026-05-17T18:00:00-03:00",
    "casa": "vila-nova",
@@ -3674,6 +4436,133 @@
    }
   },
   {
+   "id": 91000460,
+   "data": "2026-05-29T21:00:00-03:00",
+   "casa": "juventude",
+   "fora": "america-mg",
+   "status": "encerrado",
+   "rodada": "11",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Raí Silva",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alisson Safira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Wadson",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3795172",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/america-e-goleado-pelo-juventude-e-segue-afundado-na-lanterna-da-serie-b/"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Gabriel Pinheiro, Messias, Marcos Paulo; Nathan Santos, Lucas Mineiro, Raí Silva, Diogo Barbosa; Fábio Lima, Manuel Castro, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Aderlan",
+       "saiu": "Nathan Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlinhos",
+       "saiu": "Raí Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wadson",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iba Ly",
+       "saiu": "Manuel Castro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Alan Kardec",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Roger Silva",
+     "time": "Gustavo; Léo Alaba, Nathan, Rafa Barcelos, Artur; Felipe Amaral, Val Soares, Fer Elizari; Segovinha, Everton Brito, Mastriani",
+     "entraram": [
+      {
+       "jogador": "Dalbert",
+       "saiu": "Artur",
+       "minuto": ""
+      },
+      {
+       "jogador": "Otávio",
+       "saiu": "Felipe Amaral",
+       "minuto": ""
+      },
+      {
+       "jogador": "Thauan",
+       "saiu": "Fer Elizari",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Barros",
+       "saiu": "Segovinha",
+       "minuto": ""
+      },
+      {
+       "jogador": "William",
+       "saiu": "Everton Brito",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Artur",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nathan",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/goleada-no-jaconi-juventude-vence-o-america-mg-e-sobe-na-tabela-da-serie-b-1"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000443,
    "data": "2026-05-30T16:00:00-03:00",
    "casa": "atletico-go",
@@ -3851,6 +4740,145 @@
      "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/05/11715406-barletta-decide-sport-vence-o-nautico-no-classico-e-dorme-na-lideranca-da-serie-b.html"
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
+   }
+  },
+  {
+   "id": 91000461,
+   "data": "2026-06-05T20:00:00-03:00",
+   "casa": "operario-pr",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "12",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Pablo",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Raí Silva",
+     "minuto": "50",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Boschilia",
+     "minuto": "90+4",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/operario-pr/operario-vence-juventude-serie-b-2026/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-gol-de-penalti-no-fim-operario-bate-juventude-no-couto-e-embala-na-serie-b/"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Luizinho Lopes",
+     "time": "Vágner; Doka, Klaus, Miranda, Gabriel Feliciano; Matheus Trindade, Vinícius Diniz, Boschilia; Aylon, Moraes, Pablo",
+     "entraram": [
+      {
+       "jogador": "Maguinho",
+       "saiu": "Doka",
+       "minuto": ""
+      },
+      {
+       "jogador": "Hilderberto Pereira",
+       "saiu": "Aylon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Vilhena",
+       "saiu": "Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Dantas",
+       "saiu": "Pablo",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Aylon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Vágner",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Nathan Santos, Lucas Mineiro, Raí Silva, Diogo Barbosa; Manuel Castro, Fábio Lima, Alan Kardec",
+     "entraram": [
+      {
+       "jogador": "Gabriel Pinheiro",
+       "saiu": "Messias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Aderlan",
+       "saiu": "Nathan Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wadson",
+       "saiu": "Manuel Castro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iba Ly",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alisson Safira",
+       "saiu": "Alan Kardec",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Messias",
+        "minuto": ""
+       },
+       {
+        "jogador": "Nathan Santos",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo Sam",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marcos Paulo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-gol-de-penalti-no-fim-operario-bate-juventude-no-couto-e-embala-na-serie-b/"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
    }
   },
   {
@@ -4130,6 +5158,116 @@
    }
   },
   {
+   "id": 91000462,
+   "data": "2026-06-14T11:00:00-03:00",
+   "casa": "juventude",
+   "fora": "ponte-preta",
+   "status": "encerrado",
+   "rodada": "13",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-ponte-preta-se-aproxima-g6-serie-b/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/juventude-goleia-a-ponte-preta-com-facilidade-e-sobe-na-tabela-da-serie-b/"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Gerson Ramos",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Aderlan, Lucas Mineiro, Raí Silva, Diogo Barbosa; MP, Fábio Lima, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Titi",
+       "saiu": "Marcos Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan Martins",
+       "saiu": "Lucas Mineiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ray Breno",
+       "saiu": "Raí Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Patryck Lanza",
+       "saiu": "Diogo Barbosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mandaca",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marcos Paulo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Márcio Zanardi",
+     "time": "Diogo Silva; Thalys, Diego Leão, Palácios, Diego Porfírio; Tárik, Léo Gomes, Elvis; Diego Tavares, David da Hora, Brandão",
+     "entraram": [
+      {
+       "jogador": "Júlio",
+       "saiu": "Thalys",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Teles",
+       "saiu": "Léo Gomes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jonathan Cafu",
+       "saiu": "Diego Tavares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kevyson",
+       "saiu": "David da Hora",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel",
+       "saiu": "Brandão",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": [
+       {
+        "jogador": "Palácios",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/goleada-jaconera-ju-passa-pela-ponte-preta-e-sobe-na-tabela",
+     "https://www.gazetaesportiva.com/times/juventude/juventude-goleia-ponte-preta-se-aproxima-g6-serie-b/"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000369,
    "data": "2026-06-14T17:00:00-03:00",
    "casa": "cuiaba",
@@ -4306,6 +5444,37 @@
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
    }
+  },
+  {
+   "id": 91000463,
+   "data": "2026-06-21T12:00:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "14",
+   "fase": "",
+   "grupo": "",
+   "estadio": "1º de Maio",
+   "cidade": "São Bernardo do Campo",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Alisson Safira",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.dgabc.com.br/Noticia/4330463/sao-bernardo-fc-perde-para-o-juventude-e-ve-invencibilidade-chegar-ao-fim",
+    "https://www.opovo.com.br/agencia/jogada10/2026/06/21/sao-bernardo-perde-para-o-juventude-e-deixa-lideranca-da-serie-b.html"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "sem_hora": true
   },
   {
    "id": 91000390,
@@ -4576,6 +5745,42 @@
    "atualizado": "2026-11-10T02:40:00-03:00"
   },
   {
+   "id": 91000464,
+   "data": "2026-06-28T16:00:00-03:00",
+   "casa": "juventude",
+   "fora": "ceara",
+   "status": "encerrado",
+   "rodada": "15",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Alisson Safira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Pinheiro",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-supera-o-ceara-em-casa-e-entra-no-g6-do-brasileirao-serie-b/",
+    "https://diariodonordeste.verdesmares.com.br/jogada/ceara-perde-para-o-juventude-e-se-mantem-perto-do-z4-da-serie-b-1.3773253"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00"
+  },
+  {
    "id": 91000339,
    "data": "2026-06-28T18:30:00-03:00",
    "casa": "fortaleza",
@@ -4693,6 +5898,29 @@
    }
   },
   {
+   "id": 91000465,
+   "data": "2026-07-05T20:30:00-03:00",
+   "casa": "nautico",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Aflitos",
+   "cidade": "Recife",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/juventude-empata-com-nautico-e-perde-chance-de-encostar-no-g2-da-serie-b/",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/07/11718181-pouco-inspirado-nautico-fica-no-empate-sem-gols-contra-o-juventude-nos-aflitos.html"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00"
+  },
+  {
    "id": 91000273,
    "data": "2026-07-08T20:00:00-03:00",
    "casa": "ponte-preta",
@@ -4714,6 +5942,36 @@
     "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/com-gol-nos-acrescimos-criciuma-bate-ponte-preta-e-vira-lider-da-serie-b,d9445ce77fb0ca3cdd7ffd866fc2454121bwvgzn.html"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000466,
+   "data": "2026-07-10T19:00:00-03:00",
+   "casa": "juventude",
+   "fora": "vila-nova",
+   "status": "encerrado",
+   "rodada": "17",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Messias",
+     "minuto": "44",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3819798",
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-b/a/serie-b-duelos-entre-america-mg-x-londrina-e-ceara-x-athletic-encerram-17-rodada-nesta-segunda"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00"
   },
   {
    "id": 91000340,
@@ -4874,6 +6132,140 @@
    }
   },
   {
+   "id": 91000467,
+   "data": "2026-07-17T19:00:00-03:00",
+   "casa": "juventude",
+   "fora": "cuiaba",
+   "status": "encerrado",
+   "rodada": "18",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Alisson Safira",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Raí Silva",
+     "minuto": "71",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-vence-o-cuiaba-e-encosta-na-lideranca-da-serie-b/",
+    "https://www.juventude.com.br/blog/vitoria-de-g2-juventude-bate-o-cuiaba-no-jaconi-e-sobe-na-tabela-da-serie-b"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Raí Ramos, Luan Martins, Raí Silva, Patryck Lanza; Fábio Lima, MP, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Gabriel Pinheiro",
+       "saiu": "Luan Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wadson",
+       "saiu": "Patryck Lanza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Iba Ly",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allan Victor",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Messias",
+        "minuto": ""
+       },
+       {
+        "jogador": "Wadson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Raí Silva",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Eduardo Barros",
+     "time": "Marcelo Carné; Vitor Mendes, Alan Empereur, João Basso; Raylan, Raul, Calebe, Pepê, Marlon; Jean Dias, Kauan Cristtyan",
+     "entraram": [
+      {
+       "jogador": "Pedro Henrique",
+       "saiu": "Vitor Mendes",
+       "minuto": ""
+      },
+      {
+       "jogador": "David",
+       "saiu": "Calebe",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eric",
+       "saiu": "Marlon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinicius Peixoto",
+       "saiu": "Jean Dias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcos Júnio",
+       "saiu": "Kauan Cristtyan",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marlon",
+        "minuto": ""
+       },
+       {
+        "jogador": "David",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/vitoria-de-g2-juventude-bate-o-cuiaba-no-jaconi-e-sobe-na-tabela-da-serie-b"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000274,
    "data": "2026-07-18T16:00:00-03:00",
    "casa": "criciuma",
@@ -4991,6 +6383,126 @@
     "https://ohoje.com/2026/07/24/atletico-go-vence-o-cuiaba-na-arena-pantanal-e-conquista-importante-triunfo-fora-de-casa/"
    ],
    "atualizado": "2026-11-15T03:46:00-03:00"
+  },
+  {
+   "id": 91000468,
+   "data": "2026-07-28T19:30:00-03:00",
+   "casa": "juventude",
+   "fora": "avai",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Lucas Alves",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/com-gol-no-fim-juventude-vence-o-avai-e-ganha-posicoes-na-serie-b/",
+    "https://www.opovo.com.br/agencia/jogada10/2026/07/28/amp/juventude-vence-avai-com-gol-nos-acrescimos-e-retorna-ao-g2.html"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Nathan Santos, Lucas Mineiro, Raí Silva, Patryck Lanza; Fábio Lima, MP, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Aderlan",
+       "saiu": "Nathan Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diogo Barbosa",
+       "saiu": "Patryck Lanza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan Martins",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Alves",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Rodrigo Sam",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "",
+     "time": "Igor Bohn; Wallison, Allyson, Jefferson Maciel, DG; Zé Ricardo, Luiz Henrique, Daniel Penha, Jean Dias; Thayllon, Léo Gamalho",
+     "entraram": [
+      {
+       "jogador": "Isaias",
+       "saiu": "Wallison",
+       "minuto": ""
+      },
+      {
+       "jogador": "Reynaldo",
+       "saiu": "Allyson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Vitor",
+       "saiu": "Zé Ricardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "William",
+       "saiu": "Jean Dias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Cipriano",
+       "saiu": "Thayllon",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Allyson",
+        "minuto": ""
+       },
+       {
+        "jogador": "Daniel Penha",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/vitoria-e-g2-da-serie-b-juventude-marca-nos-acrescimos-e-anota-mais-tres-pontos-no-jaconi"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
   },
   {
    "id": 91000239,
@@ -5276,6 +6788,133 @@
    "atualizado": "2026-11-21T03:38:00-03:00"
   },
   {
+   "id": 91000469,
+   "data": "2026-08-09T16:00:00-03:00",
+   "casa": "novorizontino",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Jorge Ismael de Biasi",
+   "cidade": "Novo Horizonte",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Raí Silva",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3834641",
+    "https://www.juventude.com.br/blog/juventude-vence-fora-de-casa-e-encosta-no-lider-da-serie-b"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Enderson Moreira",
+     "time": "Jordi; Alvariño, Eduardo Brock, Patrick, Maykon Jesus; Matheus Bianqui, Luís Oyama, Rômulo; Titi Ortiz, Reidiney, Robson",
+     "entraram": [
+      {
+       "jogador": "Sander",
+       "saiu": "Eduardo Brock",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juninho",
+       "saiu": "Maykon Jesus",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlão",
+       "saiu": "Matheus Bianqui",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tavinho",
+       "saiu": "Titi Ortiz",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lora",
+       "saiu": "Reidiney",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Patrick",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Gabriel Pinheiro, Titi, Marcos Paulo; Aderlan, Lucas Mineiro, Raí Silva, Patryck Lanza; Fábio Lima, MP, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Wadson",
+       "saiu": "Marcos Paulo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan Martins",
+       "saiu": "Lucas Mineiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Diogo Barbosa",
+       "saiu": "Patryck Lanza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luis Amarilla",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Mineiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Titi",
+        "minuto": ""
+       },
+       {
+        "jogador": "Aderlan",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Pinheiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Luan Martins",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/juventude-vence-fora-de-casa-e-encosta-no-lider-da-serie-b"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
    "id": 91000392,
    "data": "2026-08-14T19:30:00-03:00",
    "casa": "ponte-preta",
@@ -5523,6 +7162,225 @@
      "https://jornaldebrasilia.com.br/torcida/vila-nova-vence-o-atletico-go-no-classico-goiano-e-se-reabilita-na-serie-b/"
     ],
     "atualizado": "2026-11-21T03:38:00-03:00"
+   }
+  },
+  {
+   "id": 91000470,
+   "data": "2026-08-15T18:30:00-03:00",
+   "casa": "juventude",
+   "fora": "fortaleza",
+   "status": "encerrado",
+   "rodada": "22",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-empata-fora-de-casa-com-o-juventude-e-se-mantem-no-g6-da-serie-b-1.3784498",
+    "https://mais.opovo.com.br/jornal/esportes/2026/08/16/em-jogo-morno-fortaleza-empata-com-juventude-e-perde-uma-posicao-na-serie-b.html"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Pedro Rocha; Rodrigo Sam, Titi, Marcos Paulo; Aderlan, Lucas Mineiro, Raí Silva, Diogo Barbosa; MP, Alisson Safira, Luis Amarilla",
+     "entraram": [
+      {
+       "jogador": "Raí Ramos",
+       "saiu": "Aderlan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Luan Martins",
+       "saiu": "Lucas Mineiro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Pires",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Alves",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Luis Amarilla",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Mineiro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Titi",
+        "minuto": ""
+       },
+       {
+        "jogador": "Marcos Paulo",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Paulo Autuori",
+     "time": "João Ricardo; Mailton, Lucas Gazal, Cardona, Mucuri; Pierre, Lucas Sasha, Rodrigo, Rodriguinho; Welliton, Nathan Fogaça",
+     "entraram": [
+      {
+       "jogador": "Neris",
+       "saiu": "Mucuri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Pierre",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Crispim",
+       "saiu": "Welliton",
+       "minuto": ""
+      },
+      {
+       "jogador": "Paulo Baya",
+       "saiu": "Nathan Fogaça",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Pierre",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/juventude-empata-com-o-fortaleza-e-segue-vice-lider-da-serie-b",
+     "https://mais.opovo.com.br/jornal/esportes/2026/08/16/em-jogo-morno-fortaleza-empata-com-juventude-e-perde-uma-posicao-na-serie-b.html"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
+   }
+  },
+  {
+   "id": 91000471,
+   "data": "2026-08-18T21:35:00-03:00",
+   "casa": "goias",
+   "fora": "juventude",
+   "status": "encerrado",
+   "rodada": "23",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Hailé Pinheiro",
+   "cidade": "Goiânia",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Fábio Lima",
+     "minuto": "87",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/08/20/goias-perde-em-casa-nos-minutos-finais-e-ve-acesso-ficar-mais-distante/",
+    "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-b/a/juventude-e-nautico-vencem-pela-serie-b"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Mozart",
+     "time": "Thiago Rodrigues; Rodrigo Soares, Luiz Felipe, Ramon Menezes, Nicolas; Felipe Machado, Lourenço, Gegê; Cadu, Kadu Souza, Anselmo Ramon",
+     "entraram": [
+      {
+       "jogador": "Marcos Vinicius",
+       "saiu": "Rodrigo Soares",
+       "minuto": ""
+      },
+      {
+       "jogador": "Djalma",
+       "saiu": "Nicolas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wellington Rato",
+       "saiu": "Gegê",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Lima",
+       "saiu": "Cadu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Esli Garcia",
+       "saiu": "Kadu Souza",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Pedro Rocha; Rodrigo Sam, Titi, Gabriel Pinheiro; Aderlan, Luan Martins, Raí Silva, Diogo Barbosa; Alisson Safira, MP, Luis Amarilla",
+     "entraram": [
+      {
+       "jogador": "Gabriel Pires",
+       "saiu": "Luan Martins",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pablo Roberto",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fábio Lima",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Luis Amarilla",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Aderlan",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/mais-tres-pontos-juventude-marca-no-fim-e-arranca-vitoria-sobre-o-goias"
+    ],
+    "atualizado": "2026-11-22T03:44:00-03:00"
    }
   },
   {
@@ -6014,6 +7872,48 @@
     ],
     "atualizado": "2026-11-21T03:38:00-03:00"
    }
+  },
+  {
+   "id": 91000472,
+   "data": "2026-08-25T19:30:00-03:00",
+   "casa": "juventude",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "24",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Alfredo Jaconi",
+   "cidade": "Caxias do Sul",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Thiaguinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alisson Safira",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alan Kardec",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/juventude/juventude-vira-sobre-crb-e-assume-lideranca-serie-b/",
+    "https://www.juventude.com.br/blog/vitoria-de-lider-juventude-vira-sobre-o-crb-e-assume-a-ponta-da-serie-b"
+   ],
+   "atualizado": "2026-11-22T03:44:00-03:00"
   },
   {
    "id": 91000279,

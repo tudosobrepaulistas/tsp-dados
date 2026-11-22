@@ -18,6 +18,18 @@
   "gols": 8
  },
  {
+  "jogador": "Alisson Safira",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 6
+ },
+ {
+  "jogador": "Raí Silva",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 5
+ },
+ {
   "jogador": "Fellipe Mateus",
   "time": "Criciúma",
   "time_id": 900025,
@@ -60,6 +72,12 @@
   "gols": 3
  },
  {
+  "jogador": "Fábio Lima",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 3
+ },
+ {
   "jogador": "Guilherme Marques",
   "time": "Atlético-GO",
   "time_id": 900028,
@@ -82,6 +100,12 @@
   "time": "América-MG",
   "time_id": 900039,
   "gols": 3
+ },
+ {
+  "jogador": "Alan Kardec",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 2
  },
  {
   "jogador": "Anselmo Ramon",
@@ -114,15 +138,15 @@
   "gols": 2
  },
  {
-  "jogador": "Fabrício Daniel",
-  "time": "São Bernardo",
-  "time_id": 900031,
+  "jogador": "Dixon Vera",
+  "time": "Athletic",
+  "time_id": 900034,
   "gols": 2
  },
  {
-  "jogador": "Fábio Lima",
-  "time": "Juventude",
-  "time_id": 900022,
+  "jogador": "Fabrício Daniel",
+  "time": "São Bernardo",
+  "time_id": 900031,
   "gols": 2
  },
  {
@@ -168,6 +192,12 @@
   "gols": 2
  },
  {
+  "jogador": "Lucas Alves",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 2
+ },
+ {
   "jogador": "Marcelo Hermes",
   "time": "Criciúma",
   "time_id": 900025,
@@ -198,6 +228,12 @@
   "gols": 2
  },
  {
+  "jogador": "Pablo",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 2
+ },
+ {
   "jogador": "Paulo Baya",
   "time": "Fortaleza",
   "time_id": 900024,
@@ -213,6 +249,12 @@
   "jogador": "Robson",
   "time": "Novorizontino",
   "time_id": 900021,
+  "gols": 2
+ },
+ {
+  "jogador": "Thiaguinho",
+  "time": "CRB",
+  "time_id": 900026,
   "gols": 2
  },
  {
@@ -246,7 +288,7 @@
   "gols": 1
  },
  {
-  "jogador": "Alisson Safira",
+  "jogador": "Allanzinho",
   "time": "Juventude",
   "time_id": 900022,
   "gols": 1
@@ -273,6 +315,12 @@
   "jogador": "Biel",
   "time": "Sport",
   "time_id": 900027,
+  "gols": 1
+ },
+ {
+  "jogador": "Boschilia",
+  "time": "Operário-PR",
+  "time_id": 900029,
   "gols": 1
  },
  {
@@ -360,12 +408,6 @@
   "gols": 1
  },
  {
-  "jogador": "Dixon Vera",
-  "time": "Athletic",
-  "time_id": 900034,
-  "gols": 1
- },
- {
   "jogador": "Djalma",
   "time": "Goiás",
   "time_id": 900030,
@@ -408,6 +450,12 @@
   "gols": 1
  },
  {
+  "jogador": "Felipe Avenatti",
+  "time": "Avaí",
+  "time_id": 900037,
+  "gols": 1
+ },
+ {
   "jogador": "Felipe Garcia",
   "time": "São Bernardo",
   "time_id": 900031,
@@ -429,6 +477,12 @@
   "jogador": "Gabriel Inocêncio",
   "time": "Botafogo-SP",
   "time_id": 900032,
+  "gols": 1
+ },
+ {
+  "jogador": "Gabriel Pinheiro",
+  "time": "Juventude",
+  "time_id": 900022,
   "gols": 1
  },
  {
@@ -582,12 +636,6 @@
   "gols": 1
  },
  {
-  "jogador": "Lucas Alves",
-  "time": "Juventude",
-  "time_id": 900022,
-  "gols": 1
- },
- {
   "jogador": "Luciano Castán",
   "time": "Criciúma",
   "time_id": 900025,
@@ -624,6 +672,12 @@
   "gols": 1
  },
  {
+  "jogador": "MP",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 1
+ },
+ {
   "jogador": "Madson",
   "time": "Sport",
   "time_id": 900027,
@@ -651,6 +705,12 @@
   "jogador": "Melk",
   "time": "Ceará",
   "time_id": 900035,
+  "gols": 1
+ },
+ {
+  "jogador": "Messias",
+  "time": "Juventude",
+  "time_id": 900022,
   "gols": 1
  },
  {
@@ -693,12 +753,6 @@
   "jogador": "Otero",
   "time": "Criciúma",
   "time_id": 900025,
-  "gols": 1
- },
- {
-  "jogador": "Pablo",
-  "time": "Operário-PR",
-  "time_id": 900029,
   "gols": 1
  },
  {
@@ -792,12 +846,6 @@
   "gols": 1
  },
  {
-  "jogador": "Thiaguinho",
-  "time": "CRB",
-  "time_id": 900026,
-  "gols": 1
- },
- {
   "jogador": "Victor Andrade",
   "time": "Náutico",
   "time_id": 900036,
@@ -816,6 +864,12 @@
   "gols": 1
  },
  {
+  "jogador": "Wadson",
+  "time": "Juventude",
+  "time_id": 900022,
+  "gols": 1
+ },
+ {
   "jogador": "Waguininho",
   "time": "Criciúma",
   "time_id": 900025,
@@ -823,6 +877,12 @@
  },
  {
   "jogador": "Walace",
+  "time": "Avaí",
+  "time_id": 900037,
+  "gols": 1
+ },
+ {
+  "jogador": "Walace França",
   "time": "Avaí",
   "time_id": 900037,
   "gols": 1
