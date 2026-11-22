@@ -85,7 +85,7 @@ def gerar():
                     h["jogos"] += 1
                     h[res] += 1
                 t["lista"].append({"id": j["id"], "data": (j.get("data") or "")[:10], "comp": comp, "clube": clube,
-                                   "adversario": j[outro], "mando": lado, "placar": f"{gp}x{gc}", "res": res,
+                                   "adversario": j[outro], "adversario_nome": tn.get(j[outro]) or j[outro], "mando": lado, "placar": f"{gp}x{gc}", "res": res,
                                    "tecnico_adversario": adv_tec})
     for t in tec.values():
         t["aproveitamento"] = round(100 * (3 * t["V"] + t["E"]) / (3 * t["jogos"]), 1) if t["jogos"] else 0
