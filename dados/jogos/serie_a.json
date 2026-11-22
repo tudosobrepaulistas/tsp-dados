@@ -4896,6 +4896,86 @@
    }
   },
   {
+   "id": 91000533,
+   "data": "2026-07-26T12:00:00-03:00",
+   "casa": "palmeiras",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nubank Parque",
+   "cidade": "São Paulo",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Vitor Hugo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Igor Gomes",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Felipe Anderson",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/07/27/palmeiras-e-flamengo-tropecam-e-disputa-pelo-titulo-do-brasileirao-segue-aberta/",
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-07/palmeiras-perde-e-flamengo-empata-no-fim-de-semana-do-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:32:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000534,
+   "data": "2026-07-26T12:00:00-03:00",
+   "casa": "flamengo",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Léo Pereira",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Calleri",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/07/27/palmeiras-e-flamengo-tropecam-e-disputa-pelo-titulo-do-brasileirao-segue-aberta/",
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-07/palmeiras-perde-e-flamengo-empata-no-fim-de-semana-do-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:32:00-03:00",
+   "sem_hora": true
+  },
+  {
    "id": 91000425,
    "data": "2026-07-26T19:30:00-03:00",
    "casa": "remo",
@@ -5019,6 +5099,79 @@
     ],
     "atualizado": "2026-11-20T03:46:00-03:00"
    }
+  },
+  {
+   "id": 91000530,
+   "data": "2026-07-29T12:00:00-03:00",
+   "casa": "vitoria",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 0,
+   "gols_fora": 4,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Maurício",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Jhon Arias",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ramon Sosa",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Fabiano Souza",
+     "minuto": "",
+     "tipo": "contra"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/07/30/resultados-do-brasileirao-palmeiras-goleia-flamengo-empata-e-gremio-entra-no-z-4/",
+    "https://www.metropoles.com/esportes/palmeiras-goleia-o-vitoria-por-4-x-0-em-jogo-marcado-por-polemicas"
+   ],
+   "atualizado": "2026-11-22T12:31:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000532,
+   "data": "2026-07-29T12:00:00-03:00",
+   "casa": "fluminense",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/07/30/resultados-do-brasileirao-palmeiras-goleia-flamengo-empata-e-gremio-entra-no-z-4/",
+    "https://www.metropoles.com/esportes/no-maracana-fluminense-e-bahia-empatam-sem-gols-pelo-brasileirao"
+   ],
+   "atualizado": "2026-11-22T12:31:00-03:00",
+   "sem_hora": true
   },
   {
    "id": 91000426,
@@ -5151,6 +5304,42 @@
     ],
     "atualizado": "2026-11-20T03:46:00-03:00"
    }
+  },
+  {
+   "id": 91000531,
+   "data": "2026-07-29T19:30:00-03:00",
+   "casa": "internacional",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Vitinho",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Samuel Lino",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/internacional-x-flamengo/832096",
+    "https://ohoje.com/2026/07/30/resultados-do-brasileirao-palmeiras-goleia-flamengo-empata-e-gremio-entra-no-z-4/"
+   ],
+   "atualizado": "2026-11-22T12:31:00-03:00"
   },
   {
    "id": 91000521,

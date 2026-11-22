@@ -1,14 +1,14 @@
 [
  {
-  "jogador": "Jajá",
-  "time": "Remo",
-  "time_id": 900019,
-  "gols": 9
- },
- {
   "jogador": "Samuel Lino",
   "time": "Flamengo",
   "time_id": 900001,
+  "gols": 10
+ },
+ {
+  "jogador": "Jajá",
+  "time": "Remo",
+  "time_id": 900019,
   "gols": 9
  },
  {
@@ -69,6 +69,12 @@
   "jogador": "Gabriel Taliari",
   "time": "Remo",
   "time_id": 900019,
+  "gols": 4
+ },
+ {
+  "jogador": "Jhon Arias",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 4
  },
  {
@@ -135,12 +141,6 @@
   "jogador": "Isidro Pitta",
   "time": "Red Bull Bragantino",
   "time_id": 900010,
-  "gols": 3
- },
- {
-  "jogador": "Jhon Arias",
-  "time": "Palmeiras",
-  "time_id": 900002,
   "gols": 3
  },
  {
@@ -270,6 +270,12 @@
   "gols": 2
  },
  {
+  "jogador": "Felipe Anderson",
+  "time": "Palmeiras",
+  "time_id": 900002,
+  "gols": 2
+ },
+ {
   "jogador": "Gustavo Henrique",
   "time": "Corinthians",
   "time_id": 900018,
@@ -342,6 +348,12 @@
   "gols": 2
  },
  {
+  "jogador": "Maurício",
+  "time": "Palmeiras",
+  "time_id": 900002,
+  "gols": 2
+ },
+ {
   "jogador": "Neymar",
   "time": "Santos",
   "time_id": 900008,
@@ -381,6 +393,12 @@
   "jogador": "Tiago Cóser",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 2
+ },
+ {
+  "jogador": "Vitinho",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 2
  },
  {
@@ -501,6 +519,12 @@
   "jogador": "Brítez",
   "time": "Vitória",
   "time_id": 900014,
+  "gols": 1
+ },
+ {
+  "jogador": "Calleri",
+  "time": "São Paulo",
+  "time_id": 900009,
   "gols": 1
  },
  {
@@ -636,12 +660,6 @@
   "gols": 1
  },
  {
-  "jogador": "Felipe Anderson",
-  "time": "Palmeiras",
-  "time_id": 900002,
-  "gols": 1
- },
- {
   "jogador": "Felipe Morais",
   "time": "Cruzeiro",
   "time_id": 900003,
@@ -735,6 +753,12 @@
   "jogador": "Ignácio",
   "time": "Fluminense",
   "time_id": 900005,
+  "gols": 1
+ },
+ {
+  "jogador": "Igor Gomes",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  },
  {
@@ -846,6 +870,12 @@
   "gols": 1
  },
  {
+  "jogador": "Léo Pereira",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 1
+ },
+ {
   "jogador": "Marcos Victor",
   "time": "Bahia",
   "time_id": 900007,
@@ -879,12 +909,6 @@
   "jogador": "Matheuzinho",
   "time": "Vitória",
   "time_id": 900014,
-  "gols": 1
- },
- {
-  "jogador": "Maurício",
-  "time": "Palmeiras",
-  "time_id": 900002,
   "gols": 1
  },
  {
@@ -957,6 +981,12 @@
   "jogador": "Rafael Cavalheira",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Ramon Sosa",
+  "time": "Palmeiras",
+  "time_id": 900002,
   "gols": 1
  },
  {
@@ -1045,14 +1075,14 @@
  },
  {
   "jogador": "Vitinho",
-  "time": "Internacional",
-  "time_id": 900016,
+  "time": "Botafogo",
+  "time_id": 900011,
   "gols": 1
  },
  {
-  "jogador": "Vitinho",
-  "time": "Botafogo",
-  "time_id": 900011,
+  "jogador": "Vitor Hugo",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  },
  {
