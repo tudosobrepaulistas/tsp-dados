@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T03:00:00-03:00",
+ "gerado": "2026-11-22T03:53:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -10,9 +10,9 @@
      "nome": "Jordan",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 270,
       "minutos_estimados": false,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -59,9 +59,9 @@
      "nome": "Badaró",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 1,
-      "minutos": 22,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -89,9 +89,9 @@
      "nome": "Vilar",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 2,
-      "minutos": 810,
+      "minutos": 900,
       "minutos_estimados": false,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -104,9 +104,9 @@
      "nome": "Wallace",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 248,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -123,9 +123,9 @@
      "nome": "Darlan",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 270,
       "minutos_estimados": false,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -153,9 +153,9 @@
      "nome": "Pedrinho",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 134,
+      "minutos": 202,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -194,9 +194,9 @@
      "nome": "Gabriel Inocêncio",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 450,
+      "minutos": 540,
       "minutos_estimados": false,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -207,7 +207,18 @@
     },
     {
      "nome": "Erik",
-     "posicao": "Volante"
+     "posicao": "Volante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Yuri Felipe",
@@ -251,9 +262,9 @@
      "nome": "Rafael Gava",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 1,
-      "minutos": 588,
+      "minutos": 678,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -281,9 +292,9 @@
      "nome": "Thiago Moraes",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 88,
+      "minutos": 156,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -360,9 +371,9 @@
      "nome": "Zé Hugo",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 1,
-      "minutos": 632,
+      "minutos": 722,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
       "clubes": [
@@ -388,7 +399,18 @@
     },
     {
      "nome": "Jadson",
-     "posicao": "Atacante"
+     "posicao": "Atacante",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Botafogo-SP",
+      "clubes": [
+       "Botafogo-SP"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Heron",
@@ -2004,9 +2026,9 @@
      "nome": "Jordi",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 360,
+      "minutos": 450,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -2029,7 +2051,18 @@
     },
     {
      "nome": "Lora",
-     "posicao": "Lateral"
+     "posicao": "Lateral",
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 22,
+      "minutos_estimados": true,
+      "clube": "Novorizontino",
+      "clubes": [
+       "Novorizontino"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Madson",
@@ -2050,9 +2083,9 @@
      "nome": "Maykon Jesus",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 112,
+      "minutos": 180,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -2065,10 +2098,10 @@
      "nome": "Sander",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
-      "minutos_estimados": false,
+      "minutos": 202,
+      "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
        "Novorizontino"
@@ -2095,9 +2128,9 @@
      "nome": "Eduardo Brock",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 1,
-      "minutos": 134,
+      "minutos": 202,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -2140,9 +2173,9 @@
      "nome": "Patrick",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 338,
+      "minutos": 428,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -2159,9 +2192,9 @@
      "nome": "Juninho",
      "posicao": "Volante",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 156,
+      "minutos": 178,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -2189,9 +2222,9 @@
      "nome": "Luís Oyama",
      "posicao": "Volante",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 384,
+      "minutos": 474,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -2231,9 +2264,9 @@
      "nome": "Matheus Bianqui",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 2,
-      "minutos": 292,
+      "minutos": 360,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -2246,9 +2279,9 @@
      "nome": "Rômulo",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 2,
-      "minutos": 294,
+      "minutos": 384,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -2261,10 +2294,10 @@
      "nome": "Tavinho",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 204,
-      "minutos_estimados": false,
+      "minutos": 226,
+      "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
        "Novorizontino"
@@ -2276,9 +2309,9 @@
      "nome": "Carlão",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 44,
+      "minutos": 66,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -2329,9 +2362,9 @@
      "nome": "Reidiney",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 136,
+      "minutos": 204,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -2344,9 +2377,9 @@
      "nome": "Robson",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 2,
-      "minutos": 384,
+      "minutos": 474,
       "minutos_estimados": false,
       "clube": "Novorizontino",
       "clubes": [
@@ -2374,9 +2407,9 @@
      "nome": "Titi Ortiz",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 90,
+      "minutos": 158,
       "minutos_estimados": true,
       "clube": "Novorizontino",
       "clubes": [
@@ -6645,9 +6678,7 @@
      "de": "",
      "ficha": {
       "natural": "Rio de Janeiro/RJ",
-      "idade": 66,
-      "idade_em": "2026-10-24",
-      "conhecido_como": "\"Rei do Acesso\" (Futebol Interior)",
+      "conhecido_como": "\"Rei do Acesso\" (Futebol Interior, 24/10/2026; Correio Braziliense, 02/04/2024) e \"Luxemburgo do Interior\" (Jovem Pan, 25/02/2019; Correio Braziliense, 03/10/2017: apelido criado por um jornalista de Rio Claro, segundo ele)",
       "inicio": "Primeiro acesso como técnico em 1988, levando o Pouso Alegre à 1ª divisão mineira",
       "no_clube": "Treinou o União São João em 2003 e volta 23 anos depois, para a A3 de 2027",
       "titulos": [
@@ -6656,15 +6687,29 @@
       ],
       "acessos": [
        "Acesso à 1ª divisão mineira em 1988 com o Pouso Alegre",
+       "Acesso à 1ª divisão mineira em 1989 com o Minas Boa Esperança",
        "Acesso à 1ª divisão mineira em 1993 com o Unaí",
+       "Acesso da 5ª para a 4ª divisão paulista em 2001 com o Rio Claro",
+       "Acesso da 4ª para a 3ª divisão paulista em 2002 com o Rio Claro",
+       "Acesso da 3ª para a 2ª divisão paulista em 2005 com o Rio Claro",
        "Acesso à Série A1 em 2006 com o Rio Claro",
+       "Vaga na Série C do Brasileiro em 2007 com o Rio Claro, via Paulistão",
+       "Acesso à Série A1 em 2013 com o Rio Claro",
+       "Acesso à Série A1 em 2014 com o São Bento",
        "Acesso à Série C em 2016 com o São Bento",
        "Acesso à Série B em 2017 com o São Bento",
+       "Acesso à Série A1 em 2022 com o São Bento",
        "Acesso à Série C em 2022 com o Pouso Alegre"
       ],
       "destaques": [
        "Levou o Rio Claro da 6ª divisão à elite do Paulistão em cinco anos",
-       "Treinou Fábio Carille, seu zagueiro no Grêmio Barueri (2006-2007)"
+       "Treinou Fábio Carille, seu zagueiro no Grêmio Barueri (2006-2007)",
+       "14 acessos na carreira até 2022, quatro deles em competições nacionais (Futebol Interior, 24/10/2026; lista ano a ano no Correio Braziliense, 02/04/2024; Trivela, 29/08/2022)",
+       "Levou o São Bento da Série D à Série B em duas temporadas seguidas: acesso à Série C em 2016 e à Série B em 2017",
+       "Pôs o Pouso Alegre pela primeira vez na Série C: 1 a 0 no ASA em 27/08/2022, no Manduzão, na semifinal da Série D 2022 (Trivela e Agência Brasil, 29/08/2022)",
+       "Vice-campeão da Série D 2022 com o Pouso Alegre: perdeu a final para o América-RN no placar agregado (0 a 2 em Natal e 1 a 0 na volta, em 25/09/2022)",
+       "Em 2022 subiu dois times no mesmo ano: o São Bento para a A1 do Paulistão (abril) e o Pouso Alegre para a Série C (agosto)",
+       "Comandou o Pouso Alegre no acesso à 1ª divisão mineira em 1988 e voltou 34 anos depois para o acesso inédito à Série C, em 2022"
       ],
       "clubes_anteriores": [
        "Pouso Alegre",
@@ -6685,13 +6730,38 @@
        "Ferroviária",
        "Santo André",
        "XV de Piracicaba",
-       "Uberlândia"
+       "Uberlândia",
+       "Brasiliense",
+       "Votuporanguense"
       ],
       "fontes": [
+       "https://abcdoabc.com.br/paulo-roberto-fala-de-suas-expectativas-do-jogo-contra-o-sao-paulo/",
+       "https://agenciabrasil.ebc.com.br/esportes/noticia/2022-08/acessos-da-serie-d-definem-quatro-novos-clubes-da-serie-c-de-2023",
+       "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
        "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-tecnico-sao-bento-serie-c/",
+       "https://diariodopara.com.br/bola/medico-comanda-vitoria-do-brasiliense-apos-saida-de-tecnico/",
+       "https://dol.com.br/esporte/esporte-brasil/noticia-105850-apos-fracasso-no-paysandu-tecnico-ganha-destaque.html",
+       "https://dol.com.br/esporte/mundo/noticia-526817-ex-sao-bento-paulo-roberto-santos-e-o-novo-treinador-do-sampaio.html",
+       "https://dol.com.br/esporte/mundo/noticia-578192-portuguesa-anuncia-o-treinador-paulo-roberto-santos-ex-sao-bento.html",
+       "https://jovempan.com.br/?p=45168",
+       "https://jovempan.com.br/esportes/futebol/luxemburgo-do-interior-volta-atras-e-nao-sera-mais-tecnico-da-portuguesa/",
+       "https://oimparcial.com.br/esportes/2018/07/paulo-roberto-santos-e-o-novo-tecnico-do-sampaio-correa/",
+       "https://oimparcial.com.br/esportes/2018/09/sampaio-comunica-demissao-do-treinador-paulo-roberto/",
+       "https://trivela.com.br/brasil/lado-b-de-brasil/da-a-3-paulista-a-serie-b-em-cinco-anos-o-sao-bento-honra-sua-tradicao-e-orgulha-o-interior/",
        "https://trivela.com.br/brasil/lado-b-de-brasil/pouso-alegre-lotou-o-manduzao-e-orgulhou-o-sul-de-minas-com-a-promocao-inedita-a-serie-c/",
-       "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
-      ]
+       "https://www.bandab.com.br/esporte/futebol/tecnico-pouso-alegre-sabia-estrategia-parana/amp/",
+       "https://www.dgabc.com.br/Noticia/3731781/santo-andre-reencontra-tecnico-paulo-roberto",
+       "https://www.dgabc.com.br/Noticia/4278643/votuporanguense-x-agua-santa-onde-assistir-e-provaveis-escalacoes",
+       "https://www.dgabc.com.br/Noticia/533290/paulo-roberto-confirma-acerto-com-o-sao-caetano",
+       "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/",
+       "https://www.gazetaesportiva.com/?p=2617973",
+       "https://www.gazetaesportiva.com/?p=2694532",
+       "https://www.gazetaesportiva.com/?p=2700288",
+       "https://www.gazetaesportiva.com/?p=3253510",
+       "https://www.gazetaesportiva.com/campeonatos/paulista-a2/apos-empate-na-ida-portuguesa-e-sao-bento-decidem-o-titulo-da-serie-a2-do-paulista/",
+       "https://www.opovo.com.br/esportes/futebol/2018/07/paulo-roberto-e-apresentado-no-sampaio-e-afirma-situacao-e-reversive.html"
+      ],
+      "estilo": "Na apresentação no Sampaio Corrêa (31/07/2018), Paulo Roberto Santos disse: \"Nossa intenção é ter uma equipe que marque forte e faça uma transição rápida para o ataque\" (O Povo). Na campanha do acesso à Série B de 2017, a Trivela (Leandro Stein, 25/09/2017) apontou \"a defesa fortíssima\" do São Bento como a marca do trabalho dele. Em entrevista ao Correio Braziliense (03/10/2017), citou como inspirações José Mourinho, Pep Guardiola e Tite, e chamou Vanderlei Luxemburgo de \"uma referência na parte tática\"."
      },
      "comissao": true
     },
@@ -9729,6 +9799,677 @@
    ],
    "sairam": []
   },
+  "saobento": {
+   "atualizado": "2026-11-21",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Arthur Proença",
+     "posicao": "Preparador físico",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Ibrachina",
+     "ficha": {
+      "clubes_anteriores": [
+       "São Paulo (base)",
+       "Red Bull Bragantino (base)",
+       "Ibrachina",
+       "Santo André",
+       "Desportivo Brasil",
+       "Antalyaspor (Turquia)"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Nathan Girotto",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Bandeirante",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Bandeirante",
+       "Colorado Caieiras",
+       "Corumbaense",
+       "São Gabriel-MS",
+       "Paulista"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Matheus Carvalho",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "XV de Piracicaba",
+     "ficha": {
+      "idade": 34,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Fluminense",
+       "Monaco",
+       "Atlético-GO",
+       "Náutico",
+       "ABC",
+       "Joinville",
+       "Paraná",
+       "Botafogo-SP",
+       "XV de Piracicaba"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Mateus Brandão",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "SSA FC",
+     "ficha": {
+      "idade": 26,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Anapolina (base)",
+       "PSTC",
+       "Grêmio São-Carlense",
+       "Rio Preto",
+       "Primavera-MT",
+       "SSA FC"
+      ],
+      "titulos": [
+       "Campeão estadual com o Primavera-MT",
+       "Acesso inédito com o SSA FC-BA"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Marcos Paulo",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 29,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Vila Nova",
+       "Aparecidense",
+       "Goianésia",
+       "Goiatuba",
+       "Luverdense",
+       "Araguaína",
+       "São Bernardo",
+       "Ituano",
+       "Bandeirante"
+      ],
+      "titulos": [
+       "Campeão estadual pelo Tocantinópolis",
+       "Campeão estadual pelo Real Brasília"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Lucas Martins",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 21,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Athletico-PR (base)",
+       "Criciúma (base)",
+       "Guarani (base)",
+       "Campinense",
+       "Luverdense"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Léo Lopes",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 28,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Avaí",
+       "Azuriz",
+       "Grêmio Prudente",
+       "Penapolense",
+       "Mixto",
+       "Rio Preto"
+      ],
+      "titulos": [
+       "Campeão catarinense pelo Avaí"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Fábio Bahia",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {
+      "idade": 43,
+      "idade_em": "2026-11-20",
+      "no_clube": "245 jogos oficiais pelo São Bento (top 3 da história) e 9 gols"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Deivid",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Linense",
+     "ficha": {
+      "idade": 38,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Linense",
+       "Rio Claro",
+       "Santo André",
+       "Guarani",
+       "Novorizontino",
+       "Red Bull Brasil",
+       "Oeste",
+       "Água Santa",
+       "Portuguesa Santista",
+       "Batatais",
+       "Paraná",
+       "Paysandu",
+       "Caxias",
+       "Capital-DF"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Arthur Silveira",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Avaí (base)",
+       "Figueirense (base)",
+       "Grêmio Prudente",
+       "Santa Catarina Clube",
+       "Inter de Limeira",
+       "CSA"
+      ],
+      "titulos": [
+       "Campeão da Copa Alagoas pelo CSA"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Arthur Querobino",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Tupi (base)",
+       "Guarani de Divinópolis",
+       "Valeriodoce",
+       "Santacruzense",
+       "Independente",
+       "Ji-Paraná",
+       "Caravaggio",
+       "Rio Branco-AC"
+      ],
+      "titulos": [
+       "Campeão mineiro do Módulo II pelo Guarani de Divinópolis",
+       "Campeão estadual pelo Rio Branco-AC"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Alef Leite",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 32,
+      "idade_em": "2026-11-20",
+      "clubes_anteriores": [
+       "Novorizontino (base)",
+       "Noroeste",
+       "São José",
+       "Desportivo Brasil",
+       "Sertãozinho",
+       "Rio Preto",
+       "São Carlos",
+       "Olímpia",
+       "CRAC",
+       "Grêmio Maringá"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Rodrigo Rocha",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "URT",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "São Gonçalo-RJ",
+       "Tirol-CE",
+       "Vitória-ES",
+       "Desportiva Ferroviária",
+       "URT"
+      ],
+      "titulos": [
+       "Campeão da 2ª divisão cearense pelo Tirol"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Rodrigo Augusto",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 28,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "Atlético-MG (base)",
+       "Criciúma (base)",
+       "Águia de Marabá",
+       "Uberlândia",
+       "Rio Branco-SP",
+       "Jabaquara",
+       "Batatais"
+      ],
+      "titulos": [
+       "Campeão paraense com o Águia de Marabá"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Pedro Paraná",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Matonense",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "Itapirense",
+       "XV de Jaú",
+       "Barretos",
+       "Altos",
+       "Matonense"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Nauhan",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 29,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "Audax",
+       "Porto Velho",
+       "Maranhão",
+       "Sampaio Corrêa-RJ",
+       "Bonsucesso",
+       "America-RJ",
+       "Resende",
+       "Artsul",
+       "Serra",
+       "Estrela do Norte",
+       "São Bernardo"
+      ],
+      "titulos": [
+       "Campeão estadual por Porto Velho, Maranhão e Sampaio Corrêa-RJ"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Joel",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "Ferroviária (base)",
+       "Moto Club",
+       "IAPE",
+       "Chapadinha",
+       "Luminense",
+       "Timon"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Iruan",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 22,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "Coritiba (base)",
+       "Portuguesa",
+       "CRAC",
+       "Grêmio Maringá",
+       "Laranja Mecânica"
+      ],
+      "titulos": [
+       "Campeão da Copa do Brasil Sub-20 pelo Coritiba",
+       "Acesso e título com o Grêmio Maringá"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gabriel Dubilde",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "Nova Iguaçu",
+       "Volta Redonda",
+       "Americano",
+       "Artsul",
+       "Sertãozinho",
+       "Marília"
+      ],
+      "titulos": [
+       "Acesso na A3 com o Sertãozinho",
+       "Acesso na A3 com o Marília",
+       "Campeão pelo Nova Iguaçu"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Davi Moura",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Rio Preto",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "União Barbarense",
+       "Rio Claro",
+       "Audax",
+       "Francana",
+       "Rio Preto"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Cassius",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 31,
+      "idade_em": "2026-11-21",
+      "clubes_anteriores": [
+       "Portuguesa (base)",
+       "Santos",
+       "Grêmio Anápolis",
+       "Audax",
+       "America-RJ",
+       "Anapolina",
+       "Águia de Marabá"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Marcelo Cordeiro",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {
+      "no_clube": "Treinador do São Bento para a temporada 2027"
+     },
+     "selos": [],
+     "desde": ""
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Arthur Proença",
+     "de": "Ibrachina",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Nathan Girotto",
+     "de": "Bandeirante",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Matheus Carvalho",
+     "de": "XV de Piracicaba",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Mateus Brandão",
+     "de": "SSA FC",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Marcos Paulo",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Lucas Martins",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Léo Lopes",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Deivid",
+     "de": "Linense",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Arthur Silveira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Arthur Querobino",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Alef Leite",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-20"
+    },
+    {
+     "nome": "Rodrigo Rocha",
+     "de": "URT",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Rodrigo Augusto",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Pedro Paraná",
+     "de": "Matonense",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Nauhan",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Joel",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Iruan",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Gabriel Dubilde",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Davi Moura",
+     "de": "Rio Preto",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    },
+    {
+     "nome": "Cassius",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-21"
+    }
+   ],
+   "sairam": []
+  },
   "portuguesa": {
    "atualizado": "2026-11-17",
    "fonte": "",
@@ -10235,236 +10976,6 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-18"
-    }
-   ],
-   "sairam": []
-  },
-  "saobento": {
-   "atualizado": "2026-11-20",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Nathan",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "Bandeirante",
-     "ficha": {
-      "idade": 25,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Matheus Carvalho",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "XV de Piracicaba",
-     "ficha": {
-      "idade": 34,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Mateus Brandão",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "SSA FC",
-     "ficha": {
-      "idade": 26,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Marcos Paulo",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {
-      "idade": 29,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Lucas Martins",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {
-      "idade": 21,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Léo Lopes",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {
-      "idade": 28,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Fábio Bahia",
-     "posicao": "Volante",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": [],
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Deivid",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "Linense",
-     "ficha": {
-      "idade": 38,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Arthur Silveira",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {
-      "idade": 24,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Arthur Querobino",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {
-      "idade": 25,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    },
-    {
-     "nome": "Alef Leite",
-     "posicao": "Atacante",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {
-      "idade": 32,
-      "idade_em": "2026-11-20"
-     },
-     "comissao": false
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Nathan",
-     "de": "Bandeirante",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Matheus Carvalho",
-     "de": "XV de Piracicaba",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Mateus Brandão",
-     "de": "SSA FC",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Marcos Paulo",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Lucas Martins",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Léo Lopes",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Deivid",
-     "de": "Linense",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Arthur Silveira",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Arthur Querobino",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
-    },
-    {
-     "nome": "Alef Leite",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-20"
     }
    ],
    "sairam": []

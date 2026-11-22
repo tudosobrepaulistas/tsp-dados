@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T03:00:00-03:00",
+ "gerado": "2026-11-22T03:53:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -12,9 +12,471 @@
  },
  "itens": [
   {
+   "id": "2026-11-21-rodrigo-rocha-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Rodrigo Rocha",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube onde foi formado (base em 2021)",
+   "de": {
+    "nome": "URT",
+    "slug": "",
+    "id": 900042,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "São Gonçalo-RJ",
+     "Tirol-CE",
+     "Vitória-ES",
+     "Desportiva Ferroviária",
+     "URT"
+    ],
+    "titulos": [
+     "Campeão da 2ª divisão cearense pelo Tirol"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-rodrigo-augusto-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Rodrigo Augusto",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Campeão paraense com o Águia de Marabá",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 28,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Atlético-MG (base)",
+     "Criciúma (base)",
+     "Águia de Marabá",
+     "Uberlândia",
+     "Rio Branco-SP",
+     "Jabaquara",
+     "Batatais"
+    ],
+    "titulos": [
+     "Campeão paraense com o Águia de Marabá"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-pedro-parana-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Pedro Paraná",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Revelado pela Itapirense",
+   "de": {
+    "nome": "Matonense",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Itapirense",
+     "XV de Jaú",
+     "Barretos",
+     "Altos",
+     "Matonense"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-nauhan-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Nauhan",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado no Audax; quatro temporadas no futebol alemão",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 29,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Audax",
+     "Porto Velho",
+     "Maranhão",
+     "Sampaio Corrêa-RJ",
+     "Bonsucesso",
+     "America-RJ",
+     "Resende",
+     "Artsul",
+     "Serra",
+     "Estrela do Norte",
+     "São Bernardo"
+    ],
+    "titulos": [
+     "Campeão estadual por Porto Velho, Maranhão e Sampaio Corrêa-RJ"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-joel-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Joel",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado na base da Ferroviária",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Ferroviária (base)",
+     "Moto Club",
+     "IAPE",
+     "Chapadinha",
+     "Luminense",
+     "Timon"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-iruan-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Iruan",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado no Coritiba, campeão da Copa do Brasil Sub-20",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Coritiba (base)",
+     "Portuguesa",
+     "CRAC",
+     "Grêmio Maringá",
+     "Laranja Mecânica"
+    ],
+    "titulos": [
+     "Campeão da Copa do Brasil Sub-20 pelo Coritiba",
+     "Acesso e título com o Grêmio Maringá"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-gabriel-dubilde-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Gabriel Dubilde",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Vem de dois acessos seguidos na A3 (Sertãozinho e Marília)",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Nova Iguaçu",
+     "Volta Redonda",
+     "Americano",
+     "Artsul",
+     "Sertãozinho",
+     "Marília"
+    ],
+    "titulos": [
+     "Acesso na A3 com o Sertãozinho",
+     "Acesso na A3 com o Marília",
+     "Campeão pelo Nova Iguaçu"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-davi-moura-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Davi Moura",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube onde foi titular do sub-20 (2022 e 2023)",
+   "de": {
+    "nome": "Rio Preto",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "União Barbarense",
+     "Rio Claro",
+     "Audax",
+     "Francana",
+     "Rio Preto"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
+   "id": "2026-11-21-cassius-sao-bento",
+   "data": "2026-11-21",
+   "jogador": "Cassius",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Defensor ambidestro, com passagens pela Moldávia, Portugal e Vietnã",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 31,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Portuguesa (base)",
+     "Santos",
+     "Grêmio Anápolis",
+     "Audax",
+     "America-RJ",
+     "Anapolina",
+     "Águia de Marabá"
+    ]
+   },
+   "comissao": false,
+   "dono": "saobento"
+  },
+  {
    "id": "2026-11-20-nathan-sao-bento",
    "data": "2026-11-20",
-   "jogador": "Nathan",
+   "jogador": "Nathan Girotto",
    "posicao": "Goleiro",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
@@ -47,7 +509,14 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 25,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Bandeirante",
+     "Colorado Caieiras",
+     "Corumbaense",
+     "São Gabriel-MS",
+     "Paulista"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -88,7 +557,18 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 34,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Fluminense",
+     "Monaco",
+     "Atlético-GO",
+     "Náutico",
+     "ABC",
+     "Joinville",
+     "Paraná",
+     "Botafogo-SP",
+     "XV de Piracicaba"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -129,7 +609,19 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 26,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Anapolina (base)",
+     "PSTC",
+     "Grêmio São-Carlense",
+     "Rio Preto",
+     "Primavera-MT",
+     "SSA FC"
+    ],
+    "titulos": [
+     "Campeão estadual com o Primavera-MT",
+     "Acesso inédito com o SSA FC-BA"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -170,7 +662,22 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 29,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Vila Nova",
+     "Aparecidense",
+     "Goianésia",
+     "Goiatuba",
+     "Luverdense",
+     "Araguaína",
+     "São Bernardo",
+     "Ituano",
+     "Bandeirante"
+    ],
+    "titulos": [
+     "Campeão estadual pelo Tocantinópolis",
+     "Campeão estadual pelo Real Brasília"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -211,7 +718,14 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 21,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Athletico-PR (base)",
+     "Criciúma (base)",
+     "Guarani (base)",
+     "Campinense",
+     "Luverdense"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -252,7 +766,18 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 28,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Avaí",
+     "Azuriz",
+     "Grêmio Prudente",
+     "Penapolense",
+     "Mixto",
+     "Rio Preto"
+    ],
+    "titulos": [
+     "Campeão catarinense pelo Avaí"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -463,7 +988,11 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 43,
+    "idade_em": "2026-11-20",
+    "no_clube": "245 jogos oficiais pelo São Bento (top 3 da história) e 9 gols"
+   },
    "comissao": false,
    "dono": "saobento"
   },
@@ -503,7 +1032,23 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 38,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Linense",
+     "Rio Claro",
+     "Santo André",
+     "Guarani",
+     "Novorizontino",
+     "Red Bull Brasil",
+     "Oeste",
+     "Água Santa",
+     "Portuguesa Santista",
+     "Batatais",
+     "Paraná",
+     "Paysandu",
+     "Caxias",
+     "Capital-DF"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -544,7 +1089,18 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 24,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Avaí (base)",
+     "Figueirense (base)",
+     "Grêmio Prudente",
+     "Santa Catarina Clube",
+     "Inter de Limeira",
+     "CSA"
+    ],
+    "titulos": [
+     "Campeão da Copa Alagoas pelo CSA"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -585,7 +1141,21 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 25,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Tupi (base)",
+     "Guarani de Divinópolis",
+     "Valeriodoce",
+     "Santacruzense",
+     "Independente",
+     "Ji-Paraná",
+     "Caravaggio",
+     "Rio Branco-AC"
+    ],
+    "titulos": [
+     "Campeão mineiro do Módulo II pelo Guarani de Divinópolis",
+     "Campeão estadual pelo Rio Branco-AC"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -626,7 +1196,19 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 32,
-    "idade_em": "2026-11-20"
+    "idade_em": "2026-11-20",
+    "clubes_anteriores": [
+     "Novorizontino (base)",
+     "Noroeste",
+     "São José",
+     "Desportivo Brasil",
+     "Sertãozinho",
+     "Rio Preto",
+     "São Carlos",
+     "Olímpia",
+     "CRAC",
+     "Grêmio Maringá"
+    ]
    },
    "comissao": false,
    "dono": "saobento"
@@ -2175,9 +2757,9 @@
    ],
    "nascimento": "",
    "numeros": {
-    "jogos": 4,
+    "jogos": 5,
     "gols": 0,
-    "minutos": 88,
+    "minutos": 156,
     "minutos_estimados": true,
     "clube": "Botafogo-SP",
     "clubes": [
@@ -2374,9 +2956,9 @@
    ],
    "nascimento": "",
    "numeros": {
-    "jogos": 7,
+    "jogos": 8,
     "gols": 1,
-    "minutos": 428,
+    "minutos": 496,
     "minutos_estimados": true,
     "clube": "Botafogo-SP",
     "clubes": [
@@ -6956,6 +7538,53 @@
    "dono": "votuporanguense"
   },
   {
+   "id": "2026-11-09-arthur-proenca-sao-bento",
+   "data": "2026-11-09",
+   "jogador": "Arthur Proença",
+   "posicao": "Preparador físico",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube, onde trabalhou em 2016 e 2017",
+   "de": {
+    "nome": "Ibrachina",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "São Bento",
+    "slug": "saobento",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "São Paulo (base)",
+     "Red Bull Bragantino (base)",
+     "Ibrachina",
+     "Santo André",
+     "Desportivo Brasil",
+     "Antalyaspor (Turquia)"
+    ]
+   },
+   "comissao": true,
+   "dono": "saobento"
+  },
+  {
    "id": "2026-11-09-alan-leite-marilia",
    "data": "2026-11-09",
    "jogador": "Alan Leite",
@@ -7225,9 +7854,9 @@
    ],
    "nascimento": "",
    "numeros": {
-    "jogos": 2,
+    "jogos": 3,
     "gols": 0,
-    "minutos": 180,
+    "minutos": 270,
     "minutos_estimados": false,
     "clube": "Botafogo-SP",
     "clubes": [
@@ -12373,65 +13002,325 @@
     {
      "temporada": "2027",
      "clube": "União São João",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+     ]
+    },
+    {
+     "temporada": "2026",
+     "clube": "Votuporanguense",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.dgabc.com.br/Noticia/4278643/votuporanguense-x-agua-santa-onde-assistir-e-provaveis-escalacoes"
+     ],
+     "obs": "1 fonte (DGABC, 09/01/2026, provável escalação na A2); saída e números em atualização"
+    },
+    {
+     "temporada": "2024",
+     "clube": "Brasiliense",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
+      "https://jovempan.com.br/?p=45168",
+      "https://diariodopara.com.br/bola/medico-comanda-vitoria-do-brasiliense-apos-saida-de-tecnico/"
+     ],
+     "obs": "Contratado para a Série D 2024 (CB, 02/04/2024); pediu demissão no intervalo do 3º jogo, contra o Real Brasília, em 12/05/2024. Números: só 1 fonte (Jovem Pan: 1V 1D antes do 3º jogo), não gravados"
     },
     {
      "temporada": "2022",
      "clube": "Pouso Alegre",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://trivela.com.br/brasil/lado-b-de-brasil/pouso-alegre-lotou-o-manduzao-e-orgulhou-o-sul-de-minas-com-a-promocao-inedita-a-serie-c/",
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
+      "https://www.bandab.com.br/esporte/futebol/tecnico-pouso-alegre-sabia-estrategia-parana/amp/"
+     ]
+    },
+    {
+     "temporada": "2022",
+     "clube": "São Bento",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.gazetaesportiva.com/campeonatos/paulista-a2/apos-empate-na-ida-portuguesa-e-sao-bento-decidem-o-titulo-da-serie-a2-do-paulista/",
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
+      "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+     ]
+    },
+    {
+     "temporada": "2021",
+     "clube": "São Bento",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.dgabc.com.br/Noticia/3731781/santo-andre-reencontra-tecnico-paulo-roberto"
+     ],
+     "obs": "Série D 2021 (DGABC, 26/06/2021)"
+    },
+    {
+     "temporada": "2020",
+     "clube": "Santo André",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://abcdoabc.com.br/paulo-roberto-fala-de-suas-expectativas-do-jogo-contra-o-sao-paulo/",
+      "https://www.dgabc.com.br/Noticia/3731781/santo-andre-reencontra-tecnico-paulo-roberto"
+     ],
+     "obs": "ABC do ABC 08/02/2020 (Paulistão); DGABC 26/06/2021 diz que dirigiu o Santo André nas duas temporadas anteriores"
+    },
+    {
+     "temporada": "2018-2019",
+     "clube": "Brasil de Pelotas",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=2694532",
+      "https://dol.com.br/esporte/mundo/noticia-578192-portuguesa-anuncia-o-treinador-paulo-roberto-santos-ex-sao-bento.html"
+     ],
+     "obs": "Contratado no fim de nov/2018, demitido em 10/02/2019 sem vitórias no Gauchão (números de 1 fonte só, não gravados)"
+    },
+    {
+     "temporada": "2018",
+     "clube": "Sampaio Corrêa",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.opovo.com.br/esportes/futebol/2018/07/paulo-roberto-e-apresentado-no-sampaio-e-afirma-situacao-e-reversive.html",
+      "https://oimparcial.com.br/esportes/2018/07/paulo-roberto-santos-e-o-novo-tecnico-do-sampaio-correa/",
+      "https://www.gazetaesportiva.com/?p=2617973",
+      "https://dol.com.br/esporte/mundo/noticia-526817-ex-sao-bento-paulo-roberto-santos-e-o-novo-treinador-do-sampaio.html",
+      "https://oimparcial.com.br/esportes/2018/09/sampaio-comunica-demissao-do-treinador-paulo-roberto/"
+     ],
+     "obs": "Anunciado em 26-27/07/2018, demitido em 05/09/2018 (Série B)"
+    },
+    {
+     "temporada": "2018",
+     "clube": "São Bento",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=2617973",
+      "https://dol.com.br/esporte/mundo/noticia-526817-ex-sao-bento-paulo-roberto-santos-e-o-novo-treinador-do-sampaio.html"
+     ],
+     "obs": "Demitido em junho de 2018"
     },
     {
      "temporada": "2017",
      "clube": "São Bento",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
     },
     {
      "temporada": "2016",
      "clube": "São Bento",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
+    },
+    {
+     "temporada": "2014",
+     "clube": "São Caetano",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.dgabc.com.br/Noticia/533290/paulo-roberto-confirma-acerto-com-o-sao-caetano"
+     ],
+     "obs": "Acerto em 03/06/2014 para a Série C, saindo do São Bento"
     },
     {
      "temporada": "2013-2014",
      "clube": "São Bento",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
+    },
+    {
+     "temporada": "2013",
+     "clube": "Rio Claro",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
+      "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+     ],
+     "obs": "Acesso à elite paulista"
+    },
+    {
+     "temporada": "2008-2010",
+     "clube": "Atlético Sorocaba",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://dol.com.br/esporte/esporte-brasil/noticia-105850-apos-fracasso-no-paysandu-tecnico-ganha-destaque.html",
+      "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+     ],
+     "obs": "DOL (26/08/2010): chegou no fim de 2007 e seguia no cargo em ago/2010"
+    },
+    {
+     "temporada": "2007",
+     "clube": "Paysandu",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://dol.com.br/esporte/esporte-brasil/noticia-105850-apos-fracasso-no-paysandu-tecnico-ganha-destaque.html"
+     ],
+     "obs": "Série C 2007; ano só no DOL (Gazeta Esportiva/DOL 2018 e FI citam a passagem sem ano)"
     },
     {
      "temporada": "2006-2007",
      "clube": "Grêmio Barueri",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
+    },
+    {
+     "temporada": "2005-2007",
+     "clube": "Rio Claro",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
+      "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+     ],
+     "obs": "Acessos 2005 e 2006 e vaga na Série C via Paulistão em 2007"
     },
     {
      "temporada": "2003",
      "clube": "União São João",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
+    },
+    {
+     "temporada": "2001-2002",
+     "clube": "Rio Claro",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
+      "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+     ],
+     "obs": "Acessos 2001 e 2002"
     },
     {
      "temporada": "1998",
      "clube": "Gama",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
     },
     {
      "temporada": "1994",
      "clube": "Gama",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
     },
     {
      "temporada": "1993",
      "clube": "Unaí",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
+    },
+    {
+     "temporada": "1989",
+     "clube": "Minas Boa Esperança",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
+      "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
+     ],
+     "obs": "CB 2017 chama o clube de Minas Esporte Clube"
     },
     {
      "temporada": "1988",
      "clube": "Pouso Alegre",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": ""
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/",
    "ficha": {
     "natural": "Rio de Janeiro/RJ",
-    "idade": 66,
-    "idade_em": "2026-10-24",
-    "conhecido_como": "\"Rei do Acesso\" (Futebol Interior)",
+    "conhecido_como": "\"Rei do Acesso\" (Futebol Interior, 24/10/2026; Correio Braziliense, 02/04/2024) e \"Luxemburgo do Interior\" (Jovem Pan, 25/02/2019; Correio Braziliense, 03/10/2017: apelido criado por um jornalista de Rio Claro, segundo ele)",
     "inicio": "Primeiro acesso como técnico em 1988, levando o Pouso Alegre à 1ª divisão mineira",
     "no_clube": "Treinou o União São João em 2003 e volta 23 anos depois, para a A3 de 2027",
     "titulos": [
@@ -12440,15 +13329,29 @@
     ],
     "acessos": [
      "Acesso à 1ª divisão mineira em 1988 com o Pouso Alegre",
+     "Acesso à 1ª divisão mineira em 1989 com o Minas Boa Esperança",
      "Acesso à 1ª divisão mineira em 1993 com o Unaí",
+     "Acesso da 5ª para a 4ª divisão paulista em 2001 com o Rio Claro",
+     "Acesso da 4ª para a 3ª divisão paulista em 2002 com o Rio Claro",
+     "Acesso da 3ª para a 2ª divisão paulista em 2005 com o Rio Claro",
      "Acesso à Série A1 em 2006 com o Rio Claro",
+     "Vaga na Série C do Brasileiro em 2007 com o Rio Claro, via Paulistão",
+     "Acesso à Série A1 em 2013 com o Rio Claro",
+     "Acesso à Série A1 em 2014 com o São Bento",
      "Acesso à Série C em 2016 com o São Bento",
      "Acesso à Série B em 2017 com o São Bento",
+     "Acesso à Série A1 em 2022 com o São Bento",
      "Acesso à Série C em 2022 com o Pouso Alegre"
     ],
     "destaques": [
      "Levou o Rio Claro da 6ª divisão à elite do Paulistão em cinco anos",
-     "Treinou Fábio Carille, seu zagueiro no Grêmio Barueri (2006-2007)"
+     "Treinou Fábio Carille, seu zagueiro no Grêmio Barueri (2006-2007)",
+     "14 acessos na carreira até 2022, quatro deles em competições nacionais (Futebol Interior, 24/10/2026; lista ano a ano no Correio Braziliense, 02/04/2024; Trivela, 29/08/2022)",
+     "Levou o São Bento da Série D à Série B em duas temporadas seguidas: acesso à Série C em 2016 e à Série B em 2017",
+     "Pôs o Pouso Alegre pela primeira vez na Série C: 1 a 0 no ASA em 27/08/2022, no Manduzão, na semifinal da Série D 2022 (Trivela e Agência Brasil, 29/08/2022)",
+     "Vice-campeão da Série D 2022 com o Pouso Alegre: perdeu a final para o América-RN no placar agregado (0 a 2 em Natal e 1 a 0 na volta, em 25/09/2022)",
+     "Em 2022 subiu dois times no mesmo ano: o São Bento para a A1 do Paulistão (abril) e o Pouso Alegre para a Série C (agosto)",
+     "Comandou o Pouso Alegre no acesso à 1ª divisão mineira em 1988 e voltou 34 anos depois para o acesso inédito à Série C, em 2022"
     ],
     "clubes_anteriores": [
      "Pouso Alegre",
@@ -12469,13 +13372,38 @@
      "Ferroviária",
      "Santo André",
      "XV de Piracicaba",
-     "Uberlândia"
+     "Uberlândia",
+     "Brasiliense",
+     "Votuporanguense"
     ],
     "fontes": [
+     "https://abcdoabc.com.br/paulo-roberto-fala-de-suas-expectativas-do-jogo-contra-o-sao-paulo/",
+     "https://agenciabrasil.ebc.com.br/esportes/noticia/2022-08/acessos-da-serie-d-definem-quatro-novos-clubes-da-serie-c-de-2023",
+     "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/",
      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-tecnico-sao-bento-serie-c/",
+     "https://diariodopara.com.br/bola/medico-comanda-vitoria-do-brasiliense-apos-saida-de-tecnico/",
+     "https://dol.com.br/esporte/esporte-brasil/noticia-105850-apos-fracasso-no-paysandu-tecnico-ganha-destaque.html",
+     "https://dol.com.br/esporte/mundo/noticia-526817-ex-sao-bento-paulo-roberto-santos-e-o-novo-treinador-do-sampaio.html",
+     "https://dol.com.br/esporte/mundo/noticia-578192-portuguesa-anuncia-o-treinador-paulo-roberto-santos-ex-sao-bento.html",
+     "https://jovempan.com.br/?p=45168",
+     "https://jovempan.com.br/esportes/futebol/luxemburgo-do-interior-volta-atras-e-nao-sera-mais-tecnico-da-portuguesa/",
+     "https://oimparcial.com.br/esportes/2018/07/paulo-roberto-santos-e-o-novo-tecnico-do-sampaio-correa/",
+     "https://oimparcial.com.br/esportes/2018/09/sampaio-comunica-demissao-do-treinador-paulo-roberto/",
+     "https://trivela.com.br/brasil/lado-b-de-brasil/da-a-3-paulista-a-serie-b-em-cinco-anos-o-sao-bento-honra-sua-tradicao-e-orgulha-o-interior/",
      "https://trivela.com.br/brasil/lado-b-de-brasil/pouso-alegre-lotou-o-manduzao-e-orgulhou-o-sul-de-minas-com-a-promocao-inedita-a-serie-c/",
-     "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/"
-    ]
+     "https://www.bandab.com.br/esporte/futebol/tecnico-pouso-alegre-sabia-estrategia-parana/amp/",
+     "https://www.dgabc.com.br/Noticia/3731781/santo-andre-reencontra-tecnico-paulo-roberto",
+     "https://www.dgabc.com.br/Noticia/4278643/votuporanguense-x-agua-santa-onde-assistir-e-provaveis-escalacoes",
+     "https://www.dgabc.com.br/Noticia/533290/paulo-roberto-confirma-acerto-com-o-sao-caetano",
+     "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/",
+     "https://www.gazetaesportiva.com/?p=2617973",
+     "https://www.gazetaesportiva.com/?p=2694532",
+     "https://www.gazetaesportiva.com/?p=2700288",
+     "https://www.gazetaesportiva.com/?p=3253510",
+     "https://www.gazetaesportiva.com/campeonatos/paulista-a2/apos-empate-na-ida-portuguesa-e-sao-bento-decidem-o-titulo-da-serie-a2-do-paulista/",
+     "https://www.opovo.com.br/esportes/futebol/2018/07/paulo-roberto-e-apresentado-no-sampaio-e-afirma-situacao-e-reversive.html"
+    ],
+    "estilo": "Na apresentação no Sampaio Corrêa (31/07/2018), Paulo Roberto Santos disse: \"Nossa intenção é ter uma equipe que marque forte e faça uma transição rápida para o ataque\" (O Povo). Na campanha do acesso à Série B de 2017, a Trivela (Leandro Stein, 25/09/2017) apontou \"a defesa fortíssima\" do São Bento como a marca do trabalho dele. Em entrevista ao Correio Braziliense (03/10/2017), citou como inspirações José Mourinho, Pep Guardiola e Tite, e chamou Vanderlei Luxemburgo de \"uma referência na parte tática\"."
    },
    "comissao": true,
    "dono": "uniao-sao-joao"
