@@ -66,3 +66,9 @@ Para cada pessoa nova (ou página com muito "Em atualização"):
    ou entrevista que os descreva. Pista derrubada ou sem fonte não entra.
 5. Gravar na base (ficha: `nome_completo`, `natural`, `posicao_jogador`, `formacao`, `esquema`, `estilo`, `titulos`, `acessos`,
    `destaques`, `clubes_anteriores`; `carreira` por temporada; `carreira_fonte`). O tema mostra na ficha e nas perguntas frequentes.
+
+## Clubes de fora de São Paulo (22/11/2026, pedido do Thiago)
+- Todo clube citado numa trajetória vira link. O clube paulista leva para /times/<slug>/; o clube de fora, para /clube/<nome>/ (tema 1.8.4).
+- Clube de fora: **sem notícias**. Entram só tabelas, elencos, ficha (dados/guia_clubes.json, com fonte) e evergreen, sempre com custo zero, saindo da base.
+- O foco de cobertura continua sendo os clubes paulistas. Página de clube de fora com pouco conteúdo fica com noindex até a base crescer.
+- Escudo de clube de fora: dados/escudos_extra.json + api/escudos/<nome>.png (120 px). Nome igual ao usado no mercado e na carreira.
