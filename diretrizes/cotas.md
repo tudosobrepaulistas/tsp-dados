@@ -40,7 +40,11 @@ Se a redação não fez, a Máquina faz. A Máquina nunca passa da conta: só co
 
 ## Prioridades de 19/11/2026 (pedido do Thiago)
 - **Paulistão A4 é prioridade**: 8 matérias por dia, sempre logo depois de Mirassol + Bragantino. O A4 ficou 2 dias sem matéria (17 e 18/11): não pode se repetir.
-- **Paulistão A1 (clubes de férias)**: o bloco da home precisa mostrar os 10 clubes (Botafogo-SP, Capivariano, Ferroviária, Guarani, Juventus, Noroeste, Novorizontino, Portuguesa, Primavera e São Bernardo): **1 matéria de cada clube por dia**.
+- **Paulistão A1 (clubes de férias)**: o bloco da home precisa mostrar os 10 clubes (Botafogo-SP, Capivariano, Ferroviária, Guarani, Juventus, Noroeste, Novorizontino, Portuguesa, Primavera e São Bernardo): **2 matérias de cada clube por dia** (regra de 22/11/2026: 1 até 12h e a 2ª até 18h; o A1 ficou 21/11 inteiro sem matéria).
 - **A2 e A3: equilíbrio**. A ferramenta conta as matérias de cada clube nos últimos 7 dias (redação + Máquina) e mostra primeiro os clubes com menos cobertura. Não escreva sobre o clube que a redação já cobriu bem enquanto houver clube do mesmo bloco com 0 ou 1 matéria na semana.
 - Ponte Preta continua no bloco do **Paulistão A2**.
 - Ordem de execução: Mirassol + Bragantino → A4 → clubes prioritários → A1 → A2 → A3 → base → feminino → sem divisão.
+
+## Regras de 22/11/2026 (Thiago)
+- **Paulistão A1 (10 clubes de férias): no mínimo 2 matérias de cada clube por dia.**
+- **Futebol feminino: no mínimo 8 matérias por dia.** Dia de jogo: pós-jogo e tabela do painel (`dados/painel_feminino.json`) atualizados no mesmo dia.

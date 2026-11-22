@@ -878,10 +878,11 @@ def blocos_cota():
     return blocos + [
         ("Paulistão A4", [c["slug"] for c in cs if c.get("grupo") == "a4"], 8, 0, "PRIORIDADE: 8 por dia, o clube com menos matérias nos últimos 7 dias primeiro"),
         ("Clubes prioritários (2 por dia)", fixos, 2 * len(fixos), 2, "2 de cada clube por dia, qualquer divisão (1 até 12h, a 2ª até 18h)"),
-        ("Paulistão A1 (10 clubes de férias: 1 de cada por dia)", [x for x in BLOCOS["A1"] if x not in nac], len([x for x in BLOCOS["A1"] if x not in nac]), 1, "1 matéria de CADA clube por dia (o bloco da home precisa mostrar os 10)"),
+        # 22/11/2026 (Thiago): A1 passou a 2 matérias de CADA clube de férias por dia (1 até 12h, a 2ª até 18h)
+        ("Paulistão A1 (10 clubes de férias: 2 de cada por dia)", [x for x in BLOCOS["A1"] if x not in nac], 2 * len([x for x in BLOCOS["A1"] if x not in nac]), 2, "2 matérias de CADA clube por dia: 1 até 12h e a 2ª até 18h (o bloco da home precisa mostrar os 10)"),
         ("Paulistão A2", [x for x in BLOCOS["A2"] if x not in nac], 8, 0, "8 por dia, EQUILÍBRIO: o clube com menos matérias nos últimos 7 dias primeiro"),
         ("Paulistão A3", [x for x in BLOCOS["A3"] if x not in nac], 8, 0, "8 por dia, EQUILÍBRIO: o clube com menos matérias nos últimos 7 dias primeiro"),
-        ("Futebol feminino", [c["slug"] for c in cs if c.get("grupo") == "feminino"], 8, 0, "8 por dia, variando entre as 8 equipes"),
+        ("Futebol feminino", [c["slug"] for c in cs if c.get("grupo") == "feminino"], 8, 0, "NO MÍNIMO 8 por dia (regra do Thiago, 22/11), variando entre as equipes; pós-jogo e tabela do painel no mesmo dia do jogo"),
         ("Clubes sem divisão", [c["slug"] for c in cs if c.get("grupo") == "sem_divisao"], 8, 0, "8 por dia, o clube com menos matérias nos últimos 7 dias primeiro"),
     ]
 
