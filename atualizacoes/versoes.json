@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.8.3",
-   "zip": "tsp-nova-era-1.8.3.zip",
-   "notas": "Página do treinador redesenhada (resposta rápida com apelidos e conquistas, ficha enxuta, raio-x em números, estilo de jogo em destaque, títulos e acessos em linha do tempo, trajetória agrupada com escudos e link para o clube, \"na imprensa\" com reportagens de outros portais) + redes sociais na ficha técnica (1.8.2)."
+   "versao": "1.8.4",
+   "zip": "tsp-nova-era-1.8.4.zip",
+   "notas": "Todo clube da trajetória de técnicos e jogadores vira link: paulista leva à página do clube; clube de fora ganha página própria /clube/<nome>/ (escudo, ficha, técnicos e jogadores da base que passaram por lá, transferências com clubes paulistas), montada só com a base do TSP. Inclui o redesenho da página do treinador (1.8.3)."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
