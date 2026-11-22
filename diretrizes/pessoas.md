@@ -49,3 +49,20 @@ números do card de jogador (CLAUDE.md, regra 13).
 
 Dados estruturados: Person (com memberOf, birthDate, nationality, award, sameAs para os perfis oficiais da pessoa), FAQPage, BreadcrumbList.
 O que fica de fora: anúncio no meio dos dados, página vazia e listas sem contexto.
+
+## Agente editor: perguntar às IAs e definir as intenções de busca (22/11/2026, pedido do Thiago)
+Para cada pessoa nova (ou página com muito "Em atualização"):
+1. **Perguntar a uma IA** (Perplexity aberto no navegador, sem login) a trajetória completa: ficha técnica, formação, clubes com
+   anos, títulos e acessos, estilo de jogo e esquema. Gravar a resposta em `rascunhos/ia-<nome>.md` como **pistas**: a IA não é fonte.
+2. **Anotar quais fontes a IA usa.** Se ela cita Transfermarkt, Sofascore, Wikipedia ou Futebol Interior, é ali que o TSP precisa
+   passar a ser a fonte citada (GEO). Dado que a IA não sabe ou erra = oportunidade do TSP.
+3. **Intenções de busca de treinador** (viram campos da ficha e perguntas frequentes):
+   - quem é / quantos anos tem / de onde é;
+   - estilo de jogo; esquema tático preferido (formação em campo); formação acadêmica e licenças;
+   - clubes que treinou; títulos; acessos;
+   - números (jogos, vitórias, aproveitamento); contrato até quando.
+   Jogador: posição e pé, idade, clubes, números da temporada, gols, títulos, valor de mercado só com fonte oficial.
+4. **Conferir pista por pista** (subagente editor): título, acesso, número e nascimento com 2 fontes. Estilo e esquema só com matéria
+   ou entrevista que os descreva. Pista derrubada ou sem fonte não entra.
+5. Gravar na base (ficha: `nome_completo`, `natural`, `posicao_jogador`, `formacao`, `esquema`, `estilo`, `titulos`, `acessos`,
+   `destaques`, `clubes_anteriores`; `carreira` por temporada; `carreira_fonte`). O tema mostra na ficha e nas perguntas frequentes.
