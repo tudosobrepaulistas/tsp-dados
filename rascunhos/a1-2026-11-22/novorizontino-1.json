@@ -1,46 +1,169 @@
 {
-  "clube": "novorizontino",
-  "tipo": "noticia",
-  "titulo": "Novorizontino na Série A: aeroporto a 93 km e pouca hospedagem desafiam visitantes em Novo Horizonte",
-  "subtitulo": "Cidade do campeão da Série B tem menos de 40 mil habitantes e quatro hotéis e pousadas cadastrados; Catanduva, a 52 km do Jorjão, surge como opção para os rivais",
-  "corpo": [
-    {"p": "A estreia do Novorizontino na Série A do Campeonato Brasileiro, em 2027, vai levar os grandes clubes do país a Novo Horizonte, no interior de São Paulo, cidade com menos de 40 mil habitantes. Quem enfrentar o Tigre no Estádio Jorge Ismael de Biasi, o Jorjão, terá pela frente um desafio fora de campo: o aeroporto mais próximo fica em São José do Rio Preto, a 93 km, e a cidade tem poucas opções de hospedagem para uma delegação de futebol."},
-    {"p": "O Novorizontino conquistou o título da Série B de 2026 e vai disputar a primeira divisão nacional pela primeira vez na história. Com isso, Novo Horizonte, a cerca de 410 km da capital paulista, passa a entrar no roteiro de viagens de todos os clubes da elite."},
-    {"h2": "Como os visitantes chegam a Novo Horizonte?"},
-    {"p": "O caminho mais comum é o avião até São José do Rio Preto, aeroporto que tem oferta limitada de voos diretos. De lá, a viagem de ônibus até Novo Horizonte leva cerca de 1h30, dependendo das condições da estrada. As principais rodovias de acesso têm longos trechos de pista simples, o que pode deixar o deslocamento mais lento em horários de movimento."},
-    {"h2": "Onde os adversários do Novorizontino podem se hospedar?"},
-    {"p": "Levantamento publicado pelo Terra aponta que Novo Horizonte tem apenas quatro estabelecimentos de hospedagem, entre hotéis e pousadas, cadastrados pela prefeitura, e que três deles não têm capacidade para receber uma delegação completa."},
-    {"p": "A alternativa mais próxima é Catanduva, a cerca de 52 km do Jorjão, o que representa por volta de 50 minutos de ônibus até o estádio. Foi lá que o Palmeiras ficou hospedado na final do Paulistão de 2026, disputada em Novo Horizonte."},
-    {"p": "Inaugurado em 1987, o Jorjão já recebeu uma final de Paulistão, contra o Palmeiras, em 2026. A diferença em 2027 é a frequência: na Série A, a cidade vai receber clubes de várias regiões do país ao longo de todo o campeonato."},
-    {"p": "Um dos visitantes de Novo Horizonte em 2027 será o Flamengo. O confronto com o clube carioca no Jorjão ainda não tem data definida."}
-  ],
-  "resumo": [
-    "O Novorizontino, campeão da Série B de 2026, vai disputar a Série A pela primeira vez em 2027.",
-    "O aeroporto mais próximo de Novo Horizonte fica em São José do Rio Preto, a 93 km, a cerca de 1h30 de ônibus.",
-    "A cidade tem quatro hotéis e pousadas cadastrados pela prefeitura, e três não comportam uma delegação completa.",
-    "Catanduva, a 52 km do Jorjão, é a opção mais próxima; o Palmeiras ficou lá na final do Paulistão de 2026."
-  ],
-  "faq": [
-    ["Qual o aeroporto mais perto do estádio do Novorizontino?", "O de São José do Rio Preto, a 93 km de Novo Horizonte. O trajeto de ônibus leva cerca de 1h30."],
-    ["Quantos hotéis tem Novo Horizonte?", "A prefeitura tem quatro estabelecimentos cadastrados, entre hotéis e pousadas. Três deles não têm capacidade para uma delegação completa."],
-    ["Onde os times visitantes costumam se hospedar?", "Em Catanduva, a cerca de 52 km do Jorjão. O Palmeiras ficou na cidade na final do Paulistão de 2026."],
-    ["Onde o Novorizontino manda seus jogos?", "No Estádio Jorge Ismael de Biasi, o Jorjão, em Novo Horizonte, inaugurado em 1987."]
-  ],
-  "foco": "logística Novorizontino Série A",
-  "meta_title": "Novorizontino na Série A: aeroporto a 93 km e pouca hospedagem",
-  "meta_desc": "Logística do Novorizontino na Série A: aeroporto em Rio Preto a 93 km, quatro hotéis em Novo Horizonte e Catanduva como opção para os visitantes.",
-  "tags": ["Novorizontino", "Novo Horizonte", "Série A 2027", "Jorjão", "Catanduva"],
-  "fontes": [
-    {"nome": "Terra (conteúdo Gávea News)", "url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-tera-desafio-extra-para-enfrentar-no-brasileirao-de-2027,00ddd1682f298360f562de543fd6de30xgdeukiy.html"},
-    {"nome": "Terra (conteúdo Gávea News)", "url": "https://www.terra.com.br/esportes/flamengo/flamengo-tera-novo-desafio-para-superar-no-campeonato-brasileiro-de-2027,be55efc1c4ca37cdf6cea673897caa07mx3ah0zp.html"},
-    {"nome": "ESPN", "url": "https://www.espn.com.br/futebol/paulista/artigo/_/id/16394273/paulistao-cidade-com-quatro-predios-a-jogo-vida-como-final-contra-palmeiras-sacudiu-novo-horizonte"}
-  ],
-  "foto": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Est%C3%A1dio_Dr._Jorge_Ismael_de_Biasi.jpg/1280px-Est%C3%A1dio_Dr._Jorge_Ismael_de_Biasi.jpg",
-    "credito": "Foto: Renandrade15 / Wikimedia Commons (CC BY-SA 4.0)",
-    "fonte": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Dr._Jorge_Ismael_de_Biasi.jpg",
-    "alt": "Vista panorâmica do Estádio Jorge Ismael de Biasi, o Jorjão, do Novorizontino, com arquibancadas amarelas e pretas em dia de jogo",
-    "mostra": "Vista panorâmica do Jorjão, estádio do Novorizontino em Novo Horizonte, antes de Novorizontino x Corinthians pelo Paulistão de 2018"
+ "clube": "novorizontino",
+ "tipo": "noticia",
+ "titulo": "Novorizontino na Série A: aeroporto a 93 km é desafio para os visitantes de Novo Horizonte",
+ "subtitulo": "Cidade do campeão da Série B tem menos de 40 mil habitantes; na final do Paulistão de 2026, o Palmeiras se hospedou em Catanduva para jogar no Jorjão",
+ "corpo": [
+  {
+   "p": "A estreia do Novorizontino na Série A do Campeonato Brasileiro, em 2027, vai levar os grandes clubes do país a Novo Horizonte, no interior de São Paulo, cidade com menos de 40 mil habitantes."
   },
-  "revisao": {}
+  {
+   "p": "Quem enfrentar o Tigre no Estádio Jorge Ismael de Biasi, o Jorjão, terá pela frente um desafio fora de campo: o aeroporto mais próximo fica em São José do Rio Preto, a 93 km, com oferta limitada de voos."
+  },
+  {
+   "p": "O Novorizontino conquistou o título da Série B de 2026 e vai disputar a primeira divisão nacional pela primeira vez na história. Com isso, Novo Horizonte passa a entrar no roteiro de viagens de todos os clubes da elite."
+  },
+  {
+   "h2": "Onde os adversários do Novorizontino podem se hospedar?"
+  },
+  {
+   "p": "Na final do Campeonato Paulista de 2026, disputada em Novo Horizonte, o Palmeiras se hospedou em Catanduva, cidade vizinha, e seguiu de ônibus até o Jorjão. O trajeto leva menos de uma hora."
+  },
+  {
+   "p": "A diferença em 2027 é a frequência: na Série A, a cidade vai receber clubes de várias regiões do país ao longo de todo o campeonato."
+  }
+ ],
+ "resumo": [
+  "O Novorizontino, campeão da Série B de 2026, vai disputar a Série A pela primeira vez em 2027.",
+  "O aeroporto mais próximo de Novo Horizonte fica em São José do Rio Preto, a 93 km.",
+  "Novo Horizonte tem menos de 40 mil habitantes.",
+  "Na final do Paulistão de 2026, o Palmeiras se hospedou em Catanduva, a menos de uma hora do Jorjão."
+ ],
+ "faq": [
+  [
+   "Qual o aeroporto mais perto do estádio do Novorizontino?",
+   "O de São José do Rio Preto, a 93 km de Novo Horizonte."
+  ],
+  [
+   "Onde o Palmeiras se hospedou na final do Paulistão de 2026?",
+   "Em Catanduva, a menos de uma hora de ônibus do Jorjão."
+  ],
+  [
+   "Onde o Novorizontino manda seus jogos?",
+   "No Estádio Jorge Ismael de Biasi, o Jorjão, em Novo Horizonte."
+  ],
+  [
+   "É a primeira vez do Novorizontino na Série A?",
+   "Sim. O clube conquistou o título inédito da Série B de 2026 e estreia na elite em 2027."
+  ]
+ ],
+ "foco": "logística Novorizontino Série A",
+ "meta_title": "Novorizontino na Série A: aeroporto a 93 km de Novo Horizonte",
+ "meta_desc": "Logística do Novorizontino na Série A: aeroporto em Rio Preto a 93 km de Novo Horizonte e Catanduva como opção de hotel para os visitantes.",
+ "tags": [
+  "Novorizontino",
+  "Novo Horizonte",
+  "Série A 2027",
+  "Jorjão",
+  "Catanduva"
+ ],
+ "fontes": [
+  {
+   "nome": "Terra (conteúdo Gávea News)",
+   "url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-tera-desafio-extra-para-enfrentar-no-brasileirao-de-2027,00ddd1682f298360f562de543fd6de30xgdeukiy.html"
+  },
+  {
+   "nome": "ESPN",
+   "url": "https://www.espn.com.br/futebol/paulista/artigo/_/id/16394273/paulistao-cidade-com-quatro-predios-a-jogo-vida-como-final-contra-palmeiras-sacudiu-novo-horizonte"
+  },
+  {
+   "nome": "CBF",
+   "url": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-b/a/novorizontino-e-campeao-da-serie-b"
+  },
+  {
+   "nome": "TMC",
+   "url": "https://tmc.com.br/?p=45956"
+  }
+ ],
+ "foto": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Est%C3%A1dio_Dr._Jorge_Ismael_de_Biasi.jpg/1280px-Est%C3%A1dio_Dr._Jorge_Ismael_de_Biasi.jpg",
+  "credito": "Foto: Renandrade15 / Wikimedia Commons (CC BY-SA 4.0)",
+  "fonte": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Dr._Jorge_Ismael_de_Biasi.jpg",
+  "alt": "Vista panorâmica do Estádio Jorge Ismael de Biasi, o Jorjão, do Novorizontino, com arquibancadas amarelas e pretas em dia de jogo",
+  "mostra": "Vista panorâmica do Jorjão, estádio do Novorizontino em Novo Horizonte, antes de Novorizontino x Corinthians pelo Paulistão de 2018"
+ },
+ "revisao": {
+  "veredito": "aprovado",
+  "conferidos": [
+   {
+    "fato": "Aeroporto mais próximo em São José do Rio Preto, a 93 km; voos limitados",
+    "fonte": "https://www.terra.com.br/esportes/palmeiras/palmeiras-tera-desafio-extra-para-enfrentar-no-brasileirao-de-2027,00ddd1682f298360f562de543fd6de30xgdeukiy.html"
+   },
+   {
+    "fato": "Aeroporto a 93 km, com poucos voos diários (fonte independente)",
+    "fonte": "https://www.espn.com.br/futebol/paulista/artigo/_/id/16394273/paulistao-cidade-com-quatro-predios-a-jogo-vida-como-final-contra-palmeiras-sacudiu-novo-horizonte"
+   },
+   {
+    "fato": "População: cerca de 39,5 mil habitantes",
+    "fonte": "https://www.terra.com.br/esportes/palmeiras/palmeiras-tera-desafio-extra-para-enfrentar-no-brasileirao-de-2027,00ddd1682f298360f562de543fd6de30xgdeukiy.html"
+   },
+   {
+    "fato": "População: 38 mil habitantes (fonte independente)",
+    "fonte": "https://www.espn.com.br/futebol/paulista/artigo/_/id/16394273/paulistao-cidade-com-quatro-predios-a-jogo-vida-como-final-contra-palmeiras-sacudiu-novo-horizonte"
+   },
+   {
+    "fato": "Novorizontino campeão inédito da Série B 2026; primeira vez na elite",
+    "fonte": "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-b/a/novorizontino-e-campeao-da-serie-b"
+   },
+   {
+    "fato": "Título da Série B de 2026 e acesso inédito",
+    "fonte": "https://www.terra.com.br/esportes/palmeiras/palmeiras-tera-desafio-extra-para-enfrentar-no-brasileirao-de-2027,00ddd1682f298360f562de543fd6de30xgdeukiy.html"
+   },
+   {
+    "fato": "Palmeiras se hospedou em Catanduva para a final do Paulistão 2026 (cerca de 45 min até Novo Horizonte)",
+    "fonte": "https://tmc.com.br/?p=45956"
+   },
+   {
+    "fato": "Palmeiras usou hotel em Catanduva na final, cerca de 50 min de ônibus do estádio",
+    "fonte": "https://www.terra.com.br/esportes/palmeiras/palmeiras-tera-desafio-extra-para-enfrentar-no-brasileirao-de-2027,00ddd1682f298360f562de543fd6de30xgdeukiy.html"
+   },
+   {
+    "fato": "Final do Paulistão 2026 contra o Palmeiras em Novo Horizonte",
+    "fonte": "https://www.espn.com.br/futebol/paulista/artigo/_/id/16394273/paulistao-cidade-com-quatro-predios-a-jogo-vida-como-final-contra-palmeiras-sacudiu-novo-horizonte"
+   }
+  ],
+  "correcoes": [
+   {
+    "trecho": "título e subtítulo: 'pouca hospedagem' / 'quatro hotéis e pousadas cadastrados'",
+    "certo": "título e subtítulo reescritos com o que tem 2 fontes",
+    "motivo": "número de hotéis só aparece nas duas versões da Gávea News (mesmo grupo, não independentes)"
+   },
+   {
+    "trecho": "parágrafo do levantamento de quatro hotéis, três sem capacidade",
+    "certo": "(removido)",
+    "motivo": "só Gávea News"
+   },
+   {
+    "trecho": "Catanduva, a cerca de 52 km do Jorjão, por volta de 50 minutos",
+    "certo": "menos de uma hora",
+    "motivo": "52 km só na Gávea News; tempo: TMC diz 45 min, Gávea 50 min"
+   },
+   {
+    "trecho": "viagem de ônibus de cerca de 1h30; rodovias com pista simples",
+    "certo": "(removido)",
+    "motivo": "só Gávea News"
+   },
+   {
+    "trecho": "a cerca de 410 km da capital paulista",
+    "certo": "(removido)",
+    "motivo": "só ESPN"
+   },
+   {
+    "trecho": "Inaugurado em 1987, o Jorjão",
+    "certo": "(removido)",
+    "motivo": "só ESPN"
+   },
+   {
+    "trecho": "parágrafo sobre o Flamengo sem data",
+    "certo": "(removido)",
+    "motivo": "só Gávea News"
+   },
+   {
+    "trecho": "fontes",
+    "certo": "removida a 2ª matéria da Gávea News (duplicada); incluídas CBF e TMC"
+   }
+  ],
+  "chefe": "subagente Chefe de Redação 22/11/2026"
+ },
+ "publish_at": "2026-11-22T11:30:00"
 }

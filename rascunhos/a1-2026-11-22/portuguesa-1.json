@@ -1,71 +1,98 @@
 {
-  "clube": "portuguesa",
-  "tipo": "coletiva",
-  "titulo": "Portuguesa reúne Edu Marangon, Toninho e outros ex-jogadores na Feijoada dos Ídolos do Canindé",
-  "subtitulo": "Evento em parceria com a Colorado do Brás acontece em 13 de dezembro, com jogo de ex-atletas às 10h, feijoada e ensaio rumo ao Carnaval 2027",
-  "corpo": [
-    {
-      "p": "A Portuguesa vai promover a Feijoada dos Ídolos da Lusa no dia 13 de dezembro, no Canindé, em São Paulo. O evento, organizado em parceria com a Colorado do Brás, começa às 10h com uma partida especial entre ex-jogadores que atuaram pelo clube e segue com feijoada, música e ensaio para o Carnaval de 2027."
-    },
-    {
-      "p": "O anúncio foi feito pelo clube em seu site oficial. A proposta é reunir ídolos, torcedores e amigos da Lusa num mesmo dia, com futebol, convivência e samba no estádio."
-    },
-    {
-      "h2": "Quais ex-jogadores da Portuguesa vão estar no Canindé?"
-    },
-    {
-      "p": "A Portuguesa citou oito nomes para a partida da manhã: Toninho, Edu Marangon, Lê, o goleiro Serginho, Wilsinho, Calegari, Marco Antônio e Jorginho. O clube informou que outros ex-jogadores também vão entrar em campo."
-    },
-    {
-      "h2": "Como vai ser a programação da Feijoada dos Ídolos?"
-    },
-    {
-      "p": "Depois da partida da manhã, o público segue para a feijoada, com ídolos e torcedores reunidos. O encerramento fica por conta do show do Pagode Amigos da Colorado, seguido do ensaio da Colorado do Brás rumo ao Carnaval 2027."
-    },
-    {
-      "p": "No anúncio, a Portuguesa informou que os detalhes sobre ingressos seriam divulgados depois. Quem quiser participar deve acompanhar os canais oficiais do clube."
-    }
+ "clube": "portuguesa",
+ "tipo": "coletiva",
+ "titulo": "Portuguesa reúne Edu Marangon, Toninho e outros ex-jogadores na Feijoada dos Ídolos do Canindé",
+ "subtitulo": "Evento em parceria com a Colorado do Brás acontece em 13 de dezembro, com jogo de ex-atletas às 10h, feijoada e ensaio rumo ao Carnaval 2027",
+ "corpo": [
+  {
+   "p": "A Portuguesa vai promover a Feijoada dos Ídolos da Lusa no dia 13 de dezembro, no Canindé, em São Paulo. O evento, organizado em parceria com a Colorado do Brás, começa às 10h com uma partida especial entre ex-jogadores que atuaram pelo clube e segue com feijoada, música e ensaio para o Carnaval de 2027."
+  },
+  {
+   "p": "O anúncio foi feito pelo clube em seu site oficial. A proposta é reunir ídolos, torcedores e amigos da Lusa num mesmo dia, com futebol, convivência e samba no estádio."
+  },
+  {
+   "h2": "Quais ex-jogadores da Portuguesa vão estar no Canindé?"
+  },
+  {
+   "p": "A Portuguesa citou oito nomes para a partida da manhã: Toninho, Edu Marangon, Lê, o goleiro Serginho, Wilsinho, Calegari, Marco Antônio e Jorginho. O clube informou que outros ex-jogadores também vão entrar em campo."
+  },
+  {
+   "h2": "Como vai ser a programação da Feijoada dos Ídolos?"
+  },
+  {
+   "p": "Depois da partida da manhã, o público segue para a feijoada, com ídolos e torcedores reunidos. O encerramento fica por conta do show do Pagode Amigos da Colorado, seguido do ensaio da Colorado do Brás rumo ao Carnaval 2027."
+  },
+  {
+   "p": "No anúncio, a Portuguesa informou que os detalhes sobre ingressos seriam divulgados depois. Quem quiser participar deve acompanhar os canais oficiais do clube."
+  }
+ ],
+ "resumo": [
+  "A Portuguesa promove a Feijoada dos Ídolos da Lusa em 13 de dezembro, no Canindé.",
+  "Às 10h, ex-jogadores como Toninho, Edu Marangon, Calegari e o goleiro Serginho disputam uma partida especial.",
+  "Depois do jogo há feijoada, show do Pagode Amigos da Colorado e ensaio da Colorado do Brás rumo ao Carnaval 2027.",
+  "Os detalhes sobre ingressos são divulgados pelos canais oficiais do clube."
+ ],
+ "faq": [
+  [
+   "Quando é a Feijoada dos Ídolos da Portuguesa?",
+   "No dia 13 de dezembro, no Canindé, a partir das 10h."
   ],
-  "resumo": [
-    "A Portuguesa promove a Feijoada dos Ídolos da Lusa em 13 de dezembro, no Canindé.",
-    "Às 10h, ex-jogadores como Toninho, Edu Marangon, Calegari e o goleiro Serginho disputam uma partida especial.",
-    "Depois do jogo há feijoada, show do Pagode Amigos da Colorado e ensaio da Colorado do Brás rumo ao Carnaval 2027.",
-    "Os detalhes sobre ingressos são divulgados pelos canais oficiais do clube."
+  [
+   "Quem joga na partida de ex-jogadores?",
+   "O clube citou Toninho, Edu Marangon, Lê, o goleiro Serginho, Wilsinho, Calegari, Marco Antônio e Jorginho, entre outros."
   ],
-  "faq": [
-    [
-      "Quando é a Feijoada dos Ídolos da Portuguesa?",
-      "No dia 13 de dezembro, no Canindé, a partir das 10h."
-    ],
-    [
-      "Quem joga na partida de ex-jogadores?",
-      "O clube citou Toninho, Edu Marangon, Lê, o goleiro Serginho, Wilsinho, Calegari, Marco Antônio e Jorginho, entre outros."
-    ],
-    [
-      "O que acontece depois do jogo?",
-      "Feijoada com ídolos e torcedores, show do Pagode Amigos da Colorado e ensaio da Colorado do Brás rumo ao Carnaval 2027."
-    ],
-    [
-      "Onde comprar ingresso?",
-      "A Portuguesa informou que divulgaria os detalhes dos ingressos nos seus canais oficiais."
-    ]
+  [
+   "O que acontece depois do jogo?",
+   "Feijoada com ídolos e torcedores, show do Pagode Amigos da Colorado e ensaio da Colorado do Brás rumo ao Carnaval 2027."
   ],
-  "foco": "Feijoada dos Ídolos da Portuguesa",
-  "meta_title": "Feijoada dos Ídolos da Portuguesa reúne ex-jogadores no Canindé",
-  "meta_desc": "Feijoada dos Ídolos da Portuguesa em 13/12 no Canindé: jogo de ex-atletas como Edu Marangon e Toninho às 10h, feijoada e ensaio da Colorado do Brás.",
-  "tags": [
-    "Portuguesa",
-    "Canindé",
-    "Edu Marangon",
-    "Colorado do Brás",
-    "São Paulo"
+  [
+   "Onde comprar ingresso?",
+   "A Portuguesa informou que divulgaria os detalhes dos ingressos nos seus canais oficiais."
+  ]
+ ],
+ "foco": "Feijoada dos Ídolos da Portuguesa",
+ "meta_title": "Feijoada dos Ídolos da Portuguesa reúne ex-jogadores no Canindé",
+ "meta_desc": "Feijoada dos Ídolos da Portuguesa em 13/12 no Canindé: jogo de ex-atletas como Edu Marangon e Toninho às 10h, feijoada e ensaio da Colorado do Brás.",
+ "tags": [
+  "Portuguesa",
+  "Canindé",
+  "Edu Marangon",
+  "Colorado do Brás",
+  "São Paulo"
+ ],
+ "fontes": [
+  {
+   "nome": "Site oficial da Portuguesa",
+   "url": "https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9"
+  }
+ ],
+ "foto_pendente": "Foto dos ex-jogadores da Portuguesa em campo no Canindé (jogo de ídolos anterior) ou de um dos citados (Edu Marangon, Toninho, Calegari, Serginho). O post oficial tem uma imagem em https://static.wixstatic.com/media/355b3d_f79dd187186f49ef861a2fa21f7059d6~mv2.jpeg (página: https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9), mas não consegui abri-la aqui: confira antes; se for arte/card de divulgação, não serve. Crédito sugerido: Foto: Reprodução/Site oficial da Portuguesa",
+ "revisao": {
+  "veredito": "aprovado",
+  "conferidos": [
+   {
+    "fato": "Feijoada dos Ídolos da Lusa em 13 de dezembro, no Canindé, em parceria com a Colorado do Brás",
+    "fonte": "https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9"
+   },
+   {
+    "fato": "Partida de ex-jogadores às 10h",
+    "fonte": "https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9"
+   },
+   {
+    "fato": "Nomes: Toninho, Edu Marangon, Lê, Serginho (goleiro), Wilsinho, Calegari, Marco Antônio, Jorginho, 'entre outros craques'",
+    "fonte": "https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9"
+   },
+   {
+    "fato": "Programação: feijoada, Pagode Amigos da Colorado e ensaio rumo ao Carnaval 2027",
+    "fonte": "https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9"
+   },
+   {
+    "fato": "'Em breve, mais informações sobre ingressos' (publicado em 16/11/2026)",
+    "fonte": "https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9"
+   }
   ],
-  "fontes": [
-    {
-      "nome": "Site oficial da Portuguesa",
-      "url": "https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9"
-    }
-  ],
-  "foto_pendente": "Foto dos ex-jogadores da Portuguesa em campo no Canindé (jogo de ídolos anterior) ou de um dos citados (Edu Marangon, Toninho, Calegari, Serginho). O post oficial tem uma imagem em https://static.wixstatic.com/media/355b3d_f79dd187186f49ef861a2fa21f7059d6~mv2.jpeg (página: https://www.portuguesa.com.br/post/feijoada-dos-%C3%ADdolos-da-lusa-um-dia-de-futebol-hist%C3%B3rias-e-muita-samba-no-canind%C3%A9), mas não consegui abri-la aqui: confira antes; se for arte/card de divulgação, não serve. Crédito sugerido: Foto: Reprodução/Site oficial da Portuguesa",
-  "revisao": {}
+  "correcoes": [],
+  "chefe": "subagente Chefe de Redação 22/11/2026"
+ },
+ "publish_at": "2026-11-22T13:00:00"
 }
