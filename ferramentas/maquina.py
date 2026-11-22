@@ -425,7 +425,7 @@ def adicionar_versao(it):
     if sum(1 for b in it.get("corpo", []) if isinstance(b, dict) and b.get("p")) < 4:
         erros.append("corpo precisa de pelo menos 4 parágrafos")
     for b in it.get("corpo", []):
-        if not (isinstance(b, dict) and len(b) == 1 and list(b)[0] in ("p", "h2", "citacao")):
+        if not (isinstance(b, dict) and len(b) == 1 and list(b)[0] in ("p", "h2", "h3", "citacao", "tabela")):
             erros.append(f"bloco mal formado {b!r}")
     if len(it.get("titulo", "")) > 100 or len(it.get("meta_title", "")) > 65 or len(it.get("meta_desc", "")) > 160:
         erros.append("titulo (100), meta_title (65) ou meta_desc (160) longos demais")
@@ -497,7 +497,7 @@ def cmd_adicionar(a):
     if True:
         if rv.get("veredito") != "aprovado" or len(rv.get("conferidos") or []) < 3:
             erros.append("falta a revisão do Chefe de Redação: campo 'revisao' com veredito 'aprovado' e pelo menos 3 fatos conferidos (diretrizes/chefe-de-redacao.md)")
-    texto_todo = " ".join([it.get("titulo", ""), it.get("subtitulo", ""), " ".join(str(x) for x in (it.get("resumo") or []))] + [list(b.values())[0] if isinstance(b, dict) and b else "" for b in corpo])
+    texto_todo = " ".join([it.get("titulo", ""), it.get("subtitulo", ""), " ".join(str(x) for x in (it.get("resumo") or []))] + [str(list(b.values())[0]) if isinstance(b, dict) and b else "" for b in corpo])
     if re.search(r"\bbezinha\b", texto_todo, re.I):
         erros.append("não use o apelido 'Bezinha': escreva 'Segunda Divisão' (5º nível, Sub-23). A Série A4 é outra divisão")
     for num in re.findall(r"\b(\d+) d[oa]s (\d+)\b", it.get("titulo", "")):
@@ -511,7 +511,7 @@ def cmd_adicionar(a):
     if not any(b.get("h2") for b in corpo):
         erros.append("corpo precisa de 1 a 3 intertítulos (h2) em forma de pergunta")
     for b in corpo:
-        if not (isinstance(b, dict) and len(b) == 1 and list(b)[0] in ("p", "h2", "citacao")):
+        if not (isinstance(b, dict) and len(b) == 1 and list(b)[0] in ("p", "h2", "h3", "citacao", "tabela")):
             erros.append(f"bloco mal formado {b!r}")
     if not (3 <= len(it.get("faq", [])) <= 5):
         erros.append("faq: 3 a 5 perguntas")
