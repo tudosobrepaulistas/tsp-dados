@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.7.9",
-   "zip": "tsp-nova-era-1.7.9.zip",
-   "notas": "Página do clube para ganhar a busca do interior: \"Resposta rápida\" no topo, título e descrição automáticos com cidade (os antigos \"Notícias do X - Tudo Sobre Paulista\" deixam de valer), H1 com espaços, técnico atual vindo do Mercado da Bola e ficha do clube completada pela base conferida (api/guia_clubes.json). Inclui os grupos de WhatsApp (1.7.8)."
+   "versao": "1.8.0",
+   "zip": "tsp-nova-era-1.8.0.zip",
+   "notas": "Página do treinador responde às buscas do torcedor: esquema tático preferido, estilo de jogo, formação, idade e número de acessos (na ficha e nas perguntas frequentes, só com dado conferido). Inclui a página do clube da 1.7.9 e os grupos de WhatsApp."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
