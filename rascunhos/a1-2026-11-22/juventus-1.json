@@ -2,10 +2,10 @@
   "clube": "juventus",
   "tipo": "noticia",
   "titulo": "Juventus: capitão Fernando inicia transição para o gramado após cirurgia no pé",
-  "subtitulo": "Zagueiro rompeu o tendão fibular longo do pé esquerdo em setembro, foi operado e entrou em nova fase da reabilitação; clube não fixou data para a volta aos treinos com o grupo",
+  "subtitulo": "Capitão rompeu o tendão fibular longo do pé esquerdo em setembro, foi operado e entrou em nova fase da reabilitação; clube não divulgou data para a volta aos treinos com o grupo",
   "corpo": [
     {
-      "p": "O capitão Fernando deu mais um passo na recuperação no Juventus. O clube da Mooca, na zona leste de São Paulo, informou que o zagueiro iniciou o trabalho de transição para o gramado, depois de romper o tendão fibular longo do pé esquerdo em setembro e passar por cirurgia."
+      "p": "O capitão Fernando deu mais um passo na recuperação no Juventus. O clube da Mooca, na zona leste de São Paulo, informou que ele iniciou o trabalho de transição para o gramado, depois de romper o tendão fibular longo do pé esquerdo em setembro e passar por cirurgia."
     },
     {
       "p": "O anúncio foi feito pela Juventus SAF nas redes oficiais, com a mensagem \"Ele tá voltando!\". O clube tratou a etapa como \"mais um passo importante na recuperação do nosso capitão\"."
@@ -23,7 +23,7 @@
       "h2": "Quando o Fernando volta a jogar pelo Juventus?"
     },
     {
-      "p": "Ainda não há previsão oficial. Enquanto isso, o elenco do Moleque Travesso faz a pré-temporada na Rua Javari, de olho na Série A1 do Campeonato Paulista de 2027, que o clube volta a disputar após o título da Série A2 de 2026."
+      "p": "Ainda não há previsão oficial. Enquanto isso, o elenco do Moleque Travesso faz a pré-temporada no complexo da Rua Javari, de olho na Série A1 do Campeonato Paulista de 2027, que o clube volta a disputar após o título da Série A2 de 2026."
     }
   ],
   "resumo": [
@@ -71,5 +71,47 @@
     }
   ],
   "foto_pendente": "Foto do zagueiro Fernando, capitão do Juventus, de preferência a do post oficial \"Ele tá voltando!\" da Juventus SAF (Instagram @juventussaf, exibido na página inicial de https://www.juventussaf.com.br/), que mostra a fase de transição para o gramado. Não consegui baixar nem abrir a imagem para conferir (o servidor bloqueou o download), então não sei exatamente o que ela mostra: confira antes de usar. Crédito sugerido: Foto: Reprodução/Instagram Juventus SAF",
-  "revisao": ""
+  "revisao": {
+    "veredito": "aprovado",
+    "conferidos": [
+      {
+        "fato": "Post oficial 'Ele tá voltando!': ruptura do tendão fibular longo do pé esquerdo em setembro, cirurgia, início da transição para o gramado",
+        "fonte": "https://www.juventussaf.com.br/"
+      },
+      {
+        "fato": "Citações 'Ele tá voltando!' e 'Mais um passo importante na recuperação do nosso capitão!'",
+        "fonte": "https://www.juventussaf.com.br/"
+      },
+      {
+        "fato": "Fernando é o capitão; lesão no pé esquerdo em setembro com cirurgia; transição para o gramado; sem data para volta aos treinos coletivos (18/11)",
+        "fonte": "https://boainformacao.com.br/2026/11/juventus-atualiza-recuperacao-de-capitao-fernando-apos-lesao-no-pe/"
+      },
+      {
+        "fato": "Pré-temporada no complexo da Rua Javari; Juventus confirmado na Série A1 de 2027 após título da Série A2 de 2026",
+        "fonte": "https://boainformacao.com.br/2026/11/juventus-inicia-fase-de-preparacao-do-paulistao-em-16-de-novembro/"
+      },
+      {
+        "fato": "Título da Série A2 em 2026 e volta à primeira divisão estadual em 2027",
+        "fonte": "https://boainformacao.com.br/2026/11/juventus-atualiza-recuperacao-de-capitao-fernando-apos-lesao-no-pe/"
+      }
+    ],
+    "correcoes": [
+      {
+        "trecho": "o zagueiro iniciou o trabalho",
+        "certo": "ele iniciou o trabalho",
+        "motivo": "posição só aparece em uma fonte não oficial; o post oficial não diz"
+      },
+      {
+        "trecho": "Zagueiro rompeu... clube não fixou data",
+        "certo": "Capitão rompeu... clube não divulgou data",
+        "motivo": "posição sem 2ª fonte; post oficial não traz data (não há prova de que a data 'não foi fixada')"
+      },
+      {
+        "trecho": "pré-temporada na Rua Javari",
+        "certo": "pré-temporada no complexo da Rua Javari",
+        "fonte": "https://boainformacao.com.br/2026/11/juventus-inicia-fase-de-preparacao-do-paulistao-em-16-de-novembro/"
+      }
+    ],
+    "chefe": "subagente Chefe de Redação 22/11/2026"
+  }
 }
