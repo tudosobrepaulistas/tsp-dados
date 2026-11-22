@@ -3,7 +3,7 @@
  "competicoes": [
   {
    "nome": "Paulistão Feminino 2026",
-   "fase": "Play-in (São Paulo classificado; Corinthians x Bragantino decide no dom. 22/11)",
+   "fase": "Semifinais (9 e 13/12): Ferroviária x Bragantino e Palmeiras x São Paulo",
    "classificacao_titulo": "Paulistão Feminino · classificação final da 1ª fase",
    "classificacao": [
     [
@@ -93,16 +93,20 @@
      "fase": "Play-in",
      "casa": "Red Bull Bragantino",
      "fora": "Corinthians",
-     "quando": "Volta: dom. 22/11, 11h, Parque São Jorge",
-     "obs": "Corinthians precisa vencer por 3 gols; por 2, pênaltis",
+     "quando": "Volta: dom. 22/11, Fazendinha. Gols: Duda Rodrigues (RBB); Ariel Godoi (2) e Gabi Zanotti (COR)",
+     "obs": "Bragantino classificado: 3 x 3 no agregado e 5 x 4 nos pênaltis",
      "placar": {
       "j1": [
        2,
        0
       ],
       "j2": [
-       null,
-       null
+       1,
+       3
+      ],
+      "penaltis": [
+       5,
+       4
       ]
      }
     },
@@ -126,16 +130,16 @@
     {
      "fase": "Semifinal",
      "casa": "Ferroviária",
-     "fora": "Classificado do play-in",
+     "fora": "Red Bull Bragantino",
      "quando": "9/12 e 13/12",
-     "obs": "Contra o São Paulo se o Bragantino passar"
+     "obs": "Ida em Bragança Paulista (Cícero de Souza Marques), 9/12; volta 13/12"
     },
     {
      "fase": "Semifinal",
      "casa": "Palmeiras",
-     "fora": "Classificado do play-in",
+     "fora": "São Paulo",
      "quando": "9/12 e 13/12",
-     "obs": "Contra o São Paulo se o Corinthians passar"
+     "obs": ""
     },
     {
      "fase": "Final",
@@ -155,7 +159,9 @@
     "https://www.terra.com.br/esportes/corinthians/corinthians-perde-para-bragantino-e-se-complica-no-paulista-feminino,8cce8cc9d24b1f8a026567db7bca560alfrldrmn.html",
     "https://www.redbullbragantino.com/br-pt/noticias/bragantinas-vencem-o-corinthians-e-saem-em-vantagem-no-play-in-do-paulistao-f-2026",
     "https://www.gazetaesportiva.com/campeonatos/paulista/sao-paulo-vence-santos-avanca-semifinal-paulista-feminino/",
-    "https://www.saopaulofc.net/sao-paulo-vence-santos-e-avanca-a-semifinal-do-paulistao-f/"
+    "https://www.saopaulofc.net/sao-paulo-vence-santos-e-avanca-a-semifinal-do-paulistao-f/",
+    "https://www.gazetaesportiva.com/red-bull-bragantino/bragantino-elimina-corinthians-nos-penaltis-e-avanca-a-semifinal-do-paulistao-feminino/",
+    "https://www.terra.com.br/esportes/corinthians/paulista-feminino-corinthians-cai-para-o-bragantino-e-esta-eliminado,d0a03b11871cc2b45b68b5502d5e680dlcy6wwgq.html"
    ],
    "colunas": [
     "#",
@@ -169,5 +175,5 @@
    ]
   }
  ],
- "gerado": "2026-11-22T02:45-03:00"
+ "gerado": "2026-11-22T15:35-03:00"
 }

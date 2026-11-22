@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.8.4",
-   "zip": "tsp-nova-era-1.8.4.zip",
-   "notas": "Todo clube da trajetória de técnicos e jogadores vira link: paulista leva à página do clube; clube de fora ganha página própria /clube/<nome>/ (escudo, ficha, técnicos e jogadores da base que passaram por lá, transferências com clubes paulistas), montada só com a base do TSP. Inclui o redesenho da página do treinador (1.8.3)."
+   "versao": "1.8.5",
+   "zip": "tsp-nova-era-1.8.5.zip",
+   "notas": "Home: matéria de futebol feminino (pelo time marcado ou pelo título) não aparece mais nos blocos masculinos, como a Série A; bloco da base não repete a mesma foto mesmo quando ela foi enviada duas vezes. Inclui os links de clubes da 1.8.4."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
