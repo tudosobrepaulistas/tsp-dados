@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T15:26:00-03:00",
+ "gerado": "2026-11-22T18:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -78,13 +78,13 @@
     {
      "id": 900004,
      "nome": "Athletico-PR",
-     "pts": 54,
-     "j": 35,
-     "v": 15,
+     "pts": 57,
+     "j": 36,
+     "v": 16,
      "e": 9,
      "d": 11,
-     "gp": 52,
-     "gc": 45
+     "gp": 56,
+     "gc": 47
     },
     {
      "id": 900007,
@@ -233,12 +233,12 @@
      "id": 900019,
      "nome": "Remo",
      "pts": 32,
-     "j": 35,
+     "j": 36,
      "v": 7,
      "e": 11,
-     "d": 17,
-     "gp": 39,
-     "gc": 57
+     "d": 18,
+     "gp": 41,
+     "gc": 61
     },
     {
      "id": 900020,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000158,
-     "rodada": "36",
-     "data": "2026-11-22T16:00",
-     "casa": 900004,
-     "fora": 900019,
-     "a_confirmar": false
-    },
     {
      "id": 91000159,
      "rodada": "36",
@@ -1657,6 +1649,12 @@
      900020,
      900003,
      1,
+     2
+    ],
+    [
+     900004,
+     900019,
+     4,
      2
     ]
    ]
@@ -20191,14 +20189,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.oliberal.com/esportes/remo/remo-perde-para-o-athletico-e-esta-rebaixado-a-serie-b-do-brasileirao-1.1197105",
+    "https://www.metropoles.com/esportes/athletico-pr-vence-e-remo-e-o-segundo-rebaixado-do-campeonato-brasileiro"
    ],
    "fixture": {
     "id": 91000158,
     "timestamp": 1795374000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena da Baixada",
@@ -20220,8 +20220,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 4,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -20271,20 +20271,7 @@
     }
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 70,
-    "empate": 16,
-    "fora": 13,
-    "placar": "2x1",
-    "gols_esperados": [
-     2.6,
-     1.05
-    ],
-    "base": [
-     31,
-     37
-    ]
-   },
+   "previsao": null,
    "events": []
   },
   {
@@ -20384,7 +20371,7 @@
     "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.66,
+     1.65,
      0.96
     ],
     "base": [
@@ -20490,7 +20477,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.13,
-     1.15
+     1.14
     ],
     "base": [
      20,
@@ -20739,8 +20726,8 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.69,
-     0.96
+     1.68,
+     0.95
     ],
     "base": [
      30,
@@ -20808,7 +20795,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.84,
-     2.07
+     2.06
     ],
     "base": [
      23,
@@ -20863,7 +20850,7 @@
     "fora": 19,
     "placar": "1x0",
     "gols_esperados": [
-     1.91,
+     1.9,
      0.96
     ],
     "base": [
@@ -20914,17 +20901,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
-    "empate": 26,
+    "casa": 54,
+    "empate": 25,
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.55,
-     0.87
+     1.6,
+     0.88
     ],
     "base": [
      22,
-     37
+     38
     ]
    },
    "events": []
@@ -21088,7 +21075,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.96,
-     1.71
+     1.7
     ],
     "base": [
      30,
@@ -21138,7 +21125,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 33,
+    "casa": 34,
     "empate": 25,
     "fora": 41,
     "placar": "1x1",
@@ -21200,7 +21187,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.32,
-     1.25
+     1.24
     ],
     "base": [
      23,
@@ -21250,17 +21237,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
+    "casa": 48,
     "empate": 24,
     "fora": 27,
     "placar": "1x1",
     "gols_esperados": [
-     1.66,
-     1.16
+     1.68,
+     1.2
     ],
     "base": [
      31,
-     31
+     32
     ]
    },
    "events": []
@@ -21308,7 +21295,7 @@
    "previsao": {
     "casa": 50,
     "empate": 23,
-    "fora": 27,
+    "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
      1.78,
@@ -21368,7 +21355,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.58,
-     1.17
+     1.16
     ],
     "base": [
      27,
@@ -47944,15 +47931,15 @@
       5,
       900004,
       "Athletico-PR",
-      54,
-      35,
-      15,
+      57,
+      36,
+      16,
       9,
       11,
-      7,
+      9,
       "",
-      52,
-      45
+      56,
+      47
      ],
      [
       6,
@@ -48141,14 +48128,14 @@
       900019,
       "Remo",
       32,
-      35,
+      36,
       7,
       11,
-      17,
-      -18,
+      18,
+      -20,
       "",
-      39,
-      57
+      41,
+      61
      ],
      [
       20,

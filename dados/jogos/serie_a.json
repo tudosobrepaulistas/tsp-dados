@@ -15001,22 +15001,24 @@
    "data": "2026-11-22T16:00:00-03:00",
    "casa": "athletico-pr",
    "fora": "remo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Arena da Baixada",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 4,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
+   "minuto": 90,
    "gols": [],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.oliberal.com/esportes/remo/remo-perde-para-o-athletico-e-esta-rebaixado-a-serie-b-do-brasileirao-1.1197105",
+    "https://www.metropoles.com/esportes/athletico-pr-vence-e-remo-e-o-segundo-rebaixado-do-campeonato-brasileiro"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-22T18:10:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
