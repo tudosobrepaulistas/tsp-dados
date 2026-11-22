@@ -49,3 +49,6 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
     1 matéria que relata o anúncio oficial). Transfermarkt: só referência. **oGol (15/11/2026, liberado pelo Thiago):** vale como fonte dos números do card
     (jogos, minutos, gols, assistências, clubes de 2026 e nascimento), lendo a página de cada jogador, sem raspagem em massa.
     Contratação e saída continuam exigindo as fontes de sempre. Escudos de clubes de fora do site: `dados/escudos_extra.json`.
+14. **Pessoas (22/11/2026):** página e matéria de jogador, treinador, comissão e dirigente seguem `diretrizes/pessoas.md`
+    (SEO com H1/H2/H3 e entidades ligadas; AEO com resposta de até 55 palavras logo abaixo de cada pergunta; GEO com datas,
+    métricas e tabelas; dado que falta = "Em atualização"). Sofascore, oGol, Transfermarkt e Soccerway são só referência de formato.
