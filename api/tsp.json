@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21T22:24:00-03:00",
+ "gerado": "2026-11-21T23:11:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -56,13 +56,13 @@
     {
      "id": 900003,
      "nome": "Cruzeiro",
-     "pts": 63,
-     "j": 35,
-     "v": 19,
+     "pts": 66,
+     "j": 36,
+     "v": 20,
      "e": 6,
      "d": 10,
-     "gp": 57,
-     "gc": 49
+     "gp": 59,
+     "gc": 50
     },
     {
      "id": 900005,
@@ -244,23 +244,15 @@
      "id": 900020,
      "nome": "Chapecoense",
      "pts": 21,
-     "j": 35,
+     "j": 36,
      "v": 4,
      "e": 9,
-     "d": 22,
-     "gp": 33,
-     "gc": 72
+     "d": 23,
+     "gp": 34,
+     "gc": 74
     }
    ],
    "jogos": [
-    {
-     "id": 91000157,
-     "rodada": "36",
-     "data": "2026-11-21T21:00",
-     "casa": 900020,
-     "fora": 900003,
-     "a_confirmar": false
-    },
     {
      "id": 91000158,
      "rodada": "36",
@@ -1288,6 +1280,12 @@
      900012,
      0,
      1
+    ],
+    [
+     900020,
+     900003,
+     1,
+     2
     ]
    ]
   }
@@ -14967,14 +14965,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-chapecoense-sexta-vitoria-seguida-brasileirao/",
+    "https://www.metropoles.com/esportes/brasileirao-cruzeiro-bate-chapecoense-e-alcanca-sexta-vitoria-seguida"
    ],
    "fixture": {
     "id": 91000157,
     "timestamp": 1795305600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Condá",
@@ -14996,8 +14996,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -15023,22 +15023,125 @@
     ],
     "atualizado": "2026-11-19T00:25:00-03:00"
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 19,
-    "empate": 22,
-    "fora": 58,
-    "placar": "0x1",
-    "gols_esperados": [
-     0.99,
-     1.89
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vinícius Bergantin",
+     "time": "Gabriel Werner; Kauan, Eduardo Doma, Victor Caetano; Heitor, Camilo, David, Max, Bruno Pacheco; Bruno Tubarão, Túlio Eduardo",
+     "entraram": [
+      {
+       "jogador": "Everton",
+       "saiu": "Heitor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rosivan",
+       "saiu": "David",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Bruno Pacheco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcinho",
+       "saiu": "Bruno Tubarão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rubens",
+       "saiu": "Túlio Eduardo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Fagner, Fabrício Bruno, Jonathan Jesus, Gabriel Rojas; Zé Lucas, Matheus Henrique, Matheus Pereira; Marquinhos, Villarreal, Bruno Rodrigues",
+     "entraram": [
+      {
+       "jogador": "Wanderson",
+       "saiu": "Fagner",
+       "minuto": ""
+      },
+      {
+       "jogador": "Viña",
+       "saiu": "Gabriel Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Matheus Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wesley",
+       "saiu": "Marquinhos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucho Rodríguez",
+       "saiu": "Villarreal",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-vence-chapecoense-sexta-vitoria-seguida-brasileirao/"
     ],
-    "base": [
-     16,
-     28
-    ]
+    "atualizado": "2026-11-21T23:11:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 48,
+      "extra": null,
+      "texto": "48"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Kauan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 88,
+      "extra": null,
+      "texto": "88"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Wesley"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -15111,8 +15214,8 @@
     "fora": 13,
     "placar": "2x0",
     "gols_esperados": [
-     2.37,
-     0.93
+     2.36,
+     0.94
     ],
     "base": [
      26,
@@ -15196,7 +15299,7 @@
    "previsao": {
     "casa": 46,
     "empate": 28,
-    "fora": 25,
+    "fora": 26,
     "placar": "1x0",
     "gols_esperados": [
      1.31,
@@ -15279,13 +15382,13 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
+    "casa": 61,
     "empate": 20,
     "fora": 19,
     "placar": "2x1",
     "gols_esperados": [
-     2.21,
-     1.13
+     2.2,
+     1.14
     ],
     "base": [
      15,
@@ -15442,7 +15545,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 50,
+    "casa": 49,
     "empate": 27,
     "fora": 23,
     "placar": "1x0",
@@ -15599,14 +15702,14 @@
    "previsao": {
     "casa": 14,
     "empate": 20,
-    "fora": 65,
+    "fora": 66,
     "placar": "0x2",
     "gols_esperados": [
      0.83,
-     2.03
+     2.04
     ],
     "base": [
-     16,
+     17,
      19
     ]
    },
@@ -15658,8 +15761,8 @@
     "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.78,
-     1.09
+     1.77,
+     1.1
     ],
     "base": [
      21,
@@ -15715,7 +15818,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.54,
-     0.86
+     0.87
     ],
     "base": [
      15,
@@ -15765,17 +15868,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
+    "casa": 53,
     "empate": 24,
-    "fora": 22,
+    "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
      1.72,
-     1.02
+     1.04
     ],
     "base": [
      20,
-     28
+     29
     ]
    },
    "events": []
@@ -15827,7 +15930,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.16,
-     1.06
+     1.07
     ],
     "base": [
      27,
@@ -15938,7 +16041,7 @@
     "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.64,
+     1.63,
      1.32
     ],
     "base": [
@@ -16050,7 +16153,7 @@
     "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.46,
+     1.45,
      0.78
     ],
     "base": [
@@ -41266,15 +41369,15 @@
       3,
       900003,
       "Cruzeiro",
-      63,
-      35,
-      19,
+      66,
+      36,
+      20,
       6,
       10,
-      8,
+      9,
       "",
-      57,
-      49
+      59,
+      50
      ],
      [
       4,
@@ -41505,14 +41608,14 @@
       900020,
       "Chapecoense",
       21,
-      35,
+      36,
       4,
       9,
-      22,
-      -39,
+      23,
+      -40,
       "",
-      33,
-      72
+      34,
+      74
      ]
     ]
    ]
@@ -41915,6 +42018,12 @@
     "gols": 3
    },
    {
+    "jogador": "Matheus Pereira",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 3
+   },
+   {
     "jogador": "Mauricio",
     "time": "Palmeiras",
     "time_id": 900002,
@@ -41975,6 +42084,12 @@
     "gols": 2
    },
    {
+    "jogador": "Kauan",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 2
+   },
+   {
     "jogador": "Lucho Acosta",
     "time": "Fluminense",
     "time_id": 900005,
@@ -41996,12 +42111,6 @@
     "jogador": "Matheus Bidu",
     "time": "Corinthians",
     "time_id": 900018,
-    "gols": 2
-   },
-   {
-    "jogador": "Matheus Pereira",
-    "time": "Cruzeiro",
-    "time_id": 900003,
     "gols": 2
    },
    {
@@ -42365,12 +42474,6 @@
     "gols": 1
    },
    {
-    "jogador": "Kauan",
-    "time": "Chapecoense",
-    "time_id": 900020,
-    "gols": 1
-   },
-   {
     "jogador": "Kike Olivera",
     "time": "Bahia",
     "time_id": 900007,
@@ -42620,6 +42723,12 @@
     "jogador": "Walter Clar",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Wesley",
+    "time": "Cruzeiro",
+    "time_id": 900003,
     "gols": 1
    },
    {

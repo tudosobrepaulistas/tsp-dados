@@ -108,6 +108,12 @@
   "gols": 3
  },
  {
+  "jogador": "Matheus Pereira",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 3
+ },
+ {
   "jogador": "Mauricio",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -168,6 +174,12 @@
   "gols": 2
  },
  {
+  "jogador": "Kauan",
+  "time": "Chapecoense",
+  "time_id": 900020,
+  "gols": 2
+ },
+ {
   "jogador": "Lucho Acosta",
   "time": "Fluminense",
   "time_id": 900005,
@@ -189,12 +201,6 @@
   "jogador": "Matheus Bidu",
   "time": "Corinthians",
   "time_id": 900018,
-  "gols": 2
- },
- {
-  "jogador": "Matheus Pereira",
-  "time": "Cruzeiro",
-  "time_id": 900003,
   "gols": 2
  },
  {
@@ -558,12 +564,6 @@
   "gols": 1
  },
  {
-  "jogador": "Kauan",
-  "time": "Chapecoense",
-  "time_id": 900020,
-  "gols": 1
- },
- {
   "jogador": "Kike Olivera",
   "time": "Bahia",
   "time_id": 900007,
@@ -813,6 +813,12 @@
   "jogador": "Walter Clar",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Wesley",
+  "time": "Cruzeiro",
+  "time_id": 900003,
   "gols": 1
  },
  {
