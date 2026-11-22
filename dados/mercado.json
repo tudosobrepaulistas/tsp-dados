@@ -3,8 +3,317 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-21",
+   "jogador": "Rodrigo Rocha",
+   "posicao": "Zagueiro",
+   "de": "URT",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube onde foi formado (base em 2021)",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "São Gonçalo-RJ",
+     "Tirol-CE",
+     "Vitória-ES",
+     "Desportiva Ferroviária",
+     "URT"
+    ],
+    "titulos": [
+     "Campeão da 2ª divisão cearense pelo Tirol"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-rodrigo-rocha-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Rodrigo Augusto",
+   "posicao": "Zagueiro",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Campeão paraense com o Águia de Marabá",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 28,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Atlético-MG (base)",
+     "Criciúma (base)",
+     "Águia de Marabá",
+     "Uberlândia",
+     "Rio Branco-SP",
+     "Jabaquara",
+     "Batatais"
+    ],
+    "titulos": [
+     "Campeão paraense com o Águia de Marabá"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-rodrigo-augusto-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Pedro Paraná",
+   "posicao": "Volante",
+   "de": "Matonense",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Revelado pela Itapirense",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Itapirense",
+     "XV de Jaú",
+     "Barretos",
+     "Altos",
+     "Matonense"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-pedro-parana-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Nauhan",
+   "posicao": "Meia",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado no Audax; quatro temporadas no futebol alemão",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 29,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Audax",
+     "Porto Velho",
+     "Maranhão",
+     "Sampaio Corrêa-RJ",
+     "Bonsucesso",
+     "America-RJ",
+     "Resende",
+     "Artsul",
+     "Serra",
+     "Estrela do Norte",
+     "São Bernardo"
+    ],
+    "titulos": [
+     "Campeão estadual por Porto Velho, Maranhão e Sampaio Corrêa-RJ"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-nauhan-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Joel",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado na base da Ferroviária",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Ferroviária (base)",
+     "Moto Club",
+     "IAPE",
+     "Chapadinha",
+     "Luminense",
+     "Timon"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-joel-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Iruan",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado no Coritiba, campeão da Copa do Brasil Sub-20",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Coritiba (base)",
+     "Portuguesa",
+     "CRAC",
+     "Grêmio Maringá",
+     "Laranja Mecânica"
+    ],
+    "titulos": [
+     "Campeão da Copa do Brasil Sub-20 pelo Coritiba",
+     "Acesso e título com o Grêmio Maringá"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-iruan-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Gabriel Dubilde",
+   "posicao": "Volante",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Vem de dois acessos seguidos na A3 (Sertãozinho e Marília)",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 25,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Nova Iguaçu",
+     "Volta Redonda",
+     "Americano",
+     "Artsul",
+     "Sertãozinho",
+     "Marília"
+    ],
+    "titulos": [
+     "Acesso na A3 com o Sertãozinho",
+     "Acesso na A3 com o Marília",
+     "Campeão pelo Nova Iguaçu"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-gabriel-dubilde-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Davi Moura",
+   "posicao": "Zagueiro",
+   "de": "Rio Preto",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube onde foi titular do sub-20 (2022 e 2023)",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "União Barbarense",
+     "Rio Claro",
+     "Audax",
+     "Francana",
+     "Rio Preto"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-davi-moura-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
+   "data": "2026-11-21",
+   "jogador": "Cassius",
+   "posicao": "Zagueiro",
+   "de": "",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Defensor ambidestro, com passagens pela Moldávia, Portugal e Vietnã",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 31,
+    "idade_em": "2026-11-21",
+    "clubes_anteriores": [
+     "Portuguesa (base)",
+     "Santos",
+     "Grêmio Anápolis",
+     "Audax",
+     "America-RJ",
+     "Anapolina",
+     "Águia de Marabá"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-21-cassius-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
+  },
+  {
    "data": "2026-11-20",
-   "jogador": "Nathan",
+   "jogador": "Nathan Girotto",
    "posicao": "Goleiro",
    "de": "Bandeirante",
    "para": "São Bento",
@@ -21,10 +330,17 @@
    "ficha": {
     "idade": 25,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Bandeirante",
+     "Colorado Caieiras",
+     "Corumbaense",
+     "São Gabriel-MS",
+     "Paulista"
+    ]
    },
    "id": "2026-11-20-nathan-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -45,10 +361,21 @@
    "ficha": {
     "idade": 34,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Fluminense",
+     "Monaco",
+     "Atlético-GO",
+     "Náutico",
+     "ABC",
+     "Joinville",
+     "Paraná",
+     "Botafogo-SP",
+     "XV de Piracicaba"
+    ]
    },
    "id": "2026-11-20-matheus-carvalho-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -69,10 +396,22 @@
    "ficha": {
     "idade": 26,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Anapolina (base)",
+     "PSTC",
+     "Grêmio São-Carlense",
+     "Rio Preto",
+     "Primavera-MT",
+     "SSA FC"
+    ],
+    "titulos": [
+     "Campeão estadual com o Primavera-MT",
+     "Acesso inédito com o SSA FC-BA"
+    ]
    },
    "id": "2026-11-20-mateus-brandao-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -93,10 +432,25 @@
    "ficha": {
     "idade": 29,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Vila Nova",
+     "Aparecidense",
+     "Goianésia",
+     "Goiatuba",
+     "Luverdense",
+     "Araguaína",
+     "São Bernardo",
+     "Ituano",
+     "Bandeirante"
+    ],
+    "titulos": [
+     "Campeão estadual pelo Tocantinópolis",
+     "Campeão estadual pelo Real Brasília"
+    ]
    },
    "id": "2026-11-20-marcos-paulo-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -117,10 +471,17 @@
    "ficha": {
     "idade": 21,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Athletico-PR (base)",
+     "Criciúma (base)",
+     "Guarani (base)",
+     "Campinense",
+     "Luverdense"
+    ]
    },
    "id": "2026-11-20-lucas-martins-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -141,10 +502,21 @@
    "ficha": {
     "idade": 28,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Avaí",
+     "Azuriz",
+     "Grêmio Prudente",
+     "Penapolense",
+     "Mixto",
+     "Rio Preto"
+    ],
+    "titulos": [
+     "Campeão catarinense pelo Avaí"
+    ]
    },
    "id": "2026-11-20-leo-lopes-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -260,7 +632,13 @@
    ],
    "anuncio_do_clube": true,
    "id": "2026-11-20-fabio-bahia-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "ficha": {
+    "idade": 43,
+    "idade_em": "2026-11-20",
+    "no_clube": "245 jogos oficiais pelo São Bento (top 3 da história) e 9 gols",
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -281,10 +659,26 @@
    "ficha": {
     "idade": 38,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Linense",
+     "Rio Claro",
+     "Santo André",
+     "Guarani",
+     "Novorizontino",
+     "Red Bull Brasil",
+     "Oeste",
+     "Água Santa",
+     "Portuguesa Santista",
+     "Batatais",
+     "Paraná",
+     "Paysandu",
+     "Caxias",
+     "Capital-DF"
+    ]
    },
    "id": "2026-11-20-deivid-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -305,10 +699,21 @@
    "ficha": {
     "idade": 24,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Avaí (base)",
+     "Figueirense (base)",
+     "Grêmio Prudente",
+     "Santa Catarina Clube",
+     "Inter de Limeira",
+     "CSA"
+    ],
+    "titulos": [
+     "Campeão da Copa Alagoas pelo CSA"
+    ]
    },
    "id": "2026-11-20-arthur-silveira-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -329,10 +734,24 @@
    "ficha": {
     "idade": 25,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Tupi (base)",
+     "Guarani de Divinópolis",
+     "Valeriodoce",
+     "Santacruzense",
+     "Independente",
+     "Ji-Paraná",
+     "Caravaggio",
+     "Rio Branco-AC"
+    ],
+    "titulos": [
+     "Campeão mineiro do Módulo II pelo Guarani de Divinópolis",
+     "Campeão estadual pelo Rio Branco-AC"
+    ]
    },
    "id": "2026-11-20-arthur-querobino-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-20",
@@ -353,10 +772,22 @@
    "ficha": {
     "idade": 32,
     "idade_em": "2026-11-20",
-    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/"
+    "fonte": "https://jornalopiniao.net/com-direito-a-campeao-brasileiro-sao-bento-anuncia-pacotao-de-dez-reforcos/",
+    "clubes_anteriores": [
+     "Novorizontino (base)",
+     "Noroeste",
+     "São José",
+     "Desportivo Brasil",
+     "Sertãozinho",
+     "Rio Preto",
+     "São Carlos",
+     "Olímpia",
+     "CRAC",
+     "Grêmio Maringá"
+    ]
    },
    "id": "2026-11-20-alef-leite-sao-bento",
-   "atualizado": "2026-11-21T06:56:00-03:00"
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-19",
@@ -4581,6 +5012,36 @@
     "fonte": "https://www.instagram.com/votuporanguenseoficial/",
     "ia": true
    }
+  },
+  {
+   "data": "2026-11-09",
+   "jogador": "Arthur Proença",
+   "posicao": "Preparador físico",
+   "de": "Ibrachina",
+   "para": "São Bento",
+   "de_slug": "",
+   "para_slug": "saobento",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube, onde trabalhou em 2016 e 2017",
+   "fontes": [
+    "https://www.instagram.com/ecsaobento1913/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "São Paulo (base)",
+     "Red Bull Bragantino (base)",
+     "Ibrachina",
+     "Santo André",
+     "Desportivo Brasil",
+     "Antalyaspor (Turquia)"
+    ],
+    "fonte": "https://www.instagram.com/ecsaobento1913/"
+   },
+   "id": "2026-11-09-arthur-proenca-sao-bento",
+   "atualizado": "2026-11-22T03:12:00-03:00"
   },
   {
    "data": "2026-11-09",
