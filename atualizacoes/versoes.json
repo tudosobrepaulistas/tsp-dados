@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.7.5",
-   "zip": "tsp-nova-era-1.7.5.zip",
-   "notas": "Página própria para treinador e comissão técnica: /treinador/<clube>/<nome>/ (e /comissao-tecnica/...), com ficha técnica, números da carreira, aproveitamento, acessos, títulos e destaques, trajetória temporada a temporada, clubes, matérias do TSP e perguntas frequentes respondidas (com dados estruturados). O endereço antigo /jogador/ redireciona. Rótulo \"No clube\" virou \"Trajetória\"; a nota da página do jogador não cita mais o oGol."
+   "versao": "1.7.6",
+   "zip": "tsp-nova-era-1.7.6.zip",
+   "notas": "Páginas de treinador e jogador mostram todos os campos; o que ainda não foi levantado aparece como \"Em atualização\" (no lugar de \"nenhum título/acesso\"). A pergunta sobre títulos e acessos só aparece quando há dado conferido."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
