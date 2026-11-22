@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22T03:44:00-03:00",
+ "gerado": "2026-11-22T03:49:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -30339,7 +30339,74 @@
     ],
     "atualizado": "2026-11-11T20:28:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Roger Silva",
+     "time": "Paulo Vitor; Ewerthon, Adriano Martins, Junior Barreto, Guilherme Lopes; Cristiano, Netinho, Matheusinho; Geovany Soares, Gustavo Coutinho, Gustavo Maia",
+     "entraram": [
+      {
+       "jogador": "Warley",
+       "saiu": "Ewerthon",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Pedro",
+       "saiu": "Netinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Henrique Freitas",
+       "saiu": "Matheusinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Peixoto",
+       "saiu": "Gustavo Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Terans",
+       "saiu": "Gustavo Maia",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Eduardo Barros",
+     "time": "Gustavo Busatto; Igor Inocêncio, Vitor Mendes, Luís Soares, Weverson; Raul, Luiz Otávio, Wesley Dias, David Miguel; Vinícius Peixoto, Kauan Cristtyan",
+     "entraram": [
+      {
+       "jogador": "Eric Melo",
+       "saiu": "Weverson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Mansano",
+       "saiu": "Luiz Otávio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Felipetto",
+       "saiu": "David Miguel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eliel",
+       "saiu": "Vinícius Peixoto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcos Júnior",
+       "saiu": "Kauan Cristtyan",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://paiquerefm.com.br/estadao/atletico-go-vence-o-cuiaba-conta-com-tropecos-de-rivais-e-vai-aos-playoffs-da-serie-b/"
+    ],
+    "atualizado": "2026-11-22T03:49:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -30895,7 +30962,74 @@
     ],
     "atualizado": "2026-11-11T18:28:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Maurício Barbieri",
+     "time": "Jandrei; Rodrigo Sam, Messias, Marcos Paulo; Aderlan, Gabriel Pires, Raí Silva, Diogo Oliveira; Fábio Lima, MP, Alisson Safira",
+     "entraram": [
+      {
+       "jogador": "Titi",
+       "saiu": "Messias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Ruschel",
+       "saiu": "Raí Silva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Juan Christian",
+       "saiu": "Fábio Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Mandaca",
+       "saiu": "MP",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alan Kardec",
+       "saiu": "Alisson Safira",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Cláudio Tencati",
+     "time": "Jordan; Pedrinho, Darlan, Vilar, Wallace, Gabriel Inocêncio; Leandro Maciel, Marco Antônio, Rafael Gava; Zé Hugo, Thiago Moraes",
+     "entraram": [
+      {
+       "jogador": "Wesley",
+       "saiu": "Pedrinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Badaró",
+       "saiu": "Wallace",
+       "minuto": ""
+      },
+      {
+       "jogador": "Erik",
+       "saiu": "Leandro Maciel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Yuri",
+       "saiu": "Marco Antônio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jadson",
+       "saiu": "Thiago Moraes",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.juventude.com.br/blog/vitoria-de-elite-juventude-e-vice-campeao-da-serie-b-e-confirma-retorno-ao-brasileirao"
+    ],
+    "atualizado": "2026-11-22T03:49:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -50452,6 +50586,203 @@
     {
      "nome": "Pedro Henrique",
      "posicao": "Atacante"
+    }
+   ]
+  },
+  "900041": {
+   "time": "estudiantes",
+   "atualizado": "2026-11-22T03:49:00-03:00",
+   "fonte": "https://estudiantesdelaplata.com/futbol/futbol-profesional/",
+   "jogadores": [
+    {
+     "nome": "Fabricio Iacovich",
+     "posicao": "Goleiro",
+     "numero": 1
+    },
+    {
+     "nome": "Fernando Muslera",
+     "posicao": "Goleiro",
+     "numero": 16
+    },
+    {
+     "nome": "Rodrigo Borzone",
+     "posicao": "Goleiro",
+     "numero": 12
+    },
+    {
+     "nome": "Máximo Desábato",
+     "posicao": "Zagueiro",
+     "numero": 3
+    },
+    {
+     "nome": "Santiago Misael Núñez",
+     "posicao": "Zagueiro",
+     "numero": 4
+    },
+    {
+     "nome": "Marcos Rojo",
+     "posicao": "Zagueiro",
+     "numero": 5
+    },
+    {
+     "nome": "Gastón Benedetti",
+     "posicao": "Zagueiro",
+     "numero": 13
+    },
+    {
+     "nome": "Leandro González Pirez",
+     "posicao": "Zagueiro",
+     "numero": 14
+    },
+    {
+     "nome": "Santiago Arzamendia",
+     "posicao": "Zagueiro",
+     "numero": 15
+    },
+    {
+     "nome": "Eric Exequiel Meza",
+     "posicao": "Zagueiro",
+     "numero": 20
+    },
+    {
+     "nome": "Tomás Palacios",
+     "posicao": "Zagueiro",
+     "numero": 24
+    },
+    {
+     "nome": "José Ramiro Funes Mori",
+     "posicao": "Zagueiro",
+     "numero": 26
+    },
+    {
+     "nome": "Faustino Messina",
+     "posicao": "Zagueiro",
+     "numero": 33
+    },
+    {
+     "nome": "Valente Pierani",
+     "posicao": "Zagueiro",
+     "numero": 35
+    },
+    {
+     "nome": "Joaquín Pereyra",
+     "posicao": "Zagueiro",
+     "numero": 36
+    },
+    {
+     "nome": "Matías Magdaleno",
+     "posicao": "Zagueiro",
+     "numero": 37
+    },
+    {
+     "nome": "Eros Mancuso",
+     "posicao": "Zagueiro",
+     "numero": 40
+    },
+    {
+     "nome": "José Ernesto Sosa",
+     "posicao": "Meia",
+     "numero": 7
+    },
+    {
+     "nome": "Gabriel Neves",
+     "posicao": "Meia",
+     "numero": 8
+    },
+    {
+     "nome": "Tiago Palacios",
+     "posicao": "Meia",
+     "numero": 10
+    },
+    {
+     "nome": "Ezequiel Piovi",
+     "posicao": "Meia",
+     "numero": 21
+    },
+    {
+     "nome": "Alexis Castro",
+     "posicao": "Meia",
+     "numero": 22
+    },
+    {
+     "nome": "Baltasar Rodríguez",
+     "posicao": "Meia",
+     "numero": 31
+    },
+    {
+     "nome": "Miguel Monsalve",
+     "posicao": "Meia",
+     "numero": 34
+    },
+    {
+     "nome": "Jalil Elías",
+     "posicao": "Meia",
+     "numero": 39
+    },
+    {
+     "nome": "Franco Basualdo",
+     "posicao": "Meia",
+     "numero": 38
+    },
+    {
+     "nome": "Bautista Kociubinski",
+     "posicao": "Meia",
+     "numero": 52
+    },
+    {
+     "nome": "Leandro Alcaraz",
+     "posicao": "Meia",
+     "numero": 53
+    },
+    {
+     "nome": "Guido Carrillo",
+     "posicao": "Atacante",
+     "numero": 9
+    },
+    {
+     "nome": "Joaquín Tobio Burgos",
+     "posicao": "Atacante",
+     "numero": 17
+    },
+    {
+     "nome": "Edwuin Cetré",
+     "posicao": "Atacante",
+     "numero": 18
+    },
+    {
+     "nome": "Adolfo Gaich",
+     "posicao": "Atacante",
+     "numero": 19
+    },
+    {
+     "nome": "Franco Domínguez Avila",
+     "posicao": "Atacante",
+     "numero": 23
+    },
+    {
+     "nome": "Lucas Alario",
+     "posicao": "Atacante",
+     "numero": 27
+    },
+    {
+     "nome": "Brian Aguirre",
+     "posicao": "Atacante",
+     "numero": 28
+    },
+    {
+     "nome": "Fabricio Perez",
+     "posicao": "Atacante",
+     "numero": 29
+    },
+    {
+     "nome": "Joaquín Correa",
+     "posicao": "Atacante",
+     "numero": 32
+    },
+    {
+     "nome": "Benjamín Sagues Barreiro",
+     "posicao": "Atacante",
+     "numero": 41
     }
    ]
   },
