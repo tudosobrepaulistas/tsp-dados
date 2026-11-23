@@ -1,132 +1,6 @@
 {
- "gerado": "2026-11-23T11:15-03:00",
+ "gerado": "2026-11-23T13:01-03:00",
  "avisos": [
-  {
-   "clube": "sertaozinho",
-   "nome": "Sertãozinho",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Confirmar se Luciano Dias foi oficializado técnico e os primeiros reforços para 2027"
-  },
-  {
-   "clube": "veloclube",
-   "nome": "Velo Clube",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Velo Clube define técnico e elenco para a A2 2027 (Jornal Cidade RC e Diário do Rio Claro)"
-  },
-  {
-   "clube": "itapirense",
-   "nome": "Itapirense",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Técnico da Itapirense para 2027 e andamento da SAF após mudança no estatuto (06/11)"
-  },
-  {
-   "clube": "rio-branco",
-   "nome": "Rio Branco",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Abrir a matéria do O Liberal sobre a pré-temporada do Rio Branco com elenco praticamente montado e confirmar técnico e elenco"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Andamento da venda da SAF do Catanduva (seis propostas, possível grupo americano), técnico e elenco 2027"
-  },
-  {
-   "clube": "francana",
-   "nome": "Francana",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Confirmar se Wantuil Rodrigues segue técnico em 2027 e a data da reapresentação no Lanchão"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Sem notícia nova; sem foto livre do time feminino",
-   "sugestao": "Perfil de Carine Bosetti, primeira treinadora do Mirassol feminino (Lance e Trivela), com foto oficial do clube"
-  },
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Sem notícia nova; sem foto da equipe feminina",
-   "sugestao": "Taubaté Feminino nas quartas do Brasileiro A2 em 2019 e 2026 (Lance, NetVasco), com foto de jogo cedida pelo clube"
-  },
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Fato recente (julgamento no TJD-SP) com 1 fonte e fora das 48h",
-   "sugestao": "Resultado do julgamento no TJD-SP da briga Ferroviária x Corinthians na final do Paulista F Sub-20, segunda 23/11 às 17h (Lance + FPF/TJD)"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
-   "sugestao": "Evelin Bonifácio, do Santos, convocada para a Seleção no lugar de Bia Zaneratto (amistosos com o Japão em 29/11 e 5/12). ge e Lance! de 21/11"
-  },
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
-   "sugestao": "Corinthians Feminino eliminado pelo Bragantino nos pênaltis no play-in e vai à Copa Paulista; Julia Passero interina. ge e Lance! de 22/11"
-  },
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
-   "sugestao": "Ferroviária perde a final do Paulista Feminino Sub-17 para o São Paulo por 4 a 2, de virada, em Jaú (22/11). ge e Lance!; foto de Rafael Zocco/Ferroviária"
-  },
-  {
-   "clube": "sao-paulo-feminino",
-   "nome": "São Paulo Feminino",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica; sem foto da conquista",
-   "sugestao": "Título do São Paulo no Paulista Feminino Sub-17 (4 a 2 na Ferroviária, 22/11) ou estreia na Copinha Feminina contra o Criciúma (24/11)"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
-   "sugestao": "Confirmar no Instagram do Lemense e em jornal de Leme a contratação do zagueiro Luizão (pista: Futebol Interior)"
-  },
-  {
-   "clube": "jabaquara",
-   "nome": "Jabaquara",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
-   "sugestao": "Confirmar em A Tribuna e no Instagram do Jabaquara os 3 reforços (zagueiro, volante e atacante) para a A4 (pista: Futebol Interior)"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
-   "sugestao": "Confirmar no Instagram do Barretos o atacante e o zagueiro anunciados para a A4 (pista: Futebol Interior)"
-  },
-  {
-   "clube": "bandeirante_brodowski",
-   "nome": "Bandeirante de Brodowski",
-   "quando": "2026-11-23T06:28-03:00",
-   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica; só 1 fonte",
-   "sugestao": "Bandeirante de Brodowski vence o União nos pênaltis (4 a 2) e vai à final do Amador do Estado (Correio de Atibaia, 22/11); conferir com a FPF a data da final"
-  },
-  {
-   "clube": "jabaquara",
-   "nome": "Jabaquara",
-   "quando": "2026-11-23T09:15-03:00",
-   "motivo": "Chefe de Redação barrou: Samuel Maninho como diretor só em O Curioso do Futebol e Boa Informação, que parecem o mesmo texto; sem nota oficial",
-   "sugestao": "Confirmar no Instagram/site do Jabaquara Samuel Maninho (diretor de futebol) e a avaliação de atletas nascidos até 2009 em 25 e 26/11 no Estádio Espanha"
-  },
   {
    "clube": "tanabi",
    "nome": "Tanabi",
@@ -420,6 +294,132 @@
    "quando": "2026-11-23T11:15-03:00",
    "motivo": "Temporada encerrada em agosto; nada nos últimos 7 dias; blog oficial bloqueado",
    "sugestao": "Planejamento 2027 do Mirassol Feminino: renovações, peneira, comissão técnica (Diário da Região ou clube)"
+  },
+  {
+   "clube": "america-de-rio-preto",
+   "nome": "América de Rio Preto",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem fato com 2 fontes nas últimas 48h; história bloqueada (última em 09/11)",
+   "sugestao": "Obituário de Iauca, ex-atacante e 8º maior artilheiro do clube (Futebol Interior 21/11): confirmar no Instagram @oficialamericasp ou Diário da Região. Ou o anúncio do técnico, prometido pelo vice Edinan Leal da Silveira até o fim de novembro"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem notícia nas últimas 48h; história bloqueada (última em 10/11)",
+   "sugestao": "Lateral Rogério Zuin (21 anos, ex-Capital-TO), anunciado nas redes do clube (O Semanário 11/11) e ainda não publicado no TSP"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Reapresentação de 23/11 já publicada em 22/11; nada novo com 2 fontes",
+   "sugestao": "Cobrir a reapresentação em si (quem se apresentou, anúncio oficial de Cristian de Souza) no guaranifc.com.br e CBN Campinas à tarde; ou laterais Ruan Teixeira e Kevyn com 2ª fonte"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem notícia nova desde 21/11",
+   "sugestao": "Perguntar à assessoria a data do 1º jogo-treino, o próximo reforço ou o andamento da SAF; acompanhar o Instagram oficial"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Única pista (volante Wesley Dias, ex-Cuiabá) tem uma só apuração (Lucas Rossafa) e é de 18-19/11",
+   "sugestao": "Publicar Wesley Dias quando a Lusa oficializar (post oficial + Rossafa); ou coletiva de Márcio Zanardi em canal oficial"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Última notícia oficial de 12/11; nada com 2 fontes desde 21/11",
+   "sugestao": "Perguntar à assessoria a data de reapresentação e os reforços fechados para 2027 com Elio Sizenando"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Título da Série Ouro da Alcans Cup Sub-16 tem 1 fonte só (JCNET 22/11)",
+   "sugestao": "Confirmar o título Sub-16 da Alcans Cup no site/Instagram da Ferroviária; reapresentação do profissional a partir de 26/11"
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Só o 'encaminha' de Max (Athletic-MG), de 20/11 e sem anúncio oficial",
+   "sugestao": "Acompanhar anúncio oficial de Max no Instagram do Juventus SAF; perguntar como está a montagem do elenco"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "4º lugar do Sub-16 na Alcans Cup com fonte única (JCNET 22/11)",
+   "sugestao": "Confirmar no Instagram do Noroeste SAF e fazer 'Noroeste fecha a Alcans Cup Sub-16 em 4º' (foco diferente da estreia de 19/11), talvez junto com o título da Ferroviária"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Renovação de Enderson Moreira só em entrevista exclusiva do Terra (23/11)",
+   "sugestao": "Anúncio oficial da renovação de Enderson, esperado pelo presidente Genilson Rocha Santos até cerca de 30/11"
+  },
+  {
+   "clube": "primavera",
+   "nome": "Primavera",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Nada desde 21/11 nos jornais de Indaiatuba e Campinas",
+   "sugestao": "Reforços 2027 no Instagram oficial (ex-zagueiro do Botafogo-SP 'negociando' em 11/11) e data de reapresentação"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Samuel Lino/São Bernardo já publicado; nada novo do clube com 2 fontes",
+   "sugestao": "Reforços para 2027 com Cauan de Almeida"
+  },
+  {
+   "clube": "aguasanta",
+   "nome": "Água Santa",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem notícia nas 48h; história bloqueada (última 16/11)",
+   "sugestao": "Perguntar à assessoria reforços e reapresentação 2027"
+  },
+  {
+   "clube": "ituano",
+   "nome": "Ituano",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem notícia nas 48h; história bloqueada (última 17/11)",
+   "sugestao": "Perfil do ídolo Django (Futebol Interior 18/11) a partir de 01/12"
+  },
+  {
+   "clube": "santoandre",
+   "nome": "Santo André",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Vitinho (DGABC 20/11) tem 1 fonte e está fora das 48h",
+   "sugestao": "Atacante Vitinho para 2027: confirmar no Instagram do Santo André e publicar"
+  },
+  {
+   "clube": "itapirense",
+   "nome": "Itapirense",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem notícia nas 48h; história bloqueada (última 13/11)",
+   "sugestao": "Perguntar à assessoria reforços e reapresentação 2027"
+  },
+  {
+   "clube": "xv-de-jau",
+   "nome": "XV de Jaú",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem notícia nas 48h; evergreen sem foto conferida",
+   "sugestao": "Reforços Giba e dois goleiros (Futebol Interior 17, 18 e 20/11 e Jauclick 19/11) ou guia do Jauzão com a foto do Commons 'Estádio Zezinho Magalhães.JPG' após conferir a licença"
+  },
+  {
+   "clube": "uniao-sao-joao",
+   "nome": "União São João",
+   "quando": "2026-11-23T13:01-03:00",
+   "motivo": "Sem notícia nas 48h; renovação de 13 jogadores é de 20/11 e de 1 fonte",
+   "sugestao": "Pacote de 13 renovações para 2027 (Futebol Interior 20/11) com 2ª fonte"
   }
  ]
 }
