@@ -1,62 +1,6 @@
 {
- "gerado": "2026-11-22T20:59-03:00",
+ "gerado": "2026-11-23T06:28-03:00",
  "avisos": [
-  {
-   "clube": "independente",
-   "nome": "Independente",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Reforço Kaique Clemente só no Rápido no Ar (21/11); sem 2ª fonte",
-   "sugestao": "Independente de Limeira anuncia o atacante Kaique Clemente; conferir também Lucas Cambuhy e João Alegria nas redes do clube"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Parceria ADRX Saúde e apresentação do elenco em 04/01 só no Futebol Interior",
-   "sugestao": "Tanabi: parceria com a ADRX Saúde e data da apresentação do elenco (confirmar nas redes do Tanabi SAF / Diário de Votuporanga)"
-  },
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Zagueiro Luizão e goleiro Railson só no Futebol Interior",
-   "sugestao": "Lemense anuncia o zagueiro Luizão (ex-Ponte) e a volta do goleiro Railson (confirmar nas redes do clube)"
-  },
-  {
-   "clube": "ibrachina",
-   "nome": "Ibrachina",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Eliminação no Paulista Sub-17 confirmada, mas sem foto que dê para baixar",
-   "sugestao": "Ibrachina perde para o Red Bull Bragantino (3 a 1 em 21/11, 7 a 1 no agregado) e cai na semifinal do Paulista Sub-17"
-  },
-  {
-   "clube": "assisense",
-   "nome": "Assisense",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Vitória sobre o Padova na turnê da Itália só no Jornal da Segunda",
-   "sugestao": "Balanço da turnê do Sub-20 do Assisense na Itália, com foto oficial do clube"
-  },
-  {
-   "clube": "ad-guarulhos",
-   "nome": "AD Guarulhos",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Sem notícia recente nem foto livre",
-   "sugestao": "Planejamento do AD Guarulhos para 2027 e o CT prometido (falar com o presidente Ricardo Agea)"
-  },
-  {
-   "clube": "amparo",
-   "nome": "Amparo",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Sem notícia nem foto livre do José de Araújo Cintra",
-   "sugestao": "Amparo e a inscrição na Segunda Divisão de 2027, com visita e foto própria do estádio"
-  },
-  {
-   "clube": "sao-paulo-feminino",
-   "nome": "São Paulo Feminino",
-   "quando": "2026-11-22T15:01-03:00",
-   "motivo": "Título do Paulista F Sub-17 (4 x 2 na Ferroviária) só na Agência Brasil quando apurado; sem foto baixável",
-   "sugestao": "São Paulo é campeão do Paulista Feminino Sub-17 com virada sobre a Ferroviária em Jaú (2ª fonte: site do SPFC; foto Rafael Zocco/Ferroviária)"
-  },
   {
    "clube": "corinthians-feminino",
    "nome": "Corinthians Feminino",
@@ -420,6 +364,62 @@
    "quando": "2026-11-22T20:59-03:00",
    "motivo": "Fato recente (julgamento no TJD-SP) com 1 fonte e fora das 48h",
    "sugestao": "Resultado do julgamento no TJD-SP da briga Ferroviária x Corinthians na final do Paulista F Sub-20, segunda 23/11 às 17h (Lance + FPF/TJD)"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
+   "sugestao": "Evelin Bonifácio, do Santos, convocada para a Seleção no lugar de Bia Zaneratto (amistosos com o Japão em 29/11 e 5/12). ge e Lance! de 21/11"
+  },
+  {
+   "clube": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
+   "sugestao": "Corinthians Feminino eliminado pelo Bragantino nos pênaltis no play-in e vai à Copa Paulista; Julia Passero interina. ge e Lance! de 22/11"
+  },
+  {
+   "clube": "ferroviaria-feminino",
+   "nome": "Ferroviária Feminino",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
+   "sugestao": "Ferroviária perde a final do Paulista Feminino Sub-17 para o São Paulo por 4 a 2, de virada, em Jaú (22/11). ge e Lance!; foto de Rafael Zocco/Ferroviária"
+  },
+  {
+   "clube": "sao-paulo-feminino",
+   "nome": "São Paulo Feminino",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica; sem foto da conquista",
+   "sugestao": "Título do São Paulo no Paulista Feminino Sub-17 (4 a 2 na Ferroviária, 22/11) ou estreia na Copinha Feminina contra o Criciúma (24/11)"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
+   "sugestao": "Confirmar no Instagram do Lemense e em jornal de Leme a contratação do zagueiro Luizão (pista: Futebol Interior)"
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
+   "sugestao": "Confirmar em A Tribuna e no Instagram do Jabaquara os 3 reforços (zagueiro, volante e atacante) para a A4 (pista: Futebol Interior)"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica",
+   "sugestao": "Confirmar no Instagram do Barretos o atacante e o zagueiro anunciados para a A4 (pista: Futebol Interior)"
+  },
+  {
+   "clube": "bandeirante_brodowski",
+   "nome": "Bandeirante de Brodowski",
+   "quando": "2026-11-23T06:28-03:00",
+   "motivo": "Varredura das 6h sem conferência: o WebFetch pede permissão e ninguém aprova numa execução agendada; sem Chefe de Redação não publica; só 1 fonte",
+   "sugestao": "Bandeirante de Brodowski vence o União nos pênaltis (4 a 2) e vai à final do Amador do Estado (Correio de Atibaia, 22/11); conferir com a FPF a data da final"
   }
  ]
 }
