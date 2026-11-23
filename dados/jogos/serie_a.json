@@ -15071,22 +15071,31 @@
    "data": "2026-11-22T18:30:00-03:00",
    "casa": "fluminense",
    "fora": "mirassol",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Maracanã",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Riquelme",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.fluminense.com.br/noticia/fluminense-vence-o-mirassol-com-gol-de-riquelme-no-maracana",
+    "https://www.lance.com.br/fluminense/ao-vivo-acompanhe-fluminense-x-mirassol-pelo-brasileirao.html"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-22T22:10:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -15145,22 +15154,31 @@
    "data": "2026-11-22T19:30:00-03:00",
    "casa": "bragantino",
    "fora": "vasco",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Cícero de Souza Marques",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Eduardo Sasha",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/bragantino-vence-vasco-pelo-brasileiro-e-segue-vivo-na-briga-por-vaga-na-libertadores/",
+    "https://www.campograndenews.com.br/esportes/vasco-perde-para-o-bragantino-e-ve-vaga-na-libertadores-mais-distante"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-22T22:10:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [

@@ -264,6 +264,12 @@
   "gols": 2
  },
  {
+  "jogador": "Eduardo Sasha",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
+  "gols": 2
+ },
+ {
   "jogador": "Erick",
   "time": "Bahia",
   "time_id": 900007,
@@ -621,12 +627,6 @@
   "jogador": "Eduardo Doma",
   "time": "Chapecoense",
   "time_id": 900020,
-  "gols": 1
- },
- {
-  "jogador": "Eduardo Sasha",
-  "time": "Red Bull Bragantino",
-  "time_id": 900010,
   "gols": 1
  },
  {
@@ -1017,6 +1017,12 @@
   "jogador": "Renato Kayzer",
   "time": "Vitória",
   "time_id": 900014,
+  "gols": 1
+ },
+ {
+  "jogador": "Riquelme",
+  "time": "Fluminense",
+  "time_id": 900005,
   "gols": 1
  },
  {
