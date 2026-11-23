@@ -1,55 +1,6 @@
 {
- "gerado": "2026-11-23T09:15-03:00",
+ "gerado": "2026-11-23T10:36-03:00",
  "avisos": [
-  {
-   "clube": "veloclube",
-   "nome": "Velo Clube",
-   "quando": "2026-11-22T17:05-03:00",
-   "motivo": "Jornal Cidade sem matéria do clube em novembro.",
-   "sugestao": "Técnico (Cléber Gaúcho), novo diretor de futebol e reforços para a A2."
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-22T20:28-03:00",
-   "motivo": "Cobertura 6h (22/11, 20h): sem fato novo das últimas 24h em 2 fontes. Só o Jornal Opinião (22/11) resumindo saídas de emprestados, que o site já cobriu (Lucas Cunha, David da Hora, Karl). Palacios: fontes divergem (devolvido x avaliado para ficar).",
-   "sugestao": "Redator: confirmar com o ge Campinas e o site da Ponte se Sérgio Palacios e Di Mauro ficam para a A2 2027 e quem são os primeiros dos ~18 reforços citados por Eberlin; reapresentação em 7/12."
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-22T20:28-03:00",
-   "motivo": "Cobertura 6h (22/11, 20h): sem notícia nova das últimas 24h confirmada em 2 fontes; site oficial não abriu e as matérias achadas (Léo Naldi, Montemor, aeroporto) já estão no site.",
-   "sugestao": "Redator: conferir no site/Instagram do Novorizontino anúncios de renovação ou reforço para a Série A 2027 e data de reapresentação do elenco."
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Conferir no Instagram/site oficial se o elenco 2027 de Tássio já foi apresentado (previsto para a 2ª quinzena de novembro) e cruzar com o Diário de Suzano"
-  },
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Confirmar no Instagram oficial quem será o técnico do Desportivo Brasil na Série A4 de 2027"
-  },
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Entre 28 e 30/11, conferir se o América anunciou o técnico da A4 (promessa de Edinan Leal), no americasp.com e no Diário da Região"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-22T20:59-03:00",
-   "motivo": "Cotas 21h43 de 22/11: nenhuma notícia publicada desde 20/11 21h com 2 fontes; evergreen fora do limite (14 dias ou cota de evergreen do dia)",
-   "sugestao": "Os 13 reforços do Tanabi para a A4 2027 e a pré-temporada de 04/01 (Futebol Interior 19/11), com fato novo cruzado no Instagram do clube"
-  },
   {
    "clube": "barretos",
    "nome": "Barretos",
@@ -420,6 +371,55 @@
    "quando": "2026-11-23T09:15-03:00",
    "motivo": "Sem notícia e sem foto livre do estádio",
    "sugestao": "Guia do Estádio José de Araújo Cintra (4.675 lugares), casa da Ponte no Brasileiro Sub-23 (ACidade ON)"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-23T10:36-03:00",
+   "motivo": "Cobertura 6h 23/11: sem fato novo com 2 fontes desde 21/11; Bruno José (Atlético-GO) só aparece como proposta, sem anúncio oficial",
+   "sugestao": "Conferir no site/redes do Botafogo-SP se Bruno José foi anunciado (wmais e tvsimbrasil 19/11 falam em proposta)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-23T10:36-03:00",
+   "motivo": "Cobertura 6h 23/11: nada novo desde 18/11; Alef Manga, Alex Alves e Foguinho sem oficialização",
+   "sugestao": "Acompanhar anúncio oficial de Alef Manga e renovações de Alex Alves, Foguinho e do zagueiro Luizão (Lance! 14/11)"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-23T10:36-03:00",
+   "motivo": "Cobertura 6h 23/11: só 1 fonte (Portal CB 23/11) para a volta do lateral Di Mauro ao Boavista",
+   "sugestao": "Confirmar em 2ª fonte a saída de Di Mauro; vigiar definição sobre João Brigatti e Ricardo Koyama; reapresentação 7/12"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-23T10:36-03:00",
+   "motivo": "Cobertura 6h 23/11: renovação de Enderson Moreira só em entrevista exclusiva do presidente ao Terra (1 fonte)",
+   "sugestao": "Terra 23/11: presidente Genilson Rocha diz que renovação de Enderson Moreira sai em ~1 semana; publicar quando houver 2ª fonte ou anúncio oficial"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-23T10:36-03:00",
+   "motivo": "Cobertura 6h bloco A1 23/11: nada novo com 2 fontes em Noroeste, Ferroviária, Primavera, Juventus ou Guarani desde 21/11",
+   "sugestao": "Ferroviária se reapresenta em 26/11 (site oficial); Guarani reapresentou hoje (23) — reforços ainda sob sigilo"
+  },
+  {
+   "clube": "aguasanta",
+   "nome": "Água Santa",
+   "quando": "2026-11-23T10:36-03:00",
+   "motivo": "Cobertura 6h bloco A2 23/11: nada novo com 2 fontes em Água Santa, XV de Piracicaba, Velo Clube ou Osasco Sporting desde 21/11",
+   "sugestao": "Conferir Instagram oficial dos clubes da A2 por anúncios de reforços"
+  },
+  {
+   "clube": "uniao-sao-joao",
+   "nome": "União São João",
+   "quando": "2026-11-23T10:36-03:00",
+   "motivo": "Cobertura 6h bloco A3 23/11: União São João só com 1 fonte (Futebol Interior 20/11); demais clubes sem notícia",
+   "sugestao": "União São João se reapresenta hoje (23) às 14h no Hermínio Ometto: publicar com foto do treino se o clube divulgar e mais um veículo noticiar"
   }
  ]
 }
