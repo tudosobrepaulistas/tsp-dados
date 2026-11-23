@@ -72,3 +72,13 @@ Para cada pessoa nova (ou página com muito "Em atualização"):
 - Clube de fora: **sem notícias**. Entram só tabelas, elencos, ficha (dados/guia_clubes.json, com fonte) e evergreen, sempre com custo zero, saindo da base.
 - O foco de cobertura continua sendo os clubes paulistas. Página de clube de fora com pouco conteúdo fica com noindex até a base crescer.
 - Escudo de clube de fora: dados/escudos_extra.json + api/escudos/<nome>.png (120 px). Nome igual ao usado no mercado e na carreira.
+
+## Números de treinador: só completos (23/11/2026, pedido do Thiago)
+- Total de jogos, vitórias, aproveitamento e números por temporada só aparecem quando **toda** a carreira de técnico
+  principal estiver levantada e conferida (cada trabalho com J/V/E/D em fonte aceita; número com 2 fontes).
+  Aí marque `ficha.carreira_completa: true`. Sem isso o site mostra "Números da carreira: em atualização".
+- Número parcial (só alguns clubes, só jogos da base do TSP) não vai ao ar.
+- oGol, Sofascore, Transfermarkt e similares não valem para número de técnico.
+
+## Home do Mercado da Bola (23/11/2026)
+- Cada divisão mostra primeiro as figurinhas publicadas por último (`foto.em`, gravado pelo `mercado.py figurinha`).

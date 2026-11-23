@@ -456,7 +456,8 @@ def cmd_figurinha(a):
     im = im.crop(((im.width - lado) // 2, 0, (im.width + lado) // 2, lado)).resize((400, 400), Image.LANCZOS)
     im.save(destino, "WEBP", quality=82)
     m["foto"] = {"url": f"https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/{mid}.webp",
-                 "credito": "Montagem com IA (ilustrativa) · TSP", "fonte": ref, "ia": True}
+                 "credito": "Montagem com IA (ilustrativa) · TSP", "fonte": ref, "ia": True,
+                 "em": tsp.iso(tsp.agora())}  # quando a figurinha foi publicada (home mostra as mais recentes)
     if arq_gravar != ARQ:
         m.pop("jogador", None)
     tsp.gravar(arq_gravar, b)
