@@ -4168,6 +4168,152 @@
    }
   },
   {
+   "id": 91000535,
+   "data": "2026-05-16T12:00:00-03:00",
+   "casa": "palmeiras",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Barueri",
+   "cidade": "Barueri",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Arroyo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Felipe Anderson",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasileirao-palmeiras-tropeca-e-flamengo-pode-encostar-na-lideranca"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000536,
+   "data": "2026-05-16T12:00:00-03:00",
+   "casa": "internacional",
+   "fora": "vasco",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 4,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Carbonero",
+     "minuto": "21",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alerrandro",
+     "minuto": "24",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Bernabei",
+     "minuto": "61",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carbonero",
+     "minuto": "72",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Andrés Gómez",
+     "minuto": "84",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://ohoje.com/2026/05/17/rodada-16a-da-serie-a-veja-os-resultados/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasileirao-palmeiras-tropeca-e-flamengo-pode-encostar-na-lideranca"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000537,
+   "data": "2026-05-16T12:00:00-03:00",
+   "casa": "atletico-mg",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Minda",
+     "minuto": "16",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Willian Machado",
+     "minuto": "39",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Maycon",
+     "minuto": "60",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Cissé",
+     "minuto": "81",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://ohoje.com/2026/05/17/rodada-16a-da-serie-a-veja-os-resultados/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-05/brasileirao-palmeiras-tropeca-e-flamengo-pode-encostar-na-lideranca"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
    "id": 91000396,
    "data": "2026-05-16T19:00:00-03:00",
    "casa": "fluminense",
@@ -4304,6 +4450,103 @@
     ],
     "atualizado": "2026-11-18T03:40:00-03:00"
    }
+  },
+  {
+   "id": 91000538,
+   "data": "2026-05-17T11:00:00-03:00",
+   "casa": "santos",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 0,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://ohoje.com/2026/05/17/rodada-16a-da-serie-a-veja-os-resultados/"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00"
+  },
+  {
+   "id": 91000539,
+   "data": "2026-05-17T16:00:00-03:00",
+   "casa": "botafogo",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Arthur Cabral",
+     "minuto": "6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Rodrigo Garro",
+     "minuto": "10",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Arthur Cabral",
+     "minuto": "31",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Arthur Cabral",
+     "minuto": "69",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://www.gazetaesportiva.com/times/corinthians/corinthians-toma-tres-do-botafogo-e-retorna-ao-z4-do-brasileirao/"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00"
+  },
+  {
+   "id": 91000540,
+   "data": "2026-05-17T16:00:00-03:00",
+   "casa": "bahia",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://ohoje.com/2026/05/17/rodada-16a-da-serie-a-veja-os-resultados/"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00"
   },
   {
    "id": 91000421,
@@ -4448,6 +4691,54 @@
     ],
     "atualizado": "2026-11-20T03:46:00-03:00"
    }
+  },
+  {
+   "id": 91000541,
+   "data": "2026-05-17T18:30:00-03:00",
+   "casa": "bragantino",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://ohoje.com/2026/05/17/rodada-16a-da-serie-a-veja-os-resultados/"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00"
+  },
+  {
+   "id": 91000542,
+   "data": "2026-05-17T19:30:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "16",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-tropeca-e-corinthians-entra-no-z4-resumo-da-rodada-do-brasileiro/",
+    "https://ohoje.com/2026/05/18/empates-goleadas-e-pressao-no-z-4-marcam-a-16a-rodada-do-brasileirao-veja-os-resultados/",
+    "https://ohoje.com/2026/05/17/rodada-16a-da-serie-a-veja-os-resultados/"
+   ],
+   "atualizado": "2026-11-23T03:34:00-03:00"
   },
   {
    "id": 91000398,
@@ -4896,6 +5187,55 @@
    }
   },
   {
+   "id": 91000543,
+   "data": "2026-07-25T12:00:00-03:00",
+   "casa": "santos",
+   "fora": "chapecoense",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Neymar",
+     "minuto": "35",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Marcinho",
+     "minuto": "50",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "João Ananias",
+     "minuto": "61",
+     "tipo": "contra"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Neymar",
+     "minuto": "",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-07/palmeiras-perde-e-flamengo-empata-no-fim-de-semana-do-brasileirao",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/neymar-marca-dois-mas-santos-so-empata-com-a-chapecoense-pelo-brasileiro/"
+   ],
+   "atualizado": "2026-11-23T03:40:00-03:00",
+   "sem_hora": true
+  },
+  {
    "id": 91000533,
    "data": "2026-07-26T12:00:00-03:00",
    "casa": "palmeiras",
@@ -4974,6 +5314,72 @@
    ],
    "atualizado": "2026-11-22T12:32:00-03:00",
    "sem_hora": true
+  },
+  {
+   "id": 91000544,
+   "data": "2026-07-26T16:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gabriel Justino",
+     "minuto": "41",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-07/palmeiras-perde-e-flamengo-empata-no-fim-de-semana-do-brasileirao",
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vence-cruzeiro-fora-de-casa-e-sobe-na-tabela-do-brasileirao/"
+   ],
+   "atualizado": "2026-11-23T03:40:00-03:00"
+  },
+  {
+   "id": 91000545,
+   "data": "2026-07-26T16:00:00-03:00",
+   "casa": "bahia",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "20",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Angileri",
+     "minuto": "8",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "David Duarte",
+     "minuto": "45+4",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-07/palmeiras-perde-e-flamengo-empata-no-fim-de-semana-do-brasileirao",
+    "https://www.opovo.com.br/agencia/jogada10/2026/07/26/em-jogo-de-muita-intensidade-bahia-e-corinthians-empatam-na-fonte-nova.html"
+   ],
+   "atualizado": "2026-11-23T03:40:00-03:00"
   },
   {
    "id": 91000425,
@@ -10589,7 +10995,101 @@
     "https://www.lance.com.br/futebol-nacional/veja-os-lances-de-vasco-x-corinthians-pelo-brasileirao.html",
     "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-busca-virada-sobre-o-corinthians-e-afunda-rival-no-z4-do-brasileirao/"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-27T11:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Puma Rodríguez, Saldivia, Robert Renan, Cuiabano; Sosa, Lescano, Thiago Mendes; Andrés Gómez, Colidio, Bruno Duarte",
+     "entraram": [
+      {
+       "jogador": "Lucas Piton",
+       "saiu": "Cuiabano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Sosa",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marino",
+       "saiu": "Andrés Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Nuno Moreira",
+       "saiu": "Colidio",
+       "minuto": ""
+      },
+      {
+       "jogador": "David",
+       "saiu": "Bruno Duarte",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marino",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Clarence Seedorf",
+     "time": "Hugo Souza; Matheuzinho, André Ramalho, Gustavo Henrique, Angileri; André, Breno Bidon, Garro; Matheus Bidu, Dieguinho, Yuri Alberto",
+     "entraram": [
+      {
+       "jogador": "Allan",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Charles",
+       "saiu": "Garro",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lingard",
+       "saiu": "Matheus Bidu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kaio César",
+       "saiu": "Dieguinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Negão",
+       "saiu": "Yuri Alberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Garro",
+        "minuto": ""
+       },
+       {
+        "jogador": "Angileri",
+        "minuto": ""
+       },
+       {
+        "jogador": "Lingard",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-virada-do-vasco-nos-minutos-finais-e-entra-no-z4-em-estreia-de-seedorf/"
+    ],
+    "atualizado": "2026-11-23T03:42:00-03:00"
+   }
   },
   {
    "id": 91000006,

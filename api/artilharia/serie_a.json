@@ -60,6 +60,18 @@
   "gols": 5
  },
  {
+  "jogador": "Arthur Cabral",
+  "time": "Botafogo",
+  "time_id": 900011,
+  "gols": 4
+ },
+ {
+  "jogador": "Carbonero",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 4
+ },
+ {
   "jogador": "Carrascal",
   "time": "Flamengo",
   "time_id": 900001,
@@ -81,6 +93,18 @@
   "jogador": "Kaio Jorge",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 4
+ },
+ {
+  "jogador": "Marcinho",
+  "time": "Chapecoense",
+  "time_id": 900020,
+  "gols": 4
+ },
+ {
+  "jogador": "Neymar",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 4
  },
  {
@@ -126,6 +150,12 @@
   "gols": 3
  },
  {
+  "jogador": "Felipe Anderson",
+  "time": "Palmeiras",
+  "time_id": 900002,
+  "gols": 3
+ },
+ {
   "jogador": "Flaco López",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -165,12 +195,6 @@
   "jogador": "Luciano Juba",
   "time": "Bahia",
   "time_id": 900007,
-  "gols": 3
- },
- {
-  "jogador": "Marcinho",
-  "time": "Chapecoense",
-  "time_id": 900020,
   "gols": 3
  },
  {
@@ -216,9 +240,33 @@
   "gols": 3
  },
  {
+  "jogador": "Alerrandro",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 2
+ },
+ {
+  "jogador": "Andrés Gómez",
+  "time": "Vasco",
+  "time_id": 900013,
+  "gols": 2
+ },
+ {
+  "jogador": "Arroyo",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 2
+ },
+ {
   "jogador": "Barreal",
   "time": "Santos",
   "time_id": 900008,
+  "gols": 2
+ },
+ {
+  "jogador": "Bernabei",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 2
  },
  {
@@ -252,12 +300,6 @@
   "gols": 2
  },
  {
-  "jogador": "Carbonero",
-  "time": "Internacional",
-  "time_id": 900016,
-  "gols": 2
- },
- {
   "jogador": "Christian Oliva",
   "time": "Santos",
   "time_id": 900008,
@@ -273,12 +315,6 @@
   "jogador": "Erick",
   "time": "Bahia",
   "time_id": 900007,
-  "gols": 2
- },
- {
-  "jogador": "Felipe Anderson",
-  "time": "Palmeiras",
-  "time_id": 900002,
   "gols": 2
  },
  {
@@ -360,12 +396,6 @@
   "gols": 2
  },
  {
-  "jogador": "Neymar",
-  "time": "Santos",
-  "time_id": 900008,
-  "gols": 2
- },
- {
   "jogador": "Rodrigo Moledo",
   "time": "Coritiba",
   "time_id": 900012,
@@ -426,12 +456,6 @@
   "gols": 1
  },
  {
-  "jogador": "Alerrandro",
-  "time": "Internacional",
-  "time_id": 900016,
-  "gols": 1
- },
- {
   "jogador": "Allan",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -450,27 +474,15 @@
   "gols": 1
  },
  {
-  "jogador": "Andrés Gómez",
-  "time": "Vasco",
-  "time_id": 900013,
+  "jogador": "Angileri",
+  "time": "Corinthians",
+  "time_id": 900018,
   "gols": 1
  },
  {
   "jogador": "Arrascaeta",
   "time": "Flamengo",
   "time_id": 900001,
-  "gols": 1
- },
- {
-  "jogador": "Arroyo",
-  "time": "Cruzeiro",
-  "time_id": 900003,
-  "gols": 1
- },
- {
-  "jogador": "Arthur Cabral",
-  "time": "Botafogo",
-  "time_id": 900011,
   "gols": 1
  },
  {
@@ -489,12 +501,6 @@
   "jogador": "Balbuena",
   "time": "Grêmio",
   "time_id": 900017,
-  "gols": 1
- },
- {
-  "jogador": "Bernabei",
-  "time": "Internacional",
-  "time_id": 900016,
   "gols": 1
  },
  {
@@ -558,6 +564,12 @@
   "gols": 1
  },
  {
+  "jogador": "Cissé",
+  "time": "Atlético-MG",
+  "time_id": 900006,
+  "gols": 1
+ },
+ {
   "jogador": "Colidio",
   "time": "Vasco",
   "time_id": 900013,
@@ -573,6 +585,12 @@
   "jogador": "David",
   "time": "Vasco",
   "time_id": 900013,
+  "gols": 1
+ },
+ {
+  "jogador": "David Duarte",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 1
  },
  {
@@ -673,6 +691,12 @@
  },
  {
   "jogador": "Ferraresi",
+  "time": "Botafogo",
+  "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Gabriel Justino",
   "time": "Botafogo",
   "time_id": 900011,
   "gols": 1
@@ -912,6 +936,12 @@
   "gols": 1
  },
  {
+  "jogador": "Maycon",
+  "time": "Atlético-MG",
+  "time_id": 900006,
+  "gols": 1
+ },
+ {
   "jogador": "Memphis Depay",
   "time": "Corinthians",
   "time_id": 900018,
@@ -921,6 +951,12 @@
   "jogador": "Mendoza",
   "time": "Athletico-PR",
   "time_id": 900004,
+  "gols": 1
+ },
+ {
+  "jogador": "Minda",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  },
  {
@@ -1026,6 +1062,12 @@
   "gols": 1
  },
  {
+  "jogador": "Rodrigo Garro",
+  "time": "Corinthians",
+  "time_id": 900018,
+  "gols": 1
+ },
+ {
   "jogador": "Rodrigo Nestor",
   "time": "Bahia",
   "time_id": 900007,
@@ -1113,6 +1155,12 @@
   "jogador": "Wesley",
   "time": "Cruzeiro",
   "time_id": 900003,
+  "gols": 1
+ },
+ {
+  "jogador": "Willian Machado",
+  "time": "Mirassol",
+  "time_id": 900015,
   "gols": 1
  },
  {

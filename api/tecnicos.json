@@ -1,22 +1,22 @@
 {
- "gerado": "2026-11-22T12:15-03:00",
+ "gerado": "2026-11-23T03:42-03:00",
  "_leia": "Números dos técnicos pela base de jogos do TSP (fichas técnicas com fonte). Parcial: só jogos com ficha técnica registrada.",
  "tecnicos": {
   "leo-conde": {
    "nome": "Léo Condé",
-   "jogos": 19,
+   "jogos": 20,
    "V": 6,
    "E": 4,
-   "D": 9,
-   "gp": 23,
-   "gc": 29,
+   "D": 10,
+   "gp": 24,
+   "gc": 31,
    "clubes": {
     "remo": {
      "nome": "Remo",
-     "jogos": 19,
+     "jogos": 20,
      "V": 6,
      "E": 4,
-     "D": 9
+     "D": 10
     }
    },
    "competicoes": {
@@ -29,19 +29,19 @@
     },
     "serie_a": {
      "nome": "Brasileirão Série A",
-     "jogos": 18,
+     "jogos": 19,
      "V": 5,
      "E": 4,
-     "D": 9
+     "D": 10
     }
    },
    "contra": {
     "rogerio-ceni": {
      "nome": "Rogério Ceni",
-     "jogos": 2,
+     "jogos": 3,
      "V": 2,
      "E": 0,
-     "D": 0
+     "D": 1
     },
     "luis-zubeldia": {
      "nome": "Luis Zubeldía",
@@ -164,6 +164,18 @@
     }
    },
    "lista": [
+    {
+     "id": 91000512,
+     "data": "2026-09-14",
+     "comp": "serie_a",
+     "clube": "remo",
+     "adversario": "bahia",
+     "adversario_nome": "Bahia",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Rogério Ceni"
+    },
     {
      "id": 91000427,
      "data": "2026-08-08",
@@ -393,7 +405,365 @@
      "tecnico_adversario": "Luis Zubeldía"
     }
    ],
-   "aproveitamento": 38.6
+   "aproveitamento": 36.7
+  },
+  "artur-jorge": {
+   "nome": "Artur Jorge",
+   "jogos": 19,
+   "V": 10,
+   "E": 6,
+   "D": 3,
+   "gp": 27,
+   "gc": 17,
+   "clubes": {
+    "cruzeiro": {
+     "nome": "Cruzeiro",
+     "jogos": 19,
+     "V": 10,
+     "E": 6,
+     "D": 3
+    }
+   },
+   "competicoes": {
+    "copa_do_brasil": {
+     "nome": "Copa do Brasil",
+     "jogos": 6,
+     "V": 2,
+     "E": 3,
+     "D": 1
+    },
+    "libertadores": {
+     "nome": "Libertadores",
+     "jogos": 7,
+     "V": 3,
+     "E": 3,
+     "D": 1
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 6,
+     "V": 5,
+     "E": 0,
+     "D": 1
+    }
+   },
+   "contra": {
+    "daniel-paulista": {
+     "nome": "Daniel Paulista",
+     "jogos": 2,
+     "V": 1,
+     "E": 1,
+     "D": 0
+    },
+    "rafael-lacerda": {
+     "nome": "Rafael Lacerda",
+     "jogos": 2,
+     "V": 1,
+     "E": 1,
+     "D": 0
+    },
+    "eduardo-dominguez": {
+     "nome": "Eduardo Domínguez",
+     "jogos": 2,
+     "V": 0,
+     "E": 1,
+     "D": 1
+    },
+    "cesar-farias": {
+     "nome": "César Farías",
+     "jogos": 2,
+     "V": 2,
+     "E": 0,
+     "D": 0
+    },
+    "claudio-ubeda": {
+     "nome": "Claudio Úbeda",
+     "jogos": 2,
+     "V": 1,
+     "E": 1,
+     "D": 0
+    },
+    "daniel-garnero": {
+     "nome": "Daniel Garnero",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "leonardo-jardim": {
+     "nome": "Leonardo Jardim",
+     "jogos": 3,
+     "V": 1,
+     "E": 1,
+     "D": 1
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "pedro-emanuel": {
+     "nome": "Pedro Emanuel",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "rogerio-ceni": {
+     "nome": "Rogério Ceni",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "abel-ferreira": {
+     "nome": "Abel Ferreira",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "vinicius-bergantin": {
+     "nome": "Vinícius Bergantin",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    }
+   },
+   "lista": [
+    {
+     "id": 91000157,
+     "data": "2026-11-21",
+     "comp": "serie_a",
+     "clube": "cruzeiro",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
+     "mando": "fora",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Vinícius Bergantin"
+    },
+    {
+     "id": 91000149,
+     "data": "2026-11-18",
+     "comp": "serie_a",
+     "clube": "cruzeiro",
+     "adversario": "palmeiras",
+     "adversario_nome": "Palmeiras",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Abel Ferreira"
+    },
+    {
+     "id": 91000029,
+     "data": "2026-11-05",
+     "comp": "serie_a",
+     "clube": "cruzeiro",
+     "adversario": "bahia",
+     "adversario_nome": "Bahia",
+     "mando": "casa",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Rogério Ceni"
+    },
+    {
+     "id": 91000293,
+     "data": "2026-09-01",
+     "comp": "copa_do_brasil",
+     "clube": "cruzeiro",
+     "adversario": "atletico-mg",
+     "adversario_nome": "Atlético-MG",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Eduardo Domínguez"
+    },
+    {
+     "id": 91000485,
+     "data": "2026-08-29",
+     "comp": "serie_a",
+     "clube": "cruzeiro",
+     "adversario": "vasco",
+     "adversario_nome": "Vasco",
+     "mando": "fora",
+     "placar": "1x3",
+     "res": "D",
+     "tecnico_adversario": "Pedro Emanuel"
+    },
+    {
+     "id": 91000292,
+     "data": "2026-08-25",
+     "comp": "copa_do_brasil",
+     "clube": "cruzeiro",
+     "adversario": "atletico-mg",
+     "adversario_nome": "Atlético-MG",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Eduardo Domínguez"
+    },
+    {
+     "id": 91000474,
+     "data": "2026-08-22",
+     "comp": "serie_a",
+     "clube": "cruzeiro",
+     "adversario": "flamengo",
+     "adversario_nome": "Flamengo",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Leonardo Jardim"
+    },
+    {
+     "id": 91000287,
+     "data": "2026-08-19",
+     "comp": "libertadores",
+     "clube": "cruzeiro",
+     "adversario": "flamengo",
+     "adversario_nome": "Flamengo",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Leonardo Jardim"
+    },
+    {
+     "id": 91000286,
+     "data": "2026-08-12",
+     "comp": "libertadores",
+     "clube": "cruzeiro",
+     "adversario": "flamengo",
+     "adversario_nome": "Flamengo",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Leonardo Jardim"
+    },
+    {
+     "id": 91000291,
+     "data": "2026-08-05",
+     "comp": "copa_do_brasil",
+     "clube": "cruzeiro",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
+     "mando": "casa",
+     "placar": "2x0",
+     "res": "V",
+     "tecnico_adversario": "Rafael Lacerda"
+    },
+    {
+     "id": 91000290,
+     "data": "2026-08-02",
+     "comp": "copa_do_brasil",
+     "clube": "cruzeiro",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
+     "mando": "fora",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Rafael Lacerda"
+    },
+    {
+     "id": 91000285,
+     "data": "2026-05-28",
+     "comp": "libertadores",
+     "clube": "cruzeiro",
+     "adversario": "barcelona-de-guayaquil",
+     "adversario_nome": "Barcelona de Guayaquil",
+     "mando": "casa",
+     "placar": "4x0",
+     "res": "V",
+     "tecnico_adversario": "César Farías"
+    },
+    {
+     "id": 91000284,
+     "data": "2026-05-19",
+     "comp": "libertadores",
+     "clube": "cruzeiro",
+     "adversario": "boca-juniors",
+     "adversario_nome": "Boca Juniors",
+     "mando": "fora",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Claudio Úbeda"
+    },
+    {
+     "id": 91000289,
+     "data": "2026-05-12",
+     "comp": "copa_do_brasil",
+     "clube": "cruzeiro",
+     "adversario": "goias",
+     "adversario_nome": "Goiás",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Daniel Paulista"
+    },
+    {
+     "id": 91000283,
+     "data": "2026-05-06",
+     "comp": "libertadores",
+     "clube": "cruzeiro",
+     "adversario": "universidad-catolica",
+     "adversario_nome": "Universidad Católica",
+     "mando": "fora",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Daniel Garnero"
+    },
+    {
+     "id": 91000282,
+     "data": "2026-04-28",
+     "comp": "libertadores",
+     "clube": "cruzeiro",
+     "adversario": "boca-juniors",
+     "adversario_nome": "Boca Juniors",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Claudio Úbeda"
+    },
+    {
+     "id": 91000418,
+     "data": "2026-04-25",
+     "comp": "serie_a",
+     "clube": "cruzeiro",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "fora",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000288,
+     "data": "2026-04-22",
+     "comp": "copa_do_brasil",
+     "clube": "cruzeiro",
+     "adversario": "goias",
+     "adversario_nome": "Goiás",
+     "mando": "fora",
+     "placar": "2x2",
+     "res": "E",
+     "tecnico_adversario": "Daniel Paulista"
+    },
+    {
+     "id": 91000280,
+     "data": "2026-04-07",
+     "comp": "libertadores",
+     "clube": "cruzeiro",
+     "adversario": "barcelona-de-guayaquil",
+     "adversario_nome": "Barcelona de Guayaquil",
+     "mando": "fora",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "César Farías"
+    }
+   ],
+   "aproveitamento": 63.2
   },
   "mauricio-barbieri": {
    "nome": "Maurício Barbieri",
@@ -755,347 +1125,20 @@
    ],
    "aproveitamento": 63.0
   },
-  "artur-jorge": {
-   "nome": "Artur Jorge",
-   "jogos": 17,
-   "V": 9,
-   "E": 6,
-   "D": 2,
-   "gp": 24,
-   "gc": 13,
-   "clubes": {
-    "cruzeiro": {
-     "nome": "Cruzeiro",
-     "jogos": 17,
-     "V": 9,
-     "E": 6,
-     "D": 2
-    }
-   },
-   "competicoes": {
-    "copa_do_brasil": {
-     "nome": "Copa do Brasil",
-     "jogos": 6,
-     "V": 2,
-     "E": 3,
-     "D": 1
-    },
-    "libertadores": {
-     "nome": "Libertadores",
-     "jogos": 7,
-     "V": 3,
-     "E": 3,
-     "D": 1
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 4,
-     "V": 4,
-     "E": 0,
-     "D": 0
-    }
-   },
-   "contra": {
-    "daniel-paulista": {
-     "nome": "Daniel Paulista",
-     "jogos": 2,
-     "V": 1,
-     "E": 1,
-     "D": 0
-    },
-    "rafael-lacerda": {
-     "nome": "Rafael Lacerda",
-     "jogos": 2,
-     "V": 1,
-     "E": 1,
-     "D": 0
-    },
-    "eduardo-dominguez": {
-     "nome": "Eduardo Domínguez",
-     "jogos": 2,
-     "V": 0,
-     "E": 1,
-     "D": 1
-    },
-    "cesar-farias": {
-     "nome": "César Farías",
-     "jogos": 2,
-     "V": 2,
-     "E": 0,
-     "D": 0
-    },
-    "claudio-ubeda": {
-     "nome": "Claudio Úbeda",
-     "jogos": 2,
-     "V": 1,
-     "E": 1,
-     "D": 0
-    },
-    "daniel-garnero": {
-     "nome": "Daniel Garnero",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "leonardo-jardim": {
-     "nome": "Leonardo Jardim",
-     "jogos": 2,
-     "V": 0,
-     "E": 1,
-     "D": 1
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "rogerio-ceni": {
-     "nome": "Rogério Ceni",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "abel-ferreira": {
-     "nome": "Abel Ferreira",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "vinicius-bergantin": {
-     "nome": "Vinícius Bergantin",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    }
-   },
-   "lista": [
-    {
-     "id": 91000157,
-     "data": "2026-11-21",
-     "comp": "serie_a",
-     "clube": "cruzeiro",
-     "adversario": "chapecoense",
-     "adversario_nome": "Chapecoense",
-     "mando": "fora",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Vinícius Bergantin"
-    },
-    {
-     "id": 91000149,
-     "data": "2026-11-18",
-     "comp": "serie_a",
-     "clube": "cruzeiro",
-     "adversario": "palmeiras",
-     "adversario_nome": "Palmeiras",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Abel Ferreira"
-    },
-    {
-     "id": 91000029,
-     "data": "2026-11-05",
-     "comp": "serie_a",
-     "clube": "cruzeiro",
-     "adversario": "bahia",
-     "adversario_nome": "Bahia",
-     "mando": "casa",
-     "placar": "3x2",
-     "res": "V",
-     "tecnico_adversario": "Rogério Ceni"
-    },
-    {
-     "id": 91000293,
-     "data": "2026-09-01",
-     "comp": "copa_do_brasil",
-     "clube": "cruzeiro",
-     "adversario": "atletico-mg",
-     "adversario_nome": "Atlético-MG",
-     "mando": "fora",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Eduardo Domínguez"
-    },
-    {
-     "id": 91000292,
-     "data": "2026-08-25",
-     "comp": "copa_do_brasil",
-     "clube": "cruzeiro",
-     "adversario": "atletico-mg",
-     "adversario_nome": "Atlético-MG",
-     "mando": "casa",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Eduardo Domínguez"
-    },
-    {
-     "id": 91000287,
-     "data": "2026-08-19",
-     "comp": "libertadores",
-     "clube": "cruzeiro",
-     "adversario": "flamengo",
-     "adversario_nome": "Flamengo",
-     "mando": "fora",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Leonardo Jardim"
-    },
-    {
-     "id": 91000286,
-     "data": "2026-08-12",
-     "comp": "libertadores",
-     "clube": "cruzeiro",
-     "adversario": "flamengo",
-     "adversario_nome": "Flamengo",
-     "mando": "casa",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Leonardo Jardim"
-    },
-    {
-     "id": 91000291,
-     "data": "2026-08-05",
-     "comp": "copa_do_brasil",
-     "clube": "cruzeiro",
-     "adversario": "chapecoense",
-     "adversario_nome": "Chapecoense",
-     "mando": "casa",
-     "placar": "2x0",
-     "res": "V",
-     "tecnico_adversario": "Rafael Lacerda"
-    },
-    {
-     "id": 91000290,
-     "data": "2026-08-02",
-     "comp": "copa_do_brasil",
-     "clube": "cruzeiro",
-     "adversario": "chapecoense",
-     "adversario_nome": "Chapecoense",
-     "mando": "fora",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Rafael Lacerda"
-    },
-    {
-     "id": 91000285,
-     "data": "2026-05-28",
-     "comp": "libertadores",
-     "clube": "cruzeiro",
-     "adversario": "barcelona-de-guayaquil",
-     "adversario_nome": "Barcelona de Guayaquil",
-     "mando": "casa",
-     "placar": "4x0",
-     "res": "V",
-     "tecnico_adversario": "César Farías"
-    },
-    {
-     "id": 91000284,
-     "data": "2026-05-19",
-     "comp": "libertadores",
-     "clube": "cruzeiro",
-     "adversario": "boca-juniors",
-     "adversario_nome": "Boca Juniors",
-     "mando": "fora",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Claudio Úbeda"
-    },
-    {
-     "id": 91000289,
-     "data": "2026-05-12",
-     "comp": "copa_do_brasil",
-     "clube": "cruzeiro",
-     "adversario": "goias",
-     "adversario_nome": "Goiás",
-     "mando": "casa",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Daniel Paulista"
-    },
-    {
-     "id": 91000283,
-     "data": "2026-05-06",
-     "comp": "libertadores",
-     "clube": "cruzeiro",
-     "adversario": "universidad-catolica",
-     "adversario_nome": "Universidad Católica",
-     "mando": "fora",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Daniel Garnero"
-    },
-    {
-     "id": 91000282,
-     "data": "2026-04-28",
-     "comp": "libertadores",
-     "clube": "cruzeiro",
-     "adversario": "boca-juniors",
-     "adversario_nome": "Boca Juniors",
-     "mando": "casa",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Claudio Úbeda"
-    },
-    {
-     "id": 91000418,
-     "data": "2026-04-25",
-     "comp": "serie_a",
-     "clube": "cruzeiro",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "fora",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Léo Condé"
-    },
-    {
-     "id": 91000288,
-     "data": "2026-04-22",
-     "comp": "copa_do_brasil",
-     "clube": "cruzeiro",
-     "adversario": "goias",
-     "adversario_nome": "Goiás",
-     "mando": "fora",
-     "placar": "2x2",
-     "res": "E",
-     "tecnico_adversario": "Daniel Paulista"
-    },
-    {
-     "id": 91000280,
-     "data": "2026-04-07",
-     "comp": "libertadores",
-     "clube": "cruzeiro",
-     "adversario": "barcelona-de-guayaquil",
-     "adversario_nome": "Barcelona de Guayaquil",
-     "mando": "fora",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "César Farías"
-    }
-   ],
-   "aproveitamento": 64.7
-  },
   "rafael-guanaes": {
    "nome": "Rafael Guanaes",
-   "jogos": 15,
-   "V": 7,
-   "E": 2,
+   "jogos": 17,
+   "V": 8,
+   "E": 3,
    "D": 6,
-   "gp": 19,
-   "gc": 13,
+   "gp": 22,
+   "gc": 15,
    "clubes": {
     "mirassol": {
      "nome": "Mirassol",
-     "jogos": 15,
-     "V": 7,
-     "E": 2,
+     "jogos": 17,
+     "V": 8,
+     "E": 3,
      "D": 6
     }
    },
@@ -1116,9 +1159,9 @@
     },
     "serie_a": {
      "nome": "Brasileirão Série A",
-     "jogos": 8,
-     "V": 3,
-     "E": 2,
+     "jogos": 10,
+     "V": 4,
+     "E": 3,
      "D": 3
     }
    },
@@ -1174,8 +1217,8 @@
     },
     "fernando-seabra": {
      "nome": "Fernando Seabra",
-     "jogos": 1,
-     "V": 0,
+     "jogos": 2,
+     "V": 1,
      "E": 0,
      "D": 1
     },
@@ -1184,6 +1227,13 @@
      "jogos": 1,
      "V": 1,
      "E": 0,
+     "D": 0
+    },
+    "cuca": {
+     "nome": "Cuca",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
      "D": 0
     },
     "rogerio-ceni": {
@@ -1282,6 +1332,30 @@
      "placar": "0x1",
      "res": "D",
      "tecnico_adversario": "Rogério Ceni"
+    },
+    {
+     "id": 91000495,
+     "data": "2026-09-05",
+     "comp": "serie_a",
+     "clube": "mirassol",
+     "adversario": "coritiba",
+     "adversario_nome": "Coritiba",
+     "mando": "fora",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Fernando Seabra"
+    },
+    {
+     "id": 91000478,
+     "data": "2026-08-23",
+     "comp": "serie_a",
+     "clube": "mirassol",
+     "adversario": "santos",
+     "adversario_nome": "Santos",
+     "mando": "fora",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Cuca"
     },
     {
      "id": 91000426,
@@ -1404,7 +1478,615 @@
      "tecnico_adversario": "Hernán Crespo"
     }
    ],
-   "aproveitamento": 51.1
+   "aproveitamento": 52.9
+  },
+  "fernando-seabra": {
+   "nome": "Fernando Seabra",
+   "jogos": 15,
+   "V": 5,
+   "E": 6,
+   "D": 4,
+   "gp": 20,
+   "gc": 19,
+   "clubes": {
+    "coritiba": {
+     "nome": "Coritiba",
+     "jogos": 15,
+     "V": 5,
+     "E": 6,
+     "D": 4
+    }
+   },
+   "competicoes": {
+    "paranaense": {
+     "nome": "Campeonato Paranaense",
+     "jogos": 2,
+     "V": 0,
+     "E": 2,
+     "D": 0
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 13,
+     "V": 5,
+     "E": 4,
+     "D": 4
+    }
+   },
+   "contra": {
+    "luizinho-lopes": {
+     "nome": "Luizinho Lopes",
+     "jogos": 2,
+     "V": 0,
+     "E": 2,
+     "D": 0
+    },
+    "vagner-mancini": {
+     "nome": "Vagner Mancini",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "tite": {
+     "nome": "Tite",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "gilmar-dal-pozzo": {
+     "nome": "Gilmar Dal Pozzo",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "hernan-crespo": {
+     "nome": "Hernán Crespo",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "lucas-silvestre": {
+     "nome": "Lucas Silvestre",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "rafael-guanaes": {
+     "nome": "Rafael Guanaes",
+     "jogos": 2,
+     "V": 1,
+     "E": 0,
+     "D": 1
+    },
+    "odair-hellmann": {
+     "nome": "Odair Hellmann",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "renato-gaucho": {
+     "nome": "Renato Gaúcho",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "luis-zubeldia": {
+     "nome": "Luis Zubeldía",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "franclim-carvalho": {
+     "nome": "Franclim Carvalho",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "fernando-diniz": {
+     "nome": "Fernando Diniz",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    }
+   },
+   "lista": [
+    {
+     "id": 91000495,
+     "data": "2026-09-05",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "mirassol",
+     "adversario_nome": "Mirassol",
+     "mando": "casa",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Rafael Guanaes"
+    },
+    {
+     "id": 91000479,
+     "data": "2026-08-23",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Fernando Diniz"
+    },
+    {
+     "id": 91000351,
+     "data": "2026-04-12",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "botafogo",
+     "adversario_nome": "Botafogo",
+     "mando": "fora",
+     "placar": "2x2",
+     "res": "E",
+     "tecnico_adversario": "Franclim Carvalho"
+    },
+    {
+     "id": 91000350,
+     "data": "2026-04-04",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Luis Zubeldía"
+    },
+    {
+     "id": 91000349,
+     "data": "2026-04-01",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "vasco",
+     "adversario_nome": "Vasco",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Renato Gaúcho"
+    },
+    {
+     "id": 91000347,
+     "data": "2026-03-22",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "athletico-pr",
+     "adversario_nome": "Athletico-PR",
+     "mando": "fora",
+     "placar": "0x2",
+     "res": "D",
+     "tecnico_adversario": "Odair Hellmann"
+    },
+    {
+     "id": 91000348,
+     "data": "2026-03-18",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "mirassol",
+     "adversario_nome": "Mirassol",
+     "mando": "fora",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Rafael Guanaes"
+    },
+    {
+     "id": 91000345,
+     "data": "2026-03-15",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000346,
+     "data": "2026-03-11",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "fora",
+     "placar": "2x0",
+     "res": "V",
+     "tecnico_adversario": "Lucas Silvestre"
+    },
+    {
+     "id": 91000344,
+     "data": "2026-02-25",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "sao-paulo",
+     "adversario_nome": "São Paulo",
+     "mando": "casa",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Hernán Crespo"
+    },
+    {
+     "id": 91000404,
+     "data": "2026-02-21",
+     "comp": "paranaense",
+     "clube": "coritiba",
+     "adversario": "operario-pr",
+     "adversario_nome": "Operário-PR",
+     "mando": "casa",
+     "placar": "2x2",
+     "res": "E",
+     "tecnico_adversario": "Luizinho Lopes"
+    },
+    {
+     "id": 91000403,
+     "data": "2026-02-14",
+     "comp": "paranaense",
+     "clube": "coritiba",
+     "adversario": "operario-pr",
+     "adversario_nome": "Operário-PR",
+     "mando": "fora",
+     "placar": "2x2",
+     "res": "E",
+     "tecnico_adversario": "Luizinho Lopes"
+    },
+    {
+     "id": 91000343,
+     "data": "2026-02-11",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
+     "mando": "fora",
+     "placar": "3x3",
+     "res": "E",
+     "tecnico_adversario": "Gilmar Dal Pozzo"
+    },
+    {
+     "id": 91000342,
+     "data": "2026-02-05",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "fora",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Tite"
+    },
+    {
+     "id": 91000341,
+     "data": "2026-01-28",
+     "comp": "serie_a",
+     "clube": "coritiba",
+     "adversario": "bragantino",
+     "adversario_nome": "Red Bull Bragantino",
+     "mando": "casa",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Vagner Mancini"
+    }
+   ],
+   "aproveitamento": 46.7
+  },
+  "rogerio-ceni": {
+   "nome": "Rogério Ceni",
+   "jogos": 14,
+   "V": 8,
+   "E": 1,
+   "D": 5,
+   "gp": 24,
+   "gc": 23,
+   "clubes": {
+    "bahia": {
+     "nome": "Bahia",
+     "jogos": 14,
+     "V": 8,
+     "E": 1,
+     "D": 5
+    }
+   },
+   "competicoes": {
+    "baiano": {
+     "nome": "Campeonato Baiano",
+     "jogos": 2,
+     "V": 2,
+     "E": 0,
+     "D": 0
+    },
+    "copa_do_brasil": {
+     "nome": "Copa do Brasil",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "libertadores": {
+     "nome": "Libertadores",
+     "jogos": 2,
+     "V": 1,
+     "E": 0,
+     "D": 1
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 9,
+     "V": 5,
+     "E": 1,
+     "D": 3
+    }
+   },
+   "contra": {
+    "carlos-rabelo": {
+     "nome": "Carlos Rabelo",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "jair-ventura": {
+     "nome": "Jair Ventura",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 3,
+     "V": 1,
+     "E": 0,
+     "D": 2
+    },
+    "lucas-bovaglio": {
+     "nome": "Lucas Bovaglio",
+     "jogos": 2,
+     "V": 1,
+     "E": 0,
+     "D": 1
+    },
+    "paulo-pezzolano": {
+     "nome": "Paulo Pezzolano",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "vagner-mancini": {
+     "nome": "Vagner Mancini",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "rafael-guanaes": {
+     "nome": "Rafael Guanaes",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "dorival-junior": {
+     "nome": "Dorival Júnior",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "artur-jorge": {
+     "nome": "Artur Jorge",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "renato-portaluppi": {
+     "nome": "Renato Portaluppi",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "guilherme-bossle": {
+     "nome": "Guilherme Bossle",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    }
+   },
+   "lista": [
+    {
+     "id": 91000156,
+     "data": "2026-11-21",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "coritiba",
+     "adversario_nome": "Coritiba",
+     "mando": "casa",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Guilherme Bossle"
+    },
+    {
+     "id": 91000151,
+     "data": "2026-11-18",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
+     "mando": "fora",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Renato Portaluppi"
+    },
+    {
+     "id": 91000029,
+     "data": "2026-11-05",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "fora",
+     "placar": "2x3",
+     "res": "D",
+     "tecnico_adversario": "Artur Jorge"
+    },
+    {
+     "id": 91000014,
+     "data": "2026-10-28",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "sao-paulo",
+     "adversario_nome": "São Paulo",
+     "mando": "casa",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Dorival Júnior"
+    },
+    {
+     "id": 91000078,
+     "data": "2026-10-11",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "mirassol",
+     "adversario_nome": "Mirassol",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Rafael Guanaes"
+    },
+    {
+     "id": 91000512,
+     "data": "2026-09-14",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000493,
+     "data": "2026-09-05",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "bragantino",
+     "adversario_nome": "Red Bull Bragantino",
+     "mando": "fora",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Vagner Mancini"
+    },
+    {
+     "id": 91000491,
+     "data": "2026-08-30",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "casa",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Paulo Pezzolano"
+    },
+    {
+     "id": 91000218,
+     "data": "2026-04-22",
+     "comp": "copa_do_brasil",
+     "clube": "bahia",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "casa",
+     "placar": "1x3",
+     "res": "D",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000413,
+     "data": "2026-03-22",
+     "comp": "serie_a",
+     "clube": "bahia",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "fora",
+     "placar": "1x4",
+     "res": "D",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000220,
+     "data": "2026-03-07",
+     "comp": "baiano",
+     "clube": "bahia",
+     "adversario": "vitoria",
+     "adversario_nome": "Vitória",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Jair Ventura"
+    },
+    {
+     "id": 91000221,
+     "data": "2026-02-28",
+     "comp": "baiano",
+     "clube": "bahia",
+     "adversario": "juazeirense",
+     "adversario_nome": "Juazeirense",
+     "mando": "casa",
+     "placar": "4x2",
+     "res": "V",
+     "tecnico_adversario": "Carlos Rabelo"
+    },
+    {
+     "id": 91000217,
+     "data": "2026-02-25",
+     "comp": "libertadores",
+     "clube": "bahia",
+     "adversario": "o-higgins",
+     "adversario_nome": "O'Higgins",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Lucas Bovaglio"
+    },
+    {
+     "id": 91000216,
+     "data": "2026-02-18",
+     "comp": "libertadores",
+     "clube": "bahia",
+     "adversario": "o-higgins",
+     "adversario_nome": "O'Higgins",
+     "mando": "fora",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Lucas Bovaglio"
+    }
+   ],
+   "aproveitamento": 59.5
   },
   "marcio-goiano": {
    "nome": "Márcio Goiano",
@@ -1704,391 +2386,105 @@
    ],
    "aproveitamento": 57.1
   },
-  "fernando-seabra": {
-   "nome": "Fernando Seabra",
+  "paulo-pezzolano": {
+   "nome": "Paulo Pezzolano",
    "jogos": 13,
-   "V": 4,
-   "E": 6,
-   "D": 3,
-   "gp": 17,
-   "gc": 16,
-   "clubes": {
-    "coritiba": {
-     "nome": "Coritiba",
-     "jogos": 13,
-     "V": 4,
-     "E": 6,
-     "D": 3
-    }
-   },
-   "competicoes": {
-    "paranaense": {
-     "nome": "Campeonato Paranaense",
-     "jogos": 2,
-     "V": 0,
-     "E": 2,
-     "D": 0
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 11,
-     "V": 4,
-     "E": 4,
-     "D": 3
-    }
-   },
-   "contra": {
-    "luizinho-lopes": {
-     "nome": "Luizinho Lopes",
-     "jogos": 2,
-     "V": 0,
-     "E": 2,
-     "D": 0
-    },
-    "vagner-mancini": {
-     "nome": "Vagner Mancini",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "tite": {
-     "nome": "Tite",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "gilmar-dal-pozzo": {
-     "nome": "Gilmar Dal Pozzo",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "hernan-crespo": {
-     "nome": "Hernán Crespo",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "lucas-silvestre": {
-     "nome": "Lucas Silvestre",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "rafael-guanaes": {
-     "nome": "Rafael Guanaes",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "odair-hellmann": {
-     "nome": "Odair Hellmann",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "renato-gaucho": {
-     "nome": "Renato Gaúcho",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "luis-zubeldia": {
-     "nome": "Luis Zubeldía",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "franclim-carvalho": {
-     "nome": "Franclim Carvalho",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    }
-   },
-   "lista": [
-    {
-     "id": 91000351,
-     "data": "2026-04-12",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "botafogo",
-     "adversario_nome": "Botafogo",
-     "mando": "fora",
-     "placar": "2x2",
-     "res": "E",
-     "tecnico_adversario": "Franclim Carvalho"
-    },
-    {
-     "id": 91000350,
-     "data": "2026-04-04",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "fluminense",
-     "adversario_nome": "Fluminense",
-     "mando": "casa",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Luis Zubeldía"
-    },
-    {
-     "id": 91000349,
-     "data": "2026-04-01",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "vasco",
-     "adversario_nome": "Vasco",
-     "mando": "casa",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Renato Gaúcho"
-    },
-    {
-     "id": 91000347,
-     "data": "2026-03-22",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "athletico-pr",
-     "adversario_nome": "Athletico-PR",
-     "mando": "fora",
-     "placar": "0x2",
-     "res": "D",
-     "tecnico_adversario": "Odair Hellmann"
-    },
-    {
-     "id": 91000348,
-     "data": "2026-03-18",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "mirassol",
-     "adversario_nome": "Mirassol",
-     "mando": "fora",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Rafael Guanaes"
-    },
-    {
-     "id": 91000345,
-     "data": "2026-03-15",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "casa",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Léo Condé"
-    },
-    {
-     "id": 91000346,
-     "data": "2026-03-11",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "corinthians",
-     "adversario_nome": "Corinthians",
-     "mando": "fora",
-     "placar": "2x0",
-     "res": "V",
-     "tecnico_adversario": "Lucas Silvestre"
-    },
-    {
-     "id": 91000344,
-     "data": "2026-02-25",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "sao-paulo",
-     "adversario_nome": "São Paulo",
-     "mando": "casa",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Hernán Crespo"
-    },
-    {
-     "id": 91000404,
-     "data": "2026-02-21",
-     "comp": "paranaense",
-     "clube": "coritiba",
-     "adversario": "operario-pr",
-     "adversario_nome": "Operário-PR",
-     "mando": "casa",
-     "placar": "2x2",
-     "res": "E",
-     "tecnico_adversario": "Luizinho Lopes"
-    },
-    {
-     "id": 91000403,
-     "data": "2026-02-14",
-     "comp": "paranaense",
-     "clube": "coritiba",
-     "adversario": "operario-pr",
-     "adversario_nome": "Operário-PR",
-     "mando": "fora",
-     "placar": "2x2",
-     "res": "E",
-     "tecnico_adversario": "Luizinho Lopes"
-    },
-    {
-     "id": 91000343,
-     "data": "2026-02-11",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "chapecoense",
-     "adversario_nome": "Chapecoense",
-     "mando": "fora",
-     "placar": "3x3",
-     "res": "E",
-     "tecnico_adversario": "Gilmar Dal Pozzo"
-    },
-    {
-     "id": 91000342,
-     "data": "2026-02-05",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "cruzeiro",
-     "adversario_nome": "Cruzeiro",
-     "mando": "fora",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Tite"
-    },
-    {
-     "id": 91000341,
-     "data": "2026-01-28",
-     "comp": "serie_a",
-     "clube": "coritiba",
-     "adversario": "bragantino",
-     "adversario_nome": "Red Bull Bragantino",
-     "mando": "casa",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Vagner Mancini"
-    }
-   ],
-   "aproveitamento": 46.2
-  },
-  "rogerio-ceni": {
-   "nome": "Rogério Ceni",
-   "jogos": 11,
    "V": 5,
-   "E": 1,
+   "E": 3,
    "D": 5,
-   "gp": 16,
-   "gc": 18,
+   "gp": 21,
+   "gc": 19,
    "clubes": {
-    "bahia": {
-     "nome": "Bahia",
-     "jogos": 11,
+    "internacional": {
+     "nome": "Internacional",
+     "jogos": 13,
      "V": 5,
-     "E": 1,
+     "E": 3,
      "D": 5
     }
    },
    "competicoes": {
-    "baiano": {
-     "nome": "Campeonato Baiano",
-     "jogos": 2,
-     "V": 2,
-     "E": 0,
-     "D": 0
-    },
     "copa_do_brasil": {
      "nome": "Copa do Brasil",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
+     "jogos": 5,
+     "V": 2,
+     "E": 1,
+     "D": 2
     },
-    "libertadores": {
-     "nome": "Libertadores",
-     "jogos": 2,
-     "V": 1,
-     "E": 0,
-     "D": 1
+    "gaucho": {
+     "nome": "Campeonato Gaúcho",
+     "jogos": 4,
+     "V": 3,
+     "E": 1,
+     "D": 0
     },
     "serie_a": {
      "nome": "Brasileirão Série A",
-     "jogos": 6,
-     "V": 2,
+     "jogos": 4,
+     "V": 0,
      "E": 1,
      "D": 3
     }
    },
    "contra": {
-    "carlos-rabelo": {
-     "nome": "Carlos Rabelo",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "jair-ventura": {
-     "nome": "Jair Ventura",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
+    "alex-souza": {
+     "nome": "Alex Souza",
      "jogos": 2,
-     "V": 0,
-     "E": 0,
-     "D": 2
-    },
-    "lucas-bovaglio": {
-     "nome": "Lucas Bovaglio",
-     "jogos": 2,
-     "V": 1,
-     "E": 0,
-     "D": 1
-    },
-    "rafael-guanaes": {
-     "nome": "Rafael Guanaes",
-     "jogos": 1,
-     "V": 1,
+     "V": 2,
      "E": 0,
      "D": 0
     },
-    "dorival-junior": {
-     "nome": "Dorival Júnior",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "artur-jorge": {
-     "nome": "Artur Jorge",
+    "fernando-diniz": {
+     "nome": "Fernando Diniz",
      "jogos": 1,
      "V": 0,
      "E": 0,
      "D": 1
     },
-    "renato-portaluppi": {
-     "nome": "Renato Portaluppi",
+    "luis-castro": {
+     "nome": "Luís Castro",
+     "jogos": 4,
+     "V": 1,
+     "E": 2,
+     "D": 1
+    },
+    "fernando-marchiori": {
+     "nome": "Fernando Marchiori",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "raul-cabral": {
+     "nome": "Raul Cabral",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "juan-carlos-osorio": {
+     "nome": "Juan Carlos Osorio",
      "jogos": 1,
      "V": 0,
      "E": 1,
      "D": 0
     },
-    "guilherme-bossle": {
-     "nome": "Guilherme Bossle",
+    "rogerio-ceni": {
+     "nome": "Rogério Ceni",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "cuca": {
+     "nome": "Cuca",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "dorival-junior": {
+     "nome": "Dorival Júnior",
      "jogos": 1,
      "V": 0,
      "E": 0,
@@ -2097,139 +2493,163 @@
    },
    "lista": [
     {
-     "id": 91000156,
-     "data": "2026-11-21",
+     "id": 91000054,
+     "data": "2026-09-19",
      "comp": "serie_a",
-     "clube": "bahia",
-     "adversario": "coritiba",
-     "adversario_nome": "Coritiba",
-     "mando": "casa",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Guilherme Bossle"
-    },
-    {
-     "id": 91000151,
-     "data": "2026-11-18",
-     "comp": "serie_a",
-     "clube": "bahia",
-     "adversario": "gremio",
-     "adversario_nome": "Grêmio",
-     "mando": "fora",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Renato Portaluppi"
-    },
-    {
-     "id": 91000029,
-     "data": "2026-11-05",
-     "comp": "serie_a",
-     "clube": "bahia",
-     "adversario": "cruzeiro",
-     "adversario_nome": "Cruzeiro",
-     "mando": "fora",
-     "placar": "2x3",
-     "res": "D",
-     "tecnico_adversario": "Artur Jorge"
-    },
-    {
-     "id": 91000014,
-     "data": "2026-10-28",
-     "comp": "serie_a",
-     "clube": "bahia",
+     "clube": "internacional",
      "adversario": "sao-paulo",
      "adversario_nome": "São Paulo",
-     "mando": "casa",
-     "placar": "3x2",
-     "res": "V",
+     "mando": "fora",
+     "placar": "0x1",
+     "res": "D",
      "tecnico_adversario": "Dorival Júnior"
     },
     {
-     "id": 91000078,
-     "data": "2026-10-11",
+     "id": 91000498,
+     "data": "2026-09-06",
      "comp": "serie_a",
-     "clube": "bahia",
-     "adversario": "mirassol",
-     "adversario_nome": "Mirassol",
+     "clube": "internacional",
+     "adversario": "santos",
+     "adversario_nome": "Santos",
      "mando": "casa",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Rafael Guanaes"
+     "placar": "2x3",
+     "res": "D",
+     "tecnico_adversario": "Cuca"
     },
     {
-     "id": 91000218,
-     "data": "2026-04-22",
+     "id": 91000313,
+     "data": "2026-09-03",
      "comp": "copa_do_brasil",
-     "clube": "bahia",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "casa",
+     "clube": "internacional",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
+     "mando": "fora",
      "placar": "1x3",
      "res": "D",
-     "tecnico_adversario": "Léo Condé"
+     "tecnico_adversario": "Luís Castro"
     },
     {
-     "id": 91000413,
-     "data": "2026-03-22",
+     "id": 91000491,
+     "data": "2026-08-30",
      "comp": "serie_a",
-     "clube": "bahia",
+     "clube": "internacional",
+     "adversario": "bahia",
+     "adversario_nome": "Bahia",
+     "mando": "fora",
+     "placar": "2x3",
+     "res": "D",
+     "tecnico_adversario": "Rogério Ceni"
+    },
+    {
+     "id": 91000312,
+     "data": "2026-08-27",
+     "comp": "copa_do_brasil",
+     "clube": "internacional",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
+     "mando": "casa",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Luís Castro"
+    },
+    {
+     "id": 91000311,
+     "data": "2026-08-06",
+     "comp": "copa_do_brasil",
+     "clube": "internacional",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Fernando Diniz"
+    },
+    {
+     "id": 91000309,
+     "data": "2026-05-12",
+     "comp": "copa_do_brasil",
+     "clube": "internacional",
+     "adversario": "athletic-mg",
+     "adversario_nome": "Athletic",
+     "mando": "casa",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Alex Souza"
+    },
+    {
+     "id": 91000308,
+     "data": "2026-04-22",
+     "comp": "copa_do_brasil",
+     "clube": "internacional",
+     "adversario": "athletic-mg",
+     "adversario_nome": "Athletic",
+     "mando": "fora",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Alex Souza"
+    },
+    {
+     "id": 91000307,
+     "data": "2026-03-08",
+     "comp": "gaucho",
+     "clube": "internacional",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Luís Castro"
+    },
+    {
+     "id": 91000410,
+     "data": "2026-02-25",
+     "comp": "serie_a",
+     "clube": "internacional",
      "adversario": "remo",
      "adversario_nome": "Remo",
      "mando": "fora",
-     "placar": "1x4",
-     "res": "D",
-     "tecnico_adversario": "Léo Condé"
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Juan Carlos Osorio"
     },
     {
-     "id": 91000220,
-     "data": "2026-03-07",
-     "comp": "baiano",
-     "clube": "bahia",
-     "adversario": "vitoria",
-     "adversario_nome": "Vitória",
-     "mando": "casa",
-     "placar": "2x1",
+     "id": 91000304,
+     "data": "2026-02-15",
+     "comp": "gaucho",
+     "clube": "internacional",
+     "adversario": "ypiranga-rs",
+     "adversario_nome": "Ypiranga-RS",
+     "mando": "fora",
+     "placar": "3x0",
      "res": "V",
-     "tecnico_adversario": "Jair Ventura"
+     "tecnico_adversario": "Raul Cabral"
     },
     {
-     "id": 91000221,
-     "data": "2026-02-28",
-     "comp": "baiano",
-     "clube": "bahia",
-     "adversario": "juazeirense",
-     "adversario_nome": "Juazeirense",
+     "id": 91000302,
+     "data": "2026-01-31",
+     "comp": "gaucho",
+     "clube": "internacional",
+     "adversario": "caxias",
+     "adversario_nome": "Caxias",
+     "mando": "fora",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Fernando Marchiori"
+    },
+    {
+     "id": 91000301,
+     "data": "2026-01-25",
+     "comp": "gaucho",
+     "clube": "internacional",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
      "mando": "casa",
      "placar": "4x2",
      "res": "V",
-     "tecnico_adversario": "Carlos Rabelo"
-    },
-    {
-     "id": 91000217,
-     "data": "2026-02-25",
-     "comp": "libertadores",
-     "clube": "bahia",
-     "adversario": "o-higgins",
-     "adversario_nome": "O'Higgins",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Lucas Bovaglio"
-    },
-    {
-     "id": 91000216,
-     "data": "2026-02-18",
-     "comp": "libertadores",
-     "clube": "bahia",
-     "adversario": "o-higgins",
-     "adversario_nome": "O'Higgins",
-     "mando": "fora",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Lucas Bovaglio"
+     "tecnico_adversario": "Luís Castro"
     }
    ],
-   "aproveitamento": 48.5
+   "aproveitamento": 46.2
   },
   "mozart": {
    "nome": "Mozart",
@@ -2500,232 +2920,246 @@
    ],
    "aproveitamento": 33.3
   },
-  "paulo-pezzolano": {
-   "nome": "Paulo Pezzolano",
+  "eduardo-dominguez": {
+   "nome": "Eduardo Domínguez",
    "jogos": 11,
-   "V": 5,
-   "E": 3,
-   "D": 3,
-   "gp": 17,
+   "V": 3,
+   "E": 4,
+   "D": 4,
+   "gp": 12,
    "gc": 13,
    "clubes": {
-    "internacional": {
-     "nome": "Internacional",
+    "atletico-mg": {
+     "nome": "Atlético-MG",
      "jogos": 11,
-     "V": 5,
-     "E": 3,
-     "D": 3
+     "V": 3,
+     "E": 4,
+     "D": 4
     }
    },
    "competicoes": {
     "copa_do_brasil": {
      "nome": "Copa do Brasil",
      "jogos": 5,
-     "V": 2,
-     "E": 1,
+     "V": 1,
+     "E": 2,
      "D": 2
     },
-    "gaucho": {
-     "nome": "Campeonato Gaúcho",
-     "jogos": 4,
-     "V": 3,
-     "E": 1,
-     "D": 0
+    "mineiro": {
+     "nome": "Campeonato Mineiro",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
     },
     "serie_a": {
      "nome": "Brasileirão Série A",
-     "jogos": 2,
-     "V": 0,
-     "E": 1,
+     "jogos": 5,
+     "V": 2,
+     "E": 2,
      "D": 1
     }
    },
    "contra": {
-    "alex-souza": {
-     "nome": "Alex Souza",
-     "jogos": 2,
-     "V": 2,
-     "E": 0,
-     "D": 0
-    },
-    "fernando-diniz": {
-     "nome": "Fernando Diniz",
+    "mozart": {
+     "nome": "Mozart",
      "jogos": 1,
      "V": 0,
      "E": 0,
      "D": 1
     },
-    "luis-castro": {
-     "nome": "Luís Castro",
-     "jogos": 4,
+    "artur-jorge": {
+     "nome": "Artur Jorge",
+     "jogos": 2,
      "V": 1,
-     "E": 2,
+     "E": 1,
+     "D": 0
+    },
+    "renato-gaucho": {
+     "nome": "Renato Gaúcho",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
      "D": 1
     },
-    "fernando-marchiori": {
-     "nome": "Fernando Marchiori",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "raul-cabral": {
-     "nome": "Raul Cabral",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "juan-carlos-osorio": {
-     "nome": "Juan Carlos Osorio",
+    "renato-portaluppi": {
+     "nome": "Renato Portaluppi",
      "jogos": 1,
      "V": 0,
      "E": 1,
      "D": 0
     },
-    "dorival-junior": {
-     "nome": "Dorival Júnior",
-     "jogos": 1,
+    "tite": {
+     "nome": "Tite",
+     "jogos": 2,
      "V": 0,
      "E": 0,
-     "D": 1
+     "D": 2
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "jair-ventura": {
+     "nome": "Jair Ventura",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "marcao": {
+     "nome": "Marcão",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "rafael-guanaes": {
+     "nome": "Rafael Guanaes",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
     }
    },
    "lista": [
     {
-     "id": 91000054,
-     "data": "2026-09-19",
+     "id": 91000145,
+     "data": "2026-11-14",
      "comp": "serie_a",
-     "clube": "internacional",
-     "adversario": "sao-paulo",
-     "adversario_nome": "São Paulo",
+     "clube": "atletico-mg",
+     "adversario": "mirassol",
+     "adversario_nome": "Mirassol",
+     "mando": "fora",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Rafael Guanaes"
+    },
+    {
+     "id": 91000177,
+     "data": "2026-11-07",
+     "comp": "copa_do_brasil",
+     "clube": "atletico-mg",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Renato Portaluppi"
+    },
+    {
+     "id": 91000026,
+     "data": "2026-11-04",
+     "comp": "serie_a",
+     "clube": "atletico-mg",
+     "adversario": "botafogo",
+     "adversario_nome": "Botafogo",
      "mando": "fora",
      "placar": "0x1",
      "res": "D",
-     "tecnico_adversario": "Dorival Júnior"
+     "tecnico_adversario": "Tite"
     },
     {
-     "id": 91000313,
-     "data": "2026-09-03",
+     "id": 91000176,
+     "data": "2026-11-01",
      "comp": "copa_do_brasil",
-     "clube": "internacional",
+     "clube": "atletico-mg",
      "adversario": "gremio",
      "adversario_nome": "Grêmio",
      "mando": "fora",
-     "placar": "1x3",
+     "placar": "0x2",
      "res": "D",
-     "tecnico_adversario": "Luís Castro"
+     "tecnico_adversario": "Renato Gaúcho"
     },
     {
-     "id": 91000312,
-     "data": "2026-08-27",
-     "comp": "copa_do_brasil",
-     "clube": "internacional",
-     "adversario": "gremio",
-     "adversario_nome": "Grêmio",
+     "id": 91000504,
+     "data": "2026-09-12",
+     "comp": "serie_a",
+     "clube": "atletico-mg",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
      "mando": "casa",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Luís Castro"
-    },
-    {
-     "id": 91000311,
-     "data": "2026-08-06",
-     "comp": "copa_do_brasil",
-     "clube": "internacional",
-     "adversario": "corinthians",
-     "adversario_nome": "Corinthians",
-     "mando": "fora",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Fernando Diniz"
-    },
-    {
-     "id": 91000309,
-     "data": "2026-05-12",
-     "comp": "copa_do_brasil",
-     "clube": "internacional",
-     "adversario": "athletic-mg",
-     "adversario_nome": "Athletic",
-     "mando": "casa",
-     "placar": "3x2",
+     "placar": "3x1",
      "res": "V",
-     "tecnico_adversario": "Alex Souza"
+     "tecnico_adversario": "Marcão"
     },
     {
-     "id": 91000308,
-     "data": "2026-04-22",
+     "id": 91000293,
+     "data": "2026-09-01",
      "comp": "copa_do_brasil",
-     "clube": "internacional",
-     "adversario": "athletic-mg",
-     "adversario_nome": "Athletic",
-     "mando": "fora",
+     "clube": "atletico-mg",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "casa",
      "placar": "2x1",
      "res": "V",
-     "tecnico_adversario": "Alex Souza"
+     "tecnico_adversario": "Artur Jorge"
     },
     {
-     "id": 91000307,
-     "data": "2026-03-08",
-     "comp": "gaucho",
-     "clube": "internacional",
-     "adversario": "gremio",
-     "adversario_nome": "Grêmio",
+     "id": 91000483,
+     "data": "2026-08-29",
+     "comp": "serie_a",
+     "clube": "atletico-mg",
+     "adversario": "vitoria",
+     "adversario_nome": "Vitória",
      "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Jair Ventura"
+    },
+    {
+     "id": 91000292,
+     "data": "2026-08-25",
+     "comp": "copa_do_brasil",
+     "clube": "atletico-mg",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "fora",
      "placar": "1x1",
      "res": "E",
-     "tecnico_adversario": "Luís Castro"
+     "tecnico_adversario": "Artur Jorge"
     },
     {
-     "id": 91000410,
-     "data": "2026-02-25",
+     "id": 91000427,
+     "data": "2026-08-08",
      "comp": "serie_a",
-     "clube": "internacional",
+     "clube": "atletico-mg",
      "adversario": "remo",
      "adversario_nome": "Remo",
      "mando": "fora",
-     "placar": "1x1",
+     "placar": "2x2",
      "res": "E",
-     "tecnico_adversario": "Juan Carlos Osorio"
+     "tecnico_adversario": "Léo Condé"
     },
     {
-     "id": 91000304,
-     "data": "2026-02-15",
-     "comp": "gaucho",
-     "clube": "internacional",
-     "adversario": "ypiranga-rs",
-     "adversario_nome": "Ypiranga-RS",
+     "id": 91000257,
+     "data": "2026-05-13",
+     "comp": "copa_do_brasil",
+     "clube": "atletico-mg",
+     "adversario": "ceara",
+     "adversario_nome": "Ceará",
      "mando": "fora",
-     "placar": "3x0",
-     "res": "V",
-     "tecnico_adversario": "Raul Cabral"
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Mozart"
     },
     {
-     "id": 91000302,
-     "data": "2026-01-31",
-     "comp": "gaucho",
-     "clube": "internacional",
-     "adversario": "caxias",
-     "adversario_nome": "Caxias",
+     "id": 91000296,
+     "data": "2026-03-08",
+     "comp": "mineiro",
+     "clube": "atletico-mg",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
      "mando": "fora",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Fernando Marchiori"
-    },
-    {
-     "id": 91000301,
-     "data": "2026-01-25",
-     "comp": "gaucho",
-     "clube": "internacional",
-     "adversario": "gremio",
-     "adversario_nome": "Grêmio",
-     "mando": "casa",
-     "placar": "4x2",
-     "res": "V",
-     "tecnico_adversario": "Luís Castro"
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Tite"
     }
    ],
-   "aproveitamento": 54.5
+   "aproveitamento": 39.4
   },
   "juan-pablo-vojvoda": {
    "nome": "Juan Pablo Vojvoda",
@@ -4125,33 +4559,26 @@
    ],
    "aproveitamento": 43.3
   },
-  "eduardo-dominguez": {
-   "nome": "Eduardo Domínguez",
+  "marcao": {
+   "nome": "Marcão",
    "jogos": 9,
-   "V": 1,
-   "E": 4,
+   "V": 5,
+   "E": 0,
    "D": 4,
-   "gp": 7,
+   "gp": 14,
    "gc": 11,
    "clubes": {
-    "atletico-mg": {
-     "nome": "Atlético-MG",
+    "fluminense": {
+     "nome": "Fluminense",
      "jogos": 9,
-     "V": 1,
-     "E": 4,
+     "V": 5,
+     "E": 0,
      "D": 4
     }
    },
    "competicoes": {
-    "copa_do_brasil": {
-     "nome": "Copa do Brasil",
-     "jogos": 5,
-     "V": 1,
-     "E": 2,
-     "D": 2
-    },
-    "mineiro": {
-     "nome": "Campeonato Mineiro",
+    "libertadores": {
+     "nome": "Libertadores",
      "jogos": 1,
      "V": 0,
      "E": 0,
@@ -4159,57 +4586,647 @@
     },
     "serie_a": {
      "nome": "Brasileirão Série A",
-     "jogos": 3,
+     "jogos": 8,
+     "V": 5,
+     "E": 0,
+     "D": 3
+    }
+   },
+   "contra": {
+    "joao-martins": {
+     "nome": "João Martins",
+     "jogos": 1,
      "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "abel-ferreira": {
+     "nome": "Abel Ferreira",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "pedro-emanuel": {
+     "nome": "Pedro Emanuel",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "eduardo-dominguez": {
+     "nome": "Eduardo Domínguez",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "fernando-diniz": {
+     "nome": "Fernando Diniz",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "leonardo-jardim": {
+     "nome": "Leonardo Jardim",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "cuca": {
+     "nome": "Cuca",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "cleber-dos-santos": {
+     "nome": "Cleber dos Santos",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "dorival-junior": {
+     "nome": "Dorival Júnior",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    }
+   },
+   "lista": [
+    {
+     "id": 91000154,
+     "data": "2026-11-19",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "sao-paulo",
+     "adversario_nome": "São Paulo",
+     "mando": "fora",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Dorival Júnior"
+    },
+    {
+     "id": 91000030,
+     "data": "2026-11-06",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "vitoria",
+     "adversario_nome": "Vitória",
+     "mando": "fora",
+     "placar": "3x0",
+     "res": "V",
+     "tecnico_adversario": "Cleber dos Santos"
+    },
+    {
+     "id": 91000086,
+     "data": "2026-10-18",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "santos",
+     "adversario_nome": "Santos",
+     "mando": "casa",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Cuca"
+    },
+    {
+     "id": 91000178,
+     "data": "2026-10-14",
+     "comp": "libertadores",
+     "clube": "fluminense",
+     "adversario": "palmeiras",
+     "adversario_nome": "Palmeiras",
+     "mando": "casa",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "João Martins"
+    },
+    {
+     "id": 91000074,
+     "data": "2026-10-11",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "flamengo",
+     "adversario_nome": "Flamengo",
+     "mando": "fora",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Leonardo Jardim"
+    },
+    {
+     "id": 91000056,
+     "data": "2026-09-20",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "fora",
+     "placar": "3x1",
+     "res": "V",
+     "tecnico_adversario": "Fernando Diniz"
+    },
+    {
+     "id": 91000504,
+     "data": "2026-09-12",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "atletico-mg",
+     "adversario_nome": "Atlético-MG",
+     "mando": "fora",
+     "placar": "1x3",
+     "res": "D",
+     "tecnico_adversario": "Eduardo Domínguez"
+    },
+    {
+     "id": 91000496,
+     "data": "2026-09-05",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "vasco",
+     "adversario_nome": "Vasco",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Pedro Emanuel"
+    },
+    {
+     "id": 91000395,
+     "data": "2026-08-15",
+     "comp": "serie_a",
+     "clube": "fluminense",
+     "adversario": "palmeiras",
+     "adversario_nome": "Palmeiras",
+     "mando": "casa",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Abel Ferreira"
+    }
+   ],
+   "aproveitamento": 55.6
+  },
+  "vagner-mancini": {
+   "nome": "Vagner Mancini",
+   "jogos": 9,
+   "V": 4,
+   "E": 2,
+   "D": 3,
+   "gp": 15,
+   "gc": 11,
+   "clubes": {
+    "bragantino": {
+     "nome": "Red Bull Bragantino",
+     "jogos": 9,
+     "V": 4,
      "E": 2,
+     "D": 3
+    }
+   },
+   "competicoes": {
+    "paulistao_a1_2026": {
+     "nome": "Paulistão A1 2026",
+     "jogos": 3,
+     "V": 1,
+     "E": 1,
+     "D": 1
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 6,
+     "V": 3,
+     "E": 1,
+     "D": 2
+    }
+   },
+   "contra": {
+    "dorival-junior": {
+     "nome": "Dorival Júnior",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "juan-pablo-vojvoda": {
+     "nome": "Juan Pablo Vojvoda",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "hernan-crespo": {
+     "nome": "Hernán Crespo",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "fernando-seabra": {
+     "nome": "Fernando Seabra",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "rogerio-ceni": {
+     "nome": "Rogério Ceni",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "rodrigo-bellao": {
+     "nome": "Rodrigo Bellão",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "cuca": {
+     "nome": "Cuca",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "rafael-lacerda": {
+     "nome": "Rafael Lacerda",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    }
+   },
+   "lista": [
+    {
+     "id": 91000153,
+     "data": "2026-11-19",
+     "comp": "serie_a",
+     "clube": "bragantino",
+     "adversario": "vitoria",
+     "adversario_nome": "Vitória",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Rafael Lacerda"
+    },
+    {
+     "id": 91000021,
+     "data": "2026-11-02",
+     "comp": "serie_a",
+     "clube": "bragantino",
+     "adversario": "santos",
+     "adversario_nome": "Santos",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Cuca"
+    },
+    {
+     "id": 91000508,
+     "data": "2026-09-12",
+     "comp": "serie_a",
+     "clube": "bragantino",
+     "adversario": "botafogo",
+     "adversario_nome": "Botafogo",
+     "mando": "fora",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Rodrigo Bellão"
+    },
+    {
+     "id": 91000493,
+     "data": "2026-09-05",
+     "comp": "serie_a",
+     "clube": "bragantino",
+     "adversario": "bahia",
+     "adversario_nome": "Bahia",
+     "mando": "casa",
+     "placar": "2x3",
+     "res": "D",
+     "tecnico_adversario": "Rogério Ceni"
+    },
+    {
+     "id": 91000417,
+     "data": "2026-04-19",
+     "comp": "serie_a",
+     "clube": "bragantino",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "casa",
+     "placar": "4x2",
+     "res": "V",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000246,
+     "data": "2026-02-21",
+     "comp": "paulistao_a1_2026",
+     "clube": "bragantino",
+     "adversario": "sao-paulo",
+     "adversario_nome": "São Paulo",
+     "mando": "casa",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Hernán Crespo"
+    },
+    {
+     "id": 91000341,
+     "data": "2026-01-28",
+     "comp": "serie_a",
+     "clube": "bragantino",
+     "adversario": "coritiba",
+     "adversario_nome": "Coritiba",
+     "mando": "fora",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Fernando Seabra"
+    },
+    {
+     "id": 91000245,
+     "data": "2026-01-25",
+     "comp": "paulistao_a1_2026",
+     "clube": "bragantino",
+     "adversario": "santos",
+     "adversario_nome": "Santos",
+     "mando": "fora",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Juan Pablo Vojvoda"
+    },
+    {
+     "id": 91000243,
+     "data": "2026-01-15",
+     "comp": "paulistao_a1_2026",
+     "clube": "bragantino",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "casa",
+     "placar": "3x0",
+     "res": "V",
+     "tecnico_adversario": "Dorival Júnior"
+    }
+   ],
+   "aproveitamento": 51.9
+  },
+  "pedro-emanuel": {
+   "nome": "Pedro Emanuel",
+   "jogos": 8,
+   "V": 6,
+   "E": 0,
+   "D": 2,
+   "gp": 15,
+   "gc": 8,
+   "clubes": {
+    "vasco": {
+     "nome": "Vasco",
+     "jogos": 8,
+     "V": 6,
+     "E": 0,
+     "D": 2
+    }
+   },
+   "competicoes": {
+    "copa_do_brasil": {
+     "nome": "Copa do Brasil",
+     "jogos": 2,
+     "V": 1,
+     "E": 0,
+     "D": 1
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 6,
+     "V": 5,
+     "E": 0,
      "D": 1
     }
    },
    "contra": {
-    "mozart": {
-     "nome": "Mozart",
-     "jogos": 1,
-     "V": 0,
+    "abel-ferreira": {
+     "nome": "Abel Ferreira",
+     "jogos": 2,
+     "V": 1,
      "E": 0,
      "D": 1
     },
     "artur-jorge": {
      "nome": "Artur Jorge",
-     "jogos": 2,
+     "jogos": 1,
      "V": 1,
-     "E": 1,
+     "E": 0,
      "D": 0
     },
-    "renato-gaucho": {
-     "nome": "Renato Gaúcho",
+    "marcao": {
+     "nome": "Marcão",
      "jogos": 1,
      "V": 0,
      "E": 0,
      "D": 1
     },
-    "renato-portaluppi": {
-     "nome": "Renato Portaluppi",
+    "clarence-seedorf": {
+     "nome": "Clarence Seedorf",
      "jogos": 1,
-     "V": 0,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "odair-hellmann": {
+     "nome": "Odair Hellmann",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "eduardo-baptista": {
+     "nome": "Eduardo Baptista",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    }
+   },
+   "lista": [
+    {
+     "id": 91000152,
+     "data": "2026-11-19",
+     "comp": "serie_a",
+     "clube": "vasco",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Eduardo Baptista"
+    },
+    {
+     "id": 91000165,
+     "data": "2026-11-14",
+     "comp": "serie_a",
+     "clube": "vasco",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
+     "mando": "fora",
+     "placar": "2x0",
+     "res": "V",
+     "tecnico_adversario": ""
+    },
+    {
+     "id": 91000133,
+     "data": "2026-11-08",
+     "comp": "copa_do_brasil",
+     "clube": "vasco",
+     "adversario": "palmeiras",
+     "adversario_nome": "Palmeiras",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Abel Ferreira"
+    },
+    {
+     "id": 91000025,
+     "data": "2026-11-04",
+     "comp": "serie_a",
+     "clube": "vasco",
+     "adversario": "athletico-pr",
+     "adversario_nome": "Athletico-PR",
+     "mando": "fora",
+     "placar": "3x1",
+     "res": "V",
+     "tecnico_adversario": "Odair Hellmann"
+    },
+    {
+     "id": 91000130,
+     "data": "2026-11-01",
+     "comp": "copa_do_brasil",
+     "clube": "vasco",
+     "adversario": "palmeiras",
+     "adversario_nome": "Palmeiras",
+     "mando": "fora",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Abel Ferreira"
+    },
+    {
+     "id": 91000005,
+     "data": "2026-10-24",
+     "comp": "serie_a",
+     "clube": "vasco",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "casa",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Clarence Seedorf"
+    },
+    {
+     "id": 91000496,
+     "data": "2026-09-05",
+     "comp": "serie_a",
+     "clube": "vasco",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
+     "mando": "fora",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Marcão"
+    },
+    {
+     "id": 91000485,
+     "data": "2026-08-29",
+     "comp": "serie_a",
+     "clube": "vasco",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "casa",
+     "placar": "3x1",
+     "res": "V",
+     "tecnico_adversario": "Artur Jorge"
+    }
+   ],
+   "aproveitamento": 75.0
+  },
+  "leonardo-jardim": {
+   "nome": "Leonardo Jardim",
+   "jogos": 8,
+   "V": 5,
+   "E": 2,
+   "D": 1,
+   "gp": 14,
+   "gc": 7,
+   "clubes": {
+    "flamengo": {
+     "nome": "Flamengo",
+     "jogos": 8,
+     "V": 5,
+     "E": 2,
+     "D": 1
+    }
+   },
+   "competicoes": {
+    "libertadores": {
+     "nome": "Libertadores",
+     "jogos": 2,
+     "V": 1,
      "E": 1,
      "D": 0
     },
-    "tite": {
-     "nome": "Tite",
-     "jogos": 2,
-     "V": 0,
-     "E": 0,
-     "D": 2
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 6,
+     "V": 4,
+     "E": 1,
+     "D": 1
+    }
+   },
+   "contra": {
+    "artur-jorge": {
+     "nome": "Artur Jorge",
+     "jogos": 3,
+     "V": 1,
+     "E": 1,
+     "D": 1
     },
     "leo-conde": {
      "nome": "Léo Condé",
      "jogos": 1,
-     "V": 0,
-     "E": 1,
+     "V": 1,
+     "E": 0,
      "D": 0
     },
-    "rafael-guanaes": {
-     "nome": "Rafael Guanaes",
+    "marcao": {
+     "nome": "Marcão",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "renato-gaucho": {
+     "nome": "Renato Gaúcho",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "odair-hellmann": {
+     "nome": "Odair Hellmann",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "abel-ferreira": {
+     "nome": "Abel Ferreira",
      "jogos": 1,
      "V": 0,
      "E": 1,
@@ -4218,58 +5235,70 @@
    },
    "lista": [
     {
-     "id": 91000145,
-     "data": "2026-11-14",
+     "id": 91000155,
+     "data": "2026-11-21",
      "comp": "serie_a",
-     "clube": "atletico-mg",
-     "adversario": "mirassol",
-     "adversario_nome": "Mirassol",
+     "clube": "flamengo",
+     "adversario": "palmeiras",
+     "adversario_nome": "Palmeiras",
      "mando": "fora",
-     "placar": "0x0",
+     "placar": "1x1",
      "res": "E",
-     "tecnico_adversario": "Rafael Guanaes"
+     "tecnico_adversario": "Abel Ferreira"
     },
     {
-     "id": 91000177,
-     "data": "2026-11-07",
-     "comp": "copa_do_brasil",
-     "clube": "atletico-mg",
+     "id": 91000148,
+     "data": "2026-11-18",
+     "comp": "serie_a",
+     "clube": "flamengo",
+     "adversario": "athletico-pr",
+     "adversario_nome": "Athletico-PR",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Odair Hellmann"
+    },
+    {
+     "id": 91000024,
+     "data": "2026-11-04",
+     "comp": "serie_a",
+     "clube": "flamengo",
      "adversario": "gremio",
      "adversario_nome": "Grêmio",
      "mando": "casa",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Renato Portaluppi"
-    },
-    {
-     "id": 91000026,
-     "data": "2026-11-04",
-     "comp": "serie_a",
-     "clube": "atletico-mg",
-     "adversario": "botafogo",
-     "adversario_nome": "Botafogo",
-     "mando": "fora",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Tite"
-    },
-    {
-     "id": 91000176,
-     "data": "2026-11-01",
-     "comp": "copa_do_brasil",
-     "clube": "atletico-mg",
-     "adversario": "gremio",
-     "adversario_nome": "Grêmio",
-     "mando": "fora",
-     "placar": "0x2",
-     "res": "D",
+     "placar": "3x1",
+     "res": "V",
      "tecnico_adversario": "Renato Gaúcho"
     },
     {
-     "id": 91000293,
-     "data": "2026-09-01",
-     "comp": "copa_do_brasil",
-     "clube": "atletico-mg",
+     "id": 91000074,
+     "data": "2026-10-11",
+     "comp": "serie_a",
+     "clube": "flamengo",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Marcão"
+    },
+    {
+     "id": 91000474,
+     "data": "2026-08-22",
+     "comp": "serie_a",
+     "clube": "flamengo",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Artur Jorge"
+    },
+    {
+     "id": 91000287,
+     "data": "2026-08-19",
+     "comp": "libertadores",
+     "clube": "flamengo",
      "adversario": "cruzeiro",
      "adversario_nome": "Cruzeiro",
      "mando": "casa",
@@ -4278,10 +5307,10 @@
      "tecnico_adversario": "Artur Jorge"
     },
     {
-     "id": 91000292,
-     "data": "2026-08-25",
-     "comp": "copa_do_brasil",
-     "clube": "atletico-mg",
+     "id": 91000286,
+     "data": "2026-08-12",
+     "comp": "libertadores",
+     "clube": "flamengo",
      "adversario": "cruzeiro",
      "adversario_nome": "Cruzeiro",
      "mando": "fora",
@@ -4290,43 +5319,217 @@
      "tecnico_adversario": "Artur Jorge"
     },
     {
-     "id": 91000427,
-     "data": "2026-08-08",
+     "id": 91000412,
+     "data": "2026-03-19",
      "comp": "serie_a",
-     "clube": "atletico-mg",
+     "clube": "flamengo",
      "adversario": "remo",
      "adversario_nome": "Remo",
-     "mando": "fora",
-     "placar": "2x2",
-     "res": "E",
+     "mando": "casa",
+     "placar": "3x0",
+     "res": "V",
      "tecnico_adversario": "Léo Condé"
+    }
+   ],
+   "aproveitamento": 70.8
+  },
+  "dorival-junior": {
+   "nome": "Dorival Júnior",
+   "jogos": 8,
+   "V": 1,
+   "E": 1,
+   "D": 6,
+   "gp": 4,
+   "gc": 12,
+   "clubes": {
+    "corinthians": {
+     "nome": "Corinthians",
+     "jogos": 2,
+     "V": 0,
+     "E": 0,
+     "D": 2
     },
+    "sao-paulo": {
+     "nome": "São Paulo",
+     "jogos": 6,
+     "V": 1,
+     "E": 1,
+     "D": 4
+    }
+   },
+   "competicoes": {
+    "paulistao_a1_2026": {
+     "nome": "Paulistão A1 2026",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 7,
+     "V": 1,
+     "E": 1,
+     "D": 5
+    }
+   },
+   "contra": {
+    "vagner-mancini": {
+     "nome": "Vagner Mancini",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "luis-zubeldia": {
+     "nome": "Luis Zubeldía",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "rafael-lacerda": {
+     "nome": "Rafael Lacerda",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "paulo-pezzolano": {
+     "nome": "Paulo Pezzolano",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "rogerio-ceni": {
+     "nome": "Rogério Ceni",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "clarence-seedorf": {
+     "nome": "Clarence Seedorf",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "marcao": {
+     "nome": "Marcão",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    }
+   },
+   "lista": [
     {
-     "id": 91000257,
-     "data": "2026-05-13",
-     "comp": "copa_do_brasil",
-     "clube": "atletico-mg",
-     "adversario": "ceara",
-     "adversario_nome": "Ceará",
-     "mando": "fora",
-     "placar": "1x2",
+     "id": 91000154,
+     "data": "2026-11-19",
+     "comp": "serie_a",
+     "clube": "sao-paulo",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
+     "mando": "casa",
+     "placar": "0x1",
      "res": "D",
-     "tecnico_adversario": "Mozart"
+     "tecnico_adversario": "Marcão"
     },
     {
-     "id": 91000296,
-     "data": "2026-03-08",
-     "comp": "mineiro",
-     "clube": "atletico-mg",
-     "adversario": "cruzeiro",
-     "adversario_nome": "Cruzeiro",
+     "id": 91000027,
+     "data": "2026-11-04",
+     "comp": "serie_a",
+     "clube": "sao-paulo",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "casa",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Clarence Seedorf"
+    },
+    {
+     "id": 91000014,
+     "data": "2026-10-28",
+     "comp": "serie_a",
+     "clube": "sao-paulo",
+     "adversario": "bahia",
+     "adversario_nome": "Bahia",
+     "mando": "fora",
+     "placar": "2x3",
+     "res": "D",
+     "tecnico_adversario": "Rogério Ceni"
+    },
+    {
+     "id": 91000054,
+     "data": "2026-09-19",
+     "comp": "serie_a",
+     "clube": "sao-paulo",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Paulo Pezzolano"
+    },
+    {
+     "id": 91000477,
+     "data": "2026-08-23",
+     "comp": "serie_a",
+     "clube": "sao-paulo",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
      "mando": "fora",
      "placar": "0x1",
      "res": "D",
-     "tecnico_adversario": "Tite"
+     "tecnico_adversario": "Rafael Lacerda"
+    },
+    {
+     "id": 91000423,
+     "data": "2026-05-31",
+     "comp": "serie_a",
+     "clube": "sao-paulo",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "fora",
+     "placar": "0x1",
+     "res": "D",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000394,
+     "data": "2026-04-01",
+     "comp": "serie_a",
+     "clube": "corinthians",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
+     "mando": "fora",
+     "placar": "1x3",
+     "res": "D",
+     "tecnico_adversario": "Luis Zubeldía"
+    },
+    {
+     "id": 91000243,
+     "data": "2026-01-15",
+     "comp": "paulistao_a1_2026",
+     "clube": "corinthians",
+     "adversario": "bragantino",
+     "adversario_nome": "Red Bull Bragantino",
+     "mando": "fora",
+     "placar": "0x3",
+     "res": "D",
+     "tecnico_adversario": "Vagner Mancini"
     }
    ],
-   "aproveitamento": 25.9
+   "aproveitamento": 16.7
   },
   "daniel-paulista": {
    "nome": "Daniel Paulista",
@@ -4500,45 +5703,66 @@
    ],
    "aproveitamento": 19.0
   },
-  "leonardo-jardim": {
-   "nome": "Leonardo Jardim",
+  "odair-hellmann": {
+   "nome": "Odair Hellmann",
    "jogos": 7,
-   "V": 5,
-   "E": 2,
-   "D": 0,
-   "gp": 13,
-   "gc": 5,
+   "V": 4,
+   "E": 1,
+   "D": 2,
+   "gp": 14,
+   "gc": 8,
    "clubes": {
-    "flamengo": {
-     "nome": "Flamengo",
+    "athletico-pr": {
+     "nome": "Athletico-PR",
      "jogos": 7,
-     "V": 5,
-     "E": 2,
-     "D": 0
+     "V": 4,
+     "E": 1,
+     "D": 2
     }
    },
    "competicoes": {
-    "libertadores": {
-     "nome": "Libertadores",
-     "jogos": 2,
-     "V": 1,
+    "copa_do_brasil": {
+     "nome": "Copa do Brasil",
+     "jogos": 1,
+     "V": 0,
      "E": 1,
+     "D": 0
+    },
+    "paranaense": {
+     "nome": "Campeonato Paranaense",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
      "D": 0
     },
     "serie_a": {
      "nome": "Brasileirão Série A",
      "jogos": 5,
-     "V": 4,
-     "E": 1,
-     "D": 0
+     "V": 3,
+     "E": 0,
+     "D": 2
     }
    },
    "contra": {
-    "artur-jorge": {
-     "nome": "Artur Jorge",
-     "jogos": 2,
-     "V": 1,
+    "eduardo-souza": {
+     "nome": "Eduardo Souza",
+     "jogos": 1,
+     "V": 0,
      "E": 1,
+     "D": 0
+    },
+    "adriano-santos": {
+     "nome": "Adriano Santos",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "fernando-seabra": {
+     "nome": "Fernando Seabra",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
      "D": 0
     },
     "leo-conde": {
@@ -4548,170 +5772,177 @@
      "E": 0,
      "D": 0
     },
-    "marcao": {
-     "nome": "Marcão",
+    "rodrigo-bellao": {
+     "nome": "Rodrigo Bellão",
      "jogos": 1,
      "V": 1,
      "E": 0,
      "D": 0
     },
-    "renato-gaucho": {
-     "nome": "Renato Gaúcho",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "odair-hellmann": {
-     "nome": "Odair Hellmann",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "abel-ferreira": {
-     "nome": "Abel Ferreira",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    }
-   },
-   "lista": [
-    {
-     "id": 91000155,
-     "data": "2026-11-21",
-     "comp": "serie_a",
-     "clube": "flamengo",
-     "adversario": "palmeiras",
-     "adversario_nome": "Palmeiras",
-     "mando": "fora",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Abel Ferreira"
-    },
-    {
-     "id": 91000148,
-     "data": "2026-11-18",
-     "comp": "serie_a",
-     "clube": "flamengo",
-     "adversario": "athletico-pr",
-     "adversario_nome": "Athletico-PR",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Odair Hellmann"
-    },
-    {
-     "id": 91000024,
-     "data": "2026-11-04",
-     "comp": "serie_a",
-     "clube": "flamengo",
-     "adversario": "gremio",
-     "adversario_nome": "Grêmio",
-     "mando": "casa",
-     "placar": "3x1",
-     "res": "V",
-     "tecnico_adversario": "Renato Gaúcho"
-    },
-    {
-     "id": 91000074,
-     "data": "2026-10-11",
-     "comp": "serie_a",
-     "clube": "flamengo",
-     "adversario": "fluminense",
-     "adversario_nome": "Fluminense",
-     "mando": "casa",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Marcão"
-    },
-    {
-     "id": 91000287,
-     "data": "2026-08-19",
-     "comp": "libertadores",
-     "clube": "flamengo",
-     "adversario": "cruzeiro",
-     "adversario_nome": "Cruzeiro",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Artur Jorge"
-    },
-    {
-     "id": 91000286,
-     "data": "2026-08-12",
-     "comp": "libertadores",
-     "clube": "flamengo",
-     "adversario": "cruzeiro",
-     "adversario_nome": "Cruzeiro",
-     "mando": "fora",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Artur Jorge"
-    },
-    {
-     "id": 91000412,
-     "data": "2026-03-19",
-     "comp": "serie_a",
-     "clube": "flamengo",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "casa",
-     "placar": "3x0",
-     "res": "V",
-     "tecnico_adversario": "Léo Condé"
-    }
-   ],
-   "aproveitamento": 81.0
-  },
-  "marcao": {
-   "nome": "Marcão",
-   "jogos": 7,
-   "V": 4,
-   "E": 0,
-   "D": 3,
-   "gp": 12,
-   "gc": 8,
-   "clubes": {
-    "fluminense": {
-     "nome": "Fluminense",
-     "jogos": 7,
-     "V": 4,
-     "E": 0,
-     "D": 3
-    }
-   },
-   "competicoes": {
-    "libertadores": {
-     "nome": "Libertadores",
+    "pedro-emanuel": {
+     "nome": "Pedro Emanuel",
      "jogos": 1,
      "V": 0,
      "E": 0,
      "D": 1
     },
+    "leonardo-jardim": {
+     "nome": "Leonardo Jardim",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    }
+   },
+   "lista": [
+    {
+     "id": 91000148,
+     "data": "2026-11-18",
+     "comp": "serie_a",
+     "clube": "athletico-pr",
+     "adversario": "flamengo",
+     "adversario_nome": "Flamengo",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Leonardo Jardim"
+    },
+    {
+     "id": 91000025,
+     "data": "2026-11-04",
+     "comp": "serie_a",
+     "clube": "athletico-pr",
+     "adversario": "vasco",
+     "adversario_nome": "Vasco",
+     "mando": "casa",
+     "placar": "1x3",
+     "res": "D",
+     "tecnico_adversario": "Pedro Emanuel"
+    },
+    {
+     "id": 91000482,
+     "data": "2026-08-24",
+     "comp": "serie_a",
+     "clube": "athletico-pr",
+     "adversario": "botafogo",
+     "adversario_nome": "Botafogo",
+     "mando": "fora",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Rodrigo Bellão"
+    },
+    {
+     "id": 91000422,
+     "data": "2026-05-24",
+     "comp": "serie_a",
+     "clube": "athletico-pr",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "fora",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000205,
+     "data": "2026-04-23",
+     "comp": "copa_do_brasil",
+     "clube": "athletico-pr",
+     "adversario": "atletico-go",
+     "adversario_nome": "Atlético-GO",
+     "mando": "casa",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Eduardo Souza"
+    },
+    {
+     "id": 91000347,
+     "data": "2026-03-22",
+     "comp": "serie_a",
+     "clube": "athletico-pr",
+     "adversario": "coritiba",
+     "adversario_nome": "Coritiba",
+     "mando": "casa",
+     "placar": "2x0",
+     "res": "V",
+     "tecnico_adversario": "Fernando Seabra"
+    },
+    {
+     "id": 91000201,
+     "data": "2026-02-03",
+     "comp": "paranaense",
+     "clube": "athletico-pr",
+     "adversario": "foz-do-iguacu",
+     "adversario_nome": "Foz do Iguaçu",
+     "mando": "casa",
+     "placar": "5x0",
+     "res": "V",
+     "tecnico_adversario": "Adriano Santos"
+    }
+   ],
+   "aproveitamento": 61.9
+  },
+  "rafael-lacerda": {
+   "nome": "Rafael Lacerda",
+   "jogos": 7,
+   "V": 3,
+   "E": 1,
+   "D": 3,
+   "gp": 7,
+   "gc": 9,
+   "clubes": {
+    "chapecoense": {
+     "nome": "Chapecoense",
+     "jogos": 6,
+     "V": 2,
+     "E": 1,
+     "D": 3
+    },
+    "vitoria": {
+     "nome": "Vitória",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    }
+   },
+   "competicoes": {
+    "copa_do_brasil": {
+     "nome": "Copa do Brasil",
+     "jogos": 2,
+     "V": 0,
+     "E": 1,
+     "D": 1
+    },
     "serie_a": {
      "nome": "Brasileirão Série A",
-     "jogos": 6,
-     "V": 4,
+     "jogos": 5,
+     "V": 3,
      "E": 0,
      "D": 2
     }
    },
    "contra": {
-    "joao-martins": {
-     "nome": "João Martins",
-     "jogos": 1,
+    "artur-jorge": {
+     "nome": "Artur Jorge",
+     "jogos": 2,
      "V": 0,
-     "E": 0,
+     "E": 1,
      "D": 1
     },
-    "abel-ferreira": {
-     "nome": "Abel Ferreira",
+    "dorival-junior": {
+     "nome": "Dorival Júnior",
      "jogos": 1,
      "V": 1,
      "E": 0,
      "D": 0
+    },
+    "luis-castro": {
+     "nome": "Luís Castro",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
     },
     "fernando-diniz": {
      "nome": "Fernando Diniz",
@@ -4720,29 +5951,15 @@
      "E": 0,
      "D": 0
     },
-    "leonardo-jardim": {
-     "nome": "Leonardo Jardim",
+    "rafael-guanaes": {
+     "nome": "Rafael Guanaes",
      "jogos": 1,
      "V": 0,
      "E": 0,
      "D": 1
     },
-    "cuca": {
-     "nome": "Cuca",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "cleber-dos-santos": {
-     "nome": "Cleber dos Santos",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "dorival-junior": {
-     "nome": "Dorival Júnior",
+    "vagner-mancini": {
+     "nome": "Vagner Mancini",
      "jogos": 1,
      "V": 1,
      "E": 0,
@@ -4751,91 +5968,249 @@
    },
    "lista": [
     {
-     "id": 91000154,
+     "id": 91000153,
      "data": "2026-11-19",
      "comp": "serie_a",
-     "clube": "fluminense",
+     "clube": "vitoria",
+     "adversario": "bragantino",
+     "adversario_nome": "Red Bull Bragantino",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Vagner Mancini"
+    },
+    {
+     "id": 91000022,
+     "data": "2026-11-03",
+     "comp": "serie_a",
+     "clube": "chapecoense",
+     "adversario": "mirassol",
+     "adversario_nome": "Mirassol",
+     "mando": "casa",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Rafael Guanaes"
+    },
+    {
+     "id": 91000501,
+     "data": "2026-09-06",
+     "comp": "serie_a",
+     "clube": "chapecoense",
+     "adversario": "corinthians",
+     "adversario_nome": "Corinthians",
+     "mando": "fora",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Fernando Diniz"
+    },
+    {
+     "id": 91000489,
+     "data": "2026-08-30",
+     "comp": "serie_a",
+     "clube": "chapecoense",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
+     "mando": "fora",
+     "placar": "1x3",
+     "res": "D",
+     "tecnico_adversario": "Luís Castro"
+    },
+    {
+     "id": 91000477,
+     "data": "2026-08-23",
+     "comp": "serie_a",
+     "clube": "chapecoense",
      "adversario": "sao-paulo",
      "adversario_nome": "São Paulo",
-     "mando": "fora",
+     "mando": "casa",
      "placar": "1x0",
      "res": "V",
      "tecnico_adversario": "Dorival Júnior"
     },
     {
-     "id": 91000030,
-     "data": "2026-11-06",
+     "id": 91000291,
+     "data": "2026-08-05",
+     "comp": "copa_do_brasil",
+     "clube": "chapecoense",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "fora",
+     "placar": "0x2",
+     "res": "D",
+     "tecnico_adversario": "Artur Jorge"
+    },
+    {
+     "id": 91000290,
+     "data": "2026-08-02",
+     "comp": "copa_do_brasil",
+     "clube": "chapecoense",
+     "adversario": "cruzeiro",
+     "adversario_nome": "Cruzeiro",
+     "mando": "casa",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Artur Jorge"
+    }
+   ],
+   "aproveitamento": 47.6
+  },
+  "luis-castro": {
+   "nome": "Luís Castro",
+   "jogos": 7,
+   "V": 2,
+   "E": 3,
+   "D": 2,
+   "gp": 9,
+   "gc": 8,
+   "clubes": {
+    "gremio": {
+     "nome": "Grêmio",
+     "jogos": 7,
+     "V": 2,
+     "E": 3,
+     "D": 2
+    }
+   },
+   "competicoes": {
+    "copa_do_brasil": {
+     "nome": "Copa do Brasil",
+     "jogos": 2,
+     "V": 1,
+     "E": 1,
+     "D": 0
+    },
+    "gaucho": {
+     "nome": "Campeonato Gaúcho",
+     "jogos": 2,
+     "V": 0,
+     "E": 1,
+     "D": 1
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 3,
+     "V": 1,
+     "E": 1,
+     "D": 1
+    }
+   },
+   "contra": {
+    "paulo-pezzolano": {
+     "nome": "Paulo Pezzolano",
+     "jogos": 4,
+     "V": 1,
+     "E": 2,
+     "D": 1
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "rafael-lacerda": {
+     "nome": "Rafael Lacerda",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "jair-ventura": {
+     "nome": "Jair Ventura",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    }
+   },
+   "lista": [
+    {
+     "id": 91000502,
+     "data": "2026-09-07",
      "comp": "serie_a",
-     "clube": "fluminense",
+     "clube": "gremio",
      "adversario": "vitoria",
      "adversario_nome": "Vitória",
      "mando": "fora",
-     "placar": "3x0",
-     "res": "V",
-     "tecnico_adversario": "Cleber dos Santos"
-    },
-    {
-     "id": 91000086,
-     "data": "2026-10-18",
-     "comp": "serie_a",
-     "clube": "fluminense",
-     "adversario": "santos",
-     "adversario_nome": "Santos",
-     "mando": "casa",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Cuca"
-    },
-    {
-     "id": 91000178,
-     "data": "2026-10-14",
-     "comp": "libertadores",
-     "clube": "fluminense",
-     "adversario": "palmeiras",
-     "adversario_nome": "Palmeiras",
-     "mando": "casa",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "João Martins"
-    },
-    {
-     "id": 91000074,
-     "data": "2026-10-11",
-     "comp": "serie_a",
-     "clube": "fluminense",
-     "adversario": "flamengo",
-     "adversario_nome": "Flamengo",
-     "mando": "fora",
      "placar": "0x1",
      "res": "D",
-     "tecnico_adversario": "Leonardo Jardim"
+     "tecnico_adversario": "Jair Ventura"
     },
     {
-     "id": 91000056,
-     "data": "2026-09-20",
-     "comp": "serie_a",
-     "clube": "fluminense",
-     "adversario": "corinthians",
-     "adversario_nome": "Corinthians",
-     "mando": "fora",
+     "id": 91000313,
+     "data": "2026-09-03",
+     "comp": "copa_do_brasil",
+     "clube": "gremio",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "casa",
      "placar": "3x1",
      "res": "V",
-     "tecnico_adversario": "Fernando Diniz"
+     "tecnico_adversario": "Paulo Pezzolano"
     },
     {
-     "id": 91000395,
-     "data": "2026-08-15",
+     "id": 91000489,
+     "data": "2026-08-30",
      "comp": "serie_a",
-     "clube": "fluminense",
-     "adversario": "palmeiras",
-     "adversario_nome": "Palmeiras",
+     "clube": "gremio",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
      "mando": "casa",
-     "placar": "3x2",
+     "placar": "3x1",
      "res": "V",
-     "tecnico_adversario": "Abel Ferreira"
+     "tecnico_adversario": "Rafael Lacerda"
+    },
+    {
+     "id": 91000312,
+     "data": "2026-08-27",
+     "comp": "copa_do_brasil",
+     "clube": "gremio",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "fora",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Paulo Pezzolano"
+    },
+    {
+     "id": 91000415,
+     "data": "2026-04-05",
+     "comp": "serie_a",
+     "clube": "gremio",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "casa",
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000307,
+     "data": "2026-03-08",
+     "comp": "gaucho",
+     "clube": "gremio",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "fora",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Paulo Pezzolano"
+    },
+    {
+     "id": 91000301,
+     "data": "2026-01-25",
+     "comp": "gaucho",
+     "clube": "gremio",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "fora",
+     "placar": "2x4",
+     "res": "D",
+     "tecnico_adversario": "Paulo Pezzolano"
     }
    ],
-   "aproveitamento": 57.1
+   "aproveitamento": 42.9
   },
   "luizinho-lopes": {
    "nome": "Luizinho Lopes",
@@ -4994,357 +6369,6 @@
     }
    ],
    "aproveitamento": 61.9
-  },
-  "vagner-mancini": {
-   "nome": "Vagner Mancini",
-   "jogos": 7,
-   "V": 4,
-   "E": 1,
-   "D": 2,
-   "gp": 12,
-   "gc": 7,
-   "clubes": {
-    "bragantino": {
-     "nome": "Red Bull Bragantino",
-     "jogos": 7,
-     "V": 4,
-     "E": 1,
-     "D": 2
-    }
-   },
-   "competicoes": {
-    "paulistao_a1_2026": {
-     "nome": "Paulistão A1 2026",
-     "jogos": 3,
-     "V": 1,
-     "E": 1,
-     "D": 1
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 4,
-     "V": 3,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "contra": {
-    "dorival-junior": {
-     "nome": "Dorival Júnior",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "juan-pablo-vojvoda": {
-     "nome": "Juan Pablo Vojvoda",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "hernan-crespo": {
-     "nome": "Hernán Crespo",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "fernando-seabra": {
-     "nome": "Fernando Seabra",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "cuca": {
-     "nome": "Cuca",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "rafael-lacerda": {
-     "nome": "Rafael Lacerda",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "lista": [
-    {
-     "id": 91000153,
-     "data": "2026-11-19",
-     "comp": "serie_a",
-     "clube": "bragantino",
-     "adversario": "vitoria",
-     "adversario_nome": "Vitória",
-     "mando": "fora",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Rafael Lacerda"
-    },
-    {
-     "id": 91000021,
-     "data": "2026-11-02",
-     "comp": "serie_a",
-     "clube": "bragantino",
-     "adversario": "santos",
-     "adversario_nome": "Santos",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Cuca"
-    },
-    {
-     "id": 91000417,
-     "data": "2026-04-19",
-     "comp": "serie_a",
-     "clube": "bragantino",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "casa",
-     "placar": "4x2",
-     "res": "V",
-     "tecnico_adversario": "Léo Condé"
-    },
-    {
-     "id": 91000246,
-     "data": "2026-02-21",
-     "comp": "paulistao_a1_2026",
-     "clube": "bragantino",
-     "adversario": "sao-paulo",
-     "adversario_nome": "São Paulo",
-     "mando": "casa",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Hernán Crespo"
-    },
-    {
-     "id": 91000341,
-     "data": "2026-01-28",
-     "comp": "serie_a",
-     "clube": "bragantino",
-     "adversario": "coritiba",
-     "adversario_nome": "Coritiba",
-     "mando": "fora",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Fernando Seabra"
-    },
-    {
-     "id": 91000245,
-     "data": "2026-01-25",
-     "comp": "paulistao_a1_2026",
-     "clube": "bragantino",
-     "adversario": "santos",
-     "adversario_nome": "Santos",
-     "mando": "fora",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Juan Pablo Vojvoda"
-    },
-    {
-     "id": 91000243,
-     "data": "2026-01-15",
-     "comp": "paulistao_a1_2026",
-     "clube": "bragantino",
-     "adversario": "corinthians",
-     "adversario_nome": "Corinthians",
-     "mando": "casa",
-     "placar": "3x0",
-     "res": "V",
-     "tecnico_adversario": "Dorival Júnior"
-    }
-   ],
-   "aproveitamento": 61.9
-  },
-  "dorival-junior": {
-   "nome": "Dorival Júnior",
-   "jogos": 7,
-   "V": 1,
-   "E": 1,
-   "D": 5,
-   "gp": 4,
-   "gc": 11,
-   "clubes": {
-    "corinthians": {
-     "nome": "Corinthians",
-     "jogos": 2,
-     "V": 0,
-     "E": 0,
-     "D": 2
-    },
-    "sao-paulo": {
-     "nome": "São Paulo",
-     "jogos": 5,
-     "V": 1,
-     "E": 1,
-     "D": 3
-    }
-   },
-   "competicoes": {
-    "paulistao_a1_2026": {
-     "nome": "Paulistão A1 2026",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 6,
-     "V": 1,
-     "E": 1,
-     "D": 4
-    }
-   },
-   "contra": {
-    "vagner-mancini": {
-     "nome": "Vagner Mancini",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "luis-zubeldia": {
-     "nome": "Luis Zubeldía",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "paulo-pezzolano": {
-     "nome": "Paulo Pezzolano",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "rogerio-ceni": {
-     "nome": "Rogério Ceni",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "clarence-seedorf": {
-     "nome": "Clarence Seedorf",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "marcao": {
-     "nome": "Marcão",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "lista": [
-    {
-     "id": 91000154,
-     "data": "2026-11-19",
-     "comp": "serie_a",
-     "clube": "sao-paulo",
-     "adversario": "fluminense",
-     "adversario_nome": "Fluminense",
-     "mando": "casa",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Marcão"
-    },
-    {
-     "id": 91000027,
-     "data": "2026-11-04",
-     "comp": "serie_a",
-     "clube": "sao-paulo",
-     "adversario": "corinthians",
-     "adversario_nome": "Corinthians",
-     "mando": "casa",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Clarence Seedorf"
-    },
-    {
-     "id": 91000014,
-     "data": "2026-10-28",
-     "comp": "serie_a",
-     "clube": "sao-paulo",
-     "adversario": "bahia",
-     "adversario_nome": "Bahia",
-     "mando": "fora",
-     "placar": "2x3",
-     "res": "D",
-     "tecnico_adversario": "Rogério Ceni"
-    },
-    {
-     "id": 91000054,
-     "data": "2026-09-19",
-     "comp": "serie_a",
-     "clube": "sao-paulo",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
-     "mando": "casa",
-     "placar": "1x0",
-     "res": "V",
-     "tecnico_adversario": "Paulo Pezzolano"
-    },
-    {
-     "id": 91000423,
-     "data": "2026-05-31",
-     "comp": "serie_a",
-     "clube": "sao-paulo",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "fora",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Léo Condé"
-    },
-    {
-     "id": 91000394,
-     "data": "2026-04-01",
-     "comp": "serie_a",
-     "clube": "corinthians",
-     "adversario": "fluminense",
-     "adversario_nome": "Fluminense",
-     "mando": "fora",
-     "placar": "1x3",
-     "res": "D",
-     "tecnico_adversario": "Luis Zubeldía"
-    },
-    {
-     "id": 91000243,
-     "data": "2026-01-15",
-     "comp": "paulistao_a1_2026",
-     "clube": "corinthians",
-     "adversario": "bragantino",
-     "adversario_nome": "Red Bull Bragantino",
-     "mando": "fora",
-     "placar": "0x3",
-     "res": "D",
-     "tecnico_adversario": "Vagner Mancini"
-    }
-   ],
-   "aproveitamento": 19.0
   },
   "eduardo-barros": {
    "nome": "Eduardo Barros",
@@ -5671,166 +6695,6 @@
    ],
    "aproveitamento": 44.4
   },
-  "odair-hellmann": {
-   "nome": "Odair Hellmann",
-   "jogos": 6,
-   "V": 3,
-   "E": 1,
-   "D": 2,
-   "gp": 11,
-   "gc": 6,
-   "clubes": {
-    "athletico-pr": {
-     "nome": "Athletico-PR",
-     "jogos": 6,
-     "V": 3,
-     "E": 1,
-     "D": 2
-    }
-   },
-   "competicoes": {
-    "copa_do_brasil": {
-     "nome": "Copa do Brasil",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "paranaense": {
-     "nome": "Campeonato Paranaense",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 4,
-     "V": 2,
-     "E": 0,
-     "D": 2
-    }
-   },
-   "contra": {
-    "eduardo-souza": {
-     "nome": "Eduardo Souza",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "adriano-santos": {
-     "nome": "Adriano Santos",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "fernando-seabra": {
-     "nome": "Fernando Seabra",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "pedro-emanuel": {
-     "nome": "Pedro Emanuel",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "leonardo-jardim": {
-     "nome": "Leonardo Jardim",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "lista": [
-    {
-     "id": 91000148,
-     "data": "2026-11-18",
-     "comp": "serie_a",
-     "clube": "athletico-pr",
-     "adversario": "flamengo",
-     "adversario_nome": "Flamengo",
-     "mando": "fora",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Leonardo Jardim"
-    },
-    {
-     "id": 91000025,
-     "data": "2026-11-04",
-     "comp": "serie_a",
-     "clube": "athletico-pr",
-     "adversario": "vasco",
-     "adversario_nome": "Vasco",
-     "mando": "casa",
-     "placar": "1x3",
-     "res": "D",
-     "tecnico_adversario": "Pedro Emanuel"
-    },
-    {
-     "id": 91000422,
-     "data": "2026-05-24",
-     "comp": "serie_a",
-     "clube": "athletico-pr",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "fora",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Léo Condé"
-    },
-    {
-     "id": 91000205,
-     "data": "2026-04-23",
-     "comp": "copa_do_brasil",
-     "clube": "athletico-pr",
-     "adversario": "atletico-go",
-     "adversario_nome": "Atlético-GO",
-     "mando": "casa",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Eduardo Souza"
-    },
-    {
-     "id": 91000347,
-     "data": "2026-03-22",
-     "comp": "serie_a",
-     "clube": "athletico-pr",
-     "adversario": "coritiba",
-     "adversario_nome": "Coritiba",
-     "mando": "casa",
-     "placar": "2x0",
-     "res": "V",
-     "tecnico_adversario": "Fernando Seabra"
-    },
-    {
-     "id": 91000201,
-     "data": "2026-02-03",
-     "comp": "paranaense",
-     "clube": "athletico-pr",
-     "adversario": "foz-do-iguacu",
-     "adversario_nome": "Foz do Iguaçu",
-     "mando": "casa",
-     "placar": "5x0",
-     "res": "V",
-     "tecnico_adversario": "Adriano Santos"
-    }
-   ],
-   "aproveitamento": 55.6
-  },
   "eduardo-souza": {
    "nome": "Eduardo Souza",
    "jogos": 6,
@@ -5983,6 +6847,159 @@
     }
    ],
    "aproveitamento": 44.4
+  },
+  "fernando-diniz": {
+   "nome": "Fernando Diniz",
+   "jogos": 6,
+   "V": 2,
+   "E": 0,
+   "D": 4,
+   "gp": 9,
+   "gc": 10,
+   "clubes": {
+    "corinthians": {
+     "nome": "Corinthians",
+     "jogos": 6,
+     "V": 2,
+     "E": 0,
+     "D": 4
+    }
+   },
+   "competicoes": {
+    "copa_do_brasil": {
+     "nome": "Copa do Brasil",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 5,
+     "V": 1,
+     "E": 0,
+     "D": 4
+    }
+   },
+   "contra": {
+    "paulo-pezzolano": {
+     "nome": "Paulo Pezzolano",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "fernando-seabra": {
+     "nome": "Fernando Seabra",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "rafael-lacerda": {
+     "nome": "Rafael Lacerda",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "marcao": {
+     "nome": "Marcão",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "eduardo-baptista": {
+     "nome": "Eduardo Baptista",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    }
+   },
+   "lista": [
+    {
+     "id": 91000062,
+     "data": "2026-10-07",
+     "comp": "serie_a",
+     "clube": "corinthians",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Eduardo Baptista"
+    },
+    {
+     "id": 91000056,
+     "data": "2026-09-20",
+     "comp": "serie_a",
+     "clube": "corinthians",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
+     "mando": "casa",
+     "placar": "1x3",
+     "res": "D",
+     "tecnico_adversario": "Marcão"
+    },
+    {
+     "id": 91000501,
+     "data": "2026-09-06",
+     "comp": "serie_a",
+     "clube": "corinthians",
+     "adversario": "chapecoense",
+     "adversario_nome": "Chapecoense",
+     "mando": "casa",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Rafael Lacerda"
+    },
+    {
+     "id": 91000479,
+     "data": "2026-08-23",
+     "comp": "serie_a",
+     "clube": "corinthians",
+     "adversario": "coritiba",
+     "adversario_nome": "Coritiba",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Fernando Seabra"
+    },
+    {
+     "id": 91000311,
+     "data": "2026-08-06",
+     "comp": "copa_do_brasil",
+     "clube": "corinthians",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "casa",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Paulo Pezzolano"
+    },
+    {
+     "id": 91000424,
+     "data": "2026-07-23",
+     "comp": "serie_a",
+     "clube": "corinthians",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "casa",
+     "placar": "3x0",
+     "res": "V",
+     "tecnico_adversario": "Léo Condé"
+    }
+   ],
+   "aproveitamento": 33.3
   },
   "alex-de-souza": {
    "nome": "Alex de Souza",
@@ -6290,6 +7307,152 @@
    ],
    "aproveitamento": 72.2
   },
+  "cuca": {
+   "nome": "Cuca",
+   "jogos": 6,
+   "V": 4,
+   "E": 1,
+   "D": 1,
+   "gp": 10,
+   "gc": 6,
+   "clubes": {
+    "santos": {
+     "nome": "Santos",
+     "jogos": 6,
+     "V": 4,
+     "E": 1,
+     "D": 1
+    }
+   },
+   "competicoes": {
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 6,
+     "V": 4,
+     "E": 1,
+     "D": 1
+    }
+   },
+   "contra": {
+    "leo-conde": {
+     "nome": "Léo Condé",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "rafael-guanaes": {
+     "nome": "Rafael Guanaes",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "paulo-pezzolano": {
+     "nome": "Paulo Pezzolano",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "marcao": {
+     "nome": "Marcão",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "vagner-mancini": {
+     "nome": "Vagner Mancini",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "guila-bossle": {
+     "nome": "Guila Bossle",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    }
+   },
+   "lista": [
+    {
+     "id": 91000146,
+     "data": "2026-11-18",
+     "comp": "serie_a",
+     "clube": "santos",
+     "adversario": "coritiba",
+     "adversario_nome": "Coritiba",
+     "mando": "fora",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Guila Bossle"
+    },
+    {
+     "id": 91000021,
+     "data": "2026-11-02",
+     "comp": "serie_a",
+     "clube": "santos",
+     "adversario": "bragantino",
+     "adversario_nome": "Red Bull Bragantino",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Vagner Mancini"
+    },
+    {
+     "id": 91000086,
+     "data": "2026-10-18",
+     "comp": "serie_a",
+     "clube": "santos",
+     "adversario": "fluminense",
+     "adversario_nome": "Fluminense",
+     "mando": "fora",
+     "placar": "2x1",
+     "res": "V",
+     "tecnico_adversario": "Marcão"
+    },
+    {
+     "id": 91000498,
+     "data": "2026-09-06",
+     "comp": "serie_a",
+     "clube": "santos",
+     "adversario": "internacional",
+     "adversario_nome": "Internacional",
+     "mando": "fora",
+     "placar": "3x2",
+     "res": "V",
+     "tecnico_adversario": "Paulo Pezzolano"
+    },
+    {
+     "id": 91000478,
+     "data": "2026-08-23",
+     "comp": "serie_a",
+     "clube": "santos",
+     "adversario": "mirassol",
+     "adversario_nome": "Mirassol",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Rafael Guanaes"
+    },
+    {
+     "id": 91000414,
+     "data": "2026-04-02",
+     "comp": "serie_a",
+     "clube": "santos",
+     "adversario": "remo",
+     "adversario_nome": "Remo",
+     "mando": "casa",
+     "placar": "2x0",
+     "res": "V",
+     "tecnico_adversario": "Léo Condé"
+    }
+   ],
+   "aproveitamento": 72.2
+  },
   "helio-dos-anjos": {
    "nome": "Hélio dos Anjos",
    "jogos": 6,
@@ -6576,246 +7739,6 @@
     }
    ],
    "aproveitamento": 46.7
-  },
-  "luis-castro": {
-   "nome": "Luís Castro",
-   "jogos": 5,
-   "V": 1,
-   "E": 3,
-   "D": 1,
-   "gp": 6,
-   "gc": 6,
-   "clubes": {
-    "gremio": {
-     "nome": "Grêmio",
-     "jogos": 5,
-     "V": 1,
-     "E": 3,
-     "D": 1
-    }
-   },
-   "competicoes": {
-    "copa_do_brasil": {
-     "nome": "Copa do Brasil",
-     "jogos": 2,
-     "V": 1,
-     "E": 1,
-     "D": 0
-    },
-    "gaucho": {
-     "nome": "Campeonato Gaúcho",
-     "jogos": 2,
-     "V": 0,
-     "E": 1,
-     "D": 1
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    }
-   },
-   "contra": {
-    "paulo-pezzolano": {
-     "nome": "Paulo Pezzolano",
-     "jogos": 4,
-     "V": 1,
-     "E": 2,
-     "D": 1
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    }
-   },
-   "lista": [
-    {
-     "id": 91000313,
-     "data": "2026-09-03",
-     "comp": "copa_do_brasil",
-     "clube": "gremio",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
-     "mando": "casa",
-     "placar": "3x1",
-     "res": "V",
-     "tecnico_adversario": "Paulo Pezzolano"
-    },
-    {
-     "id": 91000312,
-     "data": "2026-08-27",
-     "comp": "copa_do_brasil",
-     "clube": "gremio",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
-     "mando": "fora",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Paulo Pezzolano"
-    },
-    {
-     "id": 91000415,
-     "data": "2026-04-05",
-     "comp": "serie_a",
-     "clube": "gremio",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "casa",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Léo Condé"
-    },
-    {
-     "id": 91000307,
-     "data": "2026-03-08",
-     "comp": "gaucho",
-     "clube": "gremio",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
-     "mando": "fora",
-     "placar": "1x1",
-     "res": "E",
-     "tecnico_adversario": "Paulo Pezzolano"
-    },
-    {
-     "id": 91000301,
-     "data": "2026-01-25",
-     "comp": "gaucho",
-     "clube": "gremio",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
-     "mando": "fora",
-     "placar": "2x4",
-     "res": "D",
-     "tecnico_adversario": "Paulo Pezzolano"
-    }
-   ],
-   "aproveitamento": 40.0
-  },
-  "pedro-emanuel": {
-   "nome": "Pedro Emanuel",
-   "jogos": 5,
-   "V": 4,
-   "E": 0,
-   "D": 1,
-   "gp": 9,
-   "gc": 4,
-   "clubes": {
-    "vasco": {
-     "nome": "Vasco",
-     "jogos": 5,
-     "V": 4,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "competicoes": {
-    "copa_do_brasil": {
-     "nome": "Copa do Brasil",
-     "jogos": 2,
-     "V": 1,
-     "E": 0,
-     "D": 1
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 3,
-     "V": 3,
-     "E": 0,
-     "D": 0
-    }
-   },
-   "contra": {
-    "abel-ferreira": {
-     "nome": "Abel Ferreira",
-     "jogos": 2,
-     "V": 1,
-     "E": 0,
-     "D": 1
-    },
-    "odair-hellmann": {
-     "nome": "Odair Hellmann",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "eduardo-baptista": {
-     "nome": "Eduardo Baptista",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    }
-   },
-   "lista": [
-    {
-     "id": 91000152,
-     "data": "2026-11-19",
-     "comp": "serie_a",
-     "clube": "vasco",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Eduardo Baptista"
-    },
-    {
-     "id": 91000165,
-     "data": "2026-11-14",
-     "comp": "serie_a",
-     "clube": "vasco",
-     "adversario": "chapecoense",
-     "adversario_nome": "Chapecoense",
-     "mando": "fora",
-     "placar": "2x0",
-     "res": "V",
-     "tecnico_adversario": ""
-    },
-    {
-     "id": 91000133,
-     "data": "2026-11-08",
-     "comp": "copa_do_brasil",
-     "clube": "vasco",
-     "adversario": "palmeiras",
-     "adversario_nome": "Palmeiras",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Abel Ferreira"
-    },
-    {
-     "id": 91000025,
-     "data": "2026-11-04",
-     "comp": "serie_a",
-     "clube": "vasco",
-     "adversario": "athletico-pr",
-     "adversario_nome": "Athletico-PR",
-     "mando": "fora",
-     "placar": "3x1",
-     "res": "V",
-     "tecnico_adversario": "Odair Hellmann"
-    },
-    {
-     "id": 91000130,
-     "data": "2026-11-01",
-     "comp": "copa_do_brasil",
-     "clube": "vasco",
-     "adversario": "palmeiras",
-     "adversario_nome": "Palmeiras",
-     "mando": "fora",
-     "placar": "0x1",
-     "res": "D",
-     "tecnico_adversario": "Abel Ferreira"
-    }
-   ],
-   "aproveitamento": 80.0
   },
   "tite": {
    "nome": "Tite",
@@ -7473,145 +8396,30 @@
    ],
    "aproveitamento": 20.0
   },
-  "rafael-lacerda": {
-   "nome": "Rafael Lacerda",
+  "jair-ventura": {
+   "nome": "Jair Ventura",
    "jogos": 4,
    "V": 1,
-   "E": 1,
-   "D": 2,
-   "gp": 3,
-   "gc": 5,
-   "clubes": {
-    "chapecoense": {
-     "nome": "Chapecoense",
-     "jogos": 3,
-     "V": 0,
-     "E": 1,
-     "D": 2
-    },
-    "vitoria": {
-     "nome": "Vitória",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    }
-   },
-   "competicoes": {
-    "copa_do_brasil": {
-     "nome": "Copa do Brasil",
-     "jogos": 2,
-     "V": 0,
-     "E": 1,
-     "D": 1
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 2,
-     "V": 1,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "contra": {
-    "artur-jorge": {
-     "nome": "Artur Jorge",
-     "jogos": 2,
-     "V": 0,
-     "E": 1,
-     "D": 1
-    },
-    "rafael-guanaes": {
-     "nome": "Rafael Guanaes",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "vagner-mancini": {
-     "nome": "Vagner Mancini",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    }
-   },
-   "lista": [
-    {
-     "id": 91000153,
-     "data": "2026-11-19",
-     "comp": "serie_a",
-     "clube": "vitoria",
-     "adversario": "bragantino",
-     "adversario_nome": "Red Bull Bragantino",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Vagner Mancini"
-    },
-    {
-     "id": 91000022,
-     "data": "2026-11-03",
-     "comp": "serie_a",
-     "clube": "chapecoense",
-     "adversario": "mirassol",
-     "adversario_nome": "Mirassol",
-     "mando": "casa",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Rafael Guanaes"
-    },
-    {
-     "id": 91000291,
-     "data": "2026-08-05",
-     "comp": "copa_do_brasil",
-     "clube": "chapecoense",
-     "adversario": "cruzeiro",
-     "adversario_nome": "Cruzeiro",
-     "mando": "fora",
-     "placar": "0x2",
-     "res": "D",
-     "tecnico_adversario": "Artur Jorge"
-    },
-    {
-     "id": 91000290,
-     "data": "2026-08-02",
-     "comp": "copa_do_brasil",
-     "clube": "chapecoense",
-     "adversario": "cruzeiro",
-     "adversario_nome": "Cruzeiro",
-     "mando": "casa",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Artur Jorge"
-    }
-   ],
-   "aproveitamento": 33.3
-  },
-  "fernando-diniz": {
-   "nome": "Fernando Diniz",
-   "jogos": 4,
-   "V": 2,
    "E": 0,
-   "D": 2,
-   "gp": 7,
+   "D": 3,
+   "gp": 3,
    "gc": 6,
    "clubes": {
-    "corinthians": {
-     "nome": "Corinthians",
+    "vitoria": {
+     "nome": "Vitória",
      "jogos": 4,
-     "V": 2,
+     "V": 1,
      "E": 0,
-     "D": 2
+     "D": 3
     }
    },
    "competicoes": {
-    "copa_do_brasil": {
-     "nome": "Copa do Brasil",
+    "baiano": {
+     "nome": "Campeonato Baiano",
      "jogos": 1,
-     "V": 1,
+     "V": 0,
      "E": 0,
-     "D": 0
+     "D": 1
     },
     "serie_a": {
      "nome": "Brasileirão Série A",
@@ -7622,86 +8430,86 @@
     }
    },
    "contra": {
-    "paulo-pezzolano": {
-     "nome": "Paulo Pezzolano",
+    "rogerio-ceni": {
+     "nome": "Rogério Ceni",
      "jogos": 1,
-     "V": 1,
+     "V": 0,
      "E": 0,
-     "D": 0
+     "D": 1
     },
     "leo-conde": {
      "nome": "Léo Condé",
      "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "eduardo-dominguez": {
+     "nome": "Eduardo Dominguez",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "luis-castro": {
+     "nome": "Luís Castro",
+     "jogos": 1,
      "V": 1,
      "E": 0,
      "D": 0
-    },
-    "marcao": {
-     "nome": "Marcão",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "eduardo-baptista": {
-     "nome": "Eduardo Baptista",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
     }
    },
    "lista": [
     {
-     "id": 91000062,
-     "data": "2026-10-07",
+     "id": 91000502,
+     "data": "2026-09-07",
      "comp": "serie_a",
-     "clube": "corinthians",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
+     "clube": "vitoria",
+     "adversario": "gremio",
+     "adversario_nome": "Grêmio",
+     "mando": "casa",
+     "placar": "1x0",
+     "res": "V",
+     "tecnico_adversario": "Luís Castro"
+    },
+    {
+     "id": 91000483,
+     "data": "2026-08-29",
+     "comp": "serie_a",
+     "clube": "vitoria",
+     "adversario": "atletico-mg",
+     "adversario_nome": "Atlético-MG",
      "mando": "fora",
      "placar": "1x2",
      "res": "D",
-     "tecnico_adversario": "Eduardo Baptista"
+     "tecnico_adversario": "Eduardo Dominguez"
     },
     {
-     "id": 91000056,
-     "data": "2026-09-20",
+     "id": 91000425,
+     "data": "2026-07-26",
      "comp": "serie_a",
-     "clube": "corinthians",
-     "adversario": "fluminense",
-     "adversario_nome": "Fluminense",
-     "mando": "casa",
-     "placar": "1x3",
-     "res": "D",
-     "tecnico_adversario": "Marcão"
-    },
-    {
-     "id": 91000311,
-     "data": "2026-08-06",
-     "comp": "copa_do_brasil",
-     "clube": "corinthians",
-     "adversario": "internacional",
-     "adversario_nome": "Internacional",
-     "mando": "casa",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Paulo Pezzolano"
-    },
-    {
-     "id": 91000424,
-     "data": "2026-07-23",
-     "comp": "serie_a",
-     "clube": "corinthians",
+     "clube": "vitoria",
      "adversario": "remo",
      "adversario_nome": "Remo",
-     "mando": "casa",
-     "placar": "3x0",
-     "res": "V",
+     "mando": "fora",
+     "placar": "0x2",
+     "res": "D",
      "tecnico_adversario": "Léo Condé"
+    },
+    {
+     "id": 91000220,
+     "data": "2026-03-07",
+     "comp": "baiano",
+     "clube": "vitoria",
+     "adversario": "bahia",
+     "adversario_nome": "Bahia",
+     "mando": "fora",
+     "placar": "1x2",
+     "res": "D",
+     "tecnico_adversario": "Rogério Ceni"
     }
    ],
-   "aproveitamento": 50.0
+   "aproveitamento": 25.0
   },
   "renato-gaucho": {
    "nome": "Renato Gaúcho",
@@ -7940,20 +8748,20 @@
    ],
    "aproveitamento": 75.0
   },
-  "cuca": {
-   "nome": "Cuca",
+  "clarence-seedorf": {
+   "nome": "Clarence Seedorf",
    "jogos": 4,
-   "V": 3,
-   "E": 0,
+   "V": 2,
+   "E": 1,
    "D": 1,
-   "gp": 6,
+   "gp": 8,
    "gc": 3,
    "clubes": {
-    "santos": {
-     "nome": "Santos",
+    "corinthians": {
+     "nome": "Corinthians",
      "jogos": 4,
-     "V": 3,
-     "E": 0,
+     "V": 2,
+     "E": 1,
      "D": 1
     }
    },
@@ -7961,35 +8769,35 @@
     "serie_a": {
      "nome": "Brasileirão Série A",
      "jogos": 4,
-     "V": 3,
-     "E": 0,
+     "V": 2,
+     "E": 1,
      "D": 1
     }
    },
    "contra": {
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "marcao": {
-     "nome": "Marcão",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "vagner-mancini": {
-     "nome": "Vagner Mancini",
+    "pedro-emanuel": {
+     "nome": "Pedro Emanuel",
      "jogos": 1,
      "V": 0,
      "E": 0,
      "D": 1
     },
-    "guila-bossle": {
-     "nome": "Guila Bossle",
+    "rafael-guanaes": {
+     "nome": "Rafael Guanaes",
+     "jogos": 1,
+     "V": 1,
+     "E": 0,
+     "D": 0
+    },
+    "dorival-junior": {
+     "nome": "Dorival Júnior",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    },
+    "tite": {
+     "nome": "Tite",
      "jogos": 1,
      "V": 1,
      "E": 0,
@@ -7998,55 +8806,55 @@
    },
    "lista": [
     {
-     "id": 91000146,
+     "id": 91000150,
      "data": "2026-11-18",
      "comp": "serie_a",
-     "clube": "santos",
-     "adversario": "coritiba",
-     "adversario_nome": "Coritiba",
-     "mando": "fora",
-     "placar": "1x0",
+     "clube": "corinthians",
+     "adversario": "botafogo",
+     "adversario_nome": "Botafogo",
+     "mando": "casa",
+     "placar": "4x0",
      "res": "V",
-     "tecnico_adversario": "Guila Bossle"
+     "tecnico_adversario": "Tite"
     },
     {
-     "id": 91000021,
-     "data": "2026-11-02",
+     "id": 91000027,
+     "data": "2026-11-04",
      "comp": "serie_a",
-     "clube": "santos",
-     "adversario": "bragantino",
-     "adversario_nome": "Red Bull Bragantino",
+     "clube": "corinthians",
+     "adversario": "sao-paulo",
+     "adversario_nome": "São Paulo",
      "mando": "fora",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Vagner Mancini"
+     "placar": "0x0",
+     "res": "E",
+     "tecnico_adversario": "Dorival Júnior"
     },
     {
-     "id": 91000086,
-     "data": "2026-10-18",
+     "id": 91000020,
+     "data": "2026-10-30",
      "comp": "serie_a",
-     "clube": "santos",
-     "adversario": "fluminense",
-     "adversario_nome": "Fluminense",
-     "mando": "fora",
-     "placar": "2x1",
-     "res": "V",
-     "tecnico_adversario": "Marcão"
-    },
-    {
-     "id": 91000414,
-     "data": "2026-04-02",
-     "comp": "serie_a",
-     "clube": "santos",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
+     "clube": "corinthians",
+     "adversario": "mirassol",
+     "adversario_nome": "Mirassol",
      "mando": "casa",
      "placar": "2x0",
      "res": "V",
-     "tecnico_adversario": "Léo Condé"
+     "tecnico_adversario": "Rafael Guanaes"
+    },
+    {
+     "id": 91000005,
+     "data": "2026-10-24",
+     "comp": "serie_a",
+     "clube": "corinthians",
+     "adversario": "vasco",
+     "adversario_nome": "Vasco",
+     "mando": "fora",
+     "placar": "2x3",
+     "res": "D",
+     "tecnico_adversario": "Pedro Emanuel"
     }
    ],
-   "aproveitamento": 75.0
+   "aproveitamento": 58.3
   },
   "vinicius-bergantin": {
    "nome": "Vinícius Bergantin",
@@ -9037,95 +9845,6 @@
    ],
    "aproveitamento": 55.6
   },
-  "clarence-seedorf": {
-   "nome": "Clarence Seedorf",
-   "jogos": 3,
-   "V": 2,
-   "E": 1,
-   "D": 0,
-   "gp": 6,
-   "gc": 0,
-   "clubes": {
-    "corinthians": {
-     "nome": "Corinthians",
-     "jogos": 3,
-     "V": 2,
-     "E": 1,
-     "D": 0
-    }
-   },
-   "competicoes": {
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 3,
-     "V": 2,
-     "E": 1,
-     "D": 0
-    }
-   },
-   "contra": {
-    "rafael-guanaes": {
-     "nome": "Rafael Guanaes",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    },
-    "dorival-junior": {
-     "nome": "Dorival Júnior",
-     "jogos": 1,
-     "V": 0,
-     "E": 1,
-     "D": 0
-    },
-    "tite": {
-     "nome": "Tite",
-     "jogos": 1,
-     "V": 1,
-     "E": 0,
-     "D": 0
-    }
-   },
-   "lista": [
-    {
-     "id": 91000150,
-     "data": "2026-11-18",
-     "comp": "serie_a",
-     "clube": "corinthians",
-     "adversario": "botafogo",
-     "adversario_nome": "Botafogo",
-     "mando": "casa",
-     "placar": "4x0",
-     "res": "V",
-     "tecnico_adversario": "Tite"
-    },
-    {
-     "id": 91000027,
-     "data": "2026-11-04",
-     "comp": "serie_a",
-     "clube": "corinthians",
-     "adversario": "sao-paulo",
-     "adversario_nome": "São Paulo",
-     "mando": "fora",
-     "placar": "0x0",
-     "res": "E",
-     "tecnico_adversario": "Dorival Júnior"
-    },
-    {
-     "id": 91000020,
-     "data": "2026-10-30",
-     "comp": "serie_a",
-     "clube": "corinthians",
-     "adversario": "mirassol",
-     "adversario_nome": "Mirassol",
-     "mando": "casa",
-     "placar": "2x0",
-     "res": "V",
-     "tecnico_adversario": "Rafael Guanaes"
-    }
-   ],
-   "aproveitamento": 77.8
-  },
   "cauan-de-almeida": {
    "nome": "Cauan de Almeida",
    "jogos": 3,
@@ -9300,83 +10019,6 @@
      "placar": "0x4",
      "res": "D",
      "tecnico_adversario": "Maurício Barbieri"
-    }
-   ],
-   "aproveitamento": 0.0
-  },
-  "jair-ventura": {
-   "nome": "Jair Ventura",
-   "jogos": 2,
-   "V": 0,
-   "E": 0,
-   "D": 2,
-   "gp": 1,
-   "gc": 4,
-   "clubes": {
-    "vitoria": {
-     "nome": "Vitória",
-     "jogos": 2,
-     "V": 0,
-     "E": 0,
-     "D": 2
-    }
-   },
-   "competicoes": {
-    "baiano": {
-     "nome": "Campeonato Baiano",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "serie_a": {
-     "nome": "Brasileirão Série A",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "contra": {
-    "rogerio-ceni": {
-     "nome": "Rogério Ceni",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    },
-    "leo-conde": {
-     "nome": "Léo Condé",
-     "jogos": 1,
-     "V": 0,
-     "E": 0,
-     "D": 1
-    }
-   },
-   "lista": [
-    {
-     "id": 91000425,
-     "data": "2026-07-26",
-     "comp": "serie_a",
-     "clube": "vitoria",
-     "adversario": "remo",
-     "adversario_nome": "Remo",
-     "mando": "fora",
-     "placar": "0x2",
-     "res": "D",
-     "tecnico_adversario": "Léo Condé"
-    },
-    {
-     "id": 91000220,
-     "data": "2026-03-07",
-     "comp": "baiano",
-     "clube": "vitoria",
-     "adversario": "bahia",
-     "adversario_nome": "Bahia",
-     "mando": "fora",
-     "placar": "1x2",
-     "res": "D",
-     "tecnico_adversario": "Rogério Ceni"
     }
    ],
    "aproveitamento": 0.0
@@ -9968,6 +10610,76 @@
     }
    ],
    "aproveitamento": 33.3
+  },
+  "rodrigo-bellao": {
+   "nome": "Rodrigo Bellão",
+   "jogos": 2,
+   "V": 0,
+   "E": 1,
+   "D": 1,
+   "gp": 3,
+   "gc": 4,
+   "clubes": {
+    "botafogo": {
+     "nome": "Botafogo",
+     "jogos": 2,
+     "V": 0,
+     "E": 1,
+     "D": 1
+    }
+   },
+   "competicoes": {
+    "serie_a": {
+     "nome": "Brasileirão Série A",
+     "jogos": 2,
+     "V": 0,
+     "E": 1,
+     "D": 1
+    }
+   },
+   "contra": {
+    "odair-hellmann": {
+     "nome": "Odair Hellmann",
+     "jogos": 1,
+     "V": 0,
+     "E": 0,
+     "D": 1
+    },
+    "vagner-mancini": {
+     "nome": "Vagner Mancini",
+     "jogos": 1,
+     "V": 0,
+     "E": 1,
+     "D": 0
+    }
+   },
+   "lista": [
+    {
+     "id": 91000508,
+     "data": "2026-09-12",
+     "comp": "serie_a",
+     "clube": "botafogo",
+     "adversario": "bragantino",
+     "adversario_nome": "Red Bull Bragantino",
+     "mando": "casa",
+     "placar": "1x1",
+     "res": "E",
+     "tecnico_adversario": "Vagner Mancini"
+    },
+    {
+     "id": 91000482,
+     "data": "2026-08-24",
+     "comp": "serie_a",
+     "clube": "botafogo",
+     "adversario": "athletico-pr",
+     "adversario_nome": "Athletico-PR",
+     "mando": "casa",
+     "placar": "2x3",
+     "res": "D",
+     "tecnico_adversario": "Odair Hellmann"
+    }
+   ],
+   "aproveitamento": 16.7
   },
   "guilherme-bossle": {
    "nome": "Guilherme Bossle",
