@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-23T03:42:00-03:00",
+ "gerado": "2026-11-23T03:50:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -21278,7 +21278,75 @@
      "atualizado": "2026-11-22T10:25:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Odair Hellmann",
+     "time": "Mycael; Arthur Dias, Dantas, Esquivel, Benavídez; Luiz Gustavo, Jadson; Mendoza, Bruno Zapelli, Leozinho; Vargas",
+     "entraram": [
+      {
+       "jogador": "Léo Derick",
+       "saiu": "Esquivel",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rivaldo",
+       "saiu": "Luiz Gustavo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gilberto",
+       "saiu": "Mendoza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipinho",
+       "saiu": "Bruno Zapelli",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Cruz",
+       "saiu": "Vargas",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Thiago Carpini",
+     "time": "Marcelo Rangel; Marcelinho, Tchamba, Zé Ivaldo, Mayk; Zé Welison, Patrick, Edson Fernando; David Braga, Gabriel Taliari, Jajá",
+     "entraram": [
+      {
+       "jogador": "Yago Pikachu",
+       "saiu": "Marcelinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marllon",
+       "saiu": "Mayk",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Ricardo",
+       "saiu": "Patrick",
+       "minuto": ""
+      },
+      {
+       "jogador": "Galeano",
+       "saiu": "Edson Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel Poveda",
+       "saiu": "Jajá",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/remo/remo-perde-para-o-athletico-e-esta-rebaixado-a-serie-b-do-brasileirao-1.1197105",
+     "https://www.gazetaesportiva.com/times/athletico-paranaense/athletico-pr-volta-a-vencer-apos-cinco-jogos-e-rebaixa-o-remo-a-serie-b/"
+    ],
+    "atualizado": "2026-11-23T03:50:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -21374,7 +21442,75 @@
      "atualizado": "2026-11-22T14:26:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Ignácio, Thiago Silva, Renê; Hércules, Nonato, Lucho Acosta; Savarino, Canobbio, Hulk",
+     "entraram": [
+      {
+       "jogador": "Martinelli",
+       "saiu": "Hércules",
+       "minuto": ""
+      },
+      {
+       "jogador": "PH Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kevin Serna",
+       "saiu": "Savarino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Canobbio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Castillo",
+       "saiu": "Hulk",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Guanaes",
+     "time": "Walter; Igor Formiga, João Victor, Lucas Oliveira, Reinaldo; Wallisson, Aldo Filho, Denilson; Eduardo, Alesson, Bruno Santos",
+     "entraram": [
+      {
+       "jogador": "Shaylon",
+       "saiu": "Wallisson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Silva",
+       "saiu": "Denilson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Carlos Eduardo",
+       "saiu": "Eduardo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Cazonatti",
+       "saiu": "Alesson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zé Roberto",
+       "saiu": "Bruno Santos",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.fluminense.com.br/noticia/fluminense-vence-o-mirassol-com-gol-de-riquelme-no-maracana",
+     "https://www.gazetaesportiva.com/times/fluminense/fluminense-x-mirassol-36-rodada-brasileirao-22-11-2026/"
+    ],
+    "atualizado": "2026-11-23T03:50:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -21485,7 +21621,69 @@
      "atualizado": "2026-11-22T14:26:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Ryan Augusto, Alix Vinicius, Gustavo Marques, Juninho Capixaba; Eric Ramires, Fabinho, Lucas Barbosa; Wallace Yan, Mosquera, Eduardo Sasha",
+     "entraram": [
+      {
+       "jogador": "Sant'Anna",
+       "saiu": "Ryan Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel",
+       "saiu": "Eric Ramires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Herrera",
+       "saiu": "Wallace Yan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinicinho",
+       "saiu": "Mosquera",
+       "minuto": ""
+      },
+      {
+       "jogador": "Isidro Pitta",
+       "saiu": "Eduardo Sasha",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Pedro Emanuel",
+     "time": "Léo Jardim; Paulo Henrique, Gabriel Pereira, Robert Renan, Cuiabano; Thiago Mendes, Sosa, Lescano; Andrés Gómez, Colidio, Bruno Duarte",
+     "entraram": [
+      {
+       "jogador": "Puma Rodríguez",
+       "saiu": "Paulo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Brenner",
+       "saiu": "Gabriel Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Piton",
+       "saiu": "Cuiabano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marino Hinestroza",
+       "saiu": "Colidio",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/vasco/vasco-perde-para-o-bragantino-e-ve-vaga-na-libertadores-ficar-distante-no-brasileirao/"
+    ],
+    "atualizado": "2026-11-23T03:50:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
