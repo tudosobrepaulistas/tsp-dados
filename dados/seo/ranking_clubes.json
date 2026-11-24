@@ -1,0 +1,58 @@
+{
+ "_leia": "Conferências da busca 'notícias do <clube>' (ferramentas/ranking.py). posicao null = fora da lista.",
+ "clubes": {
+  "xvdepiracicaba": [
+   {
+    "data": "2026-11-24T20:18-03:00",
+    "busca": "notícias do XV de Piracicaba",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "gazetaesportiva.com",
+     "wikipedia.com",
+     "palmeiras.com.br",
+     "al.sp.gov.br",
+     "repositorio.unesp.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base 24/11; ficha sem títulos"
+   }
+  ],
+  "interdelimeira": [
+   {
+    "data": "2026-11-24T20:18-03:00",
+    "busca": "notícias da Inter de Limeira",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "soccerway.com",
+     "flashscore.com.br",
+     "fotmob.com",
+     "band.com.br",
+     "lance.com.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base 24/11; 4 dias sem matéria; ficha sem fundação, cores, site, Instagram, presidente"
+   }
+  ],
+  "palmeiras": [
+   {
+    "data": "2026-11-24T20:18-03:00",
+    "busca": "notícias do Palmeiras",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "cnnbrasil.com.br",
+     "palmeiras.com.br",
+     "fotmob.com",
+     "exame.com"
+    ],
+    "acoes": [],
+    "obs": "linha de base 24/11; ficha vazia"
+   }
+  ]
+ }
+}
