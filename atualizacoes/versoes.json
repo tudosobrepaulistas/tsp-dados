@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.9.1",
-   "zip": "tsp-nova-era-1.9.1.zip",
-   "notas": "Junta as duas 1.9.0: tabela do Paulistão Feminino leva à página do time feminino; página do jogador com números de 2026 por clube e competição; texto do painel do clube aceita correções conferidas (Lemense = Zulão). Mantém a página do clube no padrão de site oficial (1.8.9)."
+   "versao": "1.9.2",
+   "zip": "tsp-nova-era-1.9.2.zip",
+   "notas": "Bloco \"Outros clubes paulistas\" sem clubes de fora de SP (Cruzeiro, River Plate) e sem marcações que não são clubes (lesão, departamento médico...). Mantém tudo da 1.9.1."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
