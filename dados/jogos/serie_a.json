@@ -17151,22 +17151,43 @@
    "data": "2026-11-24T18:00:00-03:00",
    "casa": "chapecoense",
    "fora": "palmeiras",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Arena Condá",
    "cidade": "Chapecó",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 3,
+   "gols_fora": 0,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Camilo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Max",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Miguel Carvalho",
+     "minuto": "45+",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/",
+    "https://www.metropoles.com/esportes/chapecoense-vence-palmeiras-em-ultimo-jogo-do-brasileirao-na-arena-conda",
+    "https://placar.com.br/brasileirao/chapecoense-castiga-reservas-do-palmeiras-e-vence-na-penultima-rodada-do-brasileirao/"
    ],
-   "atualizado": "2026-11-19T01:54:00-03:00",
+   "atualizado": "2026-11-24T20:11:00-03:00",
    "prejogo": {
     "analise": [
      "Chapecoense e Palmeiras se enfrentam na terça-feira (24/11), às 18h, na Arena Condá, em Chapecó, pela 37ª rodada da Série A. O jogo vale pouco na tabela: o Flamengo garantiu o título brasileiro ao empatar por 1 a 1 com o Palmeiras no sábado (21/11) e abriu seis pontos de vantagem com apenas duas rodadas restantes. O Palmeiras é o vice-líder, com 74 pontos em 36 jogos. A Chapecoense é a lanterna, com 21 pontos em 35 jogos, 19 atrás do Corinthians, o 16º colocado, e já sem chance matemática de deixar a zona de rebaixamento.",

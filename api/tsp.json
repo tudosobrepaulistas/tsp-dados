@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T14:26:00-03:00",
+ "gerado": "2026-11-24T20:11:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -46,12 +46,12 @@
      "id": 900002,
      "nome": "Palmeiras",
      "pts": 74,
-     "j": 36,
+     "j": 37,
      "v": 21,
      "e": 11,
-     "d": 4,
+     "d": 5,
      "gp": 64,
-     "gc": 26
+     "gc": 29
     },
     {
      "id": 900003,
@@ -243,24 +243,16 @@
     {
      "id": 900020,
      "nome": "Chapecoense",
-     "pts": 21,
-     "j": 36,
-     "v": 4,
+     "pts": 24,
+     "j": 37,
+     "v": 5,
      "e": 9,
      "d": 23,
-     "gp": 34,
+     "gp": 37,
      "gc": 74
     }
    ],
    "jogos": [
-    {
-     "id": 91000400,
-     "rodada": "37",
-     "data": "2026-11-24T18:00",
-     "casa": 900020,
-     "fora": 900002,
-     "a_confirmar": false
-    },
     {
      "id": 91000164,
      "rodada": "36",
@@ -1724,6 +1716,12 @@
      900017,
      0,
      2
+    ],
+    [
+     900020,
+     900002,
+     3,
+     0
     ]
    ]
   }
@@ -22874,14 +22872,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/",
+    "https://www.metropoles.com/esportes/chapecoense-vence-palmeiras-em-ultimo-jogo-do-brasileirao-na-arena-conda",
+    "https://placar.com.br/brasileirao/chapecoense-castiga-reservas-do-palmeiras-e-vence-na-penultima-rodada-do-brasileirao/"
    ],
    "fixture": {
     "id": 91000400,
     "timestamp": 1795554000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena Condá",
@@ -22903,8 +22903,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 0
    },
    "penaltis": "",
    "prejogo": {
@@ -22959,21 +22959,57 @@
     }
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 15,
-    "empate": 20,
-    "fora": 65,
-    "placar": "0x2",
-    "gols_esperados": [
-     0.87,
-     2.05
-    ],
-    "base": [
-     24,
-     27
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Camilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 32,
+      "extra": null,
+      "texto": "32"
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Max"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+"
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Miguel Carvalho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -23241,7 +23277,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.76,
-     1.19
+     1.18
     ],
     "base": [
      36,
@@ -23349,7 +23385,7 @@
    "previsao": {
     "casa": 40,
     "empate": 24,
-    "fora": 36,
+    "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
      1.56,
@@ -23465,7 +23501,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.55,
-     1.23
+     1.22
     ],
     "base": [
      33,
@@ -23517,7 +23553,7 @@
    "previsao": {
     "casa": 46,
     "empate": 24,
-    "fora": 31,
+    "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
      1.69,
@@ -50112,14 +50148,14 @@
       900002,
       "Palmeiras",
       74,
-      36,
+      37,
       21,
       11,
-      4,
-      38,
+      5,
+      35,
       "",
       64,
-      26
+      29
      ],
      [
       3,
@@ -50363,14 +50399,14 @@
       20,
       900020,
       "Chapecoense",
-      21,
-      36,
-      4,
+      24,
+      37,
+      5,
       9,
       23,
-      -40,
+      -37,
       "",
-      34,
+      37,
       74
      ]
     ]
@@ -51218,6 +51254,12 @@
     "gols": 1
    },
    {
+    "jogador": "Camilo",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
     "jogador": "Cano",
     "time": "Fluminense",
     "time_id": 900005,
@@ -51614,6 +51656,12 @@
     "gols": 1
    },
    {
+    "jogador": "Max",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
     "jogador": "Maycon",
     "time": "Atlético-MG",
     "time_id": 900006,
@@ -51629,6 +51677,12 @@
     "jogador": "Mendoza",
     "time": "Athletico-PR",
     "time_id": 900004,
+    "gols": 1
+   },
+   {
+    "jogador": "Miguel Carvalho",
+    "time": "Chapecoense",
+    "time_id": 900020,
     "gols": 1
    },
    {
