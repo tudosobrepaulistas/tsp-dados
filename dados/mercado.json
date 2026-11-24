@@ -111,6 +111,14 @@
    "anuncio_do_clube": true,
    "ficha": {
     "clubes_anteriores": [
+     "Athletico-PR (base e profissional)",
+     "Guarani",
+     "Paraná",
+     "Botafogo-SP",
+     "Ponte Preta",
+     "ABC",
+     "Remo",
+     "Capital-DF",
      "Primavera",
      "Caxias"
     ],
@@ -123,14 +131,26 @@
     "fonte": "https://www.instagram.com/ecprimaveraoficial/"
    },
    "id": "2026-11-23-matheus-anjos-primavera",
-   "atualizado": "2026-11-24T01:37:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-matheus-anjos-primavera.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ecprimaveraoficial/",
     "ia": true,
-    "em": "2026-11-24T02:37:00-03:00"
-   }
+    "em": "2026-11-24T03:16:00-03:00"
+   },
+   "nascimento": "1998-12-21",
+   "numeros_2026": {
+    "fonte": "https://www.ogol.com.br/jogador/matheus-anjos/548366",
+    "clubes": [
+     "Primavera",
+     "Caxias"
+    ],
+    "jogos": 18,
+    "minutos": 1024,
+    "gols": 0,
+    "assistencias": 0
+   },
+   "atualizado": "2026-11-24T03:14:00-03:00"
   },
   {
    "data": "2026-11-23",

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T03:11:00-03:00",
+ "gerado": "2026-11-24T03:17:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -5428,26 +5428,34 @@
       "credito": "Montagem com IA (ilustrativa) · TSP",
       "fonte": "https://www.instagram.com/ecprimaveraoficial/",
       "ia": true,
-      "em": "2026-11-24T02:37:00-03:00"
+      "em": "2026-11-24T03:16:00-03:00"
      },
      "novo": true,
      "numeros": {
-      "jogos": 1,
-      "gols": 0,
-      "minutos": 68,
-      "minutos_estimados": false,
-      "clube": "Primavera",
+      "fonte": "https://www.ogol.com.br/jogador/matheus-anjos/548366",
       "clubes": [
-       "Primavera"
+       "Primavera",
+       "Caxias"
       ],
-      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "jogos": 18,
+      "minutos": 1024,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-12-21",
      "de": "Caxias",
      "ficha": {
       "clubes_anteriores": [
+       "Athletico-PR (base e profissional)",
+       "Guarani",
+       "Paraná",
+       "Botafogo-SP",
+       "Ponte Preta",
+       "ABC",
+       "Remo",
+       "Capital-DF",
        "Primavera",
        "Caxias"
       ],
