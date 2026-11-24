@@ -82,3 +82,6 @@ Para cada pessoa nova (ou página com muito "Em atualização"):
 
 ## Home do Mercado da Bola (23/11/2026)
 - Cada divisão mostra primeiro as figurinhas publicadas por último (`foto.em`, gravado pelo `mercado.py figurinha`).
+
+### Trajetória sem buracos (24/11/2026, Thiago)
+Antes de publicar a trajetória de um treinador, compare a lista com pelo menos uma lista pronta (Wikipédia, oGol, Sofascore) só como **pista** do que pode estar faltando. Cada passagem que aparecer lá e não estiver aqui é pesquisada em matérias (ge, Futebol Interior, jornais regionais, site do clube). Entra com 2 fontes; com 1 fonte entra com "1 fonte" no campo obs; sem matéria, não entra. Ex.: Paulo Roberto Santos estava sem XV de Piracicaba (2023-24), ASA (2023), Guarani (2015), Uberlândia (2025) e Manaus (2026).

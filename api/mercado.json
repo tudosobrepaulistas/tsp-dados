@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-23T12:11:00-03:00",
+ "gerado": "2026-11-24T01:46:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -11,6 +11,425 @@
   "promovido": "Subiu da base"
  },
  "itens": [
+  {
+   "id": "2026-11-23-rafael-silva-xv-de-piracicaba",
+   "data": "2026-11-23",
+   "jogador": "Rafael Silva",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Contrato até o fim da Série D 2027",
+   "de": {
+    "nome": "Noroeste",
+    "slug": "",
+    "id": 900085,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/xvpiracicaba/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 1,
+    "gols": 0,
+    "minutos": 22,
+    "minutos_estimados": true,
+    "clube": "Noroeste",
+    "clubes": [
+     "Noroeste"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 31,
+    "idade_em": "2026-11-23",
+    "clubes_anteriores": [
+     "Luverdense",
+     "Vila Nova",
+     "São Bento",
+     "Mirassol",
+     "Juventude",
+     "Paraná",
+     "Marcílio Dias",
+     "ABC",
+     "Remo",
+     "Inter de Limeira",
+     "Tombense",
+     "Noroeste"
+    ],
+    "redes": {
+     "instagram": "rasilva95"
+    }
+   },
+   "comissao": false,
+   "dono": "xvdepiracicaba"
+  },
+  {
+   "id": "2026-11-23-moreira-inter-de-bebedouro",
+   "data": "2026-11-23",
+   "jogador": "Moreira",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo, cria do Red Bull Bragantino",
+   "de": {
+    "nome": "Sertãozinho",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "nome_completo": "Matheus Moreira dos Reis",
+    "idade": 25,
+    "idade_em": "2026-11-23",
+    "clubes_anteriores": [
+     "Red Bull Bragantino (base)",
+     "Mirassol",
+     "Grêmio Prudente",
+     "Sertãozinho"
+    ],
+    "titulos": [
+     "Campeão Amazonense 2022",
+     "Acesso à Série A2 com o Grêmio Prudente (2024)",
+     "Acesso à Série A2 com o Sertãozinho (2025)"
+    ],
+    "redes": {
+     "instagram": "m0reira_23"
+    }
+   },
+   "comissao": false,
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-23-matheus-anjos-primavera",
+   "data": "2026-11-23",
+   "jogador": "Matheus Anjos",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Camisa 10 do Primavera no Paulistão 2026, volta após a Série C pelo Caxias",
+   "de": {
+    "nome": "Caxias",
+    "slug": "",
+    "id": 900079,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Primavera",
+    "slug": "primavera",
+    "id": 900067,
+    "escudo": ""
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/ecprimaveraoficial/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 1,
+    "gols": 0,
+    "minutos": 68,
+    "minutos_estimados": false,
+    "clube": "Primavera",
+    "clubes": [
+     "Primavera"
+    ],
+    "fonte": "Base TSP (fichas técnicas conferidas)",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Primavera",
+     "Caxias"
+    ],
+    "titulos": [
+     "Acesso à Série A1 com o Primavera"
+    ],
+    "redes": {
+     "instagram": "mathanjos"
+    }
+   },
+   "comissao": false,
+   "dono": "primavera"
+  },
+  {
+   "id": "2026-11-23-lua-lucio-paulista",
+   "data": "2026-11-23",
+   "jogador": "Luã Lúcio",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Reforço para a Série A3 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "l.lucio97"
+    }
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
+  },
+  {
+   "id": "2026-11-23-lazaro-paulista",
+   "data": "2026-11-23",
+   "jogador": "Lázaro",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao Paulista depois de 13 anos",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "no_clube": "Volta ao clube 13 anos depois",
+    "redes": {
+     "instagram": "lazaromanga"
+    }
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
+  },
+  {
+   "id": "2026-11-23-cesar-augusto-inter-de-bebedouro",
+   "data": "2026-11-23",
+   "jogador": "César Augusto",
+   "posicao": "Zagueiro",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta do empréstimo ao São João del-Rei (MG)",
+   "de": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 23,
+    "idade_em": "2026-11-23",
+    "clubes_anteriores": [
+     "Inter de Bebedouro",
+     "São João del-Rei"
+    ],
+    "titulos": [
+     "Acesso à Série A3 com a Inter de Bebedouro (2026)",
+     "Acesso à 3ª divisão mineira com o São João del-Rei (2026)"
+    ]
+   },
+   "comissao": false,
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-23-caue-ferreira-inter-de-bebedouro",
+   "data": "2026-11-23",
+   "jogador": "Cauê Ferreira",
+   "posicao": "Lateral",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta do empréstimo ao São João del-Rei (MG), onde também subiu",
+   "de": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Inter de Bebedouro",
+    "slug": "inter-de-bebedouro",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "nome_completo": "Cauê Ferreira da Silva Dias",
+    "clubes_anteriores": [
+     "Inter de Bebedouro",
+     "São João del-Rei"
+    ],
+    "titulos": [
+     "Acesso à Série A3 com a Inter de Bebedouro (2026)",
+     "Acesso à 3ª divisão mineira com o São João del-Rei (2026)"
+    ],
+    "redes": {
+     "instagram": "caue_ferreira03"
+    }
+   },
+   "comissao": false,
+   "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-22-kaio-dos-santos-barretos",
+   "data": "2026-11-22",
+   "jogador": "Kaio dos Santos",
+   "posicao": "",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Renovou para a Série A4 de 2027",
+   "de": {
+    "nome": "Barretos",
+    "slug": "barretos",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Barretos",
+    "slug": "barretos",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-22-kaio-dos-santos-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:23:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "nome_completo": "Kaio dos Santos Rodrigues",
+    "redes": {
+     "instagram": "kai0santos_"
+    }
+   },
+   "comissao": false,
+   "dono": "barretos"
+  },
   {
    "id": "2026-11-21-rodrigo-rocha-sao-bento",
    "data": "2026-11-21",
@@ -797,6 +1216,54 @@
    "dono": "saobento"
   },
   {
+   "id": "2026-11-20-luis-gustavo-paulista",
+   "data": "2026-11-20",
+   "jogador": "Luis Gustavo",
+   "posicao": "Atacante",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Artilheiro do Paulista na Copa Paulista 2026",
+   "de": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Artilheiro do Paulista na Copa Paulista 2026",
+     "tipo": "premio",
+     "fonte": "https://www.instagram.com/paulistafc/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "luisgustavommelo"
+    }
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
+  },
+  {
    "id": "2026-11-20-lucas-martins-sao-bento",
    "data": "2026-11-20",
    "jogador": "Lucas Martins",
@@ -1419,7 +1886,8 @@
    "foto": {},
    "fontes": [
     "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
-    "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/"
+    "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/",
+    "https://www.instagram.com/paulistafc/"
    ],
    "nascimento": "",
    "numeros": {},
@@ -1432,7 +1900,10 @@
     "clubes_anteriores": [
      "Sertãozinho",
      "Marília"
-    ]
+    ],
+    "redes": {
+     "instagram": "vinicios_andrade01"
+    }
    },
    "comissao": false,
    "dono": "paulista-jundiai"
@@ -1635,7 +2106,7 @@
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Volta ao clube",
+   "obs": "Lateral-esquerdo; volta ao Paulista",
    "de": {
     "nome": "",
     "slug": "",
@@ -1653,7 +2124,8 @@
    ],
    "foto": {},
    "fontes": [
-    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
+    "https://www.instagram.com/paulistafc/"
    ],
    "nascimento": "",
    "numeros": {},
@@ -1666,7 +2138,11 @@
     "clubes_anteriores": [
      "Betim",
      "Itabirito"
-    ]
+    ],
+    "no_clube": "Volta ao clube para a Série A3 2027",
+    "redes": {
+     "instagram": "bryangarcia"
+    }
    },
    "comissao": false,
    "dono": "paulista-jundiai"
@@ -1924,7 +2400,7 @@
    "feminino": false,
    "obs": "Último clube: São José",
    "de": {
-    "nome": "",
+    "nome": "São José",
     "slug": "",
     "id": 0,
     "escudo": ""
@@ -1959,9 +2435,67 @@
    ],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "nome_completo": "Guilherme Matheus dos Santos",
+    "idade": 24,
+    "idade_em": "2026-11-19",
+    "clubes_anteriores": [
+     "São Paulo (base)",
+     "Ceará",
+     "Santo André",
+     "São José"
+    ],
+    "titulos": [
+     "Campeão da Copa Paulista 2026 (São José)"
+    ],
+    "redes": {
+     "instagram": "gui.mth"
+    }
+   },
    "comissao": false,
    "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-11-18-gabriel-reis-paulista",
+   "data": "2026-11-18",
+   "jogador": "Gabriel Reis",
+   "posicao": "Zagueiro",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Dois acessos com a camisa do Paulista",
+   "de": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "_gabrielreis02"
+    }
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
   },
   {
    "id": "2026-11-18-deola-inter-de-bebedouro",
@@ -2595,7 +3129,8 @@
    ],
    "foto": {},
    "fontes": [
-    "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista"
+    "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista",
+    "https://www.instagram.com/paulistafc/"
    ],
    "nascimento": "",
    "numeros": {
@@ -2613,7 +3148,14 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "titulos": [
+     "Campeão brasileiro (citado pelo clube)"
+    ],
+    "redes": {
+     "instagram": "lpprincipe"
+    }
+   },
    "comissao": false,
    "dono": "paulista-jundiai"
   },
@@ -2675,6 +3217,48 @@
    },
    "comissao": false,
    "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-joao-salles-paulista",
+   "data": "2026-11-17",
+   "jogador": "João Salles",
+   "posicao": "Lateral",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Segue para a Série A3 2027",
+   "de": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "jvsallesss"
+    }
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
   },
   {
    "id": "2026-11-17-jeferson-lima",
@@ -2753,6 +3337,48 @@
    "dono": "saojose"
   },
   {
+   "id": "2026-11-17-igor-tucao-paulista",
+   "data": "2026-11-17",
+   "jogador": "Igor Tucão",
+   "posicao": "Atacante",
+   "tipo": "promovido",
+   "tipo_nome": "Subiu da base",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Artilheiro do Sub-20 do Paulista, sobe ao profissional",
+   "de": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "igortucao"
+    }
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
+  },
+  {
    "id": "2026-11-17-gustavo-pereira-rio-claro",
    "data": "2026-11-17",
    "jogador": "Gustavo Pereira",
@@ -2803,6 +3429,55 @@
    },
    "comissao": false,
    "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-gabriel-silva-xv-de-piracicaba",
+   "data": "2026-11-17",
+   "jogador": "Gabriel Silva",
+   "posicao": "Preparador físico",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Saiu do Caxias, onde ficou até outubro de 2026",
+   "de": {
+    "nome": "Caxias",
+    "slug": "",
+    "id": 900079,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/xvpiracicaba/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Caxias (base e profissional)",
+     "Juventude (base)",
+     "Caxias"
+    ],
+    "titulos": [
+     "Acesso da Série D à Série C com o Caxias (2023)",
+     "Vice-campeão gaúcho com o Caxias (2023)",
+     "Campeão do Interior gaúcho com o Caxias (2024)"
+    ]
+   },
+   "comissao": true,
+   "dono": "xvdepiracicaba"
   },
   {
    "id": "2026-11-17-chileno-rio-claro",
@@ -3576,7 +4251,8 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/"
+    "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/",
+    "https://www.instagram.com/paulistafc/"
    ],
    "nascimento": "",
    "numeros": {
@@ -3593,7 +4269,11 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "redes": {
+     "instagram": "derickdekao_"
+    }
+   },
    "comissao": false,
    "dono": "paulista-jundiai"
   },
@@ -4690,6 +5370,48 @@
    "dono": "penapolense"
   },
   {
+   "id": "2026-11-12-lucas-vital-paulista",
+   "data": "2026-11-12",
+   "jogador": "Lucas Vital",
+   "posicao": "",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Contrato renovado para a próxima competição",
+   "de": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Paulista",
+    "slug": "paulista-jundiai",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "_vital01"
+    }
+   },
+   "comissao": false,
+   "dono": "paulista-jundiai"
+  },
+  {
    "id": "2026-11-12-lucas-gomes-penapolense",
    "data": "2026-11-12",
    "jogador": "Lucas Gomes",
@@ -4943,6 +5665,59 @@
    "dono": "penapolense"
   },
   {
+   "id": "2026-11-12-gustavo-britto-barretos",
+   "data": "2026-11-12",
+   "jogador": "Gustavo Britto",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Passou pela base do Santos e do Botafogo-SP",
+   "de": {
+    "nome": "José Bonifácio",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Barretos",
+    "slug": "barretos",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-gustavo-britto-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:25:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Santos (base)",
+     "Botafogo-SP",
+     "José Bonifácio"
+    ],
+    "redes": {
+     "instagram": "gubritto_05"
+    }
+   },
+   "comissao": false,
+   "dono": "barretos"
+  },
+  {
    "id": "2026-11-12-fernando-junior-penapolense",
    "data": "2026-11-12",
    "jogador": "Fernando Junior",
@@ -5185,6 +5960,60 @@
    },
    "comissao": false,
    "dono": "marilia"
+  },
+  {
+   "id": "2026-11-11-rogerio-zuin-barretos",
+   "data": "2026-11-11",
+   "jogador": "Rogério Zuin",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito",
+   "de": {
+    "nome": "Capital-TO",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Barretos",
+    "slug": "barretos",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-rogerio-zuin-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:26:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Desportivo Brasil",
+     "Palmeiras",
+     "Athletico-PR",
+     "Capital-TO"
+    ],
+    "redes": {
+     "instagram": "r.zuin04"
+    }
+   },
+   "comissao": false,
+   "dono": "barretos"
   },
   {
    "id": "2026-11-11-matheus-abreu-paulista",
@@ -7816,6 +8645,73 @@
    },
    "comissao": false,
    "dono": "marilia"
+  },
+  {
+   "id": "2026-11-07-kadu-barone-barretos",
+   "data": "2026-11-07",
+   "jogador": "Kadu Barone",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Craque do Paulistão A4 2026, com 8 gols e acesso pela Inter de Bebedouro",
+   "de": {
+    "nome": "Inter de Bebedouro",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Barretos",
+    "slug": "barretos",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-07-kadu-barone-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:30:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Craque do Paulistão A4 2026",
+     "tipo": "premio",
+     "fonte": "https://www.instagram.com/barretosec/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Ituano",
+     "Ferroviário",
+     "Botafogo-SP",
+     "Itabaiana",
+     "Inter de Bebedouro"
+    ],
+    "titulos": [
+     "Campeão da Série C pelo Ituano (2021)",
+     "Campeão da Série D pelo Ferroviário (2023)",
+     "Acessos com Botafogo-SP e Itabaiana",
+     "Acesso à Série A3 com a Inter de Bebedouro (2026)"
+    ],
+    "redes": {
+     "instagram": "kadu_barone"
+    }
+   },
+   "comissao": false,
+   "dono": "barretos"
   },
   {
    "id": "2026-11-07-henrique-guedes-marilia",
@@ -12456,6 +13352,58 @@
    "dono": "vocem"
   },
   {
+   "id": "2026-10-29-kauan-vinicius-barretos",
+   "data": "2026-10-29",
+   "jogador": "Kauan Vinícius",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Disputou a A3 de 2024 e 2025 pelo Desportivo Brasil",
+   "de": {
+    "nome": "Caldense",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Barretos",
+    "slug": "barretos",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-29-kauan-vinicius-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:32:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Desportivo Brasil",
+     "Caldense"
+    ],
+    "redes": {
+     "instagram": "kauan_vini5"
+    }
+   },
+   "comissao": false,
+   "dono": "barretos"
+  },
+  {
    "id": "2026-10-29-gabriel-almeida-lemense",
    "data": "2026-10-29",
    "jogador": "Gabriel Almeida",
@@ -12974,6 +13922,57 @@
    "dono": "santoandre"
   },
   {
+   "id": "2026-10-27-elio-sizenando-capivariano",
+   "data": "2026-10-27",
+   "jogador": "Élio Sizenando",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao Capivariano; 109 jogos no comando do profissional desde 2017",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Capivariano",
+    "slug": "capivariano",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/capivariano/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Capivariano (base)",
+     "Capivariano"
+    ],
+    "titulos": [
+     "Campeão do Paulistão A3 2023 (Capivariano)",
+     "Campeão do Paulistão A2 2025 (Capivariano)",
+     "Vice-campeão paulista Sub-20 2016 (Capivariano)"
+    ],
+    "redes": {
+     "instagram": "eliosizenando"
+    }
+   },
+   "comissao": true,
+   "dono": "capivariano"
+  },
+  {
    "id": "2026-10-27-anderson-ligeiro-santo-andre",
    "data": "2026-10-27",
    "jogador": "Anderson Ligeiro",
@@ -13028,10 +14027,10 @@
    "feminino": false,
    "obs": "22 anos, com passagens por Avaí e Atlético Tubarão",
    "de": {
-    "nome": "",
+    "nome": "Atlético Tubarão",
     "slug": "",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
    },
    "para": {
     "nome": "Barretos",
@@ -13044,14 +14043,23 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/",
+    "https://www.instagram.com/barretosec/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "clubes_anteriores": [
+     "Avaí",
+     "Atlético Tubarão"
+    ],
+    "redes": {
+     "instagram": "viniciusmarques_04"
+    }
+   },
    "comissao": false,
    "dono": "barretos"
   },
@@ -13080,9 +14088,16 @@
    "blocos": [
     "d4"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-26-levy-moreira-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:34:00-03:00"
+   },
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/",
+    "https://www.instagram.com/barretosec/"
    ],
    "nascimento": "2005-03-05",
    "numeros": {
@@ -13100,7 +14115,16 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 21,
+    "idade_em": "2026-10-24",
+    "clubes_anteriores": [
+     "Manaus (base)",
+     "Manaus",
+     "Fast Clube",
+     "Princesa do Solimões"
+    ]
+   },
    "comissao": false,
    "dono": "barretos"
   },
@@ -13129,9 +14153,16 @@
    "blocos": [
     "d4"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-26-junnior-batata-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:38:00-03:00"
+   },
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/",
+    "https://www.instagram.com/barretosec/"
    ],
    "nascimento": "1991-08-09",
    "numeros": {
@@ -13147,7 +14178,18 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "no_clube": "Volta ao clube, onde jogou em 2018, 2021 e 2023",
+    "clubes_anteriores": [
+     "Gama",
+     "Moto Club",
+     "Sousa",
+     "Rio Preto"
+    ],
+    "redes": {
+     "instagram": "junniorbatata09oficial"
+    }
+   },
    "comissao": false,
    "dono": "barretos"
   },
@@ -13204,6 +14246,20 @@
     },
     {
      "temporada": "2026",
+     "clube": "Manaus",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/rei-do-acesso-manaus/"
+     ],
+     "obs": "Oficializado em 13/04/2026 para a Série D, no lugar de Dico Woolley (1 fonte: Futebol Interior); números em atualização",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/manaus.png"
+    },
+    {
+     "temporada": "2026",
      "clube": "Votuporanguense",
      "funcao": "Treinador",
      "jogos": "",
@@ -13215,6 +14271,20 @@
      ],
      "obs": "1 fonte (DGABC, 09/01/2026, provável escalação na A2); saída e números em atualização",
      "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
+    },
+    {
+     "temporada": "2025",
+     "clube": "Uberlândia",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/uberlandia-mg/uberlandia-no-mineiro-2025-elenco-e-expectativas-do-clube-para-a-competicao/"
+     ],
+     "obs": "Comandou o Uberlândia no Mineiro 2025 (1 fonte: Itatiaia); números em atualização",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/uberlandia.png"
     },
     {
      "temporada": "2024",
@@ -13231,6 +14301,38 @@
      ],
      "obs": "Contratado para a Série D 2024 (CB, 02/04/2024); pediu demissão no intervalo do 3º jogo, contra o Real Brasília, em 12/05/2024. Números: só 1 fonte (Jovem Pan: 1V 1D antes do 3º jogo), não gravados",
      "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/brasiliense.png"
+    },
+    {
+     "temporada": "2023-2024",
+     "clube": "XV de Piracicaba",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/exclusivo-paulo-roberto-santos-e-o-novo-tecnico-do-xv-de-piracicaba/",
+      "https://xvpiracicaba.com.br/noticias/paulo-roberto-santos-e-anunciado-e-apresentado-como-novo-tecnico-do-xv/",
+      "https://sampi.net.br/piracicaba/noticias/2799433/esportes/2023/11/elenco-do-xv-se-reapresenta-e-inicia-pretemporada",
+      "https://www.futebolinterior.com.br/paulista-a2-tecnico-engata-3a-vitoria-seguida-e-7-jogos-invicto-no-xv-de-piracicaba/",
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/"
+     ],
+     "obs": "Anunciado em junho de 2023 (Série D), no lugar de Cléber Gaúcho, com contrato até o fim do Paulista A2 2024; comandou o XV na A2 2024. Foi o último clube antes do Brasiliense (Correio Braziliense, 02/04/2024)"
+    },
+    {
+     "temporada": "2023",
+     "clube": "ASA",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.tribunadosertao.com.br/esportes/2023/05/03/498626-asa-regulariza-100-de-atletas-e-comissao-tecnica-para-estreia-no-brasileiro-da-serie-d",
+      "https://www.futebolinterior.com.br/exclusivo-paulo-roberto-santos-e-o-novo-tecnico-do-xv-de-piracicaba/"
+     ],
+     "obs": "Série D 2023; saiu após a quarta derrota seguida (Futebol Interior)",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/asa.png"
     },
     {
      "temporada": "2022",
@@ -13352,6 +14454,19 @@
      "vitorias": "",
      "empates": "",
      "derrotas": ""
+    },
+    {
+     "temporada": "2015",
+     "clube": "Guarani",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=878771"
+     ],
+     "obs": "Assumiu na Série C 2015 no lugar de Ademir Fonseca (Gazeta Esportiva); saída em agosto de 2015"
     },
     {
      "temporada": "2014",
@@ -13577,7 +14692,9 @@
      "XV de Piracicaba",
      "Uberlândia",
      "Brasiliense",
-     "Votuporanguense"
+     "Votuporanguense",
+     "ASA",
+     "Manaus"
     ],
     "fontes": [
      "https://abcdoabc.com.br/paulo-roberto-fala-de-suas-expectativas-do-jogo-contra-o-sao-paulo/",
@@ -13604,7 +14721,15 @@
      "https://www.gazetaesportiva.com/?p=2700288",
      "https://www.gazetaesportiva.com/?p=3253510",
      "https://www.gazetaesportiva.com/campeonatos/paulista-a2/apos-empate-na-ida-portuguesa-e-sao-bento-decidem-o-titulo-da-serie-a2-do-paulista/",
-     "https://www.opovo.com.br/esportes/futebol/2018/07/paulo-roberto-e-apresentado-no-sampaio-e-afirma-situacao-e-reversive.html"
+     "https://www.opovo.com.br/esportes/futebol/2018/07/paulo-roberto-e-apresentado-no-sampaio-e-afirma-situacao-e-reversive.html",
+     "https://www.futebolinterior.com.br/rei-do-acesso-manaus/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/uberlandia-mg/uberlandia-no-mineiro-2025-elenco-e-expectativas-do-clube-para-a-competicao/",
+     "https://www.futebolinterior.com.br/exclusivo-paulo-roberto-santos-e-o-novo-tecnico-do-xv-de-piracicaba/",
+     "https://xvpiracicaba.com.br/noticias/paulo-roberto-santos-e-anunciado-e-apresentado-como-novo-tecnico-do-xv/",
+     "https://sampi.net.br/piracicaba/noticias/2799433/esportes/2023/11/elenco-do-xv-se-reapresenta-e-inicia-pretemporada",
+     "https://www.futebolinterior.com.br/paulista-a2-tecnico-engata-3a-vitoria-seguida-e-7-jogos-invicto-no-xv-de-piracicaba/",
+     "https://www.tribunadosertao.com.br/esportes/2023/05/03/498626-asa-regulariza-100-de-atletas-e-comissao-tecnica-para-estreia-no-brasileiro-da-serie-d",
+     "https://www.gazetaesportiva.com/?p=878771"
     ],
     "estilo": "Na apresentação no Sampaio Corrêa (31/07/2018), Paulo Roberto Santos disse: \"Nossa intenção é ter uma equipe que marque forte e faça uma transição rápida para o ataque\" (O Povo). Na campanha do acesso à Série B de 2017, a Trivela (Leandro Stein, 25/09/2017) apontou \"a defesa fortíssima\" do São Bento como a marca do trabalho dele. Em entrevista ao Correio Braziliense (03/10/2017), citou como inspirações José Mourinho, Pep Guardiola e Tite, e chamou Vanderlei Luxemburgo de \"uma referência na parte tática\"."
    },
@@ -14008,9 +15133,16 @@
    "blocos": [
     "d4"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-10-edson-paulista-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:42:00-03:00"
+   },
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/"
+    "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/",
+    "https://www.instagram.com/barretosec/"
    ],
    "nascimento": "",
    "numeros": {},
@@ -14056,7 +15188,10 @@
     "fontes": [
      "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/",
      "https://www.futebolinterior.com.br/edson-paulista-oficializado-barretos/"
-    ]
+    ],
+    "redes": {
+     "instagram": "edson_paulista_"
+    }
    },
    "comissao": true,
    "dono": "barretos"

@@ -9543,7 +9543,9 @@
      "XV de Piracicaba",
      "Uberlândia",
      "Brasiliense",
-     "Votuporanguense"
+     "Votuporanguense",
+     "ASA",
+     "Manaus"
     ],
     "fonte": "https://www.futebolinterior.com.br/uniao-sao-joao-anuncia-tecnico-paulo-roberto-santos-2027/",
     "fontes": [
@@ -9571,7 +9573,15 @@
      "https://www.gazetaesportiva.com/?p=2700288",
      "https://www.gazetaesportiva.com/?p=3253510",
      "https://www.gazetaesportiva.com/campeonatos/paulista-a2/apos-empate-na-ida-portuguesa-e-sao-bento-decidem-o-titulo-da-serie-a2-do-paulista/",
-     "https://www.opovo.com.br/esportes/futebol/2018/07/paulo-roberto-e-apresentado-no-sampaio-e-afirma-situacao-e-reversive.html"
+     "https://www.opovo.com.br/esportes/futebol/2018/07/paulo-roberto-e-apresentado-no-sampaio-e-afirma-situacao-e-reversive.html",
+     "https://www.futebolinterior.com.br/rei-do-acesso-manaus/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/uberlandia-mg/uberlandia-no-mineiro-2025-elenco-e-expectativas-do-clube-para-a-competicao/",
+     "https://www.futebolinterior.com.br/exclusivo-paulo-roberto-santos-e-o-novo-tecnico-do-xv-de-piracicaba/",
+     "https://xvpiracicaba.com.br/noticias/paulo-roberto-santos-e-anunciado-e-apresentado-como-novo-tecnico-do-xv/",
+     "https://sampi.net.br/piracicaba/noticias/2799433/esportes/2023/11/elenco-do-xv-se-reapresenta-e-inicia-pretemporada",
+     "https://www.futebolinterior.com.br/paulista-a2-tecnico-engata-3a-vitoria-seguida-e-7-jogos-invicto-no-xv-de-piracicaba/",
+     "https://www.tribunadosertao.com.br/esportes/2023/05/03/498626-asa-regulariza-100-de-atletas-e-comissao-tecnica-para-estreia-no-brasileiro-da-serie-d",
+     "https://www.gazetaesportiva.com/?p=878771"
     ],
     "estilo": "Na apresentação no Sampaio Corrêa (31/07/2018), Paulo Roberto Santos disse: \"Nossa intenção é ter uma equipe que marque forte e faça uma transição rápida para o ataque\" (O Povo). Na campanha do acesso à Série B de 2017, a Trivela (Leandro Stein, 25/09/2017) apontou \"a defesa fortíssima\" do São Bento como a marca do trabalho dele. Em entrevista ao Correio Braziliense (03/10/2017), citou como inspirações José Mourinho, Pep Guardiola e Tite, e chamou Vanderlei Luxemburgo de \"uma referência na parte tática\"."
    },
@@ -9590,6 +9600,19 @@
     },
     {
      "temporada": "2026",
+     "clube": "Manaus",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/rei-do-acesso-manaus/"
+     ],
+     "obs": "Oficializado em 13/04/2026 para a Série D, no lugar de Dico Woolley (1 fonte: Futebol Interior); números em atualização"
+    },
+    {
+     "temporada": "2026",
      "clube": "Votuporanguense",
      "funcao": "Treinador",
      "jogos": "",
@@ -9600,6 +9623,19 @@
       "https://www.dgabc.com.br/Noticia/4278643/votuporanguense-x-agua-santa-onde-assistir-e-provaveis-escalacoes"
      ],
      "obs": "1 fonte (DGABC, 09/01/2026, provável escalação na A2); saída e números em atualização"
+    },
+    {
+     "temporada": "2025",
+     "clube": "Uberlândia",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/uberlandia-mg/uberlandia-no-mineiro-2025-elenco-e-expectativas-do-clube-para-a-competicao/"
+     ],
+     "obs": "Comandou o Uberlândia no Mineiro 2025 (1 fonte: Itatiaia); números em atualização"
     },
     {
      "temporada": "2024",
@@ -9615,6 +9651,37 @@
       "https://diariodopara.com.br/bola/medico-comanda-vitoria-do-brasiliense-apos-saida-de-tecnico/"
      ],
      "obs": "Contratado para a Série D 2024 (CB, 02/04/2024); pediu demissão no intervalo do 3º jogo, contra o Real Brasília, em 12/05/2024. Números: só 1 fonte (Jovem Pan: 1V 1D antes do 3º jogo), não gravados"
+    },
+    {
+     "temporada": "2023-2024",
+     "clube": "XV de Piracicaba",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/exclusivo-paulo-roberto-santos-e-o-novo-tecnico-do-xv-de-piracicaba/",
+      "https://xvpiracicaba.com.br/noticias/paulo-roberto-santos-e-anunciado-e-apresentado-como-novo-tecnico-do-xv/",
+      "https://sampi.net.br/piracicaba/noticias/2799433/esportes/2023/11/elenco-do-xv-se-reapresenta-e-inicia-pretemporada",
+      "https://www.futebolinterior.com.br/paulista-a2-tecnico-engata-3a-vitoria-seguida-e-7-jogos-invicto-no-xv-de-piracicaba/",
+      "https://blogs.correiobraziliense.com.br/dribledecorpo/paulo-roberto-santos-e-o-tecnico-do-brasiliense-para-a-serie-d-do-brasileirao/"
+     ],
+     "obs": "Anunciado em junho de 2023 (Série D), no lugar de Cléber Gaúcho, com contrato até o fim do Paulista A2 2024; comandou o XV na A2 2024. Foi o último clube antes do Brasiliense (Correio Braziliense, 02/04/2024)"
+    },
+    {
+     "temporada": "2023",
+     "clube": "ASA",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.tribunadosertao.com.br/esportes/2023/05/03/498626-asa-regulariza-100-de-atletas-e-comissao-tecnica-para-estreia-no-brasileiro-da-serie-d",
+      "https://www.futebolinterior.com.br/exclusivo-paulo-roberto-santos-e-o-novo-tecnico-do-xv-de-piracicaba/"
+     ],
+     "obs": "Série D 2023; saiu após a quarta derrota seguida (Futebol Interior)"
     },
     {
      "temporada": "2022",
@@ -9733,6 +9800,19 @@
      "vitorias": "",
      "empates": "",
      "derrotas": ""
+    },
+    {
+     "temporada": "2015",
+     "clube": "Guarani",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=878771"
+     ],
+     "obs": "Assumiu na Série C 2015 no lugar de Ademir Fonseca (Gazeta Esportiva); saída em agosto de 2015"
     },
     {
      "temporada": "2014",
@@ -10247,7 +10327,14 @@
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/",
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-10-edson-paulista-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:42:00-03:00"
+   }
   },
   {
    "data": "2026-10-09",
