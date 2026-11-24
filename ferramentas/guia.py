@@ -8,7 +8,7 @@ from pathlib import Path
 R = Path(__file__).resolve().parent.parent
 BASE, API = R / "dados/guia_clubes.json", R / "api/guia_clubes.json"
 CAMPOS = ["cidade", "estadio", "capacidade", "fundacao", "apelidos", "mascote", "cores", "rival", "classico", "titulos",
-          "campeonatos_2027", "site", "instagram", "youtube", "presidente", "fontes"]
+          "campeonatos_2027", "site", "instagram", "youtube", "presidente", "descricao_troca", "fontes"]
 
 def ler():
     return json.loads(BASE.read_text()) if BASE.exists() else {"clubes": {}}

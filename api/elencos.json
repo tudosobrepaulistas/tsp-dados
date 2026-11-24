@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T03:17:00-03:00",
+ "gerado": "2026-11-24T03:41:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -5441,6 +5441,55 @@
       "minutos": 1024,
       "gols": 0,
       "assistencias": 0,
+      "por_clube": [
+       {
+        "clube": "Primavera",
+        "jogos": 9,
+        "minutos": 645,
+        "gols": 0,
+        "assistencias": 0,
+        "competicoes": [
+         {
+          "nome": "Paulistão A1",
+          "jogos": 8,
+          "minutos": 580,
+          "gols": 0,
+          "assistencias": 0
+         },
+         {
+          "nome": "Copa do Brasil",
+          "jogos": 1,
+          "minutos": 65,
+          "gols": 0,
+          "assistencias": 0
+         }
+        ]
+       },
+       {
+        "clube": "Caxias",
+        "jogos": 9,
+        "minutos": 379,
+        "gols": 0,
+        "assistencias": 0,
+        "obs": "emprestado pelo Primavera",
+        "competicoes": [
+         {
+          "nome": "Série C",
+          "jogos": 6,
+          "minutos": 264,
+          "gols": 0,
+          "assistencias": 0
+         },
+         {
+          "nome": "Copa Sul-Sudeste",
+          "jogos": 3,
+          "minutos": 115,
+          "gols": 0,
+          "assistencias": 0
+         }
+        ]
+       }
+      ],
       "escudos": {}
      },
      "selos": [],

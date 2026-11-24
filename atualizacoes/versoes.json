@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-24T01:50-03:00",
+ "gerado": "2026-11-24T03:55-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.9.0",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.8.9",
-   "zip": "tsp-nova-era-1.8.9.zip",
-   "notas": "Página do clube no padrão de site oficial: menu fixo (Notícias, Jogos e tabela, Elenco, Mercado, Estatísticas, Vídeos, O Clube, Estádio, Títulos, Diretoria, Redes oficiais, Perguntas) e bloco institucional com cartões; sai a \"Resposta rápida\" do topo."
+   "versao": "1.9.0",
+   "zip": "tsp-nova-era-1.9.0.zip",
+   "notas": "Mantém tudo da 1.8.9 (página do clube no padrão de site oficial). Página do jogador: números de 2026 destrinchados por clube e competição (jogos, minutos, gols e assistências). Página do clube: o texto do painel aceita correções conferidas no repositório (ex.: apelido do Lemense é Zulão)."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
