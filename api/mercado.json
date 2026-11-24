@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T02:40:00-03:00",
+ "gerado": "2026-11-24T02:55:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -111,7 +111,13 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-moreira-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true,
+    "em": "2026-11-24T02:43:00-03:00"
+   },
    "fontes": [
     "https://www.instagram.com/interbebedourooficial/"
    ],
@@ -233,7 +239,13 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-lua-lucio-paulista.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/paulistafc/",
+    "ia": true,
+    "em": "2026-11-24T02:49:00-03:00"
+   },
    "fontes": [
     "https://www.instagram.com/paulistafc/"
    ],
@@ -275,7 +287,13 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-lazaro-paulista.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/paulistafc/",
+    "ia": true,
+    "em": "2026-11-24T02:51:00-03:00"
+   },
    "fontes": [
     "https://www.instagram.com/paulistafc/"
    ],
@@ -318,7 +336,13 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-cesar-augusto-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true,
+    "em": "2026-11-24T02:48:00-03:00"
+   },
    "fontes": [
     "https://www.instagram.com/interbebedourooficial/"
    ],
@@ -367,7 +391,13 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-caue-ferreira-inter-de-bebedouro.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/interbebedourooficial/",
+    "ia": true,
+    "em": "2026-11-24T02:45:00-03:00"
+   },
    "fontes": [
     "https://www.instagram.com/interbebedourooficial/"
    ],
@@ -1252,7 +1282,13 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-luis-gustavo-paulista.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/paulistafc/",
+    "ia": true,
+    "em": "2026-11-24T02:52:00-03:00"
+   },
    "fontes": [
     "https://www.instagram.com/paulistafc/"
    ],
@@ -1928,7 +1964,13 @@
    "blocos": [
     "d3"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-19-vinicios-andrade-paulista.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/paulistafc/",
+    "ia": true,
+    "em": "2026-11-24T02:55:00-03:00"
+   },
    "fontes": [
     "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
     "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/",
