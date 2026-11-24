@@ -352,9 +352,7 @@ def cmd_publicar_rascunhos(a):
         if not i.get("rascunho") or i.get("publish_at", "") < lim or i.get("rascunho_solto"):
             continue
         cl = i.get("clube", "")
-        if cl not in cache:
-            cache[cl] = foto_de_arquivo(cl)
-        fa = cache[cl]
+        fa = foto_de_arquivo(cl)  # 24/11: uma foto diferente para cada matéria
         if not fa:
             print(f"- sem foto de arquivo: {cl} | {i.get('titulo', '')[:70]}")
             continue
@@ -541,34 +539,60 @@ def adicionar_versao(it):
     print(f"OK: versão de {it['clube']} da matéria {it['versao_de']} na fila ({nome}). Commit, push e avisar-site.")
 
 
-def foto_de_arquivo(slug):
-    """24/11/2026: matéria sem foto conferida não fica mais presa como rascunho. Usa a foto mais recente de outra matéria
-    do mesmo clube no site, com o crédito da legenda (fotógrafo/clube). Pula reprodução de vídeo, arte e imagem gerada."""
+FOTOS_USADAS = M / "fotos_usadas.json"
+
+
+def fotos_usadas():
+    try:
+        return json.loads(FOTOS_USADAS.read_text())
+    except Exception:  # noqa: BLE001
+        return {}
+
+
+def foto_de_arquivo(slug, marcar=True):
+    """24/11/2026: matéria sem foto conferida não fica mais presa como rascunho. Usa a foto de outra matéria do mesmo clube,
+    com o crédito da legenda. Pula reprodução de vídeo, arte e imagem gerada.
+    Correção 24/11 (Thiago: "três fotos repetidas e que não conecta com a matéria"):
+      - só vale matéria marcada SÓ com esse clube, e a foto tem de ter sido enviada para aquela matéria (original);
+      - a legenda não pode citar outro clube;
+      - nunca repete: cada foto usada fica em maquina/fotos_usadas.json e não volta a ser escolhida."""
     import html as _h
     tid = termos().get(slug)
     if not tid:
         return None
-    try:
-        ms = baixar(f"{SITE}materia?times={tid}&per_page=20&_fields=id,featured_media,link")
-    except Exception:  # noqa: BLE001
-        return None
-    for x in ms:
-        if not x.get("featured_media"):
-            continue
+    usadas = fotos_usadas()
+    nome = ((achar_clube(slug) or {}).get("nome") or slug).lower()
+    outros = [x["nome"].lower() for x in clubes()["clubes"] if x.get("slug") != slug and len(x.get("nome", "")) > 4 and x["nome"].lower() not in nome]
+    for pg in (1, 2, 3):
         try:
-            md = baixar(f"{SITE}media/{x['featured_media']}?_fields=source_url,caption,alt_text,media_details")
+            ms = baixar(f"{SITE}materia?times={tid}&per_page=30&page={pg}&_fields=id,featured_media,link,times")
         except Exception:  # noqa: BLE001
-            continue
-        url = md.get("source_url", "")
-        cap = _h.unescape(re.sub(r"<[^>]+>", "", (md.get("caption") or {}).get("rendered", ""))).strip()
-        w = int((md.get("media_details") or {}).get("width") or 0)
-        if not url or w < 900 or not cap or re.search(r"chatgpt|dall-?e|gemini|midjourney|\bia\b|arte|card", url + " " + cap, re.I):
-            continue
-        if re.search(r"reprodu[cç][aã]o|youtube|instagram", cap, re.I):
-            continue
-        cred = cap if cap.lower().startswith("foto") else "Foto: " + cap.rstrip(".")
-        return {"url": url, "credito": cred, "fonte": x.get("link", ""), "alt": md.get("alt_text") or f"Foto de arquivo do clube ({cred})",
-                "mostra": f"Foto de arquivo do clube usada em outra matéria do TSP ({cred})", "arquivo": True}
+            break
+        for x in ms:
+            if not x.get("featured_media") or list(x.get("times") or []) != [tid]:
+                continue
+            try:
+                md = baixar(f"{SITE}media/{x['featured_media']}?_fields=source_url,caption,alt_text,media_details,post")
+            except Exception:  # noqa: BLE001
+                continue
+            url = md.get("source_url", "")
+            if not url or url in usadas or md.get("post") != x["id"]:
+                continue
+            cap = _h.unescape(re.sub(r"<[^>]+>", "", (md.get("caption") or {}).get("rendered", ""))).strip()
+            w = int((md.get("media_details") or {}).get("width") or 0)
+            if w < 900 or not cap or re.search(r"chatgpt|dall-?e|gemini|midjourney|\bia\b|arte|card|screenshot|formato-novo", url + " " + cap, re.I):
+                continue
+            if re.search(r"reprodu[cç][aã]o|youtube|instagram", cap, re.I):
+                continue
+            txt = (cap + " " + (md.get("alt_text") or "")).lower()
+            if any(re.search(r"(^|\W)" + re.escape(o) + r"(\W|$)", txt) for o in outros):
+                continue
+            cred = cap if cap.lower().startswith("foto") else "Foto: " + cap.rstrip(".")
+            if marcar:
+                usadas[url] = {"clube": slug, "em": agora().strftime("%Y-%m-%d %H:%M")}
+                gravar(FOTOS_USADAS, usadas)
+            return {"url": url, "credito": cred, "fonte": x.get("link", ""), "alt": md.get("alt_text") or f"Foto de arquivo do clube ({cred})",
+                    "mostra": f"Foto de arquivo do clube usada em outra matéria do TSP ({cred})", "arquivo": True}
     return None
 
 

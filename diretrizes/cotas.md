@@ -58,3 +58,7 @@ Se a redação não fez, a Máquina faz. A Máquina nunca passa da conta: só co
 - **Mirassol e Bragantino: 2 por dia cada (12h e 18h)**, sem exceção.
 - **Sem foto conferida não é mais motivo para a matéria ficar parada.** O `adicionar` usa sozinho a foto de arquivo do clube (a mais recente de outra matéria do TSP, com o crédito original do fotógrafo ou do clube) e a matéria é publicada. Só fica como rascunho se não existir nenhuma foto de arquivo.
 - **"Sem pauta" é o último recurso.** Antes de desistir de um clube, passe por TODOS os do bloco e use os formatos permitidos (notícia, coletiva, nota oficial, vídeo do canal oficial, Mercado da Bola, e evergreen onde a diretriz permite).
+
+### Foto de arquivo sem repetir (24/11/2026, Thiago: "três fotos repetidas e que não conecta com a matéria")
+- A foto de arquivo só vem de matéria marcada **só** com aquele clube, com a foto enviada para aquela matéria e legenda sem outro clube.
+- Cada foto usada fica em `maquina/fotos_usadas.json` e **nunca** é usada de novo. Sem foto nova que sirva, a matéria fica rascunho para o redator.
