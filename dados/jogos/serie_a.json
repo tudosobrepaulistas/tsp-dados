@@ -16088,22 +16088,37 @@
    "data": "2026-11-23T20:00:00-03:00",
    "casa": "botafogo",
    "fora": "sao-paulo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Nilton Santos",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Pedro Lima",
+     "minuto": "28",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Tiquinho Soares",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/botafogo-arranca-empate-do-sao-paulo-mas-segue-em-situacao-delicada-no-brasileiro/",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/botafogo-x-sao-paulo-brasileirao-23-11-2026/"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-23T22:24:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -16129,6 +16144,69 @@
      "https://www.tribunadosertao.com.br/esportes/2026/05/23/906699-sao-paulo-mostra-evolucao-mas-cede-empate-ao-botafogo-no-morumbis"
     ],
     "atualizado": "2026-11-20T20:25:00-03:00"
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Tite",
+     "time": "Gabriel Batista; Vitinho, Justino, Ferraresi, Marçal, Alex Telles; Allan, Cristian Medina, Ziyech; Tiquinho Soares, Matheus Martins",
+     "entraram": [
+      {
+       "jogador": "Danilo",
+       "saiu": "Justino",
+       "minuto": ""
+      },
+      {
+       "jogador": "Edenilson",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur Cabral",
+       "saiu": "Cristian Medina",
+       "minuto": ""
+      },
+      {
+       "jogador": "Montoro",
+       "saiu": "Ziyech",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauan Toledo",
+       "saiu": "Matheus Martins",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Newton, Arboleda, Osório; Pedro Lima, Bobadilla, Pablo Maia, Djhordney, Iago; Luciano, Calleri",
+     "entraram": [
+      {
+       "jogador": "Pedro Bezerra",
+       "saiu": "Bobadilla",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danielzinho",
+       "saiu": "Djhordney",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wendell",
+       "saiu": "Iago",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Luciano",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/botafogo-x-sao-paulo-brasileirao-23-11-2026/"
+    ],
+    "atualizado": "2026-11-23T22:24:00-03:00"
    }
   },
   {
@@ -16289,7 +16367,33 @@
    "fontes": [
     "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
    ],
-   "atualizado": "2026-11-19T01:54:00-03:00"
+   "atualizado": "2026-11-19T01:54:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/sao-paulo-x-remo-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "São Paulo e Remo se enfrentam na quinta-feira (26/11), às 20h, no Morumbis, pela 37ª e penúltima rodada do Brasileirão. Pela Base TSP, o Tricolor é o 11º colocado, com 45 pontos em 36 jogos, e briga por uma posição melhor na metade de cima da tabela. O Remo é o 19º, com 32 pontos: mesmo vencendo os dois jogos que restam, chega no máximo a 38, abaixo dos 40 que já tem o 16º colocado, e por isso não consegue mais deixar a zona de rebaixamento.",
+     "O São Paulo vive uma sequência de cinco jogos sem vencer no Brasileiro: empates com Mirassol (1x1), Corinthians (0x0) e Botafogo (1x1) e derrotas para Bahia (3x2) e Fluminense (1x0). No empate da segunda-feira (23/11), no Nilton Santos, Pedro Lima abriu o placar e Tiquinho Soares empatou no segundo tempo. O lateral Wendell foi expulso nos acréscimos, segundo a ficha da Gazeta Esportiva, e desfalca o time de Dorival Júnior por suspensão.",
+     "O Remo venceu dois dos últimos cinco jogos, ambos em Belém: 2x1 no Botafogo e 2x0 na Chapecoense. Longe de casa, porém, perdeu as três partidas mais recentes da Base TSP: 1x0 para o Cruzeiro, 6x1 para o Palmeiras e 4x2 para o Athletico-PR, no domingo (22/11).",
+     "O jogo terá transmissão exclusiva do Premiere, no pay-per-view, segundo a Máquina do Esporte."
+    ],
+    "retrospecto": "No primeiro turno deste Brasileirão, em 31/05/2026, o Remo venceu o São Paulo por 1 a 0 em Belém, segundo a Base TSP.",
+    "estadio_wiki": "Estádio do Morumbi",
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/botafogo-x-sao-paulo-brasileirao-23-11-2026/",
+     "https://maquinadoesporte.com.br/onde-assistir/sao-paulo-x-remo-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-23T22:25:00-03:00"
+   }
   },
   {
    "id": 91000428,
