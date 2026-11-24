@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T20:11:00-03:00",
+ "gerado": "2026-11-24T20:25:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -23212,7 +23212,19 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "analise": [
+     "Fluminense e Cruzeiro se enfrentam na sexta-feira (27/11), às 20h, no Maracanã, pela 37ª e penúltima rodada do Brasileirão, num confronto direto pelo terceiro lugar. Pela Base TSP, o Cruzeiro é o 3º colocado, com 66 pontos em 36 jogos, e o Fluminense vem logo atrás, em 4º, com 63. Segundo O Tempo, a Raposa já não alcança o Palmeiras (2º, com 74) e já tem vaga garantida na fase de grupos da Libertadores 2027.",
+     "Os cenários, de acordo com O Tempo: se vencer, o Cruzeiro abre seis pontos e garante o 3º lugar com uma rodada de antecedência. O empate também mantém a equipe mineira à frente, já que tem mais vitórias (20 a 18). Uma vitória do Fluminense iguala os dois em pontos e leva a decisão para a última rodada, quando o Cruzeiro recebe o Internacional no Mineirão e o Tricolor visita o Red Bull Bragantino.",
+     "O Fluminense chega embalado: venceu os quatro últimos jogos no Brasileiro, contra Internacional (2x1), Vitória (3x0, fora), São Paulo (1x0, fora) e Mirassol (1x0). Contra o Mirassol, no domingo (22/11), Riquelme marcou o gol da vitória aos 45 do segundo tempo. Em casa, o time ganhou quatro dos cinco jogos mais recentes; a única derrota foi para o Santos (2x1), em 18/10.",
+     "O Cruzeiro vive a melhor sequência entre os dois: são seis vitórias seguidas, a última por 2x1 sobre a Chapecoense, no sábado (21/11), em Chapecó. Longe de casa, venceu quatro das últimas cinco partidas, com a única derrota para o Red Bull Bragantino (4x2), em 12/10. Kaio Jorge e Matheus Pereira aparecem entre os autores de gols da equipe de Artur Jorge nessa arrancada."
+    ],
+    "estadio_wiki": "Estádio do Maracanã",
+    "fontes": [
+     "https://www.otempo.com.br/sports/cruzeiro/2026/11/24/cruzeiro-pode-garantir-3-lugar-brasileirao-diante-fluminense"
+    ],
+    "atualizado": "2026-11-24T20:25:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
     "casa": 51,
