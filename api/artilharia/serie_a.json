@@ -60,6 +60,12 @@
   "gols": 5
  },
  {
+  "jogador": "Renê",
+  "time": "Vitória",
+  "time_id": 900014,
+  "gols": 5
+ },
+ {
   "jogador": "Arthur Cabral",
   "time": "Botafogo",
   "time_id": 900011,
@@ -108,12 +114,6 @@
   "gols": 4
  },
  {
-  "jogador": "Renê",
-  "time": "Vitória",
-  "time_id": 900014,
-  "gols": 4
- },
- {
   "jogador": "Vitor Bueno",
   "time": "Remo",
   "time_id": 900019,
@@ -129,6 +129,12 @@
   "jogador": "Alejo Véliz",
   "time": "Bahia",
   "time_id": 900007,
+  "gols": 3
+ },
+ {
+  "jogador": "Alerrandro",
+  "time": "Internacional",
+  "time_id": 900016,
   "gols": 3
  },
  {
@@ -222,6 +228,12 @@
   "gols": 3
  },
  {
+  "jogador": "Vitinho",
+  "time": "Internacional",
+  "time_id": 900016,
+  "gols": 3
+ },
+ {
   "jogador": "Vitor Roque",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -238,12 +250,6 @@
   "time": "Remo",
   "time_id": 900019,
   "gols": 3
- },
- {
-  "jogador": "Alerrandro",
-  "time": "Internacional",
-  "time_id": 900016,
-  "gols": 2
  },
  {
   "jogador": "Andrés Gómez",
@@ -396,6 +402,12 @@
   "gols": 2
  },
  {
+  "jogador": "Renato Kayzer",
+  "time": "Vitória",
+  "time_id": 900014,
+  "gols": 2
+ },
+ {
   "jogador": "Rodrigo Moledo",
   "time": "Coritiba",
   "time_id": 900012,
@@ -429,12 +441,6 @@
   "jogador": "Tiago Cóser",
   "time": "Coritiba",
   "time_id": 900012,
-  "gols": 2
- },
- {
-  "jogador": "Vitinho",
-  "time": "Internacional",
-  "time_id": 900016,
   "gols": 2
  },
  {
@@ -501,6 +507,12 @@
   "jogador": "Balbuena",
   "time": "Grêmio",
   "time_id": 900017,
+  "gols": 1
+ },
+ {
+  "jogador": "Baralhas",
+  "time": "Vitória",
+  "time_id": 900014,
   "gols": 1
  },
  {
@@ -1020,6 +1032,12 @@
   "gols": 1
  },
  {
+  "jogador": "Ramon",
+  "time": "Vitória",
+  "time_id": 900014,
+  "gols": 1
+ },
+ {
   "jogador": "Ramon Sosa",
   "time": "Palmeiras",
   "time_id": 900002,
@@ -1047,12 +1065,6 @@
   "jogador": "Renan Lodi",
   "time": "Atlético-MG",
   "time_id": 900006,
-  "gols": 1
- },
- {
-  "jogador": "Renato Kayzer",
-  "time": "Vitória",
-  "time_id": 900014,
   "gols": 1
  },
  {
@@ -1095,6 +1107,12 @@
   "jogador": "Sosa",
   "time": "Palmeiras",
   "time_id": 900002,
+  "gols": 1
+ },
+ {
+  "jogador": "Tarzia",
+  "time": "Vitória",
+  "time_id": 900014,
   "gols": 1
  },
  {

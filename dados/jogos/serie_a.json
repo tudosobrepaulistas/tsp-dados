@@ -15936,22 +15936,67 @@
    "data": "2026-11-23T19:30:00-03:00",
    "casa": "internacional",
    "fora": "vitoria",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Beira-Rio",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 2,
+   "gols_fora": 5,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Renê",
+     "minuto": "1",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Tarzia",
+     "minuto": "18",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Vitinho",
+     "minuto": "40",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Ramon",
+     "minuto": "56",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Alerrandro",
+     "minuto": "69",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Baralhas",
+     "minuto": "87",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Renato Kayzer",
+     "minuto": "90+",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://internacional.com.br/noticias/masculino/inter-e-superado-no-beira-rio-1",
+    "https://www.correio24horas.com.br/esportes/vitoria-faz-grande-jogo-goleia-o-internacional-no-beira-rio-e-respira-aliviado-na-serie-a-1126"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-23T22:11:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -15978,6 +16023,64 @@
      "https://www.bnews.com.br/noticias/esporte/vitoria-segura-pressao-e-vence-internacional-por-2-0-no-barradao.html"
     ],
     "atualizado": "2026-11-20T20:25:00-03:00"
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Baptista",
+     "time": "Kauan Jesus; Bruno Gomes, Gabriel Mercado, Juninho; Braian Aguirre, Villagra, Ronaldo, Matheus Bahia; Vitinho, Alerrandro, Carbonero",
+     "entraram": [
+      {
+       "jogador": "Calebe",
+       "saiu": "Bruno Gomes",
+       "minuto": "27"
+      },
+      {
+       "jogador": "Thiago Maia",
+       "saiu": "Ronaldo",
+       "minuto": "46"
+      },
+      {
+       "jogador": "João Bezerra",
+       "saiu": "Gabriel Mercado",
+       "minuto": "64"
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Lucas Arcanjo; Jamerson, Cacá, Brítez, Ramon; Martínez, Baralhas, Erick, Matheuzinho, Tarzia; Renê",
+     "entraram": [
+      {
+       "jogador": "Luan Cândido",
+       "saiu": "Ramon",
+       "minuto": "67"
+      },
+      {
+       "jogador": "Caíque",
+       "saiu": "Matheuzinho",
+       "minuto": "67"
+      },
+      {
+       "jogador": "Zé Vitor",
+       "saiu": "Jamerson",
+       "minuto": "73"
+      },
+      {
+       "jogador": "Marinho",
+       "saiu": "Erick",
+       "minuto": "81"
+      },
+      {
+       "jogador": "Renato Kayzer",
+       "saiu": "Renê",
+       "minuto": "81"
+      }
+     ]
+    },
+    "fontes": [
+     "https://internacional.com.br/noticias/masculino/inter-e-superado-no-beira-rio-1"
+    ],
+    "atualizado": "2026-11-23T22:11:00-03:00"
    }
   },
   {
