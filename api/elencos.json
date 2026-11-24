@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T02:32:00-03:00",
+ "gerado": "2026-11-24T02:40:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -5363,7 +5363,13 @@
     {
      "nome": "Matheus Anjos",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-matheus-anjos-primavera.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ecprimaveraoficial/",
+      "ia": true,
+      "em": "2026-11-24T02:37:00-03:00"
+     },
      "novo": true,
      "numeros": {
       "jogos": 1,
@@ -5740,7 +5746,13 @@
     {
      "nome": "Gabriel Silva",
      "posicao": "Preparador físico",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-gabriel-silva-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true,
+      "em": "2026-11-24T02:35:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -5763,7 +5775,13 @@
     {
      "nome": "Rafael Silva",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-rafael-silva-xv-de-piracicaba.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/xvpiracicaba/",
+      "ia": true,
+      "em": "2026-11-24T02:33:00-03:00"
+     },
      "novo": true,
      "numeros": {
       "jogos": 1,
@@ -6555,7 +6573,7 @@
       "credito": "Montagem com IA (ilustrativa) · TSP",
       "fonte": "https://www.instagram.com/mariliaac1942/",
       "ia": true,
-      "em": "2026-11-24T02:32:00-03:00"
+      "em": "2026-11-24T02:40:00-03:00"
      },
      "novo": true,
      "numeros": {},
