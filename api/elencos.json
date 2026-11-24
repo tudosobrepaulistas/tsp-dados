@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T02:55:00-03:00",
+ "gerado": "2026-11-24T03:11:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -3644,7 +3644,13 @@
      "nome": "Lucas Vital",
      "posicao": "",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-lucas-vital-paulista.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/paulistafc/",
+      "ia": true,
+      "em": "2026-11-24T03:09:00-03:00"
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -3657,7 +3663,13 @@
     {
      "nome": "Dérick",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-derick-paulista.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/paulistafc/",
+      "ia": true,
+      "em": "2026-11-24T03:04:00-03:00"
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -3683,7 +3695,13 @@
     {
      "nome": "Léo Príncipe",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-leo-principe-paulista.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/paulistafc/",
+      "ia": true,
+      "em": "2026-11-24T03:01:00-03:00"
+     },
      "novo": true,
      "numeros": {
       "jogos": 14,
@@ -3714,7 +3732,13 @@
      "nome": "João Salles",
      "posicao": "Lateral",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-joao-salles-paulista.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/paulistafc/",
+      "ia": true,
+      "em": "2026-11-24T03:03:00-03:00"
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -3728,7 +3752,13 @@
      "nome": "Gabriel Reis",
      "posicao": "Zagueiro",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-gabriel-reis-paulista.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/paulistafc/",
+      "ia": true,
+      "em": "2026-11-24T02:59:00-03:00"
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -3769,7 +3799,13 @@
     {
      "nome": "Bryan Garcia",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-19-bryan-garcia-paulista.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/paulistafc/",
+      "ia": true,
+      "em": "2026-11-24T02:57:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -6059,7 +6095,13 @@
     {
      "nome": "Vinícius Marques",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-26-vinicius-marques-barretos.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/barretosec/",
+      "ia": true,
+      "em": "2026-11-24T03:11:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
