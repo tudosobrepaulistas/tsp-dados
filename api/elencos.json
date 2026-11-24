@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T01:46:00-03:00",
+ "gerado": "2026-11-24T02:32:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -6555,12 +6555,12 @@
       "credito": "Montagem com IA (ilustrativa) · TSP",
       "fonte": "https://www.instagram.com/mariliaac1942/",
       "ia": true,
-      "em": "2026-11-20T22:21:52-03:00"
+      "em": "2026-11-24T02:32:00-03:00"
      },
      "novo": true,
      "numeros": {},
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1982-01-28",
      "de": "",
      "ficha": {
       "no_clube": "Novo comandante do MAC para o Paulistão A2 2027",
@@ -6571,7 +6571,9 @@
        "Acesso à Série A2 em 2025 com o Sertãozinho"
       ],
       "destaques": [
-       "Eleito o melhor técnico da Série A3 de 2025"
+       "Eleito o melhor técnico da Série A3 de 2025",
+       "Título da A3 2025 com o Sertãozinho em 21 jogos: 9 vitórias, 9 empates e 3 derrotas (63% de aproveitamento, segundo a Band Vale)",
+       "Foi auxiliar fixo do Guarani na Série C de 2026 antes de assumir o Marília"
       ],
       "clubes_anteriores": [
        "Guarani (auxiliar)",
@@ -6587,7 +6589,14 @@
        "https://trivela.com.br/brasil/sertaozinho-final-serie-a3-paulista-mudanca-cidade/",
        "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/",
        "https://www.futebolinterior.com.br/marilia-oficializa-o-novo-treinador-para-a-serie-a2-de-2027/",
-       "https://www.futebolinterior.com.br/saiba-quais-serao-os-treinadores-da-serie-a2-de-2027/"
+       "https://www.futebolinterior.com.br/saiba-quais-serao-os-treinadores-da-serie-a2-de-2027/",
+       "https://www.band.com.br/band-vale/noticias/marcelo-marelli-treinador-do-sao-jose-ec-participa-de-entrevista-no-os-donos-da-vale-assista-202506091310",
+       "https://noticias-do-brasil.news/esportes/futebol/auxiliar-do-guarani-valoriza-aprendizado-e-elo-com-a-base.html"
+      ],
+      "nome_completo": "Marcelo Marelli Manhaes",
+      "natural": "Rio de Janeiro/RJ",
+      "titulos": [
+       "Campeão da Série A3 2025 com o Sertãozinho"
       ]
      },
      "comissao": true
@@ -7481,7 +7490,13 @@
     {
      "nome": "Élio Sizenando",
      "posicao": "Treinador",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-27-elio-sizenando-capivariano.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/capivariano/",
+      "ia": true,
+      "em": "2026-11-24T01:48:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9210,7 +9225,7 @@
     },
     {
      "nome": "Gutieri",
-     "posicao": "",
+     "posicao": "Zagueiro",
      "foto": {
       "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-gutieri-votuporanguense.webp",
       "credito": "Montagem com IA (ilustrativa) · TSP",
@@ -9219,11 +9234,44 @@
       "em": "2026-11-20T23:09:53-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gutieri/192748",
+      "clubes": [
+       "Joinville"
+      ],
+      "jogos": 21,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {
+       "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
+     "nascimento": "1991-06-29",
+     "de": "Joinville",
+     "ficha": {
+      "nome_completo": "Gutieri Tomelin",
+      "natural": "São Bento do Sul/SC",
+      "clubes_anteriores": [
+       "Figueirense",
+       "Duque de Caxias",
+       "Joinville",
+       "Jagiellonia Białystok (Polônia)",
+       "Osijek (Croácia)",
+       "Hapoel Nof HaGalil (Israel)",
+       "Telavi (Geórgia)",
+       "Sport Huancayo (Peru)",
+       "Joinville"
+      ],
+      "destaques": [
+       "Saiu do Joinville para o Jagiellonia Białystok, da Polônia, em 2016",
+       "Jogou na Croácia (Osijek, 2018 a 2021), em Israel, na Geórgia e no Peru antes de voltar ao Joinville"
+      ],
+      "fontes": [
+       "https://www.corrieredellosport.it/giocatore/calcio/guti/107125",
+       "https://www.instagram.com/votuporanguenseoficial/"
+      ]
+     },
      "comissao": false
     },
     {
@@ -9330,7 +9378,7 @@
     },
     {
      "nome": "Gutieri",
-     "de": "",
+     "de": "Joinville",
      "tipo": "Contratação",
      "data": "2026-11-20"
     },

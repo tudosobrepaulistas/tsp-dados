@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T01:46:00-03:00",
+ "gerado": "2026-11-24T02:32:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -1385,17 +1385,17 @@
    "id": "2026-11-20-gutieri-votuporanguense",
    "data": "2026-11-20",
    "jogador": "Gutieri",
-   "posicao": "",
+   "posicao": "Zagueiro",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
    "obs": "Experiência internacional, reforço para a defesa",
    "de": {
-    "nome": "",
+    "nome": "Joinville",
     "slug": "",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png"
    },
    "para": {
     "nome": "Votuporanguense",
@@ -1416,12 +1416,45 @@
    "fontes": [
     "https://www.instagram.com/votuporanguenseoficial/"
    ],
-   "nascimento": "",
-   "numeros": {},
+   "nascimento": "1991-06-29",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gutieri/192748",
+    "clubes": [
+     "Joinville"
+    ],
+    "jogos": 21,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {
+     "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png"
+    }
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "nome_completo": "Gutieri Tomelin",
+    "natural": "São Bento do Sul/SC",
+    "clubes_anteriores": [
+     "Figueirense",
+     "Duque de Caxias",
+     "Joinville",
+     "Jagiellonia Białystok (Polônia)",
+     "Osijek (Croácia)",
+     "Hapoel Nof HaGalil (Israel)",
+     "Telavi (Geórgia)",
+     "Sport Huancayo (Peru)",
+     "Joinville"
+    ],
+    "destaques": [
+     "Saiu do Joinville para o Jagiellonia Białystok, da Polônia, em 2016",
+     "Jogou na Croácia (Osijek, 2018 a 2021), em Israel, na Geórgia e no Peru antes de voltar ao Joinville"
+    ],
+    "fontes": [
+     "https://www.corrieredellosport.it/giocatore/calcio/guti/107125",
+     "https://www.instagram.com/votuporanguenseoficial/"
+    ]
+   },
    "comissao": false,
    "dono": "votuporanguense"
   },
@@ -13946,7 +13979,13 @@
    "blocos": [
     "d1"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-27-elio-sizenando-capivariano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/capivariano/",
+    "ia": true,
+    "em": "2026-11-24T01:48:00-03:00"
+   },
    "fontes": [
     "https://www.instagram.com/capivariano/"
    ],
@@ -14824,61 +14863,123 @@
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/mariliaac1942/",
     "ia": true,
-    "em": "2026-11-20T22:21:52-03:00"
+    "em": "2026-11-24T02:32:00-03:00"
    },
    "fontes": [
     "https://www.instagram.com/mariliaac1942/"
    ],
-   "nascimento": "",
+   "nascimento": "1982-01-28",
    "numeros": {},
    "selos": [],
    "carreira": [
     {
      "temporada": "2027",
      "clube": "Marília",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/",
+      "https://www.futebolinterior.com.br/marilia-oficializa-o-novo-treinador-para-a-serie-a2-de-2027/"
+     ],
+     "obs": "Apresentado em 19/10/2026 para o Paulistão A2 2027"
     },
     {
      "temporada": "2026",
      "clube": "Guarani",
-     "funcao": "Auxiliar técnico"
+     "funcao": "Auxiliar técnico",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://noticias-do-brasil.news/esportes/futebol/auxiliar-do-guarani-valoriza-aprendizado-e-elo-com-a-base.html",
+      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
+     ],
+     "obs": "Auxiliar fixo da comissão permanente desde março de 2026, ao lado de Élio Sizenando na Série C"
     },
     {
      "temporada": "2026",
      "clube": "Rio Branco",
      "funcao": "Treinador",
-     "jogos": 8
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
+     ],
+     "obs": "Comandou o Rio Branco na Série A3 2026 (ano conferido em listas de carreira); números em atualização"
     },
     {
-     "temporada": "2026",
+     "temporada": "2025-2026",
      "clube": "São José",
      "funcao": "Treinador",
-     "jogos": 5
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.band.com.br/band-vale/noticias/marcelo-marelli-treinador-do-sao-jose-ec-participa-de-entrevista-no-os-donos-da-vale-assista-202506091310",
+      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
+     ],
+     "obs": "Contratado em abril de 2025 para a Copa Paulista (Band Vale); seguiu no início de 2026"
     },
     {
      "temporada": "2025",
      "clube": "Sertãozinho",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.band.com.br/band-vale/noticias/marcelo-marelli-treinador-do-sao-jose-ec-participa-de-entrevista-no-os-donos-da-vale-assista-202506091310",
+      "https://trivela.com.br/brasil/sertaozinho-final-serie-a3-paulista-mudanca-cidade/"
+     ],
+     "obs": "Campeão da Série A3 2025 e eleito o melhor técnico da competição; 21 jogos, 9 vitórias, 9 empates e 3 derrotas (Band Vale)"
     },
     {
-     "temporada": "2023",
+     "temporada": "2023-2024",
      "clube": "Taquaritinga",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.band.com.br/band-vale/noticias/marcelo-marelli-treinador-do-sao-jose-ec-participa-de-entrevista-no-os-donos-da-vale-assista-202506091310",
+      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
+     ],
+     "obs": "Mais de 50 jogos entre 2023 e 2024 (Band Vale); saiu após a queda nas quartas da Copa Paulista 2024"
     },
     {
-     "temporada": "2012-2014",
-     "clube": "Corinthians",
-     "funcao": "Treinador (base)"
+     "temporada": "2021-2022",
+     "clube": "Flamengo de Guarulhos",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
+     ],
+     "obs": "Primeiro trabalho longo como técnico profissional"
     },
     {
-     "temporada": "2011",
-     "clube": "Centro de Futebol Zico",
-     "funcao": "Treinador (base)"
-    },
-    {
-     "temporada": "2005-2010",
-     "clube": "Flamengo",
-     "funcao": "Treinador (base)"
+     "temporada": "2021",
+     "clube": "Bangu",
+     "funcao": "Treinador",
+     "jogos": "",
+     "vitorias": "",
+     "empates": "",
+     "derrotas": "",
+     "fontes": [
+      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
+     ],
+     "obs": ""
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/marilia-oficializa-o-novo-treinador-para-a-serie-a2-de-2027/",
@@ -14891,7 +14992,9 @@
      "Acesso à Série A2 em 2025 com o Sertãozinho"
     ],
     "destaques": [
-     "Eleito o melhor técnico da Série A3 de 2025"
+     "Eleito o melhor técnico da Série A3 de 2025",
+     "Título da A3 2025 com o Sertãozinho em 21 jogos: 9 vitórias, 9 empates e 3 derrotas (63% de aproveitamento, segundo a Band Vale)",
+     "Foi auxiliar fixo do Guarani na Série C de 2026 antes de assumir o Marília"
     ],
     "clubes_anteriores": [
      "Guarani (auxiliar)",
@@ -14907,7 +15010,14 @@
      "https://trivela.com.br/brasil/sertaozinho-final-serie-a3-paulista-mudanca-cidade/",
      "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/",
      "https://www.futebolinterior.com.br/marilia-oficializa-o-novo-treinador-para-a-serie-a2-de-2027/",
-     "https://www.futebolinterior.com.br/saiba-quais-serao-os-treinadores-da-serie-a2-de-2027/"
+     "https://www.futebolinterior.com.br/saiba-quais-serao-os-treinadores-da-serie-a2-de-2027/",
+     "https://www.band.com.br/band-vale/noticias/marcelo-marelli-treinador-do-sao-jose-ec-participa-de-entrevista-no-os-donos-da-vale-assista-202506091310",
+     "https://noticias-do-brasil.news/esportes/futebol/auxiliar-do-guarani-valoriza-aprendizado-e-elo-com-a-base.html"
+    ],
+    "nome_completo": "Marcelo Marelli Manhaes",
+    "natural": "Rio de Janeiro/RJ",
+    "titulos": [
+     "Campeão da Série A3 2025 com o Sertãozinho"
     ]
    },
    "comissao": true,
