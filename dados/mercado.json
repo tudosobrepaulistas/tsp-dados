@@ -244,7 +244,8 @@
    "feminino": false,
    "obs": "Volta ao Paulista depois de 13 anos",
    "fontes": [
-    "https://www.instagram.com/paulistafc/"
+    "https://www.instagram.com/paulistafc/",
+    "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/"
    ],
    "anuncio_do_clube": true,
    "ficha": {
@@ -252,17 +253,33 @@
     "redes": {
      "instagram": "lazaromanga"
     },
-    "fonte": "https://www.instagram.com/paulistafc/"
+    "fonte": "https://www.instagram.com/paulistafc/",
+    "idade": 36,
+    "idade_em": "2026-11-23",
+    "natural": "Belo Horizonte/MG",
+    "fontes": [
+     "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/"
+    ]
    },
    "id": "2026-11-23-lazaro-paulista",
-   "atualizado": "2026-11-24T01:37:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-lazaro-paulista.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/paulistafc/",
     "ia": true,
     "em": "2026-11-24T02:51:00-03:00"
-   }
+   },
+   "numeros_2026": {
+    "jogos": 12,
+    "gols": 2,
+    "clubes": [
+     "Marília",
+     "America-RJ"
+    ],
+    "obs": "6 jogos pelo America-RJ (Copa Rio e Segunda Divisão do Carioca)",
+    "fonte": "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/"
+   },
+   "atualizado": "2026-11-24T06:59:00-03:00"
   },
   {
    "data": "2026-11-23",
@@ -1465,14 +1482,26 @@
     }
    },
    "id": "2026-11-19-vinicios-andrade-paulista",
-   "atualizado": "2026-11-24T01:37:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-19-vinicios-andrade-paulista.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/paulistafc/",
     "ia": true,
     "em": "2026-11-24T02:55:00-03:00"
-   }
+   },
+   "numeros_2026": {
+    "jogos": 23,
+    "gols": 1,
+    "minutos": 1608,
+    "assistencias": 1,
+    "clubes": [
+     "Sertãozinho",
+     "Marília"
+    ],
+    "obs": "19 jogos pelo Sertãozinho (Série A2) e 4 pelo Marília (Copa Paulista)",
+    "fonte": "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/"
+   },
+   "atualizado": "2026-11-24T06:59:00-03:00"
   },
   {
    "data": "2026-11-19",
@@ -2542,6 +2571,25 @@
     "ia": true,
     "em": "2026-11-20T22:29:01-03:00"
    }
+  },
+  {
+   "data": "2026-11-17",
+   "jogador": "Gilson Kleina",
+   "posicao": "Treinador",
+   "de": "Ponte Preta",
+   "para": "Ponte Preta",
+   "de_slug": "pontepreta",
+   "para_slug": "pontepreta",
+   "tipo": "renovacao",
+   "situacao": "acertado",
+   "feminino": false,
+   "obs": "Renovou para a temporada 2027 (Paulista A2 e Série C); 6ª passagem pelo clube",
+   "fontes": [
+    "https://www.futebolinterior.com.br/ponte-preta-renova-com-gilson-kleina/",
+    "https://cbncampinas.com.br/2026/11/gilson-kleina-assina-renovacao-de-contrato-com-a-ponte-preta/"
+   ],
+   "id": "2026-11-17-gilson-kleina-ponte-preta",
+   "atualizado": "2026-11-24T06:58:00-03:00"
   },
   {
    "data": "2026-11-17",

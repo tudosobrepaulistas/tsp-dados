@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T03:41:00-03:00",
+ "gerado": "2026-11-24T06:59:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -548,9 +548,9 @@
      "posicao": "Goleiro",
      "numero": 1,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 360,
+      "minutos": 450,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -564,9 +564,9 @@
      "posicao": "Goleiro",
      "numero": 18,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 540,
+      "minutos": 630,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -595,9 +595,9 @@
      "posicao": "Zagueiro",
      "numero": 2,
      "numeros": {
-      "jogos": 3,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 226,
+      "minutos": 406,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -627,9 +627,9 @@
      "posicao": "Zagueiro",
      "numero": 4,
      "numeros": {
-      "jogos": 7,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 562,
+      "minutos": 742,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -712,9 +712,9 @@
      "posicao": "Lateral",
      "numero": 29,
      "numeros": {
-      "jogos": 10,
+      "jogos": 12,
       "gols": 1,
-      "minutos": 900,
+      "minutos": 1080,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -733,9 +733,9 @@
      "posicao": "Volante",
      "numero": 5,
      "numeros": {
-      "jogos": 4,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 294,
+      "minutos": 452,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -765,9 +765,9 @@
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 461,
+      "minutos": 529,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -829,9 +829,9 @@
      "posicao": "Volante",
      "numero": 35,
      "numeros": {
-      "jogos": 7,
+      "jogos": 9,
       "gols": 1,
-      "minutos": 270,
+      "minutos": 360,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -845,9 +845,9 @@
      "posicao": "Atacante",
      "numero": 8,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 3,
-      "minutos": 509,
+      "minutos": 577,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -861,9 +861,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 3,
-      "minutos": 221,
+      "minutos": 311,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -877,9 +877,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 7,
+      "jogos": 9,
       "gols": 1,
-      "minutos": 341,
+      "minutos": 477,
       "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -898,9 +898,9 @@
      "posicao": "Atacante",
      "numero": 21,
      "numeros": {
-      "jogos": 9,
+      "jogos": 11,
       "gols": 1,
-      "minutos": 788,
+      "minutos": 968,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
       "clubes": [
@@ -919,10 +919,10 @@
      "posicao": "Atacante",
      "numero": 30,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 2,
-      "minutos": 191,
-      "minutos_estimados": false,
+      "minutos": 213,
+      "minutos_estimados": true,
       "clube": "Red Bull Bragantino",
       "clubes": [
        "Red Bull Bragantino"
@@ -980,9 +980,9 @@
      "nome": "Hugo Souza",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 10,
+      "jogos": 13,
       "gols": 0,
-      "minutos": 900,
+      "minutos": 1170,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1010,10 +1010,10 @@
      "nome": "André Ramalho",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 270,
-      "minutos_estimados": false,
+      "minutos": 292,
+      "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
        "Corinthians"
@@ -1025,9 +1025,9 @@
      "nome": "Gabriel Paulista",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 7,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 586,
+      "minutos": 856,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1040,9 +1040,9 @@
      "nome": "Gustavo Henrique",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 12,
+      "jogos": 15,
       "gols": 3,
-      "minutos": 1080,
+      "minutos": 1350,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1085,9 +1085,9 @@
      "nome": "Fabrizio Angileri",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 248,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1119,9 +1119,9 @@
      "nome": "Matheuzinho",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 11,
+      "jogos": 14,
       "gols": 0,
-      "minutos": 900,
+      "minutos": 1170,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1134,9 +1134,9 @@
      "nome": "Pedro Milans",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 202,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1149,9 +1149,9 @@
      "nome": "Matheus Bidu",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 12,
+      "jogos": 14,
       "gols": 3,
-      "minutos": 913,
+      "minutos": 1093,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1179,9 +1179,9 @@
      "nome": "Allan",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 7,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 450,
+      "minutos": 562,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1194,9 +1194,9 @@
      "nome": "André",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 9,
+      "jogos": 11,
       "gols": 1,
-      "minutos": 665,
+      "minutos": 801,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1209,9 +1209,9 @@
      "nome": "André Carrillo",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 180,
+      "minutos": 202,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1224,9 +1224,9 @@
      "nome": "Breno Bidon",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 13,
+      "jogos": 14,
       "gols": 0,
-      "minutos": 922,
+      "minutos": 990,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1254,9 +1254,9 @@
      "nome": "Dieguinho",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 8,
+      "jogos": 10,
       "gols": 0,
-      "minutos": 272,
+      "minutos": 362,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1288,9 +1288,9 @@
      "nome": "Matheus Pereira",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 7,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 143,
+      "minutos": 187,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1303,9 +1303,9 @@
      "nome": "Raniele",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 5,
+      "jogos": 8,
       "gols": 1,
-      "minutos": 382,
+      "minutos": 586,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1318,9 +1318,9 @@
      "nome": "Rodrigo Garro",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 6,
+      "jogos": 8,
       "gols": 1,
-      "minutos": 378,
+      "minutos": 558,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1333,9 +1333,9 @@
      "nome": "Gui Negão",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 268,
+      "minutos": 290,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1348,9 +1348,9 @@
      "nome": "Kaio César",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 10,
+      "jogos": 12,
       "gols": 2,
-      "minutos": 747,
+      "minutos": 927,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1412,9 +1412,9 @@
      "nome": "Pedro Raul",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 8,
+      "jogos": 10,
       "gols": 1,
-      "minutos": 336,
+      "minutos": 380,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1427,9 +1427,9 @@
      "nome": "Vitinho",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 298,
+      "minutos": 320,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1442,9 +1442,9 @@
      "nome": "Yuri Alberto",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 7,
+      "jogos": 9,
       "gols": 3,
-      "minutos": 496,
+      "minutos": 632,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -2526,9 +2526,9 @@
      "posicao": "Goleiro",
      "numero": 1,
      "numeros": {
-      "jogos": 11,
+      "jogos": 14,
       "gols": 0,
-      "minutos": 1020,
+      "minutos": 1290,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2545,7 +2545,18 @@
     {
      "nome": "Alexander Barboza",
      "posicao": "Zagueiro",
-     "numero": 2
+     "numero": 2,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 68,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Benedetti",
@@ -2568,9 +2579,9 @@
      "posicao": "Zagueiro",
      "numero": 3,
      "numeros": {
-      "jogos": 4,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 292,
+      "minutos": 404,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2584,9 +2595,9 @@
      "posicao": "Zagueiro",
      "numero": 15,
      "numeros": {
-      "jogos": 10,
+      "jogos": 12,
       "gols": 1,
-      "minutos": 886,
+      "minutos": 1044,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2600,10 +2611,10 @@
      "posicao": "Zagueiro",
      "numero": 26,
      "numeros": {
-      "jogos": 8,
+      "jogos": 11,
       "gols": 1,
-      "minutos": 720,
-      "minutos_estimados": false,
+      "minutos": 922,
+      "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
        "Palmeiras"
@@ -2637,9 +2648,9 @@
      "posicao": "Lateral",
      "numero": 56,
      "numeros": {
-      "jogos": 6,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 390,
+      "minutos": 502,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2674,9 +2685,9 @@
      "posicao": "Meia",
      "numero": 8,
      "numeros": {
-      "jogos": 10,
+      "jogos": 12,
       "gols": 0,
-      "minutos": 618,
+      "minutos": 776,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2690,9 +2701,9 @@
      "posicao": "Meia",
      "numero": 32,
      "numeros": {
-      "jogos": 1,
+      "jogos": 3,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 66,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2706,9 +2717,9 @@
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 4,
+      "jogos": 6,
       "gols": 3,
-      "minutos": 88,
+      "minutos": 132,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2722,9 +2733,9 @@
      "posicao": "Meia",
      "numero": 48,
      "numeros": {
-      "jogos": 2,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 44,
+      "minutos": 88,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2738,9 +2749,9 @@
      "posicao": "Meia",
      "numero": 30,
      "numeros": {
-      "jogos": 8,
+      "jogos": 11,
       "gols": 0,
-      "minutos": 456,
+      "minutos": 682,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2754,9 +2765,9 @@
      "posicao": "Meia",
      "numero": 17,
      "numeros": {
-      "jogos": 10,
+      "jogos": 12,
       "gols": 0,
-      "minutos": 864,
+      "minutos": 1022,
       "minutos_estimados": false,
       "clube": "Palmeiras",
       "clubes": [
@@ -2770,9 +2781,9 @@
      "posicao": "Meia",
      "numero": 18,
      "numeros": {
-      "jogos": 9,
+      "jogos": 12,
       "gols": 6,
-      "minutos": 494,
+      "minutos": 606,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2786,9 +2797,9 @@
      "posicao": "Atacante",
      "numero": 11,
      "numeros": {
-      "jogos": 9,
+      "jogos": 10,
       "gols": 4,
-      "minutos": 586,
+      "minutos": 654,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2823,9 +2834,9 @@
      "posicao": "Atacante",
      "numero": 19,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 2,
-      "minutos": 254,
+      "minutos": 322,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2839,9 +2850,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 9,
+      "jogos": 11,
       "gols": 3,
-      "minutos": 504,
+      "minutos": 594,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -3779,7 +3790,19 @@
       "em": "2026-11-24T02:55:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 23,
+      "gols": 1,
+      "minutos": 1608,
+      "assistencias": 1,
+      "clubes": [
+       "Sertãozinho",
+       "Marília"
+      ],
+      "obs": "19 jogos pelo Sertãozinho (Série A2) e 4 pelo Marília (Copa Paulista)",
+      "fonte": "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/",
+      "escudos": {}
+     },
      "selos": [],
      "nascimento": "",
      "de": "",
@@ -3884,7 +3907,17 @@
       "em": "2026-11-24T02:51:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 12,
+      "gols": 2,
+      "clubes": [
+       "Marília",
+       "America-RJ"
+      ],
+      "obs": "6 jogos pelo America-RJ (Copa Rio e Segunda Divisão do Carioca)",
+      "fonte": "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/",
+      "escudos": {}
+     },
      "selos": [],
      "nascimento": "",
      "de": "",
@@ -3892,7 +3925,13 @@
       "no_clube": "Volta ao clube 13 anos depois",
       "redes": {
        "instagram": "lazaromanga"
-      }
+      },
+      "idade": 36,
+      "idade_em": "2026-11-23",
+      "natural": "Belo Horizonte/MG",
+      "fontes": [
+       "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/"
+      ]
      },
      "comissao": false
     }

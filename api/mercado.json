@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T03:41:00-03:00",
+ "gerado": "2026-11-24T06:59:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -352,10 +352,21 @@
     "em": "2026-11-24T02:51:00-03:00"
    },
    "fontes": [
-    "https://www.instagram.com/paulistafc/"
+    "https://www.instagram.com/paulistafc/",
+    "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/"
    ],
    "nascimento": "",
-   "numeros": {},
+   "numeros": {
+    "jogos": 12,
+    "gols": 2,
+    "clubes": [
+     "Marília",
+     "America-RJ"
+    ],
+    "obs": "6 jogos pelo America-RJ (Copa Rio e Segunda Divisão do Carioca)",
+    "fonte": "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/",
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -363,7 +374,13 @@
     "no_clube": "Volta ao clube 13 anos depois",
     "redes": {
      "instagram": "lazaromanga"
-    }
+    },
+    "idade": 36,
+    "idade_em": "2026-11-23",
+    "natural": "Belo Horizonte/MG",
+    "fontes": [
+     "https://www.futebolinterior.com.br/zagueiro-retorna-ao-paulista-de-jundiai/"
+    ]
    },
    "comissao": false,
    "dono": "paulista-jundiai"
@@ -2034,7 +2051,19 @@
     "https://www.instagram.com/paulistafc/"
    ],
    "nascimento": "",
-   "numeros": {},
+   "numeros": {
+    "jogos": 23,
+    "gols": 1,
+    "minutos": 1608,
+    "assistencias": 1,
+    "clubes": [
+     "Sertãozinho",
+     "Marília"
+    ],
+    "obs": "19 jogos pelo Sertãozinho (Série A2) e 4 pelo Marília (Copa Paulista)",
+    "fonte": "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/",
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
@@ -3603,6 +3632,46 @@
    },
    "comissao": false,
    "dono": "rioclaro"
+  },
+  {
+   "id": "2026-11-17-gilson-kleina-ponte-preta",
+   "data": "2026-11-17",
+   "jogador": "Gilson Kleina",
+   "posicao": "Treinador",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "acertado",
+   "feminino": false,
+   "obs": "Renovou para a temporada 2027 (Paulista A2 e Série C); 6ª passagem pelo clube",
+   "de": {
+    "nome": "Ponte Preta",
+    "slug": "pontepreta",
+    "id": 900040,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Ponte Preta",
+    "slug": "pontepreta",
+    "id": 900040,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ponte-preta-renova-com-gilson-kleina/",
+    "https://cbncampinas.com.br/2026/11/gilson-kleina-assina-renovacao-de-contrato-com-a-ponte-preta/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
+   "dono": "pontepreta"
   },
   {
    "id": "2026-11-17-gabriel-silva-xv-de-piracicaba",
