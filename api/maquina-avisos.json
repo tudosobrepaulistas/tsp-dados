@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-23T21:02-03:00",
+ "gerado": "2026-11-24T06:44-03:00",
  "avisos": [
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-23T11:15-03:00",
-   "motivo": "Chefe de Redação barrou: estreia x Aliança-GO em 24/11 às 20h sem fonte acessível; só Ferroviária x Grêmio (27/11, 20h, CERET) confirmado. Atenção: a matéria de 17/11 diz que a estreia é contra o Grêmio no dia 24, o que parece errado",
-   "sugestao": "Resultado do julgamento no TJD-SP (23/11, 17h: Miga e Sarah Emilly) e tabela da Ferroviária na Copinha F; revisar a matéria de 17/11"
-  },
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-23T11:15-03:00",
-   "motivo": "Lista de 30 inscritas só em site de torcida; datas só na Central do Timão",
-   "sugestao": "Corinthians na Copinha Feminina (estreia 25/11, 15h, x Ação-MT no Nicolau Alayon) com fonte oficial; resultado do julgamento no TJD-SP de Júlia Passero e atletas"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-23T11:15-03:00",
-   "motivo": "Temporada encerrada em agosto; nada nos últimos 7 dias; blog oficial bloqueado",
-   "sugestao": "Planejamento 2027 do Mirassol Feminino: renovações, peneira, comissão técnica (Diário da Região ou clube)"
-  },
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-23T13:01-03:00",
-   "motivo": "Sem fato com 2 fontes nas últimas 48h; história bloqueada (última em 09/11)",
-   "sugestao": "Obituário de Iauca, ex-atacante e 8º maior artilheiro do clube (Futebol Interior 21/11): confirmar no Instagram @oficialamericasp ou Diário da Região. Ou o anúncio do técnico, prometido pelo vice Edinan Leal da Silveira até o fim de novembro"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-23T13:01-03:00",
-   "motivo": "Sem notícia nas últimas 48h; história bloqueada (última em 10/11)",
-   "sugestao": "Lateral Rogério Zuin (21 anos, ex-Capital-TO), anunciado nas redes do clube (O Semanário 11/11) e ainda não publicado no TSP"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-23T13:01-03:00",
-   "motivo": "Reapresentação de 23/11 já publicada em 22/11; nada novo com 2 fontes",
-   "sugestao": "Cobrir a reapresentação em si (quem se apresentou, anúncio oficial de Cristian de Souza) no guaranifc.com.br e CBN Campinas à tarde; ou laterais Ruan Teixeira e Kevyn com 2ª fonte"
-  },
   {
    "clube": "xvdepiracicaba",
    "nome": "XV de Piracicaba",
@@ -420,6 +378,48 @@
    "quando": "2026-11-23T21:02-03:00",
    "motivo": "Nada novo do masculino entre 21 e 23/11; reapresentação prevista para 26/11",
    "sugestao": "Reapresentação da Ferroviária em 26/11 (Jorge Macedo ao Portal Morada): elenco e reforços para Série B e A1 2027"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-24T06:44-03:00",
+   "motivo": "Notícia de 23/11 (14 jogadores para 2027) só no ge, que a Máquina não conseguiu abrir; Futebol Interior diverge (Julian Henrique Carlota, Cristiano Lohr renovado x reforço, ano do vice de Kiko)",
+   "sugestao": "Elenco do Tanabi para a Série A4 de 2027: conferir a lista no ge (23/11) e no Instagram do clube e resolver as divergências com o Futebol Interior"
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-24T06:44-03:00",
+   "motivo": "Só 1 fonte lida (Futebol Interior); ge e Costa Norte não abriram",
+   "sugestao": "Samuel Maninho, novo diretor de futebol do Jabaquara, e seletiva para nascidos até 2009 em 25 e 26/11, 8h, no Estádio Espanha (urgente: sai antes da quarta)"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-24T06:44-03:00",
+   "motivo": "Fontes lidas (WMais, Futebol Interior) não falam da troca de vagas com São Caetano/Itaquaquecetuba; ge não abriu",
+   "sugestao": "Justiça suspende parceria Rio Branco x Sertãozinho (23/11): conferir no ge se a troca em cadeia levaria o São Caetano à A3"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-24T06:44-03:00",
+   "motivo": "Sem foto livre do clube ou do Suzanão para conferir",
+   "sugestao": "Suzano fica fora das sedes da Copinha 2027 (ge e Diário de Suzano, 19/11); precisa de foto do União Suzano com crédito"
+  },
+  {
+   "clube": "ad-guarulhos",
+   "nome": "AD Guarulhos",
+   "quando": "2026-11-24T06:44-03:00",
+   "motivo": "Sem notícia nos últimos 7 dias",
+   "sugestao": "Planos da AD Guarulhos para a Segunda Divisão de 2027 (diretoria e técnico), com o clube e a Folha Metropolitana"
+  },
+  {
+   "clube": "taubate-feminino",
+   "nome": "Taubaté Feminino",
+   "quando": "2026-11-24T06:44-03:00",
+   "motivo": "Sem notícia recente encontrada",
+   "sugestao": "Preparação do Taubaté para a Copa Paulista Feminina de 2027 (elenco e comissão), com t7news e Portal R3"
   }
  ]
 }
