@@ -201,6 +201,7 @@ def cmd_proximo(_a):
     print(f"Evergreen hoje: {len(ev)} de no máximo 4 (cota diária: 8 A4, 8 sem divisão, 8 feminino)")
 
 
+HORARIOS_A1 = ["08:00", "09:40", "11:20", "13:00", "14:40", "16:20", "18:00", "19:40", "21:20", "22:00"]
 PAUTAS_EV = Path(__file__).resolve().parent.parent / "dados" / "pautas_evergreen.json"
 
 
@@ -338,6 +339,38 @@ def checar_mostra(foto, titulo, nome_clube):
     if re.search(r"\barte\b|logo|escudo|montagem|card |banner", m):
         e.append("arte, escudo, logo ou montagem não servem como foto principal")
     return e
+
+
+def cmd_publicar_rascunhos(a):
+    """24/11/2026: rascunhos da Máquina que só esperavam foto recebem a foto de arquivo do clube e são publicados."""
+    dias = int(opc(a, "--dias") or 3)
+    lim = (agora() - datetime.timedelta(days=dias)).strftime("%Y-%m-%d")
+    h = historico()["itens"]
+    n = 0
+    cache = {}
+    for i in h:
+        if not i.get("rascunho") or i.get("publish_at", "") < lim or i.get("rascunho_solto"):
+            continue
+        cl = i.get("clube", "")
+        if cl not in cache:
+            cache[cl] = foto_de_arquivo(cl)
+        fa = cache[cl]
+        if not fa:
+            print(f"- sem foto de arquivo: {cl} | {i.get('titulo', '')[:70]}")
+            continue
+        nome_c = (achar_clube(cl) or {}).get("nome", cl) if cl else cl
+        foto = dict(fa, mostra=f"Foto de arquivo do {nome_c}, usada em outra matéria do TSP ({fa['credito']})")
+        slot = agora().strftime("%Y-%m-%d %H:%M")
+        it = {"id": "f" + hashlib.md5((i["id"] + foto["url"]).encode()).hexdigest()[:12], "tipo": "troca_foto", "alvo": i["id"], "foto": foto, "publicar": True}
+        z = base64.b64encode(gzip.compress(json.dumps(it, ensure_ascii=False).encode("utf-8"))).decode()
+        nome = f"{slot.replace('-', '').replace(' ', '-').replace(':', '')}-foto-{i['id']}.json"
+        gravar(FILA / nome, {"v": 1, "id": it["id"], "publish_at": slot, "z": z})
+        i["rascunho_solto"] = slot
+        n += 1
+        print(f"- solto: {cl} | {i.get('titulo', '')[:70]}")
+    gravar(M / "historico.json", {"itens": h})
+    escrever_indice()
+    print(f"{n} rascunho(s) com foto de arquivo na fila para publicar. Commit, push e avisar-site.")
 
 
 def cmd_lixeira(a):
@@ -508,6 +541,37 @@ def adicionar_versao(it):
     print(f"OK: versão de {it['clube']} da matéria {it['versao_de']} na fila ({nome}). Commit, push e avisar-site.")
 
 
+def foto_de_arquivo(slug):
+    """24/11/2026: matéria sem foto conferida não fica mais presa como rascunho. Usa a foto mais recente de outra matéria
+    do mesmo clube no site, com o crédito da legenda (fotógrafo/clube). Pula reprodução de vídeo, arte e imagem gerada."""
+    import html as _h
+    tid = termos().get(slug)
+    if not tid:
+        return None
+    try:
+        ms = baixar(f"{SITE}materia?times={tid}&per_page=20&_fields=id,featured_media,link")
+    except Exception:  # noqa: BLE001
+        return None
+    for x in ms:
+        if not x.get("featured_media"):
+            continue
+        try:
+            md = baixar(f"{SITE}media/{x['featured_media']}?_fields=source_url,caption,alt_text,media_details")
+        except Exception:  # noqa: BLE001
+            continue
+        url = md.get("source_url", "")
+        cap = _h.unescape(re.sub(r"<[^>]+>", "", (md.get("caption") or {}).get("rendered", ""))).strip()
+        w = int((md.get("media_details") or {}).get("width") or 0)
+        if not url or w < 900 or not cap or re.search(r"chatgpt|dall-?e|gemini|midjourney|\bia\b|arte|card", url + " " + cap, re.I):
+            continue
+        if re.search(r"reprodu[cç][aã]o|youtube|instagram", cap, re.I):
+            continue
+        cred = cap if cap.lower().startswith("foto") else "Foto: " + cap.rstrip(".")
+        return {"url": url, "credito": cred, "fonte": x.get("link", ""), "alt": md.get("alt_text") or f"Foto de arquivo do clube ({cred})",
+                "mostra": f"Foto de arquivo do clube usada em outra matéria do TSP ({cred})", "arquivo": True}
+    return None
+
+
 def cmd_adicionar(a):
     it = json.loads(Path(a[0]).read_text(encoding="utf-8"))
     if it.get("tipo") == "versao":
@@ -584,6 +648,15 @@ def cmd_adicionar(a):
             erros.append(f"fonte sem nome do veículo: {f.get('url')}")
     foto = it.get("foto") or {}
     pend = str(it.get("foto_pendente") or "").strip()
+    # 24/11/2026 (Thiago: a máquina não pode ficar parada esperando foto): sem foto conferida, foto de arquivo do clube
+    if pend and not foto and not it.get("so_rascunho"):
+        fa = foto_de_arquivo(it.get("clube", ""))
+        if fa:
+            fa["mostra"] = f"Foto de arquivo do {c.get('nome', '')}, usada em outra matéria do TSP ({fa['credito']})"
+            it["foto"] = foto = fa
+            it["foto_pendente_original"] = pend
+            it.pop("foto_pendente", None)
+            pend = ""
     if foto and pend:
         erros.append("use 'foto' OU 'foto_pendente', não os dois")
     if pend and len(pend) < 40:
@@ -610,7 +683,8 @@ def cmd_adicionar(a):
             erros.append("foto.url precisa ser https de site permitido")
         if not foto.get("credito") or not foto.get("fonte"):
             erros.append("foto precisa de credito e fonte (página de onde veio)")
-        erros += checar_mostra(foto, it.get("titulo", ""), c.get("nome", ""))
+        if not foto.get("arquivo"):  # foto de arquivo do clube: crédito original, sem exigir que mostre o assunto exato
+            erros += checar_mostra(foto, it.get("titulo", ""), c.get("nome", ""))
     if PROIBIDO.search(json.dumps(it, ensure_ascii=False)):
         erros.append("conteúdo de aposta não pode")
     h = historico()["itens"]
@@ -943,7 +1017,8 @@ def blocos_cota():
         ("Paulistão A4", [c["slug"] for c in cs if c.get("grupo") == "a4"], 8, 0, "PRIORIDADE: 8 por dia, o clube com menos matérias nos últimos 7 dias primeiro"),
         ("Clubes prioritários (2 por dia)", fixos, 2 * len(fixos), 2, "2 de cada clube por dia, qualquer divisão (1 até 12h, a 2ª até 18h)"),
         # 22/11/2026 (Thiago): A1 passou a 2 matérias de CADA clube de férias por dia (1 até 12h, a 2ª até 18h)
-        ("Paulistão A1 (10 clubes de férias: 2 de cada por dia)", [x for x in BLOCOS["A1"] if x not in nac], 2 * len([x for x in BLOCOS["A1"] if x not in nac]), 2, "2 matérias de CADA clube por dia: 1 até 12h e a 2ª até 18h (o bloco da home precisa mostrar os 10)"),
+        # 24/11/2026 (Thiago): A1 = 1 matéria de CADA clube por dia, espalhadas das 8h às 22h de 1h40 em 1h40
+        ("Paulistão A1 (10 clubes de férias: 1 de cada por dia)", [x for x in BLOCOS["A1"] if x not in nac], len([x for x in BLOCOS["A1"] if x not in nac]), 1, "1 matéria de CADA clube por dia, publish_at nos horários " + ", ".join(HORARIOS_A1) + " (um clube por horário)"),
         ("Paulistão A2", [x for x in BLOCOS["A2"] if x not in nac], 8, 0, "8 por dia, EQUILÍBRIO: o clube com menos matérias nos últimos 7 dias primeiro"),
         ("Paulistão A3", [x for x in BLOCOS["A3"] if x not in nac], 8, 0, "8 por dia, EQUILÍBRIO: o clube com menos matérias nos últimos 7 dias primeiro"),
         ("Futebol feminino", [c["slug"] for c in cs if c.get("grupo") == "feminino"], 8, 0, "NO MÍNIMO 8 por dia (regra do Thiago, 22/11), variando entre as equipes; pós-jogo e tabela do painel no mesmo dia do jogo"),
@@ -1155,4 +1230,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas, "intencoes": cmd_intencoes, "ja-tem": cmd_ja_tem, "evergreen": cmd_evergreen}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas, "intencoes": cmd_intencoes, "ja-tem": cmd_ja_tem, "evergreen": cmd_evergreen, "publicar-rascunhos": cmd_publicar_rascunhos}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])

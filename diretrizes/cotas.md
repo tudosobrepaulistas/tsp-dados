@@ -40,7 +40,7 @@ Se a redação não fez, a Máquina faz. A Máquina nunca passa da conta: só co
 
 ## Prioridades de 19/11/2026 (pedido do Thiago)
 - **Paulistão A4 é prioridade**: 8 matérias por dia, sempre logo depois de Mirassol + Bragantino. O A4 ficou 2 dias sem matéria (17 e 18/11): não pode se repetir.
-- **Paulistão A1 (clubes de férias)**: o bloco da home precisa mostrar os 10 clubes (Botafogo-SP, Capivariano, Ferroviária, Guarani, Juventus, Noroeste, Novorizontino, Portuguesa, Primavera e São Bernardo): **2 matérias de cada clube por dia** (regra de 22/11/2026: 1 até 12h e a 2ª até 18h; o A1 ficou 21/11 inteiro sem matéria).
+- **Paulistão A1 (clubes de férias)**: o bloco da home precisa mostrar os 10 clubes (Botafogo-SP, Capivariano, Ferroviária, Guarani, Juventus, Noroeste, Novorizontino, Portuguesa, Primavera e São Bernardo): **1 matéria de cada clube por dia** (regra de 24/11/2026), nos horários 08:00, 09:40, 11:20, 13:00, 14:40, 16:20, 18:00, 19:40, 21:20 e 22:00 (um clube por horário).
 - **A2 e A3: equilíbrio**. A ferramenta conta as matérias de cada clube nos últimos 7 dias (redação + Máquina) e mostra primeiro os clubes com menos cobertura. Não escreva sobre o clube que a redação já cobriu bem enquanto houver clube do mesmo bloco com 0 ou 1 matéria na semana.
 - Ponte Preta continua no bloco do **Paulistão A2**.
 - Ordem de execução: Mirassol + Bragantino → A4 → clubes prioritários → A1 → A2 → A3 → base → feminino → sem divisão.
@@ -52,3 +52,9 @@ Se a redação não fez, a Máquina faz. A Máquina nunca passa da conta: só co
 ## Regras de 24/11/2026 (Thiago)
 - **Base feminina não é mais coberta.** O bloco "Futebol feminino de base" saiu da home (tema 1.8.8) e o `adicionar` recusa matéria de base do feminino. A cota de base (4 por dia) é só do masculino.
 - **Clubes sem divisão: 6 textos atemporais por dia** pelas buscas mais feitas de cada clube (`dados/pautas_evergreen.json`, comando `maquina.py evergreen`). Ver `diretrizes/evergreen.md`.
+
+## Regras de 24/11/2026, à tarde (Thiago: "a máquina não entrou em ação")
+- **Paulistão A1: 1 matéria de cada um dos 10 clubes por dia**, uma por horário: 08:00, 09:40, 11:20, 13:00, 14:40, 16:20, 18:00, 19:40, 21:20 e 22:00.
+- **Mirassol e Bragantino: 2 por dia cada (12h e 18h)**, sem exceção.
+- **Sem foto conferida não é mais motivo para a matéria ficar parada.** O `adicionar` usa sozinho a foto de arquivo do clube (a mais recente de outra matéria do TSP, com o crédito original do fotógrafo ou do clube) e a matéria é publicada. Só fica como rascunho se não existir nenhuma foto de arquivo.
+- **"Sem pauta" é o último recurso.** Antes de desistir de um clube, passe por TODOS os do bloco e use os formatos permitidos (notícia, coletiva, nota oficial, vídeo do canal oficial, Mercado da Bola, e evergreen onde a diretriz permite).
