@@ -1082,8 +1082,17 @@ def cmd_cotas(a):
             else:
                 alvo = por_clube if t.hour >= 17 else (1 if t.hour >= 11 else 0)
             faltam = [(s, alvo - cont[s]) for s in slugs if cont[s] < alvo]
-            if por_clube == 1 and 11 <= t.hour < 17:
-                # A1: de manhã metade dos clubes, à tarde todos (os menos cobertos na semana primeiro)
+            if por_clube == 1 and nome.startswith("Paulistão A1"):
+                # 24/11/2026: A1 com horários fixos (1h40 em 1h40): até agora, tantos clubes cobertos quantos horários já passaram
+                passados = sum(1 for hh in HORARIOS_A1 if hh <= t.strftime("%H:%M"))
+                cobertos = sum(1 for x in slugs if cont[x] >= 1)
+                pend = sorted([x for x in slugs if cont[x] < 1], key=lambda x: sete.get(x, 0))
+                # todos os que faltam já podem ser escritos e AGENDADOS nos próximos horários livres do dia
+                faltam = [(x, 1) for x in pend]
+                livres = [hh for hh in HORARIOS_A1 if hh > t.strftime("%H:%M")]
+                if pend:
+                    print(f"   A1 · agende assim (publish_at): " + ", ".join(f"{x} {livres[k] if k < len(livres) else 'agora'}" for k, x in enumerate(pend)))
+            elif por_clube == 1 and 11 <= t.hour < 17:
                 faltam = sorted(faltam, key=lambda x: sete.get(x[0], 0))[:max(0, math.ceil(len(slugs) * frac) - feito)]
             n = sum(x for _, x in faltam)
             st = f"{feito} hoje ({', '.join(f'{s} {cont[s]}' for s in slugs)})"
