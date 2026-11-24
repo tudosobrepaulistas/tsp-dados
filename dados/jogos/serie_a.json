@@ -5379,7 +5379,109 @@
     "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-07/palmeiras-perde-e-flamengo-empata-no-fim-de-semana-do-brasileirao",
     "https://www.opovo.com.br/agencia/jogada10/2026/07/26/em-jogo-de-muita-intensidade-bahia-e-corinthians-empatam-na-fonte-nova.html"
    ],
-   "atualizado": "2026-11-23T03:40:00-03:00"
+   "atualizado": "2026-11-23T03:40:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Roman Gómez, David Duarte, Ramos Mingo, Zé Guilherme; Acevedo, Jean Lucas, Rodrigo Nestor; Ademir, Erick Pulga, Alejo Véliz",
+     "entraram": [
+      {
+       "jogador": "Luciano Juba",
+       "saiu": "Zé Guilherme",
+       "minuto": ""
+      },
+      {
+       "jogador": "Éverton Ribeiro",
+       "saiu": "Jean Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kauê Furquim",
+       "saiu": "Ademir",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sanabria",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      },
+      {
+       "jogador": "Willian José",
+       "saiu": "Alejo Véliz",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "David Duarte",
+        "minuto": ""
+       },
+       {
+        "jogador": "Zé Guilherme",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Fernando Diniz",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Fabrizio Angileri; Raniele, André, Breno Bidon, Rodrigo Garro; Kaio César, Yuri Alberto",
+     "entraram": [
+      {
+       "jogador": "Pedro Milans",
+       "saiu": "Fabrizio Angileri",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Raniele",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allan",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Zakaria Labyad",
+       "saiu": "Breno Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Carrillo",
+       "saiu": "Yuri Alberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Fabrizio Angileri",
+        "minuto": ""
+       },
+       {
+        "jogador": "Raniele",
+        "minuto": ""
+       },
+       {
+        "jogador": "Breno Bidon",
+        "minuto": ""
+       },
+       {
+        "jogador": "Allan",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-sofre-empata-com-o-bahia-e-perde-chance-de-encostar-no-g5-do-brasileirao/"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000425,
@@ -5746,6 +5848,141 @@
     "https://ohoje.com/2026/07/30/resultados-do-brasileirao-palmeiras-goleia-flamengo-empata-e-gremio-entra-no-z-4/"
    ],
    "atualizado": "2026-11-22T12:31:00-03:00"
+  },
+  {
+   "id": 91000546,
+   "data": "2026-07-30T19:30:00-03:00",
+   "casa": "corinthians",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://ohoje.com/2026/07/31/corinthians-empata-com-athletico-pr-e-cruzeiro-vence-o-coritiba-pela-serie-a/",
+    "https://www.metropoles.com/esportes/corinthians-e-athletico-pr-empatam-sem-gols-no-campeonato-brasileiro",
+    "https://www.oliberal.com/esportes/corinthians-improvisa-e-empata-com-o-athletico-pr-em-jogo-com-drama-para-yuri-alberto-1.1151817"
+   ],
+   "atualizado": "2026-11-24T03:41:00-03:00"
+  },
+  {
+   "id": 91000547,
+   "data": "2026-07-30T21:30:00-03:00",
+   "casa": "coritiba",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "21",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Couto Pereira",
+   "cidade": "Curitiba",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Matheus Pereira",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-bate-coritiba-fora-de-casa-e-fica-mais-perto-do-g5-do-brasileiro/",
+    "https://www.lance.com.br/cruzeiro/matheus-pereira-decide-e-cruzeiro-vence-o-coritiba.html"
+   ],
+   "atualizado": "2026-11-24T03:41:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Seabra",
+     "time": "Pedro Morisco; Tinga, Jacy, Tiago Cóser, Bruno Melo; Thiago Santos, Sebastian Gomez, Lucas Ronier, Josué, Breno Lopes; Pedro Rocha",
+     "entraram": [
+      {
+       "jogador": "Vitor Tissi",
+       "saiu": "Thiago Santos",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ocampo",
+       "saiu": "Sebastian Gomez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Keno",
+       "saiu": "Breno Lopes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Rodrigues",
+       "saiu": "Pedro Rocha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Thiago Santos",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; William, Fabrício Bruno, Jonatha Jesus, Gabriel Rojas; Lucas Romero, Gerson, Arroyo, Matheus Pereira, Felipe Morais; Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Villalba",
+       "saiu": "Gabriel Rojas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Henrique",
+       "saiu": "Gerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marquinhos",
+       "saiu": "Arroyo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kaique Kenji",
+       "saiu": "Felipe Morais",
+       "minuto": ""
+      },
+      {
+       "jogador": "Bruno Rodrigues",
+       "saiu": "Kaio Jorge",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Matheus Henrique",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-bate-coritiba-fora-de-casa-e-fica-mais-perto-do-g5-do-brasileiro/"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000521,
@@ -7566,7 +7803,94 @@
     "https://ohoje.com/2026/08/30/santos-vence-corinthians-fora-de-casa-encerra-jejum-em-classicos-e-respira-na-luta-contra-o-z4/",
     "https://acritica.net/esportes/futebol/com-jogada-de-neymar-santos-vence-corinthians-por-1-a-0-no-brasileirao/"
    ],
-   "atualizado": "2026-11-22T12:22:00-03:00"
+   "atualizado": "2026-11-22T12:22:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Fernando Diniz",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; Raniele, Allan, Rodrigo Garro; Kaio César, Dieguinho, Memphis Depay",
+     "entraram": [
+      {
+       "jogador": "Matheus Pereira",
+       "saiu": "Raniele",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Allan",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gui Negão",
+       "saiu": "Dieguinho",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Gabriel Paulista",
+        "minuto": ""
+       },
+       {
+        "jogador": "Raniele",
+        "minuto": ""
+       },
+       {
+        "jogador": "Rodrigo Garro",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Cuca",
+     "time": "Gabriel Brazão; Igor Vinicius, Lucas Veríssimo, Luan Peres, Escobar; Willian Arão, Gustavo Henrique, Gabriel Bontempo, Barreal; Neymar, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Christian Oliva",
+       "saiu": "Gustavo Henrique",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "Davizinho",
+       "saiu": "Gabigol",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Lucas Veríssimo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Willian Arão",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barreal",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-x-santos-campeonato-brasileiro-30-08-2026/"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000489,
@@ -10166,7 +10490,96 @@
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-x-corinthians-30-rodada-brasileirao-11-10-2026/",
     "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-da-show-humilha-corinthians-e-mergulha-rival-na-crise/"
    ],
-   "atualizado": "2026-10-28T14:08:00-03:00"
+   "atualizado": "2026-10-28T14:08:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Gustavo Gómez, Murilo, Barboza; Giay, Lucas Evangelista, Andreas Pereira, Arias, Piquerez; Flaco López, Vitor Roque",
+     "entraram": [
+      {
+       "jogador": "Bruno Fuchs",
+       "saiu": "Gustavo Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Emiliano Martínez",
+       "saiu": "Lucas Evangelista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maurício",
+       "saiu": "Flaco López",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sosa Paulinho",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Arias",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "William Batista",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; Raniele, André, Bidon, Carrillo; Memphis Depay, Yuri Alberto",
+     "entraram": [
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Raniele",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Ramalho",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allan",
+       "saiu": "Carrillo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Yuri Alberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Raniele",
+        "minuto": ""
+       },
+       {
+        "jogador": "Memphis Depay",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Paulista",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/palmeiras-faz-4-atropela-o-corinthians-e-ganha-moral-para-decisao-na-libertadores-1.1181577"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000076,
@@ -11126,7 +11539,99 @@
     "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-2-x-0-rb-bragantino-veja-os-melhores-momentos-pelo-brasileirao/",
     "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bragantino-32-rodada-brasileirao-24-10-2026/"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-27T11:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Bruno Fuchs, Gustavo Gómez, Alexander Barboza; Giay, Marlon Freitas, Lucas Evangelista, Arthur; Mauricio, Jhon Arias, Ramón Sosa",
+     "entraram": [
+      {
+       "jogador": "Murilo",
+       "saiu": "Alexander Barboza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Emiliano Martínez",
+       "saiu": "Lucas Evangelista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Mauricio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Larson",
+       "saiu": "Jhon Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Flaco López",
+       "saiu": "Ramón Sosa",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Giay",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Gómez",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Ryan, Alix Vinícius, Guzmán Rodríguez, Juninho Capixaba; Fabinho, Matheus Fernandes, Lucas Barbosa; Herrera, Isidro Pitta, Fernando",
+     "entraram": [
+      {
+       "jogador": "Ignacio Sosa",
+       "saiu": "Fabinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel",
+       "saiu": "Matheus Fernandes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinicinho",
+       "saiu": "Fernando",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alix Vinícius",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Herrera",
+        "minuto": ""
+       },
+       {
+        "jogador": "Tiago Volpi",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/palmeiras-supera-penalti-perdido-vence-red-bull-bragantino-e-assume-lideranca-do-brasileirao-1.1186444"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000007,
@@ -11206,7 +11711,102 @@
     "https://www.gazetaesportiva.com/times/santos/santos-empata-bahia-neymar-expulso/",
     "https://www.lance.com.br/santos/veja-gols-em-santos-e-bahia-pelo-campeonato-brasileiro.html"
    ],
-   "atualizado": "2026-10-27T11:48:00-03:00"
+   "atualizado": "2026-10-27T11:48:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Luan Peres, Barreal; Gustavo Henrique, Gabriel Bontempo, Philippe Coutinho; Neymar, Gabigol, Everton Cebolinha",
+     "entraram": [
+      {
+       "jogador": "Caballero",
+       "saiu": "Rodinei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Gonzaga",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Schmidt",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Neymar",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Nicolás Acevedo, Erick, Rodrigo Nestor; Kike Olivera, Alejo Véliz, Erick Pulga",
+     "entraram": [
+      {
+       "jogador": "Zé Guilherme",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marco Moreno",
+       "saiu": "Kanu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araújo",
+       "saiu": "Nicolás Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wendel",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ruan Pablo",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Nicolás Acevedo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kanu",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/santos-busca-empate-nos-acrescimos-apos-neymar-se-descontrolar-e-ser-expulso-contra-o-bahia-1.1186459"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000009,
@@ -11360,7 +11960,113 @@
     "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasileirao-palmeiras-fica-no-zero-com-o-santos-e-flamengo-agradece",
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/palmeiras-empata-santos-flamengo-lideranca-brasileirao/"
    ],
-   "atualizado": "2026-10-29T01:41:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Luan Peres, Barreal; Gustavinho, Christian Oliva, Gabriel Bontempo, Philipe Coutinho, Everton Cebolinha; Gabigol",
+     "entraram": [
+      {
+       "jogador": "Igor Vinícius",
+       "saiu": "Rodinei",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Gustavinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lima",
+       "saiu": "Christian Oliva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Philipe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Schmidt",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Bontempo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Philipe Coutinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Murilo, Gómez, Barboza; Giay, Marlon Freitas, Lucas Evangelista, Andreas Pereira, Piquerez; Arias, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Larson",
+       "saiu": "Marlon Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maurício",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur",
+       "saiu": "Piquerez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Roque",
+       "saiu": "Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Flaco López",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marlon Freitas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Giay",
+        "minuto": ""
+       },
+       {
+        "jogador": "Piquerez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barboza",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/palmeiras-empata-com-o-santos-e-da-oportunidade-para-flamengo-ampliar-vantagem-1.1188110"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000013,
@@ -11404,7 +12110,75 @@
     "https://www.terra.com.br/esportes/wallace-yan-marca-dois-e-red-bull-bragantino-bate-a-chapecoense,2cbd28c7ffe7a9b053585e0fe8eeb85b3204dbfx.html",
     "https://www.cnnbrasil.com.br/esportes/brasileirao/rb-bragantino-3-x-0-chapecoense-veja-os-melhores-momentos-do-brasileirao/"
    ],
-   "atualizado": "2026-10-29T01:41:00-03:00"
+   "atualizado": "2026-10-29T01:41:00-03:00",
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Cleiton; Ryan Augusto, Alix Vinícius, Guzmán Rodríguez, Juninho Capixaba; Fabinho, Eric Ramires, Eduardo Sasha; Fernando, Wallace Yan, Lucas Barbosa",
+     "entraram": [
+      {
+       "jogador": "Sant'Anna",
+       "saiu": "Ryan Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Eric Ramires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pita",
+       "saiu": "Eduardo Sasha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Henry Mosquera",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Herrera",
+       "saiu": "Wallace Yan",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Bruno Tubarão, Kauan Faria, João Paulo, Bruno Pacheco; Bruno Matias, Fernando, David, Giovanni Augusto; Marcinho, Bolasie",
+     "entraram": [
+      {
+       "jogador": "Dudu",
+       "saiu": "Bruno Tubarão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Max",
+       "saiu": "Bruno Matias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Túlio Eduardo",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rosivan",
+       "saiu": "David",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kevin Ramírez",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4365644/red-bull-bragantino-vence-a-chapecoense-por-3-a-0-e-se-afasta-da-zoina-de-rebaixamento"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   }
   },
   {
    "id": 91000014,
@@ -16276,6 +17050,100 @@
      "https://gremio.net/noticias/detalhes/30408/gremio-bate-o-santos-de-virada-na-arena-pelo-brasileirao"
     ],
     "atualizado": "2026-11-20T22:25:00-03:00"
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Willian Arão, Luan Peres; Arthur, Gabriel Bontempo, Neymar; Philippe Coutinho, Everton Cebolinha, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Igor Vinícius",
+       "saiu": "Rodinei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Escobar",
+       "saiu": "João Alencar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Menino",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Alencar",
+        "minuto": ""
+       },
+       {
+        "jogador": "Willian Arão",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Renato Gaúcho",
+     "time": "Weverton; Diego Caito, Wallace, Kannemann, Marlon; Villasanti, Dodi, Noriega; Amuzu, Pavón, Carlos Vinícius",
+     "entraram": [
+      {
+       "jogador": "Balbuena",
+       "saiu": "Kannemann",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo Barbosa",
+       "saiu": "Dodi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Paulista",
+       "saiu": "Amuzu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Pavón",
+       "minuto": ""
+      },
+      {
+       "jogador": "Braithwaite",
+       "saiu": "Carlos Vinícius",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Noriega",
+        "minuto": ""
+       },
+       {
+        "jogador": "Caio Paulista",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/gremio-vence-santos-no-morumbis-e-empurra-corinthians-para-zona-de-rebaixamento-do-brasileirao-1.1197565"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
    }
   },
   {

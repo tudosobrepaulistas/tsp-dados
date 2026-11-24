@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T01:54:00-03:00",
+ "gerado": "2026-11-24T03:41:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -817,6 +817,18 @@
      900016,
      900001,
      1,
+     1
+    ],
+    [
+     900018,
+     900004,
+     0,
+     0
+    ],
+    [
+     900012,
+     900003,
+     0,
      1
     ],
     [
@@ -7823,6 +7835,112 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://ohoje.com/2026/07/31/corinthians-empata-com-athletico-pr-e-cruzeiro-vence-o-coritiba-pela-serie-a/",
+    "https://www.metropoles.com/esportes/corinthians-e-athletico-pr-empatam-sem-gols-no-campeonato-brasileiro",
+    "https://www.oliberal.com/esportes/corinthians-improvisa-e-empata-com-o-athletico-pr-em-jogo-com-drama-para-yuri-alberto-1.1151817"
+   ],
+   "fixture": {
+    "id": 91000546,
+    "timestamp": 1785450600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 21"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-bate-coritiba-fora-de-casa-e-fica-mais-perto-do-g5-do-brasileiro/",
+    "https://www.lance.com.br/cruzeiro/matheus-pereira-decide-e-cruzeiro-vence-o-coritiba.html"
+   ],
+   "fixture": {
+    "id": 91000547,
+    "timestamp": 1785457800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Couto Pereira",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 21"
+   },
+   "teams": {
+    "home": {
+     "id": 900012,
+     "name": "Coritiba"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.band.com.br/esportes/gremio-2-x-1-sao-paulo-veja-os-melhores-momentos-da-virada-202608081912",
     "https://jornalgrandebahia.com.br/?p=1376859"
    ],
@@ -13624,7 +13742,95 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Gustavo Gómez, Murilo, Barboza; Giay, Lucas Evangelista, Andreas Pereira, Arias, Piquerez; Flaco López, Vitor Roque",
+     "entraram": [
+      {
+       "jogador": "Bruno Fuchs",
+       "saiu": "Gustavo Gómez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Emiliano Martínez",
+       "saiu": "Lucas Evangelista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maurício",
+       "saiu": "Flaco López",
+       "minuto": ""
+      },
+      {
+       "jogador": "Sosa Paulinho",
+       "saiu": "Vitor Roque",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Arias",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "William Batista",
+     "time": "Hugo Souza; Matheuzinho, Gabriel Paulista, Gustavo Henrique, Matheus Bidu; Raniele, André, Bidon, Carrillo; Memphis Depay, Yuri Alberto",
+     "entraram": [
+      {
+       "jogador": "Dieguinho",
+       "saiu": "Raniele",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Ramalho",
+       "saiu": "André",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitinho",
+       "saiu": "Bidon",
+       "minuto": ""
+      },
+      {
+       "jogador": "Allan",
+       "saiu": "Carrillo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Raul",
+       "saiu": "Yuri Alberto",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Raniele",
+        "minuto": ""
+       },
+       {
+        "jogador": "Memphis Depay",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Paulista",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/palmeiras-faz-4-atropela-o-corinthians-e-ganha-moral-para-decisao-na-libertadores-1.1181577"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -15118,7 +15324,98 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Bruno Fuchs, Gustavo Gómez, Alexander Barboza; Giay, Marlon Freitas, Lucas Evangelista, Arthur; Mauricio, Jhon Arias, Ramón Sosa",
+     "entraram": [
+      {
+       "jogador": "Murilo",
+       "saiu": "Alexander Barboza",
+       "minuto": ""
+      },
+      {
+       "jogador": "Emiliano Martínez",
+       "saiu": "Lucas Evangelista",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Mauricio",
+       "minuto": ""
+      },
+      {
+       "jogador": "Larson",
+       "saiu": "Jhon Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Flaco López",
+       "saiu": "Ramón Sosa",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Giay",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gustavo Gómez",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Vagner Mancini",
+     "time": "Tiago Volpi; Ryan, Alix Vinícius, Guzmán Rodríguez, Juninho Capixaba; Fabinho, Matheus Fernandes, Lucas Barbosa; Herrera, Isidro Pitta, Fernando",
+     "entraram": [
+      {
+       "jogador": "Ignacio Sosa",
+       "saiu": "Fabinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gabriel",
+       "saiu": "Matheus Fernandes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vinicinho",
+       "saiu": "Fernando",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Alix Vinícius",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel",
+        "minuto": ""
+       },
+       {
+        "jogador": "Herrera",
+        "minuto": ""
+       },
+       {
+        "jogador": "Tiago Volpi",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/palmeiras-supera-penalti-perdido-vence-red-bull-bragantino-e-assume-lideranca-do-brasileirao-1.1186444"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -15290,7 +15587,101 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Luan Peres, Barreal; Gustavo Henrique, Gabriel Bontempo, Philippe Coutinho; Neymar, Gabigol, Everton Cebolinha",
+     "entraram": [
+      {
+       "jogador": "Caballero",
+       "saiu": "Rodinei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rafael Gonzaga",
+       "saiu": "Barreal",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Schmidt",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": [
+       {
+        "jogador": "Neymar",
+        "minuto": ""
+       }
+      ]
+     }
+    },
+    "fora": {
+     "tecnico": "Rogério Ceni",
+     "time": "Ronaldo; Marcos Victor, David Duarte, Kanu, Luciano Juba; Nicolás Acevedo, Erick, Rodrigo Nestor; Kike Olivera, Alejo Véliz, Erick Pulga",
+     "entraram": [
+      {
+       "jogador": "Zé Guilherme",
+       "saiu": "Marcos Victor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marco Moreno",
+       "saiu": "Kanu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Michel Araújo",
+       "saiu": "Nicolás Acevedo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Wendel",
+       "saiu": "Rodrigo Nestor",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ruan Pablo",
+       "saiu": "Erick Pulga",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Nicolás Acevedo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Kanu",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/santos-busca-empate-nos-acrescimos-apos-neymar-se-descontrolar-e-ser-expulso-contra-o-bahia-1.1186459"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -15651,7 +16042,112 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Luan Peres, Barreal; Gustavinho, Christian Oliva, Gabriel Bontempo, Philipe Coutinho, Everton Cebolinha; Gabigol",
+     "entraram": [
+      {
+       "jogador": "Igor Vinícius",
+       "saiu": "Rodinei",
+       "minuto": ""
+      },
+      {
+       "jogador": "João Schmidt",
+       "saiu": "Gustavinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lima",
+       "saiu": "Christian Oliva",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Philipe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Schmidt",
+        "minuto": ""
+       },
+       {
+        "jogador": "Gabriel Bontempo",
+        "minuto": ""
+       },
+       {
+        "jogador": "Philipe Coutinho",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Carlos Miguel; Murilo, Gómez, Barboza; Giay, Marlon Freitas, Lucas Evangelista, Andreas Pereira, Piquerez; Arias, Flaco López",
+     "entraram": [
+      {
+       "jogador": "Larson",
+       "saiu": "Marlon Freitas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Maurício",
+       "saiu": "Andreas Pereira",
+       "minuto": ""
+      },
+      {
+       "jogador": "Arthur",
+       "saiu": "Piquerez",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Roque",
+       "saiu": "Arias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Anderson",
+       "saiu": "Flaco López",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Marlon Freitas",
+        "minuto": ""
+       },
+       {
+        "jogador": "Giay",
+        "minuto": ""
+       },
+       {
+        "jogador": "Piquerez",
+        "minuto": ""
+       },
+       {
+        "jogador": "Barboza",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/palmeiras-empata-com-o-santos-e-da-oportunidade-para-flamengo-ampliar-vantagem-1.1188110"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   },
    "previsao": null,
    "events": []
   },
@@ -15697,7 +16193,74 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vagner Mancini",
+     "time": "Cleiton; Ryan Augusto, Alix Vinícius, Guzmán Rodríguez, Juninho Capixaba; Fabinho, Eric Ramires, Eduardo Sasha; Fernando, Wallace Yan, Lucas Barbosa",
+     "entraram": [
+      {
+       "jogador": "Sant'Anna",
+       "saiu": "Ryan Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Matheus Fernandes",
+       "saiu": "Eric Ramires",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pita",
+       "saiu": "Eduardo Sasha",
+       "minuto": ""
+      },
+      {
+       "jogador": "Henry Mosquera",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Herrera",
+       "saiu": "Wallace Yan",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Rafael Lacerda",
+     "time": "Anderson; Bruno Tubarão, Kauan Faria, João Paulo, Bruno Pacheco; Bruno Matias, Fernando, David, Giovanni Augusto; Marcinho, Bolasie",
+     "entraram": [
+      {
+       "jogador": "Dudu",
+       "saiu": "Bruno Tubarão",
+       "minuto": ""
+      },
+      {
+       "jogador": "Max",
+       "saiu": "Bruno Matias",
+       "minuto": ""
+      },
+      {
+       "jogador": "Túlio Eduardo",
+       "saiu": "Fernando",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rosivan",
+       "saiu": "David",
+       "minuto": ""
+      },
+      {
+       "jogador": "Kevin Ramírez",
+       "saiu": "Marcinho",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4365644/red-bull-bragantino-vence-a-chapecoense-por-3-a-0-e-se-afasta-da-zoina-de-rebaixamento"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -22176,7 +22739,100 @@
     ],
     "atualizado": "2026-11-20T22:25:00-03:00"
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Cuca",
+     "time": "Diógenes; Rodinei, João Alencar, Willian Arão, Luan Peres; Arthur, Gabriel Bontempo, Neymar; Philippe Coutinho, Everton Cebolinha, Gabigol",
+     "entraram": [
+      {
+       "jogador": "Igor Vinícius",
+       "saiu": "Rodinei",
+       "minuto": ""
+      },
+      {
+       "jogador": "Escobar",
+       "saiu": "João Alencar",
+       "minuto": ""
+      },
+      {
+       "jogador": "Menino",
+       "saiu": "Gabriel Bontempo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rollheiser",
+       "saiu": "Philippe Coutinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rony",
+       "saiu": "Everton Cebolinha",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "João Alencar",
+        "minuto": ""
+       },
+       {
+        "jogador": "Willian Arão",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fora": {
+     "tecnico": "Renato Gaúcho",
+     "time": "Weverton; Diego Caito, Wallace, Kannemann, Marlon; Villasanti, Dodi, Noriega; Amuzu, Pavón, Carlos Vinícius",
+     "entraram": [
+      {
+       "jogador": "Balbuena",
+       "saiu": "Kannemann",
+       "minuto": ""
+      },
+      {
+       "jogador": "Danilo Barbosa",
+       "saiu": "Dodi",
+       "minuto": ""
+      },
+      {
+       "jogador": "Caio Paulista",
+       "saiu": "Amuzu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Tetê",
+       "saiu": "Pavón",
+       "minuto": ""
+      },
+      {
+       "jogador": "Braithwaite",
+       "saiu": "Carlos Vinícius",
+       "minuto": ""
+      }
+     ],
+     "cartoes": {
+      "amarelos": [
+       {
+        "jogador": "Noriega",
+        "minuto": ""
+       },
+       {
+        "jogador": "Caio Paulista",
+        "minuto": ""
+       }
+      ],
+      "vermelhos": []
+     }
+    },
+    "fontes": [
+     "https://www.oliberal.com/esportes/gremio-vence-santos-no-morumbis-e-empurra-corinthians-para-zona-de-rebaixamento-do-brasileirao-1.1197565"
+    ],
+    "atualizado": "2026-11-24T03:41:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
@@ -22268,11 +22924,11 @@
    "previsao": {
     "casa": 15,
     "empate": 20,
-    "fora": 64,
+    "fora": 65,
     "placar": "0x2",
     "gols_esperados": [
      0.87,
-     2.04
+     2.05
     ],
     "base": [
      24,
@@ -22351,14 +23007,14 @@
     "casa": 62,
     "empate": 21,
     "fora": 17,
-    "placar": "2x0",
+    "placar": "1x0",
     "gols_esperados": [
-     2.03,
-     0.94
+     1.95,
+     0.91
     ],
     "base": [
      28,
-     25
+     26
     ]
    },
    "events": []
@@ -22434,7 +23090,7 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.59,
+     1.6,
      0.88
     ],
     "base": [
@@ -22485,17 +23141,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
+    "casa": 51,
     "empate": 24,
-    "fora": 24,
+    "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.69,
-     1.09
+     1.65,
+     1.08
     ],
     "base": [
      27,
-     37
+     38
     ]
    },
    "events": []
@@ -22542,12 +23198,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 51,
-    "empate": 24,
+    "empate": 23,
     "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
-     1.75,
-     1.18
+     1.76,
+     1.19
     ],
     "base": [
      36,
@@ -22597,16 +23253,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 24,
+    "casa": 23,
     "empate": 25,
     "fora": 52,
-    "placar": "1x1",
+    "placar": "0x1",
     "gols_esperados": [
-     1.01,
-     1.62
+     0.98,
+     1.61
     ],
     "base": [
-     31,
+     32,
      24
     ]
    },
@@ -22655,7 +23311,7 @@
    "previsao": {
     "casa": 40,
     "empate": 24,
-    "fora": 35,
+    "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
      1.56,
@@ -22714,11 +23370,11 @@
     "fora": 38,
     "placar": "1x1",
     "gols_esperados": [
-     1.24,
-     1.3
+     1.19,
+     1.25
     ],
     "base": [
-     25,
+     26,
      27
     ]
    },
@@ -22770,12 +23426,12 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.59,
-     1.26
+     1.55,
+     1.23
     ],
     "base": [
      33,
-     33
+     34
     ]
    },
    "events": []
@@ -22823,7 +23479,7 @@
    "previsao": {
     "casa": 46,
     "empate": 24,
-    "fora": 30,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
      1.69,
@@ -22882,8 +23538,8 @@
     "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.77,
-     1.09
+     1.78,
+     1.1
     ],
     "base": [
      28,
@@ -50014,6 +50670,12 @@
     "gols": 6
    },
    {
+    "jogador": "Matheus Pereira",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 6
+   },
+   {
     "jogador": "Alef Manga",
     "time": "Remo",
     "time_id": 900019,
@@ -50023,12 +50685,6 @@
     "jogador": "John Kennedy",
     "time": "Fluminense",
     "time_id": 900005,
-    "gols": 5
-   },
-   {
-    "jogador": "Matheus Pereira",
-    "time": "Cruzeiro",
-    "time_id": 900003,
     "gols": 5
    },
    {
