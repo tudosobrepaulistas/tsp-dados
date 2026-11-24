@@ -48,3 +48,7 @@ Se a redação não fez, a Máquina faz. A Máquina nunca passa da conta: só co
 ## Regras de 22/11/2026 (Thiago)
 - **Paulistão A1 (10 clubes de férias): no mínimo 2 matérias de cada clube por dia.**
 - **Futebol feminino: no mínimo 8 matérias por dia.** Dia de jogo: pós-jogo e tabela do painel (`dados/painel_feminino.json`) atualizados no mesmo dia.
+
+## Regras de 24/11/2026 (Thiago)
+- **Base feminina não é mais coberta.** O bloco "Futebol feminino de base" saiu da home (tema 1.8.8) e o `adicionar` recusa matéria de base do feminino. A cota de base (4 por dia) é só do masculino.
+- **Clubes sem divisão: 6 textos atemporais por dia** pelas buscas mais feitas de cada clube (`dados/pautas_evergreen.json`, comando `maquina.py evergreen`). Ver `diretrizes/evergreen.md`.

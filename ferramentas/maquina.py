@@ -498,6 +498,9 @@ def cmd_adicionar(a):
         if rv.get("veredito") != "aprovado" or len(rv.get("conferidos") or []) < 3:
             erros.append("falta a revisão do Chefe de Redação: campo 'revisao' com veredito 'aprovado' e pelo menos 3 fatos conferidos (diretrizes/chefe-de-redacao.md)")
     texto_todo = " ".join([it.get("titulo", ""), it.get("subtitulo", ""), " ".join(str(x) for x in (it.get("resumo") or []))] + [str(list(b.values())[0]) if isinstance(b, dict) and b else "" for b in corpo])
+    # 24/11/2026 (Thiago): base feminina não é mais coberta (o bloco saiu da home)
+    if BASE_RE.search(it.get("titulo", "")) and (re.search(r"feminin", texto_todo, re.I) or str(it.get("clube", "")).endswith("-feminino")):
+        erros.append("base feminina (Sub-20, Sub-17... do feminino) não é mais coberta pelo TSP (pedido do Thiago, 24/11/2026)")
     if re.search(r"\bbezinha\b", texto_todo, re.I):
         erros.append("não use o apelido 'Bezinha': escreva 'Segunda Divisão' (5º nível, Sub-23). A Série A4 é outra divisão")
     for num in re.findall(r"\b(\d+) d[oa]s (\d+)\b", it.get("titulo", "")):
@@ -969,11 +972,11 @@ def cmd_cotas(a):
             print(linha + ("" if ps else " · sem pauta da redação"))
             for p_ in ps:
                 print(f"    pauta {p_.get('quando', '')}: {p_['titulo']} | " + " ".join(f['url'] for f in p_.get('fontes', [])))
-    base = sum(1 for _, tit, _ in hoje if BASE_RE.search(tit))
+    base = sum(1 for _, tit, _ in hoje if BASE_RE.search(tit) and not re.search(r"feminin", tit, re.I))
     alvo_b = math.ceil(4 * frac)
     nb = max(0, alvo_b - base)
     falta_total += nb
-    print(f"\n## Base (masculina e feminina): {base}/4 hoje · regra: 4 por dia, categoria no título (Sub-20, Sub-17...)" + (f" → FALTAM {nb} AGORA" if nb else " → em dia"))
+    print(f"\n## Base masculina: {base}/4 hoje · regra: 4 por dia, categoria no título (Sub-20, Sub-17...). Base FEMININA não entra mais (24/11/2026)" + (f" → FALTAM {nb} AGORA" if nb else " → em dia"))
     print(f"\nTOTAL QUE FALTA AGORA: {falta_total}" + ("  → tudo em dia, pode terminar" if not falta_total else ""))
 
 
