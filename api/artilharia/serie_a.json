@@ -252,6 +252,12 @@
   "gols": 3
  },
  {
+  "jogador": "Amuzu",
+  "time": "Grêmio",
+  "time_id": 900017,
+  "gols": 2
+ },
+ {
   "jogador": "Andrés Gómez",
   "time": "Vasco",
   "time_id": 900013,
@@ -279,6 +285,12 @@
   "jogador": "Bernard",
   "time": "Atlético-MG",
   "time_id": 900006,
+  "gols": 2
+ },
+ {
+  "jogador": "Braithwaite",
+  "time": "Grêmio",
+  "time_id": 900017,
   "gols": 2
  },
  {
@@ -468,12 +480,6 @@
   "gols": 1
  },
  {
-  "jogador": "Amuzu",
-  "time": "Grêmio",
-  "time_id": 900017,
-  "gols": 1
- },
- {
   "jogador": "André",
   "time": "Corinthians",
   "time_id": 900018,
@@ -525,12 +531,6 @@
   "jogador": "Bolasie",
   "time": "Chapecoense",
   "time_id": 900020,
-  "gols": 1
- },
- {
-  "jogador": "Braithwaite",
-  "time": "Grêmio",
-  "time_id": 900017,
   "gols": 1
  },
  {

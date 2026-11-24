@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-23T22:25:00-03:00",
+ "gerado": "2026-11-24T00:15:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -123,12 +123,12 @@
      "id": 900008,
      "nome": "Santos",
      "pts": 50,
-     "j": 35,
+     "j": 36,
      "v": 13,
      "e": 11,
-     "d": 11,
+     "d": 12,
      "gp": 51,
-     "gc": 49
+     "gc": 51
     },
     {
      "id": 900013,
@@ -186,6 +186,17 @@
      "gc": 58
     },
     {
+     "id": 900017,
+     "nome": "Grêmio",
+     "pts": 41,
+     "j": 36,
+     "v": 10,
+     "e": 11,
+     "d": 15,
+     "gp": 40,
+     "gc": 47
+    },
+    {
      "id": 900015,
      "nome": "Mirassol",
      "pts": 41,
@@ -219,17 +230,6 @@
      "gc": 49
     },
     {
-     "id": 900017,
-     "nome": "Grêmio",
-     "pts": 38,
-     "j": 35,
-     "v": 9,
-     "e": 11,
-     "d": 15,
-     "gp": 38,
-     "gc": 47
-    },
-    {
      "id": 900019,
      "nome": "Remo",
      "pts": 32,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000163,
-     "rodada": "36",
-     "data": "2026-11-23T21:00",
-     "casa": 900008,
-     "fora": 900017,
-     "a_confirmar": false
-    },
     {
      "id": 91000400,
      "rodada": "37",
@@ -1714,6 +1706,12 @@
      900009,
      1,
      1
+    ],
+    [
+     900008,
+     900017,
+     0,
+     2
     ]
    ]
   }
@@ -22111,14 +22109,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.terra.com.br/esportes/futebol/gremio-bate-santos-no-morumbis-e-empurra-corinthians-para-zona-de-rebaixamento-do-brasileirao,ba4c08153e88d31b1026ca8c5daa9c46mu98uct7.html",
+    "https://www.correiobraziliense.com.br/esportes/2026/11/7543153-gremio-vence-o-santos-no-morumbis-e-sai-da-zona-de-rebaixamento.html"
    ],
    "fixture": {
     "id": 91000163,
     "timestamp": 1795478400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Morumbis",
@@ -22140,8 +22140,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 2
    },
    "penaltis": "",
    "prejogo": {
@@ -22177,21 +22177,41 @@
     "atualizado": "2026-11-20T22:25:00-03:00"
    },
    "escalacoes": {},
-   "previsao": {
-    "casa": 52,
-    "empate": 25,
-    "fora": 23,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.63,
-     1.01
-    ],
-    "base": [
-     32,
-     26
-    ]
-   },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Amuzu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 31,
+      "extra": null,
+      "texto": "31"
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Braithwaite"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -22252,7 +22272,7 @@
     "placar": "0x2",
     "gols_esperados": [
      0.87,
-     2.03
+     2.04
     ],
     "base": [
      24,
@@ -22328,7 +22348,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 63,
+    "casa": 62,
     "empate": 21,
     "fora": 17,
     "placar": "2x0",
@@ -22471,7 +22491,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.69,
-     1.08
+     1.09
     ],
     "base": [
      27,
@@ -22526,7 +22546,7 @@
     "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
-     1.76,
+     1.75,
      1.18
     ],
     "base": [
@@ -22579,11 +22599,11 @@
    "previsao": {
     "casa": 24,
     "empate": 25,
-    "fora": 51,
+    "fora": 52,
     "placar": "1x1",
     "gols_esperados": [
      1.01,
-     1.61
+     1.62
     ],
     "base": [
      31,
@@ -22633,17 +22653,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 39,
+    "casa": 40,
     "empate": 24,
-    "fora": 37,
+    "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.54,
-     1.49
+     1.56,
+     1.45
     ],
     "base": [
      23,
-     32
+     33
     ]
    },
    "events": []
@@ -22689,17 +22709,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 37,
+    "casa": 35,
     "empate": 27,
-    "fora": 36,
+    "fora": 38,
     "placar": "1x1",
     "gols_esperados": [
-     1.29,
-     1.26
+     1.24,
+     1.3
     ],
     "base": [
      25,
-     26
+     27
     ]
    },
    "events": []
@@ -22807,7 +22827,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.69,
-     1.33
+     1.34
     ],
     "base": [
      36,
@@ -49496,14 +49516,14 @@
       900008,
       "Santos",
       50,
-      35,
+      36,
       13,
       11,
-      11,
-      2,
+      12,
+      0,
       "",
       51,
-      49
+      51
      ],
      [
       10,
@@ -49577,6 +49597,20 @@
      ],
      [
       15,
+      900017,
+      "Grêmio",
+      41,
+      36,
+      10,
+      11,
+      15,
+      -7,
+      "",
+      40,
+      47
+     ],
+     [
+      16,
       900015,
       "Mirassol",
       41,
@@ -49590,7 +49624,7 @@
       49
      ],
      [
-      16,
+      17,
       900018,
       "Corinthians",
       40,
@@ -49604,7 +49638,7 @@
       42
      ],
      [
-      17,
+      18,
       900016,
       "Internacional",
       38,
@@ -49616,20 +49650,6 @@
       "",
       41,
       49
-     ],
-     [
-      18,
-      900017,
-      "Grêmio",
-      38,
-      35,
-      9,
-      11,
-      15,
-      -9,
-      "",
-      38,
-      47
      ],
      [
       19,
@@ -50204,6 +50224,12 @@
     "gols": 3
    },
    {
+    "jogador": "Amuzu",
+    "time": "Grêmio",
+    "time_id": 900017,
+    "gols": 2
+   },
+   {
     "jogador": "Andrés Gómez",
     "time": "Vasco",
     "time_id": 900013,
@@ -50231,6 +50257,12 @@
     "jogador": "Bernard",
     "time": "Atlético-MG",
     "time_id": 900006,
+    "gols": 2
+   },
+   {
+    "jogador": "Braithwaite",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 2
    },
    {
@@ -50420,12 +50452,6 @@
     "gols": 1
    },
    {
-    "jogador": "Amuzu",
-    "time": "Grêmio",
-    "time_id": 900017,
-    "gols": 1
-   },
-   {
     "jogador": "André",
     "time": "Corinthians",
     "time_id": 900018,
@@ -50477,12 +50503,6 @@
     "jogador": "Bolasie",
     "time": "Chapecoense",
     "time_id": 900020,
-    "gols": 1
-   },
-   {
-    "jogador": "Braithwaite",
-    "time": "Grêmio",
-    "time_id": 900017,
     "gols": 1
    },
    {

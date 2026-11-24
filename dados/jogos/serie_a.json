@@ -16214,22 +16214,37 @@
    "data": "2026-11-23T21:00:00-03:00",
    "casa": "santos",
    "fora": "gremio",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Morumbis",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 2,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Amuzu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Braithwaite",
+     "minuto": "31",
+     "tipo": "penalti"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.terra.com.br/esportes/futebol/gremio-bate-santos-no-morumbis-e-empurra-corinthians-para-zona-de-rebaixamento-do-brasileirao,ba4c08153e88d31b1026ca8c5daa9c46mu98uct7.html",
+    "https://www.correiobraziliense.com.br/esportes/2026/11/7543153-gremio-vence-o-santos-no-morumbis-e-sai-da-zona-de-rebaixamento.html"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-24T00:15:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
