@@ -3,6 +3,32 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-22",
+   "jogador": "Kaio dos Santos",
+   "posicao": "",
+   "de": "Barretos",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Renovou para a Série A4 de 2027",
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "nome_completo": "Kaio dos Santos Rodrigues",
+    "redes": {
+     "instagram": "kai0santos_"
+    },
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "de_slug": "barretos",
+   "id": "2026-11-22-kaio-dos-santos-barretos",
+   "atualizado": "2026-11-24T01:19:00-03:00"
+  },
+  {
    "data": "2026-11-21",
    "jogador": "Rodrigo Rocha",
    "posicao": "Zagueiro",
@@ -3272,6 +3298,35 @@
   },
   {
    "data": "2026-11-12",
+   "jogador": "Gustavo Britto",
+   "posicao": "Volante",
+   "de": "José Bonifácio",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Passou pela base do Santos e do Botafogo-SP",
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Santos (base)",
+     "Botafogo-SP",
+     "José Bonifácio"
+    ],
+    "redes": {
+     "instagram": "gubritto_05"
+    },
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "id": "2026-11-12-gustavo-britto-barretos",
+   "atualizado": "2026-11-24T01:19:00-03:00"
+  },
+  {
+   "data": "2026-11-12",
    "jogador": "Fernando Junior",
    "posicao": "Lateral",
    "de": "",
@@ -3441,6 +3496,36 @@
     "ia": true,
     "em": "2026-11-20T22:04:05-03:00"
    }
+  },
+  {
+   "data": "2026-11-11",
+   "jogador": "Rogério Zuin",
+   "posicao": "Lateral",
+   "de": "Capital-TO",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito",
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Desportivo Brasil",
+     "Palmeiras",
+     "Athletico-PR",
+     "Capital-TO"
+    ],
+    "redes": {
+     "instagram": "r.zuin04"
+    },
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "id": "2026-11-11-rogerio-zuin-barretos",
+   "atualizado": "2026-11-24T01:19:00-03:00"
   },
   {
    "data": "2026-11-11",
@@ -5220,6 +5305,50 @@
     "ia": true,
     "em": "2026-11-20T22:10:28-03:00"
    }
+  },
+  {
+   "data": "2026-11-07",
+   "jogador": "Kadu Barone",
+   "posicao": "Atacante",
+   "de": "Inter de Bebedouro",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Craque do Paulistão A4 2026, com 8 gols e acesso pela Inter de Bebedouro",
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Ituano",
+     "Ferroviário",
+     "Botafogo-SP",
+     "Itabaiana",
+     "Inter de Bebedouro"
+    ],
+    "titulos": [
+     "Campeão da Série C pelo Ituano (2021)",
+     "Campeão da Série D pelo Ferroviário (2023)",
+     "Acessos com Botafogo-SP e Itabaiana",
+     "Acesso à Série A3 com a Inter de Bebedouro (2026)"
+    ],
+    "redes": {
+     "instagram": "kadu_barone"
+    },
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "selos": [
+    {
+     "texto": "Craque do Paulistão A4 2026",
+     "tipo": "premio",
+     "fonte": "https://www.instagram.com/barretosec/"
+    }
+   ],
+   "id": "2026-11-07-kadu-barone-barretos",
+   "atualizado": "2026-11-24T01:19:00-03:00"
   },
   {
    "data": "2026-11-07",
@@ -8263,6 +8392,34 @@
   },
   {
    "data": "2026-10-29",
+   "jogador": "Kauan Vinícius",
+   "posicao": "Meia",
+   "de": "Caldense",
+   "para": "Barretos",
+   "para_slug": "barretos",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Disputou a A3 de 2024 e 2025 pelo Desportivo Brasil",
+   "fontes": [
+    "https://www.instagram.com/barretosec/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Desportivo Brasil",
+     "Caldense"
+    ],
+    "redes": {
+     "instagram": "kauan_vini5"
+    },
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "id": "2026-10-29-kauan-vinicius-barretos",
+   "atualizado": "2026-11-24T01:19:00-03:00"
+  },
+  {
+   "data": "2026-10-29",
    "jogador": "Gabriel Almeida",
    "posicao": "Lateral",
    "de": "",
@@ -8684,7 +8841,7 @@
    "data": "2026-10-26",
    "jogador": "Vinícius Marques",
    "posicao": "Zagueiro",
-   "de": "",
+   "de": "Atlético Tubarão",
    "para": "Barretos",
    "para_slug": "barretos",
    "tipo": "contratacao",
@@ -8692,11 +8849,22 @@
    "feminino": false,
    "obs": "22 anos, com passagens por Avaí e Atlético Tubarão",
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/",
+    "https://www.instagram.com/barretosec/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-26-vinicius-marques-barretos",
-   "atualizado": "2026-11-16T06:59:00-03:00"
+   "ficha": {
+    "clubes_anteriores": [
+     "Avaí",
+     "Atlético Tubarão"
+    ],
+    "redes": {
+     "instagram": "viniciusmarques_04"
+    },
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "atualizado": "2026-11-24T01:19:00-03:00"
   },
   {
    "data": "2026-10-26",
@@ -8710,11 +8878,11 @@
    "feminino": false,
    "obs": "21 anos, formado no Manaus; passou por Princesa do Solimões e Fast Clube",
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/",
+    "https://www.instagram.com/barretosec/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-26-levy-moreira-barretos",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/levy/869965",
     "clubes": [
@@ -8726,7 +8894,19 @@
     "gols": 1,
     "assistencias": 0
    },
-   "nascimento": "2005-03-05"
+   "nascimento": "2005-03-05",
+   "ficha": {
+    "idade": 21,
+    "idade_em": "2026-10-24",
+    "clubes_anteriores": [
+     "Manaus (base)",
+     "Manaus",
+     "Fast Clube",
+     "Princesa do Solimões"
+    ],
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "atualizado": "2026-11-24T01:19:00-03:00"
   },
   {
    "data": "2026-10-26",
@@ -8740,11 +8920,11 @@
    "feminino": false,
    "obs": "Anunciado antes de 26/10; passou por Gama, Moto Club, Sousa e Rio Preto",
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/"
+    "https://www.futebolinterior.com.br/barretos-confirma-atacante-zagueiro/",
+    "https://www.instagram.com/barretosec/"
    ],
    "anuncio_do_clube": true,
    "id": "2026-10-26-junnior-batata-barretos",
-   "atualizado": "2026-11-19T03:52:00-03:00",
    "numeros_2026": {
     "fonte": "https://www.ogol.com.br/jogador/junnior-batata/501584",
     "clubes": [
@@ -8754,7 +8934,21 @@
     "gols": 4,
     "assistencias": 1
    },
-   "nascimento": "1991-08-09"
+   "nascimento": "1991-08-09",
+   "ficha": {
+    "no_clube": "Volta ao clube, onde jogou em 2018, 2021 e 2023",
+    "clubes_anteriores": [
+     "Gama",
+     "Moto Club",
+     "Sousa",
+     "Rio Preto"
+    ],
+    "redes": {
+     "instagram": "junniorbatata09oficial"
+    },
+    "fonte": "https://www.instagram.com/barretosec/"
+   },
+   "atualizado": "2026-11-24T01:19:00-03:00"
   },
   {
    "data": "2026-10-24",
@@ -9489,10 +9683,10 @@
    "anuncio_do_clube": true,
    "obs": "Ex-técnico do Taubaté; comanda o Barretos na Série A4 2027",
    "fontes": [
-    "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/"
+    "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/",
+    "https://www.instagram.com/barretosec/"
    ],
    "id": "2026-10-10-edson-paulista-barretos",
-   "atualizado": "2026-11-17T06:59:00-03:00",
    "ficha": {
     "inicio": "Ex-jogador de Athletico-PR, Avaí, Gama, Remo e clubes da China",
     "destaques": [
@@ -9512,7 +9706,10 @@
     "fontes": [
      "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/",
      "https://www.futebolinterior.com.br/edson-paulista-oficializado-barretos/"
-    ]
+    ],
+    "redes": {
+     "instagram": "edson_paulista_"
+    }
    },
    "carreira": [
     {
@@ -9536,7 +9733,8 @@
      "obs": "Copa Mediterrânea"
     }
    ],
-   "carreira_fonte": "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/"
+   "carreira_fonte": "https://www.futebolinterior.com.br/barretos-anuncia-treinador-a4-2027/",
+   "atualizado": "2026-11-24T01:19:00-03:00"
   },
   {
    "data": "2026-10-09",
