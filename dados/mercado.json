@@ -3,6 +3,230 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-23",
+   "jogador": "Rafael Silva",
+   "posicao": "Atacante",
+   "de": "Noroeste",
+   "para": "XV de Piracicaba",
+   "para_slug": "xvdepiracicaba",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Contrato até o fim da Série D 2027",
+   "fontes": [
+    "https://www.instagram.com/xvpiracicaba/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 31,
+    "idade_em": "2026-11-23",
+    "clubes_anteriores": [
+     "Luverdense",
+     "Vila Nova",
+     "São Bento",
+     "Mirassol",
+     "Juventude",
+     "Paraná",
+     "Marcílio Dias",
+     "ABC",
+     "Remo",
+     "Inter de Limeira",
+     "Tombense",
+     "Noroeste"
+    ],
+    "redes": {
+     "instagram": "rasilva95"
+    },
+    "fonte": "https://www.instagram.com/xvpiracicaba/"
+   },
+   "id": "2026-11-23-rafael-silva-xv-de-piracicaba",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-23",
+   "jogador": "Moreira",
+   "posicao": "Lateral",
+   "de": "Sertãozinho",
+   "para": "Inter de Bebedouro",
+   "para_slug": "inter-de-bebedouro",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo, cria do Red Bull Bragantino",
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "nome_completo": "Matheus Moreira dos Reis",
+    "idade": 25,
+    "idade_em": "2026-11-23",
+    "clubes_anteriores": [
+     "Red Bull Bragantino (base)",
+     "Mirassol",
+     "Grêmio Prudente",
+     "Sertãozinho"
+    ],
+    "titulos": [
+     "Campeão Amazonense 2022",
+     "Acesso à Série A2 com o Grêmio Prudente (2024)",
+     "Acesso à Série A2 com o Sertãozinho (2025)"
+    ],
+    "redes": {
+     "instagram": "m0reira_23"
+    },
+    "fonte": "https://www.instagram.com/interbebedourooficial/"
+   },
+   "id": "2026-11-23-moreira-inter-de-bebedouro",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-23",
+   "jogador": "Matheus Anjos",
+   "posicao": "Meia",
+   "de": "Caxias",
+   "para": "Primavera",
+   "para_slug": "primavera",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Camisa 10 do Primavera no Paulistão 2026, volta após a Série C pelo Caxias",
+   "fontes": [
+    "https://www.instagram.com/ecprimaveraoficial/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Primavera",
+     "Caxias"
+    ],
+    "titulos": [
+     "Acesso à Série A1 com o Primavera"
+    ],
+    "redes": {
+     "instagram": "mathanjos"
+    },
+    "fonte": "https://www.instagram.com/ecprimaveraoficial/"
+   },
+   "id": "2026-11-23-matheus-anjos-primavera",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-23",
+   "jogador": "Luã Lúcio",
+   "posicao": "Atacante",
+   "de": "",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Reforço para a Série A3 2027",
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "redes": {
+     "instagram": "l.lucio97"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "id": "2026-11-23-lua-lucio-paulista",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-23",
+   "jogador": "Lázaro",
+   "posicao": "Zagueiro",
+   "de": "",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao Paulista depois de 13 anos",
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "no_clube": "Volta ao clube 13 anos depois",
+    "redes": {
+     "instagram": "lazaromanga"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "id": "2026-11-23-lazaro-paulista",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-23",
+   "jogador": "César Augusto",
+   "posicao": "Zagueiro",
+   "de": "Inter de Bebedouro",
+   "para": "Inter de Bebedouro",
+   "para_slug": "inter-de-bebedouro",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta do empréstimo ao São João del-Rei (MG)",
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "idade": 23,
+    "idade_em": "2026-11-23",
+    "clubes_anteriores": [
+     "Inter de Bebedouro",
+     "São João del-Rei"
+    ],
+    "titulos": [
+     "Acesso à Série A3 com a Inter de Bebedouro (2026)",
+     "Acesso à 3ª divisão mineira com o São João del-Rei (2026)"
+    ],
+    "fonte": "https://www.instagram.com/interbebedourooficial/"
+   },
+   "de_slug": "inter-de-bebedouro",
+   "id": "2026-11-23-cesar-augusto-inter-de-bebedouro",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-23",
+   "jogador": "Cauê Ferreira",
+   "posicao": "Lateral",
+   "de": "Inter de Bebedouro",
+   "para": "Inter de Bebedouro",
+   "para_slug": "inter-de-bebedouro",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta do empréstimo ao São João del-Rei (MG), onde também subiu",
+   "fontes": [
+    "https://www.instagram.com/interbebedourooficial/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "nome_completo": "Cauê Ferreira da Silva Dias",
+    "clubes_anteriores": [
+     "Inter de Bebedouro",
+     "São João del-Rei"
+    ],
+    "titulos": [
+     "Acesso à Série A3 com a Inter de Bebedouro (2026)",
+     "Acesso à 3ª divisão mineira com o São João del-Rei (2026)"
+    ],
+    "redes": {
+     "instagram": "caue_ferreira03"
+    },
+    "fonte": "https://www.instagram.com/interbebedourooficial/"
+   },
+   "de_slug": "inter-de-bebedouro",
+   "id": "2026-11-23-caue-ferreira-inter-de-bebedouro",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
    "data": "2026-11-22",
    "jogador": "Kaio dos Santos",
    "posicao": "",
@@ -26,7 +250,14 @@
    },
    "de_slug": "barretos",
    "id": "2026-11-22-kaio-dos-santos-barretos",
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-22-kaio-dos-santos-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:23:00-03:00"
+   }
   },
   {
    "data": "2026-11-21",
@@ -607,6 +838,38 @@
   },
   {
    "data": "2026-11-20",
+   "jogador": "Luis Gustavo",
+   "posicao": "Atacante",
+   "de": "Paulista",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Artilheiro do Paulista na Copa Paulista 2026",
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "redes": {
+     "instagram": "luisgustavommelo"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "de_slug": "paulista-jundiai",
+   "selos": [
+    {
+     "texto": "Artilheiro do Paulista na Copa Paulista 2026",
+     "tipo": "premio",
+     "fonte": "https://www.instagram.com/paulistafc/"
+    }
+   ],
+   "id": "2026-11-20-luis-gustavo-paulista",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-20",
    "jogador": "Lucas Martins",
    "posicao": "Meia",
    "de": "",
@@ -1027,7 +1290,8 @@
    "anuncio_do_clube": true,
    "fontes": [
     "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
-    "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/"
+    "https://www.futebolinterior.com.br/volante-ex-juventude-e-reforco-paulista/",
+    "https://www.instagram.com/paulistafc/"
    ],
    "ficha": {
     "idade": 25,
@@ -1036,10 +1300,13 @@
      "Sertãozinho",
      "Marília"
     ],
-    "fonte": "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+    "fonte": "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
+    "redes": {
+     "instagram": "vinicios_andrade01"
+    }
    },
    "id": "2026-11-19-vinicios-andrade-paulista",
-   "atualizado": "2026-11-20T06:57:00-03:00"
+   "atualizado": "2026-11-24T01:37:00-03:00"
   },
   {
    "data": "2026-11-19",
@@ -1169,10 +1436,11 @@
    "tipo": "contratacao",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Volta ao clube",
+   "obs": "Lateral-esquerdo; volta ao Paulista",
    "anuncio_do_clube": true,
    "fontes": [
-    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+    "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
+    "https://www.instagram.com/paulistafc/"
    ],
    "ficha": {
     "idade": 34,
@@ -1181,10 +1449,14 @@
      "Betim",
      "Itabirito"
     ],
-    "fonte": "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/"
+    "fonte": "https://tvtecjundiai.com.br/news/2026/11/19/paulista-reforca-elenco-com-vinicios-andrade-e-retorno-de-bryan-garcia-para-2027/",
+    "no_clube": "Volta ao clube para a Série A3 2027",
+    "redes": {
+     "instagram": "bryangarcia"
+    }
    },
    "id": "2026-11-19-bryan-garcia-paulista",
-   "atualizado": "2026-11-20T06:57:00-03:00"
+   "atualizado": "2026-11-24T01:37:00-03:00"
   },
   {
    "data": "2026-11-18",
@@ -1379,7 +1651,7 @@
    "carreira_fonte": "https://www.futebolinterior.com.br/paulistao-serie-a3-tecnico-do-monte-azul-leva-o-acesso-em-sua-estreia-em-sp/"
   },
   {
-   "de": "",
+   "de": "São José",
    "de_slug": "",
    "para": "Inter de Bebedouro",
    "para_slug": "inter-de-bebedouro",
@@ -1402,14 +1674,57 @@
     }
    ],
    "id": "2026-11-18-guilherme-matheus-inter-de-bebedouro",
-   "atualizado": "2026-11-19T04:16:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-18-guilherme-matheus-inter-de-bebedouro.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/interbebedourooficial/",
     "ia": true,
     "em": "2026-11-19T04:16:17-03:00"
-   }
+   },
+   "ficha": {
+    "nome_completo": "Guilherme Matheus dos Santos",
+    "idade": 24,
+    "idade_em": "2026-11-19",
+    "clubes_anteriores": [
+     "São Paulo (base)",
+     "Ceará",
+     "Santo André",
+     "São José"
+    ],
+    "titulos": [
+     "Campeão da Copa Paulista 2026 (São José)"
+    ],
+    "redes": {
+     "instagram": "gui.mth"
+    },
+    "fonte": "https://www.instagram.com/interbebedourooficial/"
+   },
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-18",
+   "jogador": "Gabriel Reis",
+   "posicao": "Zagueiro",
+   "de": "Paulista",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Dois acessos com a camisa do Paulista",
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "redes": {
+     "instagram": "_gabrielreis02"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "de_slug": "paulista-jundiai",
+   "id": "2026-11-18-gabriel-reis-paulista",
+   "atualizado": "2026-11-24T01:37:00-03:00"
   },
   {
    "data": "2026-11-18",
@@ -1835,7 +2150,8 @@
    "feminino": false,
    "obs": "Ex-Corinthians; lateral-direito",
    "fontes": [
-    "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista"
+    "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista",
+    "https://www.instagram.com/paulistafc/"
    ],
    "anuncio_do_clube": true,
    "numeros_2026": {
@@ -1848,7 +2164,16 @@
     "fonte": "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista"
    },
    "id": "2026-11-17-leo-principe-paulista",
-   "atualizado": "2026-11-19T06:57:00-03:00"
+   "ficha": {
+    "titulos": [
+     "Campeão brasileiro (citado pelo clube)"
+    ],
+    "redes": {
+     "instagram": "lpprincipe"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "atualizado": "2026-11-24T01:37:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -1895,6 +2220,31 @@
   },
   {
    "data": "2026-11-17",
+   "jogador": "João Salles",
+   "posicao": "Lateral",
+   "de": "Paulista",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Segue para a Série A3 2027",
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "redes": {
+     "instagram": "jvsallesss"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "de_slug": "paulista-jundiai",
+   "id": "2026-11-17-joao-salles-paulista",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-17",
    "jogador": "Jeferson Lima",
    "posicao": "",
    "de": "São José",
@@ -1933,6 +2283,31 @@
   },
   {
    "data": "2026-11-17",
+   "jogador": "Igor Tucão",
+   "posicao": "Atacante",
+   "de": "Paulista",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "promovido",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Artilheiro do Sub-20 do Paulista, sobe ao profissional",
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "redes": {
+     "instagram": "igortucao"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "de_slug": "paulista-jundiai",
+   "id": "2026-11-17-igor-tucao-paulista",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-17",
    "jogador": "Gustavo Pereira",
    "posicao": "Atacante",
    "de": "",
@@ -1966,6 +2341,37 @@
     "ia": true,
     "em": "2026-11-20T22:29:01-03:00"
    }
+  },
+  {
+   "data": "2026-11-17",
+   "jogador": "Gabriel Silva",
+   "posicao": "Preparador físico",
+   "de": "Caxias",
+   "para": "XV de Piracicaba",
+   "para_slug": "xvdepiracicaba",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Saiu do Caxias, onde ficou até outubro de 2026",
+   "fontes": [
+    "https://www.instagram.com/xvpiracicaba/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Caxias (base e profissional)",
+     "Juventude (base)",
+     "Caxias"
+    ],
+    "titulos": [
+     "Acesso da Série D à Série C com o Caxias (2023)",
+     "Vice-campeão gaúcho com o Caxias (2023)",
+     "Campeão do Interior gaúcho com o Caxias (2024)"
+    ],
+    "fonte": "https://www.instagram.com/xvpiracicaba/"
+   },
+   "id": "2026-11-17-gabriel-silva-xv-de-piracicaba",
+   "atualizado": "2026-11-24T01:37:00-03:00"
   },
   {
    "data": "2026-11-17",
@@ -2389,10 +2795,17 @@
     "fonte": "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/"
    },
    "fontes": [
-    "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/"
+    "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/",
+    "https://www.instagram.com/paulistafc/"
    ],
    "id": "2026-11-16-derick-paulista",
-   "atualizado": "2026-11-17T06:59:00-03:00"
+   "ficha": {
+    "redes": {
+     "instagram": "derickdekao_"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "atualizado": "2026-11-24T01:37:00-03:00"
   },
   {
    "data": "2026-11-16",
@@ -3150,6 +3563,31 @@
   },
   {
    "data": "2026-11-12",
+   "jogador": "Lucas Vital",
+   "posicao": "",
+   "de": "Paulista",
+   "para": "Paulista",
+   "para_slug": "paulista-jundiai",
+   "tipo": "renovacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Contrato renovado para a próxima competição",
+   "fontes": [
+    "https://www.instagram.com/paulistafc/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "redes": {
+     "instagram": "_vital01"
+    },
+    "fonte": "https://www.instagram.com/paulistafc/"
+   },
+   "de_slug": "paulista-jundiai",
+   "id": "2026-11-12-lucas-vital-paulista",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
+   "data": "2026-11-12",
    "jogador": "Lucas Gomes",
    "posicao": "Goleiro",
    "de": "",
@@ -3323,7 +3761,14 @@
     "fonte": "https://www.instagram.com/barretosec/"
    },
    "id": "2026-11-12-gustavo-britto-barretos",
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-gustavo-britto-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:25:00-03:00"
+   }
   },
   {
    "data": "2026-11-12",
@@ -3525,7 +3970,14 @@
     "fonte": "https://www.instagram.com/barretosec/"
    },
    "id": "2026-11-11-rogerio-zuin-barretos",
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-rogerio-zuin-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:26:00-03:00"
+   }
   },
   {
    "data": "2026-11-11",
@@ -5348,7 +5800,14 @@
     }
    ],
    "id": "2026-11-07-kadu-barone-barretos",
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-07-kadu-barone-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:30:00-03:00"
+   }
   },
   {
    "data": "2026-11-07",
@@ -8416,7 +8875,14 @@
     "fonte": "https://www.instagram.com/barretosec/"
    },
    "id": "2026-10-29-kauan-vinicius-barretos",
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-29-kauan-vinicius-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:32:00-03:00"
+   }
   },
   {
    "data": "2026-10-29",
@@ -8812,6 +9278,39 @@
    }
   },
   {
+   "data": "2026-10-27",
+   "jogador": "Élio Sizenando",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Capivariano",
+   "para_slug": "capivariano",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao Capivariano; 109 jogos no comando do profissional desde 2017",
+   "fontes": [
+    "https://www.instagram.com/capivariano/"
+   ],
+   "anuncio_do_clube": true,
+   "ficha": {
+    "clubes_anteriores": [
+     "Capivariano (base)",
+     "Capivariano"
+    ],
+    "titulos": [
+     "Campeão do Paulistão A3 2023 (Capivariano)",
+     "Campeão do Paulistão A2 2025 (Capivariano)",
+     "Vice-campeão paulista Sub-20 2016 (Capivariano)"
+    ],
+    "redes": {
+     "instagram": "eliosizenando"
+    },
+    "fonte": "https://www.instagram.com/capivariano/"
+   },
+   "id": "2026-10-27-elio-sizenando-capivariano",
+   "atualizado": "2026-11-24T01:37:00-03:00"
+  },
+  {
    "de": "",
    "de_slug": "",
    "para": "Santo André",
@@ -8906,7 +9405,14 @@
     ],
     "fonte": "https://www.instagram.com/barretosec/"
    },
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-26-levy-moreira-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:34:00-03:00"
+   }
   },
   {
    "data": "2026-10-26",
@@ -8948,7 +9454,14 @@
     },
     "fonte": "https://www.instagram.com/barretosec/"
    },
-   "atualizado": "2026-11-24T01:19:00-03:00"
+   "atualizado": "2026-11-24T01:19:00-03:00",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-26-junnior-batata-barretos.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/barretosec/",
+    "ia": true,
+    "em": "2026-11-24T01:38:00-03:00"
+   }
   },
   {
    "data": "2026-10-24",
