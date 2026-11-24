@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-24T13:30-03:00",
+ "gerado": "2026-11-24T17:00-03:00",
  "avisos": [
-  {
-   "clube": "osasco-sporting",
-   "nome": "Osasco Sporting",
-   "quando": "2026-11-23T17:01-03:00",
-   "motivo": "Sem notícia nova; técnico de 2027 não definido",
-   "sugestao": "Anúncio do técnico de 2027; reforma do Estádio José Liberatti"
-  },
-  {
-   "clube": "santoandre",
-   "nome": "Santo André",
-   "quando": "2026-11-23T17:01-03:00",
-   "motivo": "Último reforço (Vitinho, DGABC 20/11) fora das 48h e com 1 fonte",
-   "sugestao": "Elenco do Santo André 2027 conferido no site/Instagram oficial"
-  },
-  {
-   "clube": "sertaozinho",
-   "nome": "Sertãozinho",
-   "quando": "2026-11-23T17:01-03:00",
-   "motivo": "Técnico Luciano Dias só 'acertando' (Futebol Interior 12/11); site oficial não abriu",
-   "sugestao": "Confirmar com o clube o técnico de 2027 e a data da reapresentação"
-  },
-  {
-   "clube": "veloclube",
-   "nome": "Velo Clube",
-   "quando": "2026-11-23T17:01-03:00",
-   "motivo": "Passaporte 2027 (Jornal Cidade, 23/11) sem 2ª fonte independente encontrada",
-   "sugestao": "Velo Clube lança passaporte da A2 2027 (R$ 210 e R$ 130): usar post oficial do clube ou página da Total Ticket como 2ª fonte"
-  },
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-23T17:01-03:00",
-   "motivo": "Reforços de 20/11 com 1 fonte; nada publicado sobre a reapresentação de 23/11",
-   "sugestao": "Reapresentação do Linense em 23/11 com elenco e amistosos (Instagram/site oficial + Jornal Debate)"
-  },
   {
    "clube": "mirassol",
    "nome": "Mirassol",
@@ -420,6 +385,41 @@
    "quando": "2026-11-24T13:30-03:00",
    "motivo": "Nova comissão técnica para 2027 (23/11) só no Futebol Interior; sem 2ª fonte",
    "sugestao": "ECUS: comissão técnica de Adriano Rodrigues para a A4 2027 (Fábio Zoccolo, Renato Oliveira, Luiz Alencar, Lucas Castilho) - confirmar com o clube"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-24T17:00-03:00",
+   "motivo": "24/11 16h43: nenhuma notícia nova do profissional nas últimas 48h achada em 2 fontes; site oficial não abriu na leitura automática. O Sub-15 (eliminado pelo Bragantino) entrou na matéria das 18h03",
+   "sugestao": "Preparação para Mirassol x Athletico-PR, domingo (29/11), 18h30, no Maião, 37ª rodada: reapresentação, desfalques e coletiva da semana (site oficial e Diário da Região)"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-24T17:00-03:00",
+   "motivo": "Retornos de Julian e Fábio para 2027 só no Futebol Interior (23/11); sem 2ª fonte legível",
+   "sugestao": "Tanabi anuncia retornos do zagueiro Julian e do atacante Fábio para a Série A4 de 2027: https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/ (conferir no Instagram oficial do clube)"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-24T17:00-03:00",
+   "motivo": "Comissão técnica de 2027 do ECUS só no Futebol Interior (23/11); sem 2ª fonte legível",
+   "sugestao": "ECUS fecha comissão de Adriano Rodrigues para a Série A4 de 2027 (Fábio Zoccolo, Luiz Alencar, Renato Oliveira, Lucas Castilho): https://www.futebolinterior.com.br/ecus-comissao-tecnica-2027/ (conferir no Instagram do clube ou Diário de Suzano)"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-24T17:00-03:00",
+   "motivo": "Contratação do lateral Fábio (24/11) só no Futebol Interior; o site oficial do XV não publica desde 09/11",
+   "sugestao": "XV de Piracicaba oficializa o lateral-esquerdo Fábio, 27 anos, ex-Operário-MT e Oeste, 13º reforço para o Paulistão A2 2027: https://www.futebolinterior.com.br/xv-de-piracicaba-acerta-ex-operario-mt/ (conferir no Instagram do XV)"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-24T17:00-03:00",
+   "motivo": "Técnico Cristian de Souza: só fontes de negociação (CBN Campinas 16/11) e republicação; anúncio oficial não confirmado",
+   "sugestao": "Conferir no site/Instagram do Guarani se Cristian de Souza foi oficializado como técnico para 2027 (CBN Campinas: https://cbncampinas.com.br/2026/11/guarani-negocia-com-tecnico-cristian-de-souza-para-temporada-2027/)"
   }
  ]
 }
