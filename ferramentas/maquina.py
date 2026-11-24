@@ -5,6 +5,8 @@
       Mostra o próximo horário livre (08h às 23h59, de 1h30 em 1h30) e os clubes sugeridos para ele:
       os que estão há mais tempo sem matéria no site e sem matéria recente da Máquina (sorteio entre os 6 mais esquecidos).
       Também lista as últimas matérias da Máquina sobre esses clubes (para não repetir assunto).
+  python3 ferramentas/maquina.py evergreen [--n 6] [--pular ID --motivo "..."]
+      Pautas evergreen do dia dos clubes sem divisão (dados/pautas_evergreen.json): 1 por clube, os mais buscados primeiro.
   python3 ferramentas/maquina.py historico CLUBE
       Títulos e palavras-chave já usados para o clube (site + Máquina), para não repetir pauta nem canibalizar busca.
   python3 ferramentas/maquina.py adicionar ARQUIVO.json
@@ -197,6 +199,56 @@ def cmd_proximo(_a):
     sd = [i for i in feitos if grupo_de(i["clube"]) == "sem_divisao"]
     ev = [i for i in feitos if i.get("tipo") == "historia"]
     print(f"Evergreen hoje: {len(ev)} de no máximo 4 (cota diária: 8 A4, 8 sem divisão, 8 feminino)")
+
+
+PAUTAS_EV = Path(__file__).resolve().parent.parent / "dados" / "pautas_evergreen.json"
+
+
+def ler_pautas_ev():
+    try:
+        return json.loads(PAUTAS_EV.read_text())
+    except Exception:  # noqa: BLE001
+        return {"pautas": []}
+
+
+def marcar_pauta_ev(pid, quando, obs=""):
+    d = ler_pautas_ev()
+    for x in d["pautas"]:
+        if x["id"] == pid:
+            x["feito"] = quando
+            if obs:
+                x["obs"] = obs
+    PAUTAS_EV.write_text(json.dumps(d, ensure_ascii=False, indent=1))
+
+
+def cmd_evergreen(a):
+    """Pautas evergreen do dia dos clubes sem divisão: uma por clube, os mais buscados primeiro."""
+    n = int(opc(a, "--n") or 6)
+    if "--pular" in a:
+        pid = a[a.index("--pular") + 1]
+        marcar_pauta_ev(pid, "pulada " + agora().strftime("%Y-%m-%d"), opc(a, "--motivo") or "")
+        print(f"pauta {pid} marcada como pulada")
+        return
+    h = historico()["itens"]
+    lim = (agora() - datetime.timedelta(days=6)).strftime("%Y-%m-%d")
+    recentes = {i["clube"] for i in h if i.get("tipo") == "historia" and i["publish_at"] >= lim}
+    hoje = agora().strftime("%Y-%m-%d")
+    feitas_hoje = sum(1 for x in ler_pautas_ev()["pautas"] if str(x.get("feito", "")).startswith(hoje))
+    pend = [x for x in ler_pautas_ev()["pautas"] if not x.get("feito")]
+    pend.sort(key=lambda x: (x["ordem"], -x["buscas_site"]))
+    out, vistos = [], set()
+    for x in pend:
+        if x["clube"] in vistos or x["clube"] in recentes:
+            continue
+        vistos.add(x["clube"])
+        out.append(x)
+        if len(out) >= max(0, n - feitas_hoje):
+            break
+    print(f"Evergreen dos clubes sem divisão: {feitas_hoje} feitas hoje, meta 6. Pendentes no total: {len(pend)}.")
+    if not out:
+        print("nenhuma pauta disponível agora (meta do dia cumprida ou clubes com matéria nos últimos 6 dias)")
+    for x in out:
+        print(f"- pauta_evergreen: {x['id']} | {x['clube_nome']} ({x['clube']}) | tema: {x['tema']} | foco: {x['foco']} | título sugerido: {x['titulo_sugerido']} | intenção: {x['intencao']}")
 
 
 def cmd_historico(a):
@@ -591,7 +643,7 @@ def cmd_adicionar(a):
         hist_dia = [i for i in h if i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"][:10] == dia]
         sd_dia = [i for i in hist_dia if grupo_de(i["clube"]) == "sem_divisao"]
         # Evergreen (08/11/2026, fora de temporada A4 e sem divisão quase não têm notícia): até 4 de sem divisão + 4 da A4 + 2 do feminino por dia
-        lim_g = {"sem_divisao": 4, "a4": 4, "feminino": 2}.get(c.get("grupo"), 0)
+        lim_g = {"sem_divisao": 8, "a4": 4, "feminino": 2}.get(c.get("grupo"), 0)  # 24/11/2026: sem divisão 6 a 8 por dia (pautas_evergreen)
         do_grupo = [i for i in hist_dia if grupo_de(i["clube"]) == c.get("grupo")]
         for bl in ("A2", "A3"):  # 12/11/2026: A2 e A3 sem notícia → até 2 histórias por bloco por dia
             if c["slug"] in BLOCOS[bl]:
@@ -600,9 +652,16 @@ def cmd_adicionar(a):
         if len(do_grupo) >= lim_g:
             erros.append(f"já há {len(do_grupo)} matérias evergreen deste grupo para {dia} (máximo 4 sem divisão, 4 A4, 2 feminino): "
                          "use `sem-pauta CLUBE --motivo ... --sugestao ...` pedindo uma pauta à redação e passe ao próximo clube")
-        lim = (agora() - datetime.timedelta(days=14)).strftime("%Y-%m-%d")
+        dias_int = 6 if c.get("grupo") == "sem_divisao" else 14
+        lim = (agora() - datetime.timedelta(days=dias_int)).strftime("%Y-%m-%d")
         if any(i["clube"] == c["slug"] and i.get("tipo") == "historia" and not i.get("pedido") and i["publish_at"] >= lim for i in h):
-            erros.append("este clube já teve matéria histórica nos últimos 14 dias: peça uma pauta com `sem-pauta` em vez de outra história")
+            erros.append(f"este clube já teve matéria histórica nos últimos {dias_int} dias: peça uma pauta com `sem-pauta` em vez de outra história")
+        if c.get("grupo") == "sem_divisao" and it.get("pauta_evergreen"):
+            pe = {x["id"]: x for x in ler_pautas_ev()["pautas"]}
+            if it["pauta_evergreen"] not in pe:
+                erros.append("pauta_evergreen desconhecida: use o id que `maquina.py evergreen` mostra")
+            elif pe[it["pauta_evergreen"]].get("feito"):
+                erros.append("esta pauta evergreen já foi feita: pegue outra em `maquina.py evergreen`")
     if video:
         slot = (agora() + datetime.timedelta(minutes=3)).strftime("%Y-%m-%d %H:%M")
     elif posjogo:
@@ -627,6 +686,8 @@ def cmd_adicionar(a):
     d["itens"].append({"id": it["id"], "clube": c["slug"], "titulo": it["titulo"], "foco": it["foco"], "tipo": it["tipo"], "publish_at": slot, "foto": bool(foto) or bool(it.get("foto_do_jogo")), "rascunho": True if (pend and not foto) else None, "jogo": it.get("jogo"), "pedido": pedido or None, "video": (it.get("video") or {}).get("id"), "efemeride": (it.get("efemeride") or {}).get("data"), "intencao": (it.get("intencao") or {}).get("tipo"), "intencao_jogo": (it.get("intencao") or {}).get("jogo")})
     d["itens"] = d["itens"][-2000:]
     gravar(M / "historico.json", d)
+    if it.get("pauta_evergreen"):
+        marcar_pauta_ev(it["pauta_evergreen"], str(slot))
     print(f"OK: {nome} na fila para {slot} ({'com foto' if foto or it.get('foto_do_jogo') else 'SEM foto: vai como rascunho para um redator pôr a foto e publicar'})")
     if posjogo:
         print("Agora: commit + push e depois `python3 ferramentas/maquina.py avisar-site` (publica em ~1 minuto).")
@@ -1094,4 +1155,4 @@ if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     {"proximo": cmd_proximo, "historico": cmd_historico, "adicionar": cmd_adicionar, "sem-pauta": cmd_sem_pauta,
      "clube": cmd_clube, "limpar": cmd_limpar,
-     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas, "intencoes": cmd_intencoes, "ja-tem": cmd_ja_tem}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
+     "posjogo-pendentes": cmd_posjogo_pendentes, "avisar-site": cmd_avisar_site, "versoes-pendentes": cmd_versoes_pendentes, "original": cmd_original, "trocar-foto": cmd_trocar_foto, "cobertura-6h": cmd_cobertura, "youtube-canal": cmd_youtube_canal, "videos": cmd_videos, "lixeira": cmd_lixeira, "grandes": cmd_grandes, "cotas": cmd_cotas, "intencoes": cmd_intencoes, "ja-tem": cmd_ja_tem, "evergreen": cmd_evergreen}.get(cmd, lambda a: print(__doc__))(sys.argv[2:])
