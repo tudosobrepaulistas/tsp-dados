@@ -52,9 +52,10 @@ A página do clube é a página-pilar dele: além da ficha, mostra até 3 fotos 
   agência (Getty, AGIF, Gazeta Press...), nunca arte gerada. Use o arquivo de 1200 px de largura (upload.wikimedia.org,
   `.../thumb/.../1200px-...`). Campos: `{"url", "credito": "Foto: Autor/Wikimedia Commons (CC BY-SA 4.0)", "legenda":
   "Estádio Barão da Serra Negra", "fonte": "link da página da foto"}`. A 1ª foto é a grande (de preferência o estádio).
-- **Patrocínios** (`patrocinadores` + `patrocinadores_ano`): só os anunciados pelo clube ou em matéria aceita, da temporada
-  atual (2027; enquanto não houver anúncio de 2027, os de 2026 com `"patrocinadores_ano": "2026"`). Campos: `{"nome": "Kappa",
-  "tipo": "Material esportivo" | "Master" | "Manga" | "Costas" | "Calção" | "Patrocinador", "site": "", "fonte": "link"}`.
-  Nada de casa de apostas (regra do site).
+- **Patrocinadores** (`patrocinadores`), pedido do Thiago em 25/11: a página mostra **só o nome da empresa e o link para o
+  site oficial dela** (o TSP usa essa lista para propostas comerciais). Entra empresa anunciada pelo clube (site, redes ou
+  camisa apresentada oficialmente) ou citada em matéria aceita, da temporada atual. Campos: `{"nome": "Kappa",
+  "site": "https://www.kappa.com.br", "fonte": "link de onde saiu a informação"}`. Site: o oficial da empresa (confira que
+  abre); sem site confirmado, só o nome. Nada de casa de apostas (regra do site).
 Grave no mesmo /tmp/guia.json da ficha e rode `python3 ferramentas/guia.py juntar /tmp/guia.json && python3 ferramentas/guia.py gerar`.
 Prioridade: clubes prioritários e do interior primeiro.
