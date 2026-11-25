@@ -53,6 +53,114 @@
     "acoes": [],
     "obs": "linha de base 24/11; ficha vazia"
    }
+  ],
+  "comercial": [
+   {
+    "data": "2026-11-25T04:20-03:00",
+    "busca": "notícias do Comercial de Ribeirão Preto",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "arpensp.org.br",
+     "cqcs.com.br",
+     "wikipedia.com",
+     "sites.usp.br",
+     "al.sp.gov.br"
+    ],
+    "acoes": [],
+    "obs": "busca devolve notícias da cidade, não do clube; ficha sem fonte aceita nesta execução"
+   }
+  ],
+  "bragantino": [
+   {
+    "data": "2026-11-25T04:20-03:00",
+    "busca": "notícias do Bragantino",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "soccerway.com",
+     "band.com.br",
+     "flashscore.pt",
+     "band.com.br",
+     "lance.com.br"
+    ],
+    "acoes": [],
+    "obs": "página fresca (9h); ficha sem fonte aceita nesta execução"
+   }
+  ],
+  "mirassol": [
+   {
+    "data": "2026-11-25T04:20-03:00",
+    "busca": "notícias do Mirassol",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "cnnbrasil.com.br",
+     "cnnbrasil.com.br",
+     "fotmob.com",
+     "arpensp.org.br"
+    ],
+    "acoes": [],
+    "obs": "página fresca (9h)"
+   }
+  ],
+  "novorizontino": [
+   {
+    "data": "2026-11-25T04:20-03:00",
+    "busca": "notícias do Novorizontino",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "itatiaia.com.br",
+     "band.com.br",
+     "band.com.br",
+     "soccerway.com",
+     "itatiaia.com.br"
+    ],
+    "acoes": [],
+    "obs": "página fresca (9h)"
+   }
+  ],
+  "botafogosp": [
+   {
+    "data": "2026-11-25T04:20-03:00",
+    "busca": "notícias do Botafogo-SP",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "lance.com.br",
+     "lance.com.br",
+     "soccerway.com",
+     "cnnbrasil.com.br"
+    ],
+    "acoes": [],
+    "obs": "página fresca (9h)"
+   }
+  ],
+  "pontepreta": [
+   {
+    "data": "2026-11-25T04:20-03:00",
+    "busca": "notícias da Ponte Preta",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "itatiaia.com.br",
+     "lance.com.br",
+     "lance.com.br",
+     "gazetaesportiva.com"
+    ],
+    "acoes": [],
+    "obs": "página fresca (9h); capacidade do Majestoso sem fonte aceita nesta execução"
+   }
   ]
  }
 }
