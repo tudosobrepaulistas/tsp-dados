@@ -1,55 +1,6 @@
 {
- "gerado": "2026-11-24T20:31-03:00",
+ "gerado": "2026-11-24T21:17-03:00",
  "avisos": [
-  {
-   "clube": "saocaetano",
-   "nome": "São Caetano",
-   "quando": "2026-11-24T06:44-03:00",
-   "motivo": "Fontes lidas (WMais, Futebol Interior) não falam da troca de vagas com São Caetano/Itaquaquecetuba; ge não abriu",
-   "sugestao": "Justiça suspende parceria Rio Branco x Sertãozinho (23/11): conferir no ge se a troca em cadeia levaria o São Caetano à A3"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-24T06:44-03:00",
-   "motivo": "Sem foto livre do clube ou do Suzanão para conferir",
-   "sugestao": "Suzano fica fora das sedes da Copinha 2027 (ge e Diário de Suzano, 19/11); precisa de foto do União Suzano com crédito"
-  },
-  {
-   "clube": "ad-guarulhos",
-   "nome": "AD Guarulhos",
-   "quando": "2026-11-24T06:44-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias",
-   "sugestao": "Planos da AD Guarulhos para a Segunda Divisão de 2027 (diretoria e técnico), com o clube e a Folha Metropolitana"
-  },
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-24T06:44-03:00",
-   "motivo": "Sem notícia recente encontrada",
-   "sugestao": "Preparação do Taubaté para a Copa Paulista Feminina de 2027 (elenco e comissão), com t7news e Portal R3"
-  },
-  {
-   "clube": "santoandre",
-   "nome": "Santo André",
-   "quando": "2026-11-24T09:31-03:00",
-   "motivo": "Contratação do atacante Vitinho (20/11) só confirmada pelo Diário do Grande ABC; Repórter Diário não abriu",
-   "sugestao": "Confirmar a contratação de Vitinho com o anúncio oficial do Santo André e publicar"
-  },
-  {
-   "clube": "uniao-mogi",
-   "nome": "União Mogi",
-   "quando": "2026-11-24T09:31-03:00",
-   "motivo": "História (fundação 1913, fusão, título de 2006) só em Wikipédia/Campeões do Futebol; Chefe de Redação barrou",
-   "sugestao": "História do União Mogi com fonte do clube, FPF ou jornal de Mogi"
-  },
-  {
-   "clube": "ituano",
-   "nome": "Ituano",
-   "quando": "2026-11-24T09:31-03:00",
-   "motivo": "Pré-contrato do lateral Williams Bahia só no Futebol Interior (23/11)",
-   "sugestao": "Confirmar Williams Bahia no Instagram oficial do Ituano"
-  },
   {
    "clube": "xv-de-jau",
    "nome": "XV de Jaú",
@@ -420,6 +371,55 @@
    "quando": "2026-11-24T20:31-03:00",
    "motivo": "Cobertura 6h 24/11 20h: sem fato novo nas últimas 24h além das renovações de Madson, Sander e Enderson já publicadas; Alvariño é notícia de dez/2025",
    "sugestao": "Acompanhar novos anúncios de reforços do Novorizontino para a Série A 2027 no Instagram oficial e no Diário da Região"
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-24T21:17-03:00",
+   "motivo": "Nada novo e confirmado desde o anúncio do técnico Ederaldo Oliveira (outubro); cota de evergreen da A4 cheia hoje",
+   "sugestao": "Perguntar ao clube os reforços e a data de reapresentação para a A4 2027"
+  },
+  {
+   "clube": "gremio-saocarlense",
+   "nome": "Grêmio São-Carlense",
+   "quando": "2026-11-24T21:17-03:00",
+   "motivo": "Única novidade (grupo da Copinha 2027 em São Carlos) já está na matéria geral da Copinha de 24/11; matéria do Jornal Primeira Página não abriu",
+   "sugestao": "Confirmar o técnico do Lobo para 2027 (Danilo Sacramento foi para o Lemense)"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-24T21:17-03:00",
+   "motivo": "Último fato achado é o Conselho Técnico de outubro",
+   "sugestao": "Confirmar com o clube o treinador de 2027"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-24T21:17-03:00",
+   "motivo": "Comissão técnica de 2027 só no Futebol Interior (23/11), sem 2ª fonte nem post oficial legível sem login",
+   "sugestao": "Publicar como coletiva a partir do post oficial do ECUS sobre a comissão (Fábio Zoccolo, Luiz Alencar, Renato Oliveira, Lucas Castilho)"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-24T21:17-03:00",
+   "motivo": "Mirassol não está na Copinha Feminina; prévia com Realidade Jovem (28/11) já saiu em 23/11",
+   "sugestao": "Pós-jogo de Realidade Jovem x Mirassol pela Copa Paulista Feminina"
+  },
+  {
+   "clube": "sao-paulo-feminino",
+   "nome": "São Paulo Feminino",
+   "quando": "2026-11-24T21:17-03:00",
+   "motivo": "Reforços para 2027 só em negociação; evergreen recente (11/11)",
+   "sugestao": "Evergreen em 25/11 sobre o título do Brasileirão Feminino 2026 e o público no MorumBIS (saopaulofc.net)"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-24T21:17-03:00",
+   "motivo": "Data, hora e local de Santos x Mauaense (quartas da Copa Paulista) ainda não divulgados",
+   "sugestao": "Prévia de Santos x Mauaense assim que FPF/clube divulgar"
   }
  ]
 }
