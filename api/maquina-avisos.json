@@ -1,34 +1,6 @@
 {
- "gerado": "2026-11-25T17:00-03:00",
+ "gerado": "2026-11-25T20:29-03:00",
  "avisos": [
-  {
-   "clube": "portuguesa",
-   "nome": "Portuguesa",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "Fatos novos (Cesinha no BID, falas de Marco Antonio na Lusa TV) só no NETLUSA, fonte não aceita",
-   "sugestao": "Coletiva do gerente Marco Antonio no YouTube da Lusa TV; grupo da Lusa na Copinha 2027"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "Reforma dos bancos do Palma Travassos e atacante Thiago Tinoco com 1 fonte só cada",
-   "sugestao": "Thiago Tinoco quando o clube oficializar; bancos com 2ª fonte; grupo na Copinha 2027"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "Renovação do zagueiro Kaio Santos só no Futebol Interior; site do clube não abriu",
-   "sugestao": "Renovação de Kaio Santos e comissão de Edson Paulista quando houver post oficial"
-  },
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "Nada novo depois do executivo Rafael Gatti (13/11)",
-   "sugestao": "Técnico de 2027 nas redes oficiais"
-  },
   {
    "clube": "uniao-sao-joao",
    "nome": "União São João",
@@ -420,6 +392,34 @@
    "quando": "2026-11-25T17:00-03:00",
    "motivo": "Goleada sobre o Ação-MT (Copinha F, 25/11) só no Meu Timão (não abriu); falta fonte aceita",
    "sugestao": "Pós-jogo Corinthians x Ação-MT na Copinha Feminina: placar e autoras pelo site do Corinthians e ge"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-25T20:29-03:00",
+   "motivo": "Única notícia nova das últimas 24h (volta de Neto Moura e Edson Carioca, suspensos, para pegar o Athletico-PR) só aparece no Esporte News Mundo/Terra; não achei 2ª fonte e o site do Mirassol não abriu nesta execução",
+   "sugestao": "Confirmar no site/redes do Mirassol a volta de Neto Moura e Edson Carioca e os treinos no CT1 para Mirassol x Athletico-PR (domingo, 18h30, Maião)"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-25T20:29-03:00",
+   "motivo": "Matérias sobre o 1º reforço para a Série A 2027 (NSC Total) e despedida de promessa japonesa (Lance!) não abriram; sem 2 fontes confirmadas nas últimas 24h",
+   "sugestao": "Checar no site/Instagram do Novorizontino o primeiro reforço anunciado para a Série A 2027 (citado pelo NSC Total) e cruzar com ge ou Diário da Região"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-25T20:29-03:00",
+   "motivo": "Nenhuma notícia nova do São Bernardo nas últimas 24h encontrada em fonte aceita (saídas e renovações recentes já publicadas)",
+   "sugestao": "Acompanhar no Instagram do São Bernardo FC novas renovações/reforços para o Paulistão 2027 e a reapresentação do elenco com Cauan de Almeida"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-25T20:29-03:00",
+   "motivo": "Pauta Inter x Bragantino (domingo 29/11, 18h30, Beira-Rio) já publicada em 24/11; treino do Inter de 25/11 (site do Inter + O Sul) não traz fato novo do Bragantino; site do Bragantino não abriu",
+   "sugestao": "Treino do Red Bull Bragantino de quinta/sexta com desfalques e provável time para enfrentar o Inter, pelo site oficial e ge Vale/Sul de Minas"
   }
  ]
 }
