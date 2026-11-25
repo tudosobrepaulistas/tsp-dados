@@ -28,9 +28,9 @@
       "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
     },
     "tsp-nova-era": {
-      "versao": "1.9.4",
-      "zip": "tsp-nova-era-1.9.4.zip",
-      "notas": "Bloco das categorias de base (e Copinha) não repete a mesma foto, mesmo quando ela foi enviada com outro nome. Mantém tudo da 1.9.3 (seção da Copinha)."
+      "versao": "1.9.5",
+      "zip": "tsp-nova-era-1.9.5.zip",
+      "notas": "Seção da Copinha sempre cheia, sem espaço em branco: completa com as matérias de guia, história e curiosidades da Copinha. Mantém tudo da 1.9.4."
     },
     "tsp-shopee": {
       "versao": "1.1.0",
