@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T03:35:00-03:00",
+ "gerado": "2026-11-25T06:57:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -11,6 +11,252 @@
   "promovido": "Subiu da base"
  },
  "itens": [
+  {
+   "id": "2026-11-24-renan-cosenza-votuporanguense",
+   "data": "2026-11-24",
+   "jogador": "Renan Cosenza",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Formado na base de Corinthians e Atlético-GO",
+   "de": {
+    "nome": "FC Cascavel",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Votuporanguense",
+    "slug": "votuporanguense",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 7,
+    "clubes": [
+     "FC Cascavel"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-24"
+   },
+   "comissao": false,
+   "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-24-pedro-mota-votuporanguense",
+   "data": "2026-11-24",
+   "jogador": "Pedro Mota",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo, formado na base do Santos",
+   "de": {
+    "nome": "Portuguesa Santista",
+    "slug": "portuguesasantista",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Votuporanguense",
+    "slug": "votuporanguense",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 17,
+    "gols": 1,
+    "clubes": [
+     "Portuguesa Santista"
+    ],
+    "obs": "Campanha do acesso à A2",
+    "fonte": "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/",
+    "escudos": {}
+   },
+   "selos": [
+    {
+     "texto": "Acesso Paulistão A3 2026",
+     "fonte": "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-24"
+   },
+   "comissao": false,
+   "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-24-gabriel-santos-votuporanguense",
+   "data": "2026-11-24",
+   "jogador": "Gabriel Santos",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volante e meia formado na base do Votuporanguense; volta ao clube",
+   "de": {
+    "nome": "América-MG",
+    "slug": "",
+    "id": 900039,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Votuporanguense",
+    "slug": "votuporanguense",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 20,
+    "idade_em": "2026-11-24"
+   },
+   "comissao": false,
+   "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-23-reverson-botafogo-sp",
+   "data": "2026-11-23",
+   "jogador": "Reverson",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo; reforço para 2027",
+   "de": {
+    "nome": "CRB",
+    "slug": "",
+    "id": 900026,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Botafogo-SP",
+    "slug": "botafogosp",
+    "id": 900032,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.gazetaweb.com/noticias/esportes/alagoano/titular-do-crb-na-reta-final-da-temporada-reverson-e-anunciado-pelo-botafogo-sp-951092",
+    "https://www.tribunaribeirao.com.br/lateral-reverson-ex-crb-e-o-novo-reforco-do-botafogo/",
+    "https://cbnribeirao.com.br/claudio-tencati-completa-um-ano-no-botafogo-sp-e-clube-anuncia-terceiro-reforco-para-temporada-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 18,
+    "assistencias": 1,
+    "clubes": [
+     "CRB"
+    ],
+    "obs": "Pelo CRB desde abril",
+    "fonte": "https://www.gazetaweb.com/noticias/esportes/alagoano/titular-do-crb-na-reta-final-da-temporada-reverson-e-anunciado-pelo-botafogo-sp-951092",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 29,
+    "idade_em": "2026-11-24",
+    "clubes_anteriores": [
+     "CRB",
+     "Paysandu",
+     "Novorizontino"
+    ]
+   },
+   "comissao": false,
+   "dono": "botafogosp"
+  },
+  {
+   "id": "2026-11-23-renato-oliveira-ecus",
+   "data": "2026-11-23",
+   "jogador": "Renato Oliveira",
+   "posicao": "Treinador de goleiros",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "ECUS",
+    "slug": "ecus",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ecus-comissao-tecnica-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Santo André",
+     "Nacional-SP",
+     "Cosmopolitano"
+    ]
+   },
+   "comissao": true,
+   "dono": "ecus"
+  },
   {
    "id": "2026-11-23-rafael-silva-xv-de-piracicaba",
    "data": "2026-11-23",
@@ -272,6 +518,44 @@
    "dono": "primavera"
   },
   {
+   "id": "2026-11-23-luiz-alencar-ecus",
+   "data": "2026-11-23",
+   "jogador": "Luiz Alencar",
+   "posicao": "Preparador físico",
+   "tipo": "renovacao",
+   "tipo_nome": "Renovação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Segue para 2027",
+   "de": {
+    "nome": "ECUS",
+    "slug": "ecus",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "ECUS",
+    "slug": "ecus",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ecus-comissao-tecnica-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
+   "dono": "ecus"
+  },
+  {
    "id": "2026-11-23-lua-lucio-paulista",
    "data": "2026-11-23",
    "jogador": "Luã Lúcio",
@@ -384,6 +668,97 @@
    },
    "comissao": false,
    "dono": "paulista-jundiai"
+  },
+  {
+   "id": "2026-11-23-julian-henrique-tanabi",
+   "data": "2026-11-23",
+   "jogador": "Julian Henrique",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Julian Henrique Carlota; volta ao clube",
+   "de": {
+    "nome": "Novo Esporte-MG",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 10,
+    "gols": 3,
+    "clubes": [
+     "Caldense",
+     "Novo Esporte-MG"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-23"
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
+   "id": "2026-11-23-fabio-souza-tanabi",
+   "data": "2026-11-23",
+   "jogador": "Fábio Souza",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Campeão da Bezinha 2025 com o Tanabi; volta ao clube",
+   "de": {
+    "nome": "Independente",
+    "slug": "independente",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-23"
+   },
+   "comissao": false,
+   "dono": "tanabi"
   },
   {
    "id": "2026-11-23-cesar-augusto-inter-de-bebedouro",
@@ -2325,6 +2700,53 @@
    },
    "comissao": false,
    "dono": "paulista-jundiai"
+  },
+  {
+   "id": "2026-11-19-adriano-rodrigues-ecus",
+   "data": "2026-11-19",
+   "jogador": "Adriano Rodrigues",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Último trabalho na base do Maceió",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "ECUS",
+    "slug": "ecus",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.futebolinterior.com.br/ecus-comissao-tecnica-2027/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 49,
+    "idade_em": "2026-11-23",
+    "clubes_anteriores": [
+     "CSA",
+     "Cruzeiro-AL",
+     "ASA",
+     "CSE"
+    ]
+   },
+   "comissao": true,
+   "dono": "ecus"
   },
   {
    "id": "2026-11-18-vitinho-xv-de-jau",

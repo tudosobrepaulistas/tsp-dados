@@ -1,9 +1,9 @@
 {
- "gerado": "2026-11-25T03:35:00-03:00",
+ "gerado": "2026-11-25T06:57:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
-   "atualizado": "2026-11-16",
+   "atualizado": "2026-11-23",
    "fonte": "https://botafogofutebolsa.com.br/elenco-2023/",
    "jogadores": [
     {
@@ -470,6 +470,35 @@
      "comissao": false
     },
     {
+     "nome": "Reverson",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 18,
+      "assistencias": 1,
+      "clubes": [
+       "CRB"
+      ],
+      "obs": "Pelo CRB desde abril",
+      "fonte": "https://www.gazetaweb.com/noticias/esportes/alagoano/titular-do-crb-na-reta-final-da-temporada-reverson-e-anunciado-pelo-botafogo-sp-951092",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "CRB",
+     "ficha": {
+      "idade": 29,
+      "idade_em": "2026-11-24",
+      "clubes_anteriores": [
+       "CRB",
+       "Paysandu",
+       "Novorizontino"
+      ]
+     },
+     "comissao": false
+    },
+    {
      "nome": "Cláudio Tencati",
      "posicao": "Treinador",
      "foto": null,
@@ -492,6 +521,12 @@
      "de": "América-MG",
      "tipo": "Contratação",
      "data": "2026-11-16"
+    },
+    {
+     "nome": "Reverson",
+     "de": "CRB",
+     "tipo": "Contratação",
+     "data": "2026-11-23"
     }
    ],
    "sairam": [
@@ -1368,7 +1403,7 @@
      "posicao": "Atacante",
      "numeros": {
       "jogos": 3,
-      "gols": 0,
+      "gols": 1,
       "minutos": 115,
       "minutos_estimados": true,
       "clube": "Corinthians",
@@ -10297,7 +10332,7 @@
    "sairam": []
   },
   "votuporanguense": {
-   "atualizado": "2026-11-20",
+   "atualizado": "2026-11-24",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -10567,6 +10602,72 @@
      "selos": [],
      "ficha": {},
      "comissao": false
+    },
+    {
+     "nome": "Renan Cosenza",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 7,
+      "clubes": [
+       "FC Cascavel"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "FC Cascavel",
+     "ficha": {
+      "idade": 22,
+      "idade_em": "2026-11-24"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Pedro Mota",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 17,
+      "gols": 1,
+      "clubes": [
+       "Portuguesa Santista"
+      ],
+      "obs": "Campanha do acesso à A2",
+      "fonte": "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/",
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Acesso Paulistão A3 2026",
+       "fonte": "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/"
+      }
+     ],
+     "nascimento": "",
+     "de": "Portuguesa Santista",
+     "ficha": {
+      "idade": 22,
+      "idade_em": "2026-11-24"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gabriel Santos",
+     "posicao": "Volante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "América-MG",
+     "ficha": {
+      "idade": 20,
+      "idade_em": "2026-11-24"
+     },
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -10635,6 +10736,24 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-20"
+    },
+    {
+     "nome": "Renan Cosenza",
+     "de": "FC Cascavel",
+     "tipo": "Contratação",
+     "data": "2026-11-24"
+    },
+    {
+     "nome": "Pedro Mota",
+     "de": "Portuguesa Santista",
+     "tipo": "Contratação",
+     "data": "2026-11-24"
+    },
+    {
+     "nome": "Gabriel Santos",
+     "de": "América-MG",
+     "tipo": "Contratação",
+     "data": "2026-11-24"
     }
    ],
    "sairam": []
@@ -11625,7 +11744,7 @@
    "sairam": []
   },
   "tanabi": {
-   "atualizado": "2026-11-05",
+   "atualizado": "2026-11-23",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -11717,6 +11836,45 @@
      "de": "Araxá-MG",
      "ficha": {},
      "comissao": false
+    },
+    {
+     "nome": "Julian Henrique",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 10,
+      "gols": 3,
+      "clubes": [
+       "Caldense",
+       "Novo Esporte-MG"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Novo Esporte-MG",
+     "ficha": {
+      "idade": 22,
+      "idade_em": "2026-11-23"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Fábio Souza",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Independente",
+     "ficha": {
+      "idade": 22,
+      "idade_em": "2026-11-23"
+     },
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -11755,6 +11913,18 @@
      "de": "Araxá-MG",
      "tipo": "Contratação",
      "data": "2026-11-05"
+    },
+    {
+     "nome": "Julian Henrique",
+     "de": "Novo Esporte-MG",
+     "tipo": "Contratação",
+     "data": "2026-11-23"
+    },
+    {
+     "nome": "Fábio Souza",
+     "de": "Independente",
+     "tipo": "Contratação",
+     "data": "2026-11-23"
     }
    ],
    "sairam": []
@@ -13128,6 +13298,77 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-18"
+    }
+   ],
+   "sairam": []
+  },
+  "ecus": {
+   "atualizado": "2026-11-23",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Adriano Rodrigues",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 49,
+      "idade_em": "2026-11-23",
+      "clubes_anteriores": [
+       "CSA",
+       "Cruzeiro-AL",
+       "ASA",
+       "CSE"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Renato Oliveira",
+     "posicao": "Treinador de goleiros",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "clubes_anteriores": [
+       "Santo André",
+       "Nacional-SP",
+       "Cosmopolitano"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Luiz Alencar",
+     "posicao": "Preparador físico",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {},
+     "comissao": true
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Adriano Rodrigues",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-19"
+    },
+    {
+     "nome": "Renato Oliveira",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-23"
     }
    ],
    "sairam": []
