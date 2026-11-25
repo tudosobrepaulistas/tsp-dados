@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-25T10:32-03:00",
+ "gerado": "2026-11-25T11:18-03:00",
  "avisos": [
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-24T13:09-03:00",
-   "motivo": "Site oficial sem notícia de 22 a 24/11; matérias do NSC Total sobre reforço não abriram; renovação de Enderson já em rascunho",
-   "sugestao": "Abrir NSC Total 'ex-Santos e Inter acerta com Novorizontino' e confirmar o reforço com ge Rio Preto/Instagram oficial"
-  },
-  {
-   "clube": "primavera",
-   "nome": "Primavera",
-   "quando": "2026-11-24T13:09-03:00",
-   "motivo": "Nada de 22 a 24/11 com 2 fontes; Instagram oficial pede login",
-   "sugestao": "Perguntar à assessoria a data de reapresentação e reforços para o Paulistão 2027"
-  },
-  {
-   "clube": "aguasanta",
-   "nome": "Água Santa",
-   "quando": "2026-11-24T13:09-03:00",
-   "motivo": "Nada publicado de 22 a 24/11 sobre o Água Santa",
-   "sugestao": "Perguntar à assessoria a data de reapresentação para a A2 2027 com Jorge Castilho e os atletas acertados"
-  },
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-24T13:13-03:00",
-   "motivo": "Renovação de Patrícia Seteco já publicada; sem outra notícia confirmada",
-   "sugestao": "Resultado da estreia na Copinha Feminina contra o Grêmio (24/11) — atenção: Copinha Feminina é base e não é coberta; alternativa: preparação para a semifinal contra o Bragantino (9/12)"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-24T13:13-03:00",
-   "motivo": "Sem notícia no site oficial desde 05/10; Cota de buscas da execução esgotada antes da apuração; nada confirmado de 22 a 24/11",
-   "sugestao": "Planejamento das Leoas Paulistas para 2027 (renovações, técnica Carine Bosetti) e resultado contra o Realidade Jovem na Copa Paulista"
-  },
   {
    "clube": "taubate-feminino",
    "nome": "Taubaté Feminino",
@@ -420,6 +385,41 @@
    "quando": "2026-11-25T10:32-03:00",
    "motivo": "Cobertura 6h: matérias do NSC Total sobre o primeiro reforço para 2027 não abrem; nenhuma 2ª fonte das últimas 24h encontrada.",
    "sugestao": "Primeiro reforço do Novorizontino para a Série A de 2027 (ex-Santos, citado pelo NSC Total): confirmar no site/Instagram do clube e no Diário da Região."
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-25T11:18-03:00",
+   "motivo": "Retorno de Daniel Dandan e Bernardo (Futebol Interior e Jornal Opinião, 23/11) confirmado, mas sem foto segura dos jogadores (só 'Arquivo Pessoal'/Instagram)",
+   "sugestao": "Tanabi: Daniel Dandan e Bernardo voltam para a A4 2027; zagueiro Julian Henrique Carlota (só Futebol Interior). Fontes: https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/ e https://jornalopiniao.net/tanabi-anuncia-14-jogadores-para-a-serie-a4-do-paulista-veja-os-reforcos/ . Falta foto com crédito do clube."
+  },
+  {
+   "clube": "independente",
+   "nome": "Independente",
+   "quando": "2026-11-25T11:18-03:00",
+   "motivo": "Renovação do capitão Hiago Ramiro e contratações de Arthur Bauer, Kaique Clemente e João Alegria só no Rápido no Ar (1 fonte, sem post oficial legível)",
+   "sugestao": "Independente: capitão Hiago Ramiro renova para a A4 2027 (https://rapidonoar.com.br/capitao-hiago-ramiro-renova-com-o-independente/). Confirmar no Instagram oficial do Galo e pegar foto do clube."
+  },
+  {
+   "clube": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "quando": "2026-11-25T11:18-03:00",
+   "motivo": "Copinha Feminina é Sub-20 (base feminina não é coberta desde 24/11); não renovação de Carol Nogueira só na Terra, sem nota oficial",
+   "sugestao": "Corinthians Feminino: acompanhar anúncio oficial sobre Carol Nogueira (Terra, 24/11: https://www.terra.com.br/esportes/corinthians/corinthians-decide-nao-renovar-contrato-de-atacante-multicampea-pelo-clube,afce1d5de0d57e0a3487138e74e6471fe5ocnlgw.html) e quartas da Copa Paulista contra o São Bento (29/11)."
+  },
+  {
+   "clube": "palmeiras-feminino",
+   "nome": "Palmeiras Feminino",
+   "quando": "2026-11-25T11:18-03:00",
+   "motivo": "Jonas Urias encaminhado como técnico para 2027 (ESPN 18/11 e Terra 23/11), sem anúncio oficial e sem foto segura",
+   "sugestao": "Palmeiras Feminino: Jonas Urias, ex-Cruzeiro, deve ser o técnico em 2027 (https://www.espn.com.br/futebol/mercado-da-bola/artigo/_/id/17530848/palmeiras-encaminha-contratacao-tecnico-jonas-urias-campeao-libertadores-feminina-cruzeiro). Publicar quando o clube anunciar, com foto oficial."
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-25T11:18-03:00",
+   "motivo": "Quartas da Copa Paulista Feminina contra o Mauaense sem data/hora/local em fonte aceita; Copinha F é base (Sub-20)",
+   "sugestao": "Santos Feminino x Mauaense, quartas da Copa Paulista: confirmar data, horário e local com a FPF ou o site do Santos (bloqueados para a Máquina)."
   }
  ]
 }
