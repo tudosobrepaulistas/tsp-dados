@@ -1,111 +1,6 @@
 {
- "gerado": "2026-11-25T15:28-03:00",
+ "gerado": "2026-11-25T17:00-03:00",
  "avisos": [
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-24T13:13-03:00",
-   "motivo": "Cota de buscas da execução esgotada antes da apuração; nada confirmado de 22 a 24/11",
-   "sugestao": "Situação da venda da SAF do Catanduva e técnico/reforços para a Série A3 2027"
-  },
-  {
-   "clube": "francana",
-   "nome": "Francana",
-   "quando": "2026-11-24T13:13-03:00",
-   "motivo": "Cota de buscas da execução esgotada antes da apuração; nada confirmado de 22 a 24/11",
-   "sugestao": "Técnico e data da pré-temporada da Francana para a Série A3 2027; reforços depois dos 21 de 17/11"
-  },
-  {
-   "clube": "itapirense",
-   "nome": "Itapirense",
-   "quando": "2026-11-24T13:13-03:00",
-   "motivo": "Cota de buscas da execução esgotada antes da apuração; nada confirmado de 22 a 24/11",
-   "sugestao": "Itapirense define técnico e primeiros reforços para a Série A3 2027; andamento da SAF"
-  },
-  {
-   "clube": "xv-de-jau",
-   "nome": "XV de Jaú",
-   "quando": "2026-11-24T13:13-03:00",
-   "motivo": "Cota de buscas da execução esgotada antes da apuração; nada confirmado de 22 a 24/11",
-   "sugestao": "Reforços depois de 16/11 ou data de reapresentação do XV de Jaú para a Série A3 2027"
-  },
-  {
-   "clube": "sao-paulo-feminino",
-   "nome": "São Paulo Feminino",
-   "quando": "2026-11-24T13:30-03:00",
-   "motivo": "São Paulo 5x0 Criciúma (estreia na Copinha Feminina, 24/11) só confirmado pela Gazeta Esportiva até 13h30; falta a 2ª fonte",
-   "sugestao": "Pós-jogo São Paulo 5x0 Criciúma na Copinha Feminina (gols de Laura Laredo, Vivia 2, Vitória Barretto e Tays; Gazeta Esportiva), conferindo com o site do São Paulo; foto Léo Barrilari/Ag. Paulistão"
-  },
-  {
-   "clube": "ecus",
-   "nome": "ECUS",
-   "quando": "2026-11-24T13:30-03:00",
-   "motivo": "Nova comissão técnica para 2027 (23/11) só no Futebol Interior; sem 2ª fonte",
-   "sugestao": "ECUS: comissão técnica de Adriano Rodrigues para a A4 2027 (Fábio Zoccolo, Renato Oliveira, Luiz Alencar, Lucas Castilho) - confirmar com o clube"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-24T17:00-03:00",
-   "motivo": "24/11 16h43: nenhuma notícia nova do profissional nas últimas 48h achada em 2 fontes; site oficial não abriu na leitura automática. O Sub-15 (eliminado pelo Bragantino) entrou na matéria das 18h03",
-   "sugestao": "Preparação para Mirassol x Athletico-PR, domingo (29/11), 18h30, no Maião, 37ª rodada: reapresentação, desfalques e coletiva da semana (site oficial e Diário da Região)"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-24T17:00-03:00",
-   "motivo": "Retornos de Julian e Fábio para 2027 só no Futebol Interior (23/11); sem 2ª fonte legível",
-   "sugestao": "Tanabi anuncia retornos do zagueiro Julian e do atacante Fábio para a Série A4 de 2027: https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/ (conferir no Instagram oficial do clube)"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-24T17:00-03:00",
-   "motivo": "Comissão técnica de 2027 do ECUS só no Futebol Interior (23/11); sem 2ª fonte legível",
-   "sugestao": "ECUS fecha comissão de Adriano Rodrigues para a Série A4 de 2027 (Fábio Zoccolo, Luiz Alencar, Renato Oliveira, Lucas Castilho): https://www.futebolinterior.com.br/ecus-comissao-tecnica-2027/ (conferir no Instagram do clube ou Diário de Suzano)"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "nome": "XV de Piracicaba",
-   "quando": "2026-11-24T17:00-03:00",
-   "motivo": "Contratação do lateral Fábio (24/11) só no Futebol Interior; o site oficial do XV não publica desde 09/11",
-   "sugestao": "XV de Piracicaba oficializa o lateral-esquerdo Fábio, 27 anos, ex-Operário-MT e Oeste, 13º reforço para o Paulistão A2 2027: https://www.futebolinterior.com.br/xv-de-piracicaba-acerta-ex-operario-mt/ (conferir no Instagram do XV)"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-24T17:00-03:00",
-   "motivo": "Técnico Cristian de Souza: só fontes de negociação (CBN Campinas 16/11) e republicação; anúncio oficial não confirmado",
-   "sugestao": "Conferir no site/Instagram do Guarani se Cristian de Souza foi oficializado como técnico para 2027 (CBN Campinas: https://cbncampinas.com.br/2026/11/guarani-negocia-com-tecnico-cristian-de-souza-para-temporada-2027/)"
-  },
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "Cota de evergreen da A4 de 24/11 cheia (4); texto do clássico Lobo x Águia pronto e revisado",
-   "sugestao": "Publicar amanhã o evergreen do clássico Grêmio São-Carlense x São Carlos FC ou notícia de reforços para a A4 2027"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "2ª matéria barrada pelo Chefe de Redação: chances de Sul-Americana repetia a matéria de 23/11 sobre a tabela",
-   "sugestao": "Wallace Yan suspenso? volta de Fernando e Matheus Fernandes contra o Internacional (confirmar no clube/ge)"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "Sem fato novo confirmado desde 20/11; site oficial sem notícias desde 12/11",
-   "sugestao": "Data da reapresentação para o Paulistão 2027 e reforços (Instagram oficial, O Semanário de Capivari)"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "nome": "XV de Piracicaba",
-   "quando": "2026-11-24T18:18-03:00",
-   "motivo": "Nada novo de 22 a 24/11 além do Rafael Silva, já publicado",
-   "sugestao": "Grupo e sede do XV na Copinha 2027 (lançamento da FPF em 24/11)"
-  },
   {
    "clube": "portuguesa",
    "nome": "Portuguesa",
@@ -420,6 +315,111 @@
    "quando": "2026-11-25T15:28-03:00",
    "motivo": "Execução automática sem notícia das últimas 24h confirmada em 2 fontes legíveis: site oficial, jornais da cidade e NSC Total não abriram nesta execução; busca só trouxe fatos já publicados.",
    "sugestao": "Situação do atacante Zé Hugo e o 3º reforço para 2027 (CBN Ribeirão): confirmar no site do Botafogo-SP e na Tribuna Ribeirão; pré-temporada começa em 7/12"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Sem fato novo em 2 fontes nas últimas 48h; jogo com o Athletico-PR (29/11, 18h30, Maião) já saiu no site em 24/11; site oficial não abriu para leitura",
+   "sugestao": "Treinos da semana e desfalques para Mirassol x Athletico-PR, a partir do site oficial (mirassolfc.com.br/blogs/news) e de jornal de Rio Preto"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Luizinho Lopes como alvo só aparece na Hora Campinas; Cristian de Souza já saiu no site em 24/11",
+   "sugestao": "Confirmar com a diretoria (Carlos Frontini) quem será o técnico de 2027 e a data da reapresentação"
+  },
+  {
+   "clube": "xvdepiracicaba",
+   "nome": "XV de Piracicaba",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Pauta do Oliver já publicada em 09/11; nenhum anúncio novo achado depois de 24/11",
+   "sugestao": "Conferir xvpiracicaba.com.br/noticias para o 12º reforço da A2 2027"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Sem notícia das últimas 48h em fonte aceita",
+   "sugestao": "Guia do Estádio Palma Travassos com fonte da FPF ou do jornal A Cidade"
+  },
+  {
+   "clube": "barretos",
+   "nome": "Barretos",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Reforços achados (Rogério Zuin, 11/11) com 1 fonte só e fora das 48h",
+   "sugestao": "Rogério Zuin, lateral de 21 anos ex-Desportivo Brasil, anunciado para a A4 2027: confirmar no Instagram oficial do Barretos"
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Sem notícia recente; sem fonte segura para evergreen novo (história e jogadores revelados já saíram)",
+   "sugestao": "Guia do Estádio Municipal de Porto Feliz e do CT do Dragão, com dados do clube ou da prefeitura"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Nada novo do União Suzano Atlético Clube; as notas de 23 e 25/11 são do ECUS, outro clube de Suzano",
+   "sugestao": "Reforços do União Suzano para a A4 2027 com o técnico Tássio, no site uniaosuzanooficial.com.br"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Dupla Ryan Rizardi e Gerson Lima (25/11) só na Futebol Interior, sem 2ª fonte",
+   "sugestao": "ECUS anuncia zagueiro Ryan Rizardi (ex-Desportivo Brasil) e lateral Gerson Lima para a A4 2027: confirmar no Instagram do clube ou no Diário de Suzano"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Últimas notícias (comissão técnica, 05/11; reapresentação, 03/11) fora das 48h",
+   "sugestao": "Primeiros jogadores contratados para o Paulistão 2027, via JCNET ou Instagram do Noroeste"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Só matéria de planejamento sem fato novo; reapresentação marcada para 26/11",
+   "sugestao": "Reapresentação da Ferroviária na quinta (26/11) e reforços para Paulistão e Série B 2027"
+  },
+  {
+   "clube": "capivariano",
+   "nome": "Capivariano",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Nada novo depois do zagueiro de 20/11 (já publicado)",
+   "sugestao": "Elenco do Capivariano para o Paulistão 2027: contratações e técnico, pelo Instagram oficial ou O Semanário"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Enderson já publicado em 24/11; matérias do primeiro reforço (NSC Total) não abriram e não há 2ª fonte",
+   "sugestao": "Primeiro reforço do Novorizontino para a Série A 2027: confirmar nome no site oficial e em jornal de Rio Preto"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Nenhuma notícia das últimas 48h",
+   "sugestao": "Planejamento do São Bernardo para o Paulistão 2027 (reforços e reapresentação) via DGABC"
+  },
+  {
+   "clube": "red-bull-bragantino-feminino",
+   "nome": "Red Bull Bragantino Feminino",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Vitória por 2x1 sobre o Atlético-MG (Copinha F, 25/11) só no Correio de Atibaia até agora; falta 2ª fonte",
+   "sugestao": "Pós-jogo Bragantino 2x1 Atlético-MG com 2 gols de Raissa: confirmar no site do Red Bull Bragantino"
+  },
+  {
+   "clube": "corinthians-feminino",
+   "nome": "Corinthians Feminino",
+   "quando": "2026-11-25T17:00-03:00",
+   "motivo": "Goleada sobre o Ação-MT (Copinha F, 25/11) só no Meu Timão (não abriu); falta fonte aceita",
+   "sugestao": "Pós-jogo Corinthians x Ação-MT na Copinha Feminina: placar e autoras pelo site do Corinthians e ge"
   }
  ]
 }
