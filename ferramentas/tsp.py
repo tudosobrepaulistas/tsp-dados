@@ -291,7 +291,7 @@ def cmd_prejogo(a):
     if PROIBIDO_PRE.search(json.dumps(novo, ensure_ascii=False)):
         erros.append("conteúdo de aposta não pode")
     for c in novo:
-        if c not in ("onde_assistir", "provaveis", "analise", "retrospecto", "estadio_wiki", "fontes"):
+        if c not in ("onde_assistir", "provaveis", "analise", "retrospecto", "estadio_wiki", "fontes", "confronto", "arbitragem", "ingressos"):
             erros.append(f"campo desconhecido: {c}")
     oa = novo.get("onde_assistir")
     if oa is not None:
@@ -309,7 +309,22 @@ def cmd_prejogo(a):
     an = novo.get("analise")
     if an is not None and (not isinstance(an, list) or not (2 <= len(an) <= 6)):
         erros.append("analise: lista de 2 a 6 parágrafos")
-    for f in novo.get("fontes", []) + (oa or {}).get("fontes", []) + (pv or {}).get("fontes", []):
+    # 25/11/2026: dossiê histórico do confronto (página /confronto/), arbitragem e ingressos (diretrizes/confrontos.md)
+    cf = novo.get("confronto")
+    if cf is not None:
+        if not isinstance(cf, dict) or len(cf.get("times", [])) != 2:
+            erros.append("confronto.times: os 2 nomes, na mesma ordem dos números (ex.: [\"Coritiba\", \"Flamengo\"])")
+        hosts = {re.sub(r"^www\.", "", re.sub(r"^https://([^/]+).*", r"\1", str(u))) for u in cf.get("fontes", [])}
+        if cf.get("total") and len(hosts) < 2:
+            erros.append("confronto.total (números do histórico) precisa de 2 fontes de sites diferentes")
+        t = cf.get("total") or {}
+        if t and (int(t.get("jogos", 0)) != sum(int(x) for x in t.get("vitorias", [0, 0])) + int(t.get("empates", 0))):
+            erros.append("confronto.total: jogos tem que ser vitórias + empates + vitórias")
+    for campo in ("arbitragem", "ingressos"):
+        x = novo.get(campo)
+        if x is not None and (not isinstance(x, dict) or not x.get("fontes")):
+            erros.append(f"{campo} precisa de fontes")
+    for f in novo.get("fontes", []) + (oa or {}).get("fontes", []) + (pv or {}).get("fontes", []) + (cf or {}).get("fontes", []) + (novo.get("arbitragem") or {}).get("fontes", []) + (novo.get("ingressos") or {}).get("fontes", []):
         if not str(f).startswith("https://"):
             erros.append(f"fonte sem https: {f}")
         if re.search(r"sofascore|flashscore|ogol|transfermarkt|fotmob|google\.com/search", str(f), re.I):

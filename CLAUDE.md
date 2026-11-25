@@ -52,3 +52,7 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
 14. **Pessoas (22/11/2026):** página e matéria de jogador, treinador, comissão e dirigente seguem `diretrizes/pessoas.md`
     (SEO com H1/H2/H3 e entidades ligadas; AEO com resposta de até 55 palavras logo abaixo de cada pergunta; GEO com datas,
     métricas e tabelas; dado que falta = "Em atualização"). Sofascore, oGol, Transfermarkt e Soccerway são só referência de formato.
+15. **Confrontos (25/11/2026):** todo jogo futuro de competição com clube paulista (mesmo entre dois clubes de fora) tem a página
+    /confronto/ completa **3 dias antes**, respondendo TODAS as intenções de busca (data, hora, local, onde assistir, árbitro,
+    ingressos, tabela, momento, estatísticas, artilheiros, técnicos, escalações, desfalques, retrospecto geral com 2 fontes,
+    maiores vitórias, jogos marcantes). Como fazer: `diretrizes/confrontos.md`. Nada de apostas.
