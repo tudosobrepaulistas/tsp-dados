@@ -1,0 +1,205 @@
+{
+ "_leia": "Guia da Copinha 2027 (25/11/2026, pedido do Thiago: 'traga curiosidades da copinha como se fosse um guia'). Uma matéria evergreen por pauta, campeonato 'copinha', com fontes (2 fontes em número, título e recorde). Atualizar as de 2027 quando sair novidade oficial da FPF. Nunca usar oGol/Sofascore/Transfermarkt como fonte.",
+ "pautas": [
+  {
+   "id": "copinha-2027-guia-completo",
+   "titulo_sugerido": "Copinha 2027: guia completo com datas, sedes, grupos, regulamento e onde assistir",
+   "foco": "Copinha 2027",
+   "intencao": "guia geral (quando começa, como funciona, quem joga)",
+   "ordem": 0,
+   "feito": ""
+  },
+  {
+   "id": "copinha-maiores-campeoes",
+   "titulo_sugerido": "Maiores campeões da Copinha: a lista completa de títulos por clube",
+   "foco": "maiores campeões da Copinha",
+   "intencao": "quem tem mais títulos",
+   "ordem": 1,
+   "feito": ""
+  },
+  {
+   "id": "copinha-campeoes-ano-a-ano",
+   "titulo_sugerido": "Campeões da Copinha ano a ano: todas as finais desde a primeira edição",
+   "foco": "campeões da Copinha",
+   "intencao": "lista de campeões e vices",
+   "ordem": 2,
+   "feito": ""
+  },
+  {
+   "id": "copinha-curiosidades",
+   "titulo_sugerido": "Curiosidades da Copinha: recordes, zebras e fatos que pouca gente conhece",
+   "foco": "curiosidades da Copinha",
+   "intencao": "curiosidades e recordes",
+   "ordem": 3,
+   "feito": ""
+  },
+  {
+   "id": "copinha-primeira-edicao",
+   "titulo_sugerido": "Como nasceu a Copinha: a história da primeira Copa São Paulo de Futebol Júnior",
+   "foco": "história da Copinha",
+   "intencao": "origem da competição",
+   "ordem": 4,
+   "feito": ""
+  },
+  {
+   "id": "copinha-final-25-de-janeiro",
+   "titulo_sugerido": "Por que a final da Copinha é no aniversário de São Paulo, em 25 de janeiro",
+   "foco": "final da Copinha 25 de janeiro",
+   "intencao": "data da final",
+   "ordem": 5,
+   "feito": ""
+  },
+  {
+   "id": "copinha-revelacoes",
+   "titulo_sugerido": "Craques revelados na Copinha: jogadores que brilharam na base e viraram estrelas",
+   "foco": "revelações da Copinha",
+   "intencao": "quem jogou a Copinha",
+   "ordem": 6,
+   "feito": ""
+  },
+  {
+   "id": "copinha-artilheiros-historicos",
+   "titulo_sugerido": "Artilheiros da Copinha: os maiores goleadores de cada edição e os recordistas",
+   "foco": "artilheiros da Copinha",
+   "intencao": "artilharia histórica",
+   "ordem": 7,
+   "feito": ""
+  },
+  {
+   "id": "copinha-maiores-goleadas",
+   "titulo_sugerido": "Maiores goleadas da história da Copinha",
+   "foco": "maiores goleadas da Copinha",
+   "intencao": "recordes de placar",
+   "ordem": 8,
+   "feito": ""
+  },
+  {
+   "id": "copinha-zebras-campeoes-do-interior",
+   "titulo_sugerido": "Clubes do interior campeões da Copinha: as zebras que levantaram a taça",
+   "foco": "campeões do interior na Copinha",
+   "intencao": "interior e times pequenos",
+   "ordem": 9,
+   "feito": ""
+  },
+  {
+   "id": "copinha-paulistas-2027",
+   "titulo_sugerido": "Todos os clubes paulistas na Copinha 2027: grupos, sedes e adversários",
+   "foco": "clubes paulistas na Copinha 2027",
+   "intencao": "quem joga e onde",
+   "ordem": 10,
+   "feito": ""
+  },
+  {
+   "id": "copinha-2027-sedes",
+   "titulo_sugerido": "Sedes da Copinha 2027: todas as cidades e estádios que recebem jogos",
+   "foco": "sedes da Copinha 2027",
+   "intencao": "onde serão os jogos",
+   "ordem": 11,
+   "feito": ""
+  },
+  {
+   "id": "copinha-2027-regulamento",
+   "titulo_sugerido": "Regulamento da Copinha 2027: idade, inscrições, mata-mata e critérios de desempate",
+   "foco": "regulamento da Copinha 2027",
+   "intencao": "como funciona",
+   "ordem": 12,
+   "feito": ""
+  },
+  {
+   "id": "copinha-2027-onde-assistir",
+   "titulo_sugerido": "Onde assistir à Copinha 2027: TV, streaming e transmissões",
+   "foco": "onde assistir Copinha 2027",
+   "intencao": "transmissão",
+   "ordem": 13,
+   "feito": ""
+  },
+  {
+   "id": "copinha-2027-ingressos",
+   "titulo_sugerido": "Ingressos da Copinha 2027: preços, gratuidade e como comprar",
+   "foco": "ingressos Copinha 2027",
+   "intencao": "ingressos",
+   "ordem": 14,
+   "feito": ""
+  },
+  {
+   "id": "copinha-2027-quando-comeca",
+   "titulo_sugerido": "Quando começa a Copinha 2027? Datas da primeira fase à final",
+   "foco": "quando começa a Copinha 2027",
+   "intencao": "data de início",
+   "ordem": 15,
+   "feito": ""
+  },
+  {
+   "id": "copinha-pacaembu-final",
+   "titulo_sugerido": "Finais da Copinha no Pacaembu: a casa da decisão e as finais em outros estádios",
+   "foco": "final da Copinha estádio",
+   "intencao": "local da final",
+   "ordem": 16,
+   "feito": ""
+  },
+  {
+   "id": "copinha-corinthians-historia",
+   "titulo_sugerido": "Corinthians na Copinha: títulos, finais e revelações do maior campeão",
+   "foco": "Corinthians Copinha",
+   "intencao": "clube grande na Copinha",
+   "ordem": 17,
+   "feito": ""
+  },
+  {
+   "id": "copinha-sao-paulo-historia",
+   "titulo_sugerido": "São Paulo na Copinha: títulos, finais e craques revelados",
+   "foco": "São Paulo Copinha",
+   "intencao": "clube grande na Copinha",
+   "ordem": 18,
+   "feito": ""
+  },
+  {
+   "id": "copinha-palmeiras-historia",
+   "titulo_sugerido": "Palmeiras na Copinha: títulos, finais e craques revelados",
+   "foco": "Palmeiras Copinha",
+   "intencao": "clube grande na Copinha",
+   "ordem": 19,
+   "feito": ""
+  },
+  {
+   "id": "copinha-santos-historia",
+   "titulo_sugerido": "Santos na Copinha: títulos, finais e Meninos da Vila revelados",
+   "foco": "Santos Copinha",
+   "intencao": "clube grande na Copinha",
+   "ordem": 20,
+   "feito": ""
+  },
+  {
+   "id": "copinha-clubes-de-fora-de-sp",
+   "titulo_sugerido": "Clubes de fora de São Paulo campeões da Copinha",
+   "foco": "campeões de fora de SP Copinha",
+   "intencao": "quem de fora ganhou",
+   "ordem": 21,
+   "feito": ""
+  },
+  {
+   "id": "copinha-2026-como-foi",
+   "titulo_sugerido": "Como foi a Copinha 2026: campeão, artilheiro, destaques e zebras",
+   "foco": "Copinha 2026",
+   "intencao": "edição anterior",
+   "ordem": 22,
+   "feito": ""
+  },
+  {
+   "id": "copinha-recordes-de-publico",
+   "titulo_sugerido": "Recordes de público da Copinha: os jogos que mais encheram estádios",
+   "foco": "público Copinha",
+   "intencao": "recordes de público",
+   "ordem": 23,
+   "feito": ""
+  },
+  {
+   "id": "copinha-numeros-2027",
+   "titulo_sugerido": "Copinha 2027 em números: clubes, jogos, grupos, cidades e estados",
+   "foco": "Copinha 2027 números",
+   "intencao": "números da edição",
+   "ordem": 24,
+   "feito": ""
+  }
+ ]
+}

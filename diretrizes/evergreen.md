@@ -25,3 +25,12 @@ A varredura das buscas foi feita UMA vez (Search Console, 16 meses, em 24/11/202
 4. JSON no formato de `diretrizes/maquina.md`, com `"tipo": "historia"` e `"pauta_evergreen": "<id>"`. Foto: estádio ou time com crédito (Commons CC BY/CC BY-SA, site oficial).
    Sem foto conferida, `foto_pendente`. Chefe de Redação antes do `adicionar` (diretrizes/chefe-de-redacao.md).
 5. `adicionar` marca a pauta como feita. Commit e push depois de cada matéria. No fim, `avisar-site`.
+
+## Guia da Copinha 2027 (25/11/2026, Thiago: "traga curiosidades da copinha como se fosse um guia da copinha 2027")
+- Pautas em `dados/pautas_copinha.json` (ordem = prioridade). 2 por dia até a final (25/01/2027), tarefa agendada "Guia da Copinha".
+- Cada matéria tem "Copinha" no título (assim entra na seção Copinha da home), `clube` = clube paulista mais ligado ao tema
+  (ex.: Corinthians na pauta do Corinthians; nas gerais, o maior campeão citado) e `clubes` = os outros paulistas citados.
+- Número, título, recorde e data: 2 fontes (ge, Lance!, UOL, Gazeta Esportiva, site da FPF, sites oficiais). Nunca oGol,
+  Sofascore, Transfermarkt. Sem fonte, fica de fora. Tabela sempre que houver lista (campeões, artilheiros, sedes).
+- Foto: só conferida e da Copinha (FPF/Ag. Paulistão, clube) com crédito; sem foto certa, não publica (fica rascunho).
+- Depois de publicar, marque `"feito": "AAAA-MM-DD HH:MM"` na pauta. Informação nova oficial da FPF sobre 2027: atualize a matéria.
