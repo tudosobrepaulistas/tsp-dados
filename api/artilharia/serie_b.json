@@ -30,6 +30,24 @@
   "gols": 5
  },
  {
+  "jogador": "Anselmo Ramon",
+  "time": "Goiás",
+  "time_id": 900030,
+  "gols": 4
+ },
+ {
+  "jogador": "Bruno Santos",
+  "time": "Londrina",
+  "time_id": 900038,
+  "gols": 4
+ },
+ {
+  "jogador": "Dudu",
+  "time": "Vila Nova",
+  "time_id": 900023,
+  "gols": 4
+ },
+ {
   "jogador": "Fellipe Mateus",
   "time": "Criciúma",
   "time_id": 900025,
@@ -48,12 +66,6 @@
   "gols": 4
  },
  {
-  "jogador": "Bruno Santos",
-  "time": "Londrina",
-  "time_id": 900038,
-  "gols": 3
- },
- {
   "jogador": "Chrystian Barletta",
   "time": "Sport",
   "time_id": 900027,
@@ -63,12 +75,6 @@
   "jogador": "Danielzinho",
   "time": "CRB",
   "time_id": 900026,
-  "gols": 3
- },
- {
-  "jogador": "Dudu",
-  "time": "Vila Nova",
-  "time_id": 900023,
   "gols": 3
  },
  {
@@ -96,6 +102,18 @@
   "gols": 3
  },
  {
+  "jogador": "Mikael",
+  "time": "CRB",
+  "time_id": 900026,
+  "gols": 3
+ },
+ {
+  "jogador": "Pablo",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 3
+ },
+ {
   "jogador": "Segovinha",
   "time": "América-MG",
   "time_id": 900039,
@@ -105,12 +123,6 @@
   "jogador": "Alan Kardec",
   "time": "Juventude",
   "time_id": 900022,
-  "gols": 2
- },
- {
-  "jogador": "Anselmo Ramon",
-  "time": "Goiás",
-  "time_id": 900030,
   "gols": 2
  },
  {
@@ -222,15 +234,9 @@
   "gols": 2
  },
  {
-  "jogador": "Mikael",
-  "time": "CRB",
-  "time_id": 900026,
-  "gols": 2
- },
- {
-  "jogador": "Pablo",
-  "time": "Operário-PR",
-  "time_id": 900029,
+  "jogador": "Pará",
+  "time": "São Bernardo",
+  "time_id": 900031,
   "gols": 2
  },
  {
@@ -273,6 +279,12 @@
   "jogador": "Vinícius",
   "time": "Náutico",
   "time_id": 900036,
+  "gols": 2
+ },
+ {
+  "jogador": "Waguininho",
+  "time": "Criciúma",
+  "time_id": 900025,
   "gols": 2
  },
  {
@@ -408,6 +420,12 @@
   "gols": 1
  },
  {
+  "jogador": "Dellatorre",
+  "time": "Vila Nova",
+  "time_id": 900023,
+  "gols": 1
+ },
+ {
   "jogador": "Djalma",
   "time": "Goiás",
   "time_id": 900030,
@@ -435,6 +453,12 @@
   "jogador": "Emiliano Rodríguez",
   "time": "Londrina",
   "time_id": 900038,
+  "gols": 1
+ },
+ {
+  "jogador": "Esli Garcia",
+  "time": "Goiás",
+  "time_id": 900030,
   "gols": 1
  },
  {
@@ -474,6 +498,12 @@
   "gols": 1
  },
  {
+  "jogador": "Gabriel Boschilia",
+  "time": "Operário-PR",
+  "time_id": 900029,
+  "gols": 1
+ },
+ {
   "jogador": "Gabriel Inocêncio",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -489,6 +519,12 @@
   "jogador": "Gaspar",
   "time": "Avaí",
   "time_id": 900037,
+  "gols": 1
+ },
+ {
+  "jogador": "Gegê",
+  "time": "Goiás",
+  "time_id": 900030,
   "gols": 1
  },
  {
@@ -529,6 +565,12 @@
  },
  {
   "jogador": "Herbert",
+  "time": "Londrina",
+  "time_id": 900038,
+  "gols": 1
+ },
+ {
+  "jogador": "Iago Teles",
   "time": "Londrina",
   "time_id": 900038,
   "gols": 1
@@ -597,6 +639,12 @@
   "jogador": "João Gabriel",
   "time": "Ceará",
   "time_id": 900035,
+  "gols": 1
+ },
+ {
+  "jogador": "João Neto",
+  "time": "CRB",
+  "time_id": 900026,
   "gols": 1
  },
  {
@@ -690,6 +738,12 @@
   "gols": 1
  },
  {
+  "jogador": "Mastriani",
+  "time": "América-MG",
+  "time_id": 900039,
+  "gols": 1
+ },
+ {
   "jogador": "Matheus Trindade",
   "time": "Operário-PR",
   "time_id": 900029,
@@ -756,12 +810,6 @@
   "gols": 1
  },
  {
-  "jogador": "Pará",
-  "time": "São Bernardo",
-  "time_id": 900031,
-  "gols": 1
- },
- {
   "jogador": "Patrick Brey",
   "time": "Botafogo-SP",
   "time_id": 900032,
@@ -804,6 +852,12 @@
   "gols": 1
  },
  {
+  "jogador": "Romisson",
+  "time": "São Bernardo",
+  "time_id": 900031,
+  "gols": 1
+ },
+ {
   "jogador": "Ronald",
   "time": "Fortaleza",
   "time_id": 900024,
@@ -840,6 +894,12 @@
   "gols": 1
  },
  {
+  "jogador": "Tadeu",
+  "time": "Goiás",
+  "time_id": 900030,
+  "gols": 1
+ },
+ {
   "jogador": "Terans",
   "time": "Atlético-GO",
   "time_id": 900028,
@@ -849,6 +909,12 @@
   "jogador": "Victor Andrade",
   "time": "Náutico",
   "time_id": 900036,
+  "gols": 1
+ },
+ {
+  "jogador": "Vinicius Zanocelo",
+  "time": "Ceará",
+  "time_id": 900035,
   "gols": 1
  },
  {
@@ -867,12 +933,6 @@
   "jogador": "Wadson",
   "time": "Juventude",
   "time_id": 900022,
-  "gols": 1
- },
- {
-  "jogador": "Waguininho",
-  "time": "Criciúma",
-  "time_id": 900025,
   "gols": 1
  },
  {

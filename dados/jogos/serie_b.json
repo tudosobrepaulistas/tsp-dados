@@ -1,6 +1,92 @@
 {
  "jogos": [
   {
+   "id": 91000549,
+   "data": "2026-03-21T12:00:00-03:00",
+   "casa": "vila-nova",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "OBA",
+   "cidade": "Goiânia",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Mikael",
+     "minuto": "18",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Dellatorre",
+     "minuto": "47",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Dudu",
+     "minuto": "61",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "João Neto",
+     "minuto": "90+8",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.oliberal.com/esportes/crb-empata-nos-acrescimos-e-frustra-vila-nova-na-estreia-da-serie-b-em-goiania-1.1100163"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000550,
+   "data": "2026-03-21T12:00:00-03:00",
+   "casa": "ceara",
+   "fora": "sao-bernardo",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Vinicius Zanocelo",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pará",
+     "minuto": "54",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.dgabc.com.br/Noticia/4291222/sao-bernardo-estreia-na-serie-b-com-empate-em-fortaleza"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
    "id": 91000436,
    "data": "2026-03-21T18:15:00-03:00",
    "casa": "operario-pr",
@@ -379,6 +465,110 @@
    }
   },
   {
+   "id": 91000551,
+   "data": "2026-03-22T12:00:00-03:00",
+   "casa": "nautico",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Aflitos",
+   "cidade": "Recife",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Waguininho",
+     "minuto": "5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/03/11710508-nautico-joga-mal-e-e-derrotado-pelo-criciuma-na-estreia-da-serie-b-nos-aflitos.html"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000552,
+   "data": "2026-03-22T12:00:00-03:00",
+   "casa": "goias",
+   "fora": "america-mg",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Serrinha",
+   "cidade": "Goiânia",
+   "gols_casa": 3,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Anselmo Ramon",
+     "minuto": "8",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Tadeu",
+     "minuto": "29",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gegê",
+     "minuto": "85",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Mastriani",
+     "minuto": "90",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.oliberal.com/esportes/com-dois-gols-de-penalti-goias-vence-america-mg-por-2-a-1-e-larga-bem-na-serie-b-1.1100482"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000553,
+   "data": "2026-03-22T12:00:00-03:00",
+   "casa": "novorizontino",
+   "fora": "londrina",
+   "status": "encerrado",
+   "rodada": "1",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Jorge Ismael de Biasi",
+   "cidade": "Novo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.oliberal.com/esportes/londrina-surpreende-novorizontino-no-interior-paulista-e-vence-por-3-a-1-na-estreia-da-serie-b-1.1100483"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
    "id": 91000453,
    "data": "2026-03-22T16:00:00-03:00",
    "casa": "avai",
@@ -667,6 +857,29 @@
    "atualizado": "2026-11-22T03:44:00-03:00"
   },
   {
+   "id": 91000554,
+   "data": "2026-03-31T19:00:00-03:00",
+   "casa": "fortaleza",
+   "fora": "cuiaba",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Castelão",
+   "cidade": "Fortaleza",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://www.oliberal.com/esportes/fortaleza-esbarra-na-marcacao-do-cuiaba-e-continua-sem-vencer-na-serie-b-do-brasileiro-1.1104433"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00"
+  },
+  {
    "id": 91000326,
    "data": "2026-04-01T19:00:00-03:00",
    "casa": "sport",
@@ -941,6 +1154,54 @@
    }
   },
   {
+   "id": 91000555,
+   "data": "2026-04-01T19:00:00-03:00",
+   "casa": "londrina",
+   "fora": "goias",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Estádio do Café",
+   "cidade": "Londrina",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Bruno Santos",
+     "minuto": "32",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Anselmo Ramon",
+     "minuto": "37",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Iago Teles",
+     "minuto": "58",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Esli Garcia",
+     "minuto": "90+5",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://ohoje.com/2026/04/02/goias-busca-empate-no-fim-contra-o-londrina-e-mantem-invencibilidade/"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00"
+  },
+  {
    "id": 91000391,
    "data": "2026-04-01T21:00:00-03:00",
    "casa": "ponte-preta",
@@ -1110,6 +1371,49 @@
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/com-um-a-menos-athletic-segura-empate-com-criciuma-fora-de-casa-pela-serie-b/"
    ],
    "atualizado": "2026-11-11T18:43:00-03:00"
+  },
+  {
+   "id": 91000556,
+   "data": "2026-04-02T12:00:00-03:00",
+   "casa": "sao-bernardo",
+   "fora": "operario-pr",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Primeiro de Maio",
+   "cidade": "São Bernardo do Campo",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Romisson",
+     "minuto": "2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Pablo",
+     "minuto": "41",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gabriel Boschilia",
+     "minuto": "84",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://www.gazetaesportiva.com/times/sao-bernardo-fc/operario-pr-vira-sobre-o-sao-bernardo-e-entra-no-g4-da-serie-b/"
+   ],
+   "atualizado": "2026-11-25T03:34:00-03:00",
+   "sem_hora": true
   },
   {
    "id": 91000455,

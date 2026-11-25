@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T03:14:00-03:00",
+ "gerado": "2026-11-25T03:35:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -23184,8 +23184,8 @@
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.96,
-     0.9
+     1.95,
+     0.91
     ],
     "base": [
      28,
@@ -23265,7 +23265,7 @@
     "fora": 21,
     "placar": "1x0",
     "gols_esperados": [
-     1.6,
+     1.59,
      0.88
     ],
     "base": [
@@ -23329,11 +23329,11 @@
    "escalacoes": {},
    "previsao": {
     "casa": 51,
-    "empate": 24,
+    "empate": 25,
     "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.66,
+     1.65,
      1.08
     ],
     "base": [
@@ -23385,12 +23385,12 @@
    "escalacoes": {},
    "previsao": {
     "casa": 51,
-    "empate": 23,
+    "empate": 24,
     "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
-     1.76,
-     1.18
+     1.75,
+     1.19
     ],
     "base": [
      36,
@@ -23481,7 +23481,7 @@
     "placar": "0x1",
     "gols_esperados": [
      0.91,
-     1.71
+     1.72
     ],
     "base": [
      33,
@@ -23531,12 +23531,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 41,
+    "casa": 40,
     "empate": 24,
-    "fora": 35,
+    "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
-     1.57,
+     1.56,
      1.45
     ],
     "base": [
@@ -23592,7 +23592,7 @@
     "fora": 38,
     "placar": "1x1",
     "gols_esperados": [
-     1.2,
+     1.19,
      1.25
     ],
     "base": [
@@ -23648,8 +23648,8 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.55,
-     1.22
+     1.54,
+     1.23
     ],
     "base": [
      33,
@@ -23701,11 +23701,11 @@
    "previsao": {
     "casa": 46,
     "empate": 24,
-    "fora": 30,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.7,
-     1.33
+     1.69,
+     1.34
     ],
     "base": [
      36,
@@ -23760,8 +23760,8 @@
     "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.78,
-     1.09
+     1.77,
+     1.1
     ],
     "base": [
      28,
@@ -23769,6 +23769,192 @@
     ]
    },
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.oliberal.com/esportes/crb-empata-nos-acrescimos-e-frustra-vila-nova-na-estreia-da-serie-b-em-goiania-1.1100163"
+   ],
+   "fixture": {
+    "id": 91000549,
+    "timestamp": 1774105200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "OBA",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900023,
+     "name": "Vila Nova"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 18,
+      "extra": null,
+      "texto": "18"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Mikael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 47,
+      "extra": null,
+      "texto": "47"
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Dellatorre"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 61,
+      "extra": null,
+      "texto": "61"
+     },
+     "team": {
+      "id": 900023,
+      "name": "Vila Nova"
+     },
+     "player": {
+      "name": "Dudu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+8"
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "João Neto"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.dgabc.com.br/Noticia/4291222/sao-bernardo-estreia-na-serie-b-com-empate-em-fortaleza"
+   ],
+   "fixture": {
+    "id": 91000550,
+    "timestamp": 1774105200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900035,
+     "name": "Ceará"
+    },
+    "away": {
+     "id": 900031,
+     "name": "São Bernardo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900035,
+      "name": "Ceará"
+     },
+     "player": {
+      "name": "Vinicius Zanocelo"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 54,
+      "extra": null,
+      "texto": "54"
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Pará"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -23977,6 +24163,220 @@
    "goals": {
     "home": 0,
     "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.diariodepernambuco.com.br/esportes-dp/nautico/2026/03/11710508-nautico-joga-mal-e-e-derrotado-pelo-criciuma-na-estreia-da-serie-b-nos-aflitos.html"
+   ],
+   "fixture": {
+    "id": 91000551,
+    "timestamp": 1774191600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Aflitos",
+     "city": "Recife"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900036,
+     "name": "Náutico"
+    },
+    "away": {
+     "id": 900025,
+     "name": "Criciúma"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 5,
+      "extra": null,
+      "texto": "5"
+     },
+     "team": {
+      "id": 900025,
+      "name": "Criciúma"
+     },
+     "player": {
+      "name": "Waguininho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.oliberal.com/esportes/com-dois-gols-de-penalti-goias-vence-america-mg-por-2-a-1-e-larga-bem-na-serie-b-1.1100482"
+   ],
+   "fixture": {
+    "id": 91000552,
+    "timestamp": 1774191600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Serrinha",
+     "city": "Goiânia"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900030,
+     "name": "Goiás"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 8,
+      "extra": null,
+      "texto": "8"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Anselmo Ramon"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 29,
+      "extra": null,
+      "texto": "29"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Tadeu"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    },
+    {
+     "time": {
+      "elapsed": 85,
+      "extra": null,
+      "texto": "85"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Gegê"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Mastriani"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/classificacao-da-serie-b-apos-a-1-rodada-tem-fortaleza-na-lanterna-veja-tabela-1.3752007",
+    "https://www.oliberal.com/esportes/londrina-surpreende-novorizontino-no-interior-paulista-e-vence-por-3-a-1-na-estreia-da-serie-b-1.1100483"
+   ],
+   "fixture": {
+    "id": 91000553,
+    "timestamp": 1774191600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Jorge Ismael de Biasi",
+     "city": "Novo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 1"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900038,
+     "name": "Londrina"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
    },
    "penaltis": "",
    "prejogo": {},
@@ -24203,6 +24603,50 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://www.oliberal.com/esportes/fortaleza-esbarra-na-marcacao-do-cuiaba-e-continua-sem-vencer-na-serie-b-do-brasileiro-1.1104433"
+   ],
+   "fixture": {
+    "id": 91000554,
+    "timestamp": 1774994400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Castelão",
+     "city": "Fortaleza"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900024,
+     "name": "Fortaleza"
+    },
+    "away": {
+     "id": 900033,
+     "name": "Cuiabá"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.diariodepernambuco.com.br/esportes-dp/sport/2026/04/11711309-sem-vencer-na-serie-b-sport-empata-com-o-vila-nova-na-ilha-do-retiro.html",
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/sport-e-vila-nova-empatam-e-seguem-sem-vencer-pela-serie-b/"
    ],
@@ -24373,6 +24817,115 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://ohoje.com/2026/04/02/goias-busca-empate-no-fim-contra-o-londrina-e-mantem-invencibilidade/"
+   ],
+   "fixture": {
+    "id": 91000555,
+    "timestamp": 1775080800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Estádio do Café",
+     "city": "Londrina"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900038,
+     "name": "Londrina"
+    },
+    "away": {
+     "id": 900030,
+     "name": "Goiás"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 32,
+      "extra": null,
+      "texto": "32"
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Bruno Santos"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 37,
+      "extra": null,
+      "texto": "37"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Anselmo Ramon"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900038,
+      "name": "Londrina"
+     },
+     "player": {
+      "name": "Iago Teles"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+5"
+     },
+     "team": {
+      "id": 900030,
+      "name": "Goiás"
+     },
+     "player": {
+      "name": "Esli Garcia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://mais.opovo.com.br/jornal/esportes/2026/04/02/com-um-a-menos-ceara-arranca-empate-com-ponte-preta-na-serie-b.html",
     "https://diariodonordeste.verdesmares.com.br/jogada/ponte-preta-x-ceara-na-serie-b-do-brasileirao-veja-onde-assistir-horario-e-escalacoes-1.3754042"
    ],
@@ -24519,6 +25072,99 @@
      },
      "type": "Goal",
      "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://www.gazetaesportiva.com/times/sao-bernardo-fc/operario-pr-vira-sobre-o-sao-bernardo-e-entra-no-g4-da-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000556,
+    "timestamp": 1775142000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Primeiro de Maio",
+     "city": "São Bernardo do Campo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900031,
+     "name": "São Bernardo"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 2,
+      "extra": null,
+      "texto": "2"
+     },
+     "team": {
+      "id": 900031,
+      "name": "São Bernardo"
+     },
+     "player": {
+      "name": "Romisson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 41,
+      "extra": null,
+      "texto": "41"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Pablo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 84,
+      "extra": null,
+      "texto": "84"
+     },
+     "team": {
+      "id": 900029,
+      "name": "Operário-PR"
+     },
+     "player": {
+      "name": "Gabriel Boschilia"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
     }
    ]
   },
@@ -52106,6 +52752,24 @@
     "gols": 5
    },
    {
+    "jogador": "Anselmo Ramon",
+    "time": "Goiás",
+    "time_id": 900030,
+    "gols": 4
+   },
+   {
+    "jogador": "Bruno Santos",
+    "time": "Londrina",
+    "time_id": 900038,
+    "gols": 4
+   },
+   {
+    "jogador": "Dudu",
+    "time": "Vila Nova",
+    "time_id": 900023,
+    "gols": 4
+   },
+   {
     "jogador": "Fellipe Mateus",
     "time": "Criciúma",
     "time_id": 900025,
@@ -52124,12 +52788,6 @@
     "gols": 4
    },
    {
-    "jogador": "Bruno Santos",
-    "time": "Londrina",
-    "time_id": 900038,
-    "gols": 3
-   },
-   {
     "jogador": "Chrystian Barletta",
     "time": "Sport",
     "time_id": 900027,
@@ -52139,12 +52797,6 @@
     "jogador": "Danielzinho",
     "time": "CRB",
     "time_id": 900026,
-    "gols": 3
-   },
-   {
-    "jogador": "Dudu",
-    "time": "Vila Nova",
-    "time_id": 900023,
     "gols": 3
    },
    {
@@ -52172,6 +52824,18 @@
     "gols": 3
    },
    {
+    "jogador": "Mikael",
+    "time": "CRB",
+    "time_id": 900026,
+    "gols": 3
+   },
+   {
+    "jogador": "Pablo",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 3
+   },
+   {
     "jogador": "Segovinha",
     "time": "América-MG",
     "time_id": 900039,
@@ -52181,12 +52845,6 @@
     "jogador": "Alan Kardec",
     "time": "Juventude",
     "time_id": 900022,
-    "gols": 2
-   },
-   {
-    "jogador": "Anselmo Ramon",
-    "time": "Goiás",
-    "time_id": 900030,
     "gols": 2
    },
    {
@@ -52298,15 +52956,9 @@
     "gols": 2
    },
    {
-    "jogador": "Mikael",
-    "time": "CRB",
-    "time_id": 900026,
-    "gols": 2
-   },
-   {
-    "jogador": "Pablo",
-    "time": "Operário-PR",
-    "time_id": 900029,
+    "jogador": "Pará",
+    "time": "São Bernardo",
+    "time_id": 900031,
     "gols": 2
    },
    {
@@ -52349,6 +53001,12 @@
     "jogador": "Vinícius",
     "time": "Náutico",
     "time_id": 900036,
+    "gols": 2
+   },
+   {
+    "jogador": "Waguininho",
+    "time": "Criciúma",
+    "time_id": 900025,
     "gols": 2
    },
    {
@@ -52484,6 +53142,12 @@
     "gols": 1
    },
    {
+    "jogador": "Dellatorre",
+    "time": "Vila Nova",
+    "time_id": 900023,
+    "gols": 1
+   },
+   {
     "jogador": "Djalma",
     "time": "Goiás",
     "time_id": 900030,
@@ -52511,6 +53175,12 @@
     "jogador": "Emiliano Rodríguez",
     "time": "Londrina",
     "time_id": 900038,
+    "gols": 1
+   },
+   {
+    "jogador": "Esli Garcia",
+    "time": "Goiás",
+    "time_id": 900030,
     "gols": 1
    },
    {
@@ -52550,6 +53220,12 @@
     "gols": 1
    },
    {
+    "jogador": "Gabriel Boschilia",
+    "time": "Operário-PR",
+    "time_id": 900029,
+    "gols": 1
+   },
+   {
     "jogador": "Gabriel Inocêncio",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -52565,6 +53241,12 @@
     "jogador": "Gaspar",
     "time": "Avaí",
     "time_id": 900037,
+    "gols": 1
+   },
+   {
+    "jogador": "Gegê",
+    "time": "Goiás",
+    "time_id": 900030,
     "gols": 1
    },
    {
@@ -52605,6 +53287,12 @@
    },
    {
     "jogador": "Herbert",
+    "time": "Londrina",
+    "time_id": 900038,
+    "gols": 1
+   },
+   {
+    "jogador": "Iago Teles",
     "time": "Londrina",
     "time_id": 900038,
     "gols": 1
@@ -52673,6 +53361,12 @@
     "jogador": "João Gabriel",
     "time": "Ceará",
     "time_id": 900035,
+    "gols": 1
+   },
+   {
+    "jogador": "João Neto",
+    "time": "CRB",
+    "time_id": 900026,
     "gols": 1
    },
    {
@@ -52766,6 +53460,12 @@
     "gols": 1
    },
    {
+    "jogador": "Mastriani",
+    "time": "América-MG",
+    "time_id": 900039,
+    "gols": 1
+   },
+   {
     "jogador": "Matheus Trindade",
     "time": "Operário-PR",
     "time_id": 900029,
@@ -52832,12 +53532,6 @@
     "gols": 1
    },
    {
-    "jogador": "Pará",
-    "time": "São Bernardo",
-    "time_id": 900031,
-    "gols": 1
-   },
-   {
     "jogador": "Patrick Brey",
     "time": "Botafogo-SP",
     "time_id": 900032,
@@ -52880,6 +53574,12 @@
     "gols": 1
    },
    {
+    "jogador": "Romisson",
+    "time": "São Bernardo",
+    "time_id": 900031,
+    "gols": 1
+   },
+   {
     "jogador": "Ronald",
     "time": "Fortaleza",
     "time_id": 900024,
@@ -52916,6 +53616,12 @@
     "gols": 1
    },
    {
+    "jogador": "Tadeu",
+    "time": "Goiás",
+    "time_id": 900030,
+    "gols": 1
+   },
+   {
     "jogador": "Terans",
     "time": "Atlético-GO",
     "time_id": 900028,
@@ -52925,6 +53631,12 @@
     "jogador": "Victor Andrade",
     "time": "Náutico",
     "time_id": 900036,
+    "gols": 1
+   },
+   {
+    "jogador": "Vinicius Zanocelo",
+    "time": "Ceará",
+    "time_id": 900035,
     "gols": 1
    },
    {
@@ -52943,12 +53655,6 @@
     "jogador": "Wadson",
     "time": "Juventude",
     "time_id": 900022,
-    "gols": 1
-   },
-   {
-    "jogador": "Waguininho",
-    "time": "Criciúma",
-    "time_id": 900025,
     "gols": 1
    },
    {
