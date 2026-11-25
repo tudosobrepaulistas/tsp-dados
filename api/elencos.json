@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24T06:59:00-03:00",
+ "gerado": "2026-11-25T03:35:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -7460,6 +7460,1050 @@
    ],
    "sairam": []
   },
+  "xv-de-jau": {
+   "atualizado": "2026-11-18",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Vaguinho Santos",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "redes": {
+       "instagram": "vagui10"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": true
+    },
+    {
+     "nome": "Lucas Evangelista",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-evangelista/557276",
+      "clubes": [
+       "Democrata-GV",
+       "Francana",
+       "Barreiras",
+       "Santa Cruz-RS"
+      ],
+      "jogos": 26,
+      "minutos": 1981,
+      "gols": 1,
+      "assistencias": 0,
+      "por_clube": [
+       {
+        "clube": "Democrata-GV",
+        "jogos": 6,
+        "minutos": 462,
+        "gols": 0,
+        "competicoes": [
+         {
+          "nome": "Campeonato Mineiro",
+          "jogos": 6,
+          "minutos": 462,
+          "gols": 0
+         }
+        ]
+       },
+       {
+        "clube": "Francana",
+        "jogos": 6,
+        "minutos": 528,
+        "gols": 0,
+        "competicoes": [
+         {
+          "nome": "Paulistão A3",
+          "jogos": 6,
+          "minutos": 528,
+          "gols": 0
+         }
+        ]
+       },
+       {
+        "clube": "Barreiras",
+        "jogos": 8,
+        "minutos": 651,
+        "gols": 1,
+        "competicoes": [
+         {
+          "nome": "Baiano 2ª Divisão",
+          "jogos": 8,
+          "minutos": 651,
+          "gols": 1
+         }
+        ]
+       },
+       {
+        "clube": "Santa Cruz-RS",
+        "jogos": 6,
+        "minutos": 340,
+        "gols": 0,
+        "competicoes": [
+         {
+          "nome": "Gaúcho Acesso",
+          "jogos": 6,
+          "minutos": 340,
+          "gols": 0
+         }
+        ]
+       }
+      ],
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Francana",
+     "ficha": {
+      "idade": 32,
+      "idade_em": "2026-11-05",
+      "natural": "Belo Horizonte/MG",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "Araxá",
+       "Democrata-SL",
+       "VOCEM",
+       "CAP de Uberlândia",
+       "Coimbra",
+       "Nova Mutum",
+       "CEOV Operário",
+       "Inter de Santa Maria",
+       "São Luiz-RS",
+       "Iporá",
+       "Gaúcho",
+       "Democrata-GV",
+       "Francana",
+       "Barreiras",
+       "Santa Cruz-RS"
+      ],
+      "titulos": [
+       "Campeão Mato-Grossense 2020 (Nova Mutum)"
+      ],
+      "redes": {
+       "instagram": "lucasevangelista26"
+      },
+      "fontes": [
+       "https://www.ogol.com.br/jogador/lucas-evangelista/557276",
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Kelvin Moreira",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/kelvin/714805",
+      "clubes": [
+       "Jataiense",
+       "Fluminense-PI"
+      ],
+      "jogos": 18,
+      "minutos": 1183,
+      "gols": 0,
+      "assistencias": 0,
+      "por_clube": [
+       {
+        "clube": "Jataiense",
+        "jogos": 9,
+        "minutos": 519,
+        "gols": 0,
+        "competicoes": [
+         {
+          "nome": "Goiano",
+          "jogos": 9,
+          "minutos": 519
+         }
+        ]
+       },
+       {
+        "clube": "Fluminense-PI",
+        "jogos": 9,
+        "minutos": 664,
+        "gols": 0,
+        "competicoes": [
+         {
+          "nome": "Série D",
+          "jogos": 8,
+          "minutos": 574
+         },
+         {
+          "nome": "Copa do Nordeste",
+          "jogos": 1,
+          "minutos": 90
+         }
+        ]
+       }
+      ],
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2000-03-07",
+     "de": "Fluminense-PI",
+     "ficha": {
+      "nome_completo": "Kelvin Moreira Sandim",
+      "natural": "Farroupilha/RS",
+      "pe": "Canhoto",
+      "altura": "1,86 m",
+      "clubes_anteriores": [
+       "Corinthians",
+       "Juventude",
+       "Figueirense",
+       "Gama",
+       "Glória",
+       "Inter de Lages",
+       "Serra Branca",
+       "APAFUT",
+       "Esportivo",
+       "CSE",
+       "Brasília",
+       "Jataiense",
+       "Fluminense-PI"
+      ],
+      "titulos": [
+       "Acesso à Série A com o Juventude (2020)",
+       "Acesso à elite catarinense com o Inter de Lages (2023)",
+       "Acesso à 1ª divisão do DF com o Brasília (2025)"
+      ],
+      "redes": {
+       "instagram": "kelvinnmoreira"
+      },
+      "fontes": [
+       "https://www.ogol.com.br/jogador/kelvin/714805",
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Henrique Lima",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/henrique-lima/779451",
+      "clubes": [
+       "Noroeste"
+      ],
+      "jogos": 1,
+      "minutos": 74,
+      "gols": 0,
+      "assistencias": 0,
+      "por_clube": [
+       {
+        "clube": "Noroeste",
+        "jogos": 1,
+        "minutos": 74,
+        "competicoes": [
+         {
+          "nome": "Série D",
+          "jogos": 1,
+          "minutos": 74
+         }
+        ]
+       }
+      ],
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1999-05-25",
+     "de": "Noroeste",
+     "ficha": {
+      "nome_completo": "Henrique Fernandes de Lima",
+      "natural": "Santos/SP",
+      "pe": "Destro",
+      "altura": "2,01 m",
+      "clubes_anteriores": [
+       "Inter de Limeira (base)",
+       "Ponte Preta (base)",
+       "Operário Ferroviário",
+       "Chapecoense",
+       "Atlético Itajaí",
+       "Metropolitano",
+       "Rio Claro",
+       "EC São Bernardo",
+       "Betim",
+       "Noroeste"
+      ],
+      "destaques": [
+       "Destaque do EC São Bernardo na Série A3 e do Rio Claro na Série A2",
+       "Acesso à elite do Campeonato Mineiro com o Betim"
+      ],
+      "redes": {
+       "instagram": "henriquefernandes_99"
+      },
+      "fontes": [
+       "https://www.ogol.com.br/jogador/henrique-lima/779451",
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gustavo Brandão",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-brandao/699021",
+      "clubes": [
+       "Oeste Brasil",
+       "Blumenau",
+       "Piauí"
+      ],
+      "jogos": 19,
+      "minutos": 1000,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2001-04-18",
+     "de": "",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-06",
+      "natural": "Itajaí/SC",
+      "pe": "Ambidestro",
+      "clubes_anteriores": [
+       "Marcílio Dias",
+       "Rio Branco",
+       "Sertãozinho",
+       "Monte Azul",
+       "Piauí"
+      ],
+      "titulos": [
+       "Campeão da Copa Santa Catarina 2023",
+       "Campeão da Copa Paulista 2024",
+       "Campeão da Série A3 2025",
+       "Campeão Piauiense 2026",
+       "Campeão da Série A4 pelo Rio Branco, como artilheiro"
+      ],
+      "redes": {
+       "instagram": "gustavobrandao_01"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Paulo Galvão",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [
+      {
+       "texto": "Artilheiro do Amazonense Série B 2026",
+       "tipo": "premio",
+       "fonte": "https://www.instagram.com/xvdejauoficial/"
+      }
+     ],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 21,
+      "idade_em": "2026-11-07",
+      "natural": "Vitória/ES",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "Porto Vitória",
+       "Manauara",
+       "Sport",
+       "Pérolas Negras",
+       "Canaã",
+       "RB do Norte"
+      ],
+      "titulos": [
+       "Campeão da Copa Espírito Santo com o Porto Vitória",
+       "Artilheiro do Amazonense Série B 2026"
+      ],
+      "redes": {
+       "instagram": "paulogalvao_9"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Dudu Pedrotti",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 29,
+      "idade_em": "2026-11-07",
+      "natural": "Santa Helena/PR",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "Corinthians",
+       "Figueirense",
+       "Volta Redonda",
+       "Francana",
+       "Democrata-GV",
+       "Estudiantes de Mérida (Venezuela)",
+       "Real Noroeste"
+      ],
+      "titulos": [
+       "Campeão Capixaba 2023 com o Real Noroeste"
+      ],
+      "redes": {
+       "instagram": "dudupedrotti"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Willian Daltro",
+     "posicao": "Volante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-willian-daltro-xv-de-jau.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://images.futebolinterior.com.br/2026/11/Captura-de-tela-2026-11-09-164952.webp",
+      "ia": true,
+      "em": "2026-11-15T04:40:32-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "jogos": 30,
+      "clubes": [
+       "Águia de Marabá"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/",
+      "escudos": {
+       "Águia de Marabá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/aguia-de-maraba.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Águia de Marabá",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Lucas Nathan",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-nathan/549318",
+      "clubes": [
+       "Caldense",
+       "São Bento"
+      ],
+      "jogos": 9,
+      "minutos": 457,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1998-11-17",
+     "de": "",
+     "ficha": {
+      "idade": 28,
+      "idade_em": "2026-11-07",
+      "natural": "Jundiaí/SP",
+      "pe": "Canhoto",
+      "clubes_anteriores": [
+       "Red Bull Bragantino",
+       "Coritiba",
+       "Ponte Preta",
+       "Portuguesa",
+       "Ituano",
+       "São Caetano",
+       "São Bento"
+      ],
+      "titulos": [
+       "Campeão da Série C 2021 com o Ituano"
+      ],
+      "redes": {
+       "instagram": "lucasnathan98"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "João Braga",
+     "posicao": "Meia",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/joao-braga/885217",
+      "clubes": [
+       "Atlético-PB",
+       "Altos",
+       "Osasco Sporting"
+      ],
+      "jogos": 14,
+      "minutos": 726,
+      "gols": 0,
+      "assistencias": 1,
+      "por_clube": [
+       {
+        "clube": "Atlético-PB",
+        "jogos": 5,
+        "minutos": 203,
+        "gols": 0,
+        "assistencias": 1,
+        "competicoes": [
+         {
+          "nome": "Paraibano",
+          "jogos": 5,
+          "minutos": 203,
+          "assistencias": 1
+         }
+        ]
+       },
+       {
+        "clube": "Altos",
+        "jogos": 4,
+        "minutos": 95,
+        "competicoes": [
+         {
+          "nome": "Série D",
+          "jogos": 4,
+          "minutos": 95
+         }
+        ]
+       },
+       {
+        "clube": "Osasco Sporting",
+        "jogos": 5,
+        "minutos": 428,
+        "competicoes": [
+         {
+          "nome": "Copa Paulista",
+          "jogos": 5,
+          "minutos": 428
+         }
+        ]
+       }
+      ],
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Osasco Sporting",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-09",
+      "natural": "São Paulo/SP",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "Mirassol (base)",
+       "Grêmio Osasco (base)",
+       "São Carlos",
+       "Nacional",
+       "Oeste",
+       "Atlético Cajazeiras",
+       "Altos",
+       "Osasco Sporting"
+      ],
+      "redes": {
+       "instagram": "joaobraga01_"
+      },
+      "fontes": [
+       "https://www.ogol.com.br/jogador/joao-braga/885217",
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Denilson Guerra",
+     "posicao": "Zagueiro",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-10",
+      "pe": "Canhoto",
+      "clubes_anteriores": [
+       "Guarani-MG",
+       "Flamengo de Guarulhos",
+       "Bataguassu",
+       "Valledupar (Colômbia)",
+       "XV de Jaú"
+      ],
+      "titulos": [
+       "Acesso da Série A4 para a A3 com o XV de Jaú",
+       "Acesso à elite sul-mato-grossense com o Bataguassu"
+      ],
+      "destaques": [
+       "Jogador com mais minutos em campo pelo XV de Jaú em 2026"
+      ],
+      "redes": {
+       "instagram": "dguerra__23"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Humberto",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": null,
+     "selos": [],
+     "ficha": {
+      "idade": 26,
+      "idade_em": "2026-11-11",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "Ceará",
+       "Água Santa",
+       "Santa Cruz",
+       "Luverdense",
+       "Veranópolis",
+       "Flamengo de Guarulhos",
+       "Foz do Iguaçu",
+       "Vila Rica",
+       "XV de Jaú"
+      ],
+      "titulos": [
+       "Acesso da Série A4 para a A3 com o XV de Jaú"
+      ],
+      "destaques": [
+       "Capitão do XV de Jaú na campanha de 2026"
+      ],
+      "redes": {
+       "instagram": "humberto00__"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Diego Lopes",
+     "posicao": "Volante",
+     "renovou": true,
+     "foto": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/diego-lopes/675344",
+      "clubes": [
+       "XV de Jaú"
+      ],
+      "jogos": 16,
+      "minutos": 1296,
+      "gols": 0,
+      "assistencias": 0,
+      "por_clube": [
+       {
+        "clube": "XV de Jaú",
+        "jogos": 16,
+        "minutos": 1296,
+        "gols": 0,
+        "competicoes": [
+         {
+          "nome": "Paulistão A3",
+          "jogos": 16,
+          "minutos": 1296,
+          "gols": 0
+         }
+        ]
+       }
+      ],
+      "escudos": {}
+     },
+     "selos": [],
+     "ficha": {
+      "nome_completo": "Victor Diego Lopes Bezerra",
+      "natural": "Montes Claros/MG",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "São Bernardo FC",
+       "Itapirense",
+       "North-MG",
+       "Cascavel",
+       "Iguaçu",
+       "Batel",
+       "Oeste Brasil-PR",
+       "XV de Jaú"
+      ],
+      "titulos": [
+       "Acesso à Série A do Paranaense com o Cascavel"
+      ],
+      "destaques": [
+       "Volante polivalente, também joga de lateral-direito"
+      ],
+      "redes": {
+       "instagram": "diegolopes_98"
+      },
+      "fontes": [
+       "https://www.ogol.com.br/jogador/diego-lopes/675344",
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Daniel Gaúcho",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "UCSA (Ucrânia)",
+     "ficha": {
+      "idade": 21,
+      "idade_em": "2026-11-11",
+      "pe": "Canhoto",
+      "clubes_anteriores": [
+       "Passo Fundo",
+       "XV de Jaú",
+       "UCSA (Ucrânia)"
+      ],
+      "titulos": [
+       "Acesso da Série A4 para a A3 com o XV de Jaú"
+      ],
+      "destaques": [
+       "Capitão do XV de Jaú na melhor campanha do clube na Copinha"
+      ],
+      "redes": {
+       "instagram": "daniel_espindolaa05"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Luiz Henrique",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Penapolense",
+     "ficha": {
+      "idade": 23,
+      "idade_em": "2026-11-12",
+      "natural": "Araçatuba/SP",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "Bandeirante",
+       "Araçatuba",
+       "Tuntum",
+       "Tupi",
+       "Penapolense"
+      ],
+      "titulos": [
+       "Campeão da Série A4 2026 com o Penapolense"
+      ],
+      "redes": {
+       "instagram": "henriqu____003"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Ardley Santos",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 28,
+      "idade_em": "2026-11-13",
+      "pe": "Destro",
+      "no_clube": "Volta ao clube",
+      "clubes_anteriores": [
+       "Araucária",
+       "Nação",
+       "XV de Jaú"
+      ],
+      "titulos": [
+       "Dois acessos com o Araucária",
+       "Campeão catarinense da Série C com o Nação"
+      ],
+      "redes": {
+       "instagram": "ardley98"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Vitinho",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 24,
+      "idade_em": "2026-11-18",
+      "pe": "Destro",
+      "clubes_anteriores": [
+       "Paulista",
+       "Inter de Limeira",
+       "Rio Branco",
+       "Athletic",
+       "Camboriú"
+      ],
+      "titulos": [
+       "Campeão da Série A4 2024 com o Rio Branco",
+       "Acesso à elite catarinense com o Camboriú (2025)"
+      ],
+      "redes": {
+       "instagram": "vitordossantos220"
+      },
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Giba",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 33,
+      "idade_em": "2026-11-18",
+      "pe": "Canhoto",
+      "clubes_anteriores": [
+       "Ituano",
+       "Portuguesa Santista",
+       "Marília",
+       "AC Oulu (Finlândia)",
+       "Caravaggio"
+      ],
+      "titulos": [
+       "Acesso à Série A1 com o Marília (2014)",
+       "Acesso à Série B catarinense com o Caravaggio (2021)"
+      ],
+      "fontes": [
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Alexandre Joabe",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/alexandre-joabe/693688",
+      "clubes": [
+       "Portuguesa Santista",
+       "Democrata-SL"
+      ],
+      "jogos": 6,
+      "minutos": 540,
+      "gols": 0,
+      "assistencias": 0,
+      "por_clube": [
+       {
+        "clube": "Portuguesa Santista",
+        "jogos": 1,
+        "minutos": 90,
+        "competicoes": [
+         {
+          "nome": "Paulistão A3",
+          "jogos": 1,
+          "minutos": 90
+         }
+        ]
+       },
+       {
+        "clube": "Democrata-SL",
+        "jogos": 5,
+        "minutos": 450,
+        "competicoes": [
+         {
+          "nome": "Mineiro Módulo II",
+          "jogos": 5,
+          "minutos": 450
+         }
+        ]
+       }
+      ],
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2001-02-23",
+     "de": "Democrata-SL",
+     "ficha": {
+      "idade": 25,
+      "idade_em": "2026-11-18",
+      "nome_completo": "Alexandre Joabe Carvalho das Chagas",
+      "natural": "São Paulo/SP",
+      "pe": "Canhoto",
+      "altura": "1,88 m",
+      "clubes_anteriores": [
+       "Oeste",
+       "Portuguesa Santista",
+       "Democrata-SL"
+      ],
+      "titulos": [
+       "Campeão da Série A3 2026 com a Portuguesa Santista",
+       "Acesso à elite mineira com o Democrata-SL (2026)"
+      ],
+      "redes": {
+       "instagram": "alejoabe01"
+      },
+      "fontes": [
+       "https://www.ogol.com.br/jogador/alexandre-joabe/693688",
+       "https://www.instagram.com/xvdejauoficial/"
+      ]
+     },
+     "comissao": false
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Vaguinho Santos",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-10-22"
+    },
+    {
+     "nome": "Lucas Evangelista",
+     "de": "Francana",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Kelvin Moreira",
+     "de": "Fluminense-PI",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Henrique Lima",
+     "de": "Noroeste",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Gustavo Brandão",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-06"
+    },
+    {
+     "nome": "Paulo Galvão",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-07"
+    },
+    {
+     "nome": "Dudu Pedrotti",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-07"
+    },
+    {
+     "nome": "Willian Daltro",
+     "de": "Águia de Marabá",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Lucas Nathan",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "João Braga",
+     "de": "Osasco Sporting",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Daniel Gaúcho",
+     "de": "UCSA (Ucrânia)",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Luiz Henrique",
+     "de": "Penapolense",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Ardley Santos",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    },
+    {
+     "nome": "Vitinho",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
+    },
+    {
+     "nome": "Giba",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
+    },
+    {
+     "nome": "Alexandre Joabe",
+     "de": "Democrata-SL",
+     "tipo": "Contratação",
+     "data": "2026-11-18"
+    }
+   ],
+   "sairam": []
+  },
   "uniao-sao-joao": {
    "atualizado": "2026-11-18",
    "fonte": "",
@@ -10711,229 +11755,6 @@
      "de": "Araxá-MG",
      "tipo": "Contratação",
      "data": "2026-11-05"
-    }
-   ],
-   "sairam": []
-  },
-  "xv-de-jau": {
-   "atualizado": "2026-11-18",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Lucas Evangelista",
-     "posicao": "Lateral",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "jogos": 24,
-      "gols": 1,
-      "obs": "por quatro clubes",
-      "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/"
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Kelvin Moreira",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/kelvin/714805",
-      "clubes": [
-       "Fluminense-PI",
-       "Jataiense"
-      ],
-      "jogos": 18,
-      "minutos": 1183,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2000-03-07",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Henrique Lima",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Gustavo Brandão",
-     "posicao": "Zagueiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/gustavo-brandao/699021",
-      "clubes": [
-       "Oeste Brasil",
-       "Blumenau",
-       "Piauí"
-      ],
-      "jogos": 19,
-      "minutos": 1000,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2001-04-18",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Willian Daltro",
-     "posicao": "Volante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-willian-daltro-xv-de-jau.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://images.futebolinterior.com.br/2026/11/Captura-de-tela-2026-11-09-164952.webp",
-      "ia": true,
-      "em": "2026-11-15T04:40:32-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "jogos": 30,
-      "clubes": [
-       "Águia de Marabá"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/xv-de-jau-chegada-willian-daltro/",
-      "escudos": {
-       "Águia de Marabá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/aguia-de-maraba.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "Águia de Marabá",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Lucas Nathan",
-     "posicao": "Meia",
-     "foto": null,
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/lucas-nathan/549318",
-      "clubes": [
-       "Caldense",
-       "São Bento"
-      ],
-      "jogos": 9,
-      "minutos": 457,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "1998-11-17",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Humberto",
-     "posicao": "Volante",
-     "renovou": true,
-     "foto": null,
-     "numeros": null,
-     "selos": [],
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Diego Lopes",
-     "posicao": "Volante",
-     "renovou": true,
-     "foto": null,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/diego-lopes/675344",
-      "clubes": [
-       "XV de Jaú"
-      ],
-      "jogos": 16,
-      "minutos": 1296,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Alexandre Joabe",
-     "posicao": "Goleiro",
-     "foto": null,
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {
-      "idade": 25,
-      "idade_em": "2026-11-18"
-     },
-     "comissao": false
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Lucas Evangelista",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
-    },
-    {
-     "nome": "Kelvin Moreira",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
-    },
-    {
-     "nome": "Henrique Lima",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
-    },
-    {
-     "nome": "Gustavo Brandão",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-06"
-    },
-    {
-     "nome": "Willian Daltro",
-     "de": "Águia de Marabá",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Lucas Nathan",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Alexandre Joabe",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-18"
     }
    ],
    "sairam": []
