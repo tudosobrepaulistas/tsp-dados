@@ -90,3 +90,9 @@ As estatísticas de 2027 de cada jogador (jogos, gols, minutos) entram nas pági
 - Figurinha de comissão: mesma ferramenta (`figurinha ID ...`), com a roupa de treino/polo do clube da foto, sem marcas.
 - Faltam treinadores (conferir e registrar na tarefa diária): XV de Piracicaba, Portuguesa, Lemense,
   Marília, Rio Claro, Taubaté, Tanabi, XV de Jaú, Votuporanguense, São José.
+
+## Recorte, não total (25/11/2026)
+Os números do card (`numeros_2026`) só podem ser chamados de "2026" quando a fonte traz a temporada inteira do jogador
+(página do jogador no oGol ou matéria com o total). Se a fonte cobre só parte (algumas competições, só a base do TSP, só
+o clube atual), escreva em `obs` o recorte exato ("recorte: Série A2 e Copa Paulista" / "recorte: últimos 9 jogos
+registrados pelo TSP, de 12/10 a 22/11"). Nunca some ou estime o que falta.
