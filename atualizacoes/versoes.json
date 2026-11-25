@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-25T16:55-03:00",
+ "gerado": "2026-11-25T18:30-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.9.3",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.10.2",
-   "zip": "tsp-nova-era-1.10.2.zip",
-   "notas": "Menu principal (A1, A2, A3, A4, Feminino...) abre por cima do menu de seções da página do clube, sem ficar escondido."
+   "versao": "1.10.3",
+   "zip": "tsp-nova-era-1.10.3.zip",
+   "notas": "Grupos abertos de resenha no WhatsApp dos 12 clubes da A1 (fora os 4 grandes): caixa no começo e no fim da matéria, barra fixa e bloco na página do clube, com o convite \"Entre no grupo aberto do time\"."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
