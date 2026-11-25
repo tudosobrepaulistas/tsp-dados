@@ -56,3 +56,8 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
     /confronto/ completa **3 dias antes**, respondendo TODAS as intenções de busca (data, hora, local, onde assistir, árbitro,
     ingressos, tabela, momento, estatísticas, artilheiros, técnicos, escalações, desfalques, retrospecto geral com 2 fontes,
     maiores vitórias, jogos marcantes). Como fazer: `diretrizes/confrontos.md`. Nada de apostas.
+16. **Recorte, não total (25/11/2026, regra do Thiago):** a base ainda está recebendo as rodadas anteriores. Todo número
+    calculado pela base (campanha, artilheiros, últimos jogos, aproveitamento com/sem jogador, técnico, confronto) diz
+    explicitamente que é um recorte: "nos últimos 12 jogos registrados pelo TSP (de 05/10 a 22/11)". Nunca "na temporada"
+    nem "na carreira" para número da base. Vale para páginas (TSP Jogos 1.9.2 / tema 1.9.7), matérias da Máquina (raio-x,
+    pré e pós-jogo) e cards do Mercado da Bola. Número oficial (tabela da CBF/FPF) ou de matéria com fonte não é recorte.

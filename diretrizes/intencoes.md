@@ -28,3 +28,8 @@ O `maquina.py intencoes` já calcula o horário de cada uma (e soma 3 minutos qu
 6. JSON como em `diretrizes/maquina.md`, com `"tipo": "noticia"`, `"clube"`: o clube paulista do jogo,
    `"publish_at"`: o horário que `intencoes` mostrou, e `"intencao": {"jogo": ID, "tipo": "raio-x"}` (ou escalacoes / onde-assistir).
    Essas matérias ficam fora da cota diária.
+
+## Recorte, não total (25/11/2026)
+Número tirado da base do TSP (api/tsp.json, api/times/, api/tecnicos.json) entra no texto SEMPRE como recorte, com
+quantos jogos e o período: "Nos últimos 8 jogos registrados pelo TSP (de 12/10 a 22/11), o XV venceu 4". Nunca escreva
+"na temporada" ou "na carreira" para número da base. Número de matéria com fonte ou da tabela oficial segue normal.

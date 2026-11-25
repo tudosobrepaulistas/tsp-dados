@@ -141,3 +141,8 @@ rascunho recente esperando foto conta como pauta feita (a ferramenta não pede o
 O Google deixa de indexar matérias parecidas. Antes de escrever, confira se o site já tem o mesmo fato nas últimas 48h
 (de qualquer clube): `python3 ferramentas/maquina.py ja-tem "palavras do assunto"`. Se já tiver, procure outro assunto
 ou outro clube. Assunto de vários clubes (sorteio, tabela, regulamento) = UMA matéria completa marcando todos os clubes.
+
+## Recorte, não total (25/11/2026)
+Número tirado da base do TSP (api/tsp.json, api/times/, api/tecnicos.json) entra no texto SEMPRE como recorte, com
+quantos jogos e o período: "Nos últimos 8 jogos registrados pelo TSP (de 12/10 a 22/11), o XV venceu 4". Nunca escreva
+"na temporada" ou "na carreira" para número da base. Número de matéria com fonte ou da tabela oficial segue normal.

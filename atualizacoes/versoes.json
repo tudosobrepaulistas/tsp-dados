@@ -1,11 +1,11 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-25T02:10-03:00",
+ "gerado": "2026-11-25T16:30-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.9.1",
-   "zip": "tsp-jogos-1.9.1.zip",
-   "notas": "Página de confronto virou dossiê completo: ficha do jogo, tabela, momento, estatísticas comparadas, artilheiros, técnicos, escalações, desfalques, retrospecto histórico com fontes, todos os jogos e 16 perguntas frequentes."
+   "versao": "1.9.2",
+   "zip": "tsp-jogos-1.9.2.zip",
+   "notas": "Números da base do TSP viram RECORTE explícito: páginas de time, jogador, confronto e jogo dizem quantos jogos entraram na conta e de quando a quando (\"Recorte: últimos 12 jogos registrados, de 05/10 a 22/11. Não é o total da temporada\")."
   },
   "tsp-maquina": {
    "versao": "1.9.0",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.9.6",
-   "zip": "tsp-nova-era-1.9.6.zip",
-   "notas": "Mantém tudo da 1.9.5. Ficha do jogador mostra também nome completo, pé preferido, altura e destaques da carreira."
+   "versao": "1.9.7",
+   "zip": "tsp-nova-era-1.9.7.zip",
+   "notas": "Página do treinador e do jogador: números da base aparecem como recorte (quantos jogos e período), nunca como total da carreira ou da temporada."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
