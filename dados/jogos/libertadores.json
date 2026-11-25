@@ -2369,7 +2369,89 @@
     "https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/final-libertadores-2026-palmeiras-estudiantes-data-local/",
     "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes"
    ],
-   "atualizado": "2026-11-20T01:53:00-03:00"
+   "atualizado": "2026-11-20T01:53:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Globo",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "ESPN",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "GETV (YouTube)",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://acritica.net/esportes/palmeiras-estudiantes-final-libertadores-2026-data-local-onde-assistir/",
+      "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-estudiantes-final-de-2026-desempata-disputa-historica-entre-brasil-e-argentina/"
+     ]
+    },
+    "arbitragem": {
+     "arbitro": "Jesús Valenzuela (Venezuela), com os assistentes Jorge Urrego e Tulio Moreno (Venezuela); quarto árbitro Alexis Herrera (Venezuela)",
+     "var": "Juan Soto (Venezuela)",
+     "fontes": [
+      "https://m.imirante.com/esporte/brasil/2026/11/17/final-conmebol-libertadores-tera-arbitragem-venezuelana"
+     ]
+    },
+    "ingressos": {
+     "texto": "A Conmebol reservou 12 mil ingressos para cada finalista, na Categoria 3 (atrás dos gols), a US$ 95 (cerca de R$ 520). O setor do Palmeiras é o Norte (Tribuna Colombes), vendido para sócios Avanti em libertadores.eleventickets.com, e esgotou em cerca de três horas no dia 6/11. A venda geral da Conmebol (setor Leste, US$ 250) esgotou em 20 minutos em 2/11. As Categorias 1 (US$ 340) e 2 (US$ 250) dependem de novas vendas da Conmebol. Os ingressos são digitais, com QR Code no aplicativo oficial liberado 72 horas antes do jogo, e não podem ser cancelados, trocados ou devolvidos.",
+     "fontes": [
+      "https://www.dgabc.com.br/Noticia/4367197/palmeiras-x-estudiantes-como-comprar-entradas-e-pacotes-na-final",
+      "https://acritica.net/esportes/final-libertadores-ingressos-torcedores-palmeiras-estudiantes-us-95/",
+      "https://www.dgabc.com.br/Noticia/4367341/palmeiras-esgota-ingressos-para-setor-exclusivo-na-final-da-libertadores",
+      "https://www.oliberal.com/esportes/palmeiras-x-estudiantes-ingressos-da-venda-geral-a-final-da-libertadores-esgotam-em-20-minutos-1.1189674"
+     ]
+    },
+    "analise": [
+     "Palmeiras e Estudiantes decidem a Copa Libertadores no sábado (28/11), às 17h (de Brasília), no Estádio Centenário, em Montevidéu, em jogo único. O Palmeiras, tricampeão (1999, 2020 e 2021), busca o quarto título. O Estudiantes, campeão em 1968, 1969, 1970 e 2009, quer o quinto. A final também desempata a disputa entre os países: Brasil e Argentina têm 25 títulos cada.",
+     "O Palmeiras de Abel Ferreira chegou à decisão depois de ser 2º do Grupo F, com 11 pontos. Eliminou o Cerro Porteño nas oitavas (2 a 1 no agregado), a LDU nas quartas, nos pênaltis, com duas defesas de Carlos Miguel, e o Fluminense na semifinal: venceu por 2 a 1 no Maracanã, perdeu por 1 a 0 no Nubank Parque e passou de novo nos pênaltis, em 21/10.",
+     "No Brasileirão, o time chega pressionado. Perdeu para a Chapecoense por 3 a 0, fora de casa, na terça-feira (24/11), depois de empatar com o Flamengo por 1 a 1 (21/11) e de perder para o Cruzeiro por 2 a 1 (18/11). É o 2º colocado, com 74 pontos.",
+     "O Estudiantes foi 2º do Grupo A, com 9 pontos. Nas oitavas, passou pela Universidad Católica; nas quartas, eliminou o Corinthians com gol de Alexis Castro no fim do jogo de volta, na Neo Química Arena; e na semifinal tirou o Flamengo nos pênaltis, depois de dois empates por 0 a 0.",
+     "O palco pesa na história dos dois. Foi no Centenário que o Estudiantes venceu o Palmeiras por 2 a 0, em 16/05/1968, no jogo de desempate da final, e ganhou sua primeira Libertadores. E foi no mesmo estádio que o Palmeiras bateu o Flamengo por 2 a 1, na prorrogação, e conquistou o tri, em 2021."
+    ],
+    "retrospecto": "Palmeiras e Estudiantes se reencontram numa final 58 anos depois da decisão de 1968. Naquela época foram três jogos: o Estudiantes venceu por 2 a 1 em La Plata (02/05), o Palmeiras devolveu por 3 a 1 no Pacaembu (07/05) e, no desempate em campo neutro, o time argentino ganhou por 2 a 0 no Centenário (16/05), com gols de Felipe Ribaudo e Juan Ramón Verón, que marcou nos três jogos da final, segundo a Gazeta Esportiva.",
+    "estadio_wiki": "Estádio Centenário",
+    "confronto": {
+     "times": [
+      "Palmeiras",
+      "Estudiantes"
+     ],
+     "marcantes": [
+      "02/05/1968, final da Libertadores (ida): Estudiantes 2 x 1 Palmeiras, em La Plata.",
+      "07/05/1968, final da Libertadores (volta): Palmeiras 3 x 1 Estudiantes, no Pacaembu.",
+      "16/05/1968, final da Libertadores (desempate): Estudiantes 2 x 0 Palmeiras, no Estádio Centenário, em Montevidéu. Gols de Felipe Ribaudo e Juan Ramón Verón; foi o primeiro título continental do Estudiantes."
+     ],
+     "decisoes": [
+      "Final da Libertadores de 1968: o Estudiantes ficou com o título no jogo de desempate, no Centenário, o mesmo estádio da final de 2026."
+     ],
+     "curiosidades": [
+      "Juan Ramón Verón marcou nos três jogos da final de 1968. O filho dele, Juan Sebastián Verón, é o atual presidente do Estudiantes (Gazeta Esportiva).",
+      "O Centenário também foi o palco do tri do Palmeiras: 2 a 1 sobre o Flamengo, na prorrogação, na final de 2021.",
+      "Brasil e Argentina chegam à final com 25 títulos da Libertadores cada; o campeão de 2026 deixa um dos países isolado na liderança (Tribuna de Jundiaí)."
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=3876696",
+      "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-estudiantes-final-de-2026-desempata-disputa-historica-entre-brasil-e-argentina/"
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes",
+     "https://www.jornaldocomercio.com/esportes/2026/10/1268024-veja-como-foi-o-caminho-de-palmeiras-e-estudiantes-ate-a-final-da-libertadores.html",
+     "https://www.gazetaesportiva.com/?p=3876696",
+     "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-estudiantes-final-de-2026-desempata-disputa-historica-entre-brasil-e-argentina/",
+     "https://acritica.net/esportes/palmeiras-estudiantes-final-libertadores-2026-data-local-onde-assistir/"
+    ],
+    "atualizado": "2026-11-25T03:36:00-03:00"
+   }
   }
  ]
 }

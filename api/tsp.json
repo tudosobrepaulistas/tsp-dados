@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T03:35:00-03:00",
+ "gerado": "2026-11-25T03:38:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -734,16 +734,34 @@
      2
     ],
     [
+     900018,
+     900006,
+     1,
+     0
+    ],
+    [
      900001,
      900012,
      3,
      0
     ],
     [
+     900007,
+     900011,
+     2,
+     1
+    ],
+    [
      900019,
      900009,
      1,
      0
+    ],
+    [
+     900003,
+     900005,
+     1,
+     1
     ],
     [
      900005,
@@ -6791,6 +6809,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-atletico-mg-com-gol-no-fim-e-abre-3-pontos-do-z4-do-brasileiro/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-perde-para-o-corinthians-cai-posicoes-no-brasileiro-e-ve-rival-deixar-z4/"
+   ],
+   "fixture": {
+    "id": 91000557,
+    "timestamp": 1779658200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 17"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 87,
+      "extra": null,
+      "texto": "87"
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Labyad"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-vence-coritiba-brasileirao/",
     "https://www.cnnbrasil.com.br/esportes/brasileirao/sem-convocados-flamengo-aproveita-expulsao-e-bate-coritiba-pelo-brasileiro/"
    ],
@@ -6884,6 +6963,100 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://atarde.com.br/esportes/ecbahia/bahia-volta-a-vencer-com-ajuda-de-gol-contra-bizarro-do-botafogo-1390522",
+    "https://www.correio24horas.com.br/esportes/com-gol-nos-acrescimos-bahia-vence-o-botafogo-de-virada-e-volta-a-triunfar-apos-oito-jogos-0526",
+    "https://www.gazetaesportiva.com/?p=3795521"
+   ],
+   "fixture": {
+    "id": 91000559,
+    "timestamp": 1780173000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 7,
+      "extra": null,
+      "texto": "7"
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Huguinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 56,
+      "extra": null,
+      "texto": "56"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Ferraresi"
+     },
+     "type": "Goal",
+     "detail": "Own Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "David Duarte"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/remo-bate-o-sao-paulo-nos-acrescimos-e-da-respiro-na-luta-contra-o-rebaixamento/",
     "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-perde-do-remo-e-amarga-quinto-jogo-de-jejum-no-brasileirao/"
    ],
@@ -6934,6 +7107,83 @@
      },
      "player": {
       "name": "Marcelinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/em-jogo-movimentado-cruzeiro-e-fluminense-empatam-pelo-brasileirao/",
+    "https://www.gazetaesportiva.com/times/fluminense/fluminense-sai-na-frente-mas-cede-empate-ao-cruzeiro-pelo-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000558,
+    "timestamp": 1780270200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 43,
+      "extra": null,
+      "texto": "43"
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "John Kennedy"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 75,
+      "extra": null,
+      "texto": "75"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Matheus Pereira"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -23175,21 +23425,49 @@
      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-atletico-mg-com-gol-no-fim-e-abre-3-pontos-do-z4-do-brasileiro/",
      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-perde-para-o-corinthians-cai-posicoes-no-brasileiro-e-ve-rival-deixar-z4/"
     ],
-    "atualizado": "2026-11-22T20:26:00-03:00"
+    "atualizado": "2026-11-25T03:36:00-03:00",
+    "confronto": {
+     "times": [
+      "Atlético-MG",
+      "Corinthians"
+     ],
+     "ultimo": "Corinthians 1 x 0 Atlético-MG, 24/05/2026, Brasileirão (17ª rodada), na Neo Química Arena. Gol de Zakaria Labyad aos 42 do 2º tempo.",
+     "marcantes": [
+      "24/05/2026, Brasileirão: Corinthians 1 x 0 Atlético-MG, na Neo Química Arena, com gol de Labyad, que saiu do banco, aos 42 do 2º tempo.",
+      "13/11/2022, Brasileirão (38ª rodada): Corinthians 0 x 1 Atlético-MG, na Neo Química Arena. Vargas, de pênalti, garantiu a vaga do Galo na Libertadores.",
+      "17/07/2021, Brasileirão: Corinthians 1 x 2 Atlético-MG, em Itaquera, de virada, com dois gols de Hulk.",
+      "01/10/2014, Copa do Brasil (quartas, ida): Corinthians 2 x 0 Atlético-MG, em Itaquera. Na volta, no Mineirão, o Atlético goleou por 4 a 1, avançou e seguiu até o primeiro título do torneio."
+     ],
+     "decisoes": [
+      "Copa do Brasil 2014, quartas de final: Corinthians 2 x 0 em Itaquera e Atlético-MG 4 x 1 no Mineirão; o Galo passou e foi campeão.",
+      "Copa do Brasil 2023, oitavas de final: Atlético-MG 2 x 0 no Mineirão (17/05, dois gols de Paulinho) e Corinthians 2 x 0 na Neo Química Arena (31/05); o Corinthians passou nos pênaltis (3 a 1)."
+     ],
+     "curiosidades": [
+      "Em outubro de 2025, a Itatiaia citou levantamento do Galo Digital com 113 jogos: 43 vitórias do Corinthians, 39 do Atlético e 31 empates. Só no Brasileirão eram 30 vitórias corintianas, 25 atleticanas e 20 empates.",
+      "Entre 2019 e 2023, nos dez jogos entre os dois, o Atlético venceu sete e o Corinthians três, sem nenhum empate."
+     ],
+     "fontes": [
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-busca-feito-que-nao-consegue-ha-tres-anos-contra-o-corinthians-saiba-qual/",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-tem-retrospecto-ao-seu-lado-na-decisao-contra-o-corinthians/",
+      "https://www.correiobraziliense.com.br/galeria/jogada-10/2023/11/amp/6652903-copa-do-brasil-inspira-corinthians-diante-de-dominio-recente-do-atletico-mg-no-confronto.html",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-atletico-mg-com-gol-no-fim-e-abre-3-pontos-do-z4-do-brasileiro/",
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/corinthians-x-atletico-mineiro/832053"
+     ]
+    }
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 62,
-    "empate": 21,
-    "fora": 17,
+    "casa": 59,
+    "empate": 23,
+    "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.95,
-     0.91
+     1.81,
+     0.9
     ],
     "base": [
-     28,
-     26
+     29,
+     27
     ]
    },
    "events": []
@@ -23250,13 +23528,36 @@
      "O Remo venceu dois dos últimos cinco jogos, ambos em Belém: 2x1 no Botafogo e 2x0 na Chapecoense. Longe de casa, porém, perdeu as três partidas mais recentes da Base TSP: 1x0 para o Cruzeiro, 6x1 para o Palmeiras e 4x2 para o Athletico-PR, no domingo (22/11).",
      "O jogo terá transmissão exclusiva do Premiere, no pay-per-view, segundo a Máquina do Esporte."
     ],
-    "retrospecto": "No primeiro turno deste Brasileirão, em 31/05/2026, o Remo venceu o São Paulo por 1 a 0 em Belém, segundo a Base TSP.",
+    "retrospecto": "Até o jogo do primeiro turno de 2026, São Paulo e Remo tinham se enfrentado oito vezes, com seis vitórias do São Paulo e dois empates, segundo a Gazeta Esportiva. O Remo nunca tinha vencido o Tricolor na Série A, como lembrou o Diário do Pará, e quebrou o tabu em 31/05/2026: 1 a 0 no Mangueirão, gol de Marcelinho aos 48 minutos do segundo tempo.",
     "estadio_wiki": "Estádio do Morumbi",
     "fontes": [
      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/botafogo-x-sao-paulo-brasileirao-23-11-2026/",
      "https://maquinadoesporte.com.br/onde-assistir/sao-paulo-x-remo-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
     ],
-    "atualizado": "2026-11-23T22:25:00-03:00"
+    "atualizado": "2026-11-25T03:36:00-03:00",
+    "confronto": {
+     "times": [
+      "São Paulo",
+      "Remo"
+     ],
+     "ultimo": "Remo 1 x 0 São Paulo, 31/05/2026, Brasileirão (18ª rodada), no Mangueirão. Gol de Marcelinho aos 48 do 2º tempo.",
+     "marcantes": [
+      "31/05/2026, Brasileirão: Remo 1 x 0 São Paulo, no Mangueirão, em Belém. Marcelinho marcou nos acréscimos e deu ao Remo a primeira vitória sobre o São Paulo.",
+      "07/04/1995, Copa do Brasil: São Paulo 3 x 0 Remo. No jogo de volta, em 18/04/1995, Remo 1 x 1 São Paulo.",
+      "26/11/1993 e 01/12/1993, Brasileirão: São Paulo 2 x 0 Remo e Remo 0 x 1 São Paulo.",
+      "02/10/1986, Brasileirão: Remo 0 x 2 São Paulo."
+     ],
+     "curiosidades": [
+      "Antes de 31/05/2026, eram 8 jogos, com 6 vitórias do São Paulo e 2 empates (Gazeta Esportiva). Só na Série A, o Diário do Pará contava 6 jogos: 5 vitórias do São Paulo, 1 empate, 9 gols do Tricolor e 2 do Remo.",
+      "O Remo passou 33 anos sem receber o São Paulo em Belém, até o jogo de maio de 2026 (Diário do Pará)."
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=3794630",
+      "https://diariodopara.com.br/bola/remo-x-sao-paulo-leao-encara-tabu-diante-do-tricolor-antes-da-copa/",
+      "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-perde-do-remo-e-amarga-quinto-jogo-de-jejum-no-brasileirao/",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/remo-bate-o-sao-paulo-nos-acrescimos-e-da-respiro-na-luta-contra-o-rebaixamento/"
+     ]
+    }
    },
    "escalacoes": {},
    "previsao": {
@@ -23324,21 +23625,64 @@
     "fontes": [
      "https://www.otempo.com.br/sports/cruzeiro/2026/11/24/cruzeiro-pode-garantir-3-lugar-brasileirao-diante-fluminense"
     ],
-    "atualizado": "2026-11-24T20:25:00-03:00"
+    "atualizado": "2026-11-25T03:37:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Sportv",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=248019"
+     ]
+    },
+    "retrospecto": "Antes do jogo do primeiro turno de 2026, Fluminense e Cruzeiro somavam 79 confrontos, com 32 vitórias do Fluminense, 26 do Cruzeiro e 21 empates, segundo a Gazeta Esportiva. Em 31/05/2026, no Mineirão, o jogo terminou 1 a 1: John Kennedy abriu o placar aos 43 do primeiro tempo e Matheus Pereira empatou de falta aos 30 do segundo.",
+    "confronto": {
+     "times": [
+      "Fluminense",
+      "Cruzeiro"
+     ],
+     "ultimo": "Cruzeiro 1 x 1 Fluminense, 31/05/2026, Brasileirão (18ª rodada), no Mineirão. Gols de John Kennedy (Flu) e Matheus Pereira (Cruzeiro).",
+     "maiores": [
+      "Maior vitória do Fluminense: 5 x 1, no Maracanã, pelo Brasileirão de 2002, na estreia de Romário pelo clube, diante de mais de 66 mil torcedores.",
+      "Maior vitória do Cruzeiro: 4 x 1, pelo Brasileirão de 1996."
+     ],
+     "marcantes": [
+      "2013, Brasileirão: Fluminense 3 x 3 Cruzeiro, no Maracanã, o empate com mais gols da história do confronto no campeonato.",
+      "2012, Brasileirão: Fluminense 0 x 2 Cruzeiro, no Engenhão, gols de Montillo e Élber, no dia em que o Fluminense, já campeão, recebeu a taça. É a última vitória do Cruzeiro como visitante no confronto citada pelo Lance! em 2024.",
+      "2008, Brasileirão: Fluminense 1 x 3 Cruzeiro, no Maracanã."
+     ],
+     "curiosidades": [
+      "Só no Brasileirão, até 2024, eram 61 jogos: 24 vitórias do Fluminense, 20 do Cruzeiro e 17 empates; 83 gols tricolores e 77 cruzeirenses (Lance!).",
+      "Em outubro de 2024, o Lance! destacava que o Fluminense não perdia para o Cruzeiro em casa desde 2012: nos 10 jogos seguintes, foram sete vitórias e três empates."
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/times/fluminense/cruzeiro-x-fluminense-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/",
+      "https://www.lance.com.br/fluminense/fluminense-x-cruzeiro-como-e-o-historico-do-confronto.html",
+      "https://www.lance.com.br/lancepedia/fluminense-x-cruzeiro-retrospecto-brasileirao.html",
+      "https://www.lance.com.br/fluminense/fluminense-defende-escrita-contra-o-cruzeiro-entenda.html",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/em-jogo-movimentado-cruzeiro-e-fluminense-empatam-pelo-brasileirao/"
+     ]
+    }
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
+    "casa": 50,
     "empate": 25,
     "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.65,
-     1.08
+     1.62,
+     1.07
     ],
     "base": [
-     27,
-     38
+     28,
+     39
     ]
    },
    "events": []
@@ -23381,20 +23725,72 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=248023"
+     ]
+    },
+    "analise": [
+     "Botafogo e Bahia se enfrentam no sábado (28/11), às 21h, no Estádio Nilton Santos, no Rio de Janeiro, pela 37ª e penúltima rodada da Série A. O Bahia é o 6º colocado, com 54 pontos, três atrás do Athletico-PR (57), o 5º, e três à frente do Atlético-MG (51), que tem um jogo a menos. O Botafogo é o 14º, com 43 pontos, cinco acima do Internacional (38), que abre a zona de rebaixamento.",
+     "O Botafogo venceu só um dos últimos cinco jogos: 1 a 0 sobre o Atlético-MG em casa (04/11). Depois perdeu para o Corinthians por 4 a 0, em Itaquera (18/11), e empatou com o São Paulo por 1 a 1 no Nilton Santos, na segunda-feira (23/11). Antes, tinha perdido para Internacional (3 a 0) e Remo (2 a 1), ambos fora. Em casa, nas últimas rodadas, bateu Chapecoense e Atlético-MG, os dois por 1 a 0.",
+     "O Bahia não vence há três rodadas. Perdeu para o Cruzeiro por 3 a 2 no Mineirão (05/11), empatou sem gols com o Grêmio em Porto Alegre (18/11) e caiu diante do Coritiba por 1 a 0 na Fonte Nova, no sábado (21/11). A última vitória foi o 3 a 2 sobre o São Paulo, em Salvador (28/10). Fora de casa, o time de Rogério Ceni soma dois empates (Santos e Grêmio) e duas derrotas (Palmeiras e Cruzeiro) nos últimos quatro jogos.",
+     "No primeiro turno, em 30/05, o Bahia venceu por 2 a 1 na Fonte Nova, de virada. Huguinho abriu o placar para o Botafogo, o zagueiro Ferraresi marcou contra ao tentar recuar para o goleiro Raúl e David Duarte fez o gol da vitória nos acréscimos. O goleiro Neto, do Botafogo, foi expulso no fim do primeiro tempo, segundo A Tarde e o Correio."
+    ],
+    "retrospecto": "No primeiro turno do Brasileirão de 2026, em 30/05, o Bahia venceu o Botafogo por 2 a 1 na Arena Fonte Nova, com gol contra de Ferraresi e outro de David Duarte nos acréscimos, depois de Huguinho abrir o placar. Nos mata-matas, o Bahia levou a melhor nas três vezes em que os dois se cruzaram: Taça Brasil de 1963, Copa do Brasil de 1990 e Copa Sul-Americana de 2018, segundo A Tarde.",
+    "estadio_wiki": "Estádio Nilton Santos",
+    "confronto": {
+     "times": [
+      "Botafogo",
+      "Bahia"
+     ],
+     "ultimo": "Bahia 2 x 1 Botafogo, 30/05/2026, Brasileirão (18ª rodada), na Arena Fonte Nova.",
+     "marcantes": [
+      "30/05/2026, Brasileirão: Bahia 2 x 1 Botafogo, na Fonte Nova. Virada com gol contra de Ferraresi e gol de David Duarte nos acréscimos; o Bahia encerrou ali uma série de oito jogos sem vencer.",
+      "2020, Brasileirão: Botafogo 1 x 2 Bahia, no Engenhão (gols de Gilberto e Élber; Pedro Raul descontou). A vitória acabou com um jejum de nove jogos do Bahia no confronto, segundo o Correio."
+     ],
+     "decisoes": [
+      "Taça Brasil 1963, semifinal: Bahia 1 x 0 em casa e 0 x 0 fora; o Bahia avançou.",
+      "Copa do Brasil 1990, oitavas de final: Bahia 1 x 0 em casa e 1 x 1 fora; o Bahia avançou.",
+      "Copa Sul-Americana 2018, oitavas de final: Bahia 2 x 1 em casa, Botafogo 2 x 1 fora e classificação do Bahia nos pênaltis, por 5 a 4."
+     ],
+     "curiosidades": [
+      "Os levantamentos do retrospecto geral não batem: o Correio (2023, com dados do Bahia) contava 69 jogos, com 24 vitórias para cada lado e 21 empates; A Tarde (2024) falava em 55 jogos, com 21 vitórias do Bahia, 17 empates e 17 do Botafogo. Por isso a Base TSP não mostra o total."
+     ],
+     "fontes": [
+      "https://atarde.com.br/esportes/bahia-x-botafogo-relembre-historico-do-duelo-em-mata-mata-1280373",
+      "https://www.correio24horas.com.br/esportes/confronto-entre-bahia-e-botafogo-tem-retrospecto-equilibrado-0823",
+      "https://atarde.com.br/esportes/ecbahia/bahia-volta-a-vencer-com-ajuda-de-gol-contra-bizarro-do-botafogo-1390522",
+      "https://www.correio24horas.com.br/esportes/com-gol-nos-acrescimos-bahia-vence-o-botafogo-de-virada-e-volta-a-triunfar-apos-oito-jogos-0526"
+     ]
+    },
+    "fontes": [
+     "https://maquinadoesporte.com.br/?p=248023",
+     "https://atarde.com.br/esportes/ecbahia/bahia-volta-a-vencer-com-ajuda-de-gol-contra-bizarro-do-botafogo-1390522",
+     "https://www.correio24horas.com.br/esportes/com-gol-nos-acrescimos-bahia-vence-o-botafogo-de-virada-e-volta-a-triunfar-apos-oito-jogos-0526",
+     "https://atarde.com.br/esportes/bahia-x-botafogo-relembre-historico-do-duelo-em-mata-mata-1280373"
+    ],
+    "atualizado": "2026-11-25T03:37:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
+    "casa": 49,
     "empate": 24,
-    "fora": 26,
+    "fora": 27,
     "placar": "1x1",
     "gols_esperados": [
-     1.75,
-     1.19
+     1.73,
+     1.22
     ],
     "base": [
-     36,
-     26
+     37,
+     27
     ]
    },
    "events": []
@@ -23587,16 +23983,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 35,
-    "empate": 27,
-    "fora": 38,
+    "casa": 36,
+    "empate": 28,
+    "fora": 37,
     "placar": "1x1",
     "gols_esperados": [
      1.19,
-     1.25
+     1.21
     ],
     "base": [
-     26,
+     27,
      27
     ]
    },
@@ -23648,7 +24044,7 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.54,
+     1.55,
      1.23
     ],
     "base": [
@@ -23755,16 +24151,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
-    "empate": 23,
-    "fora": 23,
+    "casa": 52,
+    "empate": 24,
+    "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.77,
-     1.1
+     1.71,
+     1.09
     ],
     "base": [
-     28,
+     29,
      23
     ]
    },
@@ -44034,7 +44430,88 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Globo",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "ESPN",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Disney+",
+       "tipo": "streaming"
+      },
+      {
+       "nome": "GETV (YouTube)",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://acritica.net/esportes/palmeiras-estudiantes-final-libertadores-2026-data-local-onde-assistir/",
+      "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-estudiantes-final-de-2026-desempata-disputa-historica-entre-brasil-e-argentina/"
+     ]
+    },
+    "arbitragem": {
+     "arbitro": "Jesús Valenzuela (Venezuela), com os assistentes Jorge Urrego e Tulio Moreno (Venezuela); quarto árbitro Alexis Herrera (Venezuela)",
+     "var": "Juan Soto (Venezuela)",
+     "fontes": [
+      "https://m.imirante.com/esporte/brasil/2026/11/17/final-conmebol-libertadores-tera-arbitragem-venezuelana"
+     ]
+    },
+    "ingressos": {
+     "texto": "A Conmebol reservou 12 mil ingressos para cada finalista, na Categoria 3 (atrás dos gols), a US$ 95 (cerca de R$ 520). O setor do Palmeiras é o Norte (Tribuna Colombes), vendido para sócios Avanti em libertadores.eleventickets.com, e esgotou em cerca de três horas no dia 6/11. A venda geral da Conmebol (setor Leste, US$ 250) esgotou em 20 minutos em 2/11. As Categorias 1 (US$ 340) e 2 (US$ 250) dependem de novas vendas da Conmebol. Os ingressos são digitais, com QR Code no aplicativo oficial liberado 72 horas antes do jogo, e não podem ser cancelados, trocados ou devolvidos.",
+     "fontes": [
+      "https://www.dgabc.com.br/Noticia/4367197/palmeiras-x-estudiantes-como-comprar-entradas-e-pacotes-na-final",
+      "https://acritica.net/esportes/final-libertadores-ingressos-torcedores-palmeiras-estudiantes-us-95/",
+      "https://www.dgabc.com.br/Noticia/4367341/palmeiras-esgota-ingressos-para-setor-exclusivo-na-final-da-libertadores",
+      "https://www.oliberal.com/esportes/palmeiras-x-estudiantes-ingressos-da-venda-geral-a-final-da-libertadores-esgotam-em-20-minutos-1.1189674"
+     ]
+    },
+    "analise": [
+     "Palmeiras e Estudiantes decidem a Copa Libertadores no sábado (28/11), às 17h (de Brasília), no Estádio Centenário, em Montevidéu, em jogo único. O Palmeiras, tricampeão (1999, 2020 e 2021), busca o quarto título. O Estudiantes, campeão em 1968, 1969, 1970 e 2009, quer o quinto. A final também desempata a disputa entre os países: Brasil e Argentina têm 25 títulos cada.",
+     "O Palmeiras de Abel Ferreira chegou à decisão depois de ser 2º do Grupo F, com 11 pontos. Eliminou o Cerro Porteño nas oitavas (2 a 1 no agregado), a LDU nas quartas, nos pênaltis, com duas defesas de Carlos Miguel, e o Fluminense na semifinal: venceu por 2 a 1 no Maracanã, perdeu por 1 a 0 no Nubank Parque e passou de novo nos pênaltis, em 21/10.",
+     "No Brasileirão, o time chega pressionado. Perdeu para a Chapecoense por 3 a 0, fora de casa, na terça-feira (24/11), depois de empatar com o Flamengo por 1 a 1 (21/11) e de perder para o Cruzeiro por 2 a 1 (18/11). É o 2º colocado, com 74 pontos.",
+     "O Estudiantes foi 2º do Grupo A, com 9 pontos. Nas oitavas, passou pela Universidad Católica; nas quartas, eliminou o Corinthians com gol de Alexis Castro no fim do jogo de volta, na Neo Química Arena; e na semifinal tirou o Flamengo nos pênaltis, depois de dois empates por 0 a 0.",
+     "O palco pesa na história dos dois. Foi no Centenário que o Estudiantes venceu o Palmeiras por 2 a 0, em 16/05/1968, no jogo de desempate da final, e ganhou sua primeira Libertadores. E foi no mesmo estádio que o Palmeiras bateu o Flamengo por 2 a 1, na prorrogação, e conquistou o tri, em 2021."
+    ],
+    "retrospecto": "Palmeiras e Estudiantes se reencontram numa final 58 anos depois da decisão de 1968. Naquela época foram três jogos: o Estudiantes venceu por 2 a 1 em La Plata (02/05), o Palmeiras devolveu por 3 a 1 no Pacaembu (07/05) e, no desempate em campo neutro, o time argentino ganhou por 2 a 0 no Centenário (16/05), com gols de Felipe Ribaudo e Juan Ramón Verón, que marcou nos três jogos da final, segundo a Gazeta Esportiva.",
+    "estadio_wiki": "Estádio Centenário",
+    "confronto": {
+     "times": [
+      "Palmeiras",
+      "Estudiantes"
+     ],
+     "marcantes": [
+      "02/05/1968, final da Libertadores (ida): Estudiantes 2 x 1 Palmeiras, em La Plata.",
+      "07/05/1968, final da Libertadores (volta): Palmeiras 3 x 1 Estudiantes, no Pacaembu.",
+      "16/05/1968, final da Libertadores (desempate): Estudiantes 2 x 0 Palmeiras, no Estádio Centenário, em Montevidéu. Gols de Felipe Ribaudo e Juan Ramón Verón; foi o primeiro título continental do Estudiantes."
+     ],
+     "decisoes": [
+      "Final da Libertadores de 1968: o Estudiantes ficou com o título no jogo de desempate, no Centenário, o mesmo estádio da final de 2026."
+     ],
+     "curiosidades": [
+      "Juan Ramón Verón marcou nos três jogos da final de 1968. O filho dele, Juan Sebastián Verón, é o atual presidente do Estudiantes (Gazeta Esportiva).",
+      "O Centenário também foi o palco do tri do Palmeiras: 2 a 1 sobre o Flamengo, na prorrogação, na final de 2021.",
+      "Brasil e Argentina chegam à final com 25 títulos da Libertadores cada; o campeão de 2026 deixa um dos países isolado na liderança (Tribuna de Jundiaí)."
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=3876696",
+      "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-estudiantes-final-de-2026-desempata-disputa-historica-entre-brasil-e-argentina/"
+     ]
+    },
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes",
+     "https://www.jornaldocomercio.com/esportes/2026/10/1268024-veja-como-foi-o-caminho-de-palmeiras-e-estudiantes-ate-a-final-da-libertadores.html",
+     "https://www.gazetaesportiva.com/?p=3876696",
+     "https://tribunadejundiai.com.br/mais/esportes/palmeiras-x-estudiantes-final-de-2026-desempata-disputa-historica-entre-brasil-e-argentina/",
+     "https://acritica.net/esportes/palmeiras-estudiantes-final-libertadores-2026-data-local-onde-assistir/"
+    ],
+    "atualizado": "2026-11-25T03:36:00-03:00"
+   },
    "escalacoes": {},
    "previsao": null,
    "events": []
@@ -51520,6 +51997,12 @@
     "gols": 7
    },
    {
+    "jogador": "Matheus Pereira",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 7
+   },
+   {
     "jogador": "Pedro Rocha",
     "time": "Coritiba",
     "time_id": 900012,
@@ -51538,21 +52021,15 @@
     "gols": 6
    },
    {
-    "jogador": "Matheus Pereira",
-    "time": "Cruzeiro",
-    "time_id": 900003,
+    "jogador": "John Kennedy",
+    "time": "Fluminense",
+    "time_id": 900005,
     "gols": 6
    },
    {
     "jogador": "Alef Manga",
     "time": "Remo",
     "time_id": 900019,
-    "gols": 5
-   },
-   {
-    "jogador": "John Kennedy",
-    "time": "Fluminense",
-    "time_id": 900005,
     "gols": 5
    },
    {
@@ -51817,6 +52294,12 @@
     "jogador": "Christian Oliva",
     "time": "Santos",
     "time_id": 900008,
+    "gols": 2
+   },
+   {
+    "jogador": "David Duarte",
+    "time": "Bahia",
+    "time_id": 900007,
     "gols": 2
    },
    {
@@ -52102,12 +52585,6 @@
     "gols": 1
    },
    {
-    "jogador": "David Duarte",
-    "time": "Bahia",
-    "time_id": 900007,
-    "gols": 1
-   },
-   {
     "jogador": "Denilson",
     "time": "Mirassol",
     "time_id": 900015,
@@ -52282,6 +52759,12 @@
     "gols": 1
    },
    {
+    "jogador": "Huguinho",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 1
+   },
+   {
     "jogador": "Hulk",
     "time": "Atlético-MG",
     "time_id": 900006,
@@ -52345,6 +52828,12 @@
     "jogador": "Kike Olivera",
     "time": "Bahia",
     "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Labyad",
+    "time": "Corinthians",
+    "time_id": 900018,
     "gols": 1
    },
    {

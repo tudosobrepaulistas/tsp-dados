@@ -4907,6 +4907,36 @@
    }
   },
   {
+   "id": 91000557,
+   "data": "2026-05-24T18:30:00-03:00",
+   "casa": "corinthians",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "17",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Labyad",
+     "minuto": "87",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-atletico-mg-com-gol-no-fim-e-abre-3-pontos-do-z4-do-brasileiro/",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-perde-para-o-corinthians-cai-posicoes-no-brasileiro-e-ve-rival-deixar-z4/"
+   ],
+   "atualizado": "2026-11-25T03:36:00-03:00"
+  },
+  {
    "id": 91000548,
    "data": "2026-05-30T16:00:00-03:00",
    "casa": "flamengo",
@@ -4947,6 +4977,49 @@
     "https://www.cnnbrasil.com.br/esportes/brasileirao/sem-convocados-flamengo-aproveita-expulsao-e-bate-coritiba-pelo-brasileiro/"
    ],
    "atualizado": "2026-11-25T03:13:00-03:00"
+  },
+  {
+   "id": 91000559,
+   "data": "2026-05-30T17:30:00-03:00",
+   "casa": "bahia",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "18",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Huguinho",
+     "minuto": "7",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ferraresi",
+     "minuto": "56",
+     "tipo": "contra"
+    },
+    {
+     "lado": "casa",
+     "jogador": "David Duarte",
+     "minuto": "90+",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://atarde.com.br/esportes/ecbahia/bahia-volta-a-vencer-com-ajuda-de-gol-contra-bizarro-do-botafogo-1390522",
+    "https://www.correio24horas.com.br/esportes/com-gol-nos-acrescimos-bahia-vence-o-botafogo-de-virada-e-volta-a-triunfar-apos-oito-jogos-0526",
+    "https://www.gazetaesportiva.com/?p=3795521"
+   ],
+   "atualizado": "2026-11-25T03:37:00-03:00"
   },
   {
    "id": 91000423,
@@ -5063,6 +5136,42 @@
     ],
     "atualizado": "2026-11-20T03:46:00-03:00"
    }
+  },
+  {
+   "id": 91000558,
+   "data": "2026-05-31T20:30:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "18",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "John Kennedy",
+     "minuto": "43",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "75",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/em-jogo-movimentado-cruzeiro-e-fluminense-empatam-pelo-brasileirao/",
+    "https://www.gazetaesportiva.com/times/fluminense/fluminense-sai-na-frente-mas-cede-empate-ao-cruzeiro-pelo-brasileirao/"
+   ],
+   "atualizado": "2026-11-25T03:37:00-03:00"
   },
   {
    "id": 91000399,
@@ -17330,7 +17439,35 @@
      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-atletico-mg-com-gol-no-fim-e-abre-3-pontos-do-z4-do-brasileiro/",
      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-perde-para-o-corinthians-cai-posicoes-no-brasileiro-e-ve-rival-deixar-z4/"
     ],
-    "atualizado": "2026-11-22T20:26:00-03:00"
+    "atualizado": "2026-11-25T03:36:00-03:00",
+    "confronto": {
+     "times": [
+      "Atlético-MG",
+      "Corinthians"
+     ],
+     "ultimo": "Corinthians 1 x 0 Atlético-MG, 24/05/2026, Brasileirão (17ª rodada), na Neo Química Arena. Gol de Zakaria Labyad aos 42 do 2º tempo.",
+     "marcantes": [
+      "24/05/2026, Brasileirão: Corinthians 1 x 0 Atlético-MG, na Neo Química Arena, com gol de Labyad, que saiu do banco, aos 42 do 2º tempo.",
+      "13/11/2022, Brasileirão (38ª rodada): Corinthians 0 x 1 Atlético-MG, na Neo Química Arena. Vargas, de pênalti, garantiu a vaga do Galo na Libertadores.",
+      "17/07/2021, Brasileirão: Corinthians 1 x 2 Atlético-MG, em Itaquera, de virada, com dois gols de Hulk.",
+      "01/10/2014, Copa do Brasil (quartas, ida): Corinthians 2 x 0 Atlético-MG, em Itaquera. Na volta, no Mineirão, o Atlético goleou por 4 a 1, avançou e seguiu até o primeiro título do torneio."
+     ],
+     "decisoes": [
+      "Copa do Brasil 2014, quartas de final: Corinthians 2 x 0 em Itaquera e Atlético-MG 4 x 1 no Mineirão; o Galo passou e foi campeão.",
+      "Copa do Brasil 2023, oitavas de final: Atlético-MG 2 x 0 no Mineirão (17/05, dois gols de Paulinho) e Corinthians 2 x 0 na Neo Química Arena (31/05); o Corinthians passou nos pênaltis (3 a 1)."
+     ],
+     "curiosidades": [
+      "Em outubro de 2025, a Itatiaia citou levantamento do Galo Digital com 113 jogos: 43 vitórias do Corinthians, 39 do Atlético e 31 empates. Só no Brasileirão eram 30 vitórias corintianas, 25 atleticanas e 20 empates.",
+      "Entre 2019 e 2023, nos dez jogos entre os dois, o Atlético venceu sete e o Corinthians três, sem nenhum empate."
+     ],
+     "fontes": [
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-busca-feito-que-nao-consegue-ha-tres-anos-contra-o-corinthians-saiba-qual/",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/atletico-tem-retrospecto-ao-seu-lado-na-decisao-contra-o-corinthians/",
+      "https://www.correiobraziliense.com.br/galeria/jogada-10/2023/11/amp/6652903-copa-do-brasil-inspira-corinthians-diante-de-dominio-recente-do-atletico-mg-no-confronto.html",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-vence-atletico-mg-com-gol-no-fim-e-abre-3-pontos-do-z4-do-brasileiro/",
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/corinthians-x-atletico-mineiro/832053"
+     ]
+    }
    }
   },
   {
@@ -17372,13 +17509,36 @@
      "O Remo venceu dois dos últimos cinco jogos, ambos em Belém: 2x1 no Botafogo e 2x0 na Chapecoense. Longe de casa, porém, perdeu as três partidas mais recentes da Base TSP: 1x0 para o Cruzeiro, 6x1 para o Palmeiras e 4x2 para o Athletico-PR, no domingo (22/11).",
      "O jogo terá transmissão exclusiva do Premiere, no pay-per-view, segundo a Máquina do Esporte."
     ],
-    "retrospecto": "No primeiro turno deste Brasileirão, em 31/05/2026, o Remo venceu o São Paulo por 1 a 0 em Belém, segundo a Base TSP.",
+    "retrospecto": "Até o jogo do primeiro turno de 2026, São Paulo e Remo tinham se enfrentado oito vezes, com seis vitórias do São Paulo e dois empates, segundo a Gazeta Esportiva. O Remo nunca tinha vencido o Tricolor na Série A, como lembrou o Diário do Pará, e quebrou o tabu em 31/05/2026: 1 a 0 no Mangueirão, gol de Marcelinho aos 48 minutos do segundo tempo.",
     "estadio_wiki": "Estádio do Morumbi",
     "fontes": [
      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/botafogo-x-sao-paulo-brasileirao-23-11-2026/",
      "https://maquinadoesporte.com.br/onde-assistir/sao-paulo-x-remo-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
     ],
-    "atualizado": "2026-11-23T22:25:00-03:00"
+    "atualizado": "2026-11-25T03:36:00-03:00",
+    "confronto": {
+     "times": [
+      "São Paulo",
+      "Remo"
+     ],
+     "ultimo": "Remo 1 x 0 São Paulo, 31/05/2026, Brasileirão (18ª rodada), no Mangueirão. Gol de Marcelinho aos 48 do 2º tempo.",
+     "marcantes": [
+      "31/05/2026, Brasileirão: Remo 1 x 0 São Paulo, no Mangueirão, em Belém. Marcelinho marcou nos acréscimos e deu ao Remo a primeira vitória sobre o São Paulo.",
+      "07/04/1995, Copa do Brasil: São Paulo 3 x 0 Remo. No jogo de volta, em 18/04/1995, Remo 1 x 1 São Paulo.",
+      "26/11/1993 e 01/12/1993, Brasileirão: São Paulo 2 x 0 Remo e Remo 0 x 1 São Paulo.",
+      "02/10/1986, Brasileirão: Remo 0 x 2 São Paulo."
+     ],
+     "curiosidades": [
+      "Antes de 31/05/2026, eram 8 jogos, com 6 vitórias do São Paulo e 2 empates (Gazeta Esportiva). Só na Série A, o Diário do Pará contava 6 jogos: 5 vitórias do São Paulo, 1 empate, 9 gols do Tricolor e 2 do Remo.",
+      "O Remo passou 33 anos sem receber o São Paulo em Belém, até o jogo de maio de 2026 (Diário do Pará)."
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/?p=3794630",
+      "https://diariodopara.com.br/bola/remo-x-sao-paulo-leao-encara-tabu-diante-do-tricolor-antes-da-copa/",
+      "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-perde-do-remo-e-amarga-quinto-jogo-de-jejum-no-brasileirao/",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/remo-bate-o-sao-paulo-nos-acrescimos-e-da-respiro-na-luta-contra-o-rebaixamento/"
+     ]
+    }
    }
   },
   {
@@ -17413,7 +17573,50 @@
     "fontes": [
      "https://www.otempo.com.br/sports/cruzeiro/2026/11/24/cruzeiro-pode-garantir-3-lugar-brasileirao-diante-fluminense"
     ],
-    "atualizado": "2026-11-24T20:25:00-03:00"
+    "atualizado": "2026-11-25T03:37:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Sportv",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=248019"
+     ]
+    },
+    "retrospecto": "Antes do jogo do primeiro turno de 2026, Fluminense e Cruzeiro somavam 79 confrontos, com 32 vitórias do Fluminense, 26 do Cruzeiro e 21 empates, segundo a Gazeta Esportiva. Em 31/05/2026, no Mineirão, o jogo terminou 1 a 1: John Kennedy abriu o placar aos 43 do primeiro tempo e Matheus Pereira empatou de falta aos 30 do segundo.",
+    "confronto": {
+     "times": [
+      "Fluminense",
+      "Cruzeiro"
+     ],
+     "ultimo": "Cruzeiro 1 x 1 Fluminense, 31/05/2026, Brasileirão (18ª rodada), no Mineirão. Gols de John Kennedy (Flu) e Matheus Pereira (Cruzeiro).",
+     "maiores": [
+      "Maior vitória do Fluminense: 5 x 1, no Maracanã, pelo Brasileirão de 2002, na estreia de Romário pelo clube, diante de mais de 66 mil torcedores.",
+      "Maior vitória do Cruzeiro: 4 x 1, pelo Brasileirão de 1996."
+     ],
+     "marcantes": [
+      "2013, Brasileirão: Fluminense 3 x 3 Cruzeiro, no Maracanã, o empate com mais gols da história do confronto no campeonato.",
+      "2012, Brasileirão: Fluminense 0 x 2 Cruzeiro, no Engenhão, gols de Montillo e Élber, no dia em que o Fluminense, já campeão, recebeu a taça. É a última vitória do Cruzeiro como visitante no confronto citada pelo Lance! em 2024.",
+      "2008, Brasileirão: Fluminense 1 x 3 Cruzeiro, no Maracanã."
+     ],
+     "curiosidades": [
+      "Só no Brasileirão, até 2024, eram 61 jogos: 24 vitórias do Fluminense, 20 do Cruzeiro e 17 empates; 83 gols tricolores e 77 cruzeirenses (Lance!).",
+      "Em outubro de 2024, o Lance! destacava que o Fluminense não perdia para o Cruzeiro em casa desde 2012: nos 10 jogos seguintes, foram sete vitórias e três empates."
+     ],
+     "fontes": [
+      "https://www.gazetaesportiva.com/times/fluminense/cruzeiro-x-fluminense-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/",
+      "https://www.lance.com.br/fluminense/fluminense-x-cruzeiro-como-e-o-historico-do-confronto.html",
+      "https://www.lance.com.br/lancepedia/fluminense-x-cruzeiro-retrospecto-brasileirao.html",
+      "https://www.lance.com.br/fluminense/fluminense-defende-escrita-contra-o-cruzeiro-entenda.html",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/em-jogo-movimentado-cruzeiro-e-fluminense-empatam-pelo-brasileirao/"
+     ]
+    }
    }
   },
   {
@@ -17436,7 +17639,60 @@
    "fontes": [
     "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
    ],
-   "atualizado": "2026-11-21T01:59:00-03:00"
+   "atualizado": "2026-11-21T01:59:00-03:00",
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/?p=248023"
+     ]
+    },
+    "analise": [
+     "Botafogo e Bahia se enfrentam no sábado (28/11), às 21h, no Estádio Nilton Santos, no Rio de Janeiro, pela 37ª e penúltima rodada da Série A. O Bahia é o 6º colocado, com 54 pontos, três atrás do Athletico-PR (57), o 5º, e três à frente do Atlético-MG (51), que tem um jogo a menos. O Botafogo é o 14º, com 43 pontos, cinco acima do Internacional (38), que abre a zona de rebaixamento.",
+     "O Botafogo venceu só um dos últimos cinco jogos: 1 a 0 sobre o Atlético-MG em casa (04/11). Depois perdeu para o Corinthians por 4 a 0, em Itaquera (18/11), e empatou com o São Paulo por 1 a 1 no Nilton Santos, na segunda-feira (23/11). Antes, tinha perdido para Internacional (3 a 0) e Remo (2 a 1), ambos fora. Em casa, nas últimas rodadas, bateu Chapecoense e Atlético-MG, os dois por 1 a 0.",
+     "O Bahia não vence há três rodadas. Perdeu para o Cruzeiro por 3 a 2 no Mineirão (05/11), empatou sem gols com o Grêmio em Porto Alegre (18/11) e caiu diante do Coritiba por 1 a 0 na Fonte Nova, no sábado (21/11). A última vitória foi o 3 a 2 sobre o São Paulo, em Salvador (28/10). Fora de casa, o time de Rogério Ceni soma dois empates (Santos e Grêmio) e duas derrotas (Palmeiras e Cruzeiro) nos últimos quatro jogos.",
+     "No primeiro turno, em 30/05, o Bahia venceu por 2 a 1 na Fonte Nova, de virada. Huguinho abriu o placar para o Botafogo, o zagueiro Ferraresi marcou contra ao tentar recuar para o goleiro Raúl e David Duarte fez o gol da vitória nos acréscimos. O goleiro Neto, do Botafogo, foi expulso no fim do primeiro tempo, segundo A Tarde e o Correio."
+    ],
+    "retrospecto": "No primeiro turno do Brasileirão de 2026, em 30/05, o Bahia venceu o Botafogo por 2 a 1 na Arena Fonte Nova, com gol contra de Ferraresi e outro de David Duarte nos acréscimos, depois de Huguinho abrir o placar. Nos mata-matas, o Bahia levou a melhor nas três vezes em que os dois se cruzaram: Taça Brasil de 1963, Copa do Brasil de 1990 e Copa Sul-Americana de 2018, segundo A Tarde.",
+    "estadio_wiki": "Estádio Nilton Santos",
+    "confronto": {
+     "times": [
+      "Botafogo",
+      "Bahia"
+     ],
+     "ultimo": "Bahia 2 x 1 Botafogo, 30/05/2026, Brasileirão (18ª rodada), na Arena Fonte Nova.",
+     "marcantes": [
+      "30/05/2026, Brasileirão: Bahia 2 x 1 Botafogo, na Fonte Nova. Virada com gol contra de Ferraresi e gol de David Duarte nos acréscimos; o Bahia encerrou ali uma série de oito jogos sem vencer.",
+      "2020, Brasileirão: Botafogo 1 x 2 Bahia, no Engenhão (gols de Gilberto e Élber; Pedro Raul descontou). A vitória acabou com um jejum de nove jogos do Bahia no confronto, segundo o Correio."
+     ],
+     "decisoes": [
+      "Taça Brasil 1963, semifinal: Bahia 1 x 0 em casa e 0 x 0 fora; o Bahia avançou.",
+      "Copa do Brasil 1990, oitavas de final: Bahia 1 x 0 em casa e 1 x 1 fora; o Bahia avançou.",
+      "Copa Sul-Americana 2018, oitavas de final: Bahia 2 x 1 em casa, Botafogo 2 x 1 fora e classificação do Bahia nos pênaltis, por 5 a 4."
+     ],
+     "curiosidades": [
+      "Os levantamentos do retrospecto geral não batem: o Correio (2023, com dados do Bahia) contava 69 jogos, com 24 vitórias para cada lado e 21 empates; A Tarde (2024) falava em 55 jogos, com 21 vitórias do Bahia, 17 empates e 17 do Botafogo. Por isso a Base TSP não mostra o total."
+     ],
+     "fontes": [
+      "https://atarde.com.br/esportes/bahia-x-botafogo-relembre-historico-do-duelo-em-mata-mata-1280373",
+      "https://www.correio24horas.com.br/esportes/confronto-entre-bahia-e-botafogo-tem-retrospecto-equilibrado-0823",
+      "https://atarde.com.br/esportes/ecbahia/bahia-volta-a-vencer-com-ajuda-de-gol-contra-bizarro-do-botafogo-1390522",
+      "https://www.correio24horas.com.br/esportes/com-gol-nos-acrescimos-bahia-vence-o-botafogo-de-virada-e-volta-a-triunfar-apos-oito-jogos-0526"
+     ]
+    },
+    "fontes": [
+     "https://maquinadoesporte.com.br/?p=248023",
+     "https://atarde.com.br/esportes/ecbahia/bahia-volta-a-vencer-com-ajuda-de-gol-contra-bizarro-do-botafogo-1390522",
+     "https://www.correio24horas.com.br/esportes/com-gol-nos-acrescimos-bahia-vence-o-botafogo-de-virada-e-volta-a-triunfar-apos-oito-jogos-0526",
+     "https://atarde.com.br/esportes/bahia-x-botafogo-relembre-historico-do-duelo-em-mata-mata-1280373"
+    ],
+    "atualizado": "2026-11-25T03:37:00-03:00"
+   }
   },
   {
    "id": 91000430,
