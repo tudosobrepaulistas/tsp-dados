@@ -44,3 +44,11 @@ Links ficam no tema, em `tsp-nova-era/inc/whatsapp-grupos.php` (`tsp_wg_grupos()
 
 Antigo grupo de notícias do Botafogo-SP (saiu do site): https://chat.whatsapp.com/E7aRdmICe4SLSGEjLa1QOV
 Próximos: A3 e A4 (64 clubes no total). Logos dos grupos: pendente.
+
+## Fórum da torcida e leads (tema 1.11.0, 25/11/2026)
+- /forum/ (todos os grupos) e /forum/<clube>/ (grupo, pautas TSP, tópicos, perguntas frequentes). Tópico: /forum/topico/<nome>/ (noindex até 3 respostas).
+- Publicar exige cadastro: nome, WhatsApp, time, "entrei no grupo" e aceite dos termos (LGPD, consentimento). Ofertas só com a caixa opcional marcada.
+- No site aparece só o primeiro nome. WhatsApp só no painel "Fórum e leads" (admin), com CSV.
+- Texto com link, telefone ou palavra bloqueada vai para moderação (Fórum: tópicos > Pendentes; Comentários).
+- O torcedor apaga os próprios dados no botão "Apagar meus dados". Cadastro sem uso por 24 meses é apagado sozinho.
+- Pautas novas: criar em "Fórum: tópicos" com o campo personalizado _tsp_clube = slug e _tsp_pauta = 1.
