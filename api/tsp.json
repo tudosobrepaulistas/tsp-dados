@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T00:15:00-03:00",
+ "gerado": "2026-11-25T03:14:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -732,6 +732,12 @@
      900004,
      1,
      2
+    ],
+    [
+     900001,
+     900012,
+     3,
+     0
     ],
     [
      900019,
@@ -6774,6 +6780,99 @@
      },
      "player": {
       "name": "Viveros"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-vence-coritiba-brasileirao/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/sem-convocados-flamengo-aproveita-expulsao-e-bate-coritiba-pelo-brasileiro/"
+   ],
+   "fixture": {
+    "id": 91000548,
+    "timestamp": 1780167600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pedro"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Samuel Lino"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -23085,8 +23184,8 @@
     "fora": 17,
     "placar": "1x0",
     "gols_esperados": [
-     1.95,
-     0.91
+     1.96,
+     0.9
     ],
     "base": [
      28,
@@ -23234,7 +23333,7 @@
     "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.65,
+     1.66,
      1.08
     ],
     "base": [
@@ -23338,20 +23437,55 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "confronto": {
+     "times": [
+      "Coritiba",
+      "Flamengo"
+     ],
+     "total": {
+      "jogos": 58,
+      "vitorias": [
+       17,
+       31
+      ],
+      "empates": 10,
+      "ate": "o jogo de 30/05/2026"
+     },
+     "maiores": [
+      "Na história recente, o Flamengo venceu por 3 a 0 duas vezes no Maracanã pelo Brasileirão, a última em 30/05/2026, com dois gols de Samuel Lino e um de Pedro."
+     ],
+     "marcantes": [
+      "30/05/2026, Brasileirão (18ª rodada): Flamengo 3 x 0 Coritiba, no Maracanã. Samuel Lino (2) e Pedro marcaram; Pedro Rocha, do Coritiba, foi expulso no 1º tempo.",
+      "20/08/2023, Brasileirão (20ª rodada): Coritiba 2 x 3 Flamengo, no Couto Pereira. O Coxa abriu 2 a 1 com Robson (pênalti) e Edu, e Gerson decidiu nos acréscimos.",
+      "Brasileirão 2022, no Couto Pereira: Coritiba 1 x 0 Flamengo, gol de Alef Manga."
+     ],
+     "curiosidades": [
+      "Antes do jogo de agosto de 2023, o Coritiba tinha vantagem nos jogos como mandante: 14 vitórias contra 10 do Flamengo, segundo o levantamento publicado pelo Terra/Lance!."
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/coritiba-x-flamengo-retrospecto-provaveis-escalacoes-desfalques-e-onde-assistir,cb44722bac43b0833b96618b658d11d2agzsg110.html",
+      "https://www.vavel.com/br/futebol/2026/05/30/1262279-flamengo-x-coritiba-ao-vivo-brasileirao.html",
+      "https://agenciabrasil.ebc.com.br/esportes/noticia/2023-08/com-gol-de-gerson-no-fim-flamengo-supera-coritiba-no-couto-pereira",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-vence-coritiba-brasileirao/",
+      "https://www.terra.com.br/esportes/coritiba/coritiba-tem-vantagem-no-historico-contra-o-flamengo-no-couto-pereira,736ec753e30a6f385878e8fe02796280r98x183l.html"
+     ]
+    },
+    "atualizado": "2026-11-25T03:14:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
-    "casa": 23,
-    "empate": 25,
-    "fora": 52,
+    "casa": 20,
+    "empate": 24,
+    "fora": 56,
     "placar": "0x1",
     "gols_esperados": [
-     0.98,
-     1.61
+     0.91,
+     1.71
     ],
     "base": [
-     32,
-     24
+     33,
+     25
     ]
    },
    "events": []
@@ -23397,12 +23531,12 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 40,
+    "casa": 41,
     "empate": 24,
     "fora": 35,
     "placar": "1x1",
     "gols_esperados": [
-     1.56,
+     1.57,
      1.45
     ],
     "base": [
@@ -23458,7 +23592,7 @@
     "fora": 38,
     "placar": "1x1",
     "gols_esperados": [
-     1.19,
+     1.2,
      1.25
     ],
     "base": [
@@ -23570,8 +23704,8 @@
     "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.69,
-     1.34
+     1.7,
+     1.33
     ],
     "base": [
      36,
@@ -23627,7 +23761,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.78,
-     1.1
+     1.09
     ],
     "base": [
      28,
@@ -50719,7 +50853,7 @@
     "jogador": "Samuel Lino",
     "time": "Flamengo",
     "time_id": 900001,
-    "gols": 10
+    "gols": 12
    },
    {
     "jogador": "Jajá",
@@ -50728,15 +50862,15 @@
     "gols": 9
    },
    {
-    "jogador": "Gabigol",
-    "time": "Santos",
-    "time_id": 900008,
-    "gols": 7
-   },
-   {
     "jogador": "Pedro",
     "time": "Flamengo",
     "time_id": 900001,
+    "gols": 8
+   },
+   {
+    "jogador": "Gabigol",
+    "time": "Santos",
+    "time_id": 900008,
     "gols": 7
    },
    {

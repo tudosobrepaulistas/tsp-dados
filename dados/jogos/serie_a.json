@@ -4907,6 +4907,48 @@
    }
   },
   {
+   "id": 91000548,
+   "data": "2026-05-30T16:00:00-03:00",
+   "casa": "flamengo",
+   "fora": "coritiba",
+   "status": "encerrado",
+   "rodada": "18",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 3,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Samuel Lino",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Pedro",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Samuel Lino",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-vence-coritiba-brasileirao/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/sem-convocados-flamengo-aproveita-expulsao-e-bate-coritiba-pelo-brasileiro/"
+   ],
+   "atualizado": "2026-11-25T03:13:00-03:00"
+  },
+  {
    "id": 91000423,
    "data": "2026-05-31T20:30:00-03:00",
    "casa": "remo",
@@ -17416,7 +17458,43 @@
    "fontes": [
     "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
    ],
-   "atualizado": "2026-11-21T01:59:00-03:00"
+   "atualizado": "2026-11-21T01:59:00-03:00",
+   "prejogo": {
+    "confronto": {
+     "times": [
+      "Coritiba",
+      "Flamengo"
+     ],
+     "total": {
+      "jogos": 58,
+      "vitorias": [
+       17,
+       31
+      ],
+      "empates": 10,
+      "ate": "o jogo de 30/05/2026"
+     },
+     "maiores": [
+      "Na história recente, o Flamengo venceu por 3 a 0 duas vezes no Maracanã pelo Brasileirão, a última em 30/05/2026, com dois gols de Samuel Lino e um de Pedro."
+     ],
+     "marcantes": [
+      "30/05/2026, Brasileirão (18ª rodada): Flamengo 3 x 0 Coritiba, no Maracanã. Samuel Lino (2) e Pedro marcaram; Pedro Rocha, do Coritiba, foi expulso no 1º tempo.",
+      "20/08/2023, Brasileirão (20ª rodada): Coritiba 2 x 3 Flamengo, no Couto Pereira. O Coxa abriu 2 a 1 com Robson (pênalti) e Edu, e Gerson decidiu nos acréscimos.",
+      "Brasileirão 2022, no Couto Pereira: Coritiba 1 x 0 Flamengo, gol de Alef Manga."
+     ],
+     "curiosidades": [
+      "Antes do jogo de agosto de 2023, o Coritiba tinha vantagem nos jogos como mandante: 14 vitórias contra 10 do Flamengo, segundo o levantamento publicado pelo Terra/Lance!."
+     ],
+     "fontes": [
+      "https://www.terra.com.br/esportes/futebol/coritiba-x-flamengo-retrospecto-provaveis-escalacoes-desfalques-e-onde-assistir,cb44722bac43b0833b96618b658d11d2agzsg110.html",
+      "https://www.vavel.com/br/futebol/2026/05/30/1262279-flamengo-x-coritiba-ao-vivo-brasileirao.html",
+      "https://agenciabrasil.ebc.com.br/esportes/noticia/2023-08/com-gol-de-gerson-no-fim-flamengo-supera-coritiba-no-couto-pereira",
+      "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/flamengo-vence-coritiba-brasileirao/",
+      "https://www.terra.com.br/esportes/coritiba/coritiba-tem-vantagem-no-historico-contra-o-flamengo-no-couto-pereira,736ec753e30a6f385878e8fe02796280r98x183l.html"
+     ]
+    },
+    "atualizado": "2026-11-25T03:14:00-03:00"
+   }
   },
   {
    "id": 91000431,

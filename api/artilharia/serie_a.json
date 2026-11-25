@@ -3,7 +3,7 @@
   "jogador": "Samuel Lino",
   "time": "Flamengo",
   "time_id": 900001,
-  "gols": 10
+  "gols": 12
  },
  {
   "jogador": "Jajá",
@@ -12,15 +12,15 @@
   "gols": 9
  },
  {
-  "jogador": "Gabigol",
-  "time": "Santos",
-  "time_id": 900008,
-  "gols": 7
- },
- {
   "jogador": "Pedro",
   "time": "Flamengo",
   "time_id": 900001,
+  "gols": 8
+ },
+ {
+  "jogador": "Gabigol",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 7
  },
  {
