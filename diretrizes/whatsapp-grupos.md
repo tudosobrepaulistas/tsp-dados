@@ -20,5 +20,27 @@ Links ficam no tema, em `tsp-nova-era/inc/whatsapp-grupos.php` (`tsp_wg_grupos()
 | Red Bull Bragantino | https://chat.whatsapp.com/KjcL30DQptEKcAtC5P5nCn |
 | São Bernardo | https://chat.whatsapp.com/EHApD4em8v17QHZFSGwcs6 |
 
+
+## Série A2 2027
+
+| Clube | Link |
+|---|---|
+| Água Santa | https://chat.whatsapp.com/EQpwiaELCMtDiigvd1Gu7B |
+| Inter de Limeira | https://chat.whatsapp.com/J7gFRK3tEcsCexwjqi0H5e |
+| Ituano | https://chat.whatsapp.com/IliLM1l9jd1FFgQbgy8upS |
+| Linense | https://chat.whatsapp.com/EhaIncXylao6zFWBLVnBTx |
+| Marília | https://chat.whatsapp.com/IFUhJhZBMJcES2JvzgWsib |
+| Monte Azul | https://chat.whatsapp.com/KfQz2c8GZnT75khjpQ8WEp |
+| Osasco Sporting | https://chat.whatsapp.com/Eax82uIh0OpDgH78AyUq3W |
+| Ponte Preta | https://chat.whatsapp.com/HLIZRP91eFvCpz2d4xyIXn |
+| Portuguesa Santista | https://chat.whatsapp.com/HWO2FcishRf8PqitApu4FS |
+| Santo André | https://chat.whatsapp.com/EjKyA8UVVY10EgJJ6D3cyp |
+| São José | https://chat.whatsapp.com/EbZXwksj3yc08fSrlWzUmA |
+| Sertãozinho | https://chat.whatsapp.com/FjGDBzYnGlm0Jyvs4Y9hD4 |
+| Taubaté | https://chat.whatsapp.com/CLbyPlhtMb0GH7uomiRNeu |
+| Velo Clube | https://chat.whatsapp.com/JJnU5NIxLDKFBxzr2HdR3c |
+| Votuporanguense | https://chat.whatsapp.com/CjGPOWgfaLWF8lt9q7SfGL |
+| XV de Piracicaba | https://chat.whatsapp.com/J1mrnD2NaOiKy9X71a4XUw |
+
 Antigo grupo de notícias do Botafogo-SP (saiu do site): https://chat.whatsapp.com/E7aRdmICe4SLSGEjLa1QOV
-Próximos: A2, A3 e A4 (64 clubes no total). Logos dos grupos: pendente.
+Próximos: A3 e A4 (64 clubes no total). Logos dos grupos: pendente.
