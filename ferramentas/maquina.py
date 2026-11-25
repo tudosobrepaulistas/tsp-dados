@@ -352,7 +352,7 @@ def cmd_publicar_rascunhos(a):
         if not i.get("rascunho") or i.get("publish_at", "") < lim or i.get("rascunho_solto"):
             continue
         cl = i.get("clube", "")
-        fa = foto_de_arquivo(cl)  # 24/11: uma foto diferente para cada matéria
+        fa = foto_de_arquivo(cl, titulo=i.get("titulo", ""))  # uma foto diferente e da mesma categoria para cada matéria
         if not fa:
             print(f"- sem foto de arquivo: {cl} | {i.get('titulo', '')[:70]}")
             continue
@@ -549,7 +549,23 @@ def fotos_usadas():
         return {}
 
 
-def foto_de_arquivo(slug, marcar=True):
+def categoria_foto(titulo, slugs=()):
+    """25/11/2026 (Thiago: foto do profissional na matéria da base): 'pro', 'sub20', 'sub17'... + '-fem' quando feminino."""
+    t = _sem_acento(titulo or "")
+    sl = " ".join(slugs or [])
+    m_ = re.search(r"\bsub[\s-]?(\d{2})\b", t) or re.search(r"sub-?(\d{2})", sl)
+    if m_:
+        c = "sub" + m_.group(1)
+    elif re.search(r"copinha|copa sao paulo de futebol j", t):
+        c = "sub20"
+    else:
+        c = "pro"
+    if re.search(r"feminin|\bmeninas\b|bragantinas|sereias|brabas|guerreiras", t + " " + sl):
+        c += "-fem"
+    return c
+
+
+def foto_de_arquivo(slug, marcar=True, titulo=""):
     """24/11/2026: matéria sem foto conferida não fica mais presa como rascunho. Usa a foto de outra matéria do mesmo clube,
     com o crédito da legenda. Pula reprodução de vídeo, arte e imagem gerada.
     Correção 24/11 (Thiago: "três fotos repetidas e que não conecta com a matéria"):
@@ -565,12 +581,14 @@ def foto_de_arquivo(slug, marcar=True):
     outros = [x["nome"].lower() for x in clubes()["clubes"] if x.get("slug") != slug and len(x.get("nome", "")) > 4 and x["nome"].lower() not in nome]
     for pg in (1, 2, 3):
         try:
-            ms = baixar(f"{SITE}materia?times={tid}&per_page=30&page={pg}&_fields=id,featured_media,link,times")
+            ms = baixar(f"{SITE}materia?times={tid}&per_page=30&page={pg}&_fields=id,featured_media,link,times,author,title")
         except Exception:  # noqa: BLE001
             break
         for x in ms:
-            if not x.get("featured_media") or list(x.get("times") or []) != [tid]:
-                continue
+            if not x.get("featured_media") or list(x.get("times") or []) != [tid] or x.get("author") == 3:
+                continue  # 25/11: nunca de matéria da Máquina (evita foto de arquivo de foto de arquivo)
+            if categoria_foto(_h.unescape((x.get("title") or {}).get("rendered", "")), [slug]) != categoria_foto(titulo, [slug]):
+                continue  # 25/11: base só com foto da mesma categoria; profissional nunca com foto da base; feminino só feminino
             try:
                 md = baixar(f"{SITE}media/{x['featured_media']}?_fields=source_url,caption,alt_text,media_details,post")
             except Exception:  # noqa: BLE001
@@ -674,7 +692,7 @@ def cmd_adicionar(a):
     pend = str(it.get("foto_pendente") or "").strip()
     # 24/11/2026 (Thiago: a máquina não pode ficar parada esperando foto): sem foto conferida, foto de arquivo do clube
     if pend and not foto and not it.get("so_rascunho"):
-        fa = foto_de_arquivo(it.get("clube", ""))
+        fa = foto_de_arquivo(it.get("clube", ""), titulo=it.get("titulo", ""))
         if fa:
             fa["mostra"] = f"Foto de arquivo do {c.get('nome', '')}, usada em outra matéria do TSP ({fa['credito']})"
             it["foto"] = foto = fa
