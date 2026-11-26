@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26T14:25:00-03:00",
+ "gerado": "2026-11-26T15:35:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -738,9 +738,39 @@
      0
     ],
     [
+     900004,
+     900015,
+     1,
+     0
+    ],
+    [
      900007,
      900011,
      2,
+     1
+    ],
+    [
+     900017,
+     900018,
+     1,
+     3
+    ],
+    [
+     900008,
+     900014,
+     3,
+     1
+    ],
+    [
+     900010,
+     900016,
+     3,
+     1
+    ],
+    [
+     900013,
+     900006,
+     0,
      1
     ],
     [
@@ -6961,6 +6991,67 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/viveros-marca-no-fim-e-garante-vitoria-do-athletico-pr-sobre-o-mirassol-no-brasileiro/",
+    "https://www.gazetaesportiva.com/?p=3795387"
+   ],
+   "fixture": {
+    "id": 91000576,
+    "timestamp": 1780167600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 87,
+      "extra": null,
+      "texto": "87"
+     },
+     "team": {
+      "id": 900004,
+      "name": "Athletico-PR"
+     },
+     "player": {
+      "name": "Kevin Viveros"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://atarde.com.br/esportes/ecbahia/bahia-volta-a-vencer-com-ajuda-de-gol-contra-bizarro-do-botafogo-1390522",
     "https://www.correio24horas.com.br/esportes/com-gol-nos-acrescimos-bahia-vence-o-botafogo-de-virada-e-volta-a-triunfar-apos-oito-jogos-0526",
     "https://www.gazetaesportiva.com/?p=3795521"
@@ -7049,6 +7140,248 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/gremio-x-corinthians/832066",
+    "https://www.gazetaesportiva.com/?p=3795428",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-vira-sobre-o-gremio-e-sobe-na-tabela-do-brasileirao/"
+   ],
+   "fixture": {
+    "id": 91000575,
+    "timestamp": 1780173000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3795717",
+    "https://atarde.com.br/esportes/ecvitoria/com-um-a-mais-vitoria-perde-por-3-a-1-para-o-santos-fora-de-casa-1390532"
+   ],
+   "fixture": {
+    "id": 91000574,
+    "timestamp": 1780182000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 18,
+      "extra": null,
+      "texto": "18"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Miguelito"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 53,
+      "extra": null,
+      "texto": "53"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Barreal"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 55,
+      "extra": null,
+      "texto": "55"
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Gabigol"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 74,
+      "extra": null,
+      "texto": "74"
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Renê"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/?p=3795908",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/volpi-marca-bragantino-vence-internacional-e-complica-adversario-no-brasileiro/"
+   ],
+   "fixture": {
+    "id": 91000577,
+    "timestamp": 1780236000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 3,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-derrota-vasco-no-rio-e-termina-semestre-a-seis-pontos-do-g4-do-brasileiro/",
+    "https://www.otempo.com.br/sports/atletico/2026/5/31/atletico-consegue-feito-raro-diante-do-vasco-em-sao-januario-pelo-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000578,
+    "timestamp": 1780239600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 18"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   },
   {
    "liga": "serie_a",
@@ -23891,7 +24224,7 @@
     "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.63,
+     1.62,
      1.07
     ],
     "base": [
@@ -24013,7 +24346,7 @@
     "fora": 27,
     "placar": "1x1",
     "gols_esperados": [
-     1.73,
+     1.72,
      1.23
     ],
     "base": [
@@ -24095,7 +24428,55 @@
       "https://www.terra.com.br/esportes/coritiba/coritiba-tem-vantagem-no-historico-contra-o-flamengo-no-couto-pereira,736ec753e30a6f385878e8fe02796280r98x183l.html"
      ]
     },
-    "atualizado": "2026-11-25T03:14:00-03:00"
+    "atualizado": "2026-11-26T15:35:00-03:00",
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "TV Globo",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/x/832258",
+      "https://maquinadoesporte.com.br/onde-assistir/coritiba-x-flamengo-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Coritiba e Flamengo se enfrentam no domingo (29/11), às 16h, no Couto Pereira, em Curitiba, pela 37ª e penúltima rodada do Brasileirão. O Flamengo já é campeão brasileiro de 2026, segundo a CBF: pela Base TSP, lidera com 80 pontos em 36 jogos, seis a mais que o Palmeiras. O Coritiba é o 12º, com 45 pontos, já não corre risco de rebaixamento, segundo a Banda B, e briga por uma vaga na Sul-Americana de 2027.",
+     "O Coritiba vem de vitória por 1x0 sobre o Bahia, em Salvador, no sábado (21/11), gol de Breno Lopes. Nos cinco jogos mais recentes registrados pelo TSP (de 26/10 a 21/11), venceu dois e perdeu três. Em casa, ganhou um dos cinco últimos jogos registrados na base. O técnico interino Guila Bossle recupera o zagueiro Jacy Maranhão e o volante Nicolas Fonseca, que cumpriram suspensão, segundo a Itatiaia. Será o último jogo do Coxa no Couto Pereira em 2026.",
+     "O Flamengo de Leonardo Jardim não perdeu nenhum dos cinco jogos mais recentes registrados pelo TSP (de 26/10 a 21/11): quatro vitórias e o empate por 1x1 com o Palmeiras que confirmou o título. Como visitante, também está invicto nos cinco últimos jogos da base, com três vitórias e dois empates. Pulgar e Léo Pereira voltam de suspensão, e De la Cruz, preservado no gramado sintético do Allianz Parque, também retorna, segundo o Lance!. O jornal lembra que o time ainda persegue recordes: pode chegar a 86 pontos, e Pedro, com 20 gols, está a um de Kevin Viveros, do Athletico-PR, na artilharia.",
+     "Depois do título, Jardim falou da última meta no campeonato: \"É o que falta para nós, vamos tentar ajudar o Pedro\", segundo o Terra. No Coritiba, o volante Tinga disse à Banda B que o time tem \"total condição de vencer o Flamengo e sonhar com a Sul-Americana\".",
+     "O jogo terá transmissão da TV Globo e do Premiere, segundo a CBF e a Máquina do Esporte."
+    ],
+    "retrospecto": "Até o jogo do primeiro turno de 2026, Coritiba e Flamengo tinham se enfrentado 58 vezes, com 31 vitórias do Flamengo, 17 do Coritiba e 10 empates. Em 30/05/2026, no Maracanã, o Flamengo venceu por 3 a 0, com dois gols de Samuel Lino e um de Pedro. No Couto Pereira, o Coritiba levava vantagem como mandante antes de 2023, segundo o levantamento publicado pelo Terra: 14 vitórias contra 10 do Flamengo.",
+    "estadio_wiki": "Estádio Major Antônio Couto Pereira",
+    "arbitragem": {
+     "arbitro": "Fernando Antonio Mendes de Salles Nascimento Filho (PA), com as assistentes Fernanda Nandrea Gomes Antunes (MG) e Daniella Coutinho Pinto (BA); quarta árbitra Andreza Helena de Siqueira (MG)",
+     "var": "Diego Pombo Lopez (BA), com Andre da Silva Bitencourt (RS) e Andressa Hartmann (RS) no AVAR",
+     "fontes": [
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/x/832258",
+      "https://diariodopara.com.br/bola/arbitro-do-para-vai-comandar-jogo-do-flamengo-apos-titulo-brasileiro/"
+     ]
+    },
+    "ingressos": {
+     "texto": "Torcida do Flamengo: setor visitante pelo Portão 13 (Rua Floriano Essenfelder), com inteira a R$ 250 e meia a R$ 125, em ingressos.flamengo.com.br; venda online até as 10h do dia do jogo, com cadastro de biometria facial obrigatório. Menores de 12 anos não pagam, com documento com foto. Setores e preços da torcida do Coritiba: em atualização.",
+     "fontes": [
+      "https://www.flamengo.com.br/noticias/ingressos/coritiba-x-flamengo-informacoes-sobre-ingressos-para-a-partida-pelo-brasileirao"
+     ]
+    },
+    "fontes": [
+     "https://www.cbf.com.br/futebol-brasileiro/noticias/campeonato-brasileiro-serie-a/a/flamengo-conquista-brasileirao-2026",
+     "https://www.bandab.com.br/esporte/times/coritiba/coritiba-livre-rebaixamento-brasileirao-contas/",
+     "https://www.bandab.com.br/esporte/times/coritiba/coritiba-foca-confronto-com-campeao-brasileiro-flamengo/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-do-sul/coritiba/coritiba-ganha-dois-reforcos-para-o-duelo-com-o-flamengo-pelo-brasileirao/",
+     "https://www.lance.com.br/flamengo/em-busca-de-recordes-flamengo-tera-tres-reforcos-para-enfrentar-o-coritiba.html",
+     "https://terra.com.br/esportes/flamengo/leonardo-jardim-revela-ultima-missao-do-flamengo-no-campeonato-brasileiro,788dfa3e3fac419e3de6e59d83eb1409w0qfj18r.html",
+     "https://www.umdoisesportes.com.br/coritiba/bahia-coritiba-brasileirao-ficha-tecnica-resultado/"
+    ]
    },
    "escalacoes": {},
    "previsao": {
@@ -24152,20 +24533,107 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "TV Globo",
+       "tipo": "TV aberta"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      },
+      {
+       "nome": "GeTV",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/vitoria-x-santos-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Vitória e Santos se enfrentam no domingo (29/11), às 16h, no Barradão, em Salvador, pela 37ª e penúltima rodada do Brasileirão. Pela Base TSP, o Vitória é o 13º colocado, com 44 pontos em 36 jogos, e já está livre do rebaixamento: a permanência foi garantida com o empate entre Atlético-MG e Corinthians na quarta-feira (25/11), segundo o Correio. Agora o Leão mira uma vaga na Sul-Americana de 2027. O Santos é o 9º, com 50 pontos, quatro a menos que o Bahia, 6º colocado, e ainda briga por vaga na Libertadores.",
+     "Nos cinco jogos mais recentes do Vitória registrados pelo TSP (de 24/10 a 23/11), foram duas vitórias, um empate e duas derrotas. As vitórias vieram com o técnico Rafael Lacerda, que substituiu Jair Ventura: 2x1 no Red Bull Bragantino, no Barradão, e 5x2 no Internacional, no Beira-Rio. Para domingo, o time não terá o volante Emmanuel Martínez nem o próprio Lacerda, ambos suspensos pelo terceiro cartão amarelo; o auxiliar João Antônio Santos comanda a equipe, segundo o Bahia Notícias.",
+     "O Santos chega de derrota por 2x0 para o Grêmio, no Morumbis, na segunda-feira (23/11). Nos cinco jogos mais recentes registrados pelo TSP, o time de Cuca venceu um, empatou dois e perdeu dois. Longe de casa, o retrospecto é melhor: nos cinco últimos jogos como visitante na base, foram três vitórias, sobre Remo, Fluminense e Coritiba. Segundo a Gazeta Esportiva, o Peixe fez 21 dos 29 pontos do returno fora de casa. O goleiro Gabriel Brazão e o meia Barreal estão fora; Lucas Veríssimo e Vinícius Lira são dúvidas, e Gustavo Henrique volta de suspensão.",
+     "Lacerda evitou falar em Sul-Americana: \"Eu penso só no Santos. O que vier vai ser consequência\", disse ao Bahia Notícias. Do lado santista, Cuca, depois da derrota para o Grêmio, falou em \"ganhar os dois jogos que faltam\" e lembrou que \"o campeonato guarda muitas surpresas\", segundo a Gazeta Esportiva.",
+     "O jogo terá transmissão da TV Globo, do Premiere e da GeTV, segundo a Máquina do Esporte."
+    ],
+    "retrospecto": "Antes do jogo do primeiro turno de 2026, o Correio contava 41 jogos entre Vitória e Santos em todas as competições: 22 vitórias do Santos, 8 empates e 11 do Vitória. Em 30/05/2026, na Vila Belmiro, o Santos venceu por 3 a 1, com gols de Miguelito, Barreal e Gabigol; Renê descontou. No Barradão, o Vitória não vence o Santos desde 17/11/2013, quando ganhou por 2 a 0, com gols de Dinei e Maxi Biancucchi, segundo a Gazeta Esportiva.",
+    "estadio_wiki": "Estádio Manoel Barradas",
+    "confronto": {
+     "times": [
+      "Vitória",
+      "Santos"
+     ],
+     "ultimo": "Santos 3 x 1 Vitória, 30/05/2026, Brasileirão (18ª rodada), na Vila Belmiro. Gols de Miguelito, Barreal e Gabigol; Renê descontou. Gabigol foi expulso após revisão do VAR.",
+     "maiores": [
+      "Maior vitória do Santos no Brasileirão: 5 x 2, em 2018, na Vila Belmiro, jogo em que Rodrygo fez o primeiro hat-trick da carreira (Lance! e A Tarde).",
+      "Maior vitória do Vitória no Brasileirão: 6 x 2, em 2009, em Salvador (Lance!)."
+     ],
+     "marcantes": [
+      "20/10/2025, Brasileirão (29ª rodada): Santos 0 x 1 Vitória, na Vila Belmiro, gol de Matheuzinho, de pênalti. Foi a primeira vitória do Vitória sobre o Santos fora de casa.",
+      "17/11/2013, Brasileirão (35ª rodada): Vitória 2 x 0 Santos, no Barradão, gols de Dinei e Maxi Biancucchi, a última vitória do Vitória sobre o Santos em Salvador.",
+      "08/10/1988, Brasileirão: Santos 1 x 1 Vitória, e o Vitória venceu nos pênaltis por 4 a 2, como previa o regulamento da 1ª fase."
+     ],
+     "decisoes": [
+      "Final da Copa do Brasil de 2010: Santos 2 x 0 Vitória e Vitória 2 x 1 Santos. Pelo saldo, o título ficou com o Santos (A Tarde)."
+     ],
+     "curiosidades": [
+      "Antes de 30/05/2026, eram 41 jogos em todas as competições: 22 vitórias do Santos, 8 empates e 11 do Vitória (Correio). Como visitante diante do Santos, o Vitória tinha 21 jogos, com 1 vitória, 6 empates e 14 derrotas.",
+      "Só no Brasileirão, até maio de 2025, eram 37 jogos: 20 vitórias do Santos, 8 empates e 9 do Vitória, com 63 gols santistas e 46 do Vitória (Lance!)."
+     ],
+     "fontes": [
+      "https://www.correio24horas.com.br/esportes/com-temporada-passada-de-exemplo-vitoria-enfrenta-santos-em-busca-de-primeiro-triunfo-fora-de-casa-0526",
+      "https://www.lance.com.br/lancepedia/santos-x-vitoria-no-brasileirao-retrospecto.html",
+      "https://atarde.com.br/esportes/jogo-da-vida-entre-vitoria-e-santos-reune-tabu-mais-cruel-da-serie-a-1365199",
+      "https://atarde.com.br/esportes/vitoria-tenta-exorcizar-o-santos-apos-vice-na-copa-do-brasil-e-rebaixamento-1328687",
+      "https://www.gazetaesportiva.com/times/santos/santos-defende-invencibilidade-de-quase-12-anos-contra-o-vitoria/",
+      "https://www.bahianoticias.com.br/esportes/vitoria/30179-matheuzinho-decide-e-vitoria-vence-o-santos-fora-de-casa-pela-primeira-vez-na-historia",
+      "https://www.gazetaesportiva.com/?p=3795717",
+      "https://atarde.com.br/esportes/ecvitoria/com-um-a-mais-vitoria-perde-por-3-a-1-para-o-santos-fora-de-casa-1390532"
+     ]
+    },
+    "arbitragem": {
+     "arbitro": "Wilton Pereira Sampaio (GO), com o assistente Leone Carvalho Rocha (GO)",
+     "var": "Heber Roberto Lopes (SC)",
+     "fontes": [
+      "https://www.bahianoticias.com.br/esportes/vitoria/31845-wilton-pereira-apita-vitoria-x-santos-no-barradao-veja-arbitragem-completa",
+      "https://bahia.ba/esporte/vitoria-x-santos-arbitro-de-copa-de-mundo-e-escalado-para-jogo/"
+     ]
+    },
+    "ingressos": {
+     "texto": "Venda para o público geral pela internet a partir de 0h de sexta-feira (27/11) e, a partir das 9h do mesmo dia, nas lojas do Vitória no Shopping Paralela, no Capemi e no Barradão. Sócios fizeram check-in de terça (24/11) a quinta (26/11), por prioridade; o clube já contava 20 mil check-ins. Se os ingressos esgotarem, sócio sem check-in não entra. Preços: em atualização.",
+     "fontes": [
+      "https://www.bahianoticias.com.br/esportes/vitoria/31839-vitoria-anuncia-20-mil-check-ins-para-duelo-contra-o-santos-veja-como-comprar-ingressos",
+      "https://x.com/ECVitoria/status/2125031860409417963"
+     ]
+    },
+    "fontes": [
+     "https://www.correio24horas.com.br/esportes/vitoria-se-salva-do-rebaixamento-garante-4-serie-a-seguida-e-bate-recorde-1126",
+     "https://www.bahianoticias.com.br/esportes/vitoria/31835-vitoria-volta-a-ter-tecnico-com-duas-vitorias-nas-primeiras-partidas-apos-7-anos",
+     "https://www.bahianoticias.com.br/esportes/vitoria/31832-vitoria-tera-desfalques-de-martinez-e-rafael-lacerda-contra-o-santos",
+     "https://www.bahianoticias.com.br/esportes/vitoria/31828-lacerda-prega-cautela-apos-goleada-e-mantem-foco-no-santos-nao-conquistamos-nada-ainda",
+     "https://gazetaesportiva.com/times/santos/santos-desempenho-mandante-returno-brasileirao",
+     "https://www.gazetaesportiva.com/times/santos/santos-reapresentacao-exames-lucas-verissimo-vinicius-lira/",
+     "https://www.gazetaesportiva.com/times/santos/cuca-critica-arbitragem-santos-gremio-libertadores/"
+    ],
+    "atualizado": "2026-11-26T15:35:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
-    "casa": 40,
+    "casa": 37,
     "empate": 24,
-    "fora": 36,
+    "fora": 39,
     "placar": "1x1",
     "gols_esperados": [
-     1.56,
-     1.46
+     1.54,
+     1.57
     ],
     "base": [
-     23,
-     33
+     24,
+     34
     ]
    },
    "events": []
@@ -24208,20 +24676,109 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Amazon Prime Video",
+       "tipo": "streaming"
+      }
+     ],
+     "fontes": [
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/corinthians-x-gremio/832254",
+      "https://maquinadoesporte.com.br/onde-assistir/corinthians-x-gremio-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Corinthians e Grêmio fazem um confronto direto contra o rebaixamento no domingo (29/11), às 18h30, na Neo Química Arena, pela 37ª e penúltima rodada do Brasileirão. Pela Base TSP, os dois têm 41 pontos em 36 jogos: o Corinthians é o 15º e o Grêmio, o 16º, pelo saldo de gols (-2 contra -7). O Mirassol, 17º e primeiro time da zona, também tem 41, e o Internacional, 18º, soma 38. Segundo o Lance!, uma vitória e um empate nas duas rodadas finais garantem o Corinthians na Série A independentemente dos outros resultados.",
+     "O Corinthians vem de empate por 1x1 com o Atlético-MG, na Arena MRV, na quarta-feira (25/11): Kaio César abriu o placar e Cuello empatou nos acréscimos. Nos cinco jogos mais recentes registrados pelo TSP (de 24/10 a 25/11), foram duas vitórias, dois empates e uma derrota, sem sofrer gol em três deles. Para domingo, o técnico Clarence Seedorf recupera o atacante Yuri Alberto, que cumpriu dois jogos de suspensão do STJD, segundo o Diário do Grande ABC. Labyad e Kayke seguem no departamento médico, segundo O Tempo.",
+     "O Grêmio de Renato Portaluppi chega embalado: venceu três dos cinco jogos mais recentes registrados pelo TSP, o último por 2x0 sobre o Santos, no Morumbis, na segunda-feira (23/11), com gols de Amuzu e Braithwaite, de pênalti. O resultado tirou o time da zona de rebaixamento. O volante Noriega está suspenso pelo terceiro amarelo, e o lateral João Pedro e o atacante Enamorado voltam de suspensão, segundo o Terra.",
+     "Depois do empate em Belo Horizonte, Seedorf valorizou o ponto: \"Com cabeça fria, nós sabemos que somamos um ponto fundamental para alcançar nosso objetivo\", disse, segundo a CNN Brasil. Na última rodada, quarta-feira (02/12), o Corinthians visita o Remo, já rebaixado, e o Grêmio recebe o Mirassol.",
+     "O jogo terá transmissão exclusiva do Amazon Prime Video, sem TV aberta nem fechada, segundo a CBF e a Máquina do Esporte. O árbitro é Davi de Oliveira Lacerda (ES), com Pablo Ramon Gonçalves Pinheiro (RN) no VAR."
+    ],
+    "retrospecto": "Os levantamentos publicados sobre o total de jogos entre Corinthians e Grêmio não batem, por isso o TSP ainda não crava o número geral. Nos mata-matas, o Grêmio levou a melhor em 7 dos 10 confrontos até 2024, segundo a Placar, mas o Corinthians eliminou o rival nas oitavas da Copa do Brasil daquele ano, nos pênaltis. No primeiro turno de 2026, em 30/05, o Corinthians virou na Arena do Grêmio: 3 a 1, com dois gols de André e um de Kaio César; Gabriel Mec abriu o placar.",
+    "estadio_wiki": "Neo Química Arena",
+    "confronto": {
+     "times": [
+      "Corinthians",
+      "Grêmio"
+     ],
+     "ultimo": "Grêmio 1 x 3 Corinthians, 30/05/2026, Brasileirão (18ª rodada), na Arena do Grêmio. Gabriel Mec abriu o placar; André (2) e Kaio César viraram. O goleiro Thiago Beltrame, do Grêmio, foi expulso no 2º tempo.",
+     "recortes": [
+      {
+       "nome": "Na Neo Química Arena (até julho de 2024, Lance!)",
+       "jogos": 10,
+       "vitorias": [
+        1,
+        1
+       ],
+       "empates": 8
+      }
+     ],
+     "maiores": [
+      "Maior vitória do Grêmio no Brasileirão: 5 x 1, em 1996 (Lance!).",
+      "Maior vitória do Corinthians no Brasileirão: 4 x 1, em 2010 (Lance!)."
+     ],
+     "marcantes": [
+      "18/09/2023, Brasileirão: Corinthians 4 x 4 Grêmio, com gols corintianos de Fábio Santos (pênalti), Lucas Veríssimo, Yuri Alberto e Giuliano.",
+      "23/11/2014, Brasileirão: Corinthians 1 x 0 Grêmio, na Neo Química Arena, gol de Paolo Guerrero."
+     ],
+     "decisoes": [
+      "Final da Copa do Brasil de 1995: Corinthians 2 x 1 Grêmio e Grêmio 0 x 1 Corinthians. Título do Corinthians.",
+      "Final da Copa do Brasil de 2001: Grêmio 2 x 2 Corinthians e Corinthians 1 x 3 Grêmio. Título do Grêmio, com Tite como técnico.",
+      "Quartas da Libertadores de 1996: Corinthians 0 x 3 Grêmio e Grêmio 0 x 1 Corinthians. O Grêmio avançou.",
+      "Oitavas da Copa do Brasil de 2024: o Corinthians eliminou o Grêmio nos pênaltis."
+     ],
+     "curiosidades": [
+      "Até 2024, foram 10 confrontos de mata-mata entre os dois, com 7 classificações do Grêmio e 3 do Corinthians, segundo a Placar. Depois disso, o Corinthians eliminou o Grêmio na Copa do Brasil de 2024.",
+      "Só no Brasileirão, até junho de 2025, o Lance! contava 71 jogos: 28 vitórias do Grêmio, 23 do Corinthians e 20 empates."
+     ],
+     "fontes": [
+      "https://placar.com.br/coluna/blog-do-rodolfo-rodrigues/corinthians-e-fregues-do-gremio-em-mata-matas",
+      "https://www.lance.com.br/lancepedia/corinthians-x-gremio-no-brasileirao-retrospecto.html",
+      "https://www.lance.com.br/gremio/como-e-o-retrospecto-do-gremio-na-neo-quimica-arena-onde-enfrenta-o-corinthians-pela-copa-do-brasil.html",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/corinthians-defende-tabu-historico-contra-o-gremio-veja-retrospecto/",
+      "https://www.gazetaesportiva.com/?p=3795428",
+      "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-vira-sobre-o-gremio-e-sobe-na-tabela-do-brasileirao/"
+     ]
+    },
+    "arbitragem": {
+     "arbitro": "Davi de Oliveira Lacerda (ES), com os assistentes Bruno Raphael Pires (GO) e Alex dos Santos (SC); quarto árbitro Paulo Henrique Schleich Vollkopf (MS)",
+     "var": "Pablo Ramon Gonçalves Pinheiro (RN), com Helen Aparecida Gonçalves Silva Araujo (MG) e Raphael Garcia de Andrade (ES) no AVAR",
+     "fontes": [
+      "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/corinthians-x-gremio/832254"
+     ]
+    },
+    "ingressos": {
+     "texto": "Venda só pela internet, em fieltorcedor.com.br, sem bilheteria física. Sócios do Fiel Torcedor compraram em lotes na quarta (25/11) e quinta (26/11); o público geral, a partir das 15h de quinta, se houver sobra. Preços cheios de R$ 80 (Norte, Sul e Leste Superior Corner) a R$ 270 (Oeste Inferior Central), com descontos de 26% a 50% para sócios. Biometria facial obrigatória e um ingresso por CPF.",
+     "fontes": [
+      "https://www.neoquimicaarena.com.br/noticias/ingressos-corinthians-x-gremio-29-11-brasileirao-2026-arena"
+     ]
+    },
+    "fontes": [
+     "https://www.lance.com.br/corinthians/drama-na-reta-final-veja-o-que-o-corinthians-precisa-para-nao-cair.html",
+     "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-empate-atletico-mg-deixa-z4-brasileirao/",
+     "https://www.dgabc.com.br/Noticia/4367700/yuri-alberto-e-suspenso-por-dois-jogos-e-volta-ao-corinthians-na-penultima-rodada-do-brasileiro",
+     "https://www.otempo.com.br/sports/futebol-nacional/corinthians/2026/11/19/corinthians-tem-desfalque-confirmado-para-enfrentar-o-atletico-mg",
+     "https://www.terra.com.br/esportes/gremio/gremio-tem-desfalque-certo-para-confronto-direto-contra-o-corinthians,b213836a779bdf98742e665f5e2831efbvcqd7kc.html",
+     "https://www.cnnbrasil.com.br/esportes/brasileirao/seedorf-valoriza-resultado-do-corinthians-fora-de-casa-ponto-fundamental/",
+     "https://www.lance.com.br/futebol-nacional/gremio-vence-o-santos-e-sai-do-z-4.html"
+    ],
+    "atualizado": "2026-11-26T15:35:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
-    "casa": 36,
-    "empate": 28,
-    "fora": 36,
+    "casa": 40,
+    "empate": 27,
+    "fora": 33,
     "placar": "1x1",
     "gols_esperados": [
-     1.18,
-     1.2
+     1.33,
+     1.18
     ],
     "base": [
-     28,
-     27
+     29,
+     28
     ]
    },
    "events": []
@@ -24264,20 +24821,91 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/mirassol-x-athletico-pr-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/"
+     ]
+    },
+    "analise": [
+     "Mirassol e Athletico-PR se enfrentam no domingo (29/11), às 18h30, no Maião, em Mirassol, pela 37ª e penúltima rodada do Brasileirão. Pela Base TSP, o Mirassol é o 17º colocado, com 41 pontos em 36 jogos, e abre a zona de rebaixamento: tem os mesmos pontos de Corinthians e Grêmio, que se enfrentam na rodada, mas perde no saldo de gols. Segundo a CNN Brasil, duas vitórias, ou uma vitória e um empate, garantem o time na Série A. O Athletico é o 5º, com 57 pontos, e depende só de si para ir à Libertadores de 2027, segundo a Banda B.",
+     "O Mirassol vem de derrota por 1x0 para o Fluminense, no Maracanã, no domingo (22/11). Nos cinco jogos mais recentes registrados pelo TSP (de 24/10 a 22/11), venceu um, empatou dois e perdeu dois. Em casa, porém, não perdeu nenhum dos cinco últimos jogos registrados na base: venceu Botafogo e Internacional por 2x0 e empatou com Vitória, São Paulo e Atlético-MG. O técnico Rafael Guanaes recupera o volante Neto Moura e o atacante Edson Carioca, que cumpriram suspensão, segundo o Terra.",
+     "O Athletico de Odair Hellmann encerrou uma sequência ruim com o 4x2 sobre o Remo, na Arena da Baixada, no domingo (22/11). Antes disso, nos registros do TSP, tinha perdido três jogos seguidos. Como visitante, ganhou um dos cinco últimos jogos registrados na base (4x1 na Chapecoense). Para domingo, o time não terá o atacante Kevin Viveros, artilheiro do Brasileirão com 21 gols, que está suspenso, segundo o Lance!.",
+     "Será apenas o segundo encontro entre os clubes na história e o primeiro em Mirassol. O jogo terá transmissão exclusiva do Premiere, segundo a Máquina do Esporte, e o Mirassol vende ingressos a R$ 20 para todos os seus torcedores, segundo o Jornal Opinião."
+    ],
+    "retrospecto": "Mirassol e Athletico-PR só se enfrentaram uma vez: em 30/05/2026, pela 18ª rodada, na Arena da Baixada, o Athletico venceu por 1 a 0, com gol de Kevin Viveros no fim do segundo tempo. Antes disso, os clubes nunca tinham se encontrado, segundo a BandNews FM Curitiba e o Um Dois Esportes: quando o Mirassol estreou na Série A, em 2025, o Athletico estava na Série B.",
+    "estadio_wiki": "Estádio José Maria de Campos Maia",
+    "confronto": {
+     "times": [
+      "Mirassol",
+      "Athletico-PR"
+     ],
+     "total": {
+      "jogos": 1,
+      "vitorias": [
+       0,
+       1
+      ],
+      "empates": 0,
+      "gols": [
+       0,
+       1
+      ],
+      "ate": "novembro de 2026"
+     },
+     "primeiro": "Athletico-PR 1 x 0 Mirassol, 30/05/2026, Brasileirão (18ª rodada), na Arena da Baixada, em Curitiba. Gol de Kevin Viveros no fim do 2º tempo.",
+     "ultimo": "Athletico-PR 1 x 0 Mirassol, 30/05/2026, Brasileirão (18ª rodada), na Arena da Baixada.",
+     "marcantes": [
+      "30/05/2026, Brasileirão: Athletico-PR 1 x 0 Mirassol, primeiro jogo da história entre os dois. Viveros marcou após passe de Leozinho, quase no fim."
+     ],
+     "curiosidades": [
+      "O jogo de domingo (29/11) é o primeiro entre os dois clubes em Mirassol.",
+      "Os clubes nunca tinham se enfrentado antes de 2026 porque o Mirassol subiu à Série A pela primeira vez em 2025, ano em que o Athletico disputava a Série B (BandNews FM Curitiba)."
+     ],
+     "fontes": [
+      "https://bandnewsfmcuritiba.com/furacao-recebe-o-mirassol-em-confronto-inedito-neste-sabado-30/",
+      "https://www.umdoisesportes.com.br/athletico/athletico-mirassol-escalacoes-onde-assistir-ao-vivo/",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/viveros-marca-no-fim-e-garante-vitoria-do-athletico-pr-sobre-o-mirassol-no-brasileiro/",
+      "https://www.gazetaesportiva.com/?p=3795387",
+      "https://jornaldebrasilia.com.br/torcida/com-gol-no-fim-athletico-pr-vence-mirassol-por-1-a-0-e-se-mantem-no-g4/"
+     ]
+    },
+    "ingressos": {
+     "texto": "O Mirassol vende ingressos a R$ 20 nos setores da sua torcida, pela internet, e desta vez a promoção vale para todos os torcedores (antes era só para quem tinha passaporte). Venda online pela Ingresso SA, com limite de 1 ingresso por CPF e identificação facial; crianças a partir de 2 anos pagam; meia-entrada para estudantes com CIE e maiores de 60 anos. É proibida camisa de outros clubes nos setores da torcida do Mirassol. Setor e preço da torcida do Athletico: em atualização.",
+     "fontes": [
+      "https://jornalopiniao.net/mirassol-anuncia-promocao-com-ingressos-a-r-20-para-jogo-contra-o-athletico/",
+      "https://www.ingressosa.com/29-11-mirassol-fc-x-athletico-pr-brasileiro-serie-a-2026"
+     ]
+    },
+    "fontes": [
+     "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-pode-escapar-do-rebaixamento-mesmo-com-duas-derrotas-veja-cenario/",
+     "https://bandab.com.br/esporte/times/athletico/quem-diria-leozinho-ganha-espaco-athletico-libertadores-2027",
+     "https://www.terra.com.br/esportes/mirassol/treino-do-mirassol-elenco-retorna-com-atividades-internas,5c01f39b5c07f162ab90917fe62ecec13k6pxsjs.html",
+     "https://www.lance.com.br/flamengo/em-busca-de-recordes-flamengo-tera-tres-reforcos-para-enfrentar-o-coritiba.html",
+     "https://maquinadoesporte.com.br/onde-assistir/mirassol-x-athletico-pr-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/",
+     "https://jornalopiniao.net/mirassol-anuncia-promocao-com-ingressos-a-r-20-para-jogo-contra-o-athletico/"
+    ],
+    "atualizado": "2026-11-26T15:35:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
-    "casa": 45,
-    "empate": 25,
-    "fora": 30,
+    "casa": 43,
+    "empate": 26,
+    "fora": 32,
     "placar": "1x1",
     "gols_esperados": [
-     1.55,
-     1.23
+     1.46,
+     1.21
     ],
     "base": [
-     33,
-     34
+     34,
+     35
     ]
    },
    "events": []
@@ -24320,20 +24948,76 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/internacional-x-red-bull-bragantino-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/",
+      "https://jornalopiniao.net/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-37a-rodada/"
+     ]
+    },
+    "analise": [
+     "Internacional e Red Bull Bragantino se enfrentam no domingo (29/11), às 18h30, no Beira-Rio, em Porto Alegre, pela 37ª e penúltima rodada do Brasileirão. Pela Base TSP, o Inter é o 18º colocado, com 38 pontos em 36 jogos, três a menos que Corinthians, Grêmio e Mirassol, e precisa vencer para seguir vivo na luta contra o rebaixamento. O Bragantino é o 8º, com 50 pontos, e briga por uma vaga na pré-Libertadores de 2027.",
+     "O Inter vem de uma goleada sofrida em casa: 5x2 para o Vitória, na segunda-feira (23/11). Nos cinco jogos mais recentes registrados pelo TSP (de 24/10 a 23/11), venceu dois e perdeu três. No Beira-Rio, ganhou três dos cinco últimos jogos registrados na base. O técnico Eduardo Baptista, mantido no cargo para as duas rodadas finais, não terá o atacante Alerrandro, suspenso pelo terceiro amarelo, e recupera Alan Patrick, segundo o site do clube. Mercado e Calebe são dúvidas, segundo o Terra.",
+     "O Bragantino chega de vitória por 1x0 sobre o Vasco, em Bragança Paulista, no domingo (22/11), gol de Eduardo Sasha. Venceu três dos cinco jogos mais recentes registrados pelo TSP, todos em casa. Fora, o retrospecto pesa contra: nos cinco últimos jogos como visitante na base, foram dois empates e três derrotas. Vagner Mancini recupera Matheus Fernandes e Fernando, que cumpriram suspensão, e perde Wallace Yan, suspenso, segundo a VAVEL.",
+     "Depois da goleada para o Vitória, Baptista pediu desculpas à torcida e garantiu que \"ninguém vai jogar a toalha\", segundo o Terra. Mancini, depois da vitória sobre o Vasco, disse à VAVEL que, \"enquanto a gente tiver esse objetivo, nós temos o direito de brigar por ele\", sobre a vaga na Libertadores.",
+     "O jogo terá transmissão exclusiva do Premiere, segundo a Máquina do Esporte e o Jornal Opinião."
+    ],
+    "retrospecto": "Segundo o jornal O Sul, até agosto de 2025 Inter e Bragantino tinham se enfrentado 19 vezes, todas pela Série A, com 7 vitórias do Inter, 9 empates e 3 do Bragantino; no Beira-Rio, eram 11 jogos, com 5 vitórias coloradas, 5 empates e 1 derrota. No primeiro turno de 2026, em 31/05, o Bragantino venceu por 3 a 1 em Bragança Paulista, com gols de Fernando, Juninho Capixaba e Tiago Volpi, de pênalti; Aguirre descontou.",
+    "estadio_wiki": "Estádio Beira-Rio",
+    "confronto": {
+     "times": [
+      "Internacional",
+      "Red Bull Bragantino"
+     ],
+     "ultimo": "Red Bull Bragantino 3 x 1 Internacional, 31/05/2026, Brasileirão (18ª rodada), no Cícero de Souza Marques, em Bragança Paulista. Gols de Fernando, Juninho Capixaba e Tiago Volpi (pênalti); Aguirre descontou.",
+     "marcantes": [
+      "31/05/2026, Brasileirão: Red Bull Bragantino 3 x 1 Internacional, com gol de falta de Juninho Capixaba nos acréscimos do 1º tempo e pênalti cobrado pelo goleiro Tiago Volpi."
+     ],
+     "curiosidades": [
+      "Até agosto de 2025, eram 19 jogos, todos pela Série A: 7 vitórias do Inter, 9 empates e 3 do Bragantino; no Beira-Rio, 11 jogos, com 5 vitórias do Inter, 5 empates e 1 derrota (O Sul).",
+      "Segundo O Sul, até agosto de 2025 o Bragantino nunca tinha vencido o Inter duas vezes seguidas."
+     ],
+     "fontes": [
+      "https://www.osul.com.br/inter-visita-o-bragantino-em-busca-de-recuperacao-no-brasileirao/",
+      "https://www.gazetaesportiva.com/?p=3795908",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/volpi-marca-bragantino-vence-internacional-e-complica-adversario-no-brasileiro/"
+     ]
+    },
+    "ingressos": {
+     "texto": "Segundo o Inter, a venda é pelo Mundo Colorado (mundocolorado.com.br), inclusive para visitantes e meia-entrada, e pelo Coração do Gigante no setor próprio. Biometria facial obrigatória para todas as idades. Crianças de 5 a 11 anos não sócias precisam de ingresso gratuito no Mundo Colorado; até 4 anos entram no colo. Portões abrem às 16h30. Visitantes entram pelo portão da Rua Nestor Ludwig. Preços: em atualização.",
+     "fontes": [
+      "https://internacional.com.br/noticias/masculino/servico-de-jogo-internacional-x-rb-bragantino-37-rodada-brasileirao-2026"
+     ]
+    },
+    "fontes": [
+     "https://internacional.com.br/noticias/masculino/preparacao-intensificada-para-confronto-no-gigante",
+     "https://www.terra.com.br/esportes/internacional/internacional-perde-atacante-e-tem-duvidas-contra-o-bragantino,82352affe1eb76e05f1a815ca037bc94zw289a52.html",
+     "https://www.terra.com.br/esportes/internacional/eduardo-baptista-pede-desculpa-no-internacional-pecamos-na-execucao,77f8ce2a92a65ccb3f1d210c0d732df6aam8pbya.html",
+     "https://www.vavel.com/br/futebol/2026/11/24/bragantino/1280561-bragantino-tera-reforcos-importantes-contra-o-internacional-pelo-brasileirao.html",
+     "https://www.vavel.com/br/futebol/2026/11/23/bragantino/1280455-mancini-exalta-raca-do-bragantino-e-ve-luta-por-libertadores.html",
+     "https://www.gazetaesportiva.com/times/vasco/vasco-perde-para-o-bragantino-e-ve-vaga-na-libertadores-ficar-distante-no-brasileirao/"
+    ],
+    "atualizado": "2026-11-26T15:35:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
+    "casa": 43,
     "empate": 24,
-    "fora": 31,
+    "fora": 34,
     "placar": "1x1",
     "gols_esperados": [
-     1.69,
-     1.35
+     1.66,
+     1.45
     ],
     "base": [
-     36,
-     22
+     37,
+     23
     ]
    },
    "events": []
@@ -24376,20 +25060,111 @@
     "away": null
    },
    "penaltis": "",
-   "prejogo": {},
+   "prejogo": {
+    "onde_assistir": {
+     "canais": [
+      {
+       "nome": "SporTV",
+       "tipo": "TV fechada"
+      },
+      {
+       "nome": "Premiere",
+       "tipo": "pay-per-view"
+      }
+     ],
+     "fontes": [
+      "https://maquinadoesporte.com.br/onde-assistir/atletico-mg-x-vasco-onde-assistir-ao-jogo-da-37a-rodada-do-brasileirao/",
+      "https://exame.com/esporte/brasileirao-2026-cbf-divulga-datas-e-horarios-das-duas-ultimas-rodadas-veja-os-jogos/"
+     ]
+    },
+    "analise": [
+     "Atlético-MG e Vasco se enfrentam no domingo (29/11), às 19h30, na Arena MRV, em Belo Horizonte, pela 37ª e penúltima rodada do Brasileirão. Pela Base TSP, o Atlético é o 7º colocado, com 52 pontos em 36 jogos, dois a menos que o Bahia, 6º, e briga por vaga na pré-Libertadores, segundo O Tempo. O Vasco é o 10º, com 47 pontos, e, segundo a Itatiaia, tem chances remotas de Libertadores e mira uma vaga na Sul-Americana.",
+     "O Atlético não vence há cinco jogos nos registros do TSP (de 26/10 a 25/11): foram três derrotas e dois empates, o último por 1x1 com o Corinthians, na quarta-feira (25/11), com gol de Cuello nos acréscimos. Em casa, perdeu só um dos cinco últimos jogos registrados na base. O técnico Eduardo Domínguez não terá Thiago Borbas, expulso contra o Corinthians, e Minda e Reinier estão no departamento médico, segundo O Tempo; Lyanco voltou a ser relacionado.",
+     "O Vasco de Pedro Emanuel perdeu por 1x0 para o Red Bull Bragantino, em Bragança Paulista, no domingo (22/11). Nos cinco jogos mais recentes registrados pelo TSP, venceu três e perdeu dois, e o desempenho como visitante é o mesmo nos cinco últimos jogos fora da base: três vitórias, sobre Botafogo, Athletico-PR e Chapecoense. O lateral Paulo Henrique (terceiro amarelo) e o zagueiro Robert Renan (expulso) estão suspensos, segundo a Itatiaia; Puma Rodríguez deve ocupar a lateral.",
+     "Depois do empate com o Corinthians, Domínguez disse que \"o objetivo do clube ainda precisa ser alcançado\" e pediu desculpas à torcida \"por frustrar as expectativas\", segundo a Gazeta Esportiva. O árbitro será Rafael Klein (RS), segundo O Tempo.",
+     "O jogo terá transmissão do SporTV e do Premiere, segundo a Máquina do Esporte e a Exame."
+    ],
+    "retrospecto": "Segundo O Tempo, depois do jogo do primeiro turno de 2026 Atlético e Vasco somavam 107 jogos, com 45 vitórias do Vasco, 36 do Atlético e 26 empates. Em 31/05/2026, o Atlético venceu por 1 a 0 em São Januário, gol de cabeça de Vitor Hugo, e conseguiu um feito raro: desde 2003, só tinha ganhado lá em 2019. Na Arena MRV, o Galo venceu os três jogos contra o Vasco, incluindo o 5 a 0 de 07/12/2025, a maior goleada atleticana no confronto, segundo o jornal.",
+    "estadio_wiki": "Arena MRV",
+    "confronto": {
+     "times": [
+      "Atlético-MG",
+      "Vasco"
+     ],
+     "ultimo": "Vasco 0 x 1 Atlético-MG, 31/05/2026, Brasileirão (18ª rodada), em São Januário. Gol de Vitor Hugo, de cabeça, aos 32 do 1º tempo, após escanteio de Bernard.",
+     "recortes": [
+      {
+       "nome": "Na Arena MRV (O Tempo, 26/11/2026)",
+       "jogos": 3,
+       "vitorias": [
+        3,
+        0
+       ],
+       "empates": 0
+      }
+     ],
+     "maiores": [
+      "Maior vitória do Atlético: 5 x 0, em 07/12/2025, na Arena MRV, pela 38ª rodada do Brasileirão (O Tempo).",
+      "Maior vitória do Vasco: 6 x 1, em São Januário, em 2008 (Lance!)."
+     ],
+     "marcantes": [
+      "07/12/2025, Brasileirão (38ª rodada): Atlético-MG 5 x 0 Vasco, na Arena MRV, gols de Junior Alonso, Hulk, Dudu (2) e Victor Luis (contra).",
+      "21/07/2024, Brasileirão: Atlético-MG 2 x 0 Vasco, na Arena MRV, dois gols de Hulk."
+     ],
+     "decisoes": [
+      "Semifinal da Copa do Brasil de 2024: Atlético-MG 2 x 1 Vasco, de virada, na Arena MRV (gols de Guilherme Arana e Paulinho), e Vasco 1 x 1 Atlético-MG em São Januário, gol de Hulk. O Atlético foi à final."
+     ],
+     "curiosidades": [
+      "Segundo O Tempo, nos últimos 10 jogos pela Série A antes de domingo eram 4 vitórias de cada lado e 2 empates, com 17 gols do Atlético e 12 do Vasco.",
+      "Em dezembro de 2024, o site oficial do Atlético contava 103 jogos na história: 44 vitórias do Vasco, 34 do Atlético e 25 empates. O maior artilheiro atleticano no confronto, segundo o clube, é Guilherme Alves, com 6 gols.",
+      "Só no Brasileirão, até agosto de 2025, o Lance! contava 66 jogos: 25 vitórias do Vasco, 24 do Atlético e 17 empates."
+     ],
+     "fontes": [
+      "https://www.otempo.com.br/sports/atletico/2026/5/31/atletico-consegue-feito-raro-diante-do-vasco-em-sao-januario-pelo-brasileirao",
+      "https://www.otempo.com.br/sports/atletico/2026/11/26/atletico-x-vasco-tem-tabu-historico-na-arena-mrv-pelo-brasileirao-veja-o-retrospecto",
+      "https://atletico.com.br/vasco-x-atletico-hoje-nao-posso-tem-jogo-do-galo-2/",
+      "https://www.lance.com.br/lancepedia/vasco-atletico-mg-retrospecto-brasileirao-estatisticas.html",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/atletico-derrota-vasco-no-rio-e-termina-semestre-a-seis-pontos-do-g4-do-brasileiro/",
+      "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/atletico/com-promocao-atletico-anuncia-inicio-da-venda-de-ingressos-do-jogo-contra-o-vasco/"
+     ]
+    },
+    "arbitragem": {
+     "arbitro": "Rafael Klein (RS)",
+     "var": "Em atualização",
+     "fontes": [
+      "https://www.otempo.com.br/sports/atletico/2026/11/24/atletico-x-vasco-cbf-define-arbitro-de-jogo-da-37-rodada-do-campeonato-brasileiro",
+      "https://bh24horas.com.br/esportes/atletico/rafael-klein-apita-atletico-x-vasco-pela-37a-rodada-do-brasileirao/"
+     ]
+    },
+    "ingressos": {
+     "texto": "Venda online em ingressos.galonaveia.com.br até 19h45 do dia do jogo e presencial na Arena MRV na sexta (27/11), das 11h às 18h. Para sócios, o Inter Norte custa R$ 29,90; os demais setores Inter saem a R$ 30 para sócios (inteira R$ 100) e os setores Brahma vão de R$ 50 a R$ 110 para sócios (inteira de R$ 166,67 a R$ 366,67). Visitante (portões 19 e 20): R$ 100, meia R$ 50, entrada só por reconhecimento facial. GaloID e biometria facial obrigatórios; crianças também precisam de ingresso. Portões abrem às 17h30.",
+     "fontes": [
+      "https://atletico.com.br/atletico-x-vasco-ingressos-a-partir-de-r-2990/",
+      "https://www.otempo.com.br/sports/atletico/2026/11/19/antes-da-final-da-sula-atletico-abre-venda-de-ingressos-para-jogo-com-vasco-com-precos-reduzidos"
+     ]
+    },
+    "fontes": [
+     "https://www.otempo.com.br/sports/atletico/2026/11/25/thiago-borbas-e-expulso-contra-o-corinthians-e-vira-desfalque-para-o-atletico-contra-o-vasco",
+     "https://www.gazetaesportiva.com/times/atletico-mg/dominguez-valoriza-empate-e-reforca-objetivo-do-atletico-mg-no-brasileirao/",
+     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-carioca/vasco/vasco-perde-dois-titulares-para-enfrentar-o-atletico-pelo-campeonato-brasileiro/",
+     "https://diariodorio.com/esporte/2026/11/23/suspensos-paulo-henrique-e-robert-renan-desfalcam-vasco-contra-o-atletico-mg-veja-quem-deve-substitui-los.html",
+     "https://www.terra.com.br/esportes/atletico-mg/corinthians-cede-empate-no-fim-mas-deixa-a-zona-de-rebaixamento,35ff0656bb5140c23a6bbc725d94e3f736imviuq.html"
+    ],
+    "atualizado": "2026-11-26T15:35:00-03:00"
+   },
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
+    "casa": 53,
     "empate": 24,
-    "fora": 24,
+    "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.7,
-     1.09
+     1.67,
+     1.01
     ],
     "base": [
-     30,
-     23
+     31,
+     24
     ]
    },
    "events": []
@@ -24440,7 +25215,7 @@
     "fora": 4,
     "placar": "3x0",
     "gols_esperados": [
-     3.4,
+     3.39,
      0.67
     ],
     "base": [
@@ -24496,12 +25271,12 @@
     "fora": 22,
     "placar": "1x1",
     "gols_esperados": [
-     1.97,
-     1.18
+     1.96,
+     1.15
     ],
     "base": [
-     23,
-     23
+     24,
+     24
     ]
    },
    "events": []
@@ -24547,16 +25322,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
+    "casa": 54,
     "empate": 23,
-    "fora": 24,
+    "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.78,
-     1.12
+     1.83,
+     1.11
     ],
     "base": [
-     33,
+     34,
      37
     ]
    },
@@ -24659,16 +25434,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
+    "casa": 51,
     "empate": 24,
-    "fora": 27,
+    "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
-     1.69,
+     1.74,
      1.18
     ],
     "base": [
-     22,
+     23,
      28
     ]
    },
@@ -24715,17 +25490,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 52,
-    "empate": 24,
-    "fora": 25,
+    "casa": 53,
+    "empate": 23,
+    "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.75,
-     1.14
+     1.81,
+     1.13
     ],
     "base": [
      39,
-     36
+     37
     ]
    },
    "events": []
@@ -24771,17 +25546,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
+    "casa": 42,
     "empate": 29,
-    "fora": 28,
+    "fora": 29,
     "placar": "1x0",
     "gols_esperados": [
-     1.24,
-     0.93
+     1.23,
+     0.96
     ],
     "base": [
-     27,
-     33
+     28,
+     34
     ]
    },
    "events": []
@@ -24828,15 +25603,15 @@
    "escalacoes": {},
    "previsao": {
     "casa": 58,
-    "empate": 23,
+    "empate": 24,
     "fora": 18,
     "placar": "1x0",
     "gols_esperados": [
-     1.75,
-     0.87
+     1.73,
+     0.85
     ],
     "base": [
-     34,
+     35,
      23
     ]
    },
@@ -24883,17 +25658,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 46,
     "empate": 25,
-    "fora": 28,
+    "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.62,
-     1.2
+     1.57,
+     1.19
     ],
     "base": [
      27,
-     30
+     31
     ]
    },
    "events": []
@@ -24939,17 +25714,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
+    "casa": 47,
     "empate": 24,
-    "fora": 27,
+    "fora": 29,
     "placar": "1x1",
     "gols_esperados": [
-     1.75,
-     1.24
+     1.72,
+     1.31
     ],
     "base": [
      38,
-     28
+     29
     ]
    },
    "events": []
@@ -52971,16 +53746,16 @@
     "gols": 9
    },
    {
+    "jogador": "Gabigol",
+    "time": "Santos",
+    "time_id": 900008,
+    "gols": 8
+   },
+   {
     "jogador": "Pedro",
     "time": "Flamengo",
     "time_id": 900001,
     "gols": 8
-   },
-   {
-    "jogador": "Gabigol",
-    "time": "Santos",
-    "time_id": 900008,
-    "gols": 7
    },
    {
     "jogador": "Matheus Pereira",
@@ -53013,15 +53788,15 @@
     "gols": 6
    },
    {
-    "jogador": "Alef Manga",
-    "time": "Remo",
-    "time_id": 900019,
-    "gols": 5
-   },
-   {
     "jogador": "Renê",
     "time": "Vitória",
     "time_id": 900014,
+    "gols": 6
+   },
+   {
+    "jogador": "Alef Manga",
+    "time": "Remo",
+    "time_id": 900019,
     "gols": 5
    },
    {
@@ -53094,6 +53869,12 @@
     "jogador": "Alerrandro",
     "time": "Internacional",
     "time_id": 900016,
+    "gols": 3
+   },
+   {
+    "jogador": "Barreal",
+    "time": "Santos",
+    "time_id": 900008,
     "gols": 3
    },
    {
@@ -53232,12 +54013,6 @@
     "jogador": "Arroyo",
     "time": "Cruzeiro",
     "time_id": 900003,
-    "gols": 2
-   },
-   {
-    "jogador": "Barreal",
-    "time": "Santos",
-    "time_id": 900008,
     "gols": 2
    },
    {
@@ -53811,6 +54586,12 @@
     "gols": 1
    },
    {
+    "jogador": "Kevin Viveros",
+    "time": "Athletico-PR",
+    "time_id": 900004,
+    "gols": 1
+   },
+   {
     "jogador": "Kike Olivera",
     "time": "Bahia",
     "time_id": 900007,
@@ -53952,6 +54733,12 @@
     "jogador": "Miguel Carvalho",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Miguelito",
+    "time": "Santos",
+    "time_id": 900008,
     "gols": 1
    },
    {

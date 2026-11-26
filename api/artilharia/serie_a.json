@@ -12,16 +12,16 @@
   "gols": 9
  },
  {
+  "jogador": "Gabigol",
+  "time": "Santos",
+  "time_id": 900008,
+  "gols": 8
+ },
+ {
   "jogador": "Pedro",
   "time": "Flamengo",
   "time_id": 900001,
   "gols": 8
- },
- {
-  "jogador": "Gabigol",
-  "time": "Santos",
-  "time_id": 900008,
-  "gols": 7
  },
  {
   "jogador": "Matheus Pereira",
@@ -54,15 +54,15 @@
   "gols": 6
  },
  {
-  "jogador": "Alef Manga",
-  "time": "Remo",
-  "time_id": 900019,
-  "gols": 5
- },
- {
   "jogador": "Renê",
   "time": "Vitória",
   "time_id": 900014,
+  "gols": 6
+ },
+ {
+  "jogador": "Alef Manga",
+  "time": "Remo",
+  "time_id": 900019,
   "gols": 5
  },
  {
@@ -135,6 +135,12 @@
   "jogador": "Alerrandro",
   "time": "Internacional",
   "time_id": 900016,
+  "gols": 3
+ },
+ {
+  "jogador": "Barreal",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 3
  },
  {
@@ -273,12 +279,6 @@
   "jogador": "Arroyo",
   "time": "Cruzeiro",
   "time_id": 900003,
-  "gols": 2
- },
- {
-  "jogador": "Barreal",
-  "time": "Santos",
-  "time_id": 900008,
   "gols": 2
  },
  {
@@ -852,6 +852,12 @@
   "gols": 1
  },
  {
+  "jogador": "Kevin Viveros",
+  "time": "Athletico-PR",
+  "time_id": 900004,
+  "gols": 1
+ },
+ {
   "jogador": "Kike Olivera",
   "time": "Bahia",
   "time_id": 900007,
@@ -993,6 +999,12 @@
   "jogador": "Miguel Carvalho",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Miguelito",
+  "time": "Santos",
+  "time_id": 900008,
   "gols": 1
  },
  {
