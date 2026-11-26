@@ -5,6 +5,19 @@ Membros não editam dados do grupo; podem convidar por link. Descrição = regra
 sem apostas/pirataria/golpe, sem propaganda sem autorização, sem flood, notícia com fonte).
 Links ficam no tema, em `tsp-nova-era/inc/whatsapp-grupos.php` (`tsp_wg_grupos()`, com 'tipo' => 'resenha').
 
+## 4 grandes (26/11/2026)
+
+| Clube | Grupo | Link |
+|---|---|---|
+| Corinthians | TSP Resenha do Timão | https://chat.whatsapp.com/BiuKWexirktBsbB7xjxAnR |
+| Palmeiras | TSP Resenha do Verdão | https://chat.whatsapp.com/EzSGMaz13cJIADauR9CKGC |
+| Santos | TSP Resenha do Peixe | https://chat.whatsapp.com/ItHHqLXyFylCv9ZeUfJG3Z |
+| São Paulo | TSP Resenha do Tricolor | https://chat.whatsapp.com/FY9baz6ddvLKmjl1ieTJwy |
+
+Os grupos de notícias antigos dos 4 grandes continuam no WhatsApp, fora do site.
+
+## Série A1 2027
+
 | Clube | Link |
 |---|---|
 | Botafogo-SP | https://chat.whatsapp.com/KTQCicXO7b52czceB3lTYU |
