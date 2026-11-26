@@ -123,6 +123,12 @@ def main():
         sys.exit(1)
     print(f"ok: {len(d.get('pessoas', []))} pessoas")
     if cmd == "gerar":
+        # escudo de clube de fora do site em cada linha da trajetória (mesma base do Mercado da Bola)
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        import mercado  # noqa: E402
+        esc = mercado.escudos_extra()
+        for p in d["pessoas"]:
+            p["carreira"] = [dict(c, escudo=esc(c["clube"])) if esc(c["clube"]) else c for c in p.get("carreira", [])]
         SAIDA.write_text(json.dumps({"pessoas": d["pessoas"]}, ensure_ascii=False, indent=1) + "\n")
         print("escrito", SAIDA.relative_to(RAIZ))
 

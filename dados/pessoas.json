@@ -5,7 +5,7 @@
    "nome": "Moisés Egert",
    "posicao": "Treinador",
    "clube": "",
-   "situacao": "Sem clube desde 10/08/2026, quando deixou o Maringá (última conferência do TSP: 26/11/2026)",
+   "situacao": "Sem clube desde 10/08/2026 (deixou o Maringá)",
    "exclusiva": 174,
    "ficha": {
     "natural": "Rio Grande do Sul",
@@ -426,7 +426,8 @@
          "127",
          "51,6%"
         ]
-       ]
+       ],
+       "titulo": "Ver jogos, vitórias e aproveitamento por clube"
       }
      },
      {
@@ -539,7 +540,8 @@
          "Faltam 6 vitórias",
          "—"
         ]
-       ]
+       ],
+       "titulo": "Ver todos os marcos: do 1º ao 450º jogo"
       }
      },
      {
@@ -605,7 +607,8 @@
          "20 jogos",
          "São Bento: 10 vitórias, 8 empates e 2 derrotas"
         ]
-       ]
+       ],
+       "titulo": "Ver todos os recordes"
       }
      },
      {
@@ -658,7 +661,14 @@
      ]
     ]
    },
-   "nascimento": "1977-05-21"
+   "nascimento": "1977-05-21",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/pessoa-moises-egert.webp",
+    "credito": "Imagem do TSP Exclusiva #174 (montagem com IA, ilustrativa)",
+    "fonte": "https://www.youtube.com/watch?v=WpqBzzBz4mU",
+    "ia": true,
+    "em": "2026-11-26T19:24:06-03:00"
+   }
   },
   {
    "nome": "Danilo Sacramento",
@@ -772,6 +782,13 @@
       ]
      }
     ]
+   },
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/pessoa-danilo-sacramento.webp",
+    "credito": "Imagem do TSP Exclusiva #173",
+    "fonte": "https://www.youtube.com/watch?v=hwT0lr2bYz0",
+    "ia": false,
+    "em": "2026-11-26T19:24:06-03:00"
    }
   },
   {
