@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T22:11:00-03:00",
+ "gerado": "2026-11-26T01:55:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -326,84 +326,84 @@
      "a_confirmar": false
     },
     {
-     "id": "x38-10",
+     "id": 91000560,
      "rodada": "38",
-     "data": "2026-12-02",
-     "casa": 900008,
-     "fora": 900011,
-     "a_confirmar": true
-    },
-    {
-     "id": "x38-11",
-     "rodada": "38",
-     "data": "2026-12-02",
-     "casa": 900013,
-     "fora": 900014,
-     "a_confirmar": true
-    },
-    {
-     "id": "x38-12",
-     "rodada": "38",
-     "data": "2026-12-02",
-     "casa": 900004,
-     "fora": 900009,
-     "a_confirmar": true
-    },
-    {
-     "id": "x38-13",
-     "rodada": "38",
-     "data": "2026-12-02",
-     "casa": 900003,
-     "fora": 900016,
-     "a_confirmar": true
-    },
-    {
-     "id": "x38-14",
-     "rodada": "38",
-     "data": "2026-12-02",
+     "data": "2026-12-02T21:30",
      "casa": 900001,
      "fora": 900020,
-     "a_confirmar": true
+     "a_confirmar": false
     },
     {
-     "id": "x38-15",
+     "id": 91000561,
      "rodada": "38",
-     "data": "2026-12-02",
-     "casa": 900010,
-     "fora": 900005,
-     "a_confirmar": true
+     "data": "2026-12-02T21:30",
+     "casa": 900013,
+     "fora": 900014,
+     "a_confirmar": false
     },
     {
-     "id": "x38-16",
+     "id": 91000562,
      "rodada": "38",
-     "data": "2026-12-02",
+     "data": "2026-12-02T21:30",
+     "casa": 900008,
+     "fora": 900011,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000563,
+     "rodada": "38",
+     "data": "2026-12-02T21:30",
      "casa": 900002,
      "fora": 900012,
-     "a_confirmar": true
+     "a_confirmar": false
     },
     {
-     "id": "x38-17",
+     "id": 91000564,
      "rodada": "38",
-     "data": "2026-12-02",
+     "data": "2026-12-02T21:30",
+     "casa": 900010,
+     "fora": 900005,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000565,
+     "rodada": "38",
+     "data": "2026-12-02T21:30",
+     "casa": 900003,
+     "fora": 900016,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000566,
+     "rodada": "38",
+     "data": "2026-12-02T21:30",
      "casa": 900017,
      "fora": 900015,
-     "a_confirmar": true
+     "a_confirmar": false
     },
     {
-     "id": "x38-18",
+     "id": 91000567,
      "rodada": "38",
-     "data": "2026-12-02",
+     "data": "2026-12-02T21:30",
+     "casa": 900004,
+     "fora": 900009,
+     "a_confirmar": false
+    },
+    {
+     "id": 91000568,
+     "rodada": "38",
+     "data": "2026-12-02T21:30",
      "casa": 900007,
      "fora": 900006,
-     "a_confirmar": true
+     "a_confirmar": false
     },
     {
-     "id": "x38-19",
+     "id": 91000569,
      "rodada": "38",
-     "data": "2026-12-02",
+     "data": "2026-12-02T21:30",
      "casa": 900019,
      "fora": 900018,
-     "a_confirmar": true
+     "a_confirmar": false
     }
    ],
    "feitos": [
@@ -24305,6 +24305,566 @@
     "base": [
      30,
      23
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000560,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 87,
+    "empate": 9,
+    "fora": 4,
+    "placar": "3x0",
+    "gols_esperados": [
+     3.4,
+     0.67
+    ],
+    "base": [
+     25,
+     25
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000561,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 56,
+    "empate": 22,
+    "fora": 22,
+    "placar": "1x1",
+    "gols_esperados": [
+     1.97,
+     1.17
+    ],
+    "base": [
+     23,
+     23
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000562,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 53,
+    "empate": 23,
+    "fora": 24,
+    "placar": "1x1",
+    "gols_esperados": [
+     1.78,
+     1.11
+    ],
+    "base": [
+     33,
+     37
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000563,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Nubank Parque",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900012,
+     "name": "Coritiba"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 68,
+    "empate": 20,
+    "fora": 12,
+    "placar": "1x0",
+    "gols_esperados": [
+     1.97,
+     0.68
+    ],
+    "base": [
+     28,
+     33
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000564,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 49,
+    "empate": 24,
+    "fora": 27,
+    "placar": "1x1",
+    "gols_esperados": [
+     1.69,
+     1.18
+    ],
+    "base": [
+     22,
+     28
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000565,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Mineirão",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 52,
+    "empate": 24,
+    "fora": 25,
+    "placar": "1x1",
+    "gols_esperados": [
+     1.75,
+     1.14
+    ],
+    "base": [
+     39,
+     36
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000566,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900015,
+     "name": "Mirassol"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 44,
+    "empate": 29,
+    "fora": 28,
+    "placar": "1x0",
+    "gols_esperados": [
+     1.24,
+     0.93
+    ],
+    "base": [
+     27,
+     33
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000567,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 58,
+    "empate": 23,
+    "fora": 18,
+    "placar": "1x0",
+    "gols_esperados": [
+     1.75,
+     0.87
+    ],
+    "base": [
+     34,
+     23
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000568,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 47,
+    "empate": 25,
+    "fora": 28,
+    "placar": "1x1",
+    "gols_esperados": [
+     1.62,
+     1.19
+    ],
+    "base": [
+     27,
+     30
+    ]
+   },
+   "events": []
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+   ],
+   "fixture": {
+    "id": 91000569,
+    "timestamp": 1796257800,
+    "status": {
+     "short": "NS",
+     "elapsed": null
+    },
+    "venue": {
+     "name": "Mangueirão",
+     "city": "Belém"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 38"
+   },
+   "teams": {
+    "home": {
+     "id": 900019,
+     "name": "Remo"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": null,
+    "away": null
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": {
+    "casa": 49,
+    "empate": 24,
+    "fora": 27,
+    "placar": "1x1",
+    "gols_esperados": [
+     1.75,
+     1.23
+    ],
+    "base": [
+     38,
+     28
     ]
    },
    "events": []
