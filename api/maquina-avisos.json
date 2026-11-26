@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-26T13:21-03:00",
+ "gerado": "2026-11-26T15:33-03:00",
  "avisos": [
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-25T17:00-03:00",
-   "motivo": "Nenhuma notícia das últimas 48h",
-   "sugestao": "Planejamento do São Bernardo para o Paulistão 2027 (reforços e reapresentação) via DGABC"
-  },
-  {
-   "clube": "red-bull-bragantino-feminino",
-   "nome": "Red Bull Bragantino Feminino",
-   "quando": "2026-11-25T17:00-03:00",
-   "motivo": "Vitória por 2x1 sobre o Atlético-MG (Copinha F, 25/11) só no Correio de Atibaia até agora; falta 2ª fonte",
-   "sugestao": "Pós-jogo Bragantino 2x1 Atlético-MG com 2 gols de Raissa: confirmar no site do Red Bull Bragantino"
-  },
   {
    "clube": "corinthians-feminino",
    "nome": "Corinthians Feminino",
@@ -420,6 +406,20 @@
    "quando": "2026-11-26T13:21-03:00",
    "motivo": "Base pede campo à FUA só no Jornal Cruzeiro (24/11), sem 2ª fonte",
    "sugestao": "Confirmar no Instagram do São Bento o pedido de campo para sub-13 e sub-14: https://www.jornalcruzeiro.com.br/esporte/sao-bento/2026/11/768179-sao-bento-solicita-espaco-para-treinamento-das-equipes-de-base.html"
+  },
+  {
+   "clube": "mirassol",
+   "nome": "Mirassol",
+   "quando": "2026-11-26T15:33-03:00",
+   "motivo": "Cobertura 6h (26/11 tarde): sem notícia nova das últimas 24h em 2 fontes aceitas; site oficial do clube não abriu; Terra de 24/11 (volta de Neto Moura e Edson Carioca) já passa de 24h",
+   "sugestao": "Mirassol x Athletico-PR, domingo (29/11), 18h30, no Maião: relacionados, provável escalação e ingressos, conferindo no site oficial do Mirassol"
+  },
+  {
+   "clube": "bragantino",
+   "nome": "Red Bull Bragantino",
+   "quando": "2026-11-26T15:33-03:00",
+   "motivo": "Cobertura 6h (26/11 tarde): só o Terra (25/11) sobre Alerrandro suspenso no Inter, sem 2ª fonte aceita; site oficial do Bragantino não abriu",
+   "sugestao": "Internacional x Red Bull Bragantino, domingo (29/11), 18h30, no Beira-Rio: Inter sem Alerrandro (3º amarelo), dúvidas de Mercado e Calebe, volta de Alan Patrick. Confirmar no ge RS/GZH e somar relacionados do Massa Bruta"
   }
  ]
 }
