@@ -78,7 +78,7 @@ Para cada pessoa nova (ou página com muito "Em atualização"):
   principal estiver levantada e conferida (cada trabalho com J/V/E/D em fonte aceita; número com 2 fontes).
   Aí marque `ficha.carreira_completa: true`. Sem isso o site mostra "Números da carreira: em atualização".
 - Número parcial (só alguns clubes, só jogos da base do TSP) não vai ao ar.
-- oGol, Sofascore, Transfermarkt e similares não valem para número de técnico.
+- oGol, Sofascore, Transfermarkt e similares não valem para número de técnico. Exceção (26/11/2026): lista de jogos do oGol conferida com as datas de entrada e saída (diretrizes/paginas-pilares.md).
 
 ## Home do Mercado da Bola (23/11/2026)
 - Cada divisão mostra primeiro as figurinhas publicadas por último (`foto.em`, gravado pelo `mercado.py figurinha`).
