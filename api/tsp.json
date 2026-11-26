@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T15:20:00-03:00",
+ "gerado": "2026-11-25T22:11:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -100,13 +100,13 @@
     {
      "id": 900006,
      "nome": "Atlético-MG",
-     "pts": 51,
-     "j": 35,
+     "pts": 52,
+     "j": 36,
      "v": 14,
-     "e": 9,
+     "e": 10,
      "d": 12,
-     "gp": 44,
-     "gc": 40
+     "gp": 45,
+     "gc": 41
     },
     {
      "id": 900010,
@@ -186,6 +186,17 @@
      "gc": 58
     },
     {
+     "id": 900018,
+     "nome": "Corinthians",
+     "pts": 41,
+     "j": 36,
+     "v": 10,
+     "e": 11,
+     "d": 15,
+     "gp": 41,
+     "gc": 43
+    },
+    {
      "id": 900017,
      "nome": "Grêmio",
      "pts": 41,
@@ -206,17 +217,6 @@
      "d": 15,
      "gp": 39,
      "gc": 49
-    },
-    {
-     "id": 900018,
-     "nome": "Corinthians",
-     "pts": 40,
-     "j": 35,
-     "v": 10,
-     "e": 10,
-     "d": 15,
-     "gp": 40,
-     "gc": 42
     },
     {
      "id": 900016,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000164,
-     "rodada": "36",
-     "data": "2026-11-25T20:00",
-     "casa": 900006,
-     "fora": 900018,
-     "a_confirmar": false
-    },
     {
      "id": 91000401,
      "rodada": "37",
@@ -1746,6 +1738,12 @@
      900002,
      3,
      0
+    ],
+    [
+     900006,
+     900018,
+     1,
+     1
     ]
    ]
   }
@@ -23367,14 +23365,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-empate-atletico-mg-deixa-z4-brasileirao/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/atletico-mg-x-corinthians/98148/"
    ],
    "fixture": {
     "id": 91000164,
     "timestamp": 1795647600,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Arena MRV",
@@ -23396,8 +23396,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -23484,22 +23484,94 @@
      "atualizado": "2026-11-25T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 59,
-    "empate": 23,
-    "fora": 18,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.81,
-     0.9
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Natanael, Ruan, Léo Duarte, Renan Lodi; Kevin Castaño, Tomás Perez, Cissé; Bernard, Tomás Cuello, Thiago Borbas",
+     "entraram": [
+      {
+       "jogador": "Igor Gomes",
+       "saiu": "Léo Duarte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alexsander",
+       "saiu": "Kevin Castaño",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Hugo",
+       "saiu": "Cissé",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Clarence Seedorf",
+     "time": "Hugo Souza; Matheuzinho, João Pedro Tchoca, Gustavo Henrique, Angileri; Raniele, Breno Bidon, Vitinho; Kaio César, Matheus Bidu, Memphis Depay",
+     "entraram": [
+      {
+       "jogador": "André",
+       "saiu": "Raniele",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Garro",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Milans",
+       "saiu": "Kaio César",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lingard",
+       "saiu": "Memphis Depay",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-empate-atletico-mg-deixa-z4-brasileirao/"
     ],
-    "base": [
-     29,
-     27
-    ]
+    "atualizado": "2026-11-25T22:11:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 70,
+      "extra": null,
+      "texto": "70"
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Kaio César"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 90,
+      "extra": null,
+      "texto": "90+2"
+     },
+     "team": {
+      "id": 900006,
+      "name": "Atlético-MG"
+     },
+     "player": {
+      "name": "Tomás Cuello"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -24056,14 +24128,14 @@
    "previsao": {
     "casa": 36,
     "empate": 28,
-    "fora": 37,
+    "fora": 36,
     "placar": "1x1",
     "gols_esperados": [
-     1.19,
-     1.21
+     1.18,
+     1.19
     ],
     "base": [
-     27,
+     28,
      27
     ]
    },
@@ -24227,11 +24299,11 @@
     "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.71,
-     1.09
+     1.7,
+     1.08
     ],
     "base": [
-     29,
+     30,
      23
     ]
    },
@@ -31705,100 +31777,7 @@
    },
    "penaltis": "",
    "prejogo": {},
-   "escalacoes": {
-    "casa": {
-     "tecnico": "Mozart",
-     "time": "Tadeu; Rodrigo Soares, Luisão, Luiz Felipe, Djalma; Filipe Machado, Lourenço, Lucas Lima; Jean Carlos, Kadu Sousa, Pedrinho",
-     "entraram": [
-      {
-       "jogador": "Nicolas",
-       "saiu": "Rodrigo Soares",
-       "minuto": ""
-      },
-      {
-       "jogador": "Gegê",
-       "saiu": "Lourenço",
-       "minuto": ""
-      },
-      {
-       "jogador": "Cadu",
-       "saiu": "Lucas Lima",
-       "minuto": ""
-      },
-      {
-       "jogador": "Wellington Rato",
-       "saiu": "Jean Carlos",
-       "minuto": ""
-      },
-      {
-       "jogador": "Felipe Clemente",
-       "saiu": "Pedrinho",
-       "minuto": ""
-      }
-     ],
-     "cartoes": {
-      "amarelos": [
-       {
-        "jogador": "Lourenço",
-        "minuto": ""
-       },
-       {
-        "jogador": "Luiz Felipe",
-        "minuto": ""
-       },
-       {
-        "jogador": "Nicolas",
-        "minuto": ""
-       }
-      ],
-      "vermelhos": []
-     }
-    },
-    "fora": {
-     "tecnico": "Roger Silva",
-     "time": "Paulo Vitor; Warley, Adriano Martins, Junior Barreto, Guilherme Lopes; Peixoto, Netinho, Marrony; Gustavo Maia, Gustavo Coutinho, Geovany Soares",
-     "entraram": [
-      {
-       "jogador": "Ewerthon",
-       "saiu": "Warley",
-       "minuto": ""
-      },
-      {
-       "jogador": "Cristiano",
-       "saiu": "Netinho",
-       "minuto": ""
-      },
-      {
-       "jogador": "Henrique Freitas",
-       "saiu": "Marrony",
-       "minuto": ""
-      },
-      {
-       "jogador": "Tito",
-       "saiu": "Gustavo Maia",
-       "minuto": ""
-      },
-      {
-       "jogador": "Bruno José",
-       "saiu": "Geovany Soares",
-       "minuto": ""
-      }
-     ],
-     "cartoes": {
-      "amarelos": [
-       {
-        "jogador": "Netinho",
-        "minuto": ""
-       }
-      ],
-      "vermelhos": []
-     }
-    },
-    "fontes": [
-     "https://acritica.net/esportes/atletico-go-vence-o-goias-quebra-jejum-e-fica-no-g-6-da-serie-b-do-campeonato-brasileiro/"
-    ],
-    "atualizado": "2026-11-21T03:38:00-03:00"
-   },
+   "escalacoes": {},
    "previsao": null,
    "events": [
     {
@@ -51559,15 +51538,15 @@
       7,
       900006,
       "Atlético-MG",
-      51,
-      35,
+      52,
+      36,
       14,
-      9,
+      10,
       12,
       4,
       "",
-      44,
-      40
+      45,
+      41
      ],
      [
       8,
@@ -51669,6 +51648,20 @@
      ],
      [
       15,
+      900018,
+      "Corinthians",
+      41,
+      36,
+      10,
+      11,
+      15,
+      -2,
+      "",
+      41,
+      43
+     ],
+     [
+      16,
       900017,
       "Grêmio",
       41,
@@ -51682,7 +51675,7 @@
       47
      ],
      [
-      16,
+      17,
       900015,
       "Mirassol",
       41,
@@ -51694,20 +51687,6 @@
       "",
       39,
       49
-     ],
-     [
-      17,
-      900018,
-      "Corinthians",
-      40,
-      35,
-      10,
-      10,
-      15,
-      -2,
-      "",
-      40,
-      42
      ],
      [
       18,
@@ -52224,6 +52203,12 @@
     "gols": 3
    },
    {
+    "jogador": "Kaio César",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 3
+   },
+   {
     "jogador": "Lavega",
     "time": "Coritiba",
     "time_id": 900012,
@@ -52425,12 +52410,6 @@
     "jogador": "Juninho",
     "time": "Internacional",
     "time_id": 900016,
-    "gols": 2
-   },
-   {
-    "jogador": "Kaio César",
-    "time": "Corinthians",
-    "time_id": 900018,
     "gols": 2
    },
    {
@@ -53217,6 +53196,12 @@
     "jogador": "Tiquinho Soares",
     "time": "Botafogo",
     "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Tomás Cuello",
+    "time": "Atlético-MG",
+    "time_id": 900006,
     "gols": 1
    },
    {

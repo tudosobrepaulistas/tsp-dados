@@ -180,6 +180,12 @@
   "gols": 3
  },
  {
+  "jogador": "Kaio César",
+  "time": "Corinthians",
+  "time_id": 900018,
+  "gols": 3
+ },
+ {
   "jogador": "Lavega",
   "time": "Coritiba",
   "time_id": 900012,
@@ -381,12 +387,6 @@
   "jogador": "Juninho",
   "time": "Internacional",
   "time_id": 900016,
-  "gols": 2
- },
- {
-  "jogador": "Kaio César",
-  "time": "Corinthians",
-  "time_id": 900018,
   "gols": 2
  },
  {
@@ -1173,6 +1173,12 @@
   "jogador": "Tiquinho Soares",
   "time": "Botafogo",
   "time_id": 900011,
+  "gols": 1
+ },
+ {
+  "jogador": "Tomás Cuello",
+  "time": "Atlético-MG",
+  "time_id": 900006,
   "gols": 1
  },
  {

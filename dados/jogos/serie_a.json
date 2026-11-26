@@ -17398,22 +17398,37 @@
    "data": "2026-11-25T20:00:00-03:00",
    "casa": "atletico-mg",
    "fora": "corinthians",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "36",
    "fase": "",
    "grupo": "",
    "estadio": "Arena MRV",
    "cidade": "",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 1,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Kaio César",
+     "minuto": "70",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Tomás Cuello",
+     "minuto": "90+2",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios"
+    "https://tribunadosertao.com.br/esportes/2026/10/30/1010458-cbf-divulga-tabela-das-rodadas-35-e-36-do-brasileirao-veja-datas-e-horarios",
+    "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-empate-atletico-mg-deixa-z4-brasileirao/",
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/ao-vivo/atletico-mg-x-corinthians/98148/"
    ],
-   "atualizado": "2026-11-05T02:09:00-03:00",
+   "atualizado": "2026-11-25T22:11:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -17497,6 +17512,59 @@
      ],
      "atualizado": "2026-11-25T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Eduardo Domínguez",
+     "time": "Everson; Natanael, Ruan, Léo Duarte, Renan Lodi; Kevin Castaño, Tomás Perez, Cissé; Bernard, Tomás Cuello, Thiago Borbas",
+     "entraram": [
+      {
+       "jogador": "Igor Gomes",
+       "saiu": "Léo Duarte",
+       "minuto": ""
+      },
+      {
+       "jogador": "Alexsander",
+       "saiu": "Kevin Castaño",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Hugo",
+       "saiu": "Cissé",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Clarence Seedorf",
+     "time": "Hugo Souza; Matheuzinho, João Pedro Tchoca, Gustavo Henrique, Angileri; Raniele, Breno Bidon, Vitinho; Kaio César, Matheus Bidu, Memphis Depay",
+     "entraram": [
+      {
+       "jogador": "André",
+       "saiu": "Raniele",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rodrigo Garro",
+       "saiu": "Vitinho",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Milans",
+       "saiu": "Kaio César",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lingard",
+       "saiu": "Memphis Depay",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/corinthians/corinthians-sofre-empate-atletico-mg-deixa-z4-brasileirao/"
+    ],
+    "atualizado": "2026-11-25T22:11:00-03:00"
    }
   },
   {
