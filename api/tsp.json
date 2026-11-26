@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26T03:34:00-03:00",
+ "gerado": "2026-11-26T03:48:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -23307,7 +23307,74 @@
      "atualizado": "2026-11-24T14:26:00-03:00"
     }
    },
-   "escalacoes": {},
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Vinicius Bergantin",
+     "time": "Matheus Aurélio; Kauan Faria, Victor Caetano, Eduardo Doma; Heitor, Camilo, Max Alves, David Antunes, Giovanni Augusto, Bruno Pacheco; Túlio Eduardo",
+     "entraram": [
+      {
+       "jogador": "Bruno Camilo",
+       "saiu": "Camilo",
+       "minuto": ""
+      },
+      {
+       "jogador": "Miguel Carvalho",
+       "saiu": "David Antunes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Rubens",
+       "saiu": "Giovanni Augusto",
+       "minuto": ""
+      },
+      {
+       "jogador": "Fernando",
+       "saiu": "Bruno Pacheco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marcinho",
+       "saiu": "Túlio Eduardo",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Abel Ferreira",
+     "time": "Marcelo Lomba; Emi Martínez, Benedetti, Koné; Felipe Anderson, Larson, Luis Pacheco, Khellven; Erick Belé, Fabiano, Heittor",
+     "entraram": [
+      {
+       "jogador": "Miguel Bilong",
+       "saiu": "Koné",
+       "minuto": ""
+      },
+      {
+       "jogador": "Coutinho",
+       "saiu": "Luis Pacheco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Geovanne",
+       "saiu": "Erick Belé",
+       "minuto": ""
+      },
+      {
+       "jogador": "André Lucas",
+       "saiu": "Fabiano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Victor Gabriel",
+       "saiu": "Heittor",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://paiquerefm.com.br/estadao/correcao-com-sub-20-e-reservas-palmeiras-perde-da-chapecoense-antes-da-final-da-libertadores/"
+    ],
+    "atualizado": "2026-11-26T03:48:00-03:00"
+   },
    "previsao": null,
    "events": [
     {
