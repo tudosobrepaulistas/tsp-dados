@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-26T17:05-03:00",
+ "gerado": "2026-11-26T20:31-03:00",
  "avisos": [
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Chefe de Redação barrou: Lucas Macorin ainda em negociação, sem contrato assinado, e só 1 fonte aceita (Terra repete o ge)",
-   "sugestao": "Publicar quando o Corinthians anunciar o técnico das Brabas para 2027"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Sem notícia em 48h; evergreen feito em 06/11",
-   "sugestao": "Pós-jogo de Realidade Jovem x Mirassol na Copa Paulista Feminina (28/11)"
-  },
   {
    "clube": "santos-feminino",
    "nome": "Santos Feminino",
@@ -420,6 +406,20 @@
    "quando": "2026-11-26T17:05-03:00",
    "motivo": "Sem notícia recente; site já tem a história do clube",
    "sugestao": "Técnico do Catanduva para a Série A3 de 2027 (ainda indefinido em outubro)"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-26T20:31-03:00",
+   "motivo": "Cobertura 6h (26/11 20h): nada novo das últimas 24h com 2 fontes independentes. Pauta do Eberlin (18 reforços) é de 20-21/11 e a frase 'já tem reforços contratados' só aparece no título do Hora Campinas (página não abriu). Única novidade: nota do STJD (26/11) multando a Ponte em R$ 1,6 mil e suspendendo Danilo Barcelos por 2 jogos, sem 2ª fonte independente e sem foto.",
+   "sugestao": "Redator: matéria do julgamento do STJD (https://stjd.org.br/comunicacao/noticias/article-21) com foto de Danilo Barcelos pela Ponte; ou confirmar com Eberlin/clube quais reforços já estão acertados para a reapresentação de 7/12."
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-26T20:31-03:00",
+   "motivo": "Cobertura 6h (26/11 20h): nenhuma notícia do São Bernardo FC entre 25/11 20h e 26/11 20h no Diário do Grande ABC, ABC do ABC, Futebol Interior ou ge; site oficial parado desde 03/2026; Instagram pede login.",
+   "sugestao": "Redator: confirmar com o clube a data da reapresentação para o Paulistão 2027 e se as renovações de Augusto, Alex Alves e Foguinho e a chegada de Alef Manga já foram oficializadas."
   }
  ]
 }
