@@ -161,6 +161,114 @@
     "acoes": [],
     "obs": "página fresca (9h); capacidade do Majestoso sem fonte aceita nesta execução"
    }
+  ],
+  "guarani": [
+   {
+    "data": "2026-11-26T04:20-03:00",
+    "busca": "notícias do Guarani",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "soccerway.com",
+     "itatiaia.com.br",
+     "cnnbrasil.com.br",
+     "flashscore.com.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base 26/11; frescor ok (11h); ficha sem capacidade e presidente (sem fonte aceita nesta execução)"
+   }
+  ],
+  "portuguesa": [
+   {
+    "data": "2026-11-26T04:20-03:00",
+    "busca": "notícias da Portuguesa",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "itatiaia.com.br",
+     "soccerway.com",
+     "flashscore.com.br",
+     "fotmob.com",
+     "band.com.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base 26/11; frescor ok (10h); ficha sem capacidade, rival, presidente"
+   }
+  ],
+  "capivariano": [
+   {
+    "data": "2026-11-26T04:20-03:00",
+    "busca": "notícias do Capivariano",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "fotmob.com",
+     "band.com.br",
+     "bnewssaopaulo.com.br",
+     "wikipedia.org",
+     "espn.com"
+    ],
+    "acoes": [],
+    "obs": "linha de base 26/11; frescor ok (7h)"
+   }
+  ],
+  "ferroviaria": [
+   {
+    "data": "2026-11-26T04:20-03:00",
+    "busca": "notícias da Ferroviária",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "gov.br",
+     "gazetaesportiva.com",
+     "bnamericas.com",
+     "cnnbrasil.com.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base 26/11; 33h sem matéria e sem pauta (nenhuma notícia de 48h confirmada em 2 fontes)"
+   }
+  ],
+  "juventus": [
+   {
+    "data": "2026-11-26T04:20-03:00",
+    "busca": "notícias do Juventus",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "itatiaia.com.br",
+     "fotmob.com",
+     "band.com.br",
+     "soccerway.com",
+     "goal.com"
+    ],
+    "acoes": [],
+    "obs": "linha de base 26/11; busca dominada pela Juventus da Itália; frescor ok"
+   }
+  ],
+  "noroeste": [
+   {
+    "data": "2026-11-26T04:20-03:00",
+    "busca": "notícias do Noroeste",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "soccerway.com",
+     "sicoob.com.br",
+     "diariodopara.com.br",
+     "es.gov.br",
+     "wikipedia.org"
+    ],
+    "acoes": [],
+    "obs": "linha de base 26/11; busca ambígua (região Noroeste); ficha quase vazia, só Wikipedia achada (não usada)"
+   }
   ]
  }
 }
