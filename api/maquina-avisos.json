@@ -1,69 +1,6 @@
 {
- "gerado": "2026-11-26T15:33-03:00",
+ "gerado": "2026-11-26T17:05-03:00",
  "avisos": [
-  {
-   "clube": "corinthians-feminino",
-   "nome": "Corinthians Feminino",
-   "quando": "2026-11-25T17:00-03:00",
-   "motivo": "Goleada sobre o Ação-MT (Copinha F, 25/11) só no Meu Timão (não abriu); falta fonte aceita",
-   "sugestao": "Pós-jogo Corinthians x Ação-MT na Copinha Feminina: placar e autoras pelo site do Corinthians e ge"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-25T20:29-03:00",
-   "motivo": "Única notícia nova das últimas 24h (volta de Neto Moura e Edson Carioca, suspensos, para pegar o Athletico-PR) só aparece no Esporte News Mundo/Terra; não achei 2ª fonte e o site do Mirassol não abriu nesta execução",
-   "sugestao": "Confirmar no site/redes do Mirassol a volta de Neto Moura e Edson Carioca e os treinos no CT1 para Mirassol x Athletico-PR (domingo, 18h30, Maião)"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-25T20:29-03:00",
-   "motivo": "Matérias sobre o 1º reforço para a Série A 2027 (NSC Total) e despedida de promessa japonesa (Lance!) não abriram; sem 2 fontes confirmadas nas últimas 24h",
-   "sugestao": "Checar no site/Instagram do Novorizontino o primeiro reforço anunciado para a Série A 2027 (citado pelo NSC Total) e cruzar com ge ou Diário da Região"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-25T20:29-03:00",
-   "motivo": "Nenhuma notícia nova do São Bernardo nas últimas 24h encontrada em fonte aceita (saídas e renovações recentes já publicadas)",
-   "sugestao": "Acompanhar no Instagram do São Bernardo FC novas renovações/reforços para o Paulistão 2027 e a reapresentação do elenco com Cauan de Almeida"
-  },
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-25T20:29-03:00",
-   "motivo": "Pauta Inter x Bragantino (domingo 29/11, 18h30, Beira-Rio) já publicada em 24/11; treino do Inter de 25/11 (site do Inter + O Sul) não traz fato novo do Bragantino; site do Bragantino não abriu",
-   "sugestao": "Treino do Red Bull Bragantino de quinta/sexta com desfalques e provável time para enfrentar o Inter, pelo site oficial e ge Vale/Sul de Minas"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Única novidade de 48h (pré-temporada adiada para 04/01 e parceria com a Chance Sports) só no Tribuna Ribeirão; sem 2ª fonte",
-   "sugestao": "Confirmar com a assessoria/Instagram do Comercial o adiamento da pré-temporada e a parceria com a Chance Sports"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "nome": "XV de Piracicaba",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Anúncio do atacante Oliver: site oficial não abriu nesta execução e não há 2ª fonte; número '11º reforço' precisa de conferência",
-   "sugestao": "Abrir o anúncio oficial do Oliver e publicar como Mercado da Bola"
-  },
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Permanência de Enderson Moreira já publicada em 24/11; sem outra notícia confirmada em 48h",
-   "sugestao": "1º reforço do Novorizontino para a Série A 2027 no site/Instagram oficial"
-  },
-  {
-   "clube": "guarani",
-   "nome": "Guarani",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Sem anúncio oficial de técnico para 2027 (Cristian de Souza segue só especulado)",
-   "sugestao": "Anúncio oficial do novo técnico do Guarani quando sair"
-  },
   {
    "clube": "corinthians-feminino",
    "nome": "Corinthians Feminino",
@@ -420,6 +357,69 @@
    "quando": "2026-11-26T15:33-03:00",
    "motivo": "Cobertura 6h (26/11 tarde): só o Terra (25/11) sobre Alerrandro suspenso no Inter, sem 2ª fonte aceita; site oficial do Bragantino não abriu",
    "sugestao": "Internacional x Red Bull Bragantino, domingo (29/11), 18h30, no Beira-Rio: Inter sem Alerrandro (3º amarelo), dúvidas de Mercado e Calebe, volta de Alan Patrick. Confirmar no ge RS/GZH e somar relacionados do Massa Bruta"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Sem notícia nova das últimas 48h com 2 fontes acessíveis nesta execução (sites regionais bloqueados para leitura automática); evergreen bloqueado pelo limite de 14 dias",
+   "sugestao": "Planejamento do União Suzano para a Série A4 de 2027 (técnico, elenco) com o site oficial do clube"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Sem notícia nova das últimas 48h com 2 fontes acessíveis nesta execução (sites regionais bloqueados para leitura automática); evergreen bloqueado pelo limite de 14 dias",
+   "sugestao": "Elenco e comissão do Colorado Caieiras para a Série A4 de 2027"
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Sem notícia nova das últimas 48h com 2 fontes acessíveis nesta execução (sites regionais bloqueados para leitura automática); evergreen bloqueado pelo limite de 14 dias",
+   "sugestao": "Desportivo Brasil com Ederaldo Oliveira para a A4 2027: reforços e base"
+  },
+  {
+   "clube": "independente",
+   "nome": "Independente",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Renovação de Hiago Ramiro (24/11) só no Rápido no Ar; sem 2ª fonte; história bloqueada (24/11)",
+   "sugestao": "Hiago Ramiro renova com o Independente para a A4 2027 (confirmar com post oficial do Galo)"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Pautas recentes (11 contratados, Copinha) já publicadas; sem fato novo com 2 fontes",
+   "sugestao": "Copa CCF: Comercial joga em Ribeirão Preto em 29/11 (prévia com adversário e horário oficiais)"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Sem notícia das últimas 48h com 2 fontes",
+   "sugestao": "Reforços da Ferroviária para Paulistão e Série B 2027 (site oficial da Ferroviária)"
+  },
+  {
+   "clube": "botafogosp",
+   "nome": "Botafogo-SP",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Pautas da CBN Ribeirão (Reverson, Zé Hugo) não abriram nesta execução e não achei 2ª fonte",
+   "sugestao": "Reverson reforço do Botafogo-SP e situação do contrato de Zé Hugo (vence 30/11)"
+  },
+  {
+   "clube": "itapirense",
+   "nome": "Itapirense",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Sem notícia recente nem fonte segura para evergreen (só Wikipédia)",
+   "sugestao": "Técnico e elenco da Itapirense para a Série A3 de 2027"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-26T17:05-03:00",
+   "motivo": "Sem notícia recente; site já tem a história do clube",
+   "sugestao": "Técnico do Catanduva para a Série A3 de 2027 (ainda indefinido em outubro)"
   }
  ]
 }
