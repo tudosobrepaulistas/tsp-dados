@@ -57,29 +57,144 @@
     ]
    },
    "carreira": [
-    {"temporada": "2026", "clube": "Maringá", "funcao": "Treinador", "obs": "De 13/02 a 10/08/2026; 16 rodadas da Série C"},
-    {"temporada": "2025-2026", "clube": "XV de Piracicaba", "funcao": "Treinador", "obs": "Contratado em 06/11/2024; campeão da Copa Paulista 2025; saiu em janeiro de 2026, na Série A2"},
-    {"temporada": "2023-2024", "clube": "Noroeste", "funcao": "Treinador", "obs": "Acesso à Série A1 em 2024"},
-    {"temporada": "2022-2023", "clube": "Botafogo-PB", "funcao": "Treinador", "obs": "De 28/09/2022 a 22/01/2023"},
-    {"temporada": "2022", "clube": "Primavera", "funcao": "Treinador", "obs": "Um jogo na Copa Paulista"},
-    {"temporada": "2021-2022", "clube": "Portuguesa Santista", "funcao": "Treinador", "obs": "De 23/11/2021 a 17/02/2022"},
-    {"temporada": "2021", "clube": "Barra", "funcao": "Treinador", "obs": "Campeão invicto da Série B do Catarinense"},
-    {"temporada": "2020-2021", "clube": "XV de Piracicaba", "funcao": "Treinador", "obs": "De 09/10/2020 a 24/05/2021"},
-    {"temporada": "2020", "clube": "Marcílio Dias", "funcao": "Treinador", "obs": "De 03/12/2019 a 28/09/2020"},
-    {"temporada": "2019", "clube": "Novorizontino", "funcao": "Treinador", "obs": "Série D"},
-    {"temporada": "2017-2019", "clube": "Mirassol", "funcao": "Treinador", "obs": "De 08/11/2016 a 21/03/2019"},
-    {"temporada": "2016", "clube": "Linense", "funcao": "Treinador", "obs": "Série D"},
-    {"temporada": "2016", "clube": "Mirassol", "funcao": "Treinador", "obs": "Acesso à Série A1"},
-    {"temporada": "2015", "clube": "Linense", "funcao": "Treinador", "obs": "Campeão da Copa Paulista"},
-    {"temporada": "2015", "clube": "Monte Azul", "funcao": "Treinador", "obs": "Série A2"},
-    {"temporada": "2014", "clube": "CRAC", "funcao": "Treinador", "obs": "Temporada 2014"},
-    {"temporada": "2013-2014", "clube": "Sertãozinho", "funcao": "Treinador", "obs": "De 07/08/2013 a 27/02/2014"},
-    {"temporada": "2013", "clube": "São José", "funcao": "Treinador", "obs": "Série A2"},
-    {"temporada": "2013", "clube": "Ferroviária", "funcao": "Treinador", "obs": "Contratado em 04/03/2013"},
-    {"temporada": "2013", "clube": "União Barbarense", "funcao": "Treinador", "obs": "Saiu em 25/02/2013"},
-    {"temporada": "2012", "clube": "Noroeste", "funcao": "Treinador", "obs": "Campeão da Copa Paulista"},
-    {"temporada": "2012", "clube": "Rio Branco", "funcao": "Treinador", "obs": "De 31/05 a 03/08/2012"},
-    {"temporada": "2010-2012", "clube": "XV de Piracicaba", "funcao": "Treinador", "obs": "Acesso em 2010 e título da Série A2 em 2011"}
+    {
+     "temporada": "2026",
+     "clube": "Maringá",
+     "funcao": "Treinador",
+     "obs": "De 13/02 a 10/08/2026; 16 rodadas da Série C"
+    },
+    {
+     "temporada": "2025-2026",
+     "clube": "XV de Piracicaba",
+     "funcao": "Treinador",
+     "obs": "Contratado em 06/11/2024; campeão da Copa Paulista 2025; saiu em janeiro de 2026, na Série A2"
+    },
+    {
+     "temporada": "2023-2024",
+     "clube": "Noroeste",
+     "funcao": "Treinador",
+     "obs": "Acesso à Série A1 em 2024"
+    },
+    {
+     "temporada": "2022-2023",
+     "clube": "Botafogo-PB",
+     "funcao": "Treinador",
+     "obs": "De 28/09/2022 a 22/01/2023"
+    },
+    {
+     "temporada": "2022",
+     "clube": "Primavera",
+     "funcao": "Treinador",
+     "obs": "Um jogo na Copa Paulista"
+    },
+    {
+     "temporada": "2021-2022",
+     "clube": "Portuguesa Santista",
+     "funcao": "Treinador",
+     "obs": "De 23/11/2021 a 17/02/2022"
+    },
+    {
+     "temporada": "2021",
+     "clube": "Barra",
+     "funcao": "Treinador",
+     "obs": "Campeão invicto da Série B do Catarinense"
+    },
+    {
+     "temporada": "2020-2021",
+     "clube": "XV de Piracicaba",
+     "funcao": "Treinador",
+     "obs": "De 09/10/2020 a 24/05/2021"
+    },
+    {
+     "temporada": "2020",
+     "clube": "Marcílio Dias",
+     "funcao": "Treinador",
+     "obs": "De 03/12/2019 a 28/09/2020"
+    },
+    {
+     "temporada": "2019",
+     "clube": "Novorizontino",
+     "funcao": "Treinador",
+     "obs": "Série D"
+    },
+    {
+     "temporada": "2017-2019",
+     "clube": "Mirassol",
+     "funcao": "Treinador",
+     "obs": "De 08/11/2016 a 21/03/2019"
+    },
+    {
+     "temporada": "2016",
+     "clube": "Linense",
+     "funcao": "Treinador",
+     "obs": "Série D"
+    },
+    {
+     "temporada": "2016",
+     "clube": "Mirassol",
+     "funcao": "Treinador",
+     "obs": "Acesso à Série A1"
+    },
+    {
+     "temporada": "2015",
+     "clube": "Linense",
+     "funcao": "Treinador",
+     "obs": "Campeão da Copa Paulista"
+    },
+    {
+     "temporada": "2015",
+     "clube": "Monte Azul",
+     "funcao": "Treinador",
+     "obs": "Série A2"
+    },
+    {
+     "temporada": "2014",
+     "clube": "CRAC",
+     "funcao": "Treinador",
+     "obs": "Temporada 2014"
+    },
+    {
+     "temporada": "2013-2014",
+     "clube": "Sertãozinho",
+     "funcao": "Treinador",
+     "obs": "De 07/08/2013 a 27/02/2014"
+    },
+    {
+     "temporada": "2013",
+     "clube": "São José",
+     "funcao": "Treinador",
+     "obs": "Série A2"
+    },
+    {
+     "temporada": "2013",
+     "clube": "Ferroviária",
+     "funcao": "Treinador",
+     "obs": "Contratado em 04/03/2013"
+    },
+    {
+     "temporada": "2013",
+     "clube": "União Barbarense",
+     "funcao": "Treinador",
+     "obs": "Saiu em 25/02/2013"
+    },
+    {
+     "temporada": "2012",
+     "clube": "Noroeste",
+     "funcao": "Treinador",
+     "obs": "Campeão da Copa Paulista"
+    },
+    {
+     "temporada": "2012",
+     "clube": "Rio Branco",
+     "funcao": "Treinador",
+     "obs": "De 31/05 a 03/08/2012"
+    },
+    {
+     "temporada": "2010-2012",
+     "clube": "XV de Piracicaba",
+     "funcao": "Treinador",
+     "obs": "Acesso em 2010 e título da Série A2 em 2011"
+    }
    ],
    "carreira_fonte": "Matérias de ge, Futebol Interior, Gazeta Esportiva, Lance!, NSC Total, Escanteio SP, Trivela e UmDois Esportes, listadas em Fontes",
    "pilar": {
@@ -172,10 +287,30 @@
     ]
    },
    "carreira": [
-    {"temporada": "2027", "clube": "Lemense", "funcao": "Treinador", "obs": "Anunciado em 09/10/2026 para a Série A4"},
-    {"temporada": "2026", "clube": "Grêmio São-Carlense", "funcao": "Treinador", "obs": "Assumiu em 19/03/2026; semifinal da Série A4"},
-    {"temporada": "2025", "clube": "União São João", "funcao": "Treinador", "obs": "Interino em fevereiro e efetivado; quartas de final da Série A3"},
-    {"temporada": "2023-2024", "clube": "União São João", "funcao": "Auxiliar técnico", "obs": "Começou no sub-15; auxiliar na Copa Paulista de 2024"}
+    {
+     "temporada": "2027",
+     "clube": "Lemense",
+     "funcao": "Treinador",
+     "obs": "Anunciado em 09/10/2026 para a Série A4"
+    },
+    {
+     "temporada": "2026",
+     "clube": "Grêmio São-Carlense",
+     "funcao": "Treinador",
+     "obs": "Assumiu em 19/03/2026; semifinal da Série A4"
+    },
+    {
+     "temporada": "2025",
+     "clube": "União São João",
+     "funcao": "Treinador",
+     "obs": "Interino em fevereiro e efetivado; quartas de final da Série A3"
+    },
+    {
+     "temporada": "2023-2024",
+     "clube": "União São João",
+     "funcao": "Auxiliar técnico",
+     "obs": "Começou no sub-15; auxiliar na Copa Paulista de 2024"
+    }
    ],
    "carreira_fonte": "Futebol Interior, São Carlos Dia e Noite, O Curioso do Futebol, NetVasco e TSP Exclusiva #173",
    "pilar": {
@@ -225,6 +360,373 @@
       "resposta": "Danilo Sacramento defende um time competitivo que fique com a bola. No TSP Exclusiva #173 (18/11/2026), resumiu: “Bola pro alto é outro esporte, é basquete, é vôlei. Futebol tem que ser bem jogado”. Ele também dá peso ao lado mental e à conversa franca com os jogadores.",
       "texto": [
        "O trabalho mental, disse ele, aprendeu com o técnico Adão, com quem trabalhou quatro anos. Sobre o vestiário, costuma resumir: “Foi olho no olho, sempre falando a verdade com os jogadores”."
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "nome": "Marcelo Marelli",
+   "exclusiva": 39,
+   "pilar": {
+    "titulo": "Marcelo Marelli: quem é, idade, títulos e carreira do técnico do Marília",
+    "descricao": "Marcelo Marelli, técnico do Marília na Série A2 de 2027: campeão da A3 2025 com o Sertãozinho, idade, clubes e trajetória ano a ano.",
+    "resposta_rapida": "Marcelo Marelli, 44 anos, carioca, é o técnico do Marília para a Série A2 do Paulistão 2027. Foi campeão da Série A3 de 2025 com o Sertãozinho, eleito o melhor técnico da competição, e trabalhou na base de Flamengo e Corinthians antes de chegar ao futebol profissional.",
+    "secoes": [
+     {
+      "h2": "Quem é Marcelo Marelli?",
+      "resposta": "Marcelo Marelli Manhaes nasceu em 28/01/1982, no Rio de Janeiro. Formado nas categorias de base de Flamengo (2005 a 2010), Centro de Futebol Zico (2011) e Corinthians (2012 a 2014), virou técnico profissional em 2021 e foi contratado pelo Marília em outubro de 2026.",
+      "texto": [
+       "Como técnico principal, passou por Bangu, Flamengo de Guarulhos, Taquaritinga, Sertãozinho, São José e Rio Branco. Em 2026, foi auxiliar fixo do Guarani na Série C antes de assumir o Marília, apresentado em 19/10/2026."
+      ]
+     },
+     {
+      "h2": "Quais títulos Marcelo Marelli conquistou?",
+      "resposta": "O principal é a Série A3 do Paulistão de 2025, com o Sertãozinho, que também valeu o acesso à Série A2. Na campanha, foram 21 jogos, 9 vitórias, 9 empates e 3 derrotas, e Marelli foi eleito o melhor técnico da competição.",
+      "texto": []
+     },
+     {
+      "h2": "Qual é o time de Marcelo Marelli em 2027?",
+      "resposta": "O Marília, que apresentou Marcelo Marelli em 19/10/2026 como técnico para a Série A2 do Paulistão 2027. Antes, ele foi auxiliar fixo do Guarani na Série C de 2026, trabalhando ao lado de Élio Sizenando.",
+      "texto": []
+     }
+    ]
+   }
+  },
+  {
+   "nome": "Paulo Roberto Santos",
+   "pilar": {
+    "titulo": "Paulo Roberto Santos: o Rei do Acesso, clubes, títulos e carreira",
+    "descricao": "Paulo Roberto Santos, o Rei do Acesso: 14 acessos, títulos pelo Gama, clubes ano a ano desde 1988 e a volta ao União São João em 2027.",
+    "resposta_rapida": "Paulo Roberto Santos, carioca conhecido como \"Rei do Acesso\", é o técnico do União São João para a Série A3 de 2027. Soma 14 acessos desde 1988, quatro deles nacionais, e dois títulos brasilienses pelo Gama (1994 e 1998). Levou o São Bento da Série D à Série B em 2016 e 2017.",
+    "secoes": [
+     {
+      "h2": "Quem é Paulo Roberto Santos?",
+      "resposta": "Paulo Roberto Santos é um técnico nascido no Rio de Janeiro que trabalha desde 1988, quando levou o Pouso Alegre à primeira divisão mineira. É conhecido como \"Rei do Acesso\" e \"Luxemburgo do Interior\" e soma passagens por São Bento, Rio Claro, Guarani, Paysandu, Sampaio Corrêa e Santo André.",
+      "texto": [
+       "Em 2027, volta ao União São João, clube que treinou em 2003, para a disputa da Série A3 do Paulistão."
+      ]
+     },
+     {
+      "h2": "Quantos acessos Paulo Roberto Santos tem?",
+      "resposta": "Catorze acessos até 2022, quatro deles em competições nacionais. Os destaques: o Rio Claro levado da 6ª divisão à elite paulista, o São Bento da Série D à Série B em 2016 e 2017, e o Pouso Alegre na Série C pela primeira vez, em 2022.",
+      "texto": [
+       "Em 2022, subiu dois times no mesmo ano: o São Bento para a Série A1 do Paulistão, em abril, e o Pouso Alegre para a Série C, em agosto, com vitória por 1 a 0 sobre o ASA na semifinal da Série D."
+      ]
+     },
+     {
+      "h2": "Por que Paulo Roberto Santos é chamado de Rei do Acesso?",
+      "resposta": "Pela quantidade de acessos: 14 até 2022, segundo o levantamento conferido pelo TSP em Futebol Interior, Correio Braziliense e Trivela. O apelido \"Luxemburgo do Interior\" foi criado por um jornalista de Rio Claro, segundo o próprio técnico.",
+      "texto": []
+     }
+    ]
+   }
+  },
+  {
+   "nome": "Thiago Oliveira",
+   "pilar": {
+    "titulo": "Thiago Oliveira: técnico do Penapolense, clubes e carreira",
+    "descricao": "Thiago Oliveira, técnico do Penapolense em 2027: vice da Copa Paulista 2026 com o União São João, clubes ano a ano e trajetória.",
+    "resposta_rapida": "Thiago Oliveira é o técnico do Penapolense para 2027, na terceira passagem pelo clube. Em 2026, levou o União São João à primeira final de Copa Paulista da história do clube. Também treinou Caldense, Bandeirante e Votuporanguense.",
+    "secoes": [
+     {
+      "h2": "Quem é Thiago Oliveira, técnico do Penapolense?",
+      "resposta": "Thiago Oliveira é um técnico com carreira no interior paulista e em Minas Gerais. Treinou Caldense (2016 e 2017, e 2025), Penapolense (2018 e 2019), Votuporanguense (2022), Bandeirante (2024) e União São João (2026). Em 2027, volta ao Penapolense pela terceira vez.",
+      "texto": [
+       "No Bandeirante, manteve o time na Série A3 em 2024. No União São João, assumiu em março de 2026, na Série A3, com 3 vitórias, 1 empate e 1 derrota nos 5 últimos jogos."
+      ]
+     },
+     {
+      "h2": "Como foi a Copa Paulista 2026 de Thiago Oliveira?",
+      "resposta": "Com o União São João, Thiago Oliveira chegou à primeira final de Copa Paulista da história do clube. Foram dois empates com o São José, 1 a 1 e 0 a 0, e o título ficou com o São José nos pênaltis, por 4 a 3.",
+      "texto": []
+     }
+    ]
+   }
+  },
+  {
+   "nome": "Raphael Pereira",
+   "ficha": {
+    "titulos": [
+     "Campeão da Série A4 2024 com o Rio Branco"
+    ],
+    "fontes": [
+     "https://www.futebolinterior.com.br/sao-caetano-raphael-pereira-treinador/",
+     "https://www.gazetaesportiva.com/?p=3499376",
+     "https://www.campograndenews.com.br/esportes/campeao-da-4a-divisao-do-paulista-sera-o-novo-tecnico-do-operario"
+    ]
+   },
+   "pilar": {
+    "titulo": "Raphael Pereira: bicampeão da A4, técnico do São Caetano em 2027",
+    "descricao": "Raphael Pereira, técnico do São Caetano para 2027: bicampeão da Série A4 (Rio Branco 2024 e União Barbarense 2025), clubes e carreira.",
+    "resposta_rapida": "Raphael Pereira, 46 anos, é o técnico do São Caetano para a Série A4 do Paulistão 2027. É bicampeão da A4: com o Rio Branco em 2024, que também subiu para a A3, e com o União Barbarense em 2025, quando foi eleito o melhor técnico da competição.",
+    "secoes": [
+     {
+      "h2": "Quem é Raphael Pereira?",
+      "resposta": "Raphael Pereira é um técnico paulista que começou no Rio Branco de Americana, em 2019. Bicampeão da Série A4 (Rio Branco 2024 e União Barbarense 2025), passou também por União São João, Operário-MS, Paulista e Comercial antes de ser anunciado pelo São Caetano para 2027.",
+      "texto": [
+       "No União Barbarense campeão de 2025, foram 13 vitórias em 17 jogos. Em seguida, assumiu o Operário-MS para a reta final da Série D de 2025."
+      ]
+     },
+     {
+      "h2": "Quais títulos Raphael Pereira conquistou?",
+      "resposta": "Dois títulos da Série A4 do Paulistão: em 2024, com o Rio Branco, que também conquistou o acesso à Série A3, e em 2025, com o União Barbarense, campanha em que foi eleito o melhor técnico da competição.",
+      "texto": []
+     }
+    ]
+   }
+  },
+  {
+   "nome": "Elio Sizenando",
+   "posicao": "Treinador",
+   "clube": "capivariano",
+   "nascimento": "1971-03-02",
+   "ficha": {
+    "nome_completo": "Elio Sizenando Teixeira Filho",
+    "natural": "Campinas (SP)",
+    "no_clube": "Anunciado em 22/10/2026 para a quinta temporada seguida no Capivariano",
+    "inicio": "Começou nas categorias de base, em Paulínia, e passou por Mirassol, Ponte Preta, Capivariano, Figueirense e Desportivo Brasil antes de se firmar no profissional",
+    "titulos": [
+     "Campeão da Série A3 2023 com o Capivariano",
+     "Campeão da Série A2 2025 com o Capivariano"
+    ],
+    "acessos": [
+     "Acesso à Série A2 em 2023 com o Capivariano",
+     "Acesso à Série A1 em 2025 com o Capivariano, que voltou à elite depois de nove anos"
+    ],
+    "destaques": [
+     "Levou o Capivariano da Série A3 à A1 em dois acessos, com títulos em 2023 e 2025",
+     "Comandou o Guarani em 18 jogos na Série C de 2026, de março a agosto",
+     "Em 2025, foi cedido pelo Capivariano ao Figueirense para as três rodadas finais da Série C"
+    ],
+    "fontes": [
+     "https://cbncampinas.com.br/2026/10/capivariano-confirma-elio-sizenando-como-treinador-para-o-paulistao-2027/",
+     "https://www.futebolinterior.com.br/capivariano-contrata-elio-sizenando/",
+     "https://www.jornalosemanario.com.br/capivariano-fc-saf-anuncia-elio-sizenando-para-a-temporada-2027/",
+     "https://diariocampineiro.com.br/capivariano-confirma-volta-do-tecnico-elio-sizenando-apos-18-jogos-no-comando-do-guarani/",
+     "https://horacampinas.com.br/guarani-anuncia-elio-sizenando-ex-capivariano-como-tecnico-para-a-serie-c/",
+     "https://vtvnews.com.br/noticias/esportes/guarani-contrata-elio-sizenando/",
+     "https://atarde.com.br/esportes/treinador-e-emprestado-por-clube-para-salvar-o-figueirense-na-serie-c-1347201",
+     "https://istoe.com.br/sao-jose-ganha-do-capivariano-e-fica-a-um-empate-do-titulo-do-paulista-a3",
+     "https://www.futebolinterior.com.br/paulista-a3-tecnicos-elio-sizenando-e-ricardo-costa-buscam-coroar-acesso-com-titulo/",
+     "https://www.lance.com.br/futebol-nacional/paulistao-capivariano-aposta-em-continuidade-e-reforcos-para-se-manter-na-elite.html"
+    ]
+   },
+   "carreira": [
+    {
+     "temporada": "2027",
+     "clube": "Capivariano",
+     "funcao": "Treinador",
+     "obs": "Anunciado em 22/10/2026"
+    },
+    {
+     "temporada": "2026",
+     "clube": "Guarani",
+     "funcao": "Treinador",
+     "obs": "18 jogos na Série C, de março a agosto"
+    },
+    {
+     "temporada": "2026",
+     "clube": "Capivariano",
+     "funcao": "Treinador",
+     "obs": "Série A1 do Paulistão"
+    },
+    {
+     "temporada": "2025",
+     "clube": "Figueirense",
+     "funcao": "Treinador",
+     "obs": "Três rodadas finais da Série C"
+    },
+    {
+     "temporada": "2025",
+     "clube": "Pouso Alegre",
+     "funcao": "Treinador",
+     "obs": "Série D"
+    },
+    {
+     "temporada": "2022-2025",
+     "clube": "Capivariano",
+     "funcao": "Treinador",
+     "obs": "Campeão da A3 2023 e da A2 2025"
+    },
+    {
+     "temporada": "2019-2021",
+     "clube": "Desportivo Brasil",
+     "funcao": "Treinador",
+     "obs": ""
+    },
+    {
+     "temporada": "2016-2017",
+     "clube": "Capivariano",
+     "funcao": "Treinador",
+     "obs": "Vice-campeão paulista sub-20 em 2016"
+    },
+    {
+     "temporada": "2012-2013",
+     "clube": "Novorizontino",
+     "funcao": "Treinador",
+     "obs": ""
+    }
+   ],
+   "carreira_fonte": "CBN Campinas, Futebol Interior, Hora Campinas, Diário Campineiro, ge e sites oficiais dos clubes",
+   "pilar": {
+    "titulo": "Elio Sizenando: quem é, idade, títulos e carreira do técnico do Capivariano",
+    "descricao": "Elio Sizenando, técnico do Capivariano em 2027: campeão da A3 2023 e da A2 2025, passagem pelo Guarani, idade, clubes e carreira.",
+    "resposta_rapida": "Elio Sizenando, 55 anos, natural de Campinas (SP), é o técnico do Capivariano para o Paulistão 2027. Levou o clube da Série A3 à A1 com dois títulos: A3 de 2023 e A2 de 2025. Em 2026, comandou o Guarani em 18 jogos na Série C.",
+    "secoes": [
+     {
+      "h2": "Quem é Elio Sizenando?",
+      "resposta": "Elio Sizenando Teixeira Filho, nascido em 02/03/1971 em Campinas (SP), é técnico de futebol formado nas categorias de base. Ficou conhecido pelo trabalho no Capivariano, que levou da Série A3 à elite do Paulistão, com títulos em 2023 e 2025. Em 2027, faz a quinta temporada seguida no clube.",
+      "texto": [
+       "Antes do profissional, trabalhou na base de Paulínia, Mirassol, Ponte Preta, Capivariano, Figueirense e Desportivo Brasil."
+      ]
+     },
+     {
+      "h2": "Quais títulos Elio Sizenando conquistou?",
+      "resposta": "Dois títulos com o Capivariano: a Série A3 do Paulistão de 2023, sobre o São José, e a Série A2 de 2025, que devolveu o clube à elite depois de nove anos.",
+      "texto": []
+     },
+     {
+      "h2": "Como foi a passagem de Elio Sizenando pelo Guarani?",
+      "resposta": "O Guarani anunciou Elio Sizenando em 11/03/2026 para a Série C, no lugar de Matheus Costa. Ele comandou o Bugre em 18 jogos e deixou o clube em agosto de 2026. Em outubro, o Capivariano confirmou a volta dele para 2027.",
+      "texto": [
+       "No Guarani, trabalhou com Marcelo Marelli como auxiliar fixo da comissão permanente."
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "nome": "Fernando Marchiori",
+   "posicao": "Treinador",
+   "clube": "xvdepiracicaba",
+   "nascimento": "1979-06-19",
+   "ficha": {
+    "nome_completo": "Fernando Marchiori Lavagnoli",
+    "natural": "São Paulo (SP)",
+    "posicao_jogador": "Meia",
+    "no_clube": "Assumiu o XV de Piracicaba em janeiro de 2026 e comanda a pré-temporada de 2027",
+    "titulos": [
+     "Campeão da Série B do Paranaense 2017 com o Maringá",
+     "Campeão da Série A2 do Paulistão 2019 com o Santo André",
+     "Campeão da Copa Paulista 2020 com a Portuguesa",
+     "Campeão Potiguar 2022, invicto, com o ABC"
+    ],
+    "acessos": [
+     "Acesso à Série A1 em 2019 com o Santo André",
+     "Acesso à Série B do Brasileiro em 2022 com o ABC",
+     "Acesso à Série A1 em 2025 com o Primavera, pela primeira vez na história do clube"
+    ],
+    "destaques": [
+     "Eleito o melhor técnico da Série A2 de 2025",
+     "Levou o Primavera à final da Copa Paulista 2025 e à primeira competição nacional do clube, a Copa do Brasil de 2026",
+     "Vice-campeão da Série C de 2022 com o ABC",
+     "Como jogador, foi revelado pela Portuguesa e chegou à Seleção Brasileira sub-20 em 1997"
+    ],
+    "fontes": [
+     "https://www.futebolinterior.com.br/marchiori-egert-final-copa-paulista/",
+     "https://www.futebolinterior.com.br/fernando-marchiori-faz-historia-no-primavera/",
+     "https://ne45.com.br/2023/05/28/fernando-marchiori-ex-abc-e-o-novo-tecnico-do-nautico/",
+     "https://istoe.com.br/sampaio-correa-demite-tecnico-e-anuncia-fernando-marchiori-para-reta-final-da-serie-b/",
+     "https://xvpiracicaba.com.br/noticias/fernando-marchiori-e-o-novo-tecnico-do-xv-de-piracicaba/",
+     "https://www.ocuriosodofutebol.com.br/2026/01/xv-de-piracicaba-anuncia-fernando.html",
+     "https://sampi.net.br/piracicaba/noticias/2958574/esportes/2026/01/xv-anuncia-tecnico-campeao-para-sacudir-o-time-na-a2",
+     "https://www.ocuriosodofutebol.com.br/2020/02/portuguesa-apresenta-fernando-marchiori.html",
+     "https://www.gazetaesportiva.com/?p=3718947",
+     "https://xvpiracicaba.com.br/noticias/elenco-comeca-a-pre-temporada-visando-2027-primeiro-desafio-e-a-disputa-do-paulistao-a2/"
+    ]
+   },
+   "carreira": [
+    {
+     "temporada": "2026-2027",
+     "clube": "XV de Piracicaba",
+     "funcao": "Treinador",
+     "obs": "Contratado em janeiro de 2026"
+    },
+    {
+     "temporada": "2024-2025",
+     "clube": "Primavera",
+     "funcao": "Treinador",
+     "obs": "Acesso inédito à A1 e vice da Copa Paulista 2025"
+    },
+    {
+     "temporada": "2023",
+     "clube": "Sampaio Corrêa",
+     "funcao": "Treinador",
+     "obs": "Série B"
+    },
+    {
+     "temporada": "2023",
+     "clube": "Náutico",
+     "funcao": "Treinador",
+     "obs": "12 jogos: 4 vitórias, 6 empates e 2 derrotas"
+    },
+    {
+     "temporada": "2022-2023",
+     "clube": "ABC",
+     "funcao": "Treinador",
+     "obs": "Campeão potiguar invicto e acesso à Série B em 2022"
+    },
+    {
+     "temporada": "2022",
+     "clube": "Oeste",
+     "funcao": "Treinador",
+     "obs": ""
+    },
+    {
+     "temporada": "2020-2021",
+     "clube": "Portuguesa",
+     "funcao": "Treinador",
+     "obs": "Campeão da Copa Paulista 2020"
+    },
+    {
+     "temporada": "2019-2020",
+     "clube": "Água Santa",
+     "funcao": "Treinador",
+     "obs": ""
+    },
+    {
+     "temporada": "2019",
+     "clube": "Santo André",
+     "funcao": "Treinador",
+     "obs": "Campeão da Série A2 2019"
+    },
+    {
+     "temporada": "2016-2018",
+     "clube": "Maringá",
+     "funcao": "Treinador",
+     "obs": "Campeão da Série B do Paranaense 2017"
+    },
+    {
+     "temporada": "2014-2015",
+     "clube": "Cuiabá",
+     "funcao": "Treinador",
+     "obs": ""
+    }
+   ],
+   "carreira_fonte": "Futebol Interior, NE45, IstoÉ, O Curioso do Futebol, Sampi e site oficial do XV de Piracicaba",
+   "pilar": {
+    "titulo": "Fernando Marchiori: quem é, títulos, acessos e carreira do técnico do XV",
+    "descricao": "Fernando Marchiori, técnico do XV de Piracicaba: campeão da A2 2019, da Copa Paulista 2020 e potiguar 2022, acessos, idade e carreira.",
+    "resposta_rapida": "Fernando Marchiori, 47 anos, paulistano, é o técnico do XV de Piracicaba. Campeão da Série A2 de 2019 (Santo André), da Copa Paulista de 2020 (Portuguesa) e potiguar de 2022 (ABC), levou o Primavera à elite do Paulistão pela primeira vez em 2025.",
+    "secoes": [
+     {
+      "h2": "Quem é Fernando Marchiori?",
+      "resposta": "Fernando Marchiori Lavagnoli, nascido em 19/06/1979 em São Paulo, é ex-meia revelado pela Portuguesa e técnico de futebol. Treinou Cuiabá, Maringá, Santo André, Água Santa, Portuguesa, Oeste, ABC, Náutico, Sampaio Corrêa e Primavera antes de assumir o XV de Piracicaba, em janeiro de 2026.",
+      "texto": [
+       "Como jogador, chegou à Seleção Brasileira sub-20 em 1997 e atuou no exterior antes de virar técnico."
+      ]
+     },
+     {
+      "h2": "Quais títulos Fernando Marchiori conquistou?",
+      "resposta": "Quatro títulos conferidos pelo TSP: Série B do Paranaense 2017 (Maringá), Série A2 do Paulistão 2019 (Santo André), Copa Paulista 2020 (Portuguesa) e Campeonato Potiguar 2022, invicto (ABC).",
+      "texto": []
+     },
+     {
+      "h2": "Quantos acessos Fernando Marchiori tem?",
+      "resposta": "O TSP conferiu três: Santo André para a Série A1 em 2019, ABC para a Série B do Brasileiro em 2022, com o vice da Série C, e Primavera para a Série A1 em 2025, pela primeira vez na história do clube de Indaiatuba.",
+      "texto": [
+       "Em 2025, Marchiori foi eleito o melhor técnico da Série A2 e ainda levou o Primavera à final da Copa Paulista, perdida para o XV de Piracicaba de Moisés Egert, com gol nos acréscimos."
       ]
      }
     ]
