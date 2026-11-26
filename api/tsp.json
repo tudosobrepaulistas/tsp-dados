@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26T01:55:00-03:00",
+ "gerado": "2026-11-26T03:34:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -23682,7 +23682,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.59,
-     0.88
+     0.89
     ],
     "base": [
      23,
@@ -23806,7 +23806,7 @@
     "fora": 25,
     "placar": "1x1",
     "gols_esperados": [
-     1.62,
+     1.63,
      1.07
     ],
     "base": [
@@ -23929,7 +23929,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.73,
-     1.22
+     1.23
     ],
     "base": [
      37,
@@ -24016,7 +24016,7 @@
    "previsao": {
     "casa": 20,
     "empate": 24,
-    "fora": 56,
+    "fora": 57,
     "placar": "0x1",
     "gols_esperados": [
      0.91,
@@ -24076,7 +24076,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.56,
-     1.45
+     1.46
     ],
     "base": [
      23,
@@ -24132,7 +24132,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.18,
-     1.19
+     1.2
     ],
     "base": [
      28,
@@ -24244,7 +24244,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.69,
-     1.34
+     1.35
     ],
     "base": [
      36,
@@ -24300,7 +24300,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.7,
-     1.08
+     1.09
     ],
     "base": [
      30,
@@ -24412,7 +24412,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.97,
-     1.17
+     1.18
     ],
     "base": [
      23,
@@ -24468,7 +24468,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.78,
-     1.11
+     1.12
     ],
     "base": [
      33,
@@ -24686,7 +24686,7 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 44,
+    "casa": 43,
     "empate": 29,
     "fora": 28,
     "placar": "1x0",
@@ -24804,7 +24804,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.62,
-     1.19
+     1.2
     ],
     "base": [
      27,
@@ -24860,7 +24860,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.75,
-     1.23
+     1.24
     ],
     "base": [
      38,
@@ -25740,6 +25740,99 @@
    "escalacoes": {},
    "previsao": null,
    "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/america-perde-para-o-botafogo-sp-pela-serie-b-e-ve-pressao-sobre-valentim-aumentar/"
+   ],
+   "fixture": {
+    "id": 91000570,
+    "timestamp": 1775077200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena MRV",
+     "city": "Belo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900039,
+     "name": "América-MG"
+    },
+    "away": {
+     "id": 900032,
+     "name": "Botafogo-SP"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 6,
+      "extra": null,
+      "texto": "6"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Mastriani"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 31,
+      "extra": null,
+      "texto": "31"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Morelli"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 58,
+      "extra": null,
+      "texto": "58"
+     },
+     "team": {
+      "id": 900032,
+      "name": "Botafogo-SP"
+     },
+     "player": {
+      "name": "Zé Hugo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_b",
@@ -26629,6 +26722,204 @@
      },
      "player": {
       "name": "Perotti"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/s%C3%A9rie-b-tem-rodada-positiva-para-futebol-cearense-com-cear%C3%A1-nos-playoffs-veja-classifica%C3%A7%C3%A3o-1.3755295",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/em-duelo-pela-lideranca-avai-e-operario-pr-ficam-no-empate-pela-serie-b/"
+   ],
+   "fixture": {
+    "id": 91000571,
+    "timestamp": 1775401200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Ressacada",
+     "city": "Florianópolis"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900037,
+     "name": "Avaí"
+    },
+    "away": {
+     "id": 900029,
+     "name": "Operário-PR"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/s%C3%A9rie-b-tem-rodada-positiva-para-futebol-cearense-com-cear%C3%A1-nos-playoffs-veja-classifica%C3%A7%C3%A3o-1.3755295",
+    "https://www.tnh1.com.br/noticia/nid/barroca-exalta-empate-fora-de-casa-na-serie-b-e-explica-desgaste-para-sequencia-de-jogos-sem-vencer/"
+   ],
+   "fixture": {
+    "id": 91000572,
+    "timestamp": 1775401200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "",
+     "city": "Novo Horizonte"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900021,
+     "name": "Novorizontino"
+    },
+    "away": {
+     "id": 900026,
+     "name": "CRB"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 75,
+      "extra": null,
+      "texto": "75"
+     },
+     "team": {
+      "id": 900021,
+      "name": "Novorizontino"
+     },
+     "player": {
+      "name": "Carlão"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900026,
+      "name": "CRB"
+     },
+     "player": {
+      "name": "Dadá Belmonte"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_b",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/s%C3%A9rie-b-tem-rodada-positiva-para-futebol-cearense-com-cear%C3%A1-nos-playoffs-veja-classifica%C3%A7%C3%A3o-1.3755295",
+    "https://www.oliberal.com/esportes/com-um-a-menos-athletic-mg-segura-o-empate-com-o-america-mg-em-duelo-mineiro-pela-serie-b-1.1106332"
+   ],
+   "fixture": {
+    "id": 91000573,
+    "timestamp": 1775401200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Sicredi",
+     "city": "São João del-Rei"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900034,
+     "name": "Athletic"
+    },
+    "away": {
+     "id": 900039,
+     "name": "América-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 36,
+      "extra": null,
+      "texto": "36"
+     },
+     "team": {
+      "id": 900034,
+      "name": "Athletic"
+     },
+     "player": {
+      "name": "Ronaldo Tavares"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 84,
+      "extra": null,
+      "texto": "84"
+     },
+     "team": {
+      "id": 900039,
+      "name": "América-MG"
+     },
+     "player": {
+      "name": "Mastriani"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -53851,6 +54142,12 @@
     "gols": 6
    },
    {
+    "jogador": "Morelli",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
+    "gols": 5
+   },
+   {
     "jogador": "Raí Silva",
     "time": "Juventude",
     "time_id": 900022,
@@ -53882,12 +54179,6 @@
    },
    {
     "jogador": "Hygor",
-    "time": "Botafogo-SP",
-    "time_id": 900032,
-    "gols": 4
-   },
-   {
-    "jogador": "Morelli",
     "time": "Botafogo-SP",
     "time_id": 900032,
     "gols": 4
@@ -53926,6 +54217,12 @@
     "jogador": "Marrony",
     "time": "Atlético-GO",
     "time_id": 900028,
+    "gols": 3
+   },
+   {
+    "jogador": "Mastriani",
+    "time": "América-MG",
+    "time_id": 900039,
     "gols": 3
    },
    {
@@ -53968,6 +54265,12 @@
     "jogador": "Carlos de Pena",
     "time": "Sport",
     "time_id": 900027,
+    "gols": 2
+   },
+   {
+    "jogador": "Dadá Belmonte",
+    "time": "CRB",
+    "time_id": 900026,
     "gols": 2
    },
    {
@@ -54085,6 +54388,12 @@
     "gols": 2
    },
    {
+    "jogador": "Ronaldo Tavares",
+    "time": "Athletic",
+    "time_id": 900034,
+    "gols": 2
+   },
+   {
     "jogador": "Thiaguinho",
     "time": "CRB",
     "time_id": 900026,
@@ -54112,6 +54421,12 @@
     "jogador": "Waguininho",
     "time": "Criciúma",
     "time_id": 900025,
+    "gols": 2
+   },
+   {
+    "jogador": "Zé Hugo",
+    "time": "Botafogo-SP",
+    "time_id": 900032,
     "gols": 2
    },
    {
@@ -54211,6 +54526,12 @@
     "gols": 1
    },
    {
+    "jogador": "Carlão",
+    "time": "Novorizontino",
+    "time_id": 900021,
+    "gols": 1
+   },
+   {
     "jogador": "Cauê",
     "time": "Criciúma",
     "time_id": 900025,
@@ -54218,12 +54539,6 @@
    },
    {
     "jogador": "Crystopher",
-    "time": "CRB",
-    "time_id": 900026,
-    "gols": 1
-   },
-   {
-    "jogador": "Dadá Belmonte",
     "time": "CRB",
     "time_id": 900026,
     "gols": 1
@@ -54565,12 +54880,6 @@
     "gols": 1
    },
    {
-    "jogador": "Mastriani",
-    "time": "América-MG",
-    "time_id": 900039,
-    "gols": 1
-   },
-   {
     "jogador": "Matheus Trindade",
     "time": "Operário-PR",
     "time_id": 900029,
@@ -54691,12 +55000,6 @@
     "gols": 1
    },
    {
-    "jogador": "Ronaldo Tavares",
-    "time": "Athletic",
-    "time_id": 900034,
-    "gols": 1
-   },
-   {
     "jogador": "Ryan",
     "time": "Vila Nova",
     "time_id": 900023,
@@ -54808,12 +55111,6 @@
     "jogador": "Ygor Catatau",
     "time": "CRB",
     "time_id": 900026,
-    "gols": 1
-   },
-   {
-    "jogador": "Zé Hugo",
-    "time": "Botafogo-SP",
-    "time_id": 900032,
     "gols": 1
    }
   ],

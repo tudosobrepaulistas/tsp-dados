@@ -24,6 +24,12 @@
   "gols": 6
  },
  {
+  "jogador": "Morelli",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
+  "gols": 5
+ },
+ {
   "jogador": "Raí Silva",
   "time": "Juventude",
   "time_id": 900022,
@@ -55,12 +61,6 @@
  },
  {
   "jogador": "Hygor",
-  "time": "Botafogo-SP",
-  "time_id": 900032,
-  "gols": 4
- },
- {
-  "jogador": "Morelli",
   "time": "Botafogo-SP",
   "time_id": 900032,
   "gols": 4
@@ -99,6 +99,12 @@
   "jogador": "Marrony",
   "time": "Atlético-GO",
   "time_id": 900028,
+  "gols": 3
+ },
+ {
+  "jogador": "Mastriani",
+  "time": "América-MG",
+  "time_id": 900039,
   "gols": 3
  },
  {
@@ -141,6 +147,12 @@
   "jogador": "Carlos de Pena",
   "time": "Sport",
   "time_id": 900027,
+  "gols": 2
+ },
+ {
+  "jogador": "Dadá Belmonte",
+  "time": "CRB",
+  "time_id": 900026,
   "gols": 2
  },
  {
@@ -258,6 +270,12 @@
   "gols": 2
  },
  {
+  "jogador": "Ronaldo Tavares",
+  "time": "Athletic",
+  "time_id": 900034,
+  "gols": 2
+ },
+ {
   "jogador": "Thiaguinho",
   "time": "CRB",
   "time_id": 900026,
@@ -285,6 +303,12 @@
   "jogador": "Waguininho",
   "time": "Criciúma",
   "time_id": 900025,
+  "gols": 2
+ },
+ {
+  "jogador": "Zé Hugo",
+  "time": "Botafogo-SP",
+  "time_id": 900032,
   "gols": 2
  },
  {
@@ -384,6 +408,12 @@
   "gols": 1
  },
  {
+  "jogador": "Carlão",
+  "time": "Novorizontino",
+  "time_id": 900021,
+  "gols": 1
+ },
+ {
   "jogador": "Cauê",
   "time": "Criciúma",
   "time_id": 900025,
@@ -391,12 +421,6 @@
  },
  {
   "jogador": "Crystopher",
-  "time": "CRB",
-  "time_id": 900026,
-  "gols": 1
- },
- {
-  "jogador": "Dadá Belmonte",
   "time": "CRB",
   "time_id": 900026,
   "gols": 1
@@ -738,12 +762,6 @@
   "gols": 1
  },
  {
-  "jogador": "Mastriani",
-  "time": "América-MG",
-  "time_id": 900039,
-  "gols": 1
- },
- {
   "jogador": "Matheus Trindade",
   "time": "Operário-PR",
   "time_id": 900029,
@@ -864,12 +882,6 @@
   "gols": 1
  },
  {
-  "jogador": "Ronaldo Tavares",
-  "time": "Athletic",
-  "time_id": 900034,
-  "gols": 1
- },
- {
   "jogador": "Ryan",
   "time": "Vila Nova",
   "time_id": 900023,
@@ -981,12 +993,6 @@
   "jogador": "Ygor Catatau",
   "time": "CRB",
   "time_id": 900026,
-  "gols": 1
- },
- {
-  "jogador": "Zé Hugo",
-  "time": "Botafogo-SP",
-  "time_id": 900032,
   "gols": 1
  }
 ]

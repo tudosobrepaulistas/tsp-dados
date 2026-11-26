@@ -880,6 +880,48 @@
    "atualizado": "2026-11-25T03:34:00-03:00"
   },
   {
+   "id": 91000570,
+   "data": "2026-04-01T18:00:00-03:00",
+   "casa": "america-mg",
+   "fora": "botafogo-sp",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena MRV",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Mastriani",
+     "minuto": "6",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Morelli",
+     "minuto": "31",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Zé Hugo",
+     "minuto": "58",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/tabela-da-s%C3%A9rie-b-ap%C3%B3s-a-2%C2%AA-rodada-aumenta-press%C3%A3o-em-cear%C3%A1-e-fortaleza-veja-1.3754825",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/america-perde-para-o-botafogo-sp-pela-serie-b-e-ve-pressao-sobre-valentim-aumentar/"
+   ],
+   "atualizado": "2026-11-26T03:34:00-03:00"
+  },
+  {
    "id": 91000326,
    "data": "2026-04-01T19:00:00-03:00",
    "casa": "sport",
@@ -1850,6 +1892,104 @@
     ],
     "atualizado": "2026-11-12T18:37:00-03:00"
    }
+  },
+  {
+   "id": 91000571,
+   "data": "2026-04-05T12:00:00-03:00",
+   "casa": "avai",
+   "fora": "operario-pr",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Ressacada",
+   "cidade": "Florianópolis",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/s%C3%A9rie-b-tem-rodada-positiva-para-futebol-cearense-com-cear%C3%A1-nos-playoffs-veja-classifica%C3%A7%C3%A3o-1.3755295",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/em-duelo-pela-lideranca-avai-e-operario-pr-ficam-no-empate-pela-serie-b/"
+   ],
+   "atualizado": "2026-11-26T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000572,
+   "data": "2026-04-05T12:00:00-03:00",
+   "casa": "novorizontino",
+   "fora": "crb",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "",
+   "cidade": "Novo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Carlão",
+     "minuto": "75",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Dadá Belmonte",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/s%C3%A9rie-b-tem-rodada-positiva-para-futebol-cearense-com-cear%C3%A1-nos-playoffs-veja-classifica%C3%A7%C3%A3o-1.3755295",
+    "https://www.tnh1.com.br/noticia/nid/barroca-exalta-empate-fora-de-casa-na-serie-b-e-explica-desgaste-para-sequencia-de-jogos-sem-vencer/"
+   ],
+   "atualizado": "2026-11-26T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000573,
+   "data": "2026-04-05T12:00:00-03:00",
+   "casa": "athletic-mg",
+   "fora": "america-mg",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Sicredi",
+   "cidade": "São João del-Rei",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Ronaldo Tavares",
+     "minuto": "36",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Mastriani",
+     "minuto": "84",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/s%C3%A9rie-b-tem-rodada-positiva-para-futebol-cearense-com-cear%C3%A1-nos-playoffs-veja-classifica%C3%A7%C3%A3o-1.3755295",
+    "https://www.oliberal.com/esportes/com-um-a-menos-athletic-mg-segura-o-empate-com-o-america-mg-em-duelo-mineiro-pela-serie-b-1.1106332"
+   ],
+   "atualizado": "2026-11-26T03:34:00-03:00",
+   "sem_hora": true
   },
   {
    "id": 91000240,
