@@ -1,100 +1,6 @@
 {
  "itens": [
   {
-   "clube": "palmeiras",
-   "titulo": "Abel poupa titulares e leva garotos do Sub-20 para enfrentar a Chapecoense de olho na final da Libertadores",
-   "resumo": "Com a final contra o Estudiantes no sábado (28), em Montevidéu, o Palmeiras encara a Chapecoense nesta terça (24), às 18h, na Arena Condá, com time alternativo e jovens da base como Koné, Erik Belé, Rafael Coutinho e Robson. Interessa ao torcedor saber quem ganha chance e quem foi preservado.",
-   "angulo": "Perfil rápido de cada garoto da base que pode estrear e lembrete do serviço da final (17h, Estádio Centenário).",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://terra.com.br/esportes/palmeiras/libertadores-no-horizonte-faz-palmeiras-apostar-em-jovens-contra-a-chape,2abee052dcf0be0cc30ccd850d63d6edk78vetme.html"
-    }
-   ],
-   "id": "p5b677f5f5d",
-   "gerado": "2026-11-24T16:44-03:00",
-   "quando": "24/11 16h"
-  },
-  {
-   "clube": "corinthians",
-   "titulo": "Sem Yuri Alberto e Carrillo, Seedorf fecha o Corinthians para o Atlético-MG; Ramalho e Matheus Pereira voltam",
-   "resumo": "O Corinthians encerrou nesta terça a preparação para o jogo de quarta (25), às 20h, na Arena MRV, atrasado da 36ª rodada. Yuri Alberto e André Carrillo estão fora, André Ramalho e Matheus Pereira retornam, e a provável escalação tem Memphis no ataque.",
-   "angulo": "Comparar as duas prováveis escalações publicadas (Gazeta põe Garro titular, Lance trata como dúvida) e mostrar o peso do jogo na luta contra o Z4.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-finaliza-preparacao-atletico-mg-brasileirao/"
-    },
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/corinthians/corinthians-encerra-preparacao-para-enfrentar-o-atletico-mg-veja-provavel-escalacao-3.html"
-    }
-   ],
-   "id": "p0f8ca08f56",
-   "gerado": "2026-11-24T16:44-03:00",
-   "quando": "24/11 16h"
-  },
-  {
-   "clube": "mirassol",
-   "titulo": "Depois do gol sofrido nos acréscimos no Maracanã, Mirassol precisa vencer o Athletico-PR no Maião para fugir do drama",
-   "resumo": "O Mirassol perdeu por 1 a 0 para o Fluminense no domingo (22), com gol no fim, e segue com 41 pontos, fora do Z4. O próximo jogo é contra o Athletico-PR no domingo (29), às 18h30, no Maião, pela 37ª rodada.",
-   "angulo": "Contas da Base TSP: quantos pontos o Mirassol precisa nas duas últimas rodadas para não depender de ninguém.",
-   "fontes": [
-    {
-     "nome": "Mirassol (site oficial)",
-     "url": "https://mirassolfc.com.br/blogs/news/pela-serie-a-mirassol-e-superado-pelo-fluminense-no-maracana"
-    }
-   ],
-   "id": "p979004f923",
-   "gerado": "2026-11-24T16:44-03:00",
-   "quando": "24/11 16h"
-  },
-  {
-   "clube": "botafogosp",
-   "titulo": "Botafogo-SP anuncia o lateral-esquerdo Reverson para substituir Patrick Brey, e Tencati completa um ano no clube",
-   "resumo": "O Pantera anunciou Reverson, 29 anos, ex-Paysandu e CRB, como terceiro reforço para 2027, na vaga do capitão Patrick Brey, que não renovou. No mesmo dia, Cláudio Tencati completou um ano no cargo (45 jogos, 17 vitórias) e segue para 2027.",
-   "angulo": "Raio-x dos três reforços já fechados (Heron, Gustavo Barreto e Reverson) e balanço do primeiro ano de Tencati.",
-   "fontes": [
-    {
-     "nome": "CBN Ribeirão",
-     "url": "https://cbnribeirao.com.br/claudio-tencati-completa-um-ano-no-botafogo-sp-e-clube-anuncia-terceiro-reforco-para-temporada-2027/"
-    }
-   ],
-   "id": "p4ae5705b36",
-   "gerado": "2026-11-24T16:44-03:00",
-   "quando": "24/11 16h"
-  },
-  {
-   "clube": "xvdepiracicaba",
-   "titulo": "XV de Piracicaba chega ao 11º reforço para a A2 2027 com o atacante Oliver, de 20 anos",
-   "resumo": "O Nhô Quim anunciou o atacante Oliver, que passou pelas bases de Fortaleza e Botafogo e jogou no Estrela Amadora, de Portugal, com contrato até o fim do Paulistão A2 2027.",
-   "angulo": "Lista atualizada de todos os reforços do XV para 2027, por posição.",
-   "fontes": [
-    {
-     "nome": "XV de Piracicaba (site oficial)",
-     "url": "https://xvpiracicaba.com.br/noticias/atacante-oliver-reforcara-o-xv-na-disputa-do-paulistao-a2-2027/"
-    }
-   ],
-   "id": "p8891406083",
-   "gerado": "2026-11-24T16:44-03:00",
-   "quando": "24/11 16h"
-  },
-  {
-   "clube": "guarani",
-   "titulo": "Com 90% da SAF vendida, Guarani começa a montar 2027: técnico Umberto Louzer não fica e laterais estão na mira",
-   "resumo": "Depois da assembleia de 19/11 que aprovou a venda de 90% da SAF ao empresário Roberto Graziano, o Guarani inicia o planejamento de 2027. Louzer não continua e há conversas com os laterais Ruan Teixeira e Kevyn, ainda sem anúncio oficial.",
-   "angulo": "Explicar ao torcedor o que muda com a SAF e confirmar com o clube o nome do novo técnico antes de publicar.",
-   "fontes": [
-    {
-     "nome": "Boa Informação",
-     "url": "https://boainformacao.com.br/2026/11/guarani-comeca-preparacao-para-2027-apos-venda-de-90-da-saf/"
-    }
-   ],
-   "id": "pcf92270ed4",
-   "gerado": "2026-11-24T16:44-03:00",
-   "quando": "24/11 16h"
-  },
-  {
    "clube": "corinthians",
    "titulo": "Garro treina completo e pode voltar contra o Atlético-MG; Seedorf avalia mudanças para a Arena MRV",
    "resumo": "Rodrigo Garro, recuperado de lesão no joelho, treinou completo pela primeira vez e pode reaparecer nesta quarta (25/11), às 20h, contra o Atlético-MG, em BH, pela 36ª rodada. Depois vêm Grêmio (29/11) e Remo (2/12), sequência decisiva contra o rebaixamento.",
@@ -375,7 +281,187 @@
    "id": "p8ac8d88c8b",
    "gerado": "2026-11-26T07:44-03:00",
    "quando": "26/11 07h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Rozallah propõe concessão da Arena e separar futebol do clube social: o que muda se a ideia vingar",
+   "resumo": "Rozallah apresentou proposta de conceder a Neo Química Arena e separar o futebol do clube social, dentro do debate da eleição do Corinthians. Assunto mexe com dívida do estádio e futuro do clube.",
+   "angulo": "Explicar em perguntas e respostas o que é concessão, quem decide e o que já foi proposto por outros candidatos (confirmar no texto da Gazeta).",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/corinthians/rozallah-concessao-arena-ceo-corinthians-eleicao/"
+    }
+   ],
+   "id": "p800f062c48",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Kaio César marca e é o destaque em BH: o momento do atacante antes do Grêmio",
+   "resumo": "Kaio César abriu o placar no 1 a 1 com o Atlético-MG e foi apontado como melhor do Corinthians; Memphis foi discreto. Próximo jogo: Corinthians x Grêmio, domingo (29/11), 18h30, na Neo Química Arena.",
+   "angulo": "Perfil rápido de Kaio César com os números do recorte da Base TSP (deixar claro que é recorte).",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/corinthians/kaio-cesar-notas-corinthians-empate-atletico-mg/"
+    }
+   ],
+   "id": "p6455adeb08",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Piquerez avança na recuperação: lateral pode ser opção para a final da Libertadores?",
+   "resumo": "O site oficial do Palmeiras informou que Piquerez avançou na recuperação enquanto o elenco treina com foco na final contra o Estudiantes, sábado (28/11), às 17h, no Centenário, em Montevidéu.",
+   "angulo": "Situação médica do elenco para a final + serviço completo (horário de Brasília, onde assistir).",
+   "fontes": [
+    {
+     "nome": "Palmeiras (site oficial)",
+     "url": "https://palmeiras.com.br/noticias/piquerez-avanca-em-recuperacao-e-verdao-treina-com-foco-total-na-final-da-libertadores/"
+    }
+   ],
+   "id": "pe231533076",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "palmeiras",
+   "titulo": "Final da Libertadores: tudo o que o torcedor precisa saber de Palmeiras x Estudiantes",
+   "resumo": "O Palmeiras divulgou informações, estatísticas e curiosidades do duelo com o Estudiantes, sábado (28/11), às 17h, no Centenário. Depois vêm Coritiba (02/12) e a final da Copa do Brasil com o Grêmio (06/12).",
+   "angulo": "Guia de serviço com a maratona de decisões de dezembro em uma tabela.",
+   "fontes": [
+    {
+     "nome": "Palmeiras (site oficial)",
+     "url": "https://palmeiras.com.br/noticias/palmeiras-x-estudiantes-arg-informacoes-estatisticas-e-curiosidades/"
+    }
+   ],
+   "id": "pbb6fa6824a",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Marcos Antônio avança na recuperação, mas segue fora contra o Remo",
+   "resumo": "O volante, com lesão no tornozelo direito, evoluiu no tratamento, mas não joga contra o Remo nesta quinta (26/11), às 20h, no Morumbis, pela 37ª rodada.",
+   "angulo": "Lista de desfalques e previsão de retorno para a última rodada.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/marcos-antonio-avanca-recuperacao-sao-paulo/"
+    }
+   ],
+   "id": "p96ada083ad",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Dorival e os números ruins fora de casa: o que o São Paulo precisa mudar",
+   "resumo": "Análise da Gazeta mostra o mau aproveitamento de Dorival Júnior como visitante no Brasileirão, num momento de jejum do time.",
+   "angulo": "Comparar casa x fora no recorte da Base TSP (informando o período).",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/sao-paulo/dorival-revive-drama-no-sao-paulo-com-numeros-ruins-fora-de-casa-no-brasileiro/"
+    }
+   ],
+   "id": "p4e2764ad02",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "santos",
+   "titulo": "Marcelo Teixeira diz que objetivo da gestão é adaptar o Estatuto para SAF",
+   "resumo": "O presidente do Santos citou como meta mudar o Estatuto para permitir a SAF. Tema decisivo para o futuro financeiro do clube.",
+   "angulo": "Explicar os passos (conselho, sócios) e o que já foi feito em outros clubes paulistas com SAF.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/santos/marcelo-teixeira-saf-santos-neymar-pai/"
+    }
+   ],
+   "id": "p4727193757",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "santos",
+   "titulo": "Irmãs Evelin e Emily Bonifácio, do Santos, são convocadas juntas para a Seleção",
+   "resumo": "Duas jogadoras do Santos, irmãs, foram chamadas ao mesmo tempo para a Seleção Brasileira feminina.",
+   "angulo": "Matéria de personagem: trajetória das duas nas Sereias da Vila.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/santos/santos-irmas-evelin-emily-bonifacio-selecao-brasileira/"
+    }
+   ],
+   "id": "p66161b8dc5",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "santos",
+   "titulo": "Lucas Veríssimo e Vinicius Lira trabalham no gramado: dupla pode voltar contra o Vitória?",
+   "resumo": "Na reapresentação com exames, a dupla em recuperação treinou no campo. Santos encara o Vitória em busca do G6.",
+   "angulo": "Atualizar o departamento médico e a provável escalação.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/santos/santos-reapresentacao-exames-lucas-verissimo-vinicius-lira/"
+    }
+   ],
+   "id": "paca773d0ef",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "mirassol",
+   "titulo": "Tabela do Paulistão 2027 saiu: veja a estreia e os jogos do Mirassol",
+   "resumo": "A FPF divulgou a tabela da primeira fase do Paulistão, com as datas-base dos clássicos. Serviço para o torcedor planejar o começo de 2027.",
+   "angulo": "Tabela completa do clube na primeira fase, com mando e datas.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/campeonatos/paulista/fpf-tabela-primeira-fase-paulistao-datas-classicos/"
+    }
+   ],
+   "id": "p15c59c919d",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "bragantino",
+   "titulo": "Tabela do Paulistão 2027: quando e contra quem o Bragantino estreia",
+   "resumo": "A FPF divulgou a tabela da primeira fase do Paulistão. Serviço com a estreia e a sequência do Massa Bruta.",
+   "angulo": "Tabela da primeira fase do clube, com mando e datas.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/campeonatos/paulista/fpf-tabela-primeira-fase-paulistao-datas-classicos/"
+    }
+   ],
+   "id": "pad793c3661",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
+  },
+  {
+   "clube": "novorizontino",
+   "titulo": "Campeão da Série B, Novorizontino já conhece a tabela do Paulistão 2027",
+   "resumo": "A FPF divulgou a tabela da primeira fase do Paulistão. Bom gancho para o primeiro ano do Tigre como clube de Série A.",
+   "angulo": "Calendário do início de 2027: Paulistão e preparação para a estreia na Série A.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/campeonatos/paulista/fpf-tabela-primeira-fase-paulistao-datas-classicos/"
+    }
+   ],
+   "id": "pb851584454",
+   "gerado": "2026-11-26T16:50-03:00",
+   "quando": "26/11 16h"
   }
  ],
- "gerado": "2026-11-26T07:44-03:00"
+ "gerado": "2026-11-26T16:50-03:00"
 }
