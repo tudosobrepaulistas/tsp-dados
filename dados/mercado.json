@@ -3,6 +3,144 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-25",
+   "de": "Desportivo Brasil",
+   "de_slug": "desportivo-brasil",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Oito anos no Desportivo Brasil, onde se profissionalizou",
+   "anuncio_do_clube": true,
+   "jogador": "Ryan Rizardi",
+   "posicao": "Zagueiro",
+   "para": "ECUS",
+   "para_slug": "ecus",
+   "fontes": [
+    "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/"
+   ],
+   "ficha": {
+    "idade": 21,
+    "idade_em": "2026-11-25",
+    "fonte": "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/"
+   },
+   "numeros_2026": {
+    "jogos": 11,
+    "gols": 1,
+    "clubes": [
+     "Desportivo Brasil"
+    ],
+    "obs": "recorte: Série A3 do Paulista",
+    "fonte": "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/"
+   },
+   "id": "2026-11-25-ryan-rizardi-ecus",
+   "atualizado": "2026-11-26T06:58:00-03:00"
+  },
+  {
+   "data": "2026-11-25",
+   "de": "",
+   "de_slug": "",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "anuncio_do_clube": true,
+   "jogador": "Pablo Caique",
+   "posicao": "Goleiro",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "fontes": [
+    "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   ],
+   "id": "2026-11-25-pablo-caique-votuporanguense",
+   "atualizado": "2026-11-26T06:58:00-03:00"
+  },
+  {
+   "data": "2026-11-25",
+   "de": "",
+   "de_slug": "",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "anuncio_do_clube": true,
+   "jogador": "Marcos Nunes",
+   "posicao": "Atacante",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "fontes": [
+    "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   ],
+   "id": "2026-11-25-marcos-nunes-votuporanguense",
+   "atualizado": "2026-11-26T06:58:00-03:00"
+  },
+  {
+   "data": "2026-11-25",
+   "de": "",
+   "de_slug": "",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Marcos Alessandro, 1,98 m; formado nas bases de Internacional e Avaí",
+   "anuncio_do_clube": true,
+   "jogador": "Marcão",
+   "posicao": "Goleiro",
+   "para": "Votuporanguense",
+   "para_slug": "votuporanguense",
+   "fontes": [
+    "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   ],
+   "ficha": {
+    "idade": 23,
+    "idade_em": "2026-11-25",
+    "clubes_anteriores": [
+     "Rio Preto",
+     "Tupã"
+    ],
+    "fonte": "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   },
+   "numeros_2026": {
+    "jogos": 11,
+    "clubes": [
+     "Rio Preto",
+     "Tupã"
+    ],
+    "fonte": "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   },
+   "id": "2026-11-25-marcao-votuporanguense",
+   "atualizado": "2026-11-26T06:58:00-03:00"
+  },
+  {
+   "data": "2026-11-25",
+   "de": "",
+   "de_slug": "",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo; formado nas bases de Santos e Chapecoense",
+   "anuncio_do_clube": true,
+   "jogador": "Gerson Lima",
+   "posicao": "Lateral",
+   "para": "ECUS",
+   "para_slug": "ecus",
+   "fontes": [
+    "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/"
+   ],
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-25",
+    "clubes_anteriores": [
+     "Comercial-MS",
+     "CEOV Operário-MT",
+     "Juventus",
+     "Marcílio Dias",
+     "Carlos Renaux"
+    ],
+    "fonte": "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/"
+   },
+   "id": "2026-11-25-gerson-lima-ecus",
+   "atualizado": "2026-11-26T06:58:00-03:00"
+  },
+  {
    "data": "2026-11-24",
    "jogador": "Renan Cosenza",
    "posicao": "Zagueiro",
@@ -3736,7 +3874,7 @@
    "carreira_fonte": "https://www.futebolinterior.com.br/exclusivo-penapolense-anuncia-tecnico-destaque-da-copa-paulista/"
   },
   {
-   "de": "",
+   "de": "Figueirense",
    "de_slug": "",
    "para": "Santo André",
    "para_slug": "santoandre",
@@ -3744,7 +3882,8 @@
    "situacao": "oficial",
    "feminino": false,
    "fontes": [
-    "https://www.instagram.com/ecsantoandre/"
+    "https://www.instagram.com/ecsantoandre/",
+    "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional"
    ],
    "anuncio_do_clube": true,
    "data": "2026-11-13",
@@ -3752,14 +3891,28 @@
    "posicao": "Volante",
    "obs": "Último clube: Figueirense",
    "id": "2026-11-13-renan-areias-santo-andre",
-   "atualizado": "2026-11-19T04:16:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-renan-areias-santo-andre.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/ecsantoandre/",
     "ia": true,
     "em": "2026-11-19T04:26:31-03:00"
-   }
+   },
+   "ficha": {
+    "idade": 28,
+    "idade_em": "2026-11-12",
+    "contrato": "até o fim do Paulistão A2 2027",
+    "fonte": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional"
+   },
+   "numeros_2026": {
+    "jogos": 21,
+    "clubes": [
+     "Figueirense"
+    ],
+    "obs": "recorte: Série C, Copa do Brasil e Copa Santa Catarina pelo Figueirense",
+    "fonte": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional"
+   },
+   "atualizado": "2026-11-26T06:58:00-03:00"
   },
   {
    "data": "2026-11-13",
@@ -6118,11 +6271,13 @@
    "anuncio_do_clube": true,
    "id": "2026-11-09-matheus-pellegrini-rio-claro",
    "numeros_2026": {
+    "jogos": 25,
     "clubes": [
      "União São João",
+     "Rio Branco-PR",
      "Comercial"
     ],
-    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+    "fonte": "https://www.encontrarioclaro.com/rio-claro-anuncia-tres-reforcos-para-a-serie-a3-de-2027/"
    },
    "ficha": {
     "idade": 26,
@@ -6132,14 +6287,14 @@
     ],
     "fonte": "https://www.instagram.com/rioclarofco/"
    },
-   "atualizado": "2026-11-20T03:56:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-matheus-pellegrini-rio-claro.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/rioclarofco/",
     "ia": true,
     "em": "2026-11-20T22:45:24-03:00"
-   }
+   },
+   "atualizado": "2026-11-26T06:58:00-03:00"
   },
   {
    "data": "2026-11-09",
@@ -6248,15 +6403,14 @@
    "anuncio_do_clube": true,
    "id": "2026-11-09-luan-sousa-rio-claro",
    "numeros_2026": {
-    "jogos": 6,
-    "gols": 7,
+    "jogos": 16,
+    "gols": 8,
     "clubes": [
      "Santo André",
      "Santa Catarina",
      "Oeste Brasil"
     ],
-    "obs": "números só pelo Oeste Brasil",
-    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/"
+    "fonte": "https://www.encontrarioclaro.com/rio-claro-anuncia-tres-reforcos-para-a-serie-a3-de-2027/"
    },
    "ficha": {
     "idade": 25,
@@ -6269,14 +6423,14 @@
     ],
     "fonte": "https://www.instagram.com/rioclarofco/"
    },
-   "atualizado": "2026-11-20T03:56:00-03:00",
    "foto": {
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-luan-sousa-rio-claro.webp",
     "credito": "Montagem com IA (ilustrativa) · TSP",
     "fonte": "https://www.instagram.com/rioclarofco/",
     "ia": true,
     "em": "2026-11-20T22:45:24-03:00"
-   }
+   },
+   "atualizado": "2026-11-26T06:58:00-03:00"
   },
   {
    "data": "2026-11-09",

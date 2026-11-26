@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T06:57:00-03:00",
+ "gerado": "2026-11-26T06:58:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -374,7 +374,7 @@
      "posicao": "Atacante",
      "numeros": {
       "jogos": 10,
-      "gols": 1,
+      "gols": 2,
       "minutos": 722,
       "minutos_estimados": true,
       "clube": "Botafogo-SP",
@@ -1015,9 +1015,9 @@
      "nome": "Hugo Souza",
      "posicao": "Goleiro",
      "numeros": {
-      "jogos": 13,
+      "jogos": 14,
       "gols": 0,
-      "minutos": 1170,
+      "minutos": 1260,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1075,9 +1075,9 @@
      "nome": "Gustavo Henrique",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 15,
+      "jogos": 16,
       "gols": 3,
-      "minutos": 1350,
+      "minutos": 1440,
       "minutos_estimados": false,
       "clube": "Corinthians",
       "clubes": [
@@ -1154,9 +1154,9 @@
      "nome": "Matheuzinho",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 14,
+      "jogos": 15,
       "gols": 0,
-      "minutos": 1170,
+      "minutos": 1260,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1169,9 +1169,9 @@
      "nome": "Pedro Milans",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 202,
+      "minutos": 224,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1184,9 +1184,9 @@
      "nome": "Matheus Bidu",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 14,
+      "jogos": 15,
       "gols": 3,
-      "minutos": 1093,
+      "minutos": 1183,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1229,9 +1229,9 @@
      "nome": "André",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 11,
+      "jogos": 12,
       "gols": 1,
-      "minutos": 801,
+      "minutos": 823,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1259,9 +1259,9 @@
      "nome": "Breno Bidon",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 14,
+      "jogos": 15,
       "gols": 0,
-      "minutos": 990,
+      "minutos": 1080,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1338,9 +1338,9 @@
      "nome": "Raniele",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 1,
-      "minutos": 586,
+      "minutos": 654,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1353,10 +1353,10 @@
      "nome": "Rodrigo Garro",
      "posicao": "Meia",
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 1,
-      "minutos": 558,
-      "minutos_estimados": false,
+      "minutos": 580,
+      "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
        "Corinthians"
@@ -1383,9 +1383,9 @@
      "nome": "Kaio César",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 12,
-      "gols": 2,
-      "minutos": 927,
+      "jogos": 13,
+      "gols": 3,
+      "minutos": 995,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1417,9 +1417,9 @@
      "nome": "Lingard",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 129,
+      "minutos": 151,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -1462,9 +1462,9 @@
      "nome": "Vitinho",
      "posicao": "Atacante",
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 320,
+      "minutos": 388,
       "minutos_estimados": true,
       "clube": "Corinthians",
       "clubes": [
@@ -2404,7 +2404,7 @@
      "posicao": "Atacante",
      "numeros": {
       "jogos": 3,
-      "gols": 0,
+      "gols": 1,
       "minutos": 66,
       "minutos_estimados": true,
       "clube": "Novorizontino",
@@ -2575,7 +2575,18 @@
     {
      "nome": "Marcelo Lomba",
      "posicao": "Goleiro",
-     "numero": 14
+     "numero": 14,
+     "numeros": {
+      "jogos": 1,
+      "gols": 0,
+      "minutos": 90,
+      "minutos_estimados": false,
+      "clube": "Palmeiras",
+      "clubes": [
+       "Palmeiras"
+      ],
+      "fonte": "Base TSP (fichas técnicas conferidas)"
+     }
     },
     {
      "nome": "Alexander Barboza",
@@ -2598,9 +2609,9 @@
      "posicao": "Zagueiro",
      "numero": 43,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 202,
+      "minutos": 292,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2667,9 +2678,9 @@
      "posicao": "Lateral",
      "numero": 12,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 360,
+      "minutos": 450,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2752,9 +2763,9 @@
      "posicao": "Meia",
      "numero": 7,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 3,
-      "minutos": 132,
+      "minutos": 222,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -2768,9 +2779,9 @@
      "posicao": "Meia",
      "numero": 48,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 88,
+      "minutos": 178,
       "minutos_estimados": true,
       "clube": "Palmeiras",
       "clubes": [
@@ -5315,11 +5326,23 @@
       "em": "2026-11-19T04:26:31-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 21,
+      "clubes": [
+       "Figueirense"
+      ],
+      "obs": "recorte: Série C, Copa do Brasil e Copa Santa Catarina pelo Figueirense",
+      "fonte": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional",
+      "escudos": {}
+     },
      "selos": [],
      "nascimento": "",
-     "de": "",
-     "ficha": {},
+     "de": "Figueirense",
+     "ficha": {
+      "idade": 28,
+      "idade_em": "2026-11-12",
+      "contrato": "até o fim do Paulistão A2 2027"
+     },
      "comissao": false
     },
     {
@@ -5428,7 +5451,7 @@
     },
     {
      "nome": "Renan Areias",
-     "de": "",
+     "de": "Figueirense",
      "tipo": "Contratação",
      "data": "2026-11-13"
     },
@@ -9340,11 +9363,13 @@
      },
      "novo": true,
      "numeros": {
+      "jogos": 25,
       "clubes": [
        "União São João",
+       "Rio Branco-PR",
        "Comercial"
       ],
-      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+      "fonte": "https://www.encontrarioclaro.com/rio-claro-anuncia-tres-reforcos-para-a-serie-a3-de-2027/",
       "escudos": {}
      },
      "selos": [],
@@ -9371,15 +9396,14 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 6,
-      "gols": 7,
+      "jogos": 16,
+      "gols": 8,
       "clubes": [
        "Santo André",
        "Santa Catarina",
        "Oeste Brasil"
       ],
-      "obs": "números só pelo Oeste Brasil",
-      "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+      "fonte": "https://www.encontrarioclaro.com/rio-claro-anuncia-tres-reforcos-para-a-serie-a3-de-2027/",
       "escudos": {
        "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
       }
@@ -10332,7 +10356,7 @@
    "sairam": []
   },
   "votuporanguense": {
-   "atualizado": "2026-11-24",
+   "atualizado": "2026-11-25",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -10668,6 +10692,67 @@
       "idade_em": "2026-11-24"
      },
      "comissao": false
+    },
+    {
+     "nome": "Pablo Caique",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Marcos Nunes",
+     "posicao": "Atacante",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Marcão",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 11,
+      "clubes": [
+       "Rio Preto",
+       "Tupã"
+      ],
+      "fonte": "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 23,
+      "idade_em": "2026-11-25",
+      "clubes_anteriores": [
+       "Rio Preto",
+       "Tupã"
+      ]
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Marcus Viola",
+     "posicao": "Treinador",
+     "foto": null,
+     "comissao": true,
+     "nascimento": "",
+     "ficha": {},
+     "selos": [],
+     "desde": ""
     }
    ],
    "chegaram": [
@@ -10754,6 +10839,24 @@
      "de": "América-MG",
      "tipo": "Contratação",
      "data": "2026-11-24"
+    },
+    {
+     "nome": "Pablo Caique",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-25"
+    },
+    {
+     "nome": "Marcos Nunes",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-25"
+    },
+    {
+     "nome": "Marcão",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-25"
     }
    ],
    "sairam": []
@@ -13303,7 +13406,7 @@
    "sairam": []
   },
   "ecus": {
-   "atualizado": "2026-11-23",
+   "atualizado": "2026-11-25",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -13355,6 +13458,52 @@
      "selos": [],
      "ficha": {},
      "comissao": true
+    },
+    {
+     "nome": "Ryan Rizardi",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "jogos": 11,
+      "gols": 1,
+      "clubes": [
+       "Desportivo Brasil"
+      ],
+      "obs": "recorte: Série A3 do Paulista",
+      "fonte": "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/",
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "Desportivo Brasil",
+     "ficha": {
+      "idade": 21,
+      "idade_em": "2026-11-25"
+     },
+     "comissao": false
+    },
+    {
+     "nome": "Gerson Lima",
+     "posicao": "Lateral",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "idade": 22,
+      "idade_em": "2026-11-25",
+      "clubes_anteriores": [
+       "Comercial-MS",
+       "CEOV Operário-MT",
+       "Juventus",
+       "Marcílio Dias",
+       "Carlos Renaux"
+      ]
+     },
+     "comissao": false
     }
    ],
    "chegaram": [
@@ -13369,6 +13518,18 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-23"
+    },
+    {
+     "nome": "Ryan Rizardi",
+     "de": "Desportivo Brasil",
+     "tipo": "Contratação",
+     "data": "2026-11-25"
+    },
+    {
+     "nome": "Gerson Lima",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-25"
     }
    ],
    "sairam": []

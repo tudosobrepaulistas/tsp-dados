@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25T06:57:00-03:00",
+ "gerado": "2026-11-26T06:58:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -11,6 +11,233 @@
   "promovido": "Subiu da base"
  },
  "itens": [
+  {
+   "id": "2026-11-25-ryan-rizardi-ecus",
+   "data": "2026-11-25",
+   "jogador": "Ryan Rizardi",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Oito anos no Desportivo Brasil, onde se profissionalizou",
+   "de": {
+    "nome": "Desportivo Brasil",
+    "slug": "desportivo-brasil",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "ECUS",
+    "slug": "ecus",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 11,
+    "gols": 1,
+    "clubes": [
+     "Desportivo Brasil"
+    ],
+    "obs": "recorte: Série A3 do Paulista",
+    "fonte": "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 21,
+    "idade_em": "2026-11-25"
+   },
+   "comissao": false,
+   "dono": "ecus"
+  },
+  {
+   "id": "2026-11-25-pablo-caique-votuporanguense",
+   "data": "2026-11-25",
+   "jogador": "Pablo Caique",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Votuporanguense",
+    "slug": "votuporanguense",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
+   "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-25-marcos-nunes-votuporanguense",
+   "data": "2026-11-25",
+   "jogador": "Marcos Nunes",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Votuporanguense",
+    "slug": "votuporanguense",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": false,
+   "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-25-marcao-votuporanguense",
+   "data": "2026-11-25",
+   "jogador": "Marcão",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Marcos Alessandro, 1,98 m; formado nas bases de Internacional e Avaí",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Votuporanguense",
+    "slug": "votuporanguense",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/votuporanguense.png"
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
+   ],
+   "nascimento": "",
+   "numeros": {
+    "jogos": 11,
+    "clubes": [
+     "Rio Preto",
+     "Tupã"
+    ],
+    "fonte": "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/",
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 23,
+    "idade_em": "2026-11-25",
+    "clubes_anteriores": [
+     "Rio Preto",
+     "Tupã"
+    ]
+   },
+   "comissao": false,
+   "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-25-gerson-lima-ecus",
+   "data": "2026-11-25",
+   "jogador": "Gerson Lima",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo; formado nas bases de Santos e Chapecoense",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "ECUS",
+    "slug": "ecus",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://jornalopiniao.net/ecus-anuncia-os-primeiros-reforcos-para-a-serie-a4-do-paulistao/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-25",
+    "clubes_anteriores": [
+     "Comercial-MS",
+     "CEOV Operário-MT",
+     "Juventus",
+     "Marcílio Dias",
+     "Carlos Renaux"
+    ]
+   },
+   "comissao": false,
+   "dono": "ecus"
+  },
   {
    "id": "2026-11-24-renan-cosenza-votuporanguense",
    "data": "2026-11-24",
@@ -5525,9 +5752,9 @@
    "feminino": false,
    "obs": "Último clube: Figueirense",
    "de": {
-    "nome": "",
+    "nome": "Figueirense",
     "slug": "",
-    "id": 0,
+    "id": 900070,
     "escudo": ""
    },
    "para": {
@@ -5547,14 +5774,27 @@
     "em": "2026-11-19T04:26:31-03:00"
    },
    "fontes": [
-    "https://www.instagram.com/ecsantoandre/"
+    "https://www.instagram.com/ecsantoandre/",
+    "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional"
    ],
    "nascimento": "",
-   "numeros": {},
+   "numeros": {
+    "jogos": 21,
+    "clubes": [
+     "Figueirense"
+    ],
+    "obs": "recorte: Série C, Copa do Brasil e Copa Santa Catarina pelo Figueirense",
+    "fonte": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional",
+    "escudos": {}
+   },
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "idade": 28,
+    "idade_em": "2026-11-12",
+    "contrato": "até o fim do Paulistão A2 2027"
+   },
    "comissao": false,
    "dono": "santoandre"
   },
@@ -9051,11 +9291,13 @@
    ],
    "nascimento": "",
    "numeros": {
+    "jogos": 25,
     "clubes": [
      "União São João",
+     "Rio Branco-PR",
      "Comercial"
     ],
-    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+    "fonte": "https://www.encontrarioclaro.com/rio-claro-anuncia-tres-reforcos-para-a-serie-a3-de-2027/",
     "escudos": {}
    },
    "selos": [],
@@ -9233,15 +9475,14 @@
    ],
    "nascimento": "",
    "numeros": {
-    "jogos": 6,
-    "gols": 7,
+    "jogos": 16,
+    "gols": 8,
     "clubes": [
      "Santo André",
      "Santa Catarina",
      "Oeste Brasil"
     ],
-    "obs": "números só pelo Oeste Brasil",
-    "fonte": "https://www.futebolinterior.com.br/goleiro-e-atacante-reforcam-o-rio-claro/",
+    "fonte": "https://www.encontrarioclaro.com/rio-claro-anuncia-tres-reforcos-para-a-serie-a3-de-2027/",
     "escudos": {
      "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
     }
