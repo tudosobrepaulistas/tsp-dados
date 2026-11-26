@@ -1,76 +1,6 @@
 {
- "gerado": "2026-11-25T21:21-03:00",
+ "gerado": "2026-11-26T07:04-03:00",
  "avisos": [
-  {
-   "clube": "sao-paulo-feminino",
-   "nome": "São Paulo Feminino",
-   "quando": "2026-11-24T21:17-03:00",
-   "motivo": "Reforços para 2027 só em negociação; evergreen recente (11/11)",
-   "sugestao": "Evergreen em 25/11 sobre o título do Brasileirão Feminino 2026 e o público no MorumBIS (saopaulofc.net)"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-24T21:17-03:00",
-   "motivo": "Data, hora e local de Santos x Mauaense (quartas da Copa Paulista) ainda não divulgados",
-   "sugestao": "Prévia de Santos x Mauaense assim que FPF/clube divulgar"
-  },
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-25T07:19-03:00",
-   "motivo": "Sem notícia nos últimos 7 dias e sem foto livre",
-   "sugestao": "Elenco e pré-temporada com Ederaldo Oliveira para a A4 de 2027, com foto do Instagram oficial"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-25T07:19-03:00",
-   "motivo": "Sem notícia recente e sem foto livre do clube ou do estádio",
-   "sugestao": "Guia do estádio do Tanabi com foto do Instagram oficial"
-  },
-  {
-   "clube": "bandeirante_brodowski",
-   "nome": "Bandeirante de Brodowski",
-   "quando": "2026-11-25T07:19-03:00",
-   "motivo": "Notícia boa (final do Amador do Estado contra o Azulão, 28/11 e 06/12) mas sem foto livre",
-   "sugestao": "Bandeirante de Brodowski na final do Amador do Estado contra o Azulão, com foto oficial do clube (Correio de Atibaia e Jornal Opinião)"
-  },
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-25T07:19-03:00",
-   "motivo": "Estreia na Copinha F só hoje (18h, contra o Sport) e só 1 fonte aberta",
-   "sugestao": "Resultado de Santos x Sport na Copinha Feminina, com site do Santos e Gazeta Esportiva"
-  },
-  {
-   "clube": "maua",
-   "nome": "Mauá",
-   "quando": "2026-11-25T07:19-03:00",
-   "motivo": "Única foto livre é uma faixa panorâmica 1280x250",
-   "sugestao": "História do Mauá FC (fundado em 2017 por dez sócios) com foto oficial do clube"
-  },
-  {
-   "clube": "noroeste",
-   "nome": "Noroeste",
-   "quando": "2026-11-25T09:13-03:00",
-   "motivo": "Sem fato novo publicável desde 23/11: Copinha já na matéria geral de 24/11; empréstimo de Pedro Felipe já publicado em 17/11 e fontes divergem na duração",
-   "sugestao": "Primeiro reforço do Noroeste para o Paulistão 2027 ou lista de quem fica e quem sai, quando o clube anunciar (Instagram oficial + JCNET)"
-  },
-  {
-   "clube": "capivariano",
-   "nome": "Capivariano",
-   "quando": "2026-11-25T09:13-03:00",
-   "motivo": "Sem notícia, coletiva ou anúncio oficial desde 23/11; Copinha já publicada em 24/11",
-   "sugestao": "Próximo reforço ou data de apresentação do elenco de Elio Sizenando (Instagram oficial + O Semanário)"
-  },
-  {
-   "clube": "juventus",
-   "nome": "Juventus",
-   "quando": "2026-11-25T09:13-03:00",
-   "motivo": "Bryan Borges (empréstimo do Ceará) só em 1 fonte aceita (O Povo, 24/11), sem anúncio oficial",
-   "sugestao": "Mercado da Bola de Bryan Borges quando Juventus ou Ceará oficializarem (post oficial + O Povo)"
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +350,76 @@
    "quando": "2026-11-25T21:21-03:00",
    "motivo": "Sem notícia em 48h; evergreen em 22/11",
    "sugestao": "Técnico e elenco do Colorado Caieiras para a A4 2027"
+  },
+  {
+   "clube": "independente",
+   "nome": "Independente",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Reforços (Lucas Cambuhy, João Alegria, Kaique Clemente, Arthur Bauer) e renovação de Hiago Ramiro só no Rápido no Ar; sem 2ª fonte; evergreen vetado (história em 24/11)",
+   "sugestao": "Confirmar com o clube (Instagram ou gerente Saulo Roncatto) e escrever 'Independente monta elenco para a A4: Hiago Ramiro renova e Galo tem 5 reforços'; links: rapidonoar.com.br/capitao-hiago-ramiro-renova-com-o-independente/ e /independente-contrata-ex-volante-da-chapecoense/"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Léo Gama, Yormax Bingong e Giovani anunciados só no Futebol Interior (25/11); sem 2ª fonte; dúvida Giovani/Giovanni",
+   "sugestao": "Confirmar no Instagram do Tanabi SAF os três reforços e a reapresentação de 4/1/2027 (futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/)"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Matéria da CBN Vale sobre oito reforços e seletiva não abriu; sem 2ª fonte; evergreen vetado",
+   "sugestao": "Abrir cbnvale.com.br/jacarei-fc-tem-oito-reforcos-encaminhados-e-prepara-seletiva-para-a-serie-a4-de-2027/ e confirmar com o clube nomes, data e local da seletiva"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Sem notícia nova em 7 dias; evergreen vetado (24/11)",
+   "sugestao": "Elenco 2027 do técnico Tássio e data de apresentação (site uniaosuzanooficial.com.br / Diário de Suzano)"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Sem notícia de 2027 encontrada; evergreen vetado (22/11)",
+   "sugestao": "Técnico e primeiros reforços do Colorado Caieiras para a A4 2027 (redes oficiais)"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Sem notícia nova (técnico Danilo Sacramento já coberto); sem foto livre para evergreen",
+   "sugestao": "Guia do estádio do Lemense em Leme, com foto do próprio clube"
+  },
+  {
+   "clube": "referencia-fc",
+   "nome": "Referência FC",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Grupo 7 da Copinha 2027 em Embu das Artes confirmado, mas sem foto de jogo utilizável",
+   "sugestao": "Referência FC é sede do Grupo 7 da Copinha 2027 (Lance! e Placar de 24/11); foto do Instagram do clube"
+  },
+  {
+   "clube": "sfera-fc",
+   "nome": "Sfera FC",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Grupo 26 da Copinha 2027 confirmado, mas sem foto (miniaturas da Sfera TV são cards)",
+   "sugestao": "Sfera estreia como sede: Grupo 26 em Santana de Parnaíba com Juventude, Fluminense de Feira e São Paulo-AP; foto do Instagram da Sfera"
+  },
+  {
+   "clube": "centro-olimpico",
+   "nome": "Centro Olímpico",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Grupo 28 da Copinha 2027 sem foto segura",
+   "sugestao": "Centro Olímpico recebe o Grupo 28 com CRB, Portuguesa Santista e Sampaio Corrêa-RJ; foto da Secretaria de Esportes de SP"
+  },
+  {
+   "clube": "gremiocatanduvense",
+   "nome": "Grêmio Catanduvense",
+   "quando": "2026-11-26T07:04-03:00",
+   "motivo": "Sem notícia em 7 dias; história sem fonte confiável (datas de fundação divergentes)",
+   "sugestao": "Como está o Catanduvense para 2027: diretoria e Segunda Divisão (jornal O Regional e o clube)"
   }
  ]
 }
