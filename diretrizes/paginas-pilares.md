@@ -26,3 +26,8 @@ Lista: Marcelo Marelli, Moisés Egert, Elio Sizenando, Fernando Marchiori, Rapha
 - Marcos (1º jogo, 50º, 100º... 500º; 1ª, 50ª, 100ª... vitória) viram tabela na página e pauta para a redação.
   O próximo marco ("faltam N jogos para os 500") também é pauta: acompanhar quando o técnico assumir um clube.
 - Naturalidade só com 2 fontes que concordem (Egert: oGol diz São Borja, Wikipédia diz Caxias do Sul; fica só o estado).
+
+## Figurinha do treinador (26/11/2026, padrão do Mercado da Bola)
+- `python3 ferramentas/pessoas.py prompt "Nome"` dá o prompt (polo da comissão do clube; sem clube = polo lisa azul-marinho).
+- Referência: foto oficial do treinador, de preferência enviada por ele (são parceiros) ou publicada pelo clube. Sem referência, não gera.
+- Gravar: `python3 ferramentas/pessoas.py figurinha "Nome" --img ARQUIVO --ref URL` e depois `gerar`.
