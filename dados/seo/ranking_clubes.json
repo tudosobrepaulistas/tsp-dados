@@ -269,6 +269,114 @@
     "acoes": [],
     "obs": "linha de base 26/11; busca ambígua (região Noroeste); ficha quase vazia, só Wikipedia achada (não usada)"
    }
+  ],
+  "primavera": [
+   {
+    "data": "2026-11-27T04:20-03:00",
+    "busca": "notícias do Primavera",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "climatempo.com.br",
+     "cnnbrasil.com.br",
+     "dinheirovivo.dn.pt",
+     "band.com.br",
+     "panrotas.com.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base; busca ambígua (estação do ano); matéria há 19h; ficha sem capacidade, rival, títulos, Instagram, presidente"
+   }
+  ],
+  "aguasanta": [
+   {
+    "data": "2026-11-27T04:20-03:00",
+    "busca": "notícias do Água Santa",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "soccerway.com",
+     "flashscore.com.br",
+     "tribunaonline.com.br",
+     "cidadesdomeubrasil.com.br",
+     "wikipedia.com"
+    ],
+    "acoes": [],
+    "obs": "linha de base; matéria há 10h; ficha sem capacidade, fundação, cores, rival, títulos, site, Instagram"
+   }
+  ],
+  "ituano": [
+   {
+    "data": "2026-11-27T04:20-03:00",
+    "busca": "notícias do Ituano",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "itatiaia.com.br",
+     "soccerway.com",
+     "gazetaesportiva.com",
+     "al.sp.gov.br",
+     "arpensp.org.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base; 57h sem matéria; sem pauta (nada novo confirmado em 48h; Neto Berola já publicado em 11/11); ficha sem rival"
+   }
+  ],
+  "linense": [
+   {
+    "data": "2026-11-27T04:20-03:00",
+    "busca": "notícias do Linense",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "fotmob.com",
+     "gazetaesportiva.com",
+     "soccerway.com",
+     "dol.com.br",
+     "espndeportes.espn.com"
+    ],
+    "acoes": [],
+    "obs": "linha de base; matéria há 18h; ficha quase vazia"
+   }
+  ],
+  "marilia": [
+   {
+    "data": "2026-11-27T04:20-03:00",
+    "busca": "notícias do Marília",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "oabsp.org.br",
+     "arpensp.org.br",
+     "solutudo.com.br",
+     "aasp.org.br"
+    ],
+    "acoes": [],
+    "obs": "linha de base; busca ambígua (cidade); matéria há 14h; ficha sem estádio, fundação, títulos, site, Instagram, presidente"
+   }
+  ],
+  "monteazul": [
+   {
+    "data": "2026-11-27T04:20-03:00",
+    "busca": "notícias do Monte Azul",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "arpensp.org.br",
+     "fotmob.com",
+     "cidadesdomeubrasil.com.br",
+     "cnnbrasil.com.br",
+     "tagteam.harvard.edu"
+    ],
+    "acoes": [],
+    "obs": "linha de base; 113h sem matéria; sem pauta (nada novo confirmado em 48h); ficha sem fundação, cores, rival, títulos, site, Instagram"
+   }
   ]
  }
 }
