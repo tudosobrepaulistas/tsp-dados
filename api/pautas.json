@@ -1,81 +1,6 @@
 {
  "itens": [
   {
-   "clube": "palmeiras",
-   "titulo": "Final da Libertadores: técnico do Estudiantes tem dúvida para substituir suspenso; veja como chega o rival do Palmeiras",
-   "resumo": "O Estudiantes fechou a preparação e viaja a Montevidéu; Cacique Medina escolhe entre Tomás Palacios e Eric Meza para o lugar de Baltasar Rodríguez, suspenso. A final é no sábado (28), às 17h, no Centenário.",
-   "angulo": "Raio-x do adversário + serviço completo da final (horário, local, onde assistir) e campanha do Palmeiras no recorte da Base TSP.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/palmeiras/libertadores-tecnico-do-estudiantes-tem-duvida-para-a-final-com-o-palmeiras,d9dc733b3e76347763ffbcc14e5567efuc7y0dqa.html"
-    }
-   ],
-   "id": "p7ef8932429",
-   "gerado": "2026-11-25T16:43-03:00",
-   "quando": "25/11 16h"
-  },
-  {
-   "clube": "corinthians",
-   "titulo": "Seedorf critica gramados sintéticos no Brasileirão antes de enfrentar o Atlético-MG",
-   "resumo": "O técnico do Corinthians criticou o uso de gramado sintético, autorizado pela CBF e adotado por cinco clubes da Série A. A fala veio antes do jogo desta quarta (25), às 20h, na Arena MRV.",
-   "angulo": "Explicar quais estádios da Série A usam sintético e como o Corinthians foi nesses jogos (recorte da Base TSP).",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/corinthians/seedorf-do-corinthians-detona-pratica-autorizada-pela-cbf-no-brasileirao,bd10ae2b74a5e58c3705499e414b1bc7s6rxwtxv.html"
-    }
-   ],
-   "id": "p3b837ce617",
-   "gerado": "2026-11-25T16:43-03:00",
-   "quando": "25/11 16h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "São Paulo antecipa exames do elenco e tem Wendell suspenso contra o Remo",
-   "resumo": "O clube adiantou os exames cardiológicos de fim de temporada e abriu a preparação para o Remo, quinta (26), às 20h, no Morumbis, pela 37ª rodada. O lateral Wendell cumpre suspensão.",
-   "angulo": "Quem substitui Wendell e serviço do jogo (horário, onde assistir, ingressos).",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-antecipa-exames-do-elenco-e-abre-preparacao-para-encarar-o-remo/"
-    }
-   ],
-   "id": "pd555ce64ce",
-   "gerado": "2026-11-25T16:43-03:00",
-   "quando": "25/11 16h"
-  },
-  {
-   "clube": "santos",
-   "titulo": "Santos venceu só uma de oito em casa no returno; G6 depende de reação fora contra o Vitória",
-   "resumo": "Depois do 2 a 0 para o Grêmio, o Santos soma uma vitória em oito jogos como mandante no returno (33,3%). O próximo jogo é contra o Vitória, domingo (29), às 16h, no Barradão.",
-   "angulo": "Comparar casa x fora no returno com os jogos registrados pela Base TSP (deixando claro o recorte) e o que o Santos precisa nas duas rodadas finais.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://www.gazetaesportiva.com/times/santos/santos-desempenho-mandante-returno-brasileirao"
-    }
-   ],
-   "id": "p406d9fe0ed",
-   "gerado": "2026-11-25T16:43-03:00",
-   "quando": "25/11 16h"
-  },
-  {
-   "clube": "bragantino",
-   "titulo": "Inter já treina para pegar o Bragantino no Beira-Rio; veja o que está em jogo para os dois",
-   "resumo": "O Internacional começou nesta quarta (25) a preparação para receber o Red Bull Bragantino no domingo (29), às 18h30, no Beira-Rio, pela 37ª rodada, com o rival gaúcho brigando contra o rebaixamento.",
-   "angulo": "Raio-x do adversário e cenário do Bragantino na tabela; serviço do jogo.",
-   "fontes": [
-    {
-     "nome": "Rádio Pampa",
-     "url": "https://www.radiopampa.com.br/inter-se-prepara-para-enfrentar-o-bragantino-na-penultima-rodada-do-brasileirao/"
-    }
-   ],
-   "id": "p55d0b821fa",
-   "gerado": "2026-11-25T16:43-03:00",
-   "quando": "25/11 16h"
-  },
-  {
    "clube": "corinthians",
    "titulo": "Empate no fim em BH tira o Corinthians do Z-4, mas Grêmio no domingo vira decisão contra a queda",
    "resumo": "O Corinthians ficou no 1 a 1 com o Atlético-MG na Arena MRV (Kaio César abriu, Cuello empatou aos 47 do 2º tempo, com o Galo com um a menos) e é 15º com 41 pontos. Recebe o Grêmio no domingo (29/11, 18h30, Neo Química Arena) e fecha contra o Remo em 02/12.",
@@ -480,7 +405,37 @@
    "id": "p6836c90422",
    "gerado": "2026-11-27T07:44-03:00",
    "quando": "27/11 07h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Ingressos esgotados: Fiel lota a Arena para o confronto direto com o Grêmio",
+   "resumo": "O Corinthians informou que todos os ingressos para domingo (29), às 18h30, na Neo Química Arena, já foram reservados pelos sócios do Fiel Torcedor. Corinthians e Grêmio estão empatados com 41 pontos na briga contra o rebaixamento.",
+   "angulo": "Serviço para quem vai ao estádio (acesso, horários de abertura) e as contas de cada um na penúltima rodada.",
+   "fontes": [
+    {
+     "nome": "Itatiaia",
+     "url": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/vai-lotar-corinthians-divulga-previsao-de-torcida-para-duelo-com-gremio/"
+    }
+   ],
+   "id": "pb5cc2bc73d",
+   "gerado": "2026-11-27T16:49-03:00",
+   "quando": "27/11 16h"
+  },
+  {
+   "clube": "mirassol",
+   "titulo": "As contas do Mirassol: o que o time precisa contra Athletico-PR e Grêmio para ficar na Série A",
+   "resumo": "O Mirassol é o 17º, com 41 pontos, e recebe o Athletico-PR no domingo (29), às 18h30, antes de visitar o Grêmio na última rodada. Segundo a CNN, com cálculo da UFMG, uma vitória e um empate (45 pontos) já garantem a permanência.",
+   "angulo": "Tabela simples com todos os cenários (vitória, empate, derrota) e os jogos dos rivais diretos na mesma rodada.",
+   "fontes": [
+    {
+     "nome": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-pode-escapar-do-rebaixamento-mesmo-com-duas-derrotas-veja-cenario/"
+    }
+   ],
+   "id": "p29e61912b7",
+   "gerado": "2026-11-27T16:49-03:00",
+   "quando": "27/11 16h"
   }
  ],
- "gerado": "2026-11-27T07:44-03:00"
+ "gerado": "2026-11-27T16:49-03:00"
 }
