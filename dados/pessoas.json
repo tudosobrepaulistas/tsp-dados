@@ -1060,9 +1060,12 @@
      "Acesso à Série A1 em 2025 com o Capivariano, que voltou à elite depois de nove anos"
     ],
     "destaques": [
-     "Levou o Capivariano da Série A3 à A1 em dois acessos, com títulos em 2023 e 2025",
-     "Comandou o Guarani em 18 jogos na Série C de 2026, de março a agosto",
-     "Em 2025, foi cedido pelo Capivariano ao Figueirense para as três rodadas finais da Série C"
+     "209 jogos como técnico: 86 vitórias, 59 empates e 64 derrotas, com 284 gols marcados e 232 sofridos, de 2012 a 2026",
+     "Duas divisões em três anos: levou o Capivariano da Série A3 à A1, campeão da A3 em 2023 e da A2 em 2025",
+     "Primeiro técnico do Novorizontino: comandou o clube no primeiro ano profissional, em 2012, com acesso da Segunda Divisão à A3 (17 vitórias em 28 jogos)",
+     "Melhor temporada: Capivariano 2023, com 14 vitórias, 7 empates e 4 derrotas em 25 jogos (65,3% de aproveitamento) e o título da A3",
+     "Técnico emprestado: em 2025, o Capivariano o cedeu ao Figueirense para as três rodadas finais da Série C (2 vitórias e 1 derrota)",
+     "Guarani 2026: 18 jogos na Série C (7 vitórias, 6 empates e 5 derrotas), com 32 gols marcados"
     ],
     "fontes": [
      "https://cbncampinas.com.br/2026/10/capivariano-confirma-elio-sizenando-como-treinador-para-o-paulistao-2027/",
@@ -1074,8 +1077,10 @@
      "https://atarde.com.br/esportes/treinador-e-emprestado-por-clube-para-salvar-o-figueirense-na-serie-c-1347201",
      "https://istoe.com.br/sao-jose-ganha-do-capivariano-e-fica-a-um-empate-do-titulo-do-paulista-a3",
      "https://www.futebolinterior.com.br/paulista-a3-tecnicos-elio-sizenando-e-ricardo-costa-buscam-coroar-acesso-com-titulo/",
-     "https://www.lance.com.br/futebol-nacional/paulistao-capivariano-aposta-em-continuidade-e-reforcos-para-se-manter-na-elite.html"
-    ]
+     "https://www.lance.com.br/futebol-nacional/paulistao-capivariano-aposta-em-continuidade-e-reforcos-para-se-manter-na-elite.html",
+     "https://www.ogol.com.br/treinador/elio-sizenando/26546/historico-por-epoca"
+    ],
+    "carreira_completa": true
    },
    "carreira": [
     {
@@ -1088,56 +1093,176 @@
      "temporada": "2026",
      "clube": "Guarani",
      "funcao": "Treinador",
-     "obs": "18 jogos na Série C, de março a agosto"
+     "jogos": 18,
+     "vitorias": 7,
+     "empates": 6,
+     "derrotas": 5,
+     "gols_pro": 32,
+     "gols_contra": 22,
+     "obs": "Série C, de 04/04 a 22/08/2026"
     },
     {
      "temporada": "2026",
      "clube": "Capivariano",
      "funcao": "Treinador",
+     "jogos": 9,
+     "vitorias": 4,
+     "empates": 1,
+     "derrotas": 4,
+     "gols_pro": 7,
+     "gols_contra": 14,
      "obs": "Série A1 do Paulistão"
     },
     {
      "temporada": "2025",
      "clube": "Figueirense",
      "funcao": "Treinador",
-     "obs": "Três rodadas finais da Série C"
+     "jogos": 3,
+     "vitorias": 2,
+     "empates": 0,
+     "derrotas": 1,
+     "gols_pro": 4,
+     "gols_contra": 1,
+     "obs": "Emprestado pelo Capivariano para as três rodadas finais da Série C"
     },
     {
      "temporada": "2025",
      "clube": "Pouso Alegre",
      "funcao": "Treinador",
+     "jogos": 8,
+     "vitorias": 3,
+     "empates": 1,
+     "derrotas": 4,
+     "gols_pro": 7,
+     "gols_contra": 11,
      "obs": "Série D"
     },
     {
-     "temporada": "2022-2025",
+     "temporada": "2025",
      "clube": "Capivariano",
      "funcao": "Treinador",
-     "obs": "Campeão da A3 2023 e da A2 2025"
+     "jogos": 21,
+     "vitorias": 11,
+     "empates": 5,
+     "derrotas": 5,
+     "gols_pro": 27,
+     "gols_contra": 16,
+     "obs": "Campeão da Série A2 e acesso à A1"
     },
     {
-     "temporada": "2019-2021",
+     "temporada": "2024",
+     "clube": "Capivariano",
+     "funcao": "Treinador",
+     "jogos": 26,
+     "vitorias": 7,
+     "empates": 11,
+     "derrotas": 8,
+     "gols_pro": 31,
+     "gols_contra": 32,
+     "obs": "Série A2 e Copa Paulista"
+    },
+    {
+     "temporada": "2023",
+     "clube": "Capivariano",
+     "funcao": "Treinador",
+     "jogos": 25,
+     "vitorias": 14,
+     "empates": 7,
+     "derrotas": 4,
+     "gols_pro": 46,
+     "gols_contra": 20,
+     "obs": "Campeão da Série A3 e acesso à A2"
+    },
+    {
+     "temporada": "2022",
+     "clube": "Capivariano",
+     "funcao": "Treinador",
+     "jogos": 21,
+     "vitorias": 8,
+     "empates": 4,
+     "derrotas": 9,
+     "gols_pro": 26,
+     "gols_contra": 28,
+     "obs": "Série A3; voltou ao clube em 16/12/2021"
+    },
+    {
+     "temporada": "2021",
      "clube": "Desportivo Brasil",
      "funcao": "Treinador",
-     "obs": ""
+     "jogos": 15,
+     "vitorias": 4,
+     "empates": 8,
+     "derrotas": 3,
+     "gols_pro": 16,
+     "gols_contra": 15,
+     "obs": "Série A3; saiu em julho de 2021"
     },
     {
-     "temporada": "2016-2017",
+     "temporada": "2020",
+     "clube": "Desportivo Brasil",
+     "funcao": "Treinador",
+     "jogos": 15,
+     "vitorias": 5,
+     "empates": 3,
+     "derrotas": 7,
+     "gols_pro": 20,
+     "gols_contra": 20,
+     "obs": "Série A3"
+    },
+    {
+     "temporada": "2019",
+     "clube": "Desportivo Brasil",
+     "funcao": "Treinador",
+     "jogos": 7,
+     "vitorias": 2,
+     "empates": 2,
+     "derrotas": 3,
+     "gols_pro": 7,
+     "gols_contra": 8,
+     "obs": "Copa Paulista; assumiu o profissional em agosto de 2019"
+    },
+    {
+     "temporada": "2017",
      "clube": "Capivariano",
      "funcao": "Treinador",
-     "obs": "Vice-campeão paulista sub-20 em 2016"
+     "jogos": 6,
+     "vitorias": 0,
+     "empates": 3,
+     "derrotas": 3,
+     "gols_pro": 6,
+     "gols_contra": 12,
+     "obs": "Série A2"
     },
     {
-     "temporada": "2012-2013",
+     "temporada": "2013",
      "clube": "Novorizontino",
      "funcao": "Treinador",
-     "obs": ""
+     "jogos": 7,
+     "vitorias": 2,
+     "empates": 0,
+     "derrotas": 5,
+     "gols_pro": 11,
+     "gols_contra": 16,
+     "obs": "Série A3; saiu após a derrota para a Francana, em 24/02/2013"
+    },
+    {
+     "temporada": "2012",
+     "clube": "Novorizontino",
+     "funcao": "Treinador",
+     "jogos": 28,
+     "vitorias": 17,
+     "empates": 8,
+     "derrotas": 3,
+     "gols_pro": 44,
+     "gols_contra": 17,
+     "obs": "Primeiro técnico da história do clube; acesso da Segunda Divisão à A3"
     }
    ],
-   "carreira_fonte": "CBN Campinas, Futebol Interior, Hora Campinas, Diário Campineiro, ge e sites oficiais dos clubes",
+   "carreira_fonte": "Jogos: lista do oGol conferida pelo TSP com as datas de entrada e saída publicadas pela imprensa e pelos clubes (em 2022, 2 jogos da Série A3 que estão no histórico por temporada do oGol, mas não na lista, entram pelo total da temporada). Datas e títulos: ge, Futebol Interior, A Tarde, Lance! e sites oficiais dos clubes",
    "pilar": {
     "titulo": "Elio Sizenando: quem é, idade, títulos e carreira do treinador",
     "descricao": "Elio Sizenando, técnico do Capivariano em 2027: campeão da A3 2023 e da A2 2025, passagem pelo Guarani, idade, clubes e carreira.",
-    "resposta_rapida": "Elio Sizenando, 55 anos, natural de Campinas (SP), é o técnico do Capivariano para o Paulistão 2027. Levou o clube da Série A3 à A1 com dois títulos: A3 de 2023 e A2 de 2025. Em 2026, comandou o Guarani em 18 jogos na Série C.",
+    "resposta_rapida": "Elio Sizenando, 55 anos, natural de Campinas (SP), é o treinador do Capivariano para 2027. Levou o clube da Série A3 à A1 com dois títulos (A3 2023 e A2 2025). Soma 209 jogos como técnico, com 86 vitórias, 59 empates e 64 derrotas (50,6% de aproveitamento).",
     "secoes": [
      {
       "h2": "Quem é Elio Sizenando?",
@@ -1152,8 +1277,108 @@
       "texto": []
      },
      {
+      "h2": "Quantos jogos Elio Sizenando tem como técnico?",
+      "resposta": "209 jogos como técnico principal, de 2012 a 2026: 86 vitórias, 59 empates e 64 derrotas, 50,6% de aproveitamento, 284 gols marcados e 232 sofridos (saldo de +52). O clube em que mais trabalhou é o Capivariano, com 108 jogos em três passagens.",
+      "texto": [
+       "A conta foi feita pelo TSP jogo a jogo e conferida com as datas de entrada e saída de cada clube. Ficam fora os trabalhos nas categorias de base (Paulínia, Ponte Preta, Capivariano, Figueirense e Desportivo Brasil)."
+      ],
+      "tabela": {
+       "titulo": "Jogos de Elio Sizenando por clube",
+       "cab": [
+        "Clube",
+        "J",
+        "V",
+        "E",
+        "D",
+        "GP",
+        "GC",
+        "Saldo",
+        "Aprov."
+       ],
+       "linhas": [
+        [
+         "Capivariano",
+         "108",
+         "44",
+         "31",
+         "33",
+         "143",
+         "122",
+         "+21",
+         "50,3%"
+        ],
+        [
+         "Desportivo Brasil",
+         "37",
+         "11",
+         "13",
+         "13",
+         "43",
+         "43",
+         "0",
+         "41,4%"
+        ],
+        [
+         "Novorizontino",
+         "35",
+         "19",
+         "8",
+         "8",
+         "55",
+         "33",
+         "+22",
+         "61,9%"
+        ],
+        [
+         "Guarani",
+         "18",
+         "7",
+         "6",
+         "5",
+         "32",
+         "22",
+         "+10",
+         "50,0%"
+        ],
+        [
+         "Pouso Alegre",
+         "8",
+         "3",
+         "1",
+         "4",
+         "7",
+         "11",
+         "-4",
+         "41,7%"
+        ],
+        [
+         "Figueirense",
+         "3",
+         "2",
+         "0",
+         "1",
+         "4",
+         "1",
+         "+3",
+         "66,7%"
+        ],
+        [
+         "Total",
+         "209",
+         "86",
+         "59",
+         "64",
+         "284",
+         "232",
+         "+52",
+         "50,6%"
+        ]
+       ]
+      }
+     },
+     {
       "h2": "Como foi a passagem de Elio Sizenando pelo Guarani?",
-      "resposta": "O Guarani anunciou Elio Sizenando em 11/03/2026 para a Série C, no lugar de Matheus Costa. Ele comandou o Bugre em 18 jogos e deixou o clube em agosto de 2026. Em outubro, o Capivariano confirmou a volta dele para 2027.",
+      "resposta": "O Guarani anunciou Elio Sizenando em 11/03/2026 para a Série C. Ele comandou o Bugre em 18 jogos, de 04/04 a 22/08/2026, com 7 vitórias, 6 empates e 5 derrotas, e deixou o clube ainda na primeira fase. Em outubro, o Capivariano confirmou a volta dele para 2027.",
       "texto": [
        "No Guarani, trabalhou com Marcelo Marelli como auxiliar fixo da comissão permanente."
       ]
