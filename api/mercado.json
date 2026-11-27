@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-27T04:40:00-03:00",
+ "gerado": "2026-11-27T05:14:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -11,6 +11,132 @@
   "promovido": "Subiu da base"
  },
  "itens": [
+  {
+   "id": "2026-11-26-yormax-bingong-tanabi",
+   "data": "2026-11-26",
+   "jogador": "Yormax Bingong",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "y0rm4x"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
+   "id": "2026-11-26-leo-gama-tanabi",
+   "data": "2026-11-26",
+   "jogador": "Léo Gama",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Zagueiro canhoto",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "leo_gama05"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
+   "id": "2026-11-26-giovani-vieira-tanabi",
+   "data": "2026-11-26",
+   "jogador": "Giovani Vieira",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "giovani05__"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
   {
    "id": "2026-11-25-ryan-rizardi-ecus",
    "data": "2026-11-25",
@@ -905,7 +1031,7 @@
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Julian Henrique Carlota; volta ao clube",
+   "obs": "Julian Henrique Carlota; volta ao clube, onde passou pela base",
    "de": {
     "nome": "Novo Esporte-MG",
     "slug": "",
@@ -923,7 +1049,8 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/"
+    "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {
@@ -943,7 +1070,10 @@
    "carreira_fonte": "",
    "ficha": {
     "idade": 22,
-    "idade_em": "2026-11-23"
+    "idade_em": "2026-11-23",
+    "redes": {
+     "instagram": "julian_henrique.04"
+    }
    },
    "comissao": false,
    "dono": "tanabi"
@@ -975,16 +1105,34 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/"
+    "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {},
-   "selos": [],
+   "selos": [
+    {
+     "texto": "Campeão da Bezinha 2026",
+     "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
+    },
+    {
+     "texto": "Vice da Terceira Divisão Goiana 2026",
+     "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
+    }
+   ],
    "carreira": [],
    "carreira_fonte": "",
    "ficha": {
     "idade": 22,
-    "idade_em": "2026-11-23"
+    "idade_em": "2026-11-23",
+    "titulos": [
+     "Paulistão A3 2024 (Capivariano)",
+     "Bezinha 2025 (Tanabi)",
+     "Bezinha 2026 (Independente de Limeira)"
+    ],
+    "redes": {
+     "instagram": "fabiojs_04"
+    }
    },
    "comissao": false,
    "dono": "tanabi"
@@ -10201,6 +10349,90 @@
    "dono": "marilia"
   },
   {
+   "id": "2026-11-08-eduardo-silva-tanabi",
+   "data": "2026-11-08",
+   "jogador": "Eduardo Silva",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Meio-campista",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "duduugabriel"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
+   "id": "2026-11-08-cristiano-lohr-tanabi",
+   "data": "2026-11-08",
+   "jogador": "Cristiano Lohr",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "cristiano_lohr"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
    "id": "2026-11-07-paulo-galvao-xv-de-jau",
    "data": "2026-11-07",
    "jogador": "Paulo Galvão",
@@ -10441,6 +10673,48 @@
    },
    "comissao": false,
    "dono": "marilia"
+  },
+  {
+   "id": "2026-11-07-felipe-hulk-tanabi",
+   "data": "2026-11-07",
+   "jogador": "Felipe Hulk",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "felipehulk6"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
   },
   {
    "id": "2026-11-07-dudu-pedrotti-xv-de-jau",
@@ -11056,6 +11330,57 @@
    "dono": "ituano"
   },
   {
+   "id": "2026-11-06-kiko-tanabi",
+   "data": "2026-11-06",
+   "jogador": "Kiko",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Extremo; vice da Série A4 2026 com a Inter de Bebedouro",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [
+    {
+     "texto": "Acesso Paulistão A4 2026 (Inter de Bebedouro)",
+     "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
+    }
+   ],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "titulos": [
+     "Campeonato Capixaba 2022 (Real Noroeste)",
+     "Segunda Divisão Sul-Mato-Grossense 2025"
+    ],
+    "redes": {
+     "instagram": "kikorodrigues99"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
    "id": "2026-11-06-kelvin-moreira-xv-de-jau",
    "data": "2026-11-06",
    "jogador": "Kelvin Moreira",
@@ -11567,6 +11892,54 @@
    "dono": "ituano"
   },
   {
+   "id": "2026-11-06-eli-junior-tanabi",
+   "data": "2026-11-06",
+   "jogador": "Eli Junior",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Meio-campista; formado com passagens por Chapecoense, Atlético-GO, Athletico-PR e Operário",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Chapecoense",
+     "Atlético-GO",
+     "Athletico-PR",
+     "Operário"
+    ],
+    "redes": {
+     "instagram": "eli_jr04"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
    "id": "2026-11-06-alason-carioca",
    "data": "2026-11-06",
    "jogador": "Alason Carioca",
@@ -11661,12 +12034,12 @@
    "id": "2026-11-05-rafinha-tanabi",
    "data": "2026-11-05",
    "jogador": "Rafinha",
-   "posicao": "",
+   "posicao": "Atacante",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Setor ofensivo",
+   "obs": "Extremo",
    "de": {
     "nome": "Itapirense",
     "slug": "itapirense",
@@ -11684,7 +12057,8 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {},
@@ -11698,13 +12072,13 @@
   {
    "id": "2026-11-05-rafael-gatto-tanabi",
    "data": "2026-11-05",
-   "jogador": "Rafael Gatto",
+   "jogador": "Rafael Gato",
    "posicao": "Lateral",
    "tipo": "renovacao",
    "tipo_nome": "Renovação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Lateral-direito, disputou o Paulista Sub-20",
+   "obs": "Lateral-direito; renovou para 2027; disputou o Paulista Sub-20 pelo Tanabi",
    "de": {
     "nome": "Tanabi",
     "slug": "tanabi",
@@ -11722,14 +12096,19 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "redes": {
+     "instagram": "rafaelgato_"
+    }
+   },
    "comissao": false,
    "dono": "tanabi"
   },
@@ -11907,14 +12286,19 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "redes": {
+     "instagram": "monteirojv__"
+    }
+   },
    "comissao": false,
    "dono": "tanabi"
   },
@@ -11961,12 +12345,12 @@
    "id": "2026-11-05-giovanni-carignano-tanabi",
    "data": "2026-11-05",
    "jogador": "Giovanni Carignano",
-   "posicao": "",
+   "posicao": "Atacante",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Setor ofensivo",
+   "obs": "Centroavante",
    "de": {
     "nome": "SC Gaúcho",
     "slug": "",
@@ -11984,14 +12368,19 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "redes": {
+     "instagram": "giovannicarignano"
+    }
+   },
    "comissao": false,
    "dono": "tanabi"
   },
@@ -12134,7 +12523,8 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {
@@ -12148,7 +12538,11 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "redes": {
+     "instagram": "santos_denis00"
+    }
+   },
    "comissao": false,
    "dono": "tanabi"
   },
@@ -12156,12 +12550,12 @@
    "id": "2026-11-05-daniel-dandan-tanabi",
    "data": "2026-11-05",
    "jogador": "Daniel Dandan",
-   "posicao": "",
+   "posicao": "Atacante",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Volta ao Tanabi; Setor ofensivo",
+   "obs": "Volta ao Tanabi; campeão da Bezinha 2025 pelo clube e de novo em 2026",
    "de": {
     "nome": "",
     "slug": "",
@@ -12179,14 +12573,28 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {},
-   "selos": [],
+   "selos": [
+    {
+     "texto": "Campeão da Bezinha 2026",
+     "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
+    }
+   ],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "titulos": [
+     "Bezinha 2025 (Tanabi)",
+     "Bezinha 2026"
+    ],
+    "redes": {
+     "instagram": "dandann.05"
+    }
+   },
    "comissao": false,
    "dono": "tanabi"
   },
@@ -12194,12 +12602,12 @@
    "id": "2026-11-05-bernardo-tanabi",
    "data": "2026-11-05",
    "jogador": "Bernardo",
-   "posicao": "",
+   "posicao": "Atacante",
    "tipo": "contratacao",
    "tipo_nome": "Contratação",
    "situacao": "oficial",
    "feminino": false,
-   "obs": "Volta ao Tanabi; Setor ofensivo",
+   "obs": "Extremo; volta ao Tanabi, onde chegou em 2025 por intercâmbio",
    "de": {
     "nome": "Araxá-MG",
     "slug": "",
@@ -12217,14 +12625,19 @@
    ],
    "foto": {},
    "fontes": [
-    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/"
+    "https://www.futebolinterior.com.br/paulistao-a4-tanabi-oficializa-pacotao-de-reforcos/",
+    "https://www.instagram.com/tanabiesporteclubesaf/"
    ],
    "nascimento": "",
    "numeros": {},
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "redes": {
+     "instagram": "bernardo_bebo"
+    }
+   },
    "comissao": false,
    "dono": "tanabi"
   },
@@ -13861,6 +14274,48 @@
    "dono": "xvdepiracicaba"
   },
   {
+   "id": "2026-11-03-kaiky-grigorio-tanabi",
+   "data": "2026-11-03",
+   "jogador": "Kaiky Grigório",
+   "posicao": "Goleiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Volta ao clube, onde passou pela base",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "kaiky_grigorio.01"
+    }
+   },
+   "comissao": false,
+   "dono": "tanabi"
+  },
+  {
    "id": "2026-11-03-julio-vaz-santo-andre",
    "data": "2026-11-03",
    "jogador": "Júlio Vaz",
@@ -15170,6 +15625,48 @@
    "ficha": {},
    "comissao": false,
    "dono": "inter-de-bebedouro"
+  },
+  {
+   "id": "2026-10-29-petterson-martins-tanabi",
+   "data": "2026-10-29",
+   "jogador": "Petterson Martins",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Comandará o Tanabi na Série A4 de 2027",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Tanabi",
+    "slug": "tanabi",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d4"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/tanabiesporteclubesaf/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "redes": {
+     "instagram": "pettersonmartins_"
+    }
+   },
+   "comissao": true,
+   "dono": "tanabi"
   },
   {
    "id": "2026-10-29-paulinho-mclaren-vocem",
