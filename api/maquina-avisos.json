@@ -1,48 +1,6 @@
 {
- "gerado": "2026-11-27T10:42-03:00",
+ "gerado": "2026-11-27T11:04-03:00",
  "avisos": [
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-26T13:21-03:00",
-   "motivo": "Sem notícia recente; evergreen pronto foi recusado (já teve história nos últimos 14 dias)",
-   "sugestao": "Apresentação do elenco do técnico Tássio Lopes para a A4 2027 (prevista para a 2ª quinzena de novembro)"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-26T13:21-03:00",
-   "motivo": "Sem notícia recente; evergreen recusado (limite de 14 dias)",
-   "sugestao": "Elenco e técnico do Colorado para a A4 2027 (Grupo 2), no Instagram oficial ou Portal Dois Pontos"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-26T13:21-03:00",
-   "motivo": "Única novidade é boato (saída da A3 2027, Jornal Cruzeiro 23/11) sem confirmação da FPF; evergreen recusado (14 dias)",
-   "sugestao": "Confirmar com a FPF se Catanduva disputa a A3 2027"
-  },
-  {
-   "clube": "itapirense",
-   "nome": "Itapirense",
-   "quando": "2026-11-26T13:21-03:00",
-   "motivo": "Sem notícia recente; evergreen recusado (14 dias)",
-   "sugestao": "Técnico e elenco da Itapirense para 2027"
-  },
-  {
-   "clube": "saobento",
-   "nome": "São Bento",
-   "quando": "2026-11-26T13:21-03:00",
-   "motivo": "Base pede campo à FUA só no Jornal Cruzeiro (24/11), sem 2ª fonte",
-   "sugestao": "Confirmar no Instagram do São Bento o pedido de campo para sub-13 e sub-14: https://www.jornalcruzeiro.com.br/esporte/sao-bento/2026/11/768179-sao-bento-solicita-espaco-para-treinamento-das-equipes-de-base.html"
-  },
-  {
-   "clube": "mirassol",
-   "nome": "Mirassol",
-   "quando": "2026-11-26T15:33-03:00",
-   "motivo": "Cobertura 6h (26/11 tarde): sem notícia nova das últimas 24h em 2 fontes aceitas; site oficial do clube não abriu; Terra de 24/11 (volta de Neto Moura e Edson Carioca) já passa de 24h",
-   "sugestao": "Mirassol x Athletico-PR, domingo (29/11), 18h30, no Maião: relacionados, provável escalação e ingressos, conferindo no site oficial do Mirassol"
-  },
   {
    "clube": "bragantino",
    "nome": "Red Bull Bragantino",
@@ -420,6 +378,48 @@
    "quando": "2026-11-27T10:42-03:00",
    "motivo": "Bloco A3 (cobertura 6h): Itapirense, Francana, Catanduva e Grêmio Prudente sem notícia confirmada entre 25/11 e 27/11.",
    "sugestao": "Grêmio Prudente: início da pré-temporada com Fahel Junior e primeiros reforços (site gdprudente.com.br, O Imparcial). Catanduva: venda da SAF e técnico 2027. Itapirense e Francana: técnico para a A3."
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-27T11:04-03:00",
+   "motivo": "Sem notícia confirmada de 20 a 27/11; matéria da CBN Vale sobre reforços não abriu",
+   "sugestao": "Confirmar com o clube os oito reforços encaminhados e a seletiva para a Série A4 2027"
+  },
+  {
+   "clube": "gremio-saocarlense",
+   "nome": "Grêmio São-Carlense",
+   "quando": "2026-11-27T11:04-03:00",
+   "motivo": "Sem notícia confirmada de 20 a 27/11 (matéria do jornalpp sobre planejamento 2027 não abriu)",
+   "sugestao": "Planejamento do Grêmio São-Carlense para a Série A4 2027: técnico e elenco"
+  },
+  {
+   "clube": "america-de-rio-preto",
+   "nome": "América de Rio Preto",
+   "quando": "2026-11-27T11:04-03:00",
+   "motivo": "Sem notícia de 20 a 27/11; em 10/11 seguia sem técnico",
+   "sugestao": "Quem será o técnico do América para a Série A4 2027"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-27T11:04-03:00",
+   "motivo": "Confronto com o Realidade Jovem na Copa Paulista Feminina sem data, hora e local em matéria jornalística",
+   "sugestao": "Confirmar com o Mirassol data e local do jogo contra o Realidade Jovem pelas quartas da Copa Paulista"
+  },
+  {
+   "clube": "palmeiras-feminino",
+   "nome": "Palmeiras Feminino",
+   "quando": "2026-11-27T11:04-03:00",
+   "motivo": "Jonas Urias como técnico para 2027 ainda não oficializado; jogo com o Vasco (Copinha F) já coberto",
+   "sugestao": "Quando o Palmeiras oficializar Jonas Urias, matéria do anúncio"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-27T11:04-03:00",
+   "motivo": "Sem notícia confirmada de 20 a 27/11",
+   "sugestao": "Planejamento do Colorado Caieiras para a Série A4 2027"
   }
  ]
 }
