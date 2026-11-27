@@ -150,6 +150,12 @@
   "gols": 3
  },
  {
+  "jogador": "Calleri",
+  "time": "São Paulo",
+  "time_id": 900009,
+  "gols": 3
+ },
+ {
   "jogador": "Danilo",
   "time": "Botafogo",
   "time_id": 900011,
@@ -552,12 +558,6 @@
   "gols": 1
  },
  {
-  "jogador": "Calleri",
-  "time": "São Paulo",
-  "time_id": 900009,
-  "gols": 1
- },
- {
   "jogador": "Camilo",
   "time": "Chapecoense",
   "time_id": 900020,
@@ -723,6 +723,12 @@
   "jogador": "Gabriel Pereira",
   "time": "Vasco",
   "time_id": 900013,
+  "gols": 1
+ },
+ {
+  "jogador": "Gabriel Poveda",
+  "time": "Remo",
+  "time_id": 900019,
   "gols": 1
  },
  {
@@ -1143,6 +1149,12 @@
   "jogador": "Rubens",
   "time": "Chapecoense",
   "time_id": 900020,
+  "gols": 1
+ },
+ {
+  "jogador": "Ryan Francisco",
+  "time": "São Paulo",
+  "time_id": 900009,
   "gols": 1
  },
  {

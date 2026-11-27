@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26T22:00:00-03:00",
+ "gerado": "2026-11-26T22:11:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -131,6 +131,17 @@
      "gc": 51
     },
     {
+     "id": 900009,
+     "nome": "São Paulo",
+     "pts": 48,
+     "j": 37,
+     "v": 13,
+     "e": 9,
+     "d": 15,
+     "gp": 43,
+     "gc": 42
+    },
+    {
      "id": 900013,
      "nome": "Vasco",
      "pts": 47,
@@ -140,17 +151,6 @@
      "d": 15,
      "gp": 47,
      "gc": 52
-    },
-    {
-     "id": 900009,
-     "nome": "São Paulo",
-     "pts": 45,
-     "j": 36,
-     "v": 12,
-     "e": 9,
-     "d": 15,
-     "gp": 40,
-     "gc": 41
     },
     {
      "id": 900012,
@@ -233,12 +233,12 @@
      "id": 900019,
      "nome": "Remo",
      "pts": 32,
-     "j": 36,
+     "j": 37,
      "v": 7,
      "e": 11,
-     "d": 18,
-     "gp": 41,
-     "gc": 61
+     "d": 19,
+     "gp": 42,
+     "gc": 64
     },
     {
      "id": 900020,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000401,
-     "rodada": "37",
-     "data": "2026-11-26T20:00",
-     "casa": 900009,
-     "fora": 900019,
-     "a_confirmar": false
-    },
     {
      "id": 91000428,
      "rodada": "37",
@@ -1773,6 +1765,12 @@
      900006,
      900018,
      1,
+     1
+    ],
+    [
+     900009,
+     900019,
+     3,
      1
     ]
    ]
@@ -23978,14 +23976,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/",
+    "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-remo-brasileirao-37-rodada-26-11-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/em-despedida-melancolica-sao-paulo-sofre-mas-vence-o-remo-no-morumbis/"
    ],
    "fixture": {
     "id": 91000401,
     "timestamp": 1795734000,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Morumbis",
@@ -24007,8 +24007,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -24092,22 +24092,141 @@
      "atualizado": "2026-11-26T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 54,
-    "empate": 25,
-    "fora": 21,
-    "placar": "1x0",
-    "gols_esperados": [
-     1.59,
-     0.89
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Pedro Lima, Arboleda, Osório, Iago; Pablo Maia, Bobadilla; Lucas Moura, Luciano, Artur, Calleri",
+     "entraram": [
+      {
+       "jogador": "Newton",
+       "saiu": "Pedro Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Ferreira",
+       "saiu": "Pablo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Santana",
+       "saiu": "Lucas Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Francisco",
+       "saiu": "Luciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Artur",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Thiago Carpini",
+     "time": "Marcelo Rangel; Pikachu, Zé Ivaldo, Tchamba, Zé Welison; Picco, Edson, Galeano; David Braga, Taliari, Gabriel Poveda",
+     "entraram": [
+      {
+       "jogador": "João Lucas",
+       "saiu": "Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jáderson",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Edson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon",
+       "saiu": "Galeano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Melo",
+       "saiu": "Gabriel Poveda",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-remo-brasileirao-37-rodada-26-11-2026/"
     ],
-    "base": [
-     23,
-     38
-    ]
+    "atualizado": "2026-11-26T22:11:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Calleri"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900019,
+      "name": "Remo"
+     },
+     "player": {
+      "name": "Gabriel Poveda"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Ryan Francisco"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Calleri"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -24482,7 +24601,7 @@
    "previsao": {
     "casa": 20,
     "empate": 24,
-    "fora": 57,
+    "fora": 56,
     "placar": "0x1",
     "gols_esperados": [
      0.91,
@@ -24629,7 +24748,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.54,
-     1.57
+     1.56
     ],
     "base": [
      24,
@@ -24774,7 +24893,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.33,
-     1.18
+     1.17
     ],
     "base": [
      29,
@@ -24897,7 +25016,7 @@
    "previsao": {
     "casa": 43,
     "empate": 26,
-    "fora": 32,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
      1.46,
@@ -25009,7 +25128,7 @@
    "previsao": {
     "casa": 43,
     "empate": 24,
-    "fora": 34,
+    "fora": 33,
     "placar": "1x1",
     "gols_esperados": [
      1.66,
@@ -25328,7 +25447,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.83,
-     1.11
+     1.1
     ],
     "base": [
      34,
@@ -25440,7 +25559,7 @@
     "placar": "1x1",
     "gols_esperados": [
      1.74,
-     1.18
+     1.17
     ],
     "base": [
      23,
@@ -25546,13 +25665,13 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 42,
+    "casa": 43,
     "empate": 29,
     "fora": 29,
     "placar": "1x0",
     "gols_esperados": [
      1.23,
-     0.96
+     0.95
     ],
     "base": [
      28,
@@ -25602,17 +25721,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 58,
+    "casa": 56,
     "empate": 24,
-    "fora": 18,
+    "fora": 20,
     "placar": "1x0",
     "gols_esperados": [
-     1.73,
-     0.85
+     1.72,
+     0.91
     ],
     "base": [
      35,
-     23
+     24
     ]
    },
    "events": []
@@ -25716,14 +25835,14 @@
    "previsao": {
     "casa": 47,
     "empate": 24,
-    "fora": 29,
+    "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
      1.72,
-     1.31
+     1.33
     ],
     "base": [
-     38,
+     39,
      29
     ]
    },
@@ -53289,6 +53408,20 @@
      ],
      [
       10,
+      900009,
+      "São Paulo",
+      48,
+      37,
+      13,
+      9,
+      15,
+      1,
+      "",
+      43,
+      42
+     ],
+     [
+      11,
       900013,
       "Vasco",
       47,
@@ -53300,20 +53433,6 @@
       "",
       47,
       52
-     ],
-     [
-      11,
-      900009,
-      "São Paulo",
-      45,
-      36,
-      12,
-      9,
-      15,
-      -1,
-      "",
-      40,
-      41
      ],
      [
       12,
@@ -53418,14 +53537,14 @@
       900019,
       "Remo",
       32,
-      36,
+      37,
       7,
       11,
-      18,
-      -20,
+      19,
+      -22,
       "",
-      41,
-      61
+      42,
+      64
      ],
      [
       20,
@@ -53884,6 +54003,12 @@
     "gols": 3
    },
    {
+    "jogador": "Calleri",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 3
+   },
+   {
     "jogador": "Danilo",
     "time": "Botafogo",
     "time_id": 900011,
@@ -54286,12 +54411,6 @@
     "gols": 1
    },
    {
-    "jogador": "Calleri",
-    "time": "São Paulo",
-    "time_id": 900009,
-    "gols": 1
-   },
-   {
     "jogador": "Camilo",
     "time": "Chapecoense",
     "time_id": 900020,
@@ -54457,6 +54576,12 @@
     "jogador": "Gabriel Pereira",
     "time": "Vasco",
     "time_id": 900013,
+    "gols": 1
+   },
+   {
+    "jogador": "Gabriel Poveda",
+    "time": "Remo",
+    "time_id": 900019,
     "gols": 1
    },
    {
@@ -54877,6 +55002,12 @@
     "jogador": "Rubens",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Ryan Francisco",
+    "time": "São Paulo",
+    "time_id": 900009,
     "gols": 1
    },
    {

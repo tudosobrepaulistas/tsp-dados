@@ -17789,22 +17789,49 @@
    "data": "2026-11-26T20:00:00-03:00",
    "casa": "sao-paulo",
    "fora": "remo",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Morumbis",
    "cidade": "São Paulo",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 3,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Calleri",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Gabriel Poveda",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ryan Francisco",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Calleri",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/",
+    "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-remo-brasileirao-37-rodada-26-11-2026/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/em-despedida-melancolica-sao-paulo-sofre-mas-vence-o-remo-no-morumbis/"
    ],
-   "atualizado": "2026-11-19T01:54:00-03:00",
+   "atualizado": "2026-11-26T22:11:00-03:00",
    "prejogo": {
     "onde_assistir": {
      "canais": [
@@ -17885,6 +17912,74 @@
      ],
      "atualizado": "2026-11-26T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Dorival Júnior",
+     "time": "Rafael; Pedro Lima, Arboleda, Osório, Iago; Pablo Maia, Bobadilla; Lucas Moura, Luciano, Artur, Calleri",
+     "entraram": [
+      {
+       "jogador": "Newton",
+       "saiu": "Pedro Lima",
+       "minuto": ""
+      },
+      {
+       "jogador": "Pedro Ferreira",
+       "saiu": "Pablo Maia",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Santana",
+       "saiu": "Lucas Moura",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ryan Francisco",
+       "saiu": "Luciano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucca",
+       "saiu": "Artur",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Thiago Carpini",
+     "time": "Marcelo Rangel; Pikachu, Zé Ivaldo, Tchamba, Zé Welison; Picco, Edson, Galeano; David Braga, Taliari, Gabriel Poveda",
+     "entraram": [
+      {
+       "jogador": "João Lucas",
+       "saiu": "Pikachu",
+       "minuto": ""
+      },
+      {
+       "jogador": "Jáderson",
+       "saiu": "Picco",
+       "minuto": ""
+      },
+      {
+       "jogador": "Vitor Bueno",
+       "saiu": "Edson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Marlon",
+       "saiu": "Galeano",
+       "minuto": ""
+      },
+      {
+       "jogador": "Eduardo Melo",
+       "saiu": "Gabriel Poveda",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-x-remo-brasileirao-37-rodada-26-11-2026/"
+    ],
+    "atualizado": "2026-11-26T22:11:00-03:00"
    }
   },
   {
