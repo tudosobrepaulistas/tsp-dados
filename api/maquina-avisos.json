@@ -1,41 +1,6 @@
 {
- "gerado": "2026-11-27T05:32-03:00",
+ "gerado": "2026-11-27T06:35-03:00",
  "avisos": [
-  {
-   "clube": "sfera-fc",
-   "nome": "Sfera FC",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Grupo 26 da Copinha 2027 confirmado, mas sem foto (miniaturas da Sfera TV são cards)",
-   "sugestao": "Sfera estreia como sede: Grupo 26 em Santana de Parnaíba com Juventude, Fluminense de Feira e São Paulo-AP; foto do Instagram da Sfera"
-  },
-  {
-   "clube": "centro-olimpico",
-   "nome": "Centro Olímpico",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Grupo 28 da Copinha 2027 sem foto segura",
-   "sugestao": "Centro Olímpico recebe o Grupo 28 com CRB, Portuguesa Santista e Sampaio Corrêa-RJ; foto da Secretaria de Esportes de SP"
-  },
-  {
-   "clube": "gremiocatanduvense",
-   "nome": "Grêmio Catanduvense",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Sem notícia em 7 dias; história sem fonte confiável (datas de fundação divergentes)",
-   "sugestao": "Como está o Catanduvense para 2027: diretoria e Segunda Divisão (jornal O Regional e o clube)"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-26T09:09-03:00",
-   "motivo": "Sem fato novo do São Bernardo FC nas últimas 48h que o TSP ainda não publicou. As notícias recentes (tabela do Paulistão 2027 com estreia contra o Juventus, saída de Rodrigo Ferreira, Daniel Amorim, Pedrinho, renovações em negociação com Augusto, Alex Alves e Foguinho, Alef Manga encaminhado, Cauan de Almeida técnico) já estão no site. Não achei anúncio oficial novo (o site saobernardofc.com.br não traz notícias do clube; Instagram e YouTube oficiais sem post legível pela busca). Tipo evergreen não permitido para este clube.",
-   "sugestao": "Acompanhar nos próximos dias: (1) anúncio oficial de Alef Manga pelo São Bernardo (Diário do Grande ABC e Instagram do clube), que só estava encaminhado em 18/11; (2) desfecho das renovações de Augusto, Alex Alves e Foguinho e a saída confirmada de Rodrigo Ferreira quando o contrato vencer em 30/11 (dgabc.com.br/Noticia/4370754); (3) data de reapresentação do elenco e coletiva de apresentação de Cauan de Almeida para a pré-temporada do Paulistão 2027, que começa em 10/01."
-  },
-  {
-   "clube": "ferroviaria",
-   "nome": "Ferroviária",
-   "quando": "2026-11-26T09:09-03:00",
-   "motivo": "Nenhum fato novo do masculino da Ferroviária nos últimos 7 dias com 2 fontes que o TSP ainda não publicou. Os assuntos achados já saíram no site: Copinha 2027 (Grupo 22 em Itaquaquecetuba, matérias de 24/11), tabela do Paulistão 2027 (25/11), orçamento de 2027 e plano de manter a base (Jorge Macedo, já coberto em 03/11 e 28/10). As buscas não acharam nenhum reforço, renovação ou mudança na comissão técnica anunciados em novembro. O site oficial (ferroviariasaf.com) e a página de esportes do ACidadeON não abriram (a permissão de acesso não foi respondida).",
-   "sugestao": "Conferir a reapresentação do elenco marcada para hoje, 26/11, na Arena Fonte Luminosa: quem se apresentou, quem renovou dos 12 contratos que venciam (Rhuan, Vinícius Kauê, Felipe Rodrigues, Guilherme Ferreira, Fernandinho, Rafael Carrilho, Ricardinho, Douglas Skilo, Denílson Silva, Fábio Rampi, Gadu, Gustavo Medina) e os primeiros reforços para o Paulistão e a Série B 2027. Fontes: site oficial ferroviariasaf.com, Instagram oficial, Portal Morada (portalmorada.com.br) e ACidadeON Araraquara."
-  },
   {
    "clube": "primavera",
    "nome": "Primavera",
@@ -420,6 +385,41 @@
    "quando": "2026-11-27T05:32-03:00",
    "motivo": "27/11: site oficial sem notícia do profissional desde 11/11; reforços e saídas recentes (Pedrinho, Jota, Max, pré-temporada em Guararema, Javari) já têm matéria. Ítalo Carvalho (Paysandu) e Bryan Borges (Ceará) são só interesse, sem acerto.",
    "sugestao": "Juventus: apresentação oficial do elenco (cogitada para 2/12) e anúncios de reforços antes da viagem a Guararema (9/12); conferir redes oficiais do clube."
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-27T06:35-03:00",
+   "motivo": "sem notícia nova confirmada em 2 fontes nos últimos 7 dias, e a cota de evergreen do clube (1 a cada 14 dias) já foi usada",
+   "sugestao": "Técnico e primeiros reforços do Colorado Caieiras para a Série A4 de 2027 (Grupo 2): checar redes oficiais do clube e o Portal Dois Pontos"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-27T06:35-03:00",
+   "motivo": "sem notícia nova confirmada em 2 fontes nos últimos 7 dias, e a cota de evergreen do clube (1 a cada 14 dias) já foi usada; o técnico Raphael Pereira já foi noticiado em 24/11",
+   "sugestao": "Primeiros reforços do São Caetano para a A4 de 2027 e data de reapresentação, com o DGABC e o site oficial do Azulão"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-27T06:35-03:00",
+   "motivo": "a matéria da CBN Vale sobre oito reforços encaminhados e seletiva não abriu (site recusou a leitura) e não achei 2ª fonte",
+   "sugestao": "Jacareí FC: oito reforços encaminhados e seletiva para a Série A4 de 2027 (CBN Vale, https://www.cbnvale.com.br/jacarei-fc-tem-oito-reforcos-encaminhados-e-prepara-seletiva-para-a-serie-a4-de-2027/), confirmar nomes e data da seletiva no Instagram do clube"
+  },
+  {
+   "clube": "america-de-rio-preto",
+   "nome": "América de Rio Preto",
+   "quando": "2026-11-27T06:35-03:00",
+   "motivo": "o resultado da votação do segundo mascote e do reajuste do sócio (quinta, 26/11) só aparece no Diário da Região, que bloqueia leitura automática",
+   "sugestao": "Resultado da votação do segundo mascote e do reajuste do sócio-torcedor do América de Rio Preto (Diário da Região, 'O mascote da discórdia'), conferir com o site oficial americasp.com"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-27T06:35-03:00",
+   "motivo": "sem notícia nova confirmada em 2 fontes nos últimos 7 dias, e a cota de evergreen do clube (1 a cada 14 dias) já foi usada; os reforços anunciados (Luizão, João Victor, Railson, Wesley Pacheco etc.) são de outubro e início de novembro, só no Futebol Interior",
+   "sugestao": "Lista completa do elenco do Lemense para a A4 de 2027, conferida no Instagram oficial do clube (o site ainda não tem matéria de reforços)"
   }
  ]
 }
