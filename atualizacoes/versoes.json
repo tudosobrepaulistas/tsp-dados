@@ -1,41 +1,41 @@
 {
- "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-26T20:50-03:00",
- "itens": {
-  "tsp-jogos": {
-   "versao": "1.9.3",
-   "zip": "tsp-jogos-1.9.3.zip",
-   "notas": "Campinho da temporada: esquema mais usado nos últimos jogos e, em cada setor, os jogadores com mais minutos (escalações confirmadas, como recorte)."
-  },
-  "tsp-maquina": {
-   "versao": "1.9.0",
-   "zip": "tsp-maquina-1.9.0.zip",
-   "notas": "Rascunho da Máquina que só esperava foto é publicado quando a foto chega (foto de arquivo do clube, com o crédito original). A Máquina não fica mais parada esperando foto."
-  },
-  "tsp-relatorio": {
-   "versao": "1.9.8",
-   "zip": "tsp-relatorio-1.9.8.zip",
-   "notas": "Painel do redator com Extrato no topo: a receber, matérias no fechamento, nota média e ranking, hoje, agendadas, correções pendentes, pautas livres, valor por matéria, meta, projeção e lançamentos dos últimos 7 dias (matérias, nota e valor). Detalhes recolhidos; mensagem da nota mais curta. Inclui a nota diária de 0 a 10 (1.9.7)."
-  },
-  "tsp-audio": {
-   "versao": "1.1.0",
-   "zip": "tsp-audio-1.1.0.zip",
-   "notas": "Atualização automática pelo GitHub."
-  },
-  "tsp-estruturas": {
-   "versao": "1.5.0",
-   "zip": "tsp-estruturas-1.5.0.zip",
-   "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
-  },
-  "tsp-nova-era": {
-   "versao": "1.12.5",
-   "zip": "tsp-nova-era-1.12.5.zip",
-   "notas": "Página pilar mais harmônica: resumo em números no topo, ficha, conquistas, entrevista e depois as perguntas; tabelas recolhidas; escudos de clubes de fora na trajetória."
-  },
-  "tsp-shopee": {
-   "versao": "1.1.0",
-   "zip": "tsp-shopee-1.1.0.zip",
-   "notas": "Vitrine geral (eletrônicos e futebol) para clubes sem produtos."
+  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
+  "gerado": "2026-11-26T20:50-03:00",
+  "itens": {
+    "tsp-jogos": {
+      "versao": "1.9.3",
+      "zip": "tsp-jogos-1.9.3.zip",
+      "notas": "Campinho da temporada: esquema mais usado nos últimos jogos e, em cada setor, os jogadores com mais minutos (escalações confirmadas, como recorte)."
+    },
+    "tsp-maquina": {
+      "versao": "1.9.0",
+      "zip": "tsp-maquina-1.9.0.zip",
+      "notas": "Rascunho da Máquina que só esperava foto é publicado quando a foto chega (foto de arquivo do clube, com o crédito original). A Máquina não fica mais parada esperando foto."
+    },
+    "tsp-relatorio": {
+      "versao": "1.9.8",
+      "zip": "tsp-relatorio-1.9.8.zip",
+      "notas": "Painel do redator com Extrato no topo: a receber, matérias no fechamento, nota média e ranking, hoje, agendadas, correções pendentes, pautas livres, valor por matéria, meta, projeção e lançamentos dos últimos 7 dias (matérias, nota e valor). Detalhes recolhidos; mensagem da nota mais curta. Inclui a nota diária de 0 a 10 (1.9.7)."
+    },
+    "tsp-audio": {
+      "versao": "1.1.0",
+      "zip": "tsp-audio-1.1.0.zip",
+      "notas": "Atualização automática pelo GitHub."
+    },
+    "tsp-estruturas": {
+      "versao": "1.5.0",
+      "zip": "tsp-estruturas-1.5.0.zip",
+      "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
+    },
+    "tsp-nova-era": {
+      "versao": "1.12.6",
+      "zip": "tsp-nova-era-1.12.6.zip",
+      "notas": "Manchete da home: matéria com a tag \"manchete\" (últimas 36 horas) abre a home como o primeiro card grande, fora do bloco de vídeos. Mantém tudo da 1.12.5."
+    },
+    "tsp-shopee": {
+      "versao": "1.1.0",
+      "zip": "tsp-shopee-1.1.0.zip",
+      "notas": "Vitrine geral (eletrônicos e futebol) para clubes sem produtos."
+    }
   }
- }
 }
