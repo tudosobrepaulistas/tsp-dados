@@ -1,100 +1,6 @@
 {
  "itens": [
   {
-   "clube": "corinthians",
-   "titulo": "Garro treina completo e pode voltar contra o Atlético-MG; Seedorf avalia mudanças para a Arena MRV",
-   "resumo": "Rodrigo Garro, recuperado de lesão no joelho, treinou completo pela primeira vez e pode reaparecer nesta quarta (25/11), às 20h, contra o Atlético-MG, em BH, pela 36ª rodada. Depois vêm Grêmio (29/11) e Remo (2/12), sequência decisiva contra o rebaixamento.",
-   "angulo": "Mostrar a reta final em três jogos com a tabela da Base TSP e o desempenho do time com e sem Garro.",
-   "fontes": [
-    {
-     "nome": "Lance!",
-     "url": "https://www.lance.com.br/corinthians/escalacao-corinthians-pode-ter-novidade-contra-o-atletico-mg.html"
-    },
-    {
-     "nome": "Terra",
-     "url": "https://terra.com.br/esportes/atletico-mg/atletico-x-corinthians-onde-assistir-escalacoes-e-arbitragem,9c6b0b6d97f99caf27a46535ff25ca53f2jc13z5.html"
-    }
-   ],
-   "id": "p1ef90a728d",
-   "gerado": "2026-11-25T07:44-03:00",
-   "quando": "25/11 07h"
-  },
-  {
-   "clube": "saopaulo",
-   "titulo": "São Paulo chega aos 45 pontos e recebe o Remo no Morumbis: o que ainda está em jogo nas duas últimas rodadas",
-   "resumo": "Depois do 1 a 1 com o Botafogo, o São Paulo está em 11º com 45 pontos. Recebe o Remo nesta quinta (26/11), às 20h, no Morumbis, e fecha o Brasileirão contra o Athletico-PR, em 2/12, na Arena da Baixada.",
-   "angulo": "Serviço completo (horário, onde assistir, desfalques) e as contas de posição final com a tabela da Base TSP.",
-   "fontes": [
-    {
-     "nome": "Gazeta Esportiva",
-     "url": "https://gazetaesportiva.com/times/sao-paulo/analise-sao-paulo-enfim-chega-aos-45-pontos-mas-nao-pode-normalizar-campanha-decepcionante"
-    }
-   ],
-   "id": "p4ff855a548",
-   "gerado": "2026-11-25T07:44-03:00",
-   "quando": "25/11 07h"
-  },
-  {
-   "clube": "guarani",
-   "titulo": "Cristian de Souza e Luizinho Lopes estão na lista do Guarani para substituir Umberto Louzer",
-   "resumo": "Com a saída de Louzer para o Criciúma, o Guarani avalia Cristian de Souza, que levou o Santa Cruz à Série B, e Luizinho Lopes, que trabalhou com o executivo Carlos Frontini no Paysandu. A definição é urgente: o Paulistão começa em 10 de janeiro.",
-   "angulo": "Perfil e números de cada candidato e o papel da nova SAF na escolha.",
-   "fontes": [
-    {
-     "nome": "Hora Campinas",
-     "url": "https://horacampinas.com.br/cristian-de-souza-e-luizinho-lopes-sao-alvos-do-guarani-para-a-vaga-de-louzer/"
-    }
-   ],
-   "id": "pd0a7eb1517",
-   "gerado": "2026-11-25T07:44-03:00",
-   "quando": "25/11 07h"
-  },
-  {
-   "clube": "novorizontino",
-   "titulo": "Campeão da Série B, Novorizontino garante Enderson Moreira para a estreia na Série A em 2027",
-   "resumo": "O clube encaminhou a renovação do técnico Enderson Moreira até o fim de 2027, com assinatura prevista para esta semana. Enderson tem quatro títulos de Série B, a maior marca da competição, e vai comandar o Tigre na primeira Série A da história.",
-   "angulo": "Linha do tempo do acesso e o que o elenco precisa para a elite.",
-   "fontes": [
-    {
-     "nome": "Terra",
-     "url": "https://www.terra.com.br/esportes/clube-garante-permanencia-de-tecnico-para-disputa-do-brasileirao-de-2027,1643046b896b1a8402978c2ca3d0ad05s2cajkdw.html"
-    }
-   ],
-   "id": "pca62b36f63",
-   "gerado": "2026-11-25T07:44-03:00",
-   "quando": "25/11 07h"
-  },
-  {
-   "clube": "pontepreta",
-   "titulo": "Ponte Preta já tem reforços acertados para 2027 e mira pelo menos 18 contratações, diz Eberlin",
-   "resumo": "O diretor de futebol Marco Antônio Eberlin afirmou que há reforços contratados, mas os nomes só saem após pré-contratos e exames. A Ponte disputa a A2 a partir de 17/01 e a Série C a partir de 04/04, e precisa de R$ 19 milhões a mais no orçamento.",
-   "angulo": "Raio-x do elenco que saiu e do calendário de 2027 da Macaca.",
-   "fontes": [
-    {
-     "nome": "Hora Campinas",
-     "url": "https://horacampinas.com.br/eberlin-diz-que-ponte-preta-ja-tem-reforcos-contratados-para-2027/"
-    }
-   ],
-   "id": "p4698790b07",
-   "gerado": "2026-11-25T07:44-03:00",
-   "quando": "25/11 07h"
-  },
-  {
-   "clube": "botafogosp",
-   "titulo": "Contrato de Zé Hugo vence em 30/11 e Botafogo-SP corre para definir o atacante; veja o elenco de 2027",
-   "resumo": "O Botafogo-SP tem 27 jogadores para 2027, já anunciou Heron e Gustavo Barreto e confirmou seis saídas, entre elas Patrick Brey e Leandro Maciel. A situação do atacante Zé Hugo, emprestado pelo Azuriz, segue pendente e o vínculo termina em 30 de novembro.",
-   "angulo": "Quadro de quem chega, quem sai e quem está indefinido.",
-   "fontes": [
-    {
-     "nome": "CBN Ribeirão",
-     "url": "https://cbnribeirao.com.br/botafogo-sp-confirma-seis-saidas-anuncia-primeiros-reforcos-e-conta-com-27-jogadores-no-elenco/"
-    }
-   ],
-   "id": "p50af68a2d0",
-   "gerado": "2026-11-25T07:44-03:00",
-   "quando": "25/11 07h"
-  },
-  {
    "clube": "palmeiras",
    "titulo": "Final da Libertadores: técnico do Estudiantes tem dúvida para substituir suspenso; veja como chega o rival do Palmeiras",
    "resumo": "O Estudiantes fechou a preparação e viaja a Montevidéu; Cacique Medina escolhe entre Tomás Palacios e Eric Meza para o lugar de Baltasar Rodríguez, suspenso. A final é no sábado (28), às 17h, no Centenário.",
@@ -461,7 +367,120 @@
    "id": "pb851584454",
    "gerado": "2026-11-26T16:50-03:00",
    "quando": "26/11 16h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Calleri faz dois, São Paulo bate o Remo por 3 a 1 e encerra jejum de cinco jogos",
+   "resumo": "O São Paulo venceu o Remo por 3 a 1 na quinta (26/11), no MorumBIS, com dois gols de Calleri e um de Ryan Francisco no fim. O time chegou a 48 pontos e voltou a vencer depois de cinco rodadas.",
+   "angulo": "Pós-jogo com o papel de Calleri na reta final e o que a vitória muda na tabela.",
+   "fontes": [
+    {
+     "nome": "Jovem Pan",
+     "url": "https://jovempan.com.br/esportes/futebol/sao-paulo-vence-o-remo-com-gol-de-ryan-francisco-rodrigues-dos-santos-silva-nos-minutos-finais-26-11-2026/"
+    },
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/com-gols-no-fim-sao-paulo-bate-remo-e-volta-a-vencer-no-brasileirao"
+    }
+   ],
+   "id": "pd8a716ad99",
+   "gerado": "2026-11-27T07:44-03:00",
+   "quando": "27/11 07h"
+  },
+  {
+   "clube": "saopaulo",
+   "titulo": "Athletico-PR x São Paulo na última rodada: data, horário e o que está em jogo",
+   "resumo": "O São Paulo fecha o Brasileirão contra o Athletico-PR na quarta (2/12), às 21h30, na Arena da Baixada. Com 48 pontos, o time define ali a posição final.",
+   "angulo": "Serviço completo (onde assistir, horário de Brasília) e as contas da posição final.",
+   "fontes": [
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/com-gols-no-fim-sao-paulo-bate-remo-e-volta-a-vencer-no-brasileirao"
+    }
+   ],
+   "id": "p3702fd192f",
+   "gerado": "2026-11-27T07:44-03:00",
+   "quando": "27/11 07h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Yuri Alberto e Carrillo voltam de suspensão e reforçam o Corinthians contra o Grêmio",
+   "resumo": "O Corinthians se reapresentou no CT após o 1 a 1 com o Atlético-MG e terá Yuri Alberto e André Carrillo contra o Grêmio, domingo (29/11), às 18h30, na Neo Química Arena. Gabriel Paulista, Labyad e Kayke seguem fora.",
+   "angulo": "Provável escalação de Seedorf com os retornos e a lista de desfalques.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/corinthians/corinthians-reforcos-yuri-alberto-carrillo-gremio/"
+    }
+   ],
+   "id": "p6f5bbb789c",
+   "gerado": "2026-11-27T07:44-03:00",
+   "quando": "27/11 07h"
+  },
+  {
+   "clube": "corinthians",
+   "titulo": "Depois do Grêmio, Corinthians fecha o Brasileirão contra o já rebaixado Remo no Mangueirão",
+   "resumo": "A última rodada, na quarta (2/12), põe o Corinthians diante do Remo, em Belém. O Remo, com 32 pontos, já está rebaixado.",
+   "angulo": "Calendário das duas rodadas finais e o que o Corinthians precisa para fugir do Z-4.",
+   "fontes": [
+    {
+     "nome": "Metrópoles",
+     "url": "https://www.metropoles.com/esportes/com-gols-no-fim-sao-paulo-bate-remo-e-volta-a-vencer-no-brasileirao"
+    },
+    {
+     "nome": "Jovem Pan",
+     "url": "https://jovempan.com.br/esportes/futebol/sao-paulo-vence-o-remo-com-gol-de-ryan-francisco-rodrigues-dos-santos-silva-nos-minutos-finais-26-11-2026/"
+    }
+   ],
+   "id": "pc07405260a",
+   "gerado": "2026-11-27T07:44-03:00",
+   "quando": "27/11 07h"
+  },
+  {
+   "clube": "santos",
+   "titulo": "Santos a 4 pontos do G6: Gustavo Henrique volta e Brazão e Barreal seguem fora contra o Vitória",
+   "resumo": "O Santos, 9º com 50 pontos, visita o Vitória domingo (29/11), às 16h, no Barradão. Gustavo Henrique volta de suspensão; Gabriel Brazão e Álvaro Barreal seguem fora. A última rodada é contra o Botafogo, na Vila, em 2/12.",
+   "angulo": "As contas para a vaga na Libertadores nas duas rodadas finais.",
+   "fontes": [
+    {
+     "nome": "Gazeta Esportiva",
+     "url": "https://www.gazetaesportiva.com/times/santos/com-verissimo-em-campo-e-presencas-de-elano-e-leo-santos-avanca-na-preparacao-para-enfrentar-o-vitoria/"
+    }
+   ],
+   "id": "p0fb34e3af3",
+   "gerado": "2026-11-27T07:44-03:00",
+   "quando": "27/11 07h"
+  },
+  {
+   "clube": "novorizontino",
+   "titulo": "Novorizontino vira Furia Novorizontino em 2027 após parceria com organização de e-sports",
+   "resumo": "O Novorizontino fechou parceria com a FURIA e passa a se chamar Furia Novorizontino a partir de janeiro de 2027, já no Paulistão. A FURIA cuida de marca, marketing e patrocínio; o futebol continua com o clube.",
+   "angulo": "Explicar o que muda para o torcedor (nome, marca, gestão) e o que não muda.",
+   "fontes": [
+    {
+     "nome": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/esportes/futebol/novorizontino-faz-parceria-com-empresa-de-neymar-e-muda-de-nome/"
+    }
+   ],
+   "id": "pb828353156",
+   "gerado": "2026-11-27T07:44-03:00",
+   "quando": "27/11 07h"
+  },
+  {
+   "clube": "pontepreta",
+   "titulo": "Ponte Preta mantém Gilson Kleina para 2027, na A2 do Paulista e na Série C",
+   "resumo": "A Ponte Preta confirmou a permanência de Gilson Kleina para 2027, na sexta passagem dele pelo clube. O clube ainda não anunciou reforços.",
+   "angulo": "Histórico das passagens de Kleina e o desafio do elenco para 2027.",
+   "fontes": [
+    {
+     "nome": "Todo Dia",
+     "url": "https://tododia.com.br/esportes/ponte-preta-confirma-permanencia-de-gilson-kleina-para-a-temporada-2027"
+    }
+   ],
+   "id": "p6836c90422",
+   "gerado": "2026-11-27T07:44-03:00",
+   "quando": "27/11 07h"
   }
  ],
- "gerado": "2026-11-26T16:50-03:00"
+ "gerado": "2026-11-27T07:44-03:00"
 }
