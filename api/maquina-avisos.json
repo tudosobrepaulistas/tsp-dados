@@ -1,27 +1,6 @@
 {
- "gerado": "2026-11-26T22:26-03:00",
+ "gerado": "2026-11-27T05:27-03:00",
  "avisos": [
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Matéria da CBN Vale sobre oito reforços e seletiva não abriu; sem 2ª fonte; evergreen vetado",
-   "sugestao": "Abrir cbnvale.com.br/jacarei-fc-tem-oito-reforcos-encaminhados-e-prepara-seletiva-para-a-serie-a4-de-2027/ e confirmar com o clube nomes, data e local da seletiva"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Sem notícia nova em 7 dias; evergreen vetado (24/11)",
-   "sugestao": "Elenco 2027 do técnico Tássio e data de apresentação (site uniaosuzanooficial.com.br / Diário de Suzano)"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Sem notícia de 2027 encontrada; evergreen vetado (22/11)",
-   "sugestao": "Técnico e primeiros reforços do Colorado Caieiras para a A4 2027 (redes oficiais)"
-  },
   {
    "clube": "lemense",
    "nome": "Lemense",
@@ -420,6 +399,27 @@
    "quando": "2026-11-26T22:26-03:00",
    "motivo": "sem notícia nas últimas 48h; evergreen bloqueado (história nos últimos 14 dias)",
    "sugestao": "pré-temporada, técnico e reforços da Série A4 2027 pelo site/redes oficiais e jornal da cidade"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-27T05:27-03:00",
+   "motivo": "27/11 (pedido das 14h): sem notícia nova confirmada em 2 fontes que o site ainda não tenha (reforços, Canindé/Arena Inamar, Pedro Felipe e Vitinho já publicados); falas de Tadeu Oliveira na NetLusa são de outubro. Sites do clube e Instagram bloqueados nesta execução, sem foto conferida.",
+   "sugestao": "Confirmar com a Lusa a chegada dos reforços prometidos para o início de dezembro (Marco Antonio, Papo Lusitano 22/11) e fazer a matéria com a foto oficial da apresentação"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-27T05:27-03:00",
+   "motivo": "27/11 (pedido das 12h): a única novidade (empréstimo de Pedro Felipe à Portuguesa, nota do Noroeste citada pelo Futebol Interior em 24/11) já saiu no site pelo lado da Lusa (17/11) e não há foto do clube acessível nesta execução (site e Instagram do Noroeste bloqueados; miniaturas da TV Norusca são arte).",
+   "sugestao": "Matéria sobre a campanha do Sub-16 do Noroeste na Alcans Cup, com a entrevista de Marildo Campos no NORUSCA na Área #79 (TV Norusca, 24/11) e foto oficial do sub-16"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-27T05:27-03:00",
+   "motivo": "27/11 (pedido das 16h): sem notícia nova em 2 fontes além das já publicadas (Cauan de Almeida, saídas e renovações até 26/11); canal oficial no YouTube parado desde 31/10 e site/Instagram do clube bloqueados nesta execução, sem foto conferida.",
+   "sugestao": "Acompanhar a reapresentação do elenco de Cauan de Almeida e os primeiros reforços oficiais para o Paulistão 2027 no site do São Bernardo FC e no DGABC"
   }
  ]
 }
