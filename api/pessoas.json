@@ -71,6 +71,8 @@
      "empates": 5,
      "derrotas": 6,
      "obs": "De 13/02 a 10/08/2026",
+     "gols_pro": 34,
+     "gols_contra": 33,
      "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/maringa.png"
     },
     {
@@ -81,7 +83,9 @@
      "vitorias": 1,
      "empates": 2,
      "derrotas": 2,
-     "obs": "Saiu em janeiro, na quinta rodada da Série A2"
+     "obs": "Saiu em janeiro, na quinta rodada da Série A2",
+     "gols_pro": 5,
+     "gols_contra": 6
     },
     {
      "temporada": "2025",
@@ -91,7 +95,9 @@
      "vitorias": 18,
      "empates": 8,
      "derrotas": 8,
-     "obs": "Contratado em 06/11/2024; campeão da Copa Paulista 2025"
+     "obs": "Contratado em 06/11/2024; campeão da Copa Paulista 2025",
+     "gols_pro": 36,
+     "gols_contra": 22
     },
     {
      "temporada": "2023-2024",
@@ -101,7 +107,9 @@
      "vitorias": 20,
      "empates": 17,
      "derrotas": 9,
-     "obs": "Acesso à Série A1 em 2024"
+     "obs": "Acesso à Série A1 em 2024",
+     "gols_pro": 67,
+     "gols_contra": 44
     },
     {
      "temporada": "2022-2023",
@@ -112,6 +120,8 @@
      "empates": 4,
      "derrotas": 1,
      "obs": "De 28/09/2022 a 22/01/2023",
+     "gols_pro": 4,
+     "gols_contra": 5,
      "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/botafogo-pb.png"
     },
     {
@@ -122,7 +132,9 @@
      "vitorias": 0,
      "empates": 0,
      "derrotas": 1,
-     "obs": "Copa Paulista"
+     "obs": "Copa Paulista",
+     "gols_pro": 0,
+     "gols_contra": 3
     },
     {
      "temporada": "2021-2022",
@@ -132,7 +144,9 @@
      "vitorias": 0,
      "empates": 5,
      "derrotas": 2,
-     "obs": "De 23/11/2021 a 17/02/2022"
+     "obs": "De 23/11/2021 a 17/02/2022",
+     "gols_pro": 2,
+     "gols_contra": 5
     },
     {
      "temporada": "2021",
@@ -143,6 +157,8 @@
      "empates": 6,
      "derrotas": 0,
      "obs": "Campeão invicto da Série B do Catarinense",
+     "gols_pro": 24,
+     "gols_contra": 5,
      "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/barra.png"
     },
     {
@@ -153,7 +169,9 @@
      "vitorias": 13,
      "empates": 9,
      "derrotas": 7,
-     "obs": "De 09/10/2020 a 24/05/2021"
+     "obs": "De 09/10/2020 a 24/05/2021",
+     "gols_pro": 29,
+     "gols_contra": 22
     },
     {
      "temporada": "2020",
@@ -164,6 +182,8 @@
      "empates": 3,
      "derrotas": 4,
      "obs": "De 03/12/2019 a 28/09/2020",
+     "gols_pro": 9,
+     "gols_contra": 11,
      "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
     },
     {
@@ -174,7 +194,9 @@
      "vitorias": 5,
      "empates": 2,
      "derrotas": 1,
-     "obs": "Série D"
+     "obs": "Série D",
+     "gols_pro": 14,
+     "gols_contra": 4
     },
     {
      "temporada": "2017-2019",
@@ -184,7 +206,9 @@
      "vitorias": 26,
      "empates": 29,
      "derrotas": 30,
-     "obs": "De 08/11/2016 a 21/03/2019"
+     "obs": "De 08/11/2016 a 21/03/2019",
+     "gols_pro": 90,
+     "gols_contra": 96
     },
     {
      "temporada": "2016",
@@ -194,7 +218,9 @@
      "vitorias": 3,
      "empates": 1,
      "derrotas": 2,
-     "obs": "Série D"
+     "obs": "Série D",
+     "gols_pro": 8,
+     "gols_contra": 8
     },
     {
      "temporada": "2016",
@@ -204,7 +230,9 @@
      "vitorias": 15,
      "empates": 4,
      "derrotas": 5,
-     "obs": "Acesso à Série A1"
+     "obs": "Acesso à Série A1",
+     "gols_pro": 33,
+     "gols_contra": 17
     },
     {
      "temporada": "2015",
@@ -214,7 +242,9 @@
      "vitorias": 9,
      "empates": 7,
      "derrotas": 3,
-     "obs": "Campeão da Copa Paulista"
+     "obs": "Campeão da Copa Paulista",
+     "gols_pro": 27,
+     "gols_contra": 16
     },
     {
      "temporada": "2015",
@@ -224,7 +254,9 @@
      "vitorias": 4,
      "empates": 3,
      "derrotas": 5,
-     "obs": "Série A2"
+     "obs": "Série A2",
+     "gols_pro": 15,
+     "gols_contra": 26
     },
     {
      "temporada": "2014",
@@ -235,6 +267,8 @@
      "empates": 4,
      "derrotas": 4,
      "obs": "Série C",
+     "gols_pro": 5,
+     "gols_contra": 9,
      "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/crac.png"
     },
     {
@@ -245,7 +279,9 @@
      "vitorias": 4,
      "empates": 1,
      "derrotas": 1,
-     "obs": "Série A2"
+     "obs": "Série A2",
+     "gols_pro": 9,
+     "gols_contra": 7
     },
     {
      "temporada": "2013-2014",
@@ -255,7 +291,9 @@
      "vitorias": 3,
      "empates": 7,
      "derrotas": 4,
-     "obs": "De 07/08/2013 a 27/02/2014"
+     "obs": "De 07/08/2013 a 27/02/2014",
+     "gols_pro": 13,
+     "gols_contra": 15
     },
     {
      "temporada": "2013",
@@ -265,7 +303,9 @@
      "vitorias": 0,
      "empates": 0,
      "derrotas": 1,
-     "obs": "Série A2"
+     "obs": "Série A2",
+     "gols_pro": 0,
+     "gols_contra": 5
     },
     {
      "temporada": "2013",
@@ -275,7 +315,9 @@
      "vitorias": 1,
      "empates": 0,
      "derrotas": 4,
-     "obs": "Contratado em 04/03/2013"
+     "obs": "Contratado em 04/03/2013",
+     "gols_pro": 3,
+     "gols_contra": 8
     },
     {
      "temporada": "2013",
@@ -285,7 +327,9 @@
      "vitorias": 1,
      "empates": 2,
      "derrotas": 5,
-     "obs": "Saiu em 25/02/2013"
+     "obs": "Saiu em 25/02/2013",
+     "gols_pro": 6,
+     "gols_contra": 13
     },
     {
      "temporada": "2012",
@@ -295,7 +339,9 @@
      "vitorias": 6,
      "empates": 7,
      "derrotas": 1,
-     "obs": "Campeão da Copa Paulista"
+     "obs": "Campeão da Copa Paulista",
+     "gols_pro": 19,
+     "gols_contra": 9
     },
     {
      "temporada": "2012",
@@ -305,7 +351,9 @@
      "vitorias": 1,
      "empates": 0,
      "derrotas": 3,
-     "obs": "De 31/05 a 03/08/2012"
+     "obs": "De 31/05 a 03/08/2012",
+     "gols_pro": 3,
+     "gols_contra": 5
     },
     {
      "temporada": "2010-2012",
@@ -315,7 +363,9 @@
      "vitorias": 40,
      "empates": 29,
      "derrotas": 18,
-     "obs": "Acesso em 2010 e título da Série A2 em 2011"
+     "obs": "Acesso em 2010 e título da Série A2 em 2011",
+     "gols_pro": 139,
+     "gols_contra": 93
     }
    ],
    "carreira_fonte": "Jogos: lista do oGol conferida pelo TSP com as datas de entrada e saída publicadas pela imprensa (ficaram fora 5 jogos do oGol disputados depois da saída dele do Rio Branco, em 2012, e do Mirassol, em 2019). Datas e títulos: ge, Futebol Interior, Gazeta Esportiva, Lance!, NSC Total, Trivela e UmDois Esportes",
@@ -351,19 +401,23 @@
      },
      {
       "h2": "Quantos jogos Moisés Egert tem como técnico?",
-      "resposta": "476 jogos como técnico principal, de 24/02/2010 a 09/08/2026: 194 vitórias, 155 empates e 127 derrotas, com 51,6% de aproveitamento. O levantamento é do TSP, feito com a lista de jogos do oGol e conferido com as datas de entrada e saída de cada clube publicadas pela imprensa.",
+      "resposta": "476 jogos como técnico principal, de 24/02/2010 a 09/08/2026: 194 vitórias, 155 empates e 127 derrotas, 51,6% de aproveitamento, 594 gols marcados e 487 sofridos (saldo de +107). Os números foram compilados pelo TSP jogo a jogo e conferidos com as datas de entrada e saída de cada clube.",
       "texto": [
-       "Os clubes em que ele mais trabalhou foram o XV de Piracicaba (155 jogos em três passagens), o Mirassol (109) e o Noroeste (60). O melhor aproveitamento foi no Barra, em 2021: 17 jogos, 11 vitórias e 6 empates, sem nenhuma derrota.",
+       "Os clubes em que ele mais trabalhou foram o XV de Piracicaba (155 jogos em três passagens), o Mirassol (109) e o Noroeste (60). O melhor aproveitamento foi no Barra, em 2021: 17 jogos, 11 vitórias e 6 empates, sem nenhuma derrota, com 24 gols marcados e só 5 sofridos.",
+       "Média por jogo: 1,25 gol marcado e 1,02 sofrido. A soma bate jogo a jogo com o histórico por temporada do oGol, e ficaram fora 5 jogos disputados depois que ele já tinha deixado o Rio Branco (2012) e o Mirassol (2019).",
        "Além desses, o oGol registra 5 jogos dele pelo XV de Piracicaba na Copa Paulista de 2009, quando ainda era auxiliar e comandou o time de forma interina. Eles não entram na conta de técnico principal."
       ],
       "tabela": {
        "cab": [
         "Clube",
-        "Jogos",
+        "J",
         "V",
         "E",
         "D",
-        "Aproveitamento"
+        "GP",
+        "GC",
+        "Saldo",
+        "Aprov."
        ],
        "linhas": [
         [
@@ -372,6 +426,9 @@
          "72",
          "48",
          "35",
+         "209",
+         "143",
+         "+66",
          "56,8%"
         ],
         [
@@ -380,6 +437,9 @@
          "41",
          "33",
          "35",
+         "123",
+         "113",
+         "+10",
          "47,7%"
         ],
         [
@@ -388,6 +448,9 @@
          "26",
          "24",
          "10",
+         "86",
+         "53",
+         "+33",
          "56,7%"
         ],
         [
@@ -396,6 +459,9 @@
          "12",
          "8",
          "5",
+         "35",
+         "24",
+         "+11",
          "58,7%"
         ],
         [
@@ -404,6 +470,9 @@
          "8",
          "5",
          "6",
+         "34",
+         "33",
+         "+1",
          "50,9%"
         ],
         [
@@ -412,6 +481,9 @@
          "11",
          "6",
          "0",
+         "24",
+         "5",
+         "+19",
          "76,5%"
         ],
         [
@@ -420,6 +492,9 @@
          "24",
          "31",
          "36",
+         "83",
+         "116",
+         "-33",
          "37,7%"
         ],
         [
@@ -428,6 +503,9 @@
          "194",
          "155",
          "127",
+         "594",
+         "487",
+         "+107",
          "51,6%"
         ]
        ],
