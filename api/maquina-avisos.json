@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-27T05:27-03:00",
+ "gerado": "2026-11-27T05:32-03:00",
  "avisos": [
-  {
-   "clube": "lemense",
-   "nome": "Lemense",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Sem notícia nova (técnico Danilo Sacramento já coberto); sem foto livre para evergreen",
-   "sugestao": "Guia do estádio do Lemense em Leme, com foto do próprio clube"
-  },
-  {
-   "clube": "referencia-fc",
-   "nome": "Referência FC",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Grupo 7 da Copinha 2027 em Embu das Artes confirmado, mas sem foto de jogo utilizável",
-   "sugestao": "Referência FC é sede do Grupo 7 da Copinha 2027 (Lance! e Placar de 24/11); foto do Instagram do clube"
-  },
   {
    "clube": "sfera-fc",
    "nome": "Sfera FC",
@@ -420,6 +406,20 @@
    "quando": "2026-11-27T05:27-03:00",
    "motivo": "27/11 (pedido das 16h): sem notícia nova em 2 fontes além das já publicadas (Cauan de Almeida, saídas e renovações até 26/11); canal oficial no YouTube parado desde 31/10 e site/Instagram do clube bloqueados nesta execução, sem foto conferida.",
    "sugestao": "Acompanhar a reapresentação do elenco de Cauan de Almeida e os primeiros reforços oficiais para o Paulistão 2027 no site do São Bernardo FC e no DGABC"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-27T05:32-03:00",
+   "motivo": "27/11: nenhum fato novo confirmado em 2 fontes desde as matérias de 24 a 26/11 (técnico, reapresentação, saídas, SAF, tabela, Copinha). Técnico segue indefinido; reforços citados pela imprensa (Gustavo Fagundes, Thiaguinho, Emerson Vagalume, Bill) não foram anunciados; nomes da SAF (Washington Luigi, Fernando Martins) são só especulação.",
+   "sugestao": "Acompanhar anúncio oficial do novo técnico e dos primeiros reforços do Guarani para o Paulistão 2027 (site guaranifc.com.br e redes); a Máquina não consegue abrir o site do clube daqui."
+  },
+  {
+   "clube": "juventus",
+   "nome": "Juventus",
+   "quando": "2026-11-27T05:32-03:00",
+   "motivo": "27/11: site oficial sem notícia do profissional desde 11/11; reforços e saídas recentes (Pedrinho, Jota, Max, pré-temporada em Guararema, Javari) já têm matéria. Ítalo Carvalho (Paysandu) e Bryan Borges (Ceará) são só interesse, sem acerto.",
+   "sugestao": "Juventus: apresentação oficial do elenco (cogitada para 2/12) e anúncios de reforços antes da viagem a Guararema (9/12); conferir redes oficiais do clube."
   }
  ]
 }
