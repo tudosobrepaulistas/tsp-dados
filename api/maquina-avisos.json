@@ -1,76 +1,6 @@
 {
- "gerado": "2026-11-27T11:04-03:00",
+ "gerado": "2026-11-27T13:32-03:00",
  "avisos": [
-  {
-   "clube": "bragantino",
-   "nome": "Red Bull Bragantino",
-   "quando": "2026-11-26T15:33-03:00",
-   "motivo": "Cobertura 6h (26/11 tarde): só o Terra (25/11) sobre Alerrandro suspenso no Inter, sem 2ª fonte aceita; site oficial do Bragantino não abriu",
-   "sugestao": "Internacional x Red Bull Bragantino, domingo (29/11), 18h30, no Beira-Rio: Inter sem Alerrandro (3º amarelo), dúvidas de Mercado e Calebe, volta de Alan Patrick. Confirmar no ge RS/GZH e somar relacionados do Massa Bruta"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Sem notícia nova das últimas 48h com 2 fontes acessíveis nesta execução (sites regionais bloqueados para leitura automática); evergreen bloqueado pelo limite de 14 dias",
-   "sugestao": "Planejamento do União Suzano para a Série A4 de 2027 (técnico, elenco) com o site oficial do clube"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Sem notícia nova das últimas 48h com 2 fontes acessíveis nesta execução (sites regionais bloqueados para leitura automática); evergreen bloqueado pelo limite de 14 dias",
-   "sugestao": "Elenco e comissão do Colorado Caieiras para a Série A4 de 2027"
-  },
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Sem notícia nova das últimas 48h com 2 fontes acessíveis nesta execução (sites regionais bloqueados para leitura automática); evergreen bloqueado pelo limite de 14 dias",
-   "sugestao": "Desportivo Brasil com Ederaldo Oliveira para a A4 2027: reforços e base"
-  },
-  {
-   "clube": "independente",
-   "nome": "Independente",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Renovação de Hiago Ramiro (24/11) só no Rápido no Ar; sem 2ª fonte; história bloqueada (24/11)",
-   "sugestao": "Hiago Ramiro renova com o Independente para a A4 2027 (confirmar com post oficial do Galo)"
-  },
-  {
-   "clube": "comercial",
-   "nome": "Comercial",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Pautas recentes (11 contratados, Copinha) já publicadas; sem fato novo com 2 fontes",
-   "sugestao": "Copa CCF: Comercial joga em Ribeirão Preto em 29/11 (prévia com adversário e horário oficiais)"
-  },
-  {
-   "clube": "ferroviaria",
-   "nome": "Ferroviária",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Sem notícia das últimas 48h com 2 fontes",
-   "sugestao": "Reforços da Ferroviária para Paulistão e Série B 2027 (site oficial da Ferroviária)"
-  },
-  {
-   "clube": "botafogosp",
-   "nome": "Botafogo-SP",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Pautas da CBN Ribeirão (Reverson, Zé Hugo) não abriram nesta execução e não achei 2ª fonte",
-   "sugestao": "Reverson reforço do Botafogo-SP e situação do contrato de Zé Hugo (vence 30/11)"
-  },
-  {
-   "clube": "itapirense",
-   "nome": "Itapirense",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Sem notícia recente nem fonte segura para evergreen (só Wikipédia)",
-   "sugestao": "Técnico e elenco da Itapirense para a Série A3 de 2027"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-26T17:05-03:00",
-   "motivo": "Sem notícia recente; site já tem a história do clube",
-   "sugestao": "Técnico do Catanduva para a Série A3 de 2027 (ainda indefinido em outubro)"
-  },
   {
    "clube": "pontepreta",
    "nome": "Ponte Preta",
@@ -420,6 +350,76 @@
    "quando": "2026-11-27T11:04-03:00",
    "motivo": "Sem notícia confirmada de 20 a 27/11",
    "sugestao": "Planejamento do Colorado Caieiras para a Série A4 2027"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Nada novo de 25 a 27/11 em fonte aceita; Copinha, tabela e reforços já cobertos",
+   "sugestao": "Anúncio oficial de Alef Manga ou renovações de Augusto, Foguinho e Alex Alves (Instagram @saobernardo_fc, Diário do Grande ABC); data da reapresentação"
+  },
+  {
+   "clube": "portuguesa",
+   "nome": "Portuguesa",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Só pauta de mercado especulativa (percentual de Jajá) e falas do sub-20 em fonte única",
+   "sugestao": "Conferir falas de Murilo Balbino (técnico sub-20) sobre a Copinha em canal oficial da Lusa"
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Samuel Maninho como diretor já publicado no site",
+   "sugestao": "Definição do técnico para a A4 2027 (Piemonte segue?)"
+  },
+  {
+   "clube": "interdelimeira",
+   "nome": "Inter de Limeira",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Marthã, Getúlio e Willian Farias só no Rápido no Ar (fonte única)",
+   "sugestao": "Confirmar com a assessoria/Instagram oficial; anúncio da Topper previsto para 30/11"
+  },
+  {
+   "clube": "veloclube",
+   "nome": "Velo Clube",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Passaporte A2 2027 só no Jornal Cidade",
+   "sugestao": "Conferir no Instagram oficial/Total Ticket; apresentação do elenco na 1ª semana de dezembro"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Sem notícia nova; história em 24/11",
+   "sugestao": "Apresentação do elenco de Tássio Lopes (Diário de Suzano)"
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Fontes divergem na capacidade do Ernesto Rocco; site oficial bloqueado",
+   "sugestao": "Guia do Estádio Ernesto Rocco conferido em desportivobrasil.com.br"
+  },
+  {
+   "clube": "rio-preto",
+   "nome": "Rio Preto",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Data da pré-temporada diverge (7/12 Gazeta de Rio Preto x 2/12 Futebol Interior)",
+   "sugestao": "Confirmar a reapresentação com o clube"
+  },
+  {
+   "clube": "taubate-feminino",
+   "nome": "Taubaté Feminino",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Busca da execução esgotada antes da apuração do feminino",
+   "sugestao": "Pós-jogo de Taubaté x São José (Copa Paulista Feminina) com placar em 2 fontes"
+  },
+  {
+   "clube": "nacional",
+   "nome": "Nacional",
+   "quando": "2026-11-27T13:32-03:00",
+   "motivo": "Busca esgotada; fontes não abriram",
+   "sugestao": "Nacional na Copinha: títulos de 1972 e 1988 (FPF, ge/Gazeta)"
   }
  ]
 }
