@@ -11323,6 +11323,54 @@
    "efemeride": null,
    "intencao": null,
    "intencao_jogo": null
+  },
+  {
+   "id": "m32fd1a6af6e2",
+   "clube": "ac-guaratingueta",
+   "titulo": "AC Guaratinguetá: história, fundação e quem criou o Corujão do Vale",
+   "foco": "AC Guaratinguetá futebol clube",
+   "tipo": "historia",
+   "publish_at": "2026-11-27 09:40",
+   "foto": true,
+   "rascunho": null,
+   "jogo": null,
+   "pedido": null,
+   "video": null,
+   "efemeride": null,
+   "intencao": null,
+   "intencao_jogo": null
+  },
+  {
+   "id": "m8299aac127bb",
+   "clube": "atletico-mogi",
+   "titulo": "Atlético Mogi: história, fundação e trajetória do clube de Mogi das Cruzes",
+   "foco": "Atlético Mogi futebol clube",
+   "tipo": "historia",
+   "publish_at": "2026-11-27 10:40",
+   "foto": false,
+   "rascunho": true,
+   "jogo": null,
+   "pedido": null,
+   "video": null,
+   "efemeride": null,
+   "intencao": null,
+   "intencao_jogo": null
+  },
+  {
+   "id": "me571e8242fe1",
+   "clube": "santa-fe",
+   "titulo": "Santa Fé: história, fundação e trajetória do clube de Santa Fé do Sul",
+   "foco": "Santa Fé futebol clube",
+   "tipo": "historia",
+   "publish_at": "2026-11-27 11:40",
+   "foto": false,
+   "rascunho": true,
+   "jogo": null,
+   "pedido": null,
+   "video": null,
+   "efemeride": null,
+   "intencao": null,
+   "intencao_jogo": null
   }
  ]
 }
