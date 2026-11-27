@@ -1,62 +1,6 @@
 {
- "gerado": "2026-11-26T20:31-03:00",
+ "gerado": "2026-11-26T22:26-03:00",
  "avisos": [
-  {
-   "clube": "santos-feminino",
-   "nome": "Santos Feminino",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Sem notícia em 48h; evergreen em 20/11 (limite de 14 dias)",
-   "sugestao": "Santos x Mauaense na Copa Paulista Feminina (a partir de 28/11) ou comissão técnica 2027"
-  },
-  {
-   "clube": "red-bull-bragantino-feminino",
-   "nome": "Red Bull Bragantino Feminino",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Sem notícia em 48h; evergreen em 12/11",
-   "sugestao": "Prévia da semifinal contra a Ferroviária quando a FPF definir datas e mandos"
-  },
-  {
-   "clube": "catanduva",
-   "nome": "Catanduva",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Só especulação (Cruzeiro do Sul, 23/11) de saída da A3, sem confirmação da FPF",
-   "sugestao": "Acompanhar se a FPF confirma ou desmente a saída de Catanduva e Rio Branco na tabela da A3"
-  },
-  {
-   "clube": "barretos",
-   "nome": "Barretos",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Sem notícia nova em 48h e sem fonte segura para evergreen",
-   "sugestao": "Perguntar à diretoria do Barretos por que ficou fora das sedes da Copinha 2027 após a reforma"
-  },
-  {
-   "clube": "uniao-suzano",
-   "nome": "União Suzano",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Sem notícia em 48h; evergreen em 24/11",
-   "sugestao": "Apresentação do elenco para a A4 (Diário de Suzano / Instagram do clube)"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-25T21:21-03:00",
-   "motivo": "Sem notícia em 48h; evergreen em 22/11",
-   "sugestao": "Técnico e elenco do Colorado Caieiras para a A4 2027"
-  },
-  {
-   "clube": "independente",
-   "nome": "Independente",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Reforços (Lucas Cambuhy, João Alegria, Kaique Clemente, Arthur Bauer) e renovação de Hiago Ramiro só no Rápido no Ar; sem 2ª fonte; evergreen vetado (história em 24/11)",
-   "sugestao": "Confirmar com o clube (Instagram ou gerente Saulo Roncatto) e escrever 'Independente monta elenco para a A4: Hiago Ramiro renova e Galo tem 5 reforços'; links: rapidonoar.com.br/capitao-hiago-ramiro-renova-com-o-independente/ e /independente-contrata-ex-volante-da-chapecoense/"
-  },
-  {
-   "clube": "tanabi",
-   "nome": "Tanabi",
-   "quando": "2026-11-26T07:04-03:00",
-   "motivo": "Léo Gama, Yormax Bingong e Giovani anunciados só no Futebol Interior (25/11); sem 2ª fonte; dúvida Giovani/Giovanni",
-   "sugestao": "Confirmar no Instagram do Tanabi SAF os três reforços e a reapresentação de 4/1/2027 (futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/)"
-  },
   {
    "clube": "jacarei",
    "nome": "Jacareí",
@@ -420,6 +364,62 @@
    "quando": "2026-11-26T20:31-03:00",
    "motivo": "Cobertura 6h (26/11 20h): nenhuma notícia do São Bernardo FC entre 25/11 20h e 26/11 20h no Diário do Grande ABC, ABC do ABC, Futebol Interior ou ge; site oficial parado desde 03/2026; Instagram pede login.",
    "sugestao": "Redator: confirmar com o clube a data da reapresentação para o Paulistão 2027 e se as renovações de Augusto, Alex Alves e Foguinho e a chegada de Alef Manga já foram oficializadas."
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "sem notícia nas últimas 48h e o clube já teve matéria histórica nos últimos 14 dias",
+   "sugestao": "conferir site/redes oficiais e jornal da cidade: elenco, técnico e pré-temporada da Série A3 2027"
+  },
+  {
+   "clube": "itapirense",
+   "nome": "Itapirense",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "sem notícia nas últimas 48h e o clube já teve matéria histórica nos últimos 14 dias",
+   "sugestao": "conferir site/redes oficiais e jornal da cidade: elenco, técnico e pré-temporada da Série A3 2027"
+  },
+  {
+   "clube": "ferroviaria",
+   "nome": "Ferroviária",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "reapresentação marcada para 26/11 sem notícia publicada até 22h; site oficial inacessível",
+   "sugestao": "na manhã de 27/11 conferir site/Instagram oficial, Portal Morada e RCIA: reapresentação, reforços e renovações para Paulistão e Série B 2027"
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "sem notícia com 2 fontes nas últimas 48h; evergreen bloqueado (história em 21/11)",
+   "sugestao": "Tribuna Ribeirão 26/11: 'De campeão da Libertadores com Ronaldinho a reforço do Comercial' — confirmar nome com o clube ou 2º veículo"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "sem notícia nas últimas 48h; evergreen bloqueado (história nos últimos 14 dias)",
+   "sugestao": "pré-temporada, técnico e reforços da Série A4 2027 pelo site/redes oficiais e jornal da cidade"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "sem notícia nas últimas 48h; evergreen bloqueado (história nos últimos 14 dias)",
+   "sugestao": "pré-temporada, técnico e reforços da Série A4 2027 pelo site/redes oficiais e jornal da cidade"
+  },
+  {
+   "clube": "desportivo-brasil",
+   "nome": "Desportivo Brasil",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "sem notícia nas últimas 48h; evergreen bloqueado (história nos últimos 14 dias)",
+   "sugestao": "pré-temporada, técnico e reforços da Série A4 2027 pelo site/redes oficiais e jornal da cidade"
+  },
+  {
+   "clube": "gremio-saocarlense",
+   "nome": "Grêmio São-Carlense",
+   "quando": "2026-11-26T22:26-03:00",
+   "motivo": "sem notícia nas últimas 48h; evergreen bloqueado (história nos últimos 14 dias)",
+   "sugestao": "pré-temporada, técnico e reforços da Série A4 2027 pelo site/redes oficiais e jornal da cidade"
   }
  ]
 }
