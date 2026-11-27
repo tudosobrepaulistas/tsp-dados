@@ -471,6 +471,73 @@
    "sem_hora": true
   },
   {
+   "id": 91000584,
+   "data": "2026-02-04T12:00:00-03:00",
+   "casa": "bragantino",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Neves",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.hojeemdia.com.br/esportes/atletico/atletico-e-superado-pelo-bragantino-e-segue-sem-vitoria-no-brasileir-o-1.1102808",
+    "https://istoe.com.br/red-bull-bragantino-bate-atletico-mg-e-mantem-os-100-no-brasileirao"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000579,
+   "data": "2026-02-04T19:00:00-03:00",
+   "casa": "flamengo",
+   "fora": "internacional",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Borré",
+     "minuto": "45+2",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Arrascaeta",
+     "minuto": "68",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-busca-empate-contra-o-inter-na-reestreia-de-paqueta-no-maracana/",
+    "https://www.lance.com.br/futebol-nacional/flamengo-x-internacional-borre-deixa-leo-ortiz-no-chao-e-anota-golaco.html"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00"
+  },
+  {
    "id": 91000408,
    "data": "2026-02-04T20:00:00-03:00",
    "casa": "remo",
@@ -545,6 +612,247 @@
     ],
     "atualizado": "2026-11-20T03:46:00-03:00"
    }
+  },
+  {
+   "id": 91000583,
+   "data": "2026-02-04T20:00:00-03:00",
+   "casa": "santos",
+   "fora": "sao-paulo",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Vila Belmiro",
+   "cidade": "Santos",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Zé Rafael",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Calleri",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-busca-empate-na-vila-pelo-brasileiro-e-afunda-o-santos-na-crise/",
+    "https://www.dgabc.com.br/Noticia/4283489/crespo-muda-o-jogo-sao-paulo-busca-empate-pelo-brasileirao-e-amplia-crise-no-santos"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00"
+  },
+  {
+   "id": 91000580,
+   "data": "2026-02-04T21:30:00-03:00",
+   "casa": "gremio",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 5,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Arthur Cabral",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carlos Vinícius",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carlos Vinícius",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Carlos Vinícius",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Tetê",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Edenílson",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Danilo",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/carlos-vinicius-faz-tres-e-gremio-vira-sobre-o-botafogo/",
+    "https://www.jornaldocomercio.com/esportes/2026/02/1235887-com-show-de-carlos-vinicius-gremio-goleia-o-botafogo-e-encerra-sequencia-sem-vitorias.html"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00"
+  },
+  {
+   "id": 91000582,
+   "data": "2026-02-04T21:30:00-03:00",
+   "casa": "palmeiras",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Barueri",
+   "cidade": "Barueri",
+   "gols_casa": 5,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Murilo",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Gustavo Gómez",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Mauricio",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Dudu",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Allan",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ramón Sosa",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-goleia-o-vitoria-pelo-brasileiro-e-alivia-pressao-antes-de-classico/",
+    "https://www.palmeiras.com.br/noticias/palmeiras-goleia-vitoria-e-alcanca-18-jogos-de-invencibilidade-como-mandante/"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00"
+  },
+  {
+   "id": 91000585,
+   "data": "2026-02-05T12:00:00-03:00",
+   "casa": "vasco",
+   "fora": "chapecoense",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "São Januário",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Puma Rodríguez",
+     "minuto": "54",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Jean Carlos",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-vacila-leva-empate-da-chapecoense-e-segue-sem-vencer-no-brasileirao/",
+    "https://www.oliberal.com/esportes/vasco-domina-chapecoense-leva-empate-no-fim-e-deixa-campo-sob-vaias-em-sao-januario-1.1081306"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00",
+   "sem_hora": true
+  },
+  {
+   "id": 91000586,
+   "data": "2026-02-05T19:00:00-03:00",
+   "casa": "bahia",
+   "fora": "fluminense",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "John Kennedy",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Kike Olivera",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://atarde.com.br/esportes/na-raca-bahia-arranca-empate-com-o-fluminense-na-fonte-nova-1378765",
+    "https://www.correio24horas.com.br/esportes/bahia-estreia-na-fonte-nova-na-serie-a-com-um-empate-por-1x1-contra-o-fluminense-0226"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00"
   },
   {
    "id": 91000342,
@@ -667,6 +975,79 @@
     ],
     "atualizado": "2026-11-13T03:34:00-03:00"
    }
+  },
+  {
+   "id": 91000587,
+   "data": "2026-02-10T21:30:00-03:00",
+   "casa": "vitoria",
+   "fora": "flamengo",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Barradão",
+   "cidade": "Salvador",
+   "gols_casa": 1,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Pulgar",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Everton Cebolinha",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheuzinho",
+     "minuto": "51",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.correio24horas.com.br/esportes/vitoria-faz-jogo-aguerrido-mas-perde-por-2x1-para-o-flamengo-no-brasileirao-0226",
+    "https://atarde.com.br/esportes/vitoria-perde-penalti-e-sai-derrotado-para-o-flamengo-no-barradao-1379313"
+   ],
+   "atualizado": "2026-11-27T03:37:00-03:00"
+  },
+  {
+   "id": 91000588,
+   "data": "2026-02-11T12:00:00-03:00",
+   "casa": "vasco",
+   "fora": "bahia",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "São Januário",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Luciano Juba",
+     "minuto": "21",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.correio24horas.com.br/esportes/invicto-fora-de-casa-bahia-vence-o-vasco-por-1x0-pelo-brasileirao-0226",
+    "https://www.agazeta.com.br/futebol/vasco-perde-para-o-bahia-e-segue-sem-vencer-no-brasileiro-0226"
+   ],
+   "atualizado": "2026-11-27T03:37:00-03:00",
+   "sem_hora": true
   },
   {
    "id": 91000343,
@@ -809,6 +1190,54 @@
    }
   },
   {
+   "id": 91000589,
+   "data": "2026-02-11T19:00:00-03:00",
+   "casa": "mirassol",
+   "fora": "cruzeiro",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maião",
+   "cidade": "Mirassol",
+   "gols_casa": 2,
+   "gols_fora": 2,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Wanderson",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Nathan Fogaça",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Negueba",
+     "minuto": "52",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Kaio Jorge",
+     "minuto": "84",
+     "tipo": "penalti"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-empata-com-mirassol-com-gol-de-penalti-e-aumenta-jejum-no-brasileiro/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-cruzeiro-busca-empate-contra-o-mirassol-e-soma-primeiro-ponto/"
+   ],
+   "atualizado": "2026-11-27T03:37:00-03:00"
+  },
+  {
    "id": 91000409,
    "data": "2026-02-11T20:00:00-03:00",
    "casa": "atletico-mg",
@@ -868,6 +1297,42 @@
     "https://www.cartacapital.com.br/?p=583275"
    ],
    "atualizado": "2026-11-20T03:46:00-03:00"
+  },
+  {
+   "id": 91000591,
+   "data": "2026-02-11T21:30:00-03:00",
+   "casa": "sao-paulo",
+   "fora": "gremio",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Morumbis",
+   "cidade": "São Paulo",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Lucas",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Calleri",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/com-trio-decisivo-sao-paulo-vence-o-gremio-e-dorme-na-lideranca-do-brasileiro/",
+    "https://www.dgabc.com.br/Noticia/4284805/sao-paulo-convence-derrota-o-gremio-e-vira-lider-provisorio-do-brasileirao"
+   ],
+   "atualizado": "2026-11-27T03:37:00-03:00"
   },
   {
    "id": 91000362,
@@ -980,6 +1445,143 @@
     ],
     "atualizado": "2026-11-14T03:36:00-03:00"
    }
+  },
+  {
+   "id": 91000590,
+   "data": "2026-02-12T19:30:00-03:00",
+   "casa": "fluminense",
+   "fora": "botafogo",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Lucho Acosta",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/com-um-a-menos-fluminense-vence-classico-contra-o-botafogo-pelo-brasileiro/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/fluminense-x-botafogo/831909"
+   ],
+   "atualizado": "2026-11-27T03:37:00-03:00"
+  },
+  {
+   "id": 91000592,
+   "data": "2026-02-12T20:00:00-03:00",
+   "casa": "corinthians",
+   "fora": "bragantino",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Neo Química Arena",
+   "cidade": "São Paulo",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Gabriel Paulista",
+     "minuto": "",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Matheus Bidu",
+     "minuto": "74",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/hugo-pega-penalti-corinthians-bate-bragantino-e-vence-a-primeira-no-brasileiro/",
+    "https://www.dgabc.com.br/Noticia/4285034/corinthians-encerra-jejum-diante-do-red-bull-bragantino-e-vence-a-primeira-no-brasileirao"
+   ],
+   "atualizado": "2026-11-27T03:37:00-03:00"
+  },
+  {
+   "id": 91000593,
+   "data": "2026-02-12T21:30:00-03:00",
+   "casa": "internacional",
+   "fora": "palmeiras",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Beira-Rio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 1,
+   "gols_fora": 3,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Gustavo Gómez",
+     "minuto": "23",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Ronaldo",
+     "minuto": "35",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Vitor Roque",
+     "minuto": "51",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Andreas Pereira",
+     "minuto": "81",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bate-o-inter-no-beira-rio-e-assume-a-lideranca-do-brasileirao/",
+    "https://www.dgabc.com.br/Noticia/4285036/palmeiras-e-letal-em-falhas-do-inter-vence-jogo-disputado-e-assume-lideranca-do-brasileirao"
+   ],
+   "atualizado": "2026-11-27T03:37:00-03:00"
+  },
+  {
+   "id": 91000581,
+   "data": "2026-02-19T19:30:00-03:00",
+   "casa": "athletico-pr",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena da Baixada",
+   "cidade": "Curitiba",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-athletico-pr-19-02-2026-brasileiro/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/athletico-paranaense-x-corinthians/831906"
+   ],
+   "atualizado": "2026-11-27T03:34:00-03:00"
   },
   {
    "id": 91000410,

@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26T22:11:00-03:00",
+ "gerado": "2026-11-27T03:37:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -460,10 +460,52 @@
      0
     ],
     [
+     900010,
+     900006,
+     1,
+     0
+    ],
+    [
+     900001,
+     900016,
+     1,
+     1
+    ],
+    [
      900019,
      900015,
      2,
      2
+    ],
+    [
+     900008,
+     900009,
+     1,
+     1
+    ],
+    [
+     900017,
+     900011,
+     5,
+     3
+    ],
+    [
+     900002,
+     900014,
+     5,
+     1
+    ],
+    [
+     900013,
+     900020,
+     1,
+     1
+    ],
+    [
+     900007,
+     900005,
+     1,
+     1
     ],
     [
      900003,
@@ -472,10 +514,28 @@
      2
     ],
     [
+     900014,
+     900001,
+     1,
+     2
+    ],
+    [
+     900013,
+     900007,
+     0,
+     1
+    ],
+    [
      900020,
      900012,
      3,
      3
+    ],
+    [
+     900015,
+     900003,
+     2,
+     2
     ],
     [
      900006,
@@ -484,9 +544,39 @@
      3
     ],
     [
+     900009,
+     900017,
+     2,
+     0
+    ],
+    [
      900004,
      900008,
      2,
+     1
+    ],
+    [
+     900005,
+     900011,
+     1,
+     0
+    ],
+    [
+     900018,
+     900010,
+     2,
+     0
+    ],
+    [
+     900016,
+     900002,
+     1,
+     3
+    ],
+    [
+     900004,
+     900018,
+     0,
      1
     ],
     [
@@ -3053,6 +3143,144 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.hojeemdia.com.br/esportes/atletico/atletico-e-superado-pelo-bragantino-e-segue-sem-vitoria-no-brasileir-o-1.1102808",
+    "https://istoe.com.br/red-bull-bragantino-bate-atletico-mg-e-mantem-os-100-no-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000584,
+    "timestamp": 1770217200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Cícero de Souza Marques",
+     "city": "Bragança Paulista"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    },
+    "away": {
+     "id": 900006,
+     "name": "Atlético-MG"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900010,
+      "name": "Red Bull Bragantino"
+     },
+     "player": {
+      "name": "Gustavo Neves"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/flamengo/flamengo-busca-empate-contra-o-inter-na-reestreia-de-paqueta-no-maracana/",
+    "https://www.lance.com.br/futebol-nacional/flamengo-x-internacional-borre-deixa-leo-ortiz-no-chao-e-anota-golaco.html"
+   ],
+   "fixture": {
+    "id": 91000579,
+    "timestamp": 1770242400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900001,
+     "name": "Flamengo"
+    },
+    "away": {
+     "id": 900016,
+     "name": "Internacional"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 45,
+      "extra": null,
+      "texto": "45+2"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Borré"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 68,
+      "extra": null,
+      "texto": "68"
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Arrascaeta"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.oliberal.com/esportes/remo/remo-sofre-empate-do-mirassol-nos-minutos-finais-no-mangueirao-1.1080653",
     "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/mirassol-busca-empate-no-fim-em-jogo-eletrizante-contra-o-remo-pelo-brasileirao/"
    ],
@@ -3162,6 +3390,551 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/sao-paulo-busca-empate-na-vila-pelo-brasileiro-e-afunda-o-santos-na-crise/",
+    "https://www.dgabc.com.br/Noticia/4283489/crespo-muda-o-jogo-sao-paulo-busca-empate-pelo-brasileirao-e-amplia-crise-no-santos"
+   ],
+   "fixture": {
+    "id": 91000583,
+    "timestamp": 1770246000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Vila Belmiro",
+     "city": "Santos"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900008,
+     "name": "Santos"
+    },
+    "away": {
+     "id": 900009,
+     "name": "São Paulo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900008,
+      "name": "Santos"
+     },
+     "player": {
+      "name": "Zé Rafael"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Calleri"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/botafogo/carlos-vinicius-faz-tres-e-gremio-vira-sobre-o-botafogo/",
+    "https://www.jornaldocomercio.com/esportes/2026/02/1235887-com-show-de-carlos-vinicius-gremio-goleia-o-botafogo-e-encerra-sequencia-sem-vitorias.html"
+   ],
+   "fixture": {
+    "id": 91000580,
+    "timestamp": 1770251400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena do Grêmio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900017,
+     "name": "Grêmio"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 5,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Arthur Cabral"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Carlos Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Carlos Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Carlos Vinícius"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Tetê"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900017,
+      "name": "Grêmio"
+     },
+     "player": {
+      "name": "Edenílson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900011,
+      "name": "Botafogo"
+     },
+     "player": {
+      "name": "Danilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-goleia-o-vitoria-pelo-brasileiro-e-alivia-pressao-antes-de-classico/",
+    "https://www.palmeiras.com.br/noticias/palmeiras-goleia-vitoria-e-alcanca-18-jogos-de-invencibilidade-como-mandante/"
+   ],
+   "fixture": {
+    "id": 91000582,
+    "timestamp": 1770251400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Barueri",
+     "city": "Barueri"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900002,
+     "name": "Palmeiras"
+    },
+    "away": {
+     "id": 900014,
+     "name": "Vitória"
+    }
+   },
+   "goals": {
+    "home": 5,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Murilo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Gustavo Gómez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Mauricio"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Dudu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Allan"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Ramón Sosa"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/vasco-vacila-leva-empate-da-chapecoense-e-segue-sem-vencer-no-brasileirao/",
+    "https://www.oliberal.com/esportes/vasco-domina-chapecoense-leva-empate-no-fim-e-deixa-campo-sob-vaias-em-sao-januario-1.1081306"
+   ],
+   "fixture": {
+    "id": 91000585,
+    "timestamp": 1770303600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900020,
+     "name": "Chapecoense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 54,
+      "extra": null,
+      "texto": "54"
+     },
+     "team": {
+      "id": 900013,
+      "name": "Vasco"
+     },
+     "player": {
+      "name": "Puma Rodríguez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900020,
+      "name": "Chapecoense"
+     },
+     "player": {
+      "name": "Jean Carlos"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://atarde.com.br/esportes/na-raca-bahia-arranca-empate-com-o-fluminense-na-fonte-nova-1378765",
+    "https://www.correio24horas.com.br/esportes/bahia-estreia-na-fonte-nova-na-serie-a-com-um-empate-por-1x1-contra-o-fluminense-0226"
+   ],
+   "fixture": {
+    "id": 91000586,
+    "timestamp": 1770328800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena Fonte Nova",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900007,
+     "name": "Bahia"
+    },
+    "away": {
+     "id": 900005,
+     "name": "Fluminense"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "John Kennedy"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Kike Olivera"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/?p=3757049",
     "https://www.umdoisesportes.com.br/coritiba/cruzeiro-coritiba-resultado-gols-ficha-brasileirao/"
    ],
@@ -3244,6 +4017,160 @@
      },
      "player": {
       "name": "Breno Lopes"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.correio24horas.com.br/esportes/vitoria-faz-jogo-aguerrido-mas-perde-por-2x1-para-o-flamengo-no-brasileirao-0226",
+    "https://atarde.com.br/esportes/vitoria-perde-penalti-e-sai-derrotado-para-o-flamengo-no-barradao-1379313"
+   ],
+   "fixture": {
+    "id": 91000587,
+    "timestamp": 1770769800,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Barradão",
+     "city": "Salvador"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900014,
+     "name": "Vitória"
+    },
+    "away": {
+     "id": 900001,
+     "name": "Flamengo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Pulgar"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900001,
+      "name": "Flamengo"
+     },
+     "player": {
+      "name": "Everton Cebolinha"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900014,
+      "name": "Vitória"
+     },
+     "player": {
+      "name": "Matheuzinho"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.correio24horas.com.br/esportes/invicto-fora-de-casa-bahia-vence-o-vasco-por-1x0-pelo-brasileirao-0226",
+    "https://www.agazeta.com.br/futebol/vasco-perde-para-o-bahia-e-segue-sem-vencer-no-brasileiro-0226"
+   ],
+   "fixture": {
+    "id": 91000588,
+    "timestamp": 1770822000,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "São Januário",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900013,
+     "name": "Vasco"
+    },
+    "away": {
+     "id": 900007,
+     "name": "Bahia"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 21,
+      "extra": null,
+      "texto": "21"
+     },
+     "team": {
+      "id": 900007,
+      "name": "Bahia"
+     },
+     "player": {
+      "name": "Luciano Juba"
      },
      "type": "Goal",
      "detail": "Normal Goal"
@@ -3396,6 +4323,115 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/times/cruzeiro/cruzeiro-empata-com-mirassol-com-gol-de-penalti-e-aumenta-jejum-no-brasileiro/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-cruzeiro-busca-empate-contra-o-mirassol-e-soma-primeiro-ponto/"
+   ],
+   "fixture": {
+    "id": 91000589,
+    "timestamp": 1770847200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maião",
+     "city": "Mirassol"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900015,
+     "name": "Mirassol"
+    },
+    "away": {
+     "id": 900003,
+     "name": "Cruzeiro"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 2
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Wanderson"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Nathan Fogaça"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 52,
+      "extra": null,
+      "texto": "52"
+     },
+     "team": {
+      "id": 900015,
+      "name": "Mirassol"
+     },
+     "player": {
+      "name": "Negueba"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 84,
+      "extra": null,
+      "texto": "84"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Penalty"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://diariodopara.com.br/bola/remo-reage-duas-vezes-vira-no-fim-e-deixa-vitoria-escapar-contra-o-galo/",
     "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/atletico-mineiro-x-remo/831914",
     "https://www.cartacapital.com.br/?p=583275"
@@ -3538,6 +4574,83 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/com-trio-decisivo-sao-paulo-vence-o-gremio-e-dorme-na-lideranca-do-brasileiro/",
+    "https://www.dgabc.com.br/Noticia/4284805/sao-paulo-convence-derrota-o-gremio-e-vira-lider-provisorio-do-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000591,
+    "timestamp": 1770856200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Morumbis",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900009,
+     "name": "São Paulo"
+    },
+    "away": {
+     "id": 900017,
+     "name": "Grêmio"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Lucas"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900009,
+      "name": "São Paulo"
+     },
+     "player": {
+      "name": "Calleri"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
     "https://www.gazetaesportiva.com/times/santos/santos-leva-gol-no-fim-perde-do-athletico-pr-e-segue-sem-vencer-no-brasileirao/",
     "https://www.lance.com.br/santos/com-gol-no-fim-athletico-vence-e-mantem-jejum-do-santos.html"
    ],
@@ -3625,6 +4738,297 @@
      "detail": "Normal Goal"
     }
    ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/com-um-a-menos-fluminense-vence-classico-contra-o-botafogo-pelo-brasileiro/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/fluminense-x-botafogo/831909"
+   ],
+   "fixture": {
+    "id": 91000590,
+    "timestamp": 1770935400,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Maracanã",
+     "city": "Rio de Janeiro"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900005,
+     "name": "Fluminense"
+    },
+    "away": {
+     "id": 900011,
+     "name": "Botafogo"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900005,
+      "name": "Fluminense"
+     },
+     "player": {
+      "name": "Lucho Acosta"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/hugo-pega-penalti-corinthians-bate-bragantino-e-vence-a-primeira-no-brasileiro/",
+    "https://www.dgabc.com.br/Noticia/4285034/corinthians-encerra-jejum-diante-do-red-bull-bragantino-e-vence-a-primeira-no-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000592,
+    "timestamp": 1770937200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Neo Química Arena",
+     "city": "São Paulo"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900018,
+     "name": "Corinthians"
+    },
+    "away": {
+     "id": 900010,
+     "name": "Red Bull Bragantino"
+    }
+   },
+   "goals": {
+    "home": 2,
+    "away": 0
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 0,
+      "extra": null,
+      "texto": ""
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Gabriel Paulista"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 74,
+      "extra": null,
+      "texto": "74"
+     },
+     "team": {
+      "id": 900018,
+      "name": "Corinthians"
+     },
+     "player": {
+      "name": "Matheus Bidu"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-bate-o-inter-no-beira-rio-e-assume-a-lideranca-do-brasileirao/",
+    "https://www.dgabc.com.br/Noticia/4285036/palmeiras-e-letal-em-falhas-do-inter-vence-jogo-disputado-e-assume-lideranca-do-brasileirao"
+   ],
+   "fixture": {
+    "id": 91000593,
+    "timestamp": 1770942600,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Beira-Rio",
+     "city": "Porto Alegre"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 3"
+   },
+   "teams": {
+    "home": {
+     "id": 900016,
+     "name": "Internacional"
+    },
+    "away": {
+     "id": 900002,
+     "name": "Palmeiras"
+    }
+   },
+   "goals": {
+    "home": 1,
+    "away": 3
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 23,
+      "extra": null,
+      "texto": "23"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Gustavo Gómez"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 35,
+      "extra": null,
+      "texto": "35"
+     },
+     "team": {
+      "id": 900016,
+      "name": "Internacional"
+     },
+     "player": {
+      "name": "Ronaldo"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 51,
+      "extra": null,
+      "texto": "51"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Vitor Roque"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    },
+    {
+     "time": {
+      "elapsed": 81,
+      "extra": null,
+      "texto": "81"
+     },
+     "team": {
+      "id": 900002,
+      "name": "Palmeiras"
+     },
+     "player": {
+      "name": "Andreas Pereira"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
+  },
+  {
+   "liga": "serie_a",
+   "temporada": 2026,
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-athletico-pr-19-02-2026-brasileiro/",
+    "https://www.cbf.com.br/futebol-brasileiro/jogos/campeonato-brasileiro/serie-a/2026/athletico-paranaense-x-corinthians/831906"
+   ],
+   "fixture": {
+    "id": 91000581,
+    "timestamp": 1771540200,
+    "status": {
+     "short": "FT",
+     "elapsed": 90
+    },
+    "venue": {
+     "name": "Arena da Baixada",
+     "city": "Curitiba"
+    },
+    "referee": ""
+   },
+   "league": {
+    "round": "Rodada 2"
+   },
+   "teams": {
+    "home": {
+     "id": 900004,
+     "name": "Athletico-PR"
+    },
+    "away": {
+     "id": 900018,
+     "name": "Corinthians"
+    }
+   },
+   "goals": {
+    "home": 0,
+    "away": 1
+   },
+   "penaltis": "",
+   "prejogo": {},
+   "escalacoes": {},
+   "previsao": null,
+   "events": []
   },
   {
    "liga": "serie_a",
@@ -24338,17 +25742,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 50,
+    "casa": 51,
     "empate": 25,
-    "fora": 25,
+    "fora": 24,
     "placar": "1x1",
     "gols_esperados": [
-     1.62,
-     1.07
+     1.61,
+     1.04
     ],
     "base": [
-     28,
-     39
+     30,
+     40
     ]
    },
    "events": []
@@ -24460,17 +25864,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 49,
+    "casa": 46,
     "empate": 24,
-    "fora": 27,
+    "fora": 30,
     "placar": "1x1",
     "gols_esperados": [
-     1.72,
-     1.23
+     1.66,
+     1.28
     ],
     "base": [
-     37,
-     27
+     39,
+     29
     ]
    },
    "events": []
@@ -24599,17 +26003,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 20,
+    "casa": 21,
     "empate": 24,
-    "fora": 56,
+    "fora": 55,
     "placar": "0x1",
     "gols_esperados": [
-     0.91,
-     1.72
+     0.92,
+     1.69
     ],
     "base": [
      33,
-     25
+     27
     ]
    },
    "events": []
@@ -24742,17 +26146,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 37,
-    "empate": 24,
-    "fora": 39,
+    "casa": 34,
+    "empate": 23,
+    "fora": 42,
     "placar": "1x1",
     "gols_esperados": [
-     1.54,
-     1.56
+     1.5,
+     1.69
     ],
     "base": [
-     24,
-     34
+     26,
+     35
     ]
    },
    "events": []
@@ -24887,17 +26291,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 40,
-    "empate": 27,
-    "fora": 33,
+    "casa": 43,
+    "empate": 26,
+    "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.33,
-     1.17
+     1.45,
+     1.18
     ],
     "base": [
-     29,
-     28
+     31,
+     30
     ]
    },
    "events": []
@@ -25019,12 +26423,12 @@
     "fora": 31,
     "placar": "1x1",
     "gols_esperados": [
-     1.46,
-     1.21
+     1.47,
+     1.2
     ],
     "base": [
-     34,
-     35
+     35,
+     36
     ]
    },
    "events": []
@@ -25131,12 +26535,12 @@
     "fora": 33,
     "placar": "1x1",
     "gols_esperados": [
-     1.66,
-     1.45
+     1.62,
+     1.4
     ],
     "base": [
-     37,
-     23
+     39,
+     25
     ]
    },
    "events": []
@@ -25273,17 +26677,17 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
-    "empate": 24,
+    "casa": 52,
+    "empate": 25,
     "fora": 23,
-    "placar": "1x1",
+    "placar": "1x0",
     "gols_esperados": [
-     1.67,
-     1.01
+     1.57,
+     0.95
     ],
     "base": [
-     31,
-     24
+     32,
+     26
     ]
    },
    "events": []
@@ -25329,17 +26733,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 87,
+    "casa": 86,
     "empate": 9,
-    "fora": 4,
+    "fora": 5,
     "placar": "3x0",
     "gols_esperados": [
-     3.39,
+     3.27,
      0.67
     ],
     "base": [
-     25,
-     25
+     27,
+     26
     ]
    },
    "events": []
@@ -25385,17 +26789,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
-    "empate": 22,
-    "fora": 22,
-    "placar": "1x1",
+    "casa": 59,
+    "empate": 21,
+    "fora": 20,
+    "placar": "2x1",
     "gols_esperados": [
-     1.96,
-     1.15
+     2.04,
+     1.1
     ],
     "base": [
-     24,
-     24
+     26,
+     26
     ]
    },
    "events": []
@@ -25441,17 +26845,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 54,
-    "empate": 23,
-    "fora": 23,
+    "casa": 57,
+    "empate": 22,
+    "fora": 21,
     "placar": "1x1",
     "gols_esperados": [
-     1.83,
-     1.1
+     1.93,
+     1.11
     ],
     "base": [
-     34,
-     37
+     35,
+     39
     ]
    },
    "events": []
@@ -25497,16 +26901,16 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 68,
-    "empate": 20,
-    "fora": 12,
-    "placar": "1x0",
+    "casa": 71,
+    "empate": 18,
+    "fora": 10,
+    "placar": "2x0",
     "gols_esperados": [
-     1.97,
-     0.68
+     2.17,
+     0.69
     ],
     "base": [
-     28,
+     30,
      33
     ]
    },
@@ -25553,17 +26957,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 51,
-    "empate": 24,
-    "fora": 26,
+    "casa": 48,
+    "empate": 25,
+    "fora": 27,
     "placar": "1x1",
     "gols_esperados": [
-     1.74,
-     1.17
+     1.58,
+     1.13
     ],
     "base": [
-     23,
-     28
+     25,
+     30
     ]
    },
    "events": []
@@ -25609,17 +27013,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 53,
+    "casa": 55,
     "empate": 23,
-    "fora": 24,
+    "fora": 23,
     "placar": "1x1",
     "gols_esperados": [
-     1.81,
+     1.88,
      1.13
     ],
     "base": [
-     39,
-     37
+     40,
+     39
     ]
    },
    "events": []
@@ -25665,17 +27069,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 43,
-    "empate": 29,
+    "casa": 44,
+    "empate": 27,
     "fora": 29,
-    "placar": "1x0",
+    "placar": "1x1",
     "gols_esperados": [
-     1.23,
-     0.95
+     1.35,
+     1.04
     ],
     "base": [
-     28,
-     34
+     30,
+     35
     ]
    },
    "events": []
@@ -25721,17 +27125,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 56,
-    "empate": 24,
-    "fora": 20,
+    "casa": 53,
+    "empate": 25,
+    "fora": 22,
     "placar": "1x0",
     "gols_esperados": [
-     1.72,
-     0.91
+     1.6,
+     0.93
     ],
     "base": [
-     35,
-     24
+     36,
+     26
     ]
    },
    "events": []
@@ -25777,17 +27181,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 46,
-    "empate": 25,
-    "fora": 29,
+    "casa": 47,
+    "empate": 26,
+    "fora": 27,
     "placar": "1x1",
     "gols_esperados": [
-     1.57,
-     1.19
+     1.53,
+     1.1
     ],
     "base": [
-     27,
-     31
+     29,
+     32
     ]
    },
    "events": []
@@ -25833,17 +27237,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 47,
+    "casa": 43,
     "empate": 24,
-    "fora": 30,
+    "fora": 32,
     "placar": "1x1",
     "gols_esperados": [
-     1.72,
-     1.33
+     1.6,
+     1.35
     ],
     "base": [
      39,
-     29
+     31
     ]
    },
    "events": []
@@ -53877,6 +55281,12 @@
     "gols": 8
    },
    {
+    "jogador": "John Kennedy",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 7
+   },
+   {
     "jogador": "Matheus Pereira",
     "time": "Cruzeiro",
     "time_id": 900003,
@@ -53901,12 +55311,6 @@
     "gols": 6
    },
    {
-    "jogador": "John Kennedy",
-    "time": "Fluminense",
-    "time_id": 900005,
-    "gols": 6
-   },
-   {
     "jogador": "Renê",
     "time": "Vitória",
     "time_id": 900014,
@@ -53922,7 +55326,25 @@
     "jogador": "Arthur Cabral",
     "time": "Botafogo",
     "time_id": 900011,
-    "gols": 4
+    "gols": 5
+   },
+   {
+    "jogador": "Calleri",
+    "time": "São Paulo",
+    "time_id": 900009,
+    "gols": 5
+   },
+   {
+    "jogador": "Danilo",
+    "time": "Botafogo",
+    "time_id": 900011,
+    "gols": 5
+   },
+   {
+    "jogador": "Kaio Jorge",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 5
    },
    {
     "jogador": "Carbonero",
@@ -53949,15 +55371,33 @@
     "gols": 4
    },
    {
-    "jogador": "Kaio Jorge",
-    "time": "Cruzeiro",
-    "time_id": 900003,
+    "jogador": "Lucho Acosta",
+    "time": "Fluminense",
+    "time_id": 900005,
+    "gols": 4
+   },
+   {
+    "jogador": "Luciano Juba",
+    "time": "Bahia",
+    "time_id": 900007,
     "gols": 4
    },
    {
     "jogador": "Marcinho",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 4
+   },
+   {
+    "jogador": "Matheus Bidu",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 4
+   },
+   {
+    "jogador": "Mauricio",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 4
    },
    {
@@ -53970,6 +55410,12 @@
     "jogador": "Vitor Bueno",
     "time": "Remo",
     "time_id": 900019,
+    "gols": 4
+   },
+   {
+    "jogador": "Vitor Roque",
+    "time": "Palmeiras",
+    "time_id": 900002,
     "gols": 4
    },
    {
@@ -54003,15 +55449,9 @@
     "gols": 3
    },
    {
-    "jogador": "Calleri",
-    "time": "São Paulo",
-    "time_id": 900009,
-    "gols": 3
-   },
-   {
-    "jogador": "Danilo",
-    "time": "Botafogo",
-    "time_id": 900011,
+    "jogador": "Carlos Vinícius",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 3
    },
    {
@@ -54028,6 +55468,12 @@
    },
    {
     "jogador": "Flaco López",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 3
+   },
+   {
+    "jogador": "Gustavo Gómez",
     "time": "Palmeiras",
     "time_id": 900002,
     "gols": 3
@@ -54063,30 +55509,6 @@
     "gols": 3
    },
    {
-    "jogador": "Lucho Acosta",
-    "time": "Fluminense",
-    "time_id": 900005,
-    "gols": 3
-   },
-   {
-    "jogador": "Luciano Juba",
-    "time": "Bahia",
-    "time_id": 900007,
-    "gols": 3
-   },
-   {
-    "jogador": "Matheus Bidu",
-    "time": "Corinthians",
-    "time_id": 900018,
-    "gols": 3
-   },
-   {
-    "jogador": "Mauricio",
-    "time": "Palmeiras",
-    "time_id": 900002,
-    "gols": 3
-   },
-   {
     "jogador": "Reinier",
     "time": "Atlético-MG",
     "time_id": 900006,
@@ -54105,12 +55527,6 @@
     "gols": 3
    },
    {
-    "jogador": "Vitor Roque",
-    "time": "Palmeiras",
-    "time_id": 900002,
-    "gols": 3
-   },
-   {
     "jogador": "Wallace Yan",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
@@ -54123,6 +55539,12 @@
     "gols": 3
    },
    {
+    "jogador": "Allan",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 2
+   },
+   {
     "jogador": "Amuzu",
     "time": "Grêmio",
     "time_id": 900017,
@@ -54132,6 +55554,12 @@
     "jogador": "Andrés Gómez",
     "time": "Vasco",
     "time_id": 900013,
+    "gols": 2
+   },
+   {
+    "jogador": "Arrascaeta",
+    "time": "Flamengo",
+    "time_id": 900001,
     "gols": 2
    },
    {
@@ -54255,6 +55683,12 @@
     "gols": 2
    },
    {
+    "jogador": "Kike Olivera",
+    "time": "Bahia",
+    "time_id": 900007,
+    "gols": 2
+   },
+   {
     "jogador": "Luiz Araújo",
     "time": "Flamengo",
     "time_id": 900001,
@@ -54273,7 +55707,43 @@
     "gols": 2
    },
    {
+    "jogador": "Matheuzinho",
+    "time": "Vitória",
+    "time_id": 900014,
+    "gols": 2
+   },
+   {
     "jogador": "Maurício",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 2
+   },
+   {
+    "jogador": "Murilo",
+    "time": "Palmeiras",
+    "time_id": 900002,
+    "gols": 2
+   },
+   {
+    "jogador": "Nathan Fogaça",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 2
+   },
+   {
+    "jogador": "Negueba",
+    "time": "Mirassol",
+    "time_id": 900015,
+    "gols": 2
+   },
+   {
+    "jogador": "Puma Rodríguez",
+    "time": "Vasco",
+    "time_id": 900013,
+    "gols": 2
+   },
+   {
+    "jogador": "Ramón Sosa",
     "time": "Palmeiras",
     "time_id": 900002,
     "gols": 2
@@ -54321,6 +55791,12 @@
     "gols": 2
    },
    {
+    "jogador": "Wanderson",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 2
+   },
+   {
     "jogador": "Yuri Alberto",
     "time": "Corinthians",
     "time_id": 900018,
@@ -54339,7 +55815,7 @@
     "gols": 1
    },
    {
-    "jogador": "Allan",
+    "jogador": "Andreas Pereira",
     "time": "Palmeiras",
     "time_id": 900002,
     "gols": 1
@@ -54354,12 +55830,6 @@
     "jogador": "Angileri",
     "time": "Corinthians",
     "time_id": 900018,
-    "gols": 1
-   },
-   {
-    "jogador": "Arrascaeta",
-    "time": "Flamengo",
-    "time_id": 900001,
     "gols": 1
    },
    {
@@ -54396,6 +55866,12 @@
     "jogador": "Bolasie",
     "time": "Chapecoense",
     "time_id": 900020,
+    "gols": 1
+   },
+   {
+    "jogador": "Borré",
+    "time": "Internacional",
+    "time_id": 900016,
     "gols": 1
    },
    {
@@ -54472,6 +55948,12 @@
    },
    {
     "jogador": "Dudu",
+    "time": "Vitória",
+    "time_id": 900014,
+    "gols": 1
+   },
+   {
+    "jogador": "Dudu",
     "time": "Atlético-MG",
     "time_id": 900006,
     "gols": 1
@@ -54492,6 +55974,12 @@
     "jogador": "Edenilson",
     "time": "Botafogo",
     "time_id": 900011,
+    "gols": 1
+   },
+   {
+    "jogador": "Edenílson",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 1
    },
    {
@@ -54528,6 +56016,12 @@
     "jogador": "Everaldo",
     "time": "Bahia",
     "time_id": 900007,
+    "gols": 1
+   },
+   {
+    "jogador": "Everton Cebolinha",
+    "time": "Flamengo",
+    "time_id": 900001,
     "gols": 1
    },
    {
@@ -54573,6 +56067,12 @@
     "gols": 1
    },
    {
+    "jogador": "Gabriel Paulista",
+    "time": "Corinthians",
+    "time_id": 900018,
+    "gols": 1
+   },
+   {
     "jogador": "Gabriel Pereira",
     "time": "Vasco",
     "time_id": 900013,
@@ -54615,12 +56115,6 @@
     "gols": 1
    },
    {
-    "jogador": "Gustavo Gómez",
-    "time": "Palmeiras",
-    "time_id": 900002,
-    "gols": 1
-   },
-   {
     "jogador": "Gustavo Marques",
     "time": "Red Bull Bragantino",
     "time_id": 900010,
@@ -54630,6 +56124,12 @@
     "jogador": "Gustavo Mosquito",
     "time": "Mirassol",
     "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Gustavo Neves",
+    "time": "Red Bull Bragantino",
+    "time_id": 900010,
     "gols": 1
    },
    {
@@ -54675,6 +56175,12 @@
     "gols": 1
    },
    {
+    "jogador": "Jean Carlos",
+    "time": "Chapecoense",
+    "time_id": 900020,
+    "gols": 1
+   },
+   {
     "jogador": "Jorginho",
     "time": "Flamengo",
     "time_id": 900001,
@@ -54717,12 +56223,6 @@
     "gols": 1
    },
    {
-    "jogador": "Kike Olivera",
-    "time": "Bahia",
-    "time_id": 900007,
-    "gols": 1
-   },
-   {
     "jogador": "Labyad",
     "time": "Corinthians",
     "time_id": 900018,
@@ -54738,6 +56238,12 @@
     "jogador": "Luan Peres",
     "time": "Santos",
     "time_id": 900008,
+    "gols": 1
+   },
+   {
+    "jogador": "Lucas",
+    "time": "São Paulo",
+    "time_id": 900009,
     "gols": 1
    },
    {
@@ -54825,12 +56331,6 @@
     "gols": 1
    },
    {
-    "jogador": "Matheuzinho",
-    "time": "Vitória",
-    "time_id": 900014,
-    "gols": 1
-   },
-   {
     "jogador": "Max",
     "time": "Chapecoense",
     "time_id": 900020,
@@ -54879,24 +56379,6 @@
     "gols": 1
    },
    {
-    "jogador": "Murilo",
-    "time": "Palmeiras",
-    "time_id": 900002,
-    "gols": 1
-   },
-   {
-    "jogador": "Nathan Fogaça",
-    "time": "Mirassol",
-    "time_id": 900015,
-    "gols": 1
-   },
-   {
-    "jogador": "Negueba",
-    "time": "Mirassol",
-    "time_id": 900015,
-    "gols": 1
-   },
-   {
     "jogador": "Patrick",
     "time": "Remo",
     "time_id": 900019,
@@ -54927,9 +56409,9 @@
     "gols": 1
    },
    {
-    "jogador": "Puma Rodríguez",
-    "time": "Vasco",
-    "time_id": 900013,
+    "jogador": "Pulgar",
+    "time": "Flamengo",
+    "time_id": 900001,
     "gols": 1
    },
    {
@@ -54946,12 +56428,6 @@
    },
    {
     "jogador": "Ramon Sosa",
-    "time": "Palmeiras",
-    "time_id": 900002,
-    "gols": 1
-   },
-   {
-    "jogador": "Ramón Sosa",
     "time": "Palmeiras",
     "time_id": 900002,
     "gols": 1
@@ -54993,6 +56469,12 @@
     "gols": 1
    },
    {
+    "jogador": "Ronaldo",
+    "time": "Internacional",
+    "time_id": 900016,
+    "gols": 1
+   },
+   {
     "jogador": "Ruan Tressoldi",
     "time": "Atlético-MG",
     "time_id": 900006,
@@ -55026,6 +56508,12 @@
     "jogador": "Tarzia",
     "time": "Vitória",
     "time_id": 900014,
+    "gols": 1
+   },
+   {
+    "jogador": "Tetê",
+    "time": "Grêmio",
+    "time_id": 900017,
     "gols": 1
    },
    {
@@ -55089,12 +56577,6 @@
     "gols": 1
    },
    {
-    "jogador": "Wanderson",
-    "time": "Cruzeiro",
-    "time_id": 900003,
-    "gols": 1
-   },
-   {
     "jogador": "Wesley",
     "time": "Cruzeiro",
     "time_id": 900003,
@@ -55104,6 +56586,12 @@
     "jogador": "Willian Machado",
     "time": "Mirassol",
     "time_id": 900015,
+    "gols": 1
+   },
+   {
+    "jogador": "Zé Rafael",
+    "time": "Santos",
+    "time_id": 900008,
     "gols": 1
    },
    {
