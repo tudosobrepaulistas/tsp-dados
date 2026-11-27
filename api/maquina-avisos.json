@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-27T17:15-03:00",
+ "gerado": "2026-11-27T20:29-03:00",
  "avisos": [
-  {
-   "clube": "itapirense",
-   "nome": "Itapirense",
-   "quando": "2026-11-26T22:26-03:00",
-   "motivo": "sem notícia nas últimas 48h e o clube já teve matéria histórica nos últimos 14 dias",
-   "sugestao": "conferir site/redes oficiais e jornal da cidade: elenco, técnico e pré-temporada da Série A3 2027"
-  },
-  {
-   "clube": "ferroviaria",
-   "nome": "Ferroviária",
-   "quando": "2026-11-26T22:26-03:00",
-   "motivo": "reapresentação marcada para 26/11 sem notícia publicada até 22h; site oficial inacessível",
-   "sugestao": "na manhã de 27/11 conferir site/Instagram oficial, Portal Morada e RCIA: reapresentação, reforços e renovações para Paulistão e Série B 2027"
-  },
   {
    "clube": "comercial",
    "nome": "Comercial",
@@ -420,6 +406,20 @@
    "quando": "2026-11-27T17:15-03:00",
    "motivo": "Renovação de Foguinho só em 1 fonte (DGABC); post oficial bloqueado para leitura",
    "sugestao": "Confirmar no Instagram do São Bernardo FC a renovação de Foguinho até nov/2027 e publicar"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-27T20:29-03:00",
+   "motivo": "Notícia das últimas 24h (risco de novo transfer ban pela ANRESF, Extrato 076/2026, prazo 30/11) só no Futebol Interior; sem segunda fonte nem nota oficial do clube. Kleina 2027 já publicado em 26/11.",
+   "sugestao": "Ponte Preta corre risco de novo transfer ban se não quitar dívidas com Bragantino, Coritiba, Fluminense e funcionários até 30/11 (ANRESF). Fonte: https://www.futebolinterior.com.br/ponte-preta-corre-risco-de-novo-transfer-ban-por-dividas-com-clubes-e-funcionarios/ - confirmar com ge Campinas ou nota do clube."
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-27T20:29-03:00",
+   "motivo": "Renovações de Foguinho e do goleiro Júnior Oliveira até nov/2027 (27/11) só no Diário do Grande ABC; não consegui abrir o site nem o post oficial do clube para a segunda fonte e a foto.",
+   "sugestao": "São Bernardo renova com Foguinho e Júnior Oliveira até novembro de 2027. Fontes: https://www.dgabc.com.br/Noticia/4371156/sao-bernardo-fc-renova-com-foguinho-ate-novembro-de-2027 e https://www.dgabc.com.br/Noticia/4371173/sao-bernardo-renova-contrato-de-goleiro-ate-fim-de-2027 - confirmar no Instagram oficial do Tigre e usar a foto do anúncio."
   }
  ]
 }
