@@ -31,3 +31,4 @@ Lista: Marcelo Marelli, Moisés Egert, Elio Sizenando, Fernando Marchiori, Rapha
 - `python3 ferramentas/pessoas.py prompt "Nome"` dá o prompt (polo da comissão do clube; sem clube = polo lisa azul-marinho).
 - Referência: foto oficial do treinador, de preferência enviada por ele (são parceiros) ou publicada pelo clube. Sem referência, não gera.
 - Gravar: `python3 ferramentas/pessoas.py figurinha "Nome" --img ARQUIVO --ref URL` e depois `gerar`.
+- Títulos e acessos sempre em destaque no topo da página (logo abaixo dos números), com ano, competição e escudo (27/11/2026, Thiago). A resposta rápida cita todos os títulos.
