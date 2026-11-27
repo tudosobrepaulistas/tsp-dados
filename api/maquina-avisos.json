@@ -1,20 +1,6 @@
 {
- "gerado": "2026-11-27T13:32-03:00",
+ "gerado": "2026-11-27T15:28-03:00",
  "avisos": [
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-26T20:31-03:00",
-   "motivo": "Cobertura 6h (26/11 20h): nada novo das últimas 24h com 2 fontes independentes. Pauta do Eberlin (18 reforços) é de 20-21/11 e a frase 'já tem reforços contratados' só aparece no título do Hora Campinas (página não abriu). Única novidade: nota do STJD (26/11) multando a Ponte em R$ 1,6 mil e suspendendo Danilo Barcelos por 2 jogos, sem 2ª fonte independente e sem foto.",
-   "sugestao": "Redator: matéria do julgamento do STJD (https://stjd.org.br/comunicacao/noticias/article-21) com foto de Danilo Barcelos pela Ponte; ou confirmar com Eberlin/clube quais reforços já estão acertados para a reapresentação de 7/12."
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-26T20:31-03:00",
-   "motivo": "Cobertura 6h (26/11 20h): nenhuma notícia do São Bernardo FC entre 25/11 20h e 26/11 20h no Diário do Grande ABC, ABC do ABC, Futebol Interior ou ge; site oficial parado desde 03/2026; Instagram pede login.",
-   "sugestao": "Redator: confirmar com o clube a data da reapresentação para o Paulistão 2027 e se as renovações de Augusto, Alex Alves e Foguinho e a chegada de Alef Manga já foram oficializadas."
-  },
   {
    "clube": "catanduva",
    "nome": "Catanduva",
@@ -420,6 +406,20 @@
    "quando": "2026-11-27T13:32-03:00",
    "motivo": "Busca esgotada; fontes não abriram",
    "sugestao": "Nacional na Copinha: títulos de 1972 e 1988 (FPF, ge/Gazeta)"
+  },
+  {
+   "clube": "pontepreta",
+   "nome": "Ponte Preta",
+   "quando": "2026-11-27T15:28-03:00",
+   "motivo": "Cobertura 6h (27/11): sem fato novo das últimas 24h além da renovação de Gilson Kleina, que o site já publicou em 26/11; Ponte segue sem anunciar reforços para 2027",
+   "sugestao": "Acompanhar o anúncio dos primeiros reforços para a A2 e a Série C (Eberlin disse que nomes saem após pré-contratos e exames) e a reapresentação do elenco"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-27T15:28-03:00",
+   "motivo": "Cobertura 6h (27/11): sem notícia nova confirmada nas últimas 24h; acerto com Cauan de Almeida (18/11) e saídas já cobertos ou antigos",
+   "sugestao": "Confirmar oficialmente o técnico para 2027 (Cauan de Almeida, citado pelo Futebol Interior) e os primeiros reforços para Paulistão e Série B"
   }
  ]
 }
