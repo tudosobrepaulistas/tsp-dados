@@ -28,9 +28,9 @@
       "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
     },
     "tsp-nova-era": {
-      "versao": "1.12.6",
-      "zip": "tsp-nova-era-1.12.6.zip",
-      "notas": "Manchete da home: matéria com a tag \"manchete\" (últimas 36 horas) abre a home como o primeiro card grande, fora do bloco de vídeos. Mantém tudo da 1.12.5."
+      "versao": "1.12.7",
+      "zip": "tsp-nova-era-1.12.7.zip",
+      "notas": "Manchete da home: a matéria escolhida em api/manchete.json (ou com a tag \"manchete\", últimas 36 horas) abre a home como o primeiro card grande, fora do bloco de vídeos. Mantém tudo da 1.12.5."
     },
     "tsp-shopee": {
       "versao": "1.1.0",
