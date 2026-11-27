@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26T06:58:00-03:00",
+ "gerado": "2026-11-27T04:19:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -934,7 +934,9 @@
      "Novo Esporte-MG"
     ],
     "fonte": "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/",
-    "escudos": {}
+    "escudos": {
+     "Caldense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/caldense.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -3575,7 +3577,8 @@
     {
      "temporada": "2023",
      "clube": "Flamengo de Guarulhos",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/flamengo-de-guarulhos.png"
     },
     {
      "temporada": "2022",
@@ -3968,7 +3971,8 @@
      "temporada": "2025",
      "clube": "Operário-MS",
      "funcao": "Treinador",
-     "jogos": 6
+     "jogos": 6,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/operario-ms.png"
     },
     {
      "temporada": "2025",
@@ -5683,7 +5687,8 @@
     {
      "temporada": "2025",
      "clube": "Caldense",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/caldense.png"
     },
     {
      "temporada": "2024",
@@ -5709,7 +5714,8 @@
     {
      "temporada": "2016-2017",
      "clube": "Caldense",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/caldense.png"
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/exclusivo-penapolense-anuncia-tecnico-destaque-da-copa-paulista/",
@@ -5755,7 +5761,7 @@
     "nome": "Figueirense",
     "slug": "",
     "id": 900070,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
    },
    "para": {
     "nome": "Santo André",
@@ -5785,7 +5791,9 @@
     ],
     "obs": "recorte: Série C, Copa do Brasil e Copa Santa Catarina pelo Figueirense",
     "fonte": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional",
-    "escudos": {}
+    "escudos": {
+     "Figueirense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -9354,7 +9362,9 @@
     "minutos": 457,
     "gols": 0,
     "assistencias": 0,
-    "escudos": {}
+    "escudos": {
+     "Caldense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/caldense.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -11502,7 +11512,8 @@
      "clube": "Bangu (sub-17)",
      "jogos": 16,
      "gols": 1,
-     "assistencias": 0
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/bangu.png"
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/guilherme-queiroz/966468",
@@ -12463,7 +12474,9 @@
     "minutos": 1634,
     "gols": 2,
     "assistencias": 4,
-    "escudos": {}
+    "escudos": {
+     "Figueirense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -13892,7 +13905,9 @@
     "minutos": 554,
     "gols": 1,
     "assistencias": 0,
-    "escudos": {}
+    "escudos": {
+     "Botafogo-PB": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/botafogo-pb.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -15281,7 +15296,7 @@
     "nome": "Caldense",
     "slug": "",
     "id": 0,
-    "escudo": ""
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/caldense.png"
    },
    "para": {
     "nome": "Barretos",
@@ -15828,7 +15843,9 @@
     "minutos": 1016,
     "gols": 1,
     "assistencias": 1,
-    "escudos": {}
+    "escudos": {
+     "ABC": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/abc.png"
+    }
    },
    "selos": [],
    "carreira": [],
@@ -16900,7 +16917,8 @@
      "fontes": [
       "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
      ],
-     "obs": "Primeiro trabalho longo como técnico profissional"
+     "obs": "Primeiro trabalho longo como técnico profissional",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/flamengo-de-guarulhos.png"
     },
     {
      "temporada": "2021",
@@ -16913,7 +16931,8 @@
      "fontes": [
       "https://www.futebolinterior.com.br/marilia-apresenta-marcelo-marelli/"
      ],
-     "obs": ""
+     "obs": "",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/bangu.png"
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/marilia-oficializa-o-novo-treinador-para-a-serie-a2-de-2027/",
@@ -17110,7 +17129,8 @@
     {
      "temporada": "2019-2020",
      "clube": "Maringá",
-     "funcao": "Treinador (sub-17)"
+     "funcao": "Treinador (sub-17)",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/maringa.png"
     },
     {
      "temporada": "2012-2014",
@@ -17645,7 +17665,8 @@
     {
      "temporada": "2012",
      "clube": "Oeste",
-     "funcao": "Treinador"
+     "funcao": "Treinador",
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/oeste.png"
     },
     {
      "temporada": "2007",

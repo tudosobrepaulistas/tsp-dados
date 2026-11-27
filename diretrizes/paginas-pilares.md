@@ -6,7 +6,7 @@ Lista: Marcelo Marelli, Moisés Egert, Elio Sizenando, Fernando Marchiori, Rapha
 ## Onde fica
 - Dados: `dados/pessoas.json` → `python3 ferramentas/pessoas.py gerar` → `api/pessoas.json` (o tema 1.12.0+ lê a cada 30 min).
 - Endereço fixo: `/treinador/<nome>/` (não muda quando troca de clube; o endereço antigo com o clube dá 301).
-- Mapa do site: `/pessoas-sitemap.xml` (entra no índice do Yoast).
+- Mapa do site: `/tsp-mapa-treinadores.xml` (entra no índice do Yoast).
 - Link automático: a primeira menção do nome numa matéria vira link para a página pilar.
 - A página do episódio do TSP Exclusiva ganha "Perfil completo de X".
 

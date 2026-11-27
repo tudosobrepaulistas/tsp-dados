@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26T06:58:00-03:00",
+ "gerado": "2026-11-27T04:19:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -849,7 +849,7 @@
      "numero": 22,
      "numeros": {
       "jogos": 1,
-      "gols": 0,
+      "gols": 1,
       "minutos": 68,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
@@ -1061,7 +1061,7 @@
      "posicao": "Zagueiro",
      "numeros": {
       "jogos": 10,
-      "gols": 0,
+      "gols": 1,
       "minutos": 856,
       "minutos_estimados": false,
       "clube": "Corinthians",
@@ -1185,7 +1185,7 @@
      "posicao": "Lateral",
      "numeros": {
       "jogos": 15,
-      "gols": 3,
+      "gols": 4,
       "minutos": 1183,
       "minutos_estimados": true,
       "clube": "Corinthians",
@@ -1965,7 +1965,7 @@
      "numero": 11,
      "numeros": {
       "jogos": 4,
-      "gols": 1,
+      "gols": 2,
       "minutos": 316,
       "minutos_estimados": false,
       "clube": "Mirassol",
@@ -1981,7 +1981,7 @@
      "numero": 9,
      "numeros": {
       "jogos": 6,
-      "gols": 2,
+      "gols": 3,
       "minutos": 224,
       "minutos_estimados": true,
       "clube": "Mirassol",
@@ -2642,7 +2642,7 @@
      "numero": 15,
      "numeros": {
       "jogos": 12,
-      "gols": 1,
+      "gols": 3,
       "minutos": 1044,
       "minutos_estimados": false,
       "clube": "Palmeiras",
@@ -2658,7 +2658,7 @@
      "numero": 26,
      "numeros": {
       "jogos": 11,
-      "gols": 1,
+      "gols": 2,
       "minutos": 922,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2732,7 +2732,7 @@
      "numero": 8,
      "numeros": {
       "jogos": 12,
-      "gols": 0,
+      "gols": 1,
       "minutos": 776,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2828,7 +2828,7 @@
      "numero": 18,
      "numeros": {
       "jogos": 12,
-      "gols": 6,
+      "gols": 7,
       "minutos": 606,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2881,7 +2881,7 @@
      "numero": 19,
      "numeros": {
       "jogos": 8,
-      "gols": 2,
+      "gols": 3,
       "minutos": 322,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2897,7 +2897,7 @@
      "numero": 9,
      "numeros": {
       "jogos": 11,
-      "gols": 3,
+      "gols": 4,
       "minutos": 594,
       "minutos_estimados": true,
       "clube": "Palmeiras",
@@ -2949,9 +2949,9 @@
      "posicao": "Zagueiro",
      "numero": 5,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 0,
-      "minutos": 630,
+      "minutos": 720,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -2966,7 +2966,7 @@
      "numero": 7,
      "numeros": {
       "jogos": 5,
-      "gols": 1,
+      "gols": 2,
       "minutos": 229,
       "minutos_estimados": true,
       "clube": "São Paulo",
@@ -2997,9 +2997,9 @@
      "posicao": "Atacante",
      "numero": 9,
      "numeros": {
-      "jogos": 9,
-      "gols": 1,
-      "minutos": 546,
+      "jogos": 10,
+      "gols": 5,
+      "minutos": 636,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3013,9 +3013,9 @@
      "posicao": "Atacante",
      "numero": 10,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 2,
-      "minutos": 593,
+      "minutos": 661,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3045,9 +3045,9 @@
      "posicao": "Lateral",
      "numero": 12,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 0,
-      "minutos": 406,
+      "minutos": 496,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3077,9 +3077,9 @@
      "posicao": "Meia",
      "numero": 16,
      "numeros": {
-      "jogos": 7,
+      "jogos": 8,
       "gols": 1,
-      "minutos": 518,
+      "minutos": 608,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3178,9 +3178,9 @@
      "posicao": "Goleiro",
      "numero": 23,
      "numeros": {
-      "jogos": 12,
+      "jogos": 13,
       "gols": 0,
-      "minutos": 1080,
+      "minutos": 1170,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3215,9 +3215,9 @@
      "posicao": "Meia",
      "numero": 29,
      "numeros": {
-      "jogos": 8,
+      "jogos": 9,
       "gols": 0,
-      "minutos": 523,
+      "minutos": 591,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3236,9 +3236,9 @@
      "posicao": "Lateral",
      "numero": 32,
      "numeros": {
-      "jogos": 5,
+      "jogos": 6,
       "gols": 1,
-      "minutos": 428,
+      "minutos": 496,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3284,9 +3284,9 @@
      "posicao": "Atacante",
      "numero": 37,
      "numeros": {
-      "jogos": 6,
+      "jogos": 7,
       "gols": 0,
-      "minutos": 496,
+      "minutos": 564,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -3305,9 +3305,9 @@
      "posicao": "Atacante",
      "numero": 43,
      "numeros": {
-      "jogos": 2,
+      "jogos": 3,
       "gols": 1,
-      "minutos": 84,
+      "minutos": 106,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3321,9 +3321,9 @@
      "posicao": "Atacante",
      "numero": 45,
      "numeros": {
-      "jogos": 4,
+      "jogos": 5,
       "gols": 0,
-      "minutos": 88,
+      "minutos": 110,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3337,9 +3337,9 @@
      "posicao": "Meia",
      "numero": 46,
      "numeros": {
-      "jogos": 1,
+      "jogos": 2,
       "gols": 0,
-      "minutos": 22,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3369,9 +3369,9 @@
      "posicao": "Atacante",
      "numero": 49,
      "numeros": {
-      "jogos": 1,
-      "gols": 0,
-      "minutos": 22,
+      "jogos": 2,
+      "gols": 1,
+      "minutos": 44,
       "minutos_estimados": true,
       "clube": "São Paulo",
       "clubes": [
@@ -3400,9 +3400,9 @@
      "posicao": "Zagueiro",
      "numero": 54,
      "numeros": {
-      "jogos": 3,
+      "jogos": 4,
       "gols": 0,
-      "minutos": 270,
+      "minutos": 360,
       "minutos_estimados": false,
       "clube": "São Paulo",
       "clubes": [
@@ -5150,7 +5150,9 @@
       "minutos": 1016,
       "gols": 1,
       "assistencias": 1,
-      "escudos": {}
+      "escudos": {
+       "ABC": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/abc.png"
+      }
      },
      "selos": [],
      "nascimento": "1999-02-22",
@@ -5230,7 +5232,9 @@
       "minutos": 554,
       "gols": 1,
       "assistencias": 0,
-      "escudos": {}
+      "escudos": {
+       "Botafogo-PB": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/botafogo-pb.png"
+      }
      },
      "selos": [],
      "nascimento": "1997-07-28",
@@ -5333,7 +5337,9 @@
       ],
       "obs": "recorte: Série C, Copa do Brasil e Copa Santa Catarina pelo Figueirense",
       "fonte": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional",
-      "escudos": {}
+      "escudos": {
+       "Figueirense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
+      }
      },
      "selos": [],
      "nascimento": "",
@@ -7976,7 +7982,9 @@
       "minutos": 457,
       "gols": 0,
       "assistencias": 0,
-      "escudos": {}
+      "escudos": {
+       "Caldense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/caldense.png"
+      }
      },
      "selos": [],
      "nascimento": "1998-11-17",
@@ -10887,7 +10895,9 @@
       "minutos": 1634,
       "gols": 2,
       "assistencias": 4,
-      "escudos": {}
+      "escudos": {
+       "Figueirense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
+      }
      },
      "selos": [],
      "nascimento": "2001-10-16",
@@ -11953,7 +11963,9 @@
        "Novo Esporte-MG"
       ],
       "fonte": "https://www.futebolinterior.com.br/tanabi-mais-2-retornos-para-2027/",
-      "escudos": {}
+      "escudos": {
+       "Caldense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/caldense.png"
+      }
      },
      "selos": [],
      "nascimento": "",
