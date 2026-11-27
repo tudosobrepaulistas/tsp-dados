@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-27T05:14:00-03:00",
+ "gerado": "2026-11-27T06:59:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -5787,6 +5787,46 @@
    "ficha": {},
    "comissao": false,
    "dono": "ituano"
+  },
+  {
+   "id": "2026-11-13-vinicius-bergantin-chapecoense",
+   "data": "2026-11-13",
+   "jogador": "Vinícius Bergantin",
+   "posicao": "Treinador",
+   "tipo": "saida",
+   "tipo_nome": "Saída",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Deixou o São Bernardo após o empate por 2 a 2 com o Athletic (12/11) e assinou com a Chapecoense até novembro de 2027. No São Bernardo: 18 jogos, 7 vitórias, 5 empates e 6 derrotas.",
+   "de": {
+    "nome": "São Bernardo",
+    "slug": "saobernardo",
+    "id": 900031,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Chapecoense",
+    "slug": "",
+    "id": 900020,
+    "escudo": ""
+   },
+   "blocos": [
+    "b",
+    "d1"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/chapecoense-anuncia-vinicius-bergantin-como-novo-tecnico,cb0913ced915ebce664fca374cb884f676d0gb0o.html",
+    "https://www.terra.com.br/esportes/chapecoense/quem-e-vinicius-bergantin-novo-tecnico-da-chapecoense-veja,d7fdb79e15a61e5eaefd664ba3e377bfoabu8rfo.html"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {},
+   "comissao": true,
+   "dono": "saobernardo"
   },
   {
    "id": "2026-11-13-thiago-oliveira-penapolense",

@@ -195,6 +195,21 @@
      "https://diariodevotuporanga.com.br/cav-anuncia-goleiro-de-198m-e-chega-perto-de-fechar-elenco-para-a-serie-a2/"
     ]
    }
+  ],
+  "sao-paulo-feminino": [
+   {
+    "id": "comissao-sao-paulo-feminino-thiago-viana",
+    "nome": "Thiago Viana",
+    "funcao": "Treinador",
+    "fontes": [
+     "https://www.dgabc.com.br/Noticia/4350625/sao-paulo-bate-corinthians-e-conquista-brasileiro-feminino",
+     "https://www.lance.com.br/futebol-feminino/treinador-thiago-viana-renova-sao-paulo-2027.html"
+    ],
+    "ficha": {
+     "contrato": "até 31 de dezembro de 2027",
+     "fonte": "https://www.lance.com.br/futebol-feminino/treinador-thiago-viana-renova-sao-paulo-2027.html"
+    }
+   }
   ]
  }
 }
