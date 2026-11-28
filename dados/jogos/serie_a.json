@@ -18589,22 +18589,31 @@
    "data": "2026-11-27T20:00:00-03:00",
    "casa": "fluminense",
    "fora": "cruzeiro",
-   "status": "agendado",
+   "status": "encerrado",
    "rodada": "37",
    "fase": "",
    "grupo": "",
    "estadio": "Maracanã",
    "cidade": "Rio de Janeiro",
-   "gols_casa": null,
-   "gols_fora": null,
+   "gols_casa": 0,
+   "gols_fora": 1,
    "penaltis": "",
-   "minuto": 0,
-   "gols": [],
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Kaio Jorge",
+     "minuto": "2",
+     "tipo": "normal"
+    }
+   ],
    "obs": "",
    "fontes": [
-    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-vence-fluminense-e-assegura-terceiro-lugar-no-brasileirao/",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/11/27/analise-com-2-tempo-heroico-cruzeiro-vence-o-fluminense-e-garante-3-lugar-no-brasileirao"
    ],
-   "atualizado": "2026-11-21T01:59:00-03:00",
+   "atualizado": "2026-11-27T22:10:00-03:00",
    "prejogo": {
     "analise": [
      "Fluminense e Cruzeiro se enfrentam na sexta-feira (27/11), às 20h, no Maracanã, pela 37ª e penúltima rodada do Brasileirão, num confronto direto pelo terceiro lugar. Pela Base TSP, o Cruzeiro é o 3º colocado, com 66 pontos em 36 jogos, e o Fluminense vem logo atrás, em 4º, com 63. Segundo O Tempo, a Raposa já não alcança o Palmeiras (2º, com 74) e já tem vaga garantida na fase de grupos da Libertadores 2027.",
@@ -18693,6 +18702,64 @@
      ],
      "atualizado": "2026-11-27T14:25:00-03:00"
     }
+   },
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Thiago Silva, Ignácio, Renê; Hércules, Martinelli, Lucho Acosta; Jefferson Savarino, Agustín Canobbio, Castillo",
+     "entraram": [
+      {
+       "jogador": "Nonato",
+       "saiu": "Hércules",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Agustín Canobbio",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Kauã Moraes, Fabrício Bruno, Jonathan Jesus, Villalba; Zé Lucas, Matheus Henrique, Gerson, Matheus Pereira; Bruno Rodrigues, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Fagner",
+       "saiu": "Kauã Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Viña",
+       "saiu": "Villalba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Alves",
+       "saiu": "Gerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Morais",
+       "saiu": "Bruno Rodrigues",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.otempo.com.br/sports/cruzeiro/2026/11/27/analise-com-2-tempo-heroico-cruzeiro-vence-o-fluminense-e-garante-3-lugar-no-brasileirao"
+    ],
+    "atualizado": "2026-11-27T22:10:00-03:00"
    }
   },
   {

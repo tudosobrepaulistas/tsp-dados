@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-27T15:19:00-03:00",
+ "gerado": "2026-11-27T22:10:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -56,24 +56,24 @@
     {
      "id": 900003,
      "nome": "Cruzeiro",
-     "pts": 66,
-     "j": 36,
-     "v": 20,
+     "pts": 69,
+     "j": 37,
+     "v": 21,
      "e": 6,
      "d": 10,
-     "gp": 59,
+     "gp": 60,
      "gc": 50
     },
     {
      "id": 900005,
      "nome": "Fluminense",
      "pts": 63,
-     "j": 36,
+     "j": 37,
      "v": 18,
      "e": 9,
-     "d": 9,
+     "d": 10,
      "gp": 57,
-     "gc": 42
+     "gc": 43
     },
     {
      "id": 900004,
@@ -253,14 +253,6 @@
     }
    ],
    "jogos": [
-    {
-     "id": 91000428,
-     "rodada": "37",
-     "data": "2026-11-27T20:00",
-     "casa": 900005,
-     "fora": 900003,
-     "a_confirmar": false
-    },
     {
      "id": 91000429,
      "rodada": "37",
@@ -1861,6 +1853,12 @@
      900009,
      900019,
      3,
+     1
+    ],
+    [
+     900005,
+     900003,
+     0,
      1
     ]
    ]
@@ -25637,14 +25635,16 @@
    "temporada": 2026,
    "obs": "",
    "fontes": [
-    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/"
+    "https://diariodopara.com.br/bola/cbf-tabela-rodadas-finais-brasileirao-datas-horarios-locais/",
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-vence-fluminense-e-assegura-terceiro-lugar-no-brasileirao/",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/11/27/analise-com-2-tempo-heroico-cruzeiro-vence-o-fluminense-e-garante-3-lugar-no-brasileirao"
    ],
    "fixture": {
     "id": 91000428,
     "timestamp": 1795820400,
     "status": {
-     "short": "NS",
-     "elapsed": null
+     "short": "FT",
+     "elapsed": 90
     },
     "venue": {
      "name": "Maracanã",
@@ -25666,8 +25666,8 @@
     }
    },
    "goals": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "penaltis": "",
    "prejogo": {
@@ -25759,22 +25759,83 @@
      "atualizado": "2026-11-27T14:25:00-03:00"
     }
    },
-   "escalacoes": {},
-   "previsao": {
-    "casa": 51,
-    "empate": 25,
-    "fora": 24,
-    "placar": "1x1",
-    "gols_esperados": [
-     1.61,
-     1.04
+   "escalacoes": {
+    "casa": {
+     "tecnico": "Marcão",
+     "time": "Fábio; Guga, Thiago Silva, Ignácio, Renê; Hércules, Martinelli, Lucho Acosta; Jefferson Savarino, Agustín Canobbio, Castillo",
+     "entraram": [
+      {
+       "jogador": "Nonato",
+       "saiu": "Hércules",
+       "minuto": ""
+      },
+      {
+       "jogador": "Ganso",
+       "saiu": "Lucho Acosta",
+       "minuto": ""
+      },
+      {
+       "jogador": "Riquelme",
+       "saiu": "Agustín Canobbio",
+       "minuto": ""
+      }
+     ]
+    },
+    "fora": {
+     "tecnico": "Artur Jorge",
+     "time": "Otávio; Kauã Moraes, Fabrício Bruno, Jonathan Jesus, Villalba; Zé Lucas, Matheus Henrique, Gerson, Matheus Pereira; Bruno Rodrigues, Kaio Jorge",
+     "entraram": [
+      {
+       "jogador": "Fagner",
+       "saiu": "Kauã Moraes",
+       "minuto": ""
+      },
+      {
+       "jogador": "Viña",
+       "saiu": "Villalba",
+       "minuto": ""
+      },
+      {
+       "jogador": "Lucas Silva",
+       "saiu": "Zé Lucas",
+       "minuto": ""
+      },
+      {
+       "jogador": "Gustavo Alves",
+       "saiu": "Gerson",
+       "minuto": ""
+      },
+      {
+       "jogador": "Felipe Morais",
+       "saiu": "Bruno Rodrigues",
+       "minuto": ""
+      }
+     ]
+    },
+    "fontes": [
+     "https://www.otempo.com.br/sports/cruzeiro/2026/11/27/analise-com-2-tempo-heroico-cruzeiro-vence-o-fluminense-e-garante-3-lugar-no-brasileirao"
     ],
-    "base": [
-     30,
-     40
-    ]
+    "atualizado": "2026-11-27T22:10:00-03:00"
    },
-   "events": []
+   "previsao": null,
+   "events": [
+    {
+     "time": {
+      "elapsed": 2,
+      "extra": null,
+      "texto": "2"
+     },
+     "team": {
+      "id": 900003,
+      "name": "Cruzeiro"
+     },
+     "player": {
+      "name": "Kaio Jorge"
+     },
+     "type": "Goal",
+     "detail": "Normal Goal"
+    }
+   ]
   },
   {
    "liga": "serie_a",
@@ -26022,7 +26083,7 @@
    },
    "escalacoes": {},
    "previsao": {
-    "casa": 21,
+    "casa": 20,
     "empate": 24,
     "fora": 55,
     "placar": "0x1",
@@ -26830,7 +26891,7 @@
     "placar": "2x1",
     "gols_esperados": [
      2.04,
-     1.1
+     1.11
     ],
     "base": [
      26,
@@ -26992,17 +27053,17 @@
    "prejogo": {},
    "escalacoes": {},
    "previsao": {
-    "casa": 48,
+    "casa": 49,
     "empate": 25,
-    "fora": 27,
+    "fora": 26,
     "placar": "1x1",
     "gols_esperados": [
      1.58,
-     1.13
+     1.1
     ],
     "base": [
      25,
-     30
+     31
     ]
    },
    "events": []
@@ -27050,14 +27111,14 @@
    "previsao": {
     "casa": 55,
     "empate": 23,
-    "fora": 23,
+    "fora": 22,
     "placar": "1x1",
     "gols_esperados": [
-     1.88,
-     1.13
+     1.86,
+     1.1
     ],
     "base": [
-     40,
+     41,
      39
     ]
    },
@@ -27166,7 +27227,7 @@
     "placar": "1x0",
     "gols_esperados": [
      1.6,
-     0.93
+     0.94
     ],
     "base": [
      36,
@@ -54751,14 +54812,14 @@
       3,
       900003,
       "Cruzeiro",
-      66,
-      36,
-      20,
+      69,
+      37,
+      21,
       6,
       10,
-      9,
+      10,
       "",
-      59,
+      60,
       50
      ],
      [
@@ -54766,14 +54827,14 @@
       900005,
       "Fluminense",
       63,
-      36,
+      37,
       18,
       9,
-      9,
-      15,
+      10,
+      14,
       "",
       57,
-      42
+      43
      ],
      [
       5,
@@ -55346,6 +55407,12 @@
     "gols": 6
    },
    {
+    "jogador": "Kaio Jorge",
+    "time": "Cruzeiro",
+    "time_id": 900003,
+    "gols": 6
+   },
+   {
     "jogador": "Renê",
     "time": "Vitória",
     "time_id": 900014,
@@ -55373,12 +55440,6 @@
     "jogador": "Danilo",
     "time": "Botafogo",
     "time_id": 900011,
-    "gols": 5
-   },
-   {
-    "jogador": "Kaio Jorge",
-    "time": "Cruzeiro",
-    "time_id": 900003,
     "gols": 5
    },
    {
