@@ -1714,6 +1714,42 @@
    }
   },
   {
+   "id": 91000594,
+   "data": "2026-02-25T19:00:00-03:00",
+   "casa": "bragantino",
+   "fora": "athletico-pr",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Estádio Cícero de Souza Marques",
+   "cidade": "Bragança Paulista",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Juninho Capixaba",
+     "minuto": "42",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "Julimar",
+     "minuto": "78",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-02/confira-resultados-dos-jogos-de-quarta-e-proximas-partidas-de-futebol-0",
+    "https://www.gazetaesportiva.com/times/bragantino/com-dois-a-menos-bragantino-segura-empate-com-o-athletico-pr-pelo-brasileirao/"
+   ],
+   "atualizado": "2026-11-28T03:32:00-03:00"
+  },
+  {
    "id": 91000344,
    "data": "2026-02-25T19:30:00-03:00",
    "casa": "coritiba",
@@ -1839,6 +1875,42 @@
     ],
     "atualizado": "2026-11-13T03:35:00-03:00"
    }
+  },
+  {
+   "id": 91000595,
+   "data": "2026-02-25T20:00:00-03:00",
+   "casa": "cruzeiro",
+   "fora": "corinthians",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Mineirão",
+   "cidade": "Belo Horizonte",
+   "gols_casa": 1,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Matheus Pereira",
+     "minuto": "8",
+     "tipo": "normal"
+    },
+    {
+     "lado": "fora",
+     "jogador": "João Pedro Tchoca",
+     "minuto": "81",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-02/confira-resultados-dos-jogos-de-quarta-e-proximas-partidas-de-futebol-0",
+    "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-a/corinthians-aproveita-expulsao-e-busca-empate-com-o-cruzeiro-pelo-brasileiro/"
+   ],
+   "atualizado": "2026-11-28T03:32:00-03:00"
   },
   {
    "id": 91000393,
@@ -1987,6 +2059,29 @@
     ],
     "atualizado": "2026-11-18T03:38:00-03:00"
    }
+  },
+  {
+   "id": 91000596,
+   "data": "2026-02-25T21:30:00-03:00",
+   "casa": "gremio",
+   "fora": "atletico-mg",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena do Grêmio",
+   "cidade": "Porto Alegre",
+   "gols_casa": 2,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://agenciabrasil.ebc.com.br/radioagencia-nacional/esportes/audio/2026-02/confira-resultados-dos-jogos-de-quarta-e-proximas-partidas-de-futebol-0",
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/com-um-a-menos-atletico-perde-para-o-gremio-e-segue-sem-vencer-no-brasileirao/"
+   ],
+   "atualizado": "2026-11-28T03:32:00-03:00"
   },
   {
    "id": 91000363,
@@ -5925,6 +6020,42 @@
    "atualizado": "2026-11-25T03:37:00-03:00"
   },
   {
+   "id": 91000597,
+   "data": "2026-07-17T19:30:00-03:00",
+   "casa": "bahia",
+   "fora": "chapecoense",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Arena Fonte Nova",
+   "cidade": "Salvador",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Rodrigo Nestor",
+     "minuto": "",
+     "tipo": "penalti"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Román Gómez",
+     "minuto": "33",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.correio24horas.com.br/esportes/bahia-resolve-no-primeiro-tempo-e-vence-a-chapecoense-em-retorno-ao-brasileirao-0726",
+    "https://www.bahianoticias.com.br/esportes/bahia/33847-na-volta-do-brasileirao-bahia-bate-a-chapecoense-e-segue-colado-no-g4"
+   ],
+   "atualizado": "2026-11-28T03:32:00-03:00"
+  },
+  {
    "id": 91000399,
    "data": "2026-07-17T20:00:00-03:00",
    "casa": "fluminense",
@@ -6087,6 +6218,29 @@
     ],
     "atualizado": "2026-11-20T03:46:00-03:00"
    }
+  },
+  {
+   "id": 91000598,
+   "data": "2026-07-23T19:30:00-03:00",
+   "casa": "botafogo",
+   "fora": "vitoria",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Estádio Nilton Santos",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 0,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [],
+   "obs": "",
+   "fontes": [
+    "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-acumula-chances-perdidas-e-empata-com-vitoria-pelo-brasileirao/",
+    "https://www.gazetaesportiva.com/times/botafogo/botafogo-vitoria-empate-lucas-arcanjo-brasileirao/"
+   ],
+   "atualizado": "2026-11-28T03:32:00-03:00"
   },
   {
    "id": 91000543,
@@ -9083,6 +9237,42 @@
     "https://www.band.com.br/esportes/remo-2-x-3-coritiba-virada-e-coxa-perto-do-g5-do-brasileirao"
    ],
    "atualizado": "2026-11-22T12:22:00-03:00"
+  },
+  {
+   "id": 91000599,
+   "data": "2026-09-02T19:30:00-03:00",
+   "casa": "flamengo",
+   "fora": "mirassol",
+   "status": "encerrado",
+   "rodada": "4",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Maracanã",
+   "cidade": "Rio de Janeiro",
+   "gols_casa": 2,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Carrascal",
+     "minuto": "13",
+     "tipo": "normal"
+    },
+    {
+     "lado": "casa",
+     "jogador": "Lucas Paquetá",
+     "minuto": "42",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.flamengo.com.br/en/noticias/futebol/flamengo-clinch-commanding-2-0-win-over-mirassol-close-to-one-point-of-brasileirao-summit",
+    "https://www.diariodorio.com/esporte/flamengo/2026/09/03/melhores-momentos-de-flamengo-2-x-0-mirassol-jogo-atrasado-da-4-rodada-do-brasileirao.html"
+   ],
+   "atualizado": "2026-11-28T03:32:00-03:00"
   },
   {
    "id": 91000493,

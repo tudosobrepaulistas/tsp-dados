@@ -18,6 +18,12 @@
   "gols": 8
  },
  {
+  "jogador": "Matheus Pereira",
+  "time": "Cruzeiro",
+  "time_id": 900003,
+  "gols": 8
+ },
+ {
   "jogador": "Pedro",
   "time": "Flamengo",
   "time_id": 900001,
@@ -27,12 +33,6 @@
   "jogador": "John Kennedy",
   "time": "Fluminense",
   "time_id": 900005,
-  "gols": 7
- },
- {
-  "jogador": "Matheus Pereira",
-  "time": "Cruzeiro",
-  "time_id": 900003,
   "gols": 7
  },
  {
@@ -84,6 +84,12 @@
   "gols": 5
  },
  {
+  "jogador": "Carrascal",
+  "time": "Flamengo",
+  "time_id": 900001,
+  "gols": 5
+ },
+ {
   "jogador": "Danilo",
   "time": "Botafogo",
   "time_id": 900011,
@@ -93,12 +99,6 @@
   "jogador": "Carbonero",
   "time": "Internacional",
   "time_id": 900016,
-  "gols": 4
- },
- {
-  "jogador": "Carrascal",
-  "time": "Flamengo",
-  "time_id": 900001,
   "gols": 4
  },
  {
@@ -414,9 +414,21 @@
   "gols": 2
  },
  {
+  "jogador": "Julimar",
+  "time": "Athletico-PR",
+  "time_id": 900004,
+  "gols": 2
+ },
+ {
   "jogador": "Juninho",
   "time": "Internacional",
   "time_id": 900016,
+  "gols": 2
+ },
+ {
+  "jogador": "Juninho Capixaba",
+  "time": "Red Bull Bragantino",
+  "time_id": 900010,
   "gols": 2
  },
  {
@@ -501,6 +513,12 @@
   "jogador": "Rodrigo Moledo",
   "time": "Coritiba",
   "time_id": 900012,
+  "gols": 2
+ },
+ {
+  "jogador": "Rodrigo Nestor",
+  "time": "Bahia",
+  "time_id": 900007,
   "gols": 2
  },
  {
@@ -936,15 +954,9 @@
   "gols": 1
  },
  {
-  "jogador": "Julimar",
-  "time": "Athletico-PR",
-  "time_id": 900004,
-  "gols": 1
- },
- {
-  "jogador": "Juninho Capixaba",
-  "time": "Red Bull Bragantino",
-  "time_id": 900010,
+  "jogador": "João Pedro Tchoca",
+  "time": "Corinthians",
+  "time_id": 900018,
   "gols": 1
  },
  {
@@ -1005,6 +1017,12 @@
   "jogador": "Lucas Moura",
   "time": "São Paulo",
   "time_id": 900009,
+  "gols": 1
+ },
+ {
+  "jogador": "Lucas Paquetá",
+  "time": "Flamengo",
+  "time_id": 900001,
   "gols": 1
  },
  {
@@ -1206,7 +1224,7 @@
   "gols": 1
  },
  {
-  "jogador": "Rodrigo Nestor",
+  "jogador": "Román Gómez",
   "time": "Bahia",
   "time_id": 900007,
   "gols": 1

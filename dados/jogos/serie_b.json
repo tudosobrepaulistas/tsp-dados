@@ -1415,6 +1415,36 @@
    "atualizado": "2026-11-11T18:43:00-03:00"
   },
   {
+   "id": 91000600,
+   "data": "2026-04-01T21:30:00-03:00",
+   "casa": "crb",
+   "fora": "avai",
+   "status": "encerrado",
+   "rodada": "2",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Estádio Rei Pelé",
+   "cidade": "Maceió",
+   "gols_casa": 0,
+   "gols_fora": 1,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "fora",
+     "jogador": "Walace",
+     "minuto": "",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/ao-vivo/crb-x-avai/94463/",
+    "https://www.gazetadealagoas.com.br/esportes/889964/crb-sofre-gol-no-fim-e-perde-para-o-avai-na-serie-b-1-a-0"
+   ],
+   "atualizado": "2026-11-28T03:34:00-03:00"
+  },
+  {
    "id": 91000556,
    "data": "2026-04-02T12:00:00-03:00",
    "casa": "sao-bernardo",
@@ -2117,6 +2147,36 @@
     ],
     "atualizado": "2026-11-10T18:38:00-03:00"
    }
+  },
+  {
+   "id": 91000601,
+   "data": "2026-04-06T21:00:00-03:00",
+   "casa": "goias",
+   "fora": "criciuma",
+   "status": "encerrado",
+   "rodada": "3",
+   "fase": "",
+   "grupo": "",
+   "estadio": "Estádio da Serrinha",
+   "cidade": "Goiânia",
+   "gols_casa": 1,
+   "gols_fora": 0,
+   "penaltis": "",
+   "minuto": 90,
+   "gols": [
+    {
+     "lado": "casa",
+     "jogador": "Cadu",
+     "minuto": "58",
+     "tipo": "normal"
+    }
+   ],
+   "obs": "",
+   "fontes": [
+    "https://www.gazetaesportiva.com/times/goias/em-casa-goias-vence-o-criciuma-e-assume-a-lideranca-da-serie-b/",
+    "https://www.dm.com.br/esportes/goias-vence-criciuma-por-1-a-0-e-assume-a-lideranca-da-serie-b-em-noite-de-aniversario-na-serrinha/"
+   ],
+   "atualizado": "2026-11-28T03:34:00-03:00"
   },
   {
    "id": 91000456,
