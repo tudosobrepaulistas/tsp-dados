@@ -4,6 +4,8 @@ Esta é a base própria de jogos do tudosobrepaulista.com.br: calendário, resul
 das competições com clubes paulistas. O site lê `api/tsp.json` a cada 15 minutos (plugin TSP Jogos).
 O dono é jornalista e leigo em programação: qualquer resumo para ele é curto, em português simples.
 
+**Começo de conversa nova:** leia `diretrizes/estado-atual.md` (o que foi feito, versões, tarefas agendadas e pendências).
+
 ## Como a base é mantida
 - `dados/competicoes.json`: competições acompanhadas e o status (ativa, verificar, aguardando, encerrada).
 - `dados/times.json`: times. `slug_tsp` = endereço do clube no site (só clubes paulistas; os outros ficam "").
