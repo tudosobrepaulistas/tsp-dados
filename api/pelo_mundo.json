@@ -1,0 +1,446 @@
+{
+ "_leia": "Gerado por ferramentas/pelo_mundo.py. Não edite.",
+ "gerado": "2026-11-28T01:10-03:00",
+ "numeros": {
+  "jogadores": 7,
+  "paises": 6,
+  "clubes_origem": 4,
+  "titulos_ano": 1,
+  "ano": "2026"
+ },
+ "ligas_ativas": [
+  "campeonato-espanhol",
+  "campeonato-ingles",
+  "campeonato-japones",
+  "campeonato-portugues",
+  "campeonato-russo",
+  "campeonato-saudita"
+ ],
+ "tipos_destaque": {
+  "titulo": "Título",
+  "gol": "Gol",
+  "transferencia": "Transferência",
+  "marco": "Marco",
+  "selecao": "Seleção"
+ },
+ "jogadores": [
+  {
+   "nome": "Gabriel Martinelli",
+   "nome_completo": "Gabriel Teodoro Martinelli Silva",
+   "posicao": "Atacante",
+   "nascimento": "2001-06-18",
+   "origem": [
+    {
+     "slug": "ituano",
+     "tipo": "base",
+     "ate": 2019,
+     "obs": "Revelado pelo Ituano; destaque do Paulistão de 2019",
+     "clube": "Ituano"
+    }
+   ],
+   "atual": {
+    "clube": "Al-Hilal",
+    "pais": "Arábia Saudita",
+    "liga": "Saudi Pro League",
+    "divisao": 1,
+    "desde": "2026",
+    "bandeira": "🇸🇦",
+    "continente": "asia",
+    "liga_slug": "campeonato-saudita"
+   },
+   "trajetoria": [
+    {
+     "ano": "2017-2019",
+     "clube": "Ituano",
+     "pais": "Brasil",
+     "obs": "Estreou aos 16 anos",
+     "fonte": "https://www.lance.com.br/futebol-internacional/al-hilal-anuncia-gabriel-martinelli-ex-arsenal.html"
+    },
+    {
+     "ano": "2019-2026",
+     "clube": "Arsenal",
+     "pais": "Inglaterra",
+     "obs": "278 jogos, 62 gols e 34 assistências",
+     "fonte": "https://www.lance.com.br/futebol-internacional/al-hilal-anuncia-gabriel-martinelli-ex-arsenal.html"
+    },
+    {
+     "ano": "2026",
+     "clube": "Al-Hilal",
+     "pais": "Arábia Saudita",
+     "obs": "Contrato até 2030",
+     "fonte": "https://www.correio24horas.com.br/esportes/atacante-da-selecao-brasileira-deixa-gigante-ingles-e-acerta-com-clube-saudita-por-valor-recorde-0926"
+    }
+   ],
+   "titulos": [
+    {
+     "ano": 2026,
+     "titulo": "Campeão inglês 2025/26 pelo Arsenal",
+     "fonte": "https://www.gazetaesportiva.com/times/arsenal/martinelli-celebra-titulo-do-arsenal-nas-redes-um-dos-momentos-de-maior-orgulho/"
+    }
+   ],
+   "fontes": [
+    "https://www.lance.com.br/futebol-internacional/al-hilal-anuncia-gabriel-martinelli-ex-arsenal.html",
+    "https://www.correio24horas.com.br/esportes/atacante-da-selecao-brasileira-deixa-gigante-ingles-e-acerta-com-clube-saudita-por-valor-recorde-0926"
+   ],
+   "id": "gabriel-martinelli",
+   "status": "ativo",
+   "conferido": "2026-11-28",
+   "entrou": "2026-11-28"
+  },
+  {
+   "nome": "Endrick",
+   "nome_completo": "Endrick Felipe Moreira de Sousa",
+   "posicao": "Atacante",
+   "nascimento": "2006-07-21",
+   "origem": [
+    {
+     "slug": "palmeiras",
+     "tipo": "base",
+     "ate": 2024,
+     "obs": "Revelado pelo Palmeiras; campeão brasileiro de 2023 (11 gols, artilheiro do clube no torneio)",
+     "clube": "Palmeiras"
+    }
+   ],
+   "atual": {
+    "clube": "Real Madrid",
+    "pais": "Espanha",
+    "liga": "LaLiga",
+    "divisao": 1,
+    "desde": "2024",
+    "bandeira": "🇪🇸",
+    "continente": "europa",
+    "liga_slug": "campeonato-espanhol"
+   },
+   "trajetoria": [
+    {
+     "ano": "2022-2024",
+     "clube": "Palmeiras",
+     "pais": "Brasil",
+     "obs": "Campeão brasileiro de 2023",
+     "fonte": "https://www.lance.com.br/futebol-internacional/endrick-nao-entra-em-campo-ha-mais-de-cinco-meses-e-se-desvaloriza-no-real-madrid.html"
+    },
+    {
+     "ano": "2024",
+     "clube": "Real Madrid",
+     "pais": "Espanha",
+     "obs": "",
+     "fonte": "https://www.band.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid/endrick-nao-garante-permanencia-no-real-madrid-e-elogia-mourinho"
+    },
+    {
+     "ano": "2026",
+     "clube": "Lyon (empréstimo)",
+     "pais": "França",
+     "obs": "21 jogos, 8 gols e 8 assistências",
+     "fonte": "https://www.diariodepernambuco.com.br/esportes-dp/internacional/2026/11/11728770-endrick-nao-descarta-deixar-o-real-madrid-para-conseguir-mais-minutagem-em-outro-clube.html"
+    },
+    {
+     "ano": "2026",
+     "clube": "Real Madrid",
+     "pais": "Espanha",
+     "obs": "De volta após o empréstimo",
+     "fonte": "https://www.band.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid/endrick-nao-garante-permanencia-no-real-madrid-e-elogia-mourinho"
+    }
+   ],
+   "titulos": [],
+   "fontes": [
+    "https://www.band.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid/endrick-nao-garante-permanencia-no-real-madrid-e-elogia-mourinho",
+    "https://www.diariodepernambuco.com.br/esportes-dp/internacional/2026/11/11728770-endrick-nao-descarta-deixar-o-real-madrid-para-conseguir-mais-minutagem-em-outro-clube.html"
+   ],
+   "id": "endrick",
+   "status": "ativo",
+   "conferido": "2026-11-28",
+   "entrou": "2026-11-28"
+  },
+  {
+   "nome": "Estêvão",
+   "nome_completo": "Estêvão Willian Almeida de Oliveira Gonçalves",
+   "posicao": "Atacante",
+   "nascimento": "2007-04-24",
+   "origem": [
+    {
+     "slug": "palmeiras",
+     "tipo": "base",
+     "ate": 2025,
+     "obs": "Formado na base e campeão no profissional do Palmeiras",
+     "clube": "Palmeiras"
+    }
+   ],
+   "atual": {
+    "clube": "Chelsea",
+    "pais": "Inglaterra",
+    "liga": "Premier League",
+    "divisao": 1,
+    "desde": "2025",
+    "bandeira": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "continente": "europa",
+    "liga_slug": "campeonato-ingles"
+   },
+   "trajetoria": [
+    {
+     "ano": "2023-2025",
+     "clube": "Palmeiras",
+     "pais": "Brasil",
+     "obs": "Base e profissional",
+     "fonte": "https://global.espn.com/football/story/_/id/47188375/why-chelsea-believe-young-star-estevao-destined-greatness"
+    },
+    {
+     "ano": "2025",
+     "clube": "Chelsea",
+     "pais": "Inglaterra",
+     "obs": "Contratado junto ao Palmeiras",
+     "fonte": "https://global.espn.com/football/story/_/id/47188375/why-chelsea-believe-young-star-estevao-destined-greatness"
+    }
+   ],
+   "titulos": [],
+   "fontes": [
+    "https://trivela.com.br/inglaterra/premier-league/chelsea-x-manchester-united-estevao-stamford-bridge/",
+    "https://africa.espn.com/football/player/news/_/id/376481/estevao"
+   ],
+   "id": "estevao",
+   "status": "ativo",
+   "conferido": "2026-11-28",
+   "entrou": "2026-11-28"
+  },
+  {
+   "nome": "Weverton",
+   "id": "weverton-zagueiro",
+   "nome_completo": "Weverton Silva de Andrade",
+   "posicao": "Zagueiro",
+   "nascimento": "2003-02-17",
+   "origem": [
+    {
+     "slug": "pontepreta",
+     "tipo": "profissional",
+     "ate": 2026,
+     "obs": "Emprestado pelo Vila Nova à Ponte Preta de março a junho de 2026 (Série B)",
+     "clube": "Ponte Preta"
+    }
+   ],
+   "atual": {
+    "clube": "Kyoto Sanga",
+    "pais": "Japão",
+    "liga": "J1 League",
+    "divisao": 1,
+    "desde": "2026",
+    "bandeira": "🇯🇵",
+    "continente": "asia",
+    "liga_slug": "campeonato-japones"
+   },
+   "trajetoria": [
+    {
+     "ano": "2021-2024",
+     "clube": "Cruzeiro",
+     "pais": "Brasil",
+     "obs": "Revelado pelo clube, 16 jogos",
+     "fonte": "https://www.band.com.br/band-multi/campinas-e-regiao/noticias/ponte-preta-acerta-emprestimo-de-jovem-zagueiro-202603241258"
+    },
+    {
+     "ano": "2025-2026",
+     "clube": "Vila Nova",
+     "pais": "Brasil",
+     "obs": "",
+     "fonte": "https://ohoje.com/2026/06/30/weverton-estava-emprestado-pelo-vila-nova-a-ponte-preta-e-acertou-com-clube-da-primeira-divisao-do-japao/"
+    },
+    {
+     "ano": "2026",
+     "clube": "Ponte Preta",
+     "pais": "Brasil",
+     "obs": "Empréstimo, Série B",
+     "fonte": "https://www.band.com.br/band-multi/campinas-e-regiao/noticias/ponte-preta-acerta-emprestimo-de-jovem-zagueiro-202603241258"
+    },
+    {
+     "ano": "2026",
+     "clube": "Kyoto Sanga",
+     "pais": "Japão",
+     "obs": "Empréstimo com opção de compra",
+     "fonte": "https://ohoje.com/2026/06/30/weverton-estava-emprestado-pelo-vila-nova-a-ponte-preta-e-acertou-com-clube-da-primeira-divisao-do-japao/"
+    }
+   ],
+   "titulos": [],
+   "fontes": [
+    "https://ohoje.com/2026/06/30/weverton-estava-emprestado-pelo-vila-nova-a-ponte-preta-e-acertou-com-clube-da-primeira-divisao-do-japao/",
+    "https://www.portaltela.com/esporte/futebol/2026/06/28/jogador-revelado-pelo-cruzeiro-e-anunciado-por-clube-japones/"
+   ],
+   "status": "ativo",
+   "conferido": "2026-11-28",
+   "entrou": "2026-11-28"
+  },
+  {
+   "nome": "Luis Guilherme",
+   "posicao": "Atacante",
+   "nascimento": "2006-02-09",
+   "origem": [
+    {
+     "slug": "palmeiras",
+     "tipo": "base",
+     "ate": 2024,
+     "obs": "Cria da base; estreou e jogou no profissional do Palmeiras",
+     "clube": "Palmeiras"
+    }
+   ],
+   "atual": {
+    "clube": "Sporting",
+    "pais": "Portugal",
+    "liga": "Liga Portugal",
+    "divisao": 1,
+    "desde": "2026",
+    "bandeira": "🇵🇹",
+    "continente": "europa",
+    "liga_slug": "campeonato-portugues"
+   },
+   "trajetoria": [
+    {
+     "ano": "2023-2024",
+     "clube": "Palmeiras",
+     "pais": "Brasil",
+     "obs": "Base e profissional",
+     "fonte": "https://www.lance.com.br/fora-de-campo/europeus-reagem-a-atuacao-de-luis-guilherme-tem-tudo.html"
+    },
+    {
+     "ano": "2024-2025",
+     "clube": "West Ham",
+     "pais": "Inglaterra",
+     "obs": "Pouco aproveitado",
+     "fonte": "https://trivela.com.br/inglaterra/luis-guilherme-sporting-west-ham-palmeiras/"
+    },
+    {
+     "ano": "2026",
+     "clube": "Sporting",
+     "pais": "Portugal",
+     "obs": "Contrato até 2030",
+     "fonte": "https://www.lance.com.br/fora-de-campo/europeus-reagem-a-atuacao-de-luis-guilherme-tem-tudo.html"
+    }
+   ],
+   "titulos": [],
+   "fontes": [
+    "https://www.lance.com.br/fora-de-campo/europeus-reagem-a-atuacao-de-luis-guilherme-tem-tudo.html",
+    "https://trivela.com.br/europa/luis-guilherme-animado-recomeco-no-sporting-trunfo-selecao/"
+   ],
+   "id": "luis-guilherme",
+   "status": "ativo",
+   "conferido": "2026-11-28",
+   "entrou": "2026-11-28"
+  },
+  {
+   "nome": "Sorriso",
+   "nome_completo": "Marcos Vinicios Lopes Moura",
+   "posicao": "Atacante",
+   "nascimento": "2001-02-23",
+   "origem": [
+    {
+     "slug": "bragantino",
+     "tipo": "profissional",
+     "ate": 2024,
+     "obs": "Jogou pelo Red Bull Bragantino de 2022 a 2023",
+     "clube": "Red Bull Bragantino"
+    }
+   ],
+   "atual": {
+    "clube": "Famalicão",
+    "pais": "Portugal",
+    "liga": "Liga Portugal",
+    "divisao": 1,
+    "desde": "2024",
+    "bandeira": "🇵🇹",
+    "continente": "europa",
+    "liga_slug": "campeonato-portugues"
+   },
+   "trajetoria": [
+    {
+     "ano": "2022-2023",
+     "clube": "Red Bull Bragantino",
+     "pais": "Brasil",
+     "obs": "",
+     "fonte": "https://www.rtp.pt/noticias/futebol-nacional/famalicao-acerta-contratacao-definitiva-de-sorriso-ao-red-bull-bragantino_d1663157"
+    },
+    {
+     "ano": "2024",
+     "clube": "Famalicão (empréstimo)",
+     "pais": "Portugal",
+     "obs": "",
+     "fonte": "https://www.abola.pt/futebol/noticias/mercado-sorriso-oficializado-no-famalicao-2024012620131205567"
+    },
+    {
+     "ano": "2025",
+     "clube": "Famalicão",
+     "pais": "Portugal",
+     "obs": "Compra em definitivo, contrato até 2029",
+     "fonte": "https://www.abola.pt/noticias/mercado-oficial-famalicao-garante-um-dos-grandes-destaques-da-ultima-epoca-2025061817143957822"
+    }
+   ],
+   "titulos": [],
+   "fontes": [
+    "https://www.rtp.pt/noticias/futebol-nacional/famalicao-acerta-contratacao-definitiva-de-sorriso-ao-red-bull-bragantino_d1663157",
+    "https://www.abola.pt/noticias/mercado-oficial-famalicao-garante-um-dos-grandes-destaques-da-ultima-epoca-2025061817143957822"
+   ],
+   "id": "sorriso",
+   "status": "ativo",
+   "conferido": "2026-11-28",
+   "entrou": "2026-11-28"
+  },
+  {
+   "nome": "Jhon Jhon",
+   "posicao": "Meia-atacante",
+   "nascimento": "2002-09-09",
+   "origem": [
+    {
+     "slug": "palmeiras",
+     "tipo": "base",
+     "ate": 2024,
+     "obs": "Formado na base; 44 jogos no profissional",
+     "clube": "Palmeiras"
+    },
+    {
+     "slug": "bragantino",
+     "tipo": "profissional",
+     "ate": 2026,
+     "obs": "Maior venda da história do clube",
+     "clube": "Red Bull Bragantino"
+    }
+   ],
+   "atual": {
+    "clube": "Zenit",
+    "pais": "Rússia",
+    "liga": "Premier League Russa",
+    "divisao": 1,
+    "desde": "2026",
+    "bandeira": "🇷🇺",
+    "continente": "europa",
+    "liga_slug": "campeonato-russo"
+   },
+   "trajetoria": [
+    {
+     "ano": "2022-2024",
+     "clube": "Palmeiras",
+     "pais": "Brasil",
+     "obs": "44 jogos",
+     "fonte": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-paulista/palmeiras/palmeiras-garante-fatia-milionaria-da-venda-de-jhon-jhon-para-o-zenit/"
+    },
+    {
+     "ano": "2024-2025",
+     "clube": "Red Bull Bragantino",
+     "pais": "Brasil",
+     "obs": "Em 2025: 51 jogos, 13 gols e 11 assistências",
+     "fonte": "https://www.band.com.br/esportes/zenit-anuncia-contratacao-de-jhon-jhon-veja-detalhes-202601281805"
+    },
+    {
+     "ano": "2026",
+     "clube": "Zenit",
+     "pais": "Rússia",
+     "obs": "Contrato até 2030/31",
+     "fonte": "https://www.band.com.br/esportes/zenit-anuncia-contratacao-de-jhon-jhon-veja-detalhes-202601281805"
+    }
+   ],
+   "titulos": [],
+   "fontes": [
+    "https://www.band.com.br/esportes/zenit-anuncia-contratacao-de-jhon-jhon-veja-detalhes-202601281805",
+    "https://www.gazetaesportiva.com/times/bragantino/apos-fechar-venda-rb-bragantino-se-despede-de-jhon-jhon-nas-redes-sociais/"
+   ],
+   "id": "jhon-jhon",
+   "status": "ativo",
+   "conferido": "2026-11-28",
+   "entrou": "2026-11-28"
+  }
+ ],
+ "destaques": []
+}

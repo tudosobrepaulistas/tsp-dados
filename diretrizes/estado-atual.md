@@ -3,7 +3,7 @@
 Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim de cada conversa longa.
 
 ## Versões no ar
-- Tema tsp-nova-era 1.13.10 · plugin tsp-jogos 1.9.6 (ver atualizacoes/versoes.json; outra sessão também publica: sempre confira a versão antes e trabalhe em cima do zip mais novo).
+- Tema tsp-nova-era 1.14.0 · plugin tsp-jogos 1.9.6 (ver atualizacoes/versoes.json; outra sessão também publica: sempre confira a versão antes e trabalhe em cima do zip mais novo).
 - Instalação quando o atualizador demora: wp-admin → enviar o zip (Chrome do Thiago, já logado) → "Substituir instalado pelo enviado".
 - Dados do feminino: depois de mudar dados/painel_feminino.json, `tsp.py calcular` e, se tiver pressa, Ferramentas → TSP · Jogos → "Ler a base agora".
 
@@ -23,7 +23,7 @@ Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim 
 - Anteriores e que seguem: Confrontos 72h, Guia da Copinha 2027, Mercado da Bola, 4 grandes, temporada, intenções, ranking de clubes etc. (list_triggers).
 
 ## Pendências (em ordem)
-1. Radar "Paulistas pelo mundo": layout aprovado em 4 telas (Design "TSP · Paulistas pelo Mundo", claude.ai/artifact/UeZovbXS5DEBYSTduKf3Ad). Construir: (a) base dados/pelo_mundo.json (jogador, clube paulista de origem base/profissional e ano, clube atual, país, divisão, posição, títulos, fontes) + rotina diária (saídas do Mercado da Bola para o exterior, descoberta, acompanhamento semanal), começando pelos 9 clubes prioritários; (b) páginas Radar e Ficha; (c) bloco "Paulistas pelo mundo" na home + página internacional com "jogos de hoje no mundo". Selo "Ex-<clube>" nas matérias.
+1. Radar "Paulistas pelo mundo": FEITO em 28/11 (tema 1.14.0, diretrizes/pelo-mundo.md, 7 jogadores). Falta crescer a base (rotina agendada) e conferir no ar.
 2. Máquina escrever matéria internacional (hoje exige clube paulista): só depois do Radar.
 3. Figurinhas do Tanabi (18) no ChatGPT do Chrome do Thiago.
 4. Desligar o especial depois da final (ate já é 29/11 6h; nada a fazer) e voltar a manchete normal.
