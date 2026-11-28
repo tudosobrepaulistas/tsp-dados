@@ -377,6 +377,115 @@
     "acoes": [],
     "obs": "linha de base; 113h sem matéria; sem pauta (nada novo confirmado em 48h); ficha sem fundação, cores, rival, títulos, site, Instagram"
    }
+  ],
+  "osasco-sporting": [
+   {
+    "data": "2026-11-28T04:21-03:00",
+    "busca": "notícias do Osasco Sporting",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "sofascore.com",
+     "soccerway.com",
+     "espn.com",
+     "band.com.br"
+    ],
+    "acoes": [],
+    "obs": "sem pauta nas últimas 48h; ficha: fontes não abriram"
+   }
+  ],
+  "portuguesasantista": [
+   {
+    "data": "2026-11-28T04:21-03:00",
+    "busca": "notícias da Portuguesa Santista",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "gazetaesportiva.com",
+     "soccerway.com",
+     "fotmob.com",
+     "wikipedia.com",
+     "dol.com.br"
+    ],
+    "acoes": [],
+    "obs": "sem pauta nas últimas 48h"
+   }
+  ],
+  "santoandre": [
+   {
+    "data": "2026-11-28T04:21-03:00",
+    "busca": "notícias do Santo André",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "dgabc.com.br",
+     "cnnbrasil.com.br",
+     "soccerway.com",
+     "bnewssaopaulo.com.br"
+    ],
+    "acoes": [],
+    "obs": "sem pauta nova (Sérgio Raphael já publicado em 09/11)"
+   }
+  ],
+  "saojose": [
+   {
+    "data": "2026-11-28T04:21-03:00",
+    "busca": "notícias do São José",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "soccerway.com",
+     "cnnbrasil.com.br",
+     "itatiaia.com.br",
+     "ground.news"
+    ],
+    "acoes": [],
+    "obs": "sem pauta nas últimas 48h; busca ambígua (cidade e outros São José)"
+   }
+  ],
+  "sertaozinho": [
+   {
+    "data": "2026-11-28T04:21-03:00",
+    "busca": "notícias do Sertãozinho",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "arpensp.org.br",
+     "cidadesdomeubrasil.com.br",
+     "wikipedia.com",
+     "ibge.gov.br",
+     "wikipedia.org"
+    ],
+    "acoes": [
+     "ficha: apelido e títulos da A3"
+    ],
+    "obs": "sem pauta nas últimas 48h; busca dominada pela cidade"
+   }
+  ],
+  "taubate": [
+   {
+    "data": "2026-11-28T04:21-03:00",
+    "busca": "notícias do Taubaté",
+    "motor": "websearch",
+    "posicao": null,
+    "url_tsp": "",
+    "top": [
+     "band.com.br",
+     "wikipedia.com",
+     "cnnbrasil.com.br",
+     "cjf.jus.br",
+     "tagteam.harvard.edu"
+    ],
+    "acoes": [],
+    "obs": "frescor ok (matéria há 12h); busca dominada pela cidade"
+   }
   ]
  }
 }
