@@ -104,3 +104,9 @@ registrados pelo TSP, de 12/10 a 22/11"). Nunca some ou estime o que falta.
   leitura pela tela (zoom), uma súmula por vez. Traz titulares/reservas (T/R), quem entrou (P/A), gols, substituições com
   minuto e cartões: base para jogos, minutos e gols de cada atleta, rodada a rodada (número da base = recorte, regra 16).
 - Súmula é documento oficial: vale como fonte de escalação, gol e minuto (o placar continua com 2 fontes).
+- Outras páginas da FPF (testadas em 28/11/2026, pelo Chrome):
+  - Competições → Estatísticas: vazia para Paulistão A2 2026 e Paulistão F 2026 ("Não há arquivo(s)").
+  - Competições → Artilharia: lista oficial completa de quem marcou na competição (apelido, nome completo, clube, gols).
+    Fonte oficial para gols por competição.
+  - Atletas → clube: atletas registrados na FPF (apelido, nome completo, idade, PRO/base). Sem números; serve para
+    conferir elenco e nome completo.
