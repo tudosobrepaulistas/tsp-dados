@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.13.3",
-   "zip": "tsp-nova-era-1.13.3.zip",
-   "notas": "Cobertura especial da home (api/especial.json): final da Libertadores com 4 notícias alternando Palmeiras e Estudiantes e tudo do Palmeiras masculino; Brasileirão vira o bloco 2. Simulador entre os grandes e Mirassol/Bragantino. Faixa discreta de grupos de WhatsApp em cada bloco. Mantém tudo da 1.13.2."
+   "versao": "1.13.4",
+   "zip": "tsp-nova-era-1.13.4.zip",
+   "notas": "Menu Internacional (Italiano, Inglês, Espanhol, Francês, Português, Holandês, América do Sul com 9 países e Mexicano), páginas /campeonato/<liga>/ criadas sozinhas, atalhos entre ligas e matérias internacionais fora da home. Mantém tudo da 1.13.3."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
