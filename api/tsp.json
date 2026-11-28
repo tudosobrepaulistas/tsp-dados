@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-27T22:10:00-03:00",
+ "gerado": "2026-11-27T23:32:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -60885,6 +60885,69 @@
  },
  "painel_feminino": [
   {
+   "nome": "Copa Paulista Feminina 2026",
+   "aba": "Copa Paulista Feminina",
+   "selo": "jogos hoje",
+   "fase": "Quartas de final em jogo único (28 e 29/11) · final em 6/12",
+   "confrontos": [
+    {
+     "fase": "Quartas de final",
+     "casa": "Mirassol",
+     "fora": "Realidade Jovem",
+     "quando": "Sáb. 28/11, 10h",
+     "obs": ""
+    },
+    {
+     "fase": "Quartas de final",
+     "casa": "Santos",
+     "fora": "Mauaense",
+     "quando": "Sáb. 28/11, 15h",
+     "obs": ""
+    },
+    {
+     "fase": "Quartas de final",
+     "casa": "Taubaté",
+     "fora": "São José",
+     "quando": "Sáb. 28/11, 15h, Joaquinzão (Taubaté)",
+     "obs": "entrada franca; ao vivo no YouTube da FPF"
+    },
+    {
+     "fase": "Quartas de final",
+     "casa": "Corinthians",
+     "fora": "São Bento",
+     "quando": "Dom. 29/11, 16h",
+     "obs": ""
+    },
+    {
+     "fase": "Semifinal",
+     "casa": "A definir",
+     "fora": "A definir",
+     "quando": "Data a definir",
+     "obs": ""
+    },
+    {
+     "fase": "Semifinal",
+     "casa": "A definir",
+     "fora": "A definir",
+     "quando": "Data a definir",
+     "obs": ""
+    },
+    {
+     "fase": "Final",
+     "casa": "Vencedor da semifinal",
+     "fora": "Vencedor da semifinal",
+     "quando": "6/12",
+     "obs": ""
+    }
+   ],
+   "nota": "Oito clubes, mata-mata em jogo único; empate vai para os pênaltis. Taubaté e Mirassol vieram do 7º e 8º lugar do Paulistão Feminino.",
+   "fontes": [
+    "https://www.futebolinterior.com.br/campeonato/copa-paulista-feminina-unica/",
+    "https://www.portalr3.com.br/2026/11/27/futebol-feminino-ad-taubate-estreia-na-copa-paulista-jogando-no-joaquinzao",
+    "https://www.lance.com.br/futebol-feminino/paulistao-feminino-2026-tabela-formato-onde-assistir.html"
+   ]
+  },
+  {
    "nome": "Paulistão Feminino 2026",
    "fase": "Semifinais (9 e 13/12): Ferroviária x Bragantino e Palmeiras x São Paulo",
    "classificacao_titulo": "Paulistão Feminino · classificação final da 1ª fase",
@@ -61055,6 +61118,71 @@
     "E",
     "D",
     "SG"
+   ],
+   "aba": "Paulistão Feminino",
+   "selo": "semifinais em 9/12"
+  },
+  {
+   "nome": "Copinha F 2026 (Sub-20)",
+   "aba": "Copinha F",
+   "selo": "sub-20",
+   "fase": "Fase de grupos (24/11 a 12/12) · final no Canindé, 12/12",
+   "grupos": [
+    {
+     "nome": "Grupo A",
+     "sede": "Canindé",
+     "clubes": [
+      "Palmeiras",
+      "Flamengo",
+      "Vasco",
+      "Tarumã"
+     ]
+    },
+    {
+     "nome": "Grupo B",
+     "sede": "Nicolau Alayon (Nacional)",
+     "clubes": [
+      "Corinthians",
+      "Red Bull Bragantino",
+      "Atlético-MG",
+      "Ação"
+     ]
+    },
+    {
+     "nome": "Grupo C",
+     "sede": "Ceret (Tatuapé)",
+     "clubes": [
+      "Ferroviária",
+      "Centro Olímpico",
+      "Grêmio",
+      "Aliança"
+     ]
+    },
+    {
+     "nome": "Grupo D",
+     "sede": "Arena Ibrachina (Mooca)",
+     "clubes": [
+      "São Paulo",
+      "Fluminense",
+      "Vitória",
+      "Criciúma"
+     ]
+    },
+    {
+     "nome": "Grupo E",
+     "sede": "Ceret (Tatuapé)",
+     "clubes": [
+      "Santos",
+      "Botafogo",
+      "Internacional",
+      "Sport"
+     ]
+    }
+   ],
+   "nota": "Turno único dentro do grupo; os 5 líderes e os 3 melhores 2º colocados vão às quartas de final, e daí em diante é mata-mata.",
+   "fontes": [
+    "https://www.gazetaesportiva.com/futebol-feminino/copinha-f-2026-veja-grupos-participantes-sedes-e-datas/",
+    "https://www.opovo.com.br/esportes/2026/09/24/sorteio-define-grupos-da-copinha-f-que-tera-transmissao-da-tv-brasil.html"
    ]
   }
  ],

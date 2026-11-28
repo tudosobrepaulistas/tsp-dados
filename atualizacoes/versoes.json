@@ -3,9 +3,9 @@
  "gerado": "2026-11-27T06:10-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.9.3",
-   "zip": "tsp-jogos-1.9.3.zip",
-   "notas": "Campinho da temporada: esquema mais usado nos últimos jogos e, em cada setor, os jogadores com mais minutos (escalações confirmadas, como recorte)."
+   "versao": "1.9.4",
+   "zip": "tsp-jogos-1.9.4.zip",
+   "notas": "Painel do feminino com abas por campeonato (Copa Paulista Feminina, Paulistão Feminino, Copinha F), tabela e mata-mata lado a lado sem espaço vazio (fases decididas recolhidas), chaveamento em colunas, grupos em cartões e placar de jogo único. Mantém tudo da 1.9.3."
   },
   "tsp-maquina": {
    "versao": "1.9.0",
