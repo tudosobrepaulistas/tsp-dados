@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-28T01:04:00-03:00",
+ "gerado": "2026-11-28T01:44:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -2609,6 +2609,24 @@
   "900087": {
    "chave": "sao-jose-rs",
    "nome": "São José-RS",
+   "slug_tsp": "",
+   "wiki": ""
+  },
+  "900088": {
+   "chave": "taruma",
+   "nome": "Tarumã",
+   "slug_tsp": "",
+   "wiki": "Esporte Clube Tarumã"
+  },
+  "900089": {
+   "chave": "acao-mt",
+   "nome": "Ação",
+   "slug_tsp": "",
+   "wiki": "Sociedade Ação Futebol"
+  },
+  "900090": {
+   "chave": "alianca-go",
+   "nome": "Aliança",
    "slug_tsp": "",
    "wiki": ""
   }

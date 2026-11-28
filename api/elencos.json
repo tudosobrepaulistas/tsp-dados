@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-27T06:59:00-03:00",
+ "gerado": "2026-11-28T01:44:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -9842,7 +9842,13 @@
     {
      "nome": "Denis Santos",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-denis-santos-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:44:00-03:00"
+     },
      "novo": true,
      "numeros": {
       "clubes": [
@@ -9865,7 +9871,13 @@
     {
      "nome": "Daniel Dandan",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-daniel-dandan-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:42:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [
@@ -9890,7 +9902,13 @@
     {
      "nome": "Bernardo",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-bernardo-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:39:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9985,7 +10003,13 @@
     {
      "nome": "Cristiano Lohr",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-08-cristiano-lohr-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:40:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10062,7 +10086,13 @@
     {
      "nome": "Yormax Bingong",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-26-yormax-bingong-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:36:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],

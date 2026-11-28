@@ -1,6 +1,6 @@
 {
  "_leia": "Versões dos plugins e do tema do TSP. O site confere este arquivo e instala sozinho o que for mais novo. Para lançar: suba o zip em atualizacoes/ e mude a versão aqui. Nunca apague o zip anterior na hora: o site pode ter guardado o nome antigo. Os nomes antigos apontam para a versão mais nova.",
- "gerado": "2026-11-28T01:35-03:00",
+ "gerado": "2026-11-28T01:50-03:00",
  "itens": {
   "tsp-jogos": {
    "versao": "1.9.6",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.14.1",
-   "zip": "tsp-nova-era-1.14.1.zip",
-   "notas": "Página do Estudiantes com a tarja nas cores do escudo (vermelho e branco); matéria que começa por 'Estudiantes' leva o selo e a marcação do Estudiantes, não a do Palmeiras. Mantém tudo da 1.14.0."
+   "versao": "1.15.0",
+   "zip": "tsp-nova-era-1.15.0.zip",
+   "notas": "Campinho do clube no padrão Sofascore: foto dos jogadores, minutos, time base pelos que mais jogaram, troca de esquema, arrastar/tocar para montar o time ideal, compartilhar (imagem + link) e aba Última escalação. Escudos de clubes de fora de SP nos painéis (Copinha F etc.). Mantém tudo da 1.14.1."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
