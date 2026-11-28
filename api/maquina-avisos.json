@@ -1,69 +1,6 @@
 {
- "gerado": "2026-11-28T06:25-03:00",
+ "gerado": "2026-11-28T09:14-03:00",
  "avisos": [
-  {
-   "clube": "novorizontino",
-   "nome": "Novorizontino",
-   "quando": "2026-11-27T10:42-03:00",
-   "motivo": "Cobertura 6h: 'primeiro reforço para a Série A 2027' aparece só no nsctotal (não abriu); nenhuma fonte aceita confirma.",
-   "sugestao": "Conferir nas redes oficiais do Novorizontino e no ge Rio Preto se o clube anunciou o primeiro reforço para a Série A 2027; com anúncio oficial + 1 matéria, vira notícia com foto do jogador."
-  },
-  {
-   "clube": "interdelimeira",
-   "nome": "Inter de Limeira",
-   "quando": "2026-11-27T10:42-03:00",
-   "motivo": "Bloco A2 (cobertura 6h): Velo, Inter, Monte Azul e Sertãozinho sem notícia com 2 fontes nas últimas 48h; Inter tem Marthã, Robinho e renovação de Getúlio só no Rápido no Ar.",
-   "sugestao": "Inter de Limeira: confirmar no Instagram oficial Marthã, Robinho, renovação de Getúlio e Topper e fazer resumo dos reforços. Monte Azul: apresentação do elenco prevista para 27/11."
-  },
-  {
-   "clube": "prudente",
-   "nome": "Grêmio Prudente",
-   "quando": "2026-11-27T10:42-03:00",
-   "motivo": "Bloco A3 (cobertura 6h): Itapirense, Francana, Catanduva e Grêmio Prudente sem notícia confirmada entre 25/11 e 27/11.",
-   "sugestao": "Grêmio Prudente: início da pré-temporada com Fahel Junior e primeiros reforços (site gdprudente.com.br, O Imparcial). Catanduva: venda da SAF e técnico 2027. Itapirense e Francana: técnico para a A3."
-  },
-  {
-   "clube": "jacarei",
-   "nome": "Jacareí",
-   "quando": "2026-11-27T11:04-03:00",
-   "motivo": "Sem notícia confirmada de 20 a 27/11; matéria da CBN Vale sobre reforços não abriu",
-   "sugestao": "Confirmar com o clube os oito reforços encaminhados e a seletiva para a Série A4 2027"
-  },
-  {
-   "clube": "gremio-saocarlense",
-   "nome": "Grêmio São-Carlense",
-   "quando": "2026-11-27T11:04-03:00",
-   "motivo": "Sem notícia confirmada de 20 a 27/11 (matéria do jornalpp sobre planejamento 2027 não abriu)",
-   "sugestao": "Planejamento do Grêmio São-Carlense para a Série A4 2027: técnico e elenco"
-  },
-  {
-   "clube": "america-de-rio-preto",
-   "nome": "América de Rio Preto",
-   "quando": "2026-11-27T11:04-03:00",
-   "motivo": "Sem notícia de 20 a 27/11; em 10/11 seguia sem técnico",
-   "sugestao": "Quem será o técnico do América para a Série A4 2027"
-  },
-  {
-   "clube": "mirassol-feminino",
-   "nome": "Mirassol Feminino",
-   "quando": "2026-11-27T11:04-03:00",
-   "motivo": "Confronto com o Realidade Jovem na Copa Paulista Feminina sem data, hora e local em matéria jornalística",
-   "sugestao": "Confirmar com o Mirassol data e local do jogo contra o Realidade Jovem pelas quartas da Copa Paulista"
-  },
-  {
-   "clube": "palmeiras-feminino",
-   "nome": "Palmeiras Feminino",
-   "quando": "2026-11-27T11:04-03:00",
-   "motivo": "Jonas Urias como técnico para 2027 ainda não oficializado; jogo com o Vasco (Copinha F) já coberto",
-   "sugestao": "Quando o Palmeiras oficializar Jonas Urias, matéria do anúncio"
-  },
-  {
-   "clube": "colorado-caieiras",
-   "nome": "Colorado Caieiras",
-   "quando": "2026-11-27T11:04-03:00",
-   "motivo": "Sem notícia confirmada de 20 a 27/11",
-   "sugestao": "Planejamento do Colorado Caieiras para a Série A4 2027"
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +357,69 @@
    "quando": "2026-11-28T06:25-03:00",
    "motivo": "Resultados dos amistosos em Portugal ainda não divulgados",
    "sugestao": "Balanço da viagem a Portugal (15 a 28/11) quando o clube divulgar"
+  },
+  {
+   "clube": "noroeste",
+   "nome": "Noroeste",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Sem notícia nova com fonte de 26 a 28/11; tabela, Copinha, Alcans Cup e empréstimo de Pedro Felipe já publicados",
+   "sugestao": "Pedir à assessoria do Noroeste a lista de reforços acertados e a data de apresentação do elenco de 2027"
+  },
+  {
+   "clube": "guarani",
+   "nome": "Guarani",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Sem anúncio oficial nem notícia com 2 fontes de 26 a 28/11; técnico Cristian de Souza segue só encaminhado",
+   "sugestao": "Quando o Guarani oficializar o técnico de 2027: 'Guarani anuncia o técnico para o Paulistão 2027' (guaranifc.com.br, CBN Campinas, Hora Campinas)"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Renovações de Foguinho e Júnior Oliveira (27/11) só no Diário do Grande ABC; Chefe de Redação barrou por falta de 2ª fonte independente",
+   "sugestao": "Se o clube postar oficialmente ou outro jornal publicar, a matéria das renovações de Foguinho e Júnior Oliveira até nov/2027 está pronta"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Sem notícia em 48h; venda da SAF e saída da A3 só especulação (Cruzeiro do Sul 23/11); evergreen de 17/11 bloqueia novo",
+   "sugestao": "Estreia e jogos do Catanduva quando sair a tabela da A3 2027"
+  },
+  {
+   "clube": "francana",
+   "nome": "Francana",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Sem notícia nova desde o grupo da Copinha (já publicado); evergreen de 27/11 bloqueia novo",
+   "sugestao": "Elenco ou estreia da Francana na Copinha 2027, quando o clube divulgar"
+  },
+  {
+   "clube": "prudente",
+   "nome": "Grêmio Prudente",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Sem notícia desde o gramado do Prudentão (18/11); evergreen de 19/11 bloqueia novo",
+   "sugestao": "Reforços e início da pré-temporada do Grêmio Prudente para a A3 2027"
+  },
+  {
+   "clube": "rio-preto",
+   "nome": "Rio Preto",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Última notícia de 16/11 já publicada; evergreen de 19/11 bloqueia novo",
+   "sugestao": "Início da pré-temporada do Rio Preto em 07/12"
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Sem notícia em 48h com 2 fontes; evergreen de 20/11 bloqueia novo (14 dias)",
+   "sugestao": "Gylmar dos Santos Neves começou no Jabaquara: texto pronto para quando abrir a janela de evergreen (após 04/12)"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-28T09:14-03:00",
+   "motivo": "Sem notícia em 48h com 2 fontes; evergreen recente bloqueia novo (14 dias)",
+   "sugestao": "São Caetano campeão paulista de 2004: texto pronto para quando abrir a janela de evergreen; ou pré-temporada com o técnico Raphael Pereira"
   }
  ]
 }
