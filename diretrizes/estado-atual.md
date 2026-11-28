@@ -13,7 +13,7 @@ Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim 
 - Menu "Internacional" por continente (inc/internacional.php e diretrizes/internacional.md): 7 ligas + "Outras ligas" por continente; matérias internacionais fora da home.
 - Menu do computador em duas linhas; simulador entre os grandes e Mirassol/Bragantino; faixa discreta de grupos de WhatsApp em cada bloco da home.
 - Feminino com abas (Copa Paulista Feminina, Paulistão Feminino com chave completa, Copinha F com grupos e jogos).
-- Tanabi: elenco 2027 com 19 nomes (dados/mercado.json). Figurinhas NÃO feitas: fotos de referência em ~/Downloads/tsp-figurinhas/tanabi/ no Mac do Thiago (precisa do Mac ligado e ChatGPT logado no Chrome). Petterson Martins sem figurinha (arte do clube marcada como "Conteúdo de IA").
+- Tanabi: elenco 2027 com 19 nomes (dados/mercado.json). Figurinhas FEITAS (28/11): 18 no ar (ChatGPT do Chrome "Browser 1" + mercado.py figurinha). Petterson Martins sem figurinha (arte do clube marcada como "Conteúdo de IA").
 
 ## Conversa de 28/11 (madrugada): Radar Paulistas pelo mundo
 - Tema 1.14.0 INSTALADO e conferido no ar em 28/11 1h20 (radar, ficha, faixa da home, página internacional).
@@ -21,7 +21,7 @@ Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim 
 - Base: dados/pelo_mundo.json (7 jogadores, 6 países), ferramentas/pelo_mundo.py, diretrizes/pelo-mundo.md.
 - As 2 tarefas agendadas do Radar (diária 7h37 e semanal domingo 15h43) foram BLOQUEADAS pela checagem automática ao
   criar: os textos estão em diretrizes/pelo-mundo.md; criar quando o Thiago autorizar.
-- Figurinhas do Tanabi: não feitas (ChatGPT deslogado; pasta ~/Downloads/tsp-figurinhas/tanabi/ ainda sem acesso).
+- Figurinhas do Tanabi: 18 feitas e publicadas em 28/11 (commit a324a08). Tema no ar: 1.15.0 (campinho estilo Sofascore).
 
 ## Tarefas agendadas criadas nesta conversa
 - trig_01A2VcAh3xFuCWVEwEviRxAB: 3 matérias do Estudiantes ("duelo de narrativas"), 28/11 0h37 (única).
@@ -33,6 +33,6 @@ Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim 
 ## Pendências (em ordem)
 1. Radar "Paulistas pelo mundo": FEITO em 28/11 (tema 1.14.0, diretrizes/pelo-mundo.md, 7 jogadores). Falta crescer a base (rotina agendada) e conferir no ar.
 2. Máquina escrever matéria internacional (hoje exige clube paulista): só depois do Radar.
-3. Figurinhas do Tanabi (18) no ChatGPT do Chrome do Thiago (precisa: Thiago logado no ChatGPT e liberar a pasta ~/Downloads/tsp-figurinhas/tanabi/).
+3. (feito 28/11) Figurinhas do Tanabi. Pendentes: fotos dos cards do Radar (Thiago escolhe: fotos dele ou escudo+bandeira), escudo do Aliança-GO, plano oGol/Transfermarkt jogador a jogador (aguarda ok), rotinas do Radar (só com "pode criar").
 4. Desligar o especial depois da final (ate já é 29/11 6h; nada a fazer) e voltar a manchete normal.
 5. Antigas: 21 matérias em espera sem foto; 2 rascunhos velhos da estreia da Copinha feminina (m0a93e83ce0a8, m394d142fe7fd) não devem sair; divergência Sub-17 fem SP (virada x empate) antes de liberar ma020dad7e5f8 e md1dc3306767e; páginas /sobre/ e /expediente/ (faltam foto, bio e redatores); futebol brasileiro de outros estados no início dos estaduais.
