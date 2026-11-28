@@ -3,6 +3,51 @@
  "temporada": 2027,
  "itens": [
   {
+   "data": "2026-11-27",
+   "jogador": "Rafael Pavani",
+   "posicao": "Zagueiro",
+   "de": "",
+   "para": "Inter de Bebedouro",
+   "de_slug": "",
+   "para_slug": "inter-de-bebedouro",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Para a Série A3 2027; em 2026 jogou a A3 pelo Paulista de Jundiaí",
+   "numeros_2026": {
+    "clubes": [
+     "Paulista"
+    ],
+    "obs": "recorte: a matéria cita só o clube, sem números",
+    "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-anunciou-zagueiro/"
+   },
+   "selos": [
+    {
+     "texto": "Campeão Mineiro Módulo II 2026",
+     "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-anunciou-zagueiro/"
+    }
+   ],
+   "ficha": {
+    "natural": "",
+    "clubes_anteriores": [
+     "Paulista",
+     "Villa Nova-MG",
+     "Ituano"
+    ],
+    "titulos": [
+     "Paulista Sub-23 2020",
+     "Mineiro Módulo II 2023 e 2026"
+    ],
+    "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-anunciou-zagueiro/"
+   },
+   "fontes": [
+    "https://www.futebolinterior.com.br/inter-de-bebedouro-anunciou-zagueiro/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-27-rafael-pavani-inter-de-bebedouro",
+   "atualizado": "2026-11-28T06:56:00-03:00"
+  },
+  {
    "data": "2026-11-26",
    "jogador": "Yormax Bingong",
    "posicao": "Atacante",
@@ -16,13 +61,16 @@
    "obs": "",
    "anuncio_do_clube": true,
    "fontes": [
-    "https://www.instagram.com/tanabiesporteclubesaf/"
+    "https://www.instagram.com/tanabiesporteclubesaf/",
+    "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/"
    ],
    "ficha": {
     "redes": {
      "instagram": "y0rm4x"
     },
-    "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
+    "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+    "idade": 22,
+    "idade_em": "2026-11-25"
    },
    "id": "2026-11-26-yormax-bingong-tanabi",
    "atualizado": "2026-11-27T05:14:00-03:00",
@@ -32,7 +80,98 @@
     "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
     "ia": true,
     "em": "2026-11-28T01:36:00-03:00"
+   },
+   "numeros_2026": {
+    "jogos": 12,
+    "clubes": [
+     "Tupã",
+     "Santa Catarina"
+    ],
+    "obs": "recorte: 8 jogos na Segunda Divisão paulista e 4 na Copa Santa Catarina",
+    "fonte": "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/"
    }
+  },
+  {
+   "data": "2026-11-26",
+   "jogador": "Pedro Severino",
+   "posicao": "Goleiro",
+   "de": "",
+   "para": "XV de Piracicaba",
+   "de_slug": "",
+   "para_slug": "xvdepiracicaba",
+   "tipo": "promovido",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Promovido da base ao profissional",
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-saidas-futebol-gaucho/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-26-pedro-severino-xv-de-piracicaba",
+   "atualizado": "2026-11-28T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-26",
+   "jogador": "Maurício Oliveira",
+   "posicao": "Meia",
+   "de": "XV de Piracicaba",
+   "para": "Novo Hamburgo",
+   "de_slug": "xvdepiracicaba",
+   "para_slug": "",
+   "tipo": "emprestimo",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Empréstimo até o fim da Série D 2027",
+   "ficha": {
+    "idade": 24,
+    "idade_em": "2026-11-26",
+    "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-saidas-futebol-gaucho/"
+   },
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-saidas-futebol-gaucho/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-26-mauricio-oliveira-novo-hamburgo",
+   "atualizado": "2026-11-28T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-26",
+   "jogador": "Lucas Macorin",
+   "posicao": "Treinador",
+   "de": "Palmeiras",
+   "para": "Corinthians",
+   "de_slug": "",
+   "para_slug": "corinthians",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": true,
+   "obs": "Técnico da equipe feminina; vinha da base do Palmeiras (Sub-15 e Sub-18)",
+   "fontes": [
+    "https://www.lance.com.br/futebol-feminino/corinthians-anuncia-lucas-macorin-como-novo-tecnico-da-equipe-feminina.html",
+    "https://www.gazetaesportiva.com/times/corinthians/corinthians-anuncia-lucas-macorin-tecnico-feminino/",
+    "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-anuncia-ex-palmeiras-como-tecnico-do-futebol-feminino/"
+   ],
+   "id": "2026-11-26-lucas-macorin-corinthians",
+   "atualizado": "2026-11-28T06:56:00-03:00"
+  },
+  {
+   "data": "2026-11-26",
+   "jogador": "Lira",
+   "posicao": "Zagueiro",
+   "de": "",
+   "para": "XV de Piracicaba",
+   "de_slug": "",
+   "para_slug": "xvdepiracicaba",
+   "tipo": "promovido",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Promovido da base ao profissional",
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-saidas-futebol-gaucho/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-26-lira-xv-de-piracicaba",
+   "atualizado": "2026-11-28T06:56:00-03:00"
   },
   {
    "data": "2026-11-26",
@@ -48,13 +187,16 @@
    "obs": "Zagueiro canhoto",
    "anuncio_do_clube": true,
    "fontes": [
-    "https://www.instagram.com/tanabiesporteclubesaf/"
+    "https://www.instagram.com/tanabiesporteclubesaf/",
+    "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/"
    ],
    "ficha": {
     "redes": {
      "instagram": "leo_gama05"
     },
-    "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
+    "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+    "idade": 21,
+    "idade_em": "2026-11-25"
    },
    "id": "2026-11-26-leo-gama-tanabi",
    "atualizado": "2026-11-27T05:14:00-03:00",
@@ -64,7 +206,40 @@
     "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
     "ia": true,
     "em": "2026-11-28T01:54:00-03:00"
+   },
+   "numeros_2026": {
+    "clubes": [
+     "Grêmio Anápolis",
+     "Porto-BA",
+     "Concórdia"
+    ],
+    "obs": "recorte: a matéria cita 5 jogos pelo Grêmio Anápolis e 5 somados por Porto-BA e Concórdia, sem dizer que é a temporada inteira",
+    "fonte": "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/"
    }
+  },
+  {
+   "data": "2026-11-26",
+   "jogador": "Iago Toscano",
+   "posicao": "Volante",
+   "de": "XV de Piracicaba",
+   "para": "Ypiranga-RS",
+   "de_slug": "xvdepiracicaba",
+   "para_slug": "",
+   "tipo": "venda",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "XV mantém percentual dos direitos econômicos",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-26",
+    "fonte": "https://www.futebolinterior.com.br/xv-de-piracicaba-saidas-futebol-gaucho/"
+   },
+   "fontes": [
+    "https://www.futebolinterior.com.br/xv-de-piracicaba-saidas-futebol-gaucho/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-11-26-iago-toscano-ypiranga-rs",
+   "atualizado": "2026-11-28T06:56:00-03:00"
   },
   {
    "data": "2026-11-26",
@@ -80,13 +255,16 @@
    "obs": "Lateral-esquerdo",
    "anuncio_do_clube": true,
    "fontes": [
-    "https://www.instagram.com/tanabiesporteclubesaf/"
+    "https://www.instagram.com/tanabiesporteclubesaf/",
+    "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/"
    ],
    "ficha": {
     "redes": {
      "instagram": "giovani05__"
     },
-    "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
+    "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+    "idade": 21,
+    "idade_em": "2026-11-25"
    },
    "id": "2026-11-26-giovani-vieira-tanabi",
    "atualizado": "2026-11-27T05:14:00-03:00",
@@ -96,6 +274,16 @@
     "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
     "ia": true,
     "em": "2026-11-28T01:49:00-03:00"
+   },
+   "numeros_2026": {
+    "jogos": 21,
+    "clubes": [
+     "Rio Claro",
+     "Flamengo-SP",
+     "Nacional de Muriaé"
+    ],
+    "obs": "recorte: 12 jogos na A3 (Rio Claro), 4 na Segunda Divisão paulista (Flamengo-SP) e 5 na Segunda Divisão mineira (Nacional de Muriaé)",
+    "fonte": "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/"
    }
   },
   {
@@ -24791,6 +24979,26 @@
     }
    ],
    "carreira_fonte": "https://www.futebolinterior.com.br/bandeirante-renova-com-lucio-borges-para-paulistao-a3-2027/"
+  },
+  {
+   "data": "2026-09-30",
+   "jogador": "Alberto Félix",
+   "posicao": "Treinador",
+   "de": "",
+   "para": "Taubaté",
+   "de_slug": "",
+   "para_slug": "taubate",
+   "tipo": "contratacao",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Retorno: comandou o Taubaté em 2025; técnico para o Paulistão A2 2027",
+   "fontes": [
+    "https://www.futebolinterior.com.br/saiba-quais-serao-os-treinadores-da-serie-a2-de-2027/",
+    "https://www.futebolinterior.com.br/alberto-felix-detalha-trabalho-taubate/"
+   ],
+   "anuncio_do_clube": true,
+   "id": "2026-09-30-alberto-felix-taubate",
+   "atualizado": "2026-11-28T06:56:00-03:00"
   }
  ]
 }

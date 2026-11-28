@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-28T03:23:00-03:00",
+ "gerado": "2026-11-28T06:57:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -749,7 +749,7 @@
      "numero": 29,
      "numeros": {
       "jogos": 12,
-      "gols": 1,
+      "gols": 2,
       "minutos": 1080,
       "minutos_estimados": false,
       "clube": "Red Bull Bragantino",
@@ -3485,6 +3485,491 @@
    "chegaram": [],
    "sairam": []
   },
+  "taubate": {
+   "atualizado": "2026-11-17",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Alberto Félix",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": true
+    },
+    {
+     "nome": "Reifit",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reifit-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/reifit/559725",
+      "clubes": [
+       "Cianorte",
+       "Figueirense"
+      ],
+      "jogos": 27,
+      "minutos": 1634,
+      "gols": 2,
+      "assistencias": 4,
+      "escudos": {
+       "Figueirense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "2001-10-16",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Reginaldo Júnior",
+     "posicao": "Zagueiro",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reginaldo-junior-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Marcílio Dias",
+       "Primavera"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+      "escudos": {
+       "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Jeder",
+     "posicao": "Zagueiro",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-jeder-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Atlético Tubarão",
+       "Pelotas"
+      ],
+      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+      "escudos": {
+       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
+       "Pelotas": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pelotas.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Foguete",
+     "posicao": "Lateral",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-foguete-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Felipe Rocha",
+     "posicao": "Zagueiro",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-felipe-rocha-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Alejandro Viniegra",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-alejandro-viniegra-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/alejandro-viniegra/685069",
+      "clubes": [
+       "Tlaxcala FC"
+      ],
+      "jogos": 5,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2002-02-13",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Adílson Júnior",
+     "posicao": "Goleiro",
+     "renovou": true,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-adilson-junior-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/adilson-junior/132403",
+      "clubes": [
+       "Uberaba",
+       "Taubaté"
+      ],
+      "jogos": 17,
+      "minutos": 1530,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Gabriel Masson",
+     "posicao": "Meia",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-gabriel-masson-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/masson/725116",
+      "clubes": [
+       "GE Brasil",
+       "Rio Claro"
+      ],
+      "jogos": 47,
+      "minutos": 3109,
+      "gols": 6,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "2002-07-01",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Bruno Negueba",
+     "posicao": "Meia",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-bruno-negueba-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/bruno-negueba/774914",
+      "clubes": [
+       "Passo Fundo",
+       "Santa Catarina"
+      ],
+      "jogos": 26,
+      "minutos": 1343,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {
+       "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "2001-01-27",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Everaldo Filho",
+     "posicao": "Lateral",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-everaldo-filho-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/everaldo-filho/976162",
+      "clubes": [
+       "Taguatinga",
+       "Atlético Tubarão",
+       "Brasiliense"
+      ],
+      "jogos": 22,
+      "minutos": 1418,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {
+       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
+       "Brasiliense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/brasiliense.png"
+      }
+     },
+     "selos": [],
+     "nascimento": "2002-07-11",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Victor Lima",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-victor-lima-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Denis Germano",
+     "posicao": "Meia",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-denis-germano-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/denis-germano/548806",
+      "clubes": [
+       "GE Brasil",
+       "São Luiz"
+      ],
+      "jogos": 35,
+      "minutos": 1266,
+      "gols": 3,
+      "assistencias": 0,
+      "escudos": {}
+     },
+     "selos": [],
+     "nascimento": "1998-09-25",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Lucas Bilhalva",
+     "posicao": "Goleiro",
+     "renovou": true,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-lucas-bilhalva-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-bilhalva/776518",
+      "clubes": [
+       "Atlético Tubarão"
+      ],
+      "jogos": 2,
+      "minutos": 180,
+      "assistencias": 0,
+      "escudos": {
+       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
+      }
+     },
+     "selos": [],
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Vinícius Silva",
+     "posicao": "Lateral",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-vinicius-silva-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Adílson Bahia",
+     "posicao": "Atacante",
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-adilson-bahia-taubate.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/ec.taubate/",
+      "ia": true,
+      "em": "2026-11-18T02:19:43-03:00"
+     },
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Alberto Félix",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-09-30"
+    },
+    {
+     "nome": "Reifit",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Reginaldo Júnior",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Jeder",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Foguete",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Felipe Rocha",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Alejandro Viniegra",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-04"
+    },
+    {
+     "nome": "Gabriel Masson",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-09"
+    },
+    {
+     "nome": "Bruno Negueba",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-10"
+    },
+    {
+     "nome": "Everaldo Filho",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-11"
+    },
+    {
+     "nome": "Victor Lima",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-12"
+    },
+    {
+     "nome": "Denis Germano",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-13"
+    },
+    {
+     "nome": "Vinícius Silva",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    },
+    {
+     "nome": "Adílson Bahia",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-17"
+    }
+   ],
+   "sairam": []
+  },
   "bandeirante": {
    "atualizado": "2026-11-10",
    "fonte": "",
@@ -5729,7 +6214,7 @@
    "sairam": []
   },
   "xvdepiracicaba": {
-   "atualizado": "2026-11-23",
+   "atualizado": "2026-11-26",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -6142,6 +6627,30 @@
      "comissao": false
     },
     {
+     "nome": "Pedro Severino",
+     "posicao": "Goleiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
+     "nome": "Lira",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "",
+     "ficha": {},
+     "comissao": false
+    },
+    {
      "nome": "Fernando Marchiori",
      "posicao": "Treinador",
      "foto": null,
@@ -6236,9 +6745,36 @@
      "de": "Noroeste",
      "tipo": "Contratação",
      "data": "2026-11-23"
+    },
+    {
+     "nome": "Pedro Severino",
+     "de": "",
+     "tipo": "Subiu da base",
+     "data": "2026-11-26"
+    },
+    {
+     "nome": "Lira",
+     "de": "",
+     "tipo": "Subiu da base",
+     "data": "2026-11-26"
     }
    ],
-   "sairam": []
+   "sairam": [
+    {
+     "nome": "Maurício Oliveira",
+     "para": "Novo Hamburgo",
+     "tipo": "Empréstimo",
+     "data": "2026-11-26",
+     "estava_no_elenco": false
+    },
+    {
+     "nome": "Iago Toscano",
+     "para": "Ypiranga-RS",
+     "tipo": "Venda",
+     "data": "2026-11-26",
+     "estava_no_elenco": false
+    }
+   ]
   },
   "independente": {
    "atualizado": "2026-11-16",
@@ -10493,14 +11029,27 @@
       "em": "2026-11-28T01:36:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 12,
+      "clubes": [
+       "Tupã",
+       "Santa Catarina"
+      ],
+      "obs": "recorte: 8 jogos na Segunda Divisão paulista e 4 na Copa Santa Catarina",
+      "fonte": "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/",
+      "escudos": {
+       "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
+      }
+     },
      "selos": [],
      "nascimento": "",
      "de": "",
      "ficha": {
       "redes": {
        "instagram": "y0rm4x"
-      }
+      },
+      "idade": 22,
+      "idade_em": "2026-11-25"
      },
      "comissao": false
     },
@@ -10515,14 +11064,25 @@
       "em": "2026-11-28T01:54:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "clubes": [
+       "Grêmio Anápolis",
+       "Porto-BA",
+       "Concórdia"
+      ],
+      "obs": "recorte: a matéria cita 5 jogos pelo Grêmio Anápolis e 5 somados por Porto-BA e Concórdia, sem dizer que é a temporada inteira",
+      "fonte": "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/",
+      "escudos": {}
+     },
      "selos": [],
      "nascimento": "",
      "de": "",
      "ficha": {
       "redes": {
        "instagram": "leo_gama05"
-      }
+      },
+      "idade": 21,
+      "idade_em": "2026-11-25"
      },
      "comissao": false
     },
@@ -10537,14 +11097,26 @@
       "em": "2026-11-28T01:49:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "jogos": 21,
+      "clubes": [
+       "Rio Claro",
+       "Flamengo-SP",
+       "Nacional de Muriaé"
+      ],
+      "obs": "recorte: 12 jogos na A3 (Rio Claro), 4 na Segunda Divisão paulista (Flamengo-SP) e 5 na Segunda Divisão mineira (Nacional de Muriaé)",
+      "fonte": "https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/",
+      "escudos": {}
+     },
      "selos": [],
      "nascimento": "",
      "de": "",
      "ficha": {
       "redes": {
        "instagram": "giovani05__"
-      }
+      },
+      "idade": 21,
+      "idade_em": "2026-11-25"
      },
      "comissao": false
     }
@@ -10721,7 +11293,7 @@
    "sairam": []
   },
   "inter-de-bebedouro": {
-   "atualizado": "2026-11-23",
+   "atualizado": "2026-11-27",
    "fonte": "",
    "em_montagem": true,
    "jogadores": [
@@ -11264,6 +11836,41 @@
      "comissao": false
     },
     {
+     "nome": "Rafael Pavani",
+     "posicao": "Zagueiro",
+     "foto": null,
+     "novo": true,
+     "numeros": {
+      "clubes": [
+       "Paulista"
+      ],
+      "obs": "recorte: a matéria cita só o clube, sem números",
+      "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-anunciou-zagueiro/",
+      "escudos": {}
+     },
+     "selos": [
+      {
+       "texto": "Campeão Mineiro Módulo II 2026",
+       "fonte": "https://www.futebolinterior.com.br/inter-de-bebedouro-anunciou-zagueiro/"
+      }
+     ],
+     "nascimento": "",
+     "de": "",
+     "ficha": {
+      "natural": "",
+      "clubes_anteriores": [
+       "Paulista",
+       "Villa Nova-MG",
+       "Ituano"
+      ],
+      "titulos": [
+       "Paulista Sub-23 2020",
+       "Mineiro Módulo II 2023 e 2026"
+      ]
+     },
+     "comissao": false
+    },
+    {
      "nome": "Márcio Griggio",
      "posicao": "Treinador",
      "foto": null,
@@ -11352,6 +11959,12 @@
      "de": "Sertãozinho",
      "tipo": "Contratação",
      "data": "2026-11-23"
+    },
+    {
+     "nome": "Rafael Pavani",
+     "de": "",
+     "tipo": "Contratação",
+     "data": "2026-11-27"
     }
    ],
    "sairam": []
@@ -11861,473 +12474,6 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-25"
-    }
-   ],
-   "sairam": []
-  },
-  "taubate": {
-   "atualizado": "2026-11-17",
-   "fonte": "",
-   "em_montagem": true,
-   "jogadores": [
-    {
-     "nome": "Reifit",
-     "posicao": "Atacante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reifit-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/reifit/559725",
-      "clubes": [
-       "Cianorte",
-       "Figueirense"
-      ],
-      "jogos": 27,
-      "minutos": 1634,
-      "gols": 2,
-      "assistencias": 4,
-      "escudos": {
-       "Figueirense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "2001-10-16",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Reginaldo Júnior",
-     "posicao": "Zagueiro",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-reginaldo-junior-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Marcílio Dias",
-       "Primavera"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
-      "escudos": {
-       "Marcílio Dias": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/marcilio-dias.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Jeder",
-     "posicao": "Zagueiro",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-jeder-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "clubes": [
-       "Atlético Tubarão",
-       "Pelotas"
-      ],
-      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
-      "escudos": {
-       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
-       "Pelotas": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pelotas.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Foguete",
-     "posicao": "Lateral",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-foguete-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Felipe Rocha",
-     "posicao": "Zagueiro",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-felipe-rocha-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Alejandro Viniegra",
-     "posicao": "Atacante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-alejandro-viniegra-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/alejandro-viniegra/685069",
-      "clubes": [
-       "Tlaxcala FC"
-      ],
-      "jogos": 5,
-      "gols": 1,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2002-02-13",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Adílson Júnior",
-     "posicao": "Goleiro",
-     "renovou": true,
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-04-adilson-junior-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/adilson-junior/132403",
-      "clubes": [
-       "Uberaba",
-       "Taubaté"
-      ],
-      "jogos": 17,
-      "minutos": 1530,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Gabriel Masson",
-     "posicao": "Meia",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-gabriel-masson-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/masson/725116",
-      "clubes": [
-       "GE Brasil",
-       "Rio Claro"
-      ],
-      "jogos": 47,
-      "minutos": 3109,
-      "gols": 6,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "2002-07-01",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Bruno Negueba",
-     "posicao": "Meia",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-10-bruno-negueba-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/bruno-negueba/774914",
-      "clubes": [
-       "Passo Fundo",
-       "Santa Catarina"
-      ],
-      "jogos": 26,
-      "minutos": 1343,
-      "gols": 0,
-      "assistencias": 0,
-      "escudos": {
-       "Santa Catarina": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/santa-catarina.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "2001-01-27",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Everaldo Filho",
-     "posicao": "Lateral",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-11-everaldo-filho-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/everaldo-filho/976162",
-      "clubes": [
-       "Taguatinga",
-       "Atlético Tubarão",
-       "Brasiliense"
-      ],
-      "jogos": 22,
-      "minutos": 1418,
-      "gols": 1,
-      "assistencias": 0,
-      "escudos": {
-       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png",
-       "Brasiliense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/brasiliense.png"
-      }
-     },
-     "selos": [],
-     "nascimento": "2002-07-11",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Victor Lima",
-     "posicao": "Atacante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-12-victor-lima-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Denis Germano",
-     "posicao": "Meia",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-denis-germano-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/denis-germano/548806",
-      "clubes": [
-       "GE Brasil",
-       "São Luiz"
-      ],
-      "jogos": 35,
-      "minutos": 1266,
-      "gols": 3,
-      "assistencias": 0,
-      "escudos": {}
-     },
-     "selos": [],
-     "nascimento": "1998-09-25",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Lucas Bilhalva",
-     "posicao": "Goleiro",
-     "renovou": true,
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-16-lucas-bilhalva-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "numeros": {
-      "fonte": "https://www.ogol.com.br/jogador/lucas-bilhalva/776518",
-      "clubes": [
-       "Atlético Tubarão"
-      ],
-      "jogos": 2,
-      "minutos": 180,
-      "assistencias": 0,
-      "escudos": {
-       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
-      }
-     },
-     "selos": [],
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Vinícius Silva",
-     "posicao": "Lateral",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-vinicius-silva-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    },
-    {
-     "nome": "Adílson Bahia",
-     "posicao": "Atacante",
-     "foto": {
-      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-17-adilson-bahia-taubate.webp",
-      "credito": "Montagem com IA (ilustrativa) · TSP",
-      "fonte": "https://www.instagram.com/ec.taubate/",
-      "ia": true,
-      "em": "2026-11-18T02:19:43-03:00"
-     },
-     "novo": true,
-     "numeros": {},
-     "selos": [],
-     "nascimento": "",
-     "de": "",
-     "ficha": {},
-     "comissao": false
-    }
-   ],
-   "chegaram": [
-    {
-     "nome": "Reifit",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "Reginaldo Júnior",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "Jeder",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "Foguete",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "Felipe Rocha",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "Alejandro Viniegra",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-04"
-    },
-    {
-     "nome": "Gabriel Masson",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-09"
-    },
-    {
-     "nome": "Bruno Negueba",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-10"
-    },
-    {
-     "nome": "Everaldo Filho",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-11"
-    },
-    {
-     "nome": "Victor Lima",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-12"
-    },
-    {
-     "nome": "Denis Germano",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-13"
-    },
-    {
-     "nome": "Vinícius Silva",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-17"
-    },
-    {
-     "nome": "Adílson Bahia",
-     "de": "",
-     "tipo": "Contratação",
-     "data": "2026-11-17"
     }
    ],
    "sairam": []
@@ -14480,6 +14626,34 @@
      "de": "",
      "tipo": "Contratação",
      "data": "2026-11-25"
+    }
+   ],
+   "sairam": []
+  },
+  "corinthians-feminino": {
+   "atualizado": "2026-11-26",
+   "fonte": "",
+   "em_montagem": true,
+   "jogadores": [
+    {
+     "nome": "Lucas Macorin",
+     "posicao": "Treinador",
+     "foto": null,
+     "novo": true,
+     "numeros": {},
+     "selos": [],
+     "nascimento": "",
+     "de": "Palmeiras",
+     "ficha": {},
+     "comissao": true
+    }
+   ],
+   "chegaram": [
+    {
+     "nome": "Lucas Macorin",
+     "de": "Palmeiras",
+     "tipo": "Contratação",
+     "data": "2026-11-26"
     }
    ],
    "sairam": []
