@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-28T01:44:00-03:00",
+ "gerado": "2026-11-28T01:55:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -9768,7 +9768,13 @@
     {
      "nome": "Kaiky Grigório",
      "posicao": "Goleiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-03-kaiky-grigorio-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:52:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9784,7 +9790,13 @@
     {
      "nome": "Rafinha",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-rafinha-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:55:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9797,7 +9809,13 @@
      "nome": "Rafael Gato",
      "posicao": "Lateral",
      "renovou": true,
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-rafael-gatto-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:54:00-03:00"
+     },
      "numeros": null,
      "selos": [],
      "ficha": {
@@ -9810,7 +9828,13 @@
     {
      "nome": "João Monteiro",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-joao-monteiro-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:51:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9826,7 +9850,13 @@
     {
      "nome": "Giovanni Carignano",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-05-giovanni-carignano-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:50:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9924,7 +9954,13 @@
     {
      "nome": "Kiko",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-kiko-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:53:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [
@@ -9949,7 +9985,13 @@
     {
      "nome": "Eli Junior",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-06-eli-junior-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:47:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9971,7 +10013,13 @@
     {
      "nome": "Felipe Hulk",
      "posicao": "Volante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-07-felipe-hulk-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:48:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -9987,7 +10035,13 @@
     {
      "nome": "Eduardo Silva",
      "posicao": "Meia",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-08-eduardo-silva-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:46:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10025,7 +10079,13 @@
     {
      "nome": "Julian Henrique",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-julian-henrique-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:51:00-03:00"
+     },
      "novo": true,
      "numeros": {
       "jogos": 10,
@@ -10054,7 +10114,13 @@
     {
      "nome": "Fábio Souza",
      "posicao": "Atacante",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-23-fabio-souza-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:49:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [
@@ -10108,7 +10174,13 @@
     {
      "nome": "Léo Gama",
      "posicao": "Zagueiro",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-26-leo-gama-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:54:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
@@ -10124,7 +10196,13 @@
     {
      "nome": "Giovani Vieira",
      "posicao": "Lateral",
-     "foto": null,
+     "foto": {
+      "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-26-giovani-vieira-tanabi.webp",
+      "credito": "Montagem com IA (ilustrativa) · TSP",
+      "fonte": "https://www.instagram.com/tanabiesporteclubesaf/",
+      "ia": true,
+      "em": "2026-11-28T01:49:00-03:00"
+     },
      "novo": true,
      "numeros": {},
      "selos": [],
