@@ -36,3 +36,9 @@ Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim 
 3. (feito 28/11) Figurinhas do Tanabi. Pendentes: fotos dos cards do Radar (Thiago escolhe: fotos dele ou escudo+bandeira), escudo do Aliança-GO, plano oGol/Transfermarkt jogador a jogador (aguarda ok), rotinas do Radar (só com "pode criar").
 4. Desligar o especial depois da final (ate já é 29/11 6h; nada a fazer) e voltar a manchete normal.
 5. Antigas: 21 matérias em espera sem foto; 2 rascunhos velhos da estreia da Copinha feminina (m0a93e83ce0a8, m394d142fe7fd) não devem sair; divergência Sub-17 fem SP (virada x empate) antes de liberar ma020dad7e5f8 e md1dc3306767e; páginas /sobre/ e /expediente/ (faltam foto, bio e redatores); futebol brasileiro de outros estados no início dos estaduais.
+
+## 28/11/2026 (madrugada)
+- Radar "Paulistas pelo mundo": figurinhas de Estêvão, Endrick, Luís Guilherme, Sorriso e Weverton (fotos enviadas pelo Thiago; comando novo `pelo_mundo.py figurinha ID --img --ref`). Faltam Martinelli (a foto enviada era imagem feita por IA, da TNT) e Jhon Jhon (sem foto).
+- Escudo do Aliança-GO enviado à mão no painel (Ferramentas → Escudos dos clubes).
+- oGol, times da A1 à A4: 121 jogadores ganharam números de 2026 e carreira (conferidos pelo clube de 2026/2027). 110 sem página achada no oGol e 27 com página que não bateu com o clube: ficam para conferência manual, um por um.
+  O oGol passou a devolver páginas de outros jogadores no fim da leitura (proteção contra robô): NÃO repetir leitura em sequência; só uma página por vez, à mão.
