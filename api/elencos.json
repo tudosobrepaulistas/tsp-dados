@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-28T01:55:00-03:00",
+ "gerado": "2026-11-28T03:22:00-03:00",
  "temporada": 2027,
  "clubes": {
   "botafogosp": {
@@ -123,15 +123,15 @@
      "nome": "Darlan",
      "posicao": "Zagueiro",
      "numeros": {
-      "jogos": 3,
-      "gols": 0,
-      "minutos": 270,
-      "minutos_estimados": false,
-      "clube": "Botafogo-SP",
+      "fonte": "https://www.ogol.com.br/jogador/darlan/717790",
       "clubes": [
-       "Botafogo-SP"
+       "Botafogo-SP",
+       "Aparecidense"
       ],
-      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "jogos": 17,
+      "minutos": 1392,
+      "gols": 1,
+      "assistencias": 0,
       "escudos": {}
      },
      "renovou": true,
@@ -169,15 +169,14 @@
      "nome": "Jonathan",
      "posicao": "Lateral",
      "numeros": {
-      "jogos": 3,
-      "gols": 1,
-      "minutos": 226,
-      "minutos_estimados": false,
-      "clube": "Botafogo-SP",
+      "fonte": "https://www.ogol.com.br/jogador/jonathan/140537",
       "clubes": [
        "Botafogo-SP"
       ],
-      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "jogos": 18,
+      "minutos": 880,
+      "gols": 1,
+      "assistencias": 1,
       "escudos": {}
      },
      "renovou": true,
@@ -426,17 +425,18 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 31,
-      "assistencias": 3,
+      "fonte": "https://www.ogol.com.br/jogador/heron/582613",
       "clubes": [
        "Londrina"
       ],
-      "obs": "Série B 2026",
-      "fonte": "https://cbnribeirao.com.br/botafogo-sp-anuncia-eron-e-gustavo-barreto-como-primeiros-reforcos-para-2027/",
+      "jogos": 32,
+      "minutos": 2075,
+      "gols": 0,
+      "assistencias": 3,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2000-08-17",
      "de": "Londrina",
      "ficha": {},
      "comissao": false
@@ -475,17 +475,18 @@
      "foto": null,
      "novo": true,
      "numeros": {
-      "jogos": 18,
-      "assistencias": 1,
+      "fonte": "https://www.ogol.com.br/jogador/reverson/547801",
       "clubes": [
        "CRB"
       ],
-      "obs": "Pelo CRB desde abril",
-      "fonte": "https://www.gazetaweb.com/noticias/esportes/alagoano/titular-do-crb-na-reta-final-da-temporada-reverson-e-anunciado-pelo-botafogo-sp-951092",
+      "jogos": 18,
+      "minutos": 1106,
+      "gols": 0,
+      "assistencias": 1,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1997-02-02",
      "de": "CRB",
      "ficha": {
       "idade": 29,
@@ -3708,7 +3709,18 @@
       "ia": true,
       "em": "2026-11-24T03:09:00-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/lucas-vital/694188",
+      "clubes": [
+       "Paulista",
+       "Linense"
+      ],
+      "jogos": 18,
+      "minutos": 951,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "redes": {
@@ -3729,18 +3741,22 @@
      },
      "novo": true,
      "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/derick/620873",
       "clubes": [
-       "Grêmio Prudente",
+       "Marília",
        "Hercílio Luz",
-       "Marília"
+       "Grêmio Prudente"
       ],
-      "fonte": "https://www.futebolinterior.com.br/a3-paulista-contrata-derick/",
+      "jogos": 24,
+      "minutos": 1348,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {
        "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
       }
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2000-10-06",
      "de": "Marília",
      "ficha": {
       "redes": {
@@ -3761,19 +3777,20 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 14,
-      "assistencias": 2,
+      "fonte": "https://www.ogol.com.br/jogador/leo-principe/502600",
       "clubes": [
        "ASA"
       ],
-      "obs": "6 jogos no Alagoano, 3 na Copa Alagoas, 1 na Copa do Nordeste e 4 na Série D",
-      "fonte": "https://futebolinterior.com.br/leo-principe-ex-corinthians-no-paulista",
+      "jogos": 14,
+      "minutos": 816,
+      "gols": 0,
+      "assistencias": 2,
       "escudos": {
        "ASA": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/asa.png"
       }
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1996-08-13",
      "de": "ASA",
      "ficha": {
       "titulos": [
@@ -3796,7 +3813,19 @@
       "ia": true,
       "em": "2026-11-24T03:03:00-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/joao-salles/685933",
+      "clubes": [
+       "Paulista",
+       "Bandeirante",
+       "Inhumas"
+      ],
+      "jogos": 16,
+      "minutos": 1219,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "redes": {
@@ -3876,9 +3905,21 @@
       "em": "2026-11-24T02:57:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/bryan-garcia/244764",
+      "clubes": [
+       "Betim Futebol",
+       "Paulista",
+       "Itabirito FC"
+      ],
+      "jogos": 19,
+      "minutos": 1641,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1992-03-28",
      "de": "",
      "ficha": {
       "idade": 34,
@@ -4221,18 +4262,22 @@
      },
      "novo": true,
      "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/pedro-rinaldi/715968",
       "clubes": [
-       "Bandeirante",
+       "Araxá",
        "Mamoré",
-       "Araxá"
+       "Bandeirante"
       ],
-      "fonte": "https://www.futebolinterior.com.br/uniao-barbarense-reforcando-para-2027/",
+      "jogos": 15,
+      "minutos": 943,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {
        "Araxá": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/araxa.png"
       }
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2003-04-23",
      "de": "",
      "ficha": {
       "clubes_anteriores": [
@@ -4351,9 +4396,20 @@
       "em": "2026-11-20T21:53:38-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/jonathan-braz/520531",
+      "clubes": [
+       "CA Patrocinense",
+       "União Barbarense"
+      ],
+      "jogos": 26,
+      "minutos": 2291,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1999-01-14",
      "de": "",
      "ficha": {},
      "comissao": false
@@ -4481,9 +4537,20 @@
       "em": "2026-11-20T21:53:38-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/daniel-silva/775561",
+      "clubes": [
+       "Mineiros",
+       "União Barbarense"
+      ],
+      "jogos": 23,
+      "minutos": 829,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-07-16",
      "de": "",
      "ficha": {
       "no_clube": "Jogou a Série A3 de 2026 pelo clube",
@@ -4509,9 +4576,21 @@
       "em": "2026-11-20T21:55:48-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/daniel-cruz/250898",
+      "clubes": [
+       "Águia",
+       "União Rondonópolis",
+       "União Barbarense"
+      ],
+      "jogos": 27,
+      "minutos": 2007,
+      "gols": 9,
+      "assistencias": 1,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1990-06-03",
      "de": "",
      "ficha": {
       "no_clube": "Decisivo no título da A4 de 2025 e destaque na A3 de 2026",
@@ -4532,9 +4611,19 @@
       "em": "2026-11-20T03:56:05-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/felipe-araujo/726282",
+      "clubes": [
+       "Lemense"
+      ],
+      "jogos": 11,
+      "minutos": 119,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2003-03-06",
      "de": "Lemense",
      "ficha": {
       "natural": "Feira de Santana (BA)",
@@ -5331,18 +5420,20 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 21,
+      "fonte": "https://www.ogol.com.br/jogador/renan-areias/432183",
       "clubes": [
        "Figueirense"
       ],
-      "obs": "recorte: Série C, Copa do Brasil e Copa Santa Catarina pelo Figueirense",
-      "fonte": "https://www.dgabc.com.br/Noticia/4368444/santo-andre-contrata-volante-com-experiencia-internacional",
+      "jogos": 21,
+      "minutos": 1103,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {
        "Figueirense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
       }
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-01-18",
      "de": "Figueirense",
      "ficha": {
       "idade": 28,
@@ -5653,7 +5744,18 @@
       "ia": true,
       "em": "2026-11-19T05:02:23-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/junior-caicara/97936",
+      "clubes": [
+       "XV de Piracicaba",
+       "Primavera"
+      ],
+      "jogos": 27,
+      "minutos": 2271,
+      "gols": 1,
+      "assistencias": 3,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {},
      "comissao": false
@@ -5688,19 +5790,18 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 1,
-      "gols": 0,
-      "minutos": 68,
-      "minutos_estimados": false,
-      "clube": "Caxias",
+      "fonte": "https://www.ogol.com.br/jogador/roberto/100019",
       "clubes": [
        "Caxias"
       ],
-      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "jogos": 30,
+      "minutos": 2256,
+      "gols": 0,
+      "assistencias": 4,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1990-12-04",
      "de": "Caxias",
      "ficha": {},
      "comissao": false
@@ -6004,19 +6105,18 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 1,
-      "gols": 0,
-      "minutos": 22,
-      "minutos_estimados": true,
-      "clube": "Noroeste",
+      "fonte": "https://www.ogol.com.br/jogador/rafael-silva/435771",
       "clubes": [
        "Noroeste"
       ],
-      "fonte": "Base TSP (fichas técnicas conferidas)",
+      "jogos": 15,
+      "minutos": 509,
+      "gols": 2,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1995-05-26",
      "de": "Noroeste",
      "ficha": {
       "idade": 31,
@@ -6263,9 +6363,21 @@
       "em": "2026-11-24T03:11:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/vinicius/873911",
+      "clubes": [
+       "Atlético Tubarão"
+      ],
+      "jogos": 2,
+      "minutos": 13,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {
+       "Atlético Tubarão": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/atletico-tubarao.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2004-09-14",
      "de": "Atlético Tubarão",
      "ficha": {
       "clubes_anteriores": [
@@ -6391,7 +6503,18 @@
       "em": "2026-11-24T01:30:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/kadu-barone/478661",
+      "clubes": [
+       "Gazin Porto Velho EC",
+       "Inter de Bebedouro"
+      ],
+      "jogos": 26,
+      "minutos": 2030,
+      "gols": 10,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Craque do Paulistão A4 2026",
@@ -6399,7 +6522,7 @@
        "fonte": "https://www.instagram.com/barretosec/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1994-11-21",
      "de": "Inter de Bebedouro",
      "ficha": {
       "clubes_anteriores": [
@@ -6460,9 +6583,19 @@
       "em": "2026-11-24T01:25:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-britto/991076",
+      "clubes": [
+       "José Bonifácio"
+      ],
+      "jogos": 11,
+      "minutos": 936,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2005-02-02",
      "de": "José Bonifácio",
      "ficha": {
       "clubes_anteriores": [
@@ -6487,7 +6620,17 @@
       "ia": true,
       "em": "2026-11-24T01:23:00-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/kaio/694041",
+      "clubes": [
+       "Barretos"
+      ],
+      "jogos": 16,
+      "minutos": 1415,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "nome_completo": "Kaio dos Santos Rodrigues",
@@ -6602,9 +6745,20 @@
       "em": "2026-11-17T02:35:11-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/wesley-pacheco/155289",
+      "clubes": [
+       "Gramadense",
+       "CR Aquidauana"
+      ],
+      "jogos": 32,
+      "minutos": 1580,
+      "gols": 5,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1990-04-24",
      "de": "Gramadense",
      "ficha": {},
      "comissao": false
@@ -6620,9 +6774,19 @@
       "em": "2026-11-17T02:35:11-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/joao-victor/865949",
+      "clubes": [
+       "Lemense"
+      ],
+      "jogos": 5,
+      "minutos": 90,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2003-06-05",
      "de": "",
      "ficha": {},
      "comissao": false
@@ -6708,9 +6872,22 @@
       "em": "2026-11-17T02:35:11-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/luizao/897900",
+      "clubes": [
+       "Boa Esporte",
+       "Sertãozinho"
+      ],
+      "jogos": 6,
+      "minutos": 117,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {
+       "Boa Esporte": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boa-esporte.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2005-01-02",
      "de": "Boa Esporte",
      "ficha": {},
      "comissao": false
@@ -6856,9 +7033,20 @@
       "em": "2026-11-15T18:41:59-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gabriel-oliveira/547554",
+      "clubes": [
+       "São José",
+       "Grêmio São-Carlense"
+      ],
+      "jogos": 18,
+      "minutos": 1379,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1999-01-17",
      "de": "São José",
      "ficha": {
       "clubes_anteriores": [
@@ -6934,14 +7122,18 @@
      },
      "novo": true,
      "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/keke/486653",
       "clubes": [
-       "Joinville",
-       "Boavista-RJ"
+       "Boavista-RJ",
+       "Joinville"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/",
+      "jogos": 23,
+      "minutos": 1327,
+      "gols": 4,
+      "assistencias": 0,
       "escudos": {
-       "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png",
-       "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
+       "Boavista-RJ": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png",
+       "Joinville": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/joinville.png"
       }
      },
      "selos": [
@@ -6950,7 +7142,7 @@
        "fonte": "https://www.futebolinterior.com.br/marilia-acerta-keke-campeao-da-copa-rio/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1995-10-11",
      "de": "Boavista-RJ",
      "ficha": {
       "natural": "Marília (SP)",
@@ -6974,7 +7166,17 @@
      "posicao": "Meia",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/joao-lucas/584223",
+      "clubes": [
+       "Marília"
+      ],
+      "jogos": 20,
+      "minutos": 713,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {},
      "comissao": false
@@ -7034,9 +7236,22 @@
       "em": "2026-11-20T22:19:50-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/albert/447861",
+      "clubes": [
+       "Pouso Alegre",
+       "Portuguesa-RJ"
+      ],
+      "jogos": 13,
+      "minutos": 642,
+      "gols": 0,
+      "assistencias": 1,
+      "escudos": {
+       "Pouso Alegre": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pouso-alegre.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1996-09-02",
      "de": "",
      "ficha": {
       "no_clube": "54 jogos e 6 gols pelo MAC; vice da Copa Paulista 2022",
@@ -7059,15 +7274,18 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 15,
+      "fonte": "https://www.ogol.com.br/jogador/luiz-gustavo/887706",
       "clubes": [
        "XV de Piracicaba"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-zagueiro-luiz-gustavo/",
+      "jogos": 15,
+      "minutos": 809,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2004-11-22",
      "de": "XV de Piracicaba",
      "ficha": {
       "clubes_anteriores": [
@@ -7134,10 +7352,16 @@
      },
      "novo": true,
      "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/iury-marley/738374",
       "clubes": [
-       "Hercílio Luz"
+       "Ceilândia",
+       "Hercílio Luz",
+       "Jataiense"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/",
+      "jogos": 16,
+      "minutos": 984,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {
        "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
       }
@@ -7148,7 +7372,7 @@
        "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-lateral-para-serie-a2/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "2001-07-17",
      "de": "Hercílio Luz",
      "ficha": {
       "clubes_anteriores": [
@@ -7179,7 +7403,14 @@
       "ia": true,
       "em": "2026-11-20T22:10:28-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/henrique/723293",
+      "clubes": [
+       "Marília"
+      ],
+      "obs": "sem jogos registrados em 2026",
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "idade": 25,
@@ -7205,7 +7436,18 @@
       "ia": true,
       "em": "2026-11-20T22:10:28-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/felipe-pereira/496228",
+      "clubes": [
+       "Marília",
+       "Catanduva"
+      ],
+      "jogos": 13,
+      "minutos": 1170,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "clubes_anteriores": [
@@ -7231,7 +7473,20 @@
       "ia": true,
       "em": "2026-11-20T22:10:28-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/willian-bigode/552861",
+      "clubes": [
+       "Hercílio Luz",
+       "Marília"
+      ],
+      "jogos": 26,
+      "minutos": 2019,
+      "gols": 3,
+      "assistencias": 0,
+      "escudos": {
+       "Hercílio Luz": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+      }
+     },
      "selos": [],
      "ficha": {
       "no_clube": "Marcou um dos gols do jogo do acesso à A2",
@@ -7259,9 +7514,23 @@
       "em": "2026-11-20T22:04:05-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/matheus-prado/620623",
+      "clubes": [
+       "Pelotas",
+       "Piauí",
+       "Sertãozinho"
+      ],
+      "jogos": 32,
+      "minutos": 1904,
+      "gols": 6,
+      "assistencias": 0,
+      "escudos": {
+       "Pelotas": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pelotas.png"
+      }
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2000-08-06",
      "de": "Pelotas",
      "ficha": {
       "idade": 26,
@@ -7294,18 +7563,22 @@
      },
      "novo": true,
      "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/alan-leite/723287",
       "clubes": [
-       "Catanduva",
-       "Coimbra Sports",
-       "Glória"
+       "Glória",
+       "Coimbra-MG",
+       "Catanduva"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-o-artilheiro-alan-leite/",
+      "jogos": 32,
+      "minutos": 2245,
+      "gols": 4,
+      "assistencias": 1,
       "escudos": {
        "Glória": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gloria.png"
       }
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-01-04",
      "de": "",
      "ficha": {
       "clubes_anteriores": [
@@ -7338,16 +7611,19 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 16,
-      "gols": 1,
+      "fonte": "https://www.ogol.com.br/jogador/gustavo-kuhn/907629",
       "clubes": [
+       "APAFUT",
        "XV de Piracicaba"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-traz-lateral-xv-de-piracicaba/",
+      "jogos": 16,
+      "minutos": 634,
+      "gols": 1,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2003-07-22",
      "de": "XV de Piracicaba",
      "ficha": {},
      "comissao": false
@@ -7399,12 +7675,16 @@
      },
      "novo": true,
      "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/alessandro/646804",
       "clubes": [
-       "Dourados-MS",
+       "Passo Fundo",
        "Lagarto-SE",
-       "Passo Fundo"
+       "Dourados AC"
       ],
-      "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/",
+      "jogos": 18,
+      "minutos": 1252,
+      "gols": 1,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [
@@ -7413,7 +7693,7 @@
        "fonte": "https://www.futebolinterior.com.br/marilia-acerta-com-lateral-ex-juventude/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1999-01-06",
      "de": "",
      "ficha": {
       "clubes_anteriores": [
@@ -7626,7 +7906,7 @@
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1994-06-20",
      "de": "Francana",
      "ficha": {
       "idade": 32,
@@ -8075,7 +8355,7 @@
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-07-04",
      "de": "Osasco Sporting",
      "ficha": {
       "idade": 25,
@@ -8107,7 +8387,18 @@
      "posicao": "Zagueiro",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/denilson-guerra/1068065",
+      "clubes": [
+       "Guarani-MG",
+       "XV de Jaú"
+      ],
+      "jogos": 26,
+      "minutos": 2220,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "idade": 24,
@@ -9032,18 +9323,20 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 23,
-      "gols": 3,
+      "fonte": "https://www.ogol.com.br/jogador/isaque/688956",
       "clubes": [
        "Itabaiana"
       ],
-      "fonte": "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+      "jogos": 23,
+      "minutos": 1202,
+      "gols": 3,
+      "assistencias": 0,
       "escudos": {
        "Itabaiana": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/itabaiana.png"
       }
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-09-14",
      "de": "Itabaiana",
      "ficha": {},
      "comissao": false
@@ -9276,17 +9569,19 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 18,
-      "gols": 3,
-      "clube": "Rio Preto (Série A3)",
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-reforcando-elenco-para-2027/",
+      "fonte": "https://www.ogol.com.br/jogador/vinicius-sousa/892989",
       "clubes": [
-       "Rio Preto (Série A3)"
+       "Bonsucesso",
+       "Rio Preto"
       ],
+      "jogos": 23,
+      "minutos": 931,
+      "gols": 4,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-10-28",
      "de": "Rio Preto",
      "ficha": {},
      "comissao": false
@@ -9303,20 +9598,20 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 30,
-      "gols": 10,
+      "fonte": "https://www.ogol.com.br/jogador/theo-lanza/724630",
       "clubes": [
-       "Jacareí",
-       "Patrocinense",
-       "Nova Lavras"
+       "Nova Lavras",
+       "CA Patrocinense",
+       "Jacareí FC"
       ],
-      "fonte": "https://www.futebolinterior.com.br/rio-claro-anuncia-atacante-ex-guarani/",
-      "escudos": {
-       "Patrocinense": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/patrocinense.png"
-      }
+      "jogos": 30,
+      "minutos": 2075,
+      "gols": 10,
+      "assistencias": 0,
+      "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2003-07-31",
      "de": "",
      "ficha": {
       "idade": 23,
@@ -9441,9 +9736,19 @@
       "em": "2026-11-20T22:45:24-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/gabriel-cunha/707003",
+      "clubes": [
+       "Catanduva"
+      ],
+      "jogos": 5,
+      "minutos": 63,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-07-12",
      "de": "",
      "ficha": {
       "idade": 25,
@@ -9541,15 +9846,19 @@
      },
      "novo": true,
      "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/kleverson/693077",
       "clubes": [
-       "Rio Preto",
-       "Juventus-SC"
+       "Juventus Jaraguá",
+       "Rio Preto"
       ],
-      "fonte": "https://www.futebolinterior.com.br/kleverson-chega-reforcar-rio-claro/",
+      "jogos": 23,
+      "minutos": 2007,
+      "gols": 0,
+      "assistencias": 4,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-06-19",
      "de": "Juventus-SC",
      "ficha": {
       "idade": 25,
@@ -9798,9 +10107,21 @@
       "em": "2026-11-28T01:55:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rafinha/1052400",
+      "clubes": [
+       "União São João",
+       "Guarulhos",
+       "Itapirense"
+      ],
+      "jogos": 24,
+      "minutos": 1942,
+      "gols": 4,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2005-06-15",
      "de": "Itapirense",
      "ficha": {},
      "comissao": false
@@ -10122,7 +10443,19 @@
       "em": "2026-11-28T01:49:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/fabio-souza/911880",
+      "clubes": [
+       "Atlético Itumbiara",
+       "Independente de Limeira",
+       "Tanabi"
+      ],
+      "jogos": 18,
+      "minutos": 607,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Campeão da Bezinha 2026",
@@ -10133,7 +10466,7 @@
        "fonte": "https://www.instagram.com/tanabiesporteclubesaf/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "2004-04-11",
      "de": "Independente",
      "ficha": {
       "idade": 22,
@@ -10473,7 +10806,18 @@
       "em": "2026-11-19T04:16:17-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/andre-luiz/393500",
+      "clubes": [
+       "XV de Piracicaba",
+       "Portuguesa Santista"
+      ],
+      "jogos": 22,
+      "minutos": 1980,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Campeão da Série A3 2026",
@@ -10481,7 +10825,7 @@
        "fonte": "https://www.instagram.com/interbebedourooficial/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "1995-06-17",
      "de": "XV de Piracicaba",
      "ficha": {},
      "comissao": false
@@ -10557,7 +10901,17 @@
       "ia": true,
       "em": "2026-11-19T04:19:55-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/loram/902671",
+      "clubes": [
+       "Inter de Bebedouro"
+      ],
+      "jogos": 17,
+      "minutos": 860,
+      "gols": 3,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
@@ -10631,7 +10985,18 @@
       "ia": true,
       "em": "2026-11-19T04:19:55-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/diogo-silva/834232",
+      "clubes": [
+       "Noroeste",
+       "Inter de Bebedouro"
+      ],
+      "jogos": 20,
+      "minutos": 1779,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
@@ -10680,7 +11045,19 @@
       "ia": true,
       "em": "2026-11-19T04:19:55-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/artur-melo/549326",
+      "clubes": [
+       "Marília",
+       "Noroeste",
+       "Inter de Bebedouro"
+      ],
+      "jogos": 7,
+      "minutos": 565,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Acesso à Série A3 (vice do Paulistão A4 2026)",
@@ -10772,9 +11149,19 @@
       "em": "2026-11-24T02:43:00-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/moreira/687842",
+      "clubes": [
+       "Sertãozinho"
+      ],
+      "jogos": 13,
+      "minutos": 151,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-02-23",
      "de": "Sertãozinho",
      "ficha": {
       "nome_completo": "Matheus Moreira dos Reis",
@@ -10808,7 +11195,18 @@
       "ia": true,
       "em": "2026-11-24T02:48:00-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/cesar-augusto/724923",
+      "clubes": [
+       "São João del-Rei",
+       "Flamengo-SP",
+       "Inter de Bebedouro"
+      ],
+      "jogos": 23,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "idade": 23,
@@ -10835,7 +11233,19 @@
       "ia": true,
       "em": "2026-11-24T02:45:00-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/caue/734024",
+      "clubes": [
+       "São João del-Rei",
+       "Matonense",
+       "Inter de Bebedouro"
+      ],
+      "jogos": 28,
+      "minutos": 2091,
+      "gols": 3,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "nome_completo": "Cauê Ferreira da Silva Dias",
@@ -11224,15 +11634,18 @@
      "foto": null,
      "novo": true,
      "numeros": {
-      "jogos": 7,
+      "fonte": "https://www.ogol.com.br/jogador/renan-cosenza/865550",
       "clubes": [
        "FC Cascavel"
       ],
-      "fonte": "https://www.futebolinterior.com.br/votuporanguense-chega-15-reforcos/",
+      "jogos": 7,
+      "minutos": 569,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2004-11-21",
      "de": "FC Cascavel",
      "ficha": {
       "idade": 22,
@@ -11618,11 +12031,15 @@
       "em": "2026-11-18T02:19:43-03:00"
      },
      "numeros": {
-      "jogos": 7,
+      "fonte": "https://www.ogol.com.br/jogador/adilson-junior/132403",
       "clubes": [
+       "Uberaba",
        "Taubaté"
       ],
-      "fonte": "https://www.futebolinterior.com.br/taubate-repatria-zagueiro-jeder-em-2027/",
+      "jogos": 17,
+      "minutos": 1530,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [],
@@ -12095,12 +12512,15 @@
      },
      "novo": true,
      "numeros": {
-      "jogos": 11,
+      "fonte": "https://www.ogol.com.br/jogador/roger-ruan/894997",
       "clubes": [
-       "Penapolense"
+       "Penapolense",
+       "Bahia"
       ],
-      "clube": "Penapolense",
-      "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/",
+      "jogos": 11,
+      "minutos": 424,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {}
      },
      "selos": [
@@ -12109,7 +12529,7 @@
        "fonte": "https://www.futebolinterior.com.br/penapolense-chega-a-11-reforcos-2027/"
       }
      ],
-     "nascimento": "",
+     "nascimento": "2005-01-12",
      "de": "",
      "ficha": {},
      "comissao": false
@@ -12321,19 +12741,21 @@
      "foto": null,
      "novo": true,
      "numeros": {
-      "jogos": 20,
+      "fonte": "https://www.ogol.com.br/jogador/nikollas-sena/832144",
       "clubes": [
-       "Sampaio Corrêa",
-       "Foz do Iguaçu"
+       "Foz do Iguaçu",
+       "Sampaio Corrêa"
       ],
-      "obs": "10 jogos por clube",
-      "fonte": "https://www.futebolinterior.com.br/penapolense-oficializa-nikollas-sena/",
+      "jogos": 20,
+      "minutos": 969,
+      "gols": 0,
+      "assistencias": 0,
       "escudos": {
        "Sampaio Corrêa": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sampaio-correa.png"
       }
      },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-11-19",
      "de": "Foz do Iguaçu",
      "ficha": {},
      "comissao": false
@@ -12485,9 +12907,20 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/nathan/693927",
+      "clubes": [
+       "Bandeirante",
+       "Corumbaense"
+      ],
+      "jogos": 7,
+      "minutos": 630,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-03-23",
      "de": "Bandeirante",
      "ficha": {
       "idade": 25,
@@ -12516,9 +12949,19 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/matheus-carvalho/133625",
+      "clubes": [
+       "XV de Piracicaba"
+      ],
+      "jogos": 5,
+      "minutos": 95,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1992-03-11",
      "de": "XV de Piracicaba",
      "ficha": {
       "idade": 34,
@@ -12551,9 +12994,19 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/brandao/782175",
+      "clubes": [
+       "SSA FC"
+      ],
+      "jogos": 12,
+      "minutos": 939,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2000-04-25",
      "de": "SSA FC",
      "ficha": {
       "idade": 26,
@@ -12657,9 +13110,20 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/leo-lopes/533639",
+      "clubes": [
+       "Maguary-PE",
+       "Rio Preto"
+      ],
+      "jogos": 18,
+      "minutos": 1584,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1998-01-13",
      "de": "",
      "ficha": {
       "idade": 28,
@@ -12692,7 +13156,17 @@
       "ia": true,
       "em": "2026-11-22T12:52:37-03:00"
      },
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/fabio-bahia/32362",
+      "clubes": [
+       "São Bento"
+      ],
+      "jogos": 14,
+      "minutos": 1109,
+      "gols": 1,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
      "ficha": {
       "idade": 43,
@@ -12715,9 +13189,19 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/deivid/197166",
+      "clubes": [
+       "Linense"
+      ],
+      "jogos": 9,
+      "minutos": 343,
+      "gols": 2,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1988-02-23",
      "de": "Linense",
      "ficha": {
       "idade": 38,
@@ -12755,9 +13239,19 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/arthur-silveira/728084",
+      "clubes": [
+       "CSA"
+      ],
+      "jogos": 5,
+      "minutos": 387,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-04-14",
      "de": "",
      "ficha": {
       "idade": 24,
@@ -12790,9 +13284,20 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/arthur-querobino/856020",
+      "clubes": [
+       "Valeriodoce",
+       "Ji-Paraná"
+      ],
+      "jogos": 19,
+      "minutos": 1206,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-06-15",
      "de": "",
      "ficha": {
       "idade": 25,
@@ -12861,9 +13366,16 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/rodrigo-rocha/705821",
+      "clubes": [
+       "URT"
+      ],
+      "obs": "sem jogos registrados em 2026",
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2001-03-20",
      "de": "URT",
      "ficha": {
       "idade": 25,
@@ -13103,9 +13615,19 @@
       "em": "2026-11-22T12:52:37-03:00"
      },
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/david/885404",
+      "clubes": [
+       "Rio Preto"
+      ],
+      "jogos": 11,
+      "minutos": 506,
+      "gols": 0,
+      "assistencias": 0,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "2002-05-10",
      "de": "Rio Preto",
      "ficha": {
       "idade": 24,
@@ -13352,9 +13874,19 @@
      "posicao": "Meia",
      "foto": null,
      "novo": true,
-     "numeros": {},
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/cesinha/450376",
+      "clubes": [
+       "EC Água Santa"
+      ],
+      "jogos": 23,
+      "minutos": 1685,
+      "gols": 3,
+      "assistencias": 4,
+      "escudos": {}
+     },
      "selos": [],
-     "nascimento": "",
+     "nascimento": "1996-03-20",
      "de": "Água Santa",
      "ficha": {},
      "comissao": false
@@ -13622,7 +14154,18 @@
      "posicao": "Lateral",
      "renovou": true,
      "foto": null,
-     "numeros": null,
+     "numeros": {
+      "fonte": "https://www.ogol.com.br/jogador/carlos-henrique/621149",
+      "clubes": [
+       "São José",
+       "Treze"
+      ],
+      "jogos": 31,
+      "minutos": 2453,
+      "gols": 0,
+      "assistencias": 3,
+      "escudos": {}
+     },
      "selos": [
       {
        "texto": "Campeão Copa Paulista 2026",
