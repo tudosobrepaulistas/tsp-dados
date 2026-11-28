@@ -46,3 +46,8 @@ Quem saiu de um clube paulista (base ou time profissional) e joga fora do Brasil
 Sorriso (Famalicão), Weverton (Kyoto Sanga, ex-Ponte Preta) e Gabriel Martinelli (Al-Hilal, ex-Ituano).
 Descartados por falta de 2 fontes atuais: João Victor (Daejeon, ex-Guarani; só há fonte do empréstimo de 2025) e
 Kewen (a ida ao Penafiel não se concretizou).
+
+## Tarefas agendadas (a criar: a criação foi bloqueada pela checagem automática em 28/11)
+- "TSP · Paulistas pelo mundo: jogos do dia e destaques", todo dia 7h37 (Brasília): passos 2 a 4 da "Rotina" acima.
+- "TSP · Paulistas pelo mundo: conferência e descoberta", domingo 15h43: conferir clube atual de quem tem
+  "conferido" com mais de 7 dias e descobrir 10 jogadores novos por semana (9 prioritários primeiro).
