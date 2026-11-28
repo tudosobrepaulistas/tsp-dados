@@ -1,62 +1,6 @@
 {
- "gerado": "2026-11-28T10:33-03:00",
+ "gerado": "2026-11-28T13:42-03:00",
  "avisos": [
-  {
-   "clube": "desportivo-brasil",
-   "nome": "Desportivo Brasil",
-   "quando": "2026-11-27T13:32-03:00",
-   "motivo": "Fontes divergem na capacidade do Ernesto Rocco; site oficial bloqueado",
-   "sugestao": "Guia do Estádio Ernesto Rocco conferido em desportivobrasil.com.br"
-  },
-  {
-   "clube": "rio-preto",
-   "nome": "Rio Preto",
-   "quando": "2026-11-27T13:32-03:00",
-   "motivo": "Data da pré-temporada diverge (7/12 Gazeta de Rio Preto x 2/12 Futebol Interior)",
-   "sugestao": "Confirmar a reapresentação com o clube"
-  },
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-27T13:32-03:00",
-   "motivo": "Busca da execução esgotada antes da apuração do feminino",
-   "sugestao": "Pós-jogo de Taubaté x São José (Copa Paulista Feminina) com placar em 2 fontes"
-  },
-  {
-   "clube": "nacional",
-   "nome": "Nacional",
-   "quando": "2026-11-27T13:32-03:00",
-   "motivo": "Busca esgotada; fontes não abriram",
-   "sugestao": "Nacional na Copinha: títulos de 1972 e 1988 (FPF, ge/Gazeta)"
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-27T15:28-03:00",
-   "motivo": "Cobertura 6h (27/11): sem fato novo das últimas 24h além da renovação de Gilson Kleina, que o site já publicou em 26/11; Ponte segue sem anunciar reforços para 2027",
-   "sugestao": "Acompanhar o anúncio dos primeiros reforços para a A2 e a Série C (Eberlin disse que nomes saem após pré-contratos e exames) e a reapresentação do elenco"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-27T15:28-03:00",
-   "motivo": "Cobertura 6h (27/11): sem notícia nova confirmada nas últimas 24h; acerto com Cauan de Almeida (18/11) e saídas já cobertos ou antigos",
-   "sugestao": "Confirmar oficialmente o técnico para 2027 (Cauan de Almeida, citado pelo Futebol Interior) e os primeiros reforços para Paulistão e Série B"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-27T17:15-03:00",
-   "motivo": "Renovação de Foguinho só em 1 fonte (DGABC); post oficial bloqueado para leitura",
-   "sugestao": "Confirmar no Instagram do São Bernardo FC a renovação de Foguinho até nov/2027 e publicar"
-  },
-  {
-   "clube": "pontepreta",
-   "nome": "Ponte Preta",
-   "quando": "2026-11-27T20:29-03:00",
-   "motivo": "Notícia das últimas 24h (risco de novo transfer ban pela ANRESF, Extrato 076/2026, prazo 30/11) só no Futebol Interior; sem segunda fonte nem nota oficial do clube. Kleina 2027 já publicado em 26/11.",
-   "sugestao": "Ponte Preta corre risco de novo transfer ban se não quitar dívidas com Bragantino, Coritiba, Fluminense e funcionários até 30/11 (ANRESF). Fonte: https://www.futebolinterior.com.br/ponte-preta-corre-risco-de-novo-transfer-ban-por-dividas-com-clubes-e-funcionarios/ - confirmar com ge Campinas ou nota do clube."
-  },
   {
    "clube": "saobernardo",
    "nome": "São Bernardo",
@@ -420,6 +364,62 @@
    "quando": "2026-11-28T10:33-03:00",
    "motivo": "Cobertura 6h (28/11): nenhuma notícia nova das últimas 24h com 2 fontes; Derek, Badaró, Copinha, Paulistão e Adalberto/FURIA já publicados.",
    "sugestao": "Acompanhar no site oficial e na CBN Ribeirão/Rádio Clube o início da pré-temporada e novos reforços para 2027"
+  },
+  {
+   "clube": "ecus",
+   "nome": "ECUS",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Reforços Jefferson Arouca e Betinho (27/11) só no Futebol Interior; Instagram oficial não abre sem login",
+   "sugestao": "ECUS anuncia Jefferson Arouca e Betinho para a Série A4: confirmar no Instagram do ECUS ou Diário de Suzano (https://www.futebolinterior.com.br/ecus-contrata-lateral-e-meia-2027/)"
+  },
+  {
+   "clube": "tanabi",
+   "nome": "Tanabi",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Giovani, Yormax e Léo Gama (25/11) só no Futebol Interior",
+   "sugestao": "Confirmar no Instagram do Tanabi os três reforços (https://www.futebolinterior.com.br/tanabi-lateral-zagueiro-atacante/)"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Matéria da CBN Vale sobre 8 reforços e seletiva não abriu; sem 2ª fonte",
+   "sugestao": "Abrir https://www.cbnvale.com.br/jacarei-fc-tem-oito-reforcos-encaminhados-e-prepara-seletiva-para-a-serie-a4-de-2027/ e conferir a seletiva no Instagram do Jacareí FC"
+  },
+  {
+   "clube": "lemense",
+   "nome": "Lemense",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Sem reforço novo em 7 dias; pré-temporada (prevista para 15/11) sem confirmação",
+   "sugestao": "Perguntar ao Lemense se a pré-temporada começou e quantos atletas há no grupo"
+  },
+  {
+   "clube": "ferroviaria-feminino",
+   "nome": "Ferroviária Feminino",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Ferroviária 2x0 Grêmio (27/11, vaga nas quartas da Copinha F) só em fontes fora da lista; rascunho pronto foi barrado pelo Chefe",
+   "sugestao": "Achar a matéria do jogo no ferroviariasaf.com, Instagram da Ferroviária ou Portal Morada e publicar"
+  },
+  {
+   "clube": "santos-feminino",
+   "nome": "Santos Feminino",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Santos 2x4 Internacional (Copinha F, 28/11) só na Gazeta Esportiva até 13h42",
+   "sugestao": "Resultado com a matéria do santosfc.com.br + https://www.gazetaesportiva.com/times/santos/internacional-goleia-o-santos-e-se-isola-na-lideranca-do-grupo-na-copinha-feminina/"
+  },
+  {
+   "clube": "mirassol-feminino",
+   "nome": "Mirassol Feminino",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Resultado de Mirassol x Realidade Jovem (Copa Paulista F, 28/11) sem matéria jornalística até 13h42",
+   "sugestao": "Pós-jogo com site/Instagram do Mirassol + Diário da Região ou FPF"
+  },
+  {
+   "clube": "red-bull-bragantino-feminino",
+   "nome": "Red Bull Bragantino Feminino",
+   "quando": "2026-11-28T13:42-03:00",
+   "motivo": "Ação-MT x Bragantino (Copinha F, 28/11) sem matéria pós-jogo até 13h42",
+   "sugestao": "Pós-jogo com redbullbragantino.com + Terra"
   }
  ]
 }
