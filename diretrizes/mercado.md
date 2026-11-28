@@ -96,3 +96,11 @@ Os números do card (`numeros_2026`) só podem ser chamados de "2026" quando a f
 (página do jogador no oGol ou matéria com o total). Se a fonte cobre só parte (algumas competições, só a base do TSP, só
 o clube atual), escreva em `obs` o recorte exato ("recorte: Série A2 e Copa Paulista" / "recorte: últimos 9 jogos
 registrados pelo TSP, de 12/10 a 22/11"). Nunca some ou estime o que falta.
+
+## Súmulas da FPF (28/11/2026, testado)
+- Página: futebolpaulista.com.br → Competições → Súmulas (escolhe competição, ano e rodada). Cada jogo tem "Súmula" (PDF em
+  conteudo.fpf.org.br/sumulas/<ano>/<id do campeonato>/<nº do jogo>.pdf; ex.: Paulistão Feminino 2026 = 38128).
+- Só abre pelo Chrome do Thiago (a nuvem não alcança fpf.org.br nem conteudo.cbf.com.br). O PDF não tem texto copiável:
+  leitura pela tela (zoom), uma súmula por vez. Traz titulares/reservas (T/R), quem entrou (P/A), gols, substituições com
+  minuto e cartões: base para jogos, minutos e gols de cada atleta, rodada a rodada (número da base = recorte, regra 16).
+- Súmula é documento oficial: vale como fonte de escalação, gol e minuto (o placar continua com 2 fontes).
