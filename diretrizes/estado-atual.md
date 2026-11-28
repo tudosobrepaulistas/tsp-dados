@@ -42,3 +42,5 @@ Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim 
 - Escudo do Aliança-GO enviado à mão no painel (Ferramentas → Escudos dos clubes).
 - oGol, times da A1 à A4: 121 jogadores ganharam números de 2026 e carreira (conferidos pelo clube de 2026/2027). 110 sem página achada no oGol e 27 com página que não bateu com o clube: ficam para conferência manual, um por um.
   O oGol passou a devolver páginas de outros jogadores no fim da leitura (proteção contra robô): NÃO repetir leitura em sequência; só uma página por vez, à mão.
+- Radar: Thiago mandou os links do oGol de 6 jogadores; números da temporada 2026/27 (por competição) e carreira gravados com `pelo_mundo.py numeros --json` (fonte = página do oGol, só números). Tema 1.15.1 no ar: card mostra "Temporada 2026/27: J · G · A" e a ficha tem as tabelas. Jhon Jhon ainda sem link do oGol e sem foto.
+
