@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-28T00:19:00-03:00",
+ "gerado": "2026-11-28T01:03:00-03:00",
  "versao": 1,
  "simulador": {
   "serie_a": {
@@ -61136,6 +61136,42 @@
       "Flamengo",
       "Vasco",
       "Tarumã"
+     ],
+     "jogos": [
+      {
+       "quando": "Ter. 24/11, 21h30",
+       "casa": "Palmeiras",
+       "fora": "Tarumã",
+       "placar": [
+        2,
+        0
+       ]
+      },
+      {
+       "quando": "Ter. 24/11",
+       "casa": "Flamengo",
+       "fora": "Vasco"
+      },
+      {
+       "quando": "Sex. 27/11, 18h",
+       "casa": "Palmeiras",
+       "fora": "Vasco"
+      },
+      {
+       "quando": "Sex. 27/11, 21h",
+       "casa": "Tarumã",
+       "fora": "Flamengo"
+      },
+      {
+       "quando": "Seg. 30/11, 18h",
+       "casa": "Tarumã",
+       "fora": "Vasco"
+      },
+      {
+       "quando": "Seg. 30/11, 21h",
+       "casa": "Flamengo",
+       "fora": "Palmeiras"
+      }
      ]
     },
     {
@@ -61146,6 +61182,23 @@
       "Red Bull Bragantino",
       "Atlético-MG",
       "Ação"
+     ],
+     "jogos": [
+      {
+       "quando": "Qua. 25/11, 11h",
+       "casa": "Red Bull Bragantino",
+       "fora": "Atlético-MG"
+      },
+      {
+       "quando": "Qua. 25/11, 15h",
+       "casa": "Corinthians",
+       "fora": "Ação"
+      },
+      {
+       "quando": "Sáb. 28/11, 15h",
+       "casa": "Corinthians",
+       "fora": "Atlético-MG"
+      }
      ]
     },
     {
@@ -61156,6 +61209,37 @@
       "Centro Olímpico",
       "Grêmio",
       "Aliança"
+     ],
+     "jogos": [
+      {
+       "quando": "Ter. 24/11, 16h",
+       "casa": "Centro Olímpico",
+       "fora": "Grêmio"
+      },
+      {
+       "quando": "Ter. 24/11, 20h",
+       "casa": "Ferroviária",
+       "fora": "Aliança",
+       "placar": [
+        3,
+        0
+       ]
+      },
+      {
+       "quando": "Sex. 27/11, 16h",
+       "casa": "Aliança",
+       "fora": "Centro Olímpico"
+      },
+      {
+       "quando": "Sex. 27/11, 20h",
+       "casa": "Ferroviária",
+       "fora": "Grêmio"
+      },
+      {
+       "quando": "Seg. 30/11, 20h",
+       "casa": "Ferroviária",
+       "fora": "Centro Olímpico"
+      }
      ]
     },
     {
@@ -61166,6 +61250,45 @@
       "Fluminense",
       "Vitória",
       "Criciúma"
+     ],
+     "jogos": [
+      {
+       "quando": "Ter. 24/11, 11h",
+       "casa": "São Paulo",
+       "fora": "Criciúma",
+       "placar": [
+        5,
+        0
+       ]
+      },
+      {
+       "quando": "Ter. 24/11, 15h",
+       "casa": "Fluminense",
+       "fora": "Vitória",
+       "placar": [
+        2,
+        0
+       ]
+      },
+      {
+       "quando": "Sex. 27/11, 11h",
+       "casa": "Criciúma",
+       "fora": "Fluminense",
+       "placar": [
+        0,
+        1
+       ]
+      },
+      {
+       "quando": "Sex. 27/11, 15h",
+       "casa": "São Paulo",
+       "fora": "Vitória"
+      },
+      {
+       "quando": "Seg. 30/11, 11h",
+       "casa": "Vitória",
+       "fora": "Criciúma"
+      }
      ]
     },
     {
@@ -61176,13 +61299,41 @@
       "Botafogo",
       "Internacional",
       "Sport"
+     ],
+     "jogos": [
+      {
+       "quando": "Qua. 25/11, 18h",
+       "casa": "Santos",
+       "fora": "Sport"
+      },
+      {
+       "quando": "Qua. 25/11, 21h",
+       "casa": "Internacional",
+       "fora": "Botafogo"
+      }
      ]
     }
    ],
    "nota": "Turno único dentro do grupo; os 5 líderes e os 3 melhores 2º colocados vão às quartas de final, e daí em diante é mata-mata.",
    "fontes": [
     "https://www.gazetaesportiva.com/futebol-feminino/copinha-f-2026-veja-grupos-participantes-sedes-e-datas/",
-    "https://www.opovo.com.br/esportes/2026/09/24/sorteio-define-grupos-da-copinha-f-que-tera-transmissao-da-tv-brasil.html"
+    "https://www.opovo.com.br/esportes/2026/09/24/sorteio-define-grupos-da-copinha-f-que-tera-transmissao-da-tv-brasil.html",
+    "https://www.gazetaesportiva.com/times/palmeiras/palmeiras-vence-time-do-amazonas-em-estreia-na-copinha-feminina/",
+    "https://www.acritica.com/esportes/taruma-perde-para-o-palmeiras-na-estreia-da-copinha-feminina/",
+    "https://www.gazetaesportiva.com/campeonatos/copa-sao-paulo/sao-paulo-goleia-criciuma-estreia-copinha-feminina/",
+    "https://www.gazetaesportiva.com/times/flamengo/copinha-feminina-veja-os-jogos-desta-sexta-feira-e-onde-assistir/",
+    "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-vence-vitoria-dois-gols-falta-copinha-feminina/",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/primeiros-vice-campeoes-botafogo-e-inter-se-enfrentam-pela-copinha-f",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copinha-f-internacional-vence-botafogo-no-encerramento-da-1a-rodada",
+    "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/meninas-do-taruma-superam-incertezas-por-oportunidade-na-copinha-f",
+    "https://palmeiras.com.br/noticias/palmeiras-empata-com-vasco-pela-segunda-rodada-da-copinha-f/",
+    "https://www.fluminense.com.br/noticia/fluminense-bate-o-vitoria-em-sua-estreia-na-copinha-feminina-2026",
+    "https://www.fluminense.com.br/noticia/fluminense-vence-o-criciuma-pela-segunda-rodada-da-copinha-feminina",
+    "https://fcf.com.br/criciuma-sofre-novo-reves-na-copinha-feminina/",
+    "https://www.flamengo.com.br/noticias/futebol-feminino/flamengo-goleia-o-taruma-am-por-5-a-0-fica-perto-de-se-garantir-nas-quartas-de-final-da-copinha-feminina",
+    "https://esportegoiano.com.br/alianca-derrotado-ferroviaria-estreia-copinha-feminina",
+    "https://portalmorada.com.br/ferroviaria-estreia-com-vitoria-na-copinha-feminina-2026",
+    "https://www.dgabc.com.br/Noticia/4370492/copinha-feminina-comeca-nesta-terca-feira-com-20-equipes"
    ]
   }
  ],
