@@ -49,6 +49,6 @@ Tudo vem do campo "prejogo" do jogo, gravado com `python3 ferramentas/tsp.py pre
 
 ## Onde assistir: link só da Federação Paulista (28/11/2026, regra do Thiago)
 Jogo transmitido pela FPF (canal Paulistão no YouTube): coloque o link do vídeo do jogo no lide e na linha "Onde assistir".
-Ache o link no canal Paulistão do YouTube (ao vivo/programados) ou na página do jogo no site da FPF; confira o título pelo
+Ache o link com `python3 ferramentas/youtube_fpf.py achar "Clube A" "Clube B"` (canal @paulistao, ao vivo/programados); confira o título pelo
 oEmbed (https://www.youtube.com/oembed?url=<link>&format=json) antes de publicar. Os outros canais vão só pelo nome, sem link.
 

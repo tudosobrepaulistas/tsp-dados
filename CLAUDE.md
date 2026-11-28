@@ -71,4 +71,6 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
     (texto do link: "assista aqui" / "link da transmissão"). Confira o título do vídeo antes (oEmbed do YouTube:
     https://www.youtube.com/oembed?url=<link>&format=json) e só use o link se o título trouxer os dois clubes. Os demais
     canais (Globo, SporTV, Premiere, ESPN, Disney+, CazéTV, Prime etc.) vão só pelo nome, sem link.
+    Achar o link: `python3 ferramentas/youtube_fpf.py achar "Clube A" "Clube B"` (lê a página de transmissões do
+    canal @paulistao; jogo já disputado = vídeo "JOGO COMPLETO").
 
