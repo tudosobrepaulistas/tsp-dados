@@ -15,6 +15,7 @@ Uso:
   python3 ferramentas/pelo_mundo.py destaque --json ARQ.json      (gol, título, transferência, marco: 2 fontes)
   python3 ferramentas/pelo_mundo.py jogos --data 2026-11-28 --json ARQ.json   (jogos do dia nas ligas do mundo; substitui o dia)
   python3 ferramentas/pelo_mundo.py listar [--clube guarani] [--pais Portugal]
+  python3 ferramentas/pelo_mundo.py numeros --json ARQ.json   (números da temporada e carreira do oGol, página por página)
   python3 ferramentas/pelo_mundo.py gerar     (escreve api/pelo_mundo.json e api/jogos_mundo.json)
   python3 ferramentas/pelo_mundo.py validar
 
@@ -297,6 +298,38 @@ def cmd_listar(a):
         print("%-28s %-12s ex-%-18s %s · %s (%s) · conferido %s" % (j["id"], j.get("status"), j["origem"][0]["slug"], j["atual"].get("clube"), j["atual"].get("pais"), j["atual"].get("divisao") or "?", j.get("conferido")))
 
 
+def cmd_numeros(a):
+    """Números da temporada e carreira, lidos à mão na página do jogador no oGol (regra de 15/11 e pedido do
+    Thiago em 28/11). Só números: clube atual, transferência e títulos continuam exigindo as fontes de sempre."""
+    x = json.loads(Path(a.json).read_text(encoding="utf-8"))
+    d = base()
+    por_id = {j["id"]: j for j in d["jogadores"]}
+    for n in (x if isinstance(x, list) else [x]):
+        j = por_id.get(n["id"])
+        if not j:
+            print("! id não encontrado:", n["id"]); continue
+        if "ogol.com.br/jogador/" not in n["fonte"]:
+            raise SystemExit("fonte dos números = página do jogador no oGol")
+        comp = [{"nome": c[0], "jogos": c[1], "minutos": c[2], "gols": c[3], "assistencias": c[4]} for c in n["comp"] if c[0] != "Total"]
+        tot = next((c for c in n["comp"] if c[0] == "Total"), None)
+        j["numeros"] = {"temporada": n["temporada"], "ate": n["ate"], "fonte": n["fonte"], "competicoes": comp,
+                        "total": {"jogos": tot[1], "minutos": tot[2], "gols": tot[3], "assistencias": tot[4]} if tot else None}
+        car = []
+        for r in n["carreira"]:
+            cl = re.sub(r"\s*\(E\)\s*\[[^\]]*\]", "", r[1])
+            cl = re.sub(r"\[S(\d+)\]", r"(sub-\1)", cl).strip()
+            e = {"temporada": r[0], "clube": cl, "jogos": r[2], "gols": r[3], "assistencias": r[4]}
+            if "(E)" in r[1]:
+                e["emprestimo"] = True
+            car.append(e)
+        j["carreira"] = car
+        j["carreira_fonte"] = n["fonte"]
+        if not j.get("nascimento") and n.get("nascimento"):
+            j["nascimento"] = n["nascimento"]
+        print("OK:", j["nome"], "·", n["temporada"], tot[1] if tot else 0, "jogos")
+    salvar(ARQ, d)
+
+
 def cmd_figurinha(a):
     """Grava a figurinha (ilustração TSP feita a partir de foto de referência) como foto do card."""
     from PIL import Image
@@ -325,6 +358,7 @@ def main():
     x = s.add_parser("destaque"); x.add_argument("--json", required=True); x.set_defaults(f=cmd_destaque)
     x = s.add_parser("jogos"); x.add_argument("--data", required=True); x.add_argument("--json", required=True); x.set_defaults(f=cmd_jogos)
     x = s.add_parser("listar"); x.add_argument("--clube"); x.add_argument("--pais"); x.set_defaults(f=cmd_listar)
+    x = s.add_parser("numeros"); x.add_argument("--json", required=True); x.set_defaults(f=cmd_numeros)
     x = s.add_parser("figurinha"); x.add_argument("id"); x.add_argument("--img", required=True); x.add_argument("--ref", required=True); x.set_defaults(f=cmd_figurinha)
     s.add_parser("gerar").set_defaults(f=cmd_gerar)
     s.add_parser("validar").set_defaults(f=lambda a: sys.exit(1 if cmd_validar(a) else 0))

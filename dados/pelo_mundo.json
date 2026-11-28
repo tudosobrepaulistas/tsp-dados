@@ -75,7 +75,122 @@
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-endrick.webp",
     "credito": "Figurinha TSP (ilustração)",
     "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
-   }
+   },
+   "numeros": {
+    "temporada": "2026/27",
+    "ate": "2026-11-28",
+    "fonte": "https://www.ogol.com.br/jogador/endrick/829333",
+    "competicoes": [
+     {
+      "nome": "UEFA Champions League",
+      "jogos": 3,
+      "minutos": 56,
+      "gols": 1,
+      "assistencias": 0
+     },
+     {
+      "nome": "Campeonato Espanhol",
+      "jogos": 5,
+      "minutos": 103,
+      "gols": 0,
+      "assistencias": 0
+     }
+    ],
+    "total": {
+     "jogos": 8,
+     "minutos": 159,
+     "gols": 1,
+     "assistencias": 0
+    }
+   },
+   "carreira": [
+    {
+     "temporada": "2026/27",
+     "clube": "Real Madrid",
+     "jogos": 8,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2025/26",
+     "clube": "Lyon",
+     "jogos": 21,
+     "gols": 8,
+     "assistencias": 7,
+     "emprestimo": true
+    },
+    {
+     "temporada": "2025/26",
+     "clube": "Real Madrid",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2024/25",
+     "clube": "Real Madrid",
+     "jogos": 37,
+     "gols": 7,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2024",
+     "clube": "Palmeiras",
+     "jogos": 22,
+     "gols": 4,
+     "assistencias": 2
+    },
+    {
+     "temporada": "2023",
+     "clube": "Palmeiras",
+     "jogos": 53,
+     "gols": 14,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022",
+     "clube": "Palmeiras",
+     "jogos": 7,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022",
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 20,
+     "gols": 12,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 6,
+     "gols": 8,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2021",
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 13,
+     "gols": 5,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2021",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 16,
+     "gols": 8,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2020",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 6,
+     "gols": 1,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/endrick/829333"
   },
   {
    "nome": "Estêvão",
@@ -126,7 +241,100 @@
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-estevao.webp",
     "credito": "Figurinha TSP (ilustração)",
     "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
-   }
+   },
+   "numeros": {
+    "temporada": "2026/27",
+    "ate": "2026-11-28",
+    "fonte": "https://www.ogol.com.br/jogador/estevao/975614",
+    "competicoes": [
+     {
+      "nome": "Premier League",
+      "jogos": 9,
+      "minutos": 243,
+      "gols": 0,
+      "assistencias": 0
+     },
+     {
+      "nome": "Copa da Liga Inglesa",
+      "jogos": 2,
+      "minutos": 125,
+      "gols": 0,
+      "assistencias": 0
+     }
+    ],
+    "total": {
+     "jogos": 11,
+     "minutos": 368,
+     "gols": 0,
+     "assistencias": 0
+    }
+   },
+   "carreira": [
+    {
+     "temporada": "2026/27",
+     "clube": "Chelsea",
+     "jogos": 11,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2025/26",
+     "clube": "Chelsea",
+     "jogos": 36,
+     "gols": 8,
+     "assistencias": 3
+    },
+    {
+     "temporada": "2025",
+     "clube": "Palmeiras",
+     "jogos": 37,
+     "gols": 12,
+     "assistencias": 5
+    },
+    {
+     "temporada": "2024",
+     "clube": "Palmeiras",
+     "jogos": 45,
+     "gols": 15,
+     "assistencias": 10
+    },
+    {
+     "temporada": "2024",
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 5,
+     "gols": 4,
+     "assistencias": 2
+    },
+    {
+     "temporada": "2023",
+     "clube": "Palmeiras",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2023",
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 18,
+     "gols": 2,
+     "assistencias": 1
+    },
+    {
+     "temporada": "2023",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 12,
+     "gols": 10,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 34,
+     "gols": 23,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/estevao/975614"
   },
   {
    "nome": "Gabriel Martinelli",
@@ -185,7 +393,149 @@
    "id": "gabriel-martinelli",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "numeros": {
+    "temporada": "2026/27",
+    "ate": "2026-11-28",
+    "fonte": "https://www.ogol.com.br/jogador/gabriel-martinelli/619681",
+    "competicoes": [
+     {
+      "nome": "AFC Champions League Elite",
+      "jogos": 3,
+      "minutos": 258,
+      "gols": 1,
+      "assistencias": 0
+     },
+     {
+      "nome": "Saudi Premier League",
+      "jogos": 6,
+      "minutos": 389,
+      "gols": 6,
+      "assistencias": 0
+     }
+    ],
+    "total": {
+     "jogos": 9,
+     "minutos": 647,
+     "gols": 7,
+     "assistencias": 0
+    }
+   },
+   "carreira": [
+    {
+     "temporada": "2026/27",
+     "clube": "Al-Hilal",
+     "jogos": 9,
+     "gols": 7,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2025/26",
+     "clube": "Arsenal",
+     "jogos": 53,
+     "gols": 11,
+     "assistencias": 7
+    },
+    {
+     "temporada": "2024/25",
+     "clube": "Arsenal",
+     "jogos": 51,
+     "gols": 10,
+     "assistencias": 5
+    },
+    {
+     "temporada": "2023/24",
+     "clube": "Arsenal",
+     "jogos": 44,
+     "gols": 8,
+     "assistencias": 5
+    },
+    {
+     "temporada": "2022/23",
+     "clube": "Arsenal",
+     "jogos": 46,
+     "gols": 15,
+     "assistencias": 6
+    },
+    {
+     "temporada": "2021/22",
+     "clube": "Arsenal",
+     "jogos": 36,
+     "gols": 6,
+     "assistencias": 6
+    },
+    {
+     "temporada": "2020/21",
+     "clube": "Arsenal",
+     "jogos": 22,
+     "gols": 2,
+     "assistencias": 2
+    },
+    {
+     "temporada": "2019/20",
+     "clube": "Arsenal",
+     "jogos": 26,
+     "gols": 10,
+     "assistencias": 3
+    },
+    {
+     "temporada": "2019",
+     "clube": "Ituano",
+     "jogos": 14,
+     "gols": 6,
+     "assistencias": 3
+    },
+    {
+     "temporada": "2019",
+     "clube": "Ituano (sub-19)",
+     "jogos": 4,
+     "gols": 6,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2018",
+     "clube": "Ituano",
+     "jogos": 20,
+     "gols": 4,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2018",
+     "clube": "Ituano (sub-19)",
+     "jogos": 1,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2017",
+     "clube": "Ituano (sub-17)",
+     "jogos": 25,
+     "gols": 17,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2016",
+     "clube": "Ituano (sub-15)",
+     "jogos": 19,
+     "gols": 15,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2015",
+     "clube": "Ituano (sub-15)",
+     "jogos": 23,
+     "gols": 4,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2014",
+     "clube": "Corinthians (sub-13)",
+     "jogos": 12,
+     "gols": 5,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/gabriel-martinelli/619681"
   },
   {
    "nome": "Jhon Jhon",
@@ -300,7 +650,135 @@
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-luis-guilherme.webp",
     "credito": "Figurinha TSP (ilustração)",
     "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
-   }
+   },
+   "numeros": {
+    "temporada": "2026/27",
+    "ate": "2026-11-28",
+    "fonte": "https://www.ogol.com.br/jogador/luis-guilherme/829332",
+    "competicoes": [
+     {
+      "nome": "UEFA Champions League",
+      "jogos": 4,
+      "minutos": 214,
+      "gols": 0,
+      "assistencias": 0
+     },
+     {
+      "nome": "Campeonato Português",
+      "jogos": 9,
+      "minutos": 352,
+      "gols": 0,
+      "assistencias": 0
+     },
+     {
+      "nome": "Taça de Portugal",
+      "jogos": 1,
+      "minutos": 45,
+      "gols": 0,
+      "assistencias": 0
+     }
+    ],
+    "total": {
+     "jogos": 14,
+     "minutos": 611,
+     "gols": 0,
+     "assistencias": 0
+    }
+   },
+   "carreira": [
+    {
+     "temporada": "2026/27",
+     "clube": "Sporting",
+     "jogos": 14,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2025/26",
+     "clube": "Sporting",
+     "jogos": 19,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2025/26",
+     "clube": "West Ham",
+     "jogos": 5,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2024/25",
+     "clube": "West Ham",
+     "jogos": 13,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2024/25",
+     "clube": "West Ham (sub-21)",
+     "jogos": 1,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2024",
+     "clube": "Palmeiras",
+     "jogos": 18,
+     "gols": 1,
+     "assistencias": 1
+    },
+    {
+     "temporada": "2023",
+     "clube": "Palmeiras",
+     "jogos": 27,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2023",
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 1
+    },
+    {
+     "temporada": "2022",
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 1
+    },
+    {
+     "temporada": "2022",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 22,
+     "gols": 19,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2021",
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2021",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 18,
+     "gols": 6,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2020",
+     "clube": "Palmeiras (sub-17)",
+     "jogos": 4,
+     "gols": 2,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/luis-guilherme/829332"
   },
   {
    "nome": "Sorriso",
@@ -358,7 +836,116 @@
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-sorriso.webp",
     "credito": "Figurinha TSP (ilustração)",
     "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
-   }
+   },
+   "numeros": {
+    "temporada": "2026/27",
+    "ate": "2026-11-28",
+    "fonte": "https://www.ogol.com.br/jogador/sorriso/691147",
+    "competicoes": [
+     {
+      "nome": "Campeonato Português",
+      "jogos": 11,
+      "minutos": 875,
+      "gols": 2,
+      "assistencias": 2
+     },
+     {
+      "nome": "Taça de Portugal",
+      "jogos": 1,
+      "minutos": 90,
+      "gols": 0,
+      "assistencias": 0
+     },
+     {
+      "nome": "Taça da Liga",
+      "jogos": 1,
+      "minutos": 48,
+      "gols": 0,
+      "assistencias": 0
+     }
+    ],
+    "total": {
+     "jogos": 13,
+     "minutos": 1013,
+     "gols": 2,
+     "assistencias": 2
+    }
+   },
+   "carreira": [
+    {
+     "temporada": "2026/27",
+     "clube": "FC Famalicão",
+     "jogos": 13,
+     "gols": 2,
+     "assistencias": 2
+    },
+    {
+     "temporada": "2025/26",
+     "clube": "FC Famalicão",
+     "jogos": 36,
+     "gols": 6,
+     "assistencias": 4
+    },
+    {
+     "temporada": "2024/25",
+     "clube": "FC Famalicão",
+     "jogos": 29,
+     "gols": 8,
+     "assistencias": 4,
+     "emprestimo": true
+    },
+    {
+     "temporada": "2023/24",
+     "clube": "FC Famalicão",
+     "jogos": 15,
+     "gols": 1,
+     "assistencias": 2,
+     "emprestimo": true
+    },
+    {
+     "temporada": "2023",
+     "clube": "Red Bull Bragantino",
+     "jogos": 46,
+     "gols": 9,
+     "assistencias": 2
+    },
+    {
+     "temporada": "2022",
+     "clube": "Red Bull Bragantino",
+     "jogos": 46,
+     "gols": 2,
+     "assistencias": 2
+    },
+    {
+     "temporada": "2021",
+     "clube": "Juventude",
+     "jogos": 50,
+     "gols": 4,
+     "assistencias": 4
+    },
+    {
+     "temporada": "2020",
+     "clube": "Juventude (sub-23)",
+     "jogos": 16,
+     "gols": 5,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2020",
+     "clube": "Juventude (sub-19)",
+     "jogos": 5,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2018",
+     "clube": "Juventude (sub-17)",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/sorriso/691147"
   },
   {
    "nome": "Weverton",
@@ -423,7 +1010,146 @@
     "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-weverton-zagueiro.webp",
     "credito": "Figurinha TSP (ilustração)",
     "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
-   }
+   },
+   "numeros": {
+    "temporada": "2026/27",
+    "ate": "2026-11-28",
+    "fonte": "https://www.ogol.com.br/jogador/weverton/717268",
+    "competicoes": [
+     {
+      "nome": "AFC Champions League Elite",
+      "jogos": 4,
+      "minutos": 286,
+      "gols": 0,
+      "assistencias": 0
+     },
+     {
+      "nome": "J. League",
+      "jogos": 8,
+      "minutos": 565,
+      "gols": 0,
+      "assistencias": 0
+     }
+    ],
+    "total": {
+     "jogos": 12,
+     "minutos": 851,
+     "gols": 0,
+     "assistencias": 0
+    }
+   },
+   "carreira": [
+    {
+     "temporada": "2026/27",
+     "clube": "Kyoto Sanga",
+     "jogos": 12,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": "2026",
+     "clube": "Ponte Preta",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": "2026",
+     "clube": "Vila Nova",
+     "jogos": 7,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2025",
+     "clube": "Vila Nova",
+     "jogos": 19,
+     "gols": 1,
+     "assistencias": 1
+    },
+    {
+     "temporada": "2025",
+     "clube": "Betim Futebol",
+     "jogos": 9,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": "2024",
+     "clube": "Cruzeiro",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2024",
+     "clube": "Athletic-MG",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": "2023",
+     "clube": "Cruzeiro (sub-20)",
+     "jogos": 9,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022",
+     "clube": "Cruzeiro",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022",
+     "clube": "Cruzeiro (sub-20)",
+     "jogos": 34,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2021",
+     "clube": "Cruzeiro",
+     "jogos": 13,
+     "gols": 0,
+     "assistencias": 1
+    },
+    {
+     "temporada": "2021",
+     "clube": "Cruzeiro (sub-20)",
+     "jogos": 10,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2020",
+     "clube": "Cruzeiro (sub-20)",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2020",
+     "clube": "Cruzeiro (sub-17)",
+     "jogos": 5,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2019",
+     "clube": "Cruzeiro (sub-17)",
+     "jogos": 17,
+     "gols": 2,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/weverton/717268"
   }
  ],
  "destaques": []
