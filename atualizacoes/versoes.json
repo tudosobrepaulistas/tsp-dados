@@ -3,9 +3,9 @@
  "gerado": "2026-11-27T06:10-03:00",
  "itens": {
   "tsp-jogos": {
-   "versao": "1.9.4",
-   "zip": "tsp-jogos-1.9.4.zip",
-   "notas": "Painel do feminino com abas por campeonato (Copa Paulista Feminina, Paulistão Feminino, Copinha F), tabela e mata-mata lado a lado sem espaço vazio (fases decididas recolhidas), chaveamento em colunas, grupos em cartões e placar de jogo único. Mantém tudo da 1.9.3."
+   "versao": "1.9.5",
+   "zip": "tsp-jogos-1.9.5.zip",
+   "notas": "Painel do feminino: jogos e placares dentro de cada grupo (Copinha F). Mantém tudo da 1.9.4."
   },
   "tsp-maquina": {
    "versao": "1.9.0",
@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.13.9",
-   "zip": "tsp-nova-era-1.13.9.zip",
-   "notas": "Especial da home mostra só o jogo da Final (sem as outras fases da Libertadores). Mantém tudo da 1.13.8."
+   "versao": "1.13.10",
+   "zip": "tsp-nova-era-1.13.10.zip",
+   "notas": "Menu em duas linhas juntas e centralizadas com o logo. Mantém tudo da 1.13.9."
   },
   "tsp-shopee": {
    "versao": "1.1.0",
