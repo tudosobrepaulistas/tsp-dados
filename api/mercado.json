@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-28T06:57:00-03:00",
+ "gerado": "2026-11-28T13:29:00-03:00",
  "temporada": 2027,
  "tipos": {
   "contratacao": "Contratação",
@@ -73,6 +73,672 @@
    "dono": "inter-de-bebedouro"
   },
   {
+   "id": "2026-11-27-rafael-carrilho-ituano",
+   "data": "2026-11-27",
+   "jogador": "Rafael Carrilho",
+   "posicao": "Volante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Ferroviária",
+    "slug": "ferroviaria",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-27-rafael-carrilho-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ituanofc/",
+    "ia": true,
+    "em": "2026-11-28T13:25:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/ituanofc/"
+   ],
+   "nascimento": "1995-01-08",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/rafael-carrilho/449096",
+    "clubes": [
+     "Ferroviária",
+     "São José-RS"
+    ],
+    "jogos": 34,
+    "minutos": 2194,
+    "gols": 0,
+    "assistencias": 1,
+    "escudos": {
+     "São José-RS": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    }
+   },
+   "selos": [],
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Ferroviária",
+     "jogos": 26,
+     "gols": 0,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2026,
+     "clube": "São José-RS",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2025,
+     "clube": "São José-RS",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2025,
+     "clube": "Boavista-RJ",
+     "jogos": 10,
+     "gols": 1,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/boavista-rj.png"
+    },
+    {
+     "temporada": 2025,
+     "clube": "Linense",
+     "jogos": 13,
+     "gols": 1,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2024,
+     "clube": "São José-RS",
+     "jogos": 42,
+     "gols": 3,
+     "assistencias": 2,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2023,
+     "clube": "São José-RS",
+     "jogos": 30,
+     "gols": 3,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2023,
+     "clube": "Avenida",
+     "jogos": 10,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Luverdense",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Avenida",
+     "jogos": 19,
+     "gols": 1,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2022,
+     "clube": "Guarany de Bagé",
+     "jogos": 9,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Gama",
+     "jogos": 12,
+     "gols": 2,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/gama.png"
+    },
+    {
+     "temporada": 2021,
+     "clube": "Novo Hamburgo",
+     "jogos": 8,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2020,
+     "clube": "Manaus FC",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2020,
+     "clube": "São Luiz",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2019,
+     "clube": "São José-RS",
+     "jogos": 12,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2019,
+     "clube": "Cianorte",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2018,
+     "clube": "São José-RS",
+     "jogos": 12,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2018,
+     "clube": "Cianorte",
+     "jogos": 18,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2017,
+     "clube": "Ypiranga-RS",
+     "jogos": 13,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2017,
+     "clube": "Cianorte",
+     "jogos": 5,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2017,
+     "clube": "São José-RS",
+     "jogos": 4,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2016,
+     "clube": "São José-RS",
+     "jogos": 14,
+     "gols": 1,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    },
+    {
+     "temporada": 2015,
+     "clube": "Figueirense",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/figueirense.png"
+    },
+    {
+     "temporada": 2015,
+     "clube": "São José-RS",
+     "jogos": 12,
+     "gols": 1,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/sao-jose-rs.png"
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/rafael-carrilho/449096",
+   "ficha": {
+    "nome_completo": "Rafael Carrilho Delvaux",
+    "natural": "Porto Alegre/RS",
+    "idade": 31,
+    "idade_em": "2026-11-27",
+    "clubes_anteriores": [
+     "Grêmio (base)",
+     "Cruzeiro (base)",
+     "Athletico-PR (base)",
+     "São José-RS",
+     "Figueirense",
+     "Ypiranga-RS",
+     "Cianorte",
+     "São Luiz-RS",
+     "Manaus",
+     "Novo Hamburgo",
+     "Gama",
+     "Guarany de Bagé",
+     "Avenida",
+     "Luverdense",
+     "Linense",
+     "Boavista-RJ",
+     "Ferroviária"
+    ],
+    "destaques": [
+     "Subiu com a Ferroviária para a Série A1 paulista e para a Série B em 2026"
+    ],
+    "redes": {
+     "instagram": "rafaelcarrilho1"
+    }
+   },
+   "comissao": false,
+   "dono": "ituano"
+  },
+  {
+   "id": "2026-11-27-danilo-medrado-uniao-sao-joao",
+   "data": "2026-11-27",
+   "jogador": "Danilo Medrado",
+   "posicao": "Meia",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Meia-atacante",
+   "de": {
+    "nome": "Nacional-SP",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União São João",
+    "slug": "uniao-sao-joao",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-27-danilo-medrado-uniao-sao-joao.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/uniaosaojoaodeararas/",
+    "ia": true,
+    "em": "2026-11-28T13:21:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/uniaosaojoaodeararas/"
+   ],
+   "nascimento": "2004-02-24",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/danilo-medrado/882768",
+    "clubes": [
+     "Nacional-SP"
+    ],
+    "jogos": 3,
+    "minutos": 54,
+    "gols": 0,
+    "assistencias": 0,
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Nacional-SP",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2025,
+     "clube": "Ljungskile",
+     "jogos": 4,
+     "gols": 7,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Ska Brasil (sub-20)",
+     "jogos": 10,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Atlético Guaratinguetá (sub-20)",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2022,
+     "clube": "Portuguesa (sub-20)",
+     "jogos": 4,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Portuguesa (sub-20)",
+     "jogos": 9,
+     "gols": 0,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/danilo-medrado/882768",
+   "ficha": {
+    "idade": 22,
+    "idade_em": "2026-11-27",
+    "clubes_anteriores": [
+     "Portuguesa",
+     "Atlético Guaratinguetá",
+     "SKA Brasil",
+     "Nacional-SP"
+    ],
+    "titulos": [
+     "Campeão da Série A2 2022 com a Portuguesa"
+    ],
+    "destaques": [
+     "Disputou a Série A4 de 2026 pelo Nacional-SP"
+    ],
+    "redes": {
+     "instagram": "medrado_10"
+    }
+   },
+   "comissao": false,
+   "dono": "uniao-sao-joao"
+  },
+  {
+   "id": "2026-11-27-caio-mancha-uniao-sao-joao",
+   "data": "2026-11-27",
+   "jogador": "Caio Mancha",
+   "posicao": "Atacante",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Centroavante",
+   "de": {
+    "nome": "Nacional-AM",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "União São João",
+    "slug": "uniao-sao-joao",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d3"
+   ],
+   "foto": {},
+   "fontes": [
+    "https://www.instagram.com/uniaosaojoaodeararas/"
+   ],
+   "nascimento": "1992-09-22",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/caio-mancha/216855",
+    "clubes": [
+     "Nacional-AM",
+     "CA Votuporanguense"
+    ],
+    "jogos": 36,
+    "minutos": 1899,
+    "gols": 5,
+    "assistencias": 1,
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Nacional-AM",
+     "jogos": 14,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2026,
+     "clube": "CA Votuporanguense",
+     "jogos": 22,
+     "gols": 2,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2025,
+     "clube": "Noroeste",
+     "jogos": 7,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2025,
+     "clube": "Grêmio Prudente",
+     "jogos": 12,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Hercílio Luz",
+     "jogos": 22,
+     "gols": 6,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+    },
+    {
+     "temporada": 2024,
+     "clube": "Velo Clube",
+     "jogos": 6,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Villa Nova-MG",
+     "jogos": 8,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "CD FAS",
+     "jogos": 17,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Floresta-CE",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Londrina",
+     "jogos": 14,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Portuguesa Santista",
+     "jogos": 17,
+     "gols": 8,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Portuguesa",
+     "jogos": 30,
+     "gols": 11,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Portuguesa",
+     "jogos": 19,
+     "gols": 9,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Pelotas",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/pelotas.png"
+    },
+    {
+     "temporada": 2020,
+     "clube": "Santa Cruz",
+     "jogos": 7,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2020,
+     "clube": "XV de Piracicaba",
+     "jogos": 16,
+     "gols": 5,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2019,
+     "clube": "CA Votuporanguense",
+     "jogos": 4,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2019,
+     "clube": "Taubaté",
+     "jogos": 13,
+     "gols": 6,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2018,
+     "clube": "Ferroviária",
+     "jogos": 29,
+     "gols": 10,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2017,
+     "clube": "Ferroviária",
+     "jogos": 5,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2017,
+     "clube": "ABC",
+     "jogos": 32,
+     "gols": 8,
+     "assistencias": 1,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/abc.png"
+    },
+    {
+     "temporada": 2016,
+     "clube": "ABC",
+     "jogos": 13,
+     "gols": 2,
+     "assistencias": 0,
+     "emprestimo": true,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/abc.png"
+    },
+    {
+     "temporada": 2015,
+     "clube": "Guarani",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2014,
+     "clube": "Portuguesa",
+     "jogos": 19,
+     "gols": 2,
+     "assistencias": 1,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2013,
+     "clube": "Palmeiras",
+     "jogos": 28,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2012,
+     "clube": "Palmeiras",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2012,
+     "clube": "Palmeiras (B)",
+     "jogos": 15,
+     "gols": 9,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2011,
+     "clube": "Palmeiras (sub-20)",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2011,
+     "clube": "Palmeiras (sub-18)",
+     "jogos": 4,
+     "gols": 2,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/caio-mancha/216855",
+   "ficha": {
+    "clubes_anteriores": [
+     "Palmeiras",
+     "Velo Clube",
+     "Ferroviária",
+     "Portuguesa"
+    ],
+    "redes": {
+     "instagram": "caiomancha9"
+    }
+   },
+   "comissao": false,
+   "dono": "uniao-sao-joao"
+  },
+  {
    "id": "2026-11-26-yormax-bingong-tanabi",
    "data": "2026-11-26",
    "jogador": "Yormax Bingong",
@@ -133,6 +799,69 @@
    },
    "comissao": false,
    "dono": "tanabi"
+  },
+  {
+   "id": "2026-11-26-vitinho-ituano",
+   "data": "2026-11-26",
+   "jogador": "Vitinho",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo; também joga de meia",
+   "de": {
+    "nome": "Flamengo-SP",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-26-vitinho-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ituanofc/",
+    "ia": true,
+    "em": "2026-11-28T13:27:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/ituanofc/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "nome_completo": "Vitor dos Santos Nascimento",
+    "natural": "Francisco Morato/SP",
+    "idade": 23,
+    "idade_em": "2026-11-26",
+    "clubes_anteriores": [
+     "Paulista (base e profissional)",
+     "Grêmio Osasco (base)",
+     "Porto Vitória (base)",
+     "São Caetano",
+     "Flamengo-SP"
+    ],
+    "destaques": [
+     "Acessos com o Paulista em 2024 e 2025, com o técnico Fausto Dias; seleção do campeonato",
+     "59 jogos e 5 gols na carreira, segundo o Ituano"
+    ],
+    "redes": {
+     "instagram": "s.vitinho_03"
+    }
+   },
+   "comissao": false,
+   "dono": "ituano"
   },
   {
    "id": "2026-11-26-pedro-severino-xv-de-piracicaba",
@@ -252,6 +981,71 @@
    "ficha": {},
    "comissao": true,
    "dono": "corinthians-feminino"
+  },
+  {
+   "id": "2026-11-26-luan-silva-marilia",
+   "data": "2026-11-26",
+   "jogador": "Luan Silva",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Hercílio Luz",
+    "slug": "",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/hercilio-luz.png"
+   },
+   "para": {
+    "nome": "Marília",
+    "slug": "marilia",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-26-luan-silva-marilia.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/mariliaac1942/",
+    "ia": true,
+    "em": "2026-11-28T13:23:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/mariliaac1942/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "clubes_anteriores": [
+     "Guarani (base)",
+     "Mirassol",
+     "Estoril Praia (Portugal)",
+     "Alverca (Portugal)",
+     "Botafogo-SP",
+     "Primavera",
+     "Patrocinense",
+     "Fluminense de Feira",
+     "Iguatu",
+     "Nola (Itália)",
+     "Monte Azul",
+     "Hercílio Luz"
+    ],
+    "titulos": [
+     "Campeão do Catarinense Série B 2026 com o Hercílio Luz"
+    ],
+    "redes": {
+     "instagram": "luuansilva98"
+    }
+   },
+   "comissao": false,
+   "dono": "marilia"
   },
   {
    "id": "2026-11-26-lira-xv-de-piracicaba",
@@ -452,6 +1246,238 @@
    },
    "comissao": false,
    "dono": "tanabi"
+  },
+  {
+   "id": "2026-11-26-gabriel-vidal-santo-andre",
+   "data": "2026-11-26",
+   "jogador": "Gabriel Vidal",
+   "posicao": "Zagueiro",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "Foz do Iguaçu",
+    "slug": "",
+    "id": 900052,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Santo André",
+    "slug": "santoandre",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-26-gabriel-vidal-santo-andre.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecsantoandre/",
+    "ia": true,
+    "em": "2026-11-28T13:23:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/ecsantoandre/"
+   ],
+   "nascimento": "1997-07-16",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/gabriel-vidal/471961",
+    "clubes": [
+     "Foz do Iguaçu",
+     "EC Água Santa"
+    ],
+    "jogos": 11,
+    "minutos": 978,
+    "gols": 2,
+    "assistencias": 0,
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Foz do Iguaçu",
+     "jogos": 10,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2026,
+     "clube": "EC Água Santa",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2025,
+     "clube": "EC Água Santa",
+     "jogos": 12,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2025,
+     "clube": "Juventus-SP",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2025,
+     "clube": "Rio Branco-PR",
+     "jogos": 10,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Arapongas",
+     "jogos": 11,
+     "gols": 1,
+     "assistencias": 0,
+     "emprestimo": true,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/arapongas.png"
+    },
+    {
+     "temporada": 2024,
+     "clube": "Rio Branco-PR",
+     "jogos": 11,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Nação",
+     "jogos": 8,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022/23",
+     "clube": "Managua FC",
+     "jogos": 25,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022/23",
+     "clube": "União Luziense",
+     "jogos": 7,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022/23",
+     "clube": "Democrata-SL",
+     "jogos": 4,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": "2022/23",
+     "clube": "Goianésia",
+     "jogos": 4,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Contagem",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Ceilândia",
+     "jogos": 27,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Nacional Atl. Muriaé",
+     "jogos": 14,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Grêmio Anápolis",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2020,
+     "clube": "Apucarana Sports",
+     "jogos": 7,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2020,
+     "clube": "Atibaia",
+     "jogos": 1,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2019,
+     "clube": "Apucarana Sports",
+     "jogos": 12,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2018,
+     "clube": "Apucarana Sports",
+     "jogos": 5,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2018,
+     "clube": "PSTC",
+     "jogos": 10,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2017,
+     "clube": "José Bonifácio",
+     "jogos": 17,
+     "gols": 1,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/gabriel-vidal/471961",
+   "ficha": {
+    "idade": 29,
+    "idade_em": "2026-11-26",
+    "clubes_anteriores": [
+     "Água Santa",
+     "Juventus-SP",
+     "XV de Piracicaba",
+     "Grêmio Anápolis"
+    ],
+    "titulos": [
+     "Campeão Goiano 2021 com o Grêmio Anápolis",
+     "Campeão da Copa Paulista 2025 com o XV de Piracicaba"
+    ],
+    "contrato": "Paulistão A2 e Copa Paulista de 2027",
+    "redes": {
+     "instagram": "gvidal16"
+    }
+   },
+   "comissao": false,
+   "dono": "santoandre"
   },
   {
    "id": "2026-11-25-ryan-rizardi-ecus",
@@ -871,6 +1897,66 @@
    },
    "comissao": false,
    "dono": "votuporanguense"
+  },
+  {
+   "id": "2026-11-24-fabio-xv-de-piracicaba",
+   "data": "2026-11-24",
+   "jogador": "Fábio",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-esquerdo",
+   "de": {
+    "nome": "Oeste",
+    "slug": "",
+    "id": 0,
+    "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/oeste.png"
+   },
+   "para": {
+    "nome": "XV de Piracicaba",
+    "slug": "xvdepiracicaba",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-24-fabio-xv-de-piracicaba.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/xvpiracicaba/",
+    "ia": true,
+    "em": "2026-11-28T13:21:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/xvpiracicaba/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 27,
+    "idade_em": "2026-11-24",
+    "contrato": "até o fim do Paulistão A2 2027",
+    "clubes_anteriores": [
+     "Osasco FC (base)",
+     "Operário-MT",
+     "Osasco Audax",
+     "Audax Rio",
+     "Ponte Preta",
+     "Boa Esporte",
+     "Oeste"
+    ],
+    "redes": {
+     "instagram": "_fabiok"
+    }
+   },
+   "comissao": false,
+   "dono": "xvdepiracicaba"
   },
   {
    "id": "2026-11-23-reverson-botafogo-sp",
@@ -3023,6 +4109,179 @@
    },
    "comissao": false,
    "dono": "saobento"
+  },
+  {
+   "id": "2026-11-20-williams-bahia-ituano",
+   "data": "2026-11-20",
+   "jogador": "Williams Bahia",
+   "posicao": "Lateral",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "Lateral-direito",
+   "de": {
+    "nome": "Azuriz",
+    "slug": "",
+    "id": 900050,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Ituano",
+    "slug": "ituano",
+    "id": 0,
+    "escudo": ""
+   },
+   "blocos": [
+    "d2"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-20-williams-bahia-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ituanofc/",
+    "ia": true,
+    "em": "2026-11-28T13:27:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/ituanofc/"
+   ],
+   "nascimento": "2000-02-25",
+   "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/williams-bahia/684133",
+    "clubes": [
+     "Azuriz Futebol",
+     "Piauí"
+    ],
+    "jogos": 26,
+    "minutos": 2024,
+    "gols": 1,
+    "assistencias": 1,
+    "escudos": {}
+   },
+   "selos": [],
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Azuriz Futebol",
+     "jogos": 4,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2026,
+     "clube": "Piauí",
+     "jogos": 22,
+     "gols": 1,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2025,
+     "clube": "Azuriz Futebol",
+     "jogos": 26,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2024,
+     "clube": "Inter de Limeira",
+     "jogos": 19,
+     "gols": 0,
+     "assistencias": 0,
+     "emprestimo": true
+    },
+    {
+     "temporada": 2024,
+     "clube": "Azuriz Futebol",
+     "jogos": 11,
+     "gols": 0,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2023,
+     "clube": "Inter de Lages",
+     "jogos": 8,
+     "gols": 2,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Rio Branco-SP",
+     "jogos": 18,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Azuriz Futebol",
+     "jogos": 9,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Náutico",
+     "jogos": 5,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nautico.png"
+    },
+    {
+     "temporada": 2020,
+     "clube": "Náutico",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nautico.png"
+    },
+    {
+     "temporada": 2020,
+     "clube": "Náutico (sub-20)",
+     "jogos": 7,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nautico.png"
+    },
+    {
+     "temporada": 2019,
+     "clube": "Náutico (sub-20)",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nautico.png"
+    },
+    {
+     "temporada": 2019,
+     "clube": "Náutico (sub-19)",
+     "jogos": 2,
+     "gols": 0,
+     "assistencias": 0,
+     "escudo": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/escudos/nautico.png"
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/williams-bahia/684133",
+   "ficha": {
+    "nome_completo": "Williams Silva dos Santos",
+    "natural": "Tanquinho/BA",
+    "idade": 26,
+    "idade_em": "2026-11-20",
+    "contrato": "até o fim da Série C",
+    "clubes_anteriores": [
+     "Náutico (base e profissional)",
+     "Azuriz",
+     "Rio Branco-SP",
+     "Inter de Lages",
+     "Inter de Limeira",
+     "Piauí"
+    ],
+    "titulos": [
+     "Campeão pernambucano 2021 com o Náutico"
+    ],
+    "redes": {
+     "instagram": "williams_santos22"
+    }
+   },
+   "comissao": false,
+   "dono": "ituano"
   },
   {
    "id": "2026-11-20-nathan-sao-bento",
@@ -9999,7 +11258,8 @@
     "em": "2026-11-14T05:00:04-03:00"
    },
    "fontes": [
-    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "https://www.instagram.com/ituanofc/"
    ],
    "nascimento": "2001-09-14",
    "numeros": {
@@ -10077,7 +11337,27 @@
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/isaque/688956",
-   "ficha": {},
+   "ficha": {
+    "nome_completo": "Isaque Aparecido da Silva",
+    "natural": "São Paulo/SP",
+    "idade": 25,
+    "idade_em": "2026-11-13",
+    "clubes_anteriores": [
+     "Juventus-SP (base e profissional)",
+     "Santa Cruz de Natal",
+     "Jacobina",
+     "Galícia",
+     "União Suzano",
+     "Portuguesa Santista",
+     "Itabaiana"
+    ],
+    "destaques": [
+     "Em 2026, pelo Itabaiana: Série C, Copa do Nordeste e Sergipano, 23 jogos e 3 gols, segundo o Ituano"
+    ],
+    "redes": {
+     "instagram": "iamsilvang"
+    }
+   },
    "comissao": false,
    "dono": "ituano"
   },
@@ -10157,9 +11437,16 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-13-gabriel-gasparotto-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ituanofc/",
+    "ia": true,
+    "em": "2026-11-28T13:29:00-03:00"
+   },
    "fontes": [
-    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "https://www.instagram.com/ituanofc/"
    ],
    "nascimento": "1993-12-09",
    "numeros": {
@@ -10248,7 +11535,36 @@
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/gabriel-gasparotto/217331",
-   "ficha": {},
+   "ficha": {
+    "natural": "Lucélia/SP",
+    "idade": 32,
+    "idade_em": "2026-10-26",
+    "clubes_anteriores": [
+     "Santos (base e profissional)",
+     "Capivariano",
+     "Ferroviária",
+     "Arouca (Portugal)",
+     "São Bernardo",
+     "Novorizontino",
+     "Mirassol",
+     "Figueirense",
+     "Botafogo-SP",
+     "Chapecoense",
+     "Santo André"
+    ],
+    "titulos": [
+     "Copa São Paulo 2013 com o Santos",
+     "Campeão da Série A2 2021 com o São Bernardo",
+     "Campeão da Série C 2022 com o Mirassol"
+    ],
+    "destaques": [
+     "Acesso à Série B com o Novorizontino em 2021",
+     "Duas convocações para a Seleção Brasileira de base"
+    ],
+    "redes": {
+     "instagram": "gabrielgasparottoo"
+    }
+   },
    "comissao": false,
    "dono": "ituano"
   },
@@ -11982,7 +13298,13 @@
     ],
     "titulos": [
      "Divisão de Acesso Gaúcha 2026 (Passo Fundo)"
-    ]
+    ],
+    "destaques": [
+     "Em 2026: Sul-Mato-Grossense pelo Dourados e Série D pelo Lagarto-SE"
+    ],
+    "redes": {
+     "instagram": "ale6oficial"
+    }
    },
    "comissao": false,
    "dono": "marilia"
@@ -12023,18 +13345,114 @@
     "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
     "https://www.instagram.com/mariliaac1942/"
    ],
-   "nascimento": "",
+   "nascimento": "2000-12-15",
    "numeros": {
+    "fonte": "https://www.ogol.com.br/jogador/wallace-moraes/693176",
     "clubes": [
-     "Monte Azul",
-     "Primavera-MT"
+     "Primavera AC",
+     "Monte Azul"
     ],
-    "fonte": "https://www.futebolinterior.com.br/marilia-anuncia-atacante-ex-monte-azul-como-reforco-para-a-serie-a2-de-2027/",
+    "jogos": 25,
+    "minutos": 1511,
+    "gols": 4,
+    "assistencias": 1,
     "escudos": {}
    },
    "selos": [],
-   "carreira": [],
-   "carreira_fonte": "",
+   "carreira": [
+    {
+     "temporada": 2026,
+     "clube": "Primavera AC",
+     "jogos": 11,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2026,
+     "clube": "Monte Azul",
+     "jogos": 14,
+     "gols": 4,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2025,
+     "clube": "Manauara EC",
+     "jogos": 15,
+     "gols": 3,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2024,
+     "clube": "Manauara EC",
+     "jogos": 13,
+     "gols": 2,
+     "assistencias": 3
+    },
+    {
+     "temporada": 2024,
+     "clube": "Monte Azul",
+     "jogos": 13,
+     "gols": 4,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Santa Rosa",
+     "jogos": 11,
+     "gols": 5,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2023,
+     "clube": "Resende",
+     "jogos": 8,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Santa Rosa",
+     "jogos": 10,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2022,
+     "clube": "Barra-SC",
+     "jogos": 7,
+     "gols": 1,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2021,
+     "clube": "Remo",
+     "jogos": 32,
+     "gols": 7,
+     "assistencias": 1
+    },
+    {
+     "temporada": 2020,
+     "clube": "Remo",
+     "jogos": 14,
+     "gols": 3,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2019,
+     "clube": "Remo (sub-19)",
+     "jogos": 3,
+     "gols": 0,
+     "assistencias": 0
+    },
+    {
+     "temporada": 2018,
+     "clube": "Remo (sub-19)",
+     "jogos": 1,
+     "gols": 1,
+     "assistencias": 0
+    }
+   ],
+   "carreira_fonte": "https://www.ogol.com.br/jogador/wallace-moraes/693176",
    "ficha": {
     "clubes_anteriores": [
      "Remo (base)",
@@ -12044,7 +13462,13 @@
      "Santa Rosa",
      "Resende",
      "Manauara"
-    ]
+    ],
+    "destaques": [
+     "Em 2026: Série A2 pelo Monte Azul e Série D pelo Primavera-MT"
+    ],
+    "redes": {
+     "instagram": "wallacemoraes00"
+    }
    },
    "comissao": false,
    "dono": "marilia"
@@ -16686,9 +18110,16 @@
    "blocos": [
     "d2"
    ],
-   "foto": {},
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-11-09-fausto-dias-ituano.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ituanofc/",
+    "ia": true,
+    "em": "2026-11-28T13:29:00-03:00"
+   },
    "fontes": [
-    "https://www.band.com.br/esportes/ituano-apresenta-tecnico-fausto-dias-e-aposta-em-reformulacao-no-elenco"
+    "https://www.band.com.br/esportes/ituano-apresenta-tecnico-fausto-dias-e-aposta-em-reformulacao-no-elenco",
+    "https://www.instagram.com/ituanofc/"
    ],
    "nascimento": "",
    "numeros": {},
@@ -16736,20 +18167,20 @@
    "carreira_fonte": "https://tribunadejundiai.com.br/mais/esportes/fausto-dias-deixa-paulista-futebol-clube/",
    "ficha": {
     "natural": "Jundiaí/SP",
-    "idade": 44,
-    "idade_em": "2025-01-01",
+    "idade": 45,
+    "idade_em": "2026-10-28",
     "inicio": "Trabalhou nas categorias de base de Taquaritinga, SKA Brasil e Athletic-MG; em 2022 foi auxiliar de Roger Silva no Athletic-MG e na Inter de Limeira. Primeira experiência como técnico principal no Paulista",
     "no_clube": "Chegou ao Ituano em dezembro de 2025 como auxiliar de Mazola Júnior, dirigiu o time em jogos da Série C de 2026 e foi efetivado para 2027",
     "titulos": [
-     "Campeão da Segunda Divisão Paulista 2024 com o Paulista"
+     "Campeão da Segunda Divisão paulista (Bezinha) 2024 com o Paulista"
     ],
     "acessos": [
      "Acesso à Série A4 em 2024 com o Paulista",
      "Acesso à Série A3 em 2025 com o Paulista"
     ],
     "destaques": [
-     "Primeiro jundiaiense campeão como treinador pelo Paulista na era profissional",
-     "Paulista: 54 jogos, 27 vitórias, 12 empates e 15 derrotas (57,4%)"
+     "Acesso à Série A3 com o Paulista em 2025",
+     "Técnico do sub-20 do SKA Brasil em 2023"
     ],
     "clubes_anteriores": [
      "Paulista",
@@ -26229,7 +27660,8 @@
    },
    "fontes": [
     "https://www.futebolinterior.com.br/ituano-confirma-zagueiro-ex-atletico-go/",
-    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "https://www.instagram.com/ituanofc/"
    ],
    "nascimento": "",
    "numeros": {
@@ -26246,7 +27678,27 @@
    "selos": [],
    "carreira": [],
    "carreira_fonte": "",
-   "ficha": {},
+   "ficha": {
+    "natural": "Santa Rita do Sapucaí/MG",
+    "idade": 24,
+    "idade_em": "2026-10-30",
+    "clubes_anteriores": [
+     "Pouso Alegre (base)",
+     "Atlético-GO (base)",
+     "Porto Vitória (base)",
+     "Betim",
+     "Sampaio Corrêa",
+     "Ansan Greeners (Coreia do Sul)",
+     "Floresta"
+    ],
+    "destaques": [
+     "2026 no Floresta: 20 jogos e 1 gol (Cearense e Série C), segundo o Ituano",
+     "2025: 20 jogos pelo Sampaio Corrêa e 16 pelo Ansan Greeners"
+    ],
+    "redes": {
+     "instagram": "eduardohenrique_02_"
+    }
+   },
    "comissao": false,
    "dono": "ituano"
   },
@@ -27381,7 +28833,8 @@
    },
    "fontes": [
     "https://www.futebolinterior.com.br/serie-a2-ituano-contrata-lateral-bahia/",
-    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/"
+    "https://www.futebolinterior.com.br/lateral-ex-briosa-no-ituano-para-2027/",
+    "https://www.instagram.com/ituanofc/"
    ],
    "nascimento": "1998-01-17",
    "numeros": {
@@ -27515,7 +28968,31 @@
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/luiz-henrique/562358",
-   "ficha": {},
+   "ficha": {
+    "natural": "Salvador/BA",
+    "idade": 28,
+    "idade_em": "2026-10-28",
+    "clubes_anteriores": [
+     "Grêmio (base)",
+     "Guarani de Venâncio Aires",
+     "Cruzeiro",
+     "Juventus Jaraguá",
+     "Brusque",
+     "Mirassol",
+     "Londrina",
+     "Bahia",
+     "CRB",
+     "Retrô",
+     "Noroeste"
+    ],
+    "titulos": [
+     "Campeão da Série D 2020 com o Mirassol"
+    ],
+    "destaques": [
+     "Acesso à Série A com o Bahia em 2022 (43 jogos)",
+     "41 jogos e 3 gols pelo Londrina em 2021"
+    ]
+   },
    "comissao": false,
    "dono": "ituano"
   },
@@ -29071,6 +30548,63 @@
    "ficha": {},
    "comissao": false,
    "dono": "santoandre"
+  },
+  {
+   "id": "2026-10-20-eduardo-souza-noroeste",
+   "data": "2026-10-20",
+   "jogador": "Eduardo Souza",
+   "posicao": "Treinador",
+   "tipo": "contratacao",
+   "tipo_nome": "Contratação",
+   "situacao": "oficial",
+   "feminino": false,
+   "obs": "",
+   "de": {
+    "nome": "",
+    "slug": "",
+    "id": 0,
+    "escudo": ""
+   },
+   "para": {
+    "nome": "Noroeste",
+    "slug": "noroeste",
+    "id": 900085,
+    "escudo": ""
+   },
+   "blocos": [
+    "d1"
+   ],
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/2026-10-20-eduardo-souza-noroeste.webp",
+    "credito": "Montagem com IA (ilustrativa) · TSP",
+    "fonte": "https://www.instagram.com/ecnoroeste/",
+    "ia": true,
+    "em": "2026-11-28T13:25:00-03:00"
+   },
+   "fontes": [
+    "https://www.instagram.com/ecnoroeste/"
+   ],
+   "nascimento": "",
+   "numeros": {},
+   "selos": [],
+   "carreira": [],
+   "carreira_fonte": "",
+   "ficha": {
+    "idade": 45,
+    "idade_em": "2026-10-20",
+    "clubes_anteriores": [
+     "Atlético-GO",
+     "Londrina",
+     "Aparecidense",
+     "Barra-SC"
+    ],
+    "titulos": [
+     "Campeão brasileiro da Série D 2025 com o Barra-SC",
+     "Campeão catarinense 2026 com o Barra-SC"
+    ]
+   },
+   "comissao": true,
+   "dono": "noroeste"
   },
   {
    "id": "2026-10-18-marcelo-marelli-marilia",
