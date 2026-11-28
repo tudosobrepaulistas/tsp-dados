@@ -28,9 +28,9 @@
    "notas": "Blocos da Home, Config Site, banners e jogos só para administrador; palpites fora da API."
   },
   "tsp-nova-era": {
-   "versao": "1.13.4",
-   "zip": "tsp-nova-era-1.13.4.zip",
-   "notas": "Menu Internacional (Italiano, Inglês, Espanhol, Francês, Português, Holandês, América do Sul com 9 países e Mexicano), páginas /campeonato/<liga>/ criadas sozinhas, atalhos entre ligas e matérias internacionais fora da home. Mantém tudo da 1.13.3."
+   "versao": "1.13.5",
+   "zip": "tsp-nova-era-1.13.5.zip",
+   "notas": "Especial da home com 6 notícias (2 grandes + 4) alternando clube e rival, só o jogo da final, escudos dos dois clubes; página do Estudiantes (/times/estudiantes/) alimentada pelo título das matérias. Mantém tudo da 1.13.4."
   },
   "tsp-shopee": {
    "versao": "1.1.0",

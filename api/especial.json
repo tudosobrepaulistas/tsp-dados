@@ -1,10 +1,12 @@
 {
- "_leia": "Cobertura especial da home (tema 1.13.3). Entre 'de' e 'ate' abre a home com 4 notícias alternando clube e rival e, embaixo, tudo do clube; o clube sai do bloco do Brasileirão. Para desligar: 'ate' no passado.",
+ "_leia": "Cobertura especial da home (tema 1.13.5). Entre 'de' e 'ate' abre a home com 6 notícias alternando clube e rival (2 grandes + 4) e o jogo da fase em andamento da 'liga'. O resto do clube segue no bloco normal. Para desligar: 'ate' no passado.",
  "de": "2026-11-28T00:00:00-03:00",
  "ate": "2026-11-29T06:00:00-03:00",
  "titulo": "Final da Libertadores · Palmeiras x Estudiantes",
  "sub": "Cobertura especial do TSP",
  "clube": "palmeiras",
  "rival": "Estudiantes",
- "extra": 8
+ "rival_slug": "estudiantes",
+ "liga": "libertadores",
+ "n": 6
 }
