@@ -25,7 +25,7 @@ Quem saiu de um clube paulista (base ou time profissional) e joga fora do Brasil
 ## Regras (as de sempre, CLAUDE.md)
 1. Clube atual com 2 fontes aceitas (imprensa brasileira, grandes jornais do país do clube, site/rede oficial do clube
    ou da liga). Clube pequeno do exterior: 1 anúncio oficial + 1 matéria.
-2. oGol, Transfermarkt, Sofascore, Flashscore/Soccerway, FotMob: só para descobrir nomes. Nunca são fonte nem são copiados.
+2. Transfermarkt, Sofascore, Flashscore/Soccerway, FotMob: só para descobrir nomes. oGol: só números (veja a regra do Thiago).
 3. Negócio só fechado. Empréstimo conta (o clube atual é o do empréstimo). Voltou ao Brasil: `voltou ID --obs "..."`
    (sai do radar e fica guardado).
 4. Destaque (gol, título, transferência, marco, seleção): 2 fontes, texto curto e factual.
@@ -33,6 +33,17 @@ Quem saiu de um clube paulista (base ou time profissional) e joga fora do Brasil
    Horário de Brasília. Só as ligas do menu Internacional e as copas continentais. A marcação "Paulista em campo" é
    automática (jogadores do radar nos dois clubes).
 6. Nada de apostas.
+
+## Regra do Thiago (28/11/2026, vale para todas as divisões)
+- **Monitoramento: 20 atletas por dia** que saíram de qualquer clube paulista (A1 a A4, Segunda Divisão, base) entre
+  2023 e 2027 para o exterior. É o ponto de partida para atualizar clube atual e liga de cada um.
+  `python3 ferramentas/pelo_mundo.py fila` mostra os do dia: primeiro os pendentes, depois os conferidos há mais tempo;
+  completa os 20 com nomes novos (9 prioritários primeiro).
+- **Só vai ao site quem tem figurinha E dados.** Dados = clube atual com 2 fontes (regra 1) + números da temporada e
+  carreira (`numeros --json`, página do jogador no oGol, uma por vez, sem leitura em sequência). Figurinha = foto real
+  de referência (enviada pelo Thiago ou anúncio oficial) passada no ChatGPT (`figurinha ID --img --ref`).
+  O `gerar` deixa fora do site quem estiver incompleto e lista os nomes.
+- oGol para números: liberado pelo Thiago (15/11 e 28/11). Continua proibido como fonte de clube, transferência ou título.
 
 ## Rotina (tarefas agendadas)
 - Todo dia de manhã: jogos de hoje e de amanhã no mundo (`jogos --data`), saídas do Mercado da Bola para o exterior,

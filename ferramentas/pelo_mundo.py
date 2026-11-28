@@ -15,6 +15,7 @@ Uso:
   python3 ferramentas/pelo_mundo.py destaque --json ARQ.json      (gol, título, transferência, marco: 2 fontes)
   python3 ferramentas/pelo_mundo.py jogos --data 2026-11-28 --json ARQ.json   (jogos do dia nas ligas do mundo; substitui o dia)
   python3 ferramentas/pelo_mundo.py listar [--clube guarani] [--pais Portugal]
+  python3 ferramentas/pelo_mundo.py fila [--n 20]   (os 20 do dia: pendentes primeiro, depois os conferidos há mais tempo)
   python3 ferramentas/pelo_mundo.py numeros --json ARQ.json   (números da temporada e carreira do oGol, página por página)
   python3 ferramentas/pelo_mundo.py gerar     (escreve api/pelo_mundo.json e api/jogos_mundo.json)
   python3 ferramentas/pelo_mundo.py validar
@@ -232,7 +233,10 @@ def chave_clube(n):
 def cmd_gerar(a=None):
     d = base()
     paulistas, nomes = times_paulistas()
-    ativos = [j for j in d["jogadores"] if j.get("status", "ativo") == "ativo"]
+    ativos = [j for j in d["jogadores"] if j.get("status", "ativo") == "ativo" and completo(j)]
+    pend = [j["nome"] for j in d["jogadores"] if j.get("status", "ativo") == "ativo" and not completo(j)]
+    if pend:
+        print("Fora do site até ter figurinha e números:", ", ".join(pend))
     out = []
     for j in ativos:
         x = dict(j)
@@ -298,6 +302,23 @@ def cmd_listar(a):
         print("%-28s %-12s ex-%-18s %s · %s (%s) · conferido %s" % (j["id"], j.get("status"), j["origem"][0]["slug"], j["atual"].get("clube"), j["atual"].get("pais"), j["atual"].get("divisao") or "?", j.get("conferido")))
 
 
+def completo(j):
+    """Regra do Thiago (28/11/2026): só vai ao site quem tem figurinha E dados (números da temporada e carreira)."""
+    return bool((j.get("foto") or {}).get("url")) and bool((j.get("numeros") or {}).get("total")) and bool(j.get("carreira"))
+
+
+def cmd_fila(a):
+    """Monitoramento diário (regra de 28/11/2026): 20 atletas por dia, saídos de clubes paulistas de 2023 a 2027.
+    Primeiro os pendentes (sem figurinha ou sem números), depois os conferidos há mais tempo."""
+    d = base()
+    ativos = [j for j in d["jogadores"] if j.get("status", "ativo") == "ativo"]
+    ativos.sort(key=lambda j: (completo(j), j.get("conferido") or ""))
+    for j in ativos[: int(a.n)]:
+        falta = [x for x, ok in (("figurinha", (j.get("foto") or {}).get("url")), ("números", (j.get("numeros") or {}).get("total")), ("carreira", j.get("carreira"))) if not ok]
+        print("%-24s conferido %s · %s" % (j["id"], j.get("conferido", "-"), ("falta: " + ", ".join(falta)) if falta else "completo"))
+    print("%d no radar · %d completos · meta do dia: %s conferências + novos até somar 20" % (len(ativos), sum(1 for j in ativos if completo(j)), a.n))
+
+
 def cmd_numeros(a):
     """Números da temporada e carreira, lidos à mão na página do jogador no oGol (regra de 15/11 e pedido do
     Thiago em 28/11). Só números: clube atual, transferência e títulos continuam exigindo as fontes de sempre."""
@@ -358,6 +379,7 @@ def main():
     x = s.add_parser("destaque"); x.add_argument("--json", required=True); x.set_defaults(f=cmd_destaque)
     x = s.add_parser("jogos"); x.add_argument("--data", required=True); x.add_argument("--json", required=True); x.set_defaults(f=cmd_jogos)
     x = s.add_parser("listar"); x.add_argument("--clube"); x.add_argument("--pais"); x.set_defaults(f=cmd_listar)
+    x = s.add_parser("fila"); x.add_argument("--n", default="20"); x.set_defaults(f=cmd_fila)
     x = s.add_parser("numeros"); x.add_argument("--json", required=True); x.set_defaults(f=cmd_numeros)
     x = s.add_parser("figurinha"); x.add_argument("id"); x.add_argument("--img", required=True); x.add_argument("--ref", required=True); x.set_defaults(f=cmd_figurinha)
     s.add_parser("gerar").set_defaults(f=cmd_gerar)

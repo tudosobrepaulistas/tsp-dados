@@ -1,20 +1,18 @@
 {
  "_leia": "Gerado por ferramentas/pelo_mundo.py. Não edite.",
- "gerado": "2026-11-28T03:26-03:00",
+ "gerado": "2026-11-28T03:28-03:00",
  "numeros": {
-  "jogadores": 7,
-  "paises": 6,
-  "clubes_origem": 4,
-  "titulos_ano": 1,
+  "jogadores": 5,
+  "paises": 4,
+  "clubes_origem": 3,
+  "titulos_ano": 0,
   "ano": "2026"
  },
  "ligas_ativas": [
   "campeonato-espanhol",
   "campeonato-ingles",
   "campeonato-japones",
-  "campeonato-portugues",
-  "campeonato-russo",
-  "campeonato-saudita"
+  "campeonato-portugues"
  ],
  "tipos_destaque": {
   "titulo": "Título",
@@ -24,211 +22,6 @@
   "selecao": "Seleção"
  },
  "jogadores": [
-  {
-   "nome": "Gabriel Martinelli",
-   "nome_completo": "Gabriel Teodoro Martinelli Silva",
-   "posicao": "Atacante",
-   "nascimento": "2001-06-18",
-   "origem": [
-    {
-     "slug": "ituano",
-     "tipo": "base",
-     "ate": 2019,
-     "obs": "Revelado pelo Ituano; destaque do Paulistão de 2019",
-     "clube": "Ituano"
-    }
-   ],
-   "atual": {
-    "clube": "Al-Hilal",
-    "pais": "Arábia Saudita",
-    "liga": "Saudi Pro League",
-    "divisao": 1,
-    "desde": "2026",
-    "bandeira": "🇸🇦",
-    "continente": "asia",
-    "liga_slug": "campeonato-saudita"
-   },
-   "trajetoria": [
-    {
-     "ano": "2017-2019",
-     "clube": "Ituano",
-     "pais": "Brasil",
-     "obs": "Estreou aos 16 anos",
-     "fonte": "https://www.lance.com.br/futebol-internacional/al-hilal-anuncia-gabriel-martinelli-ex-arsenal.html"
-    },
-    {
-     "ano": "2019-2026",
-     "clube": "Arsenal",
-     "pais": "Inglaterra",
-     "obs": "278 jogos, 62 gols e 34 assistências",
-     "fonte": "https://www.lance.com.br/futebol-internacional/al-hilal-anuncia-gabriel-martinelli-ex-arsenal.html"
-    },
-    {
-     "ano": "2026",
-     "clube": "Al-Hilal",
-     "pais": "Arábia Saudita",
-     "obs": "Contrato até 2030",
-     "fonte": "https://www.correio24horas.com.br/esportes/atacante-da-selecao-brasileira-deixa-gigante-ingles-e-acerta-com-clube-saudita-por-valor-recorde-0926"
-    }
-   ],
-   "titulos": [
-    {
-     "ano": 2026,
-     "titulo": "Campeão inglês 2025/26 pelo Arsenal",
-     "fonte": "https://www.gazetaesportiva.com/times/arsenal/martinelli-celebra-titulo-do-arsenal-nas-redes-um-dos-momentos-de-maior-orgulho/"
-    }
-   ],
-   "fontes": [
-    "https://www.lance.com.br/futebol-internacional/al-hilal-anuncia-gabriel-martinelli-ex-arsenal.html",
-    "https://www.correio24horas.com.br/esportes/atacante-da-selecao-brasileira-deixa-gigante-ingles-e-acerta-com-clube-saudita-por-valor-recorde-0926"
-   ],
-   "id": "gabriel-martinelli",
-   "status": "ativo",
-   "conferido": "2026-11-28",
-   "entrou": "2026-11-28",
-   "numeros": {
-    "temporada": "2026/27",
-    "ate": "2026-11-28",
-    "fonte": "https://www.ogol.com.br/jogador/gabriel-martinelli/619681",
-    "competicoes": [
-     {
-      "nome": "AFC Champions League Elite",
-      "jogos": 3,
-      "minutos": 258,
-      "gols": 1,
-      "assistencias": 0
-     },
-     {
-      "nome": "Saudi Premier League",
-      "jogos": 6,
-      "minutos": 389,
-      "gols": 6,
-      "assistencias": 0
-     }
-    ],
-    "total": {
-     "jogos": 9,
-     "minutos": 647,
-     "gols": 7,
-     "assistencias": 0
-    }
-   },
-   "carreira": [
-    {
-     "temporada": "2026/27",
-     "clube": "Al-Hilal",
-     "jogos": 9,
-     "gols": 7,
-     "assistencias": 0
-    },
-    {
-     "temporada": "2025/26",
-     "clube": "Arsenal",
-     "jogos": 53,
-     "gols": 11,
-     "assistencias": 7
-    },
-    {
-     "temporada": "2024/25",
-     "clube": "Arsenal",
-     "jogos": 51,
-     "gols": 10,
-     "assistencias": 5
-    },
-    {
-     "temporada": "2023/24",
-     "clube": "Arsenal",
-     "jogos": 44,
-     "gols": 8,
-     "assistencias": 5
-    },
-    {
-     "temporada": "2022/23",
-     "clube": "Arsenal",
-     "jogos": 46,
-     "gols": 15,
-     "assistencias": 6
-    },
-    {
-     "temporada": "2021/22",
-     "clube": "Arsenal",
-     "jogos": 36,
-     "gols": 6,
-     "assistencias": 6
-    },
-    {
-     "temporada": "2020/21",
-     "clube": "Arsenal",
-     "jogos": 22,
-     "gols": 2,
-     "assistencias": 2
-    },
-    {
-     "temporada": "2019/20",
-     "clube": "Arsenal",
-     "jogos": 26,
-     "gols": 10,
-     "assistencias": 3
-    },
-    {
-     "temporada": "2019",
-     "clube": "Ituano",
-     "jogos": 14,
-     "gols": 6,
-     "assistencias": 3
-    },
-    {
-     "temporada": "2019",
-     "clube": "Ituano (sub-19)",
-     "jogos": 4,
-     "gols": 6,
-     "assistencias": 0
-    },
-    {
-     "temporada": "2018",
-     "clube": "Ituano",
-     "jogos": 20,
-     "gols": 4,
-     "assistencias": 0
-    },
-    {
-     "temporada": "2018",
-     "clube": "Ituano (sub-19)",
-     "jogos": 1,
-     "gols": 1,
-     "assistencias": 0
-    },
-    {
-     "temporada": "2017",
-     "clube": "Ituano (sub-17)",
-     "jogos": 25,
-     "gols": 17,
-     "assistencias": 0
-    },
-    {
-     "temporada": "2016",
-     "clube": "Ituano (sub-15)",
-     "jogos": 19,
-     "gols": 15,
-     "assistencias": 0
-    },
-    {
-     "temporada": "2015",
-     "clube": "Ituano (sub-15)",
-     "jogos": 23,
-     "gols": 4,
-     "assistencias": 0
-    },
-    {
-     "temporada": "2014",
-     "clube": "Corinthians (sub-13)",
-     "jogos": 12,
-     "gols": 5,
-     "assistencias": 0
-    }
-   ],
-   "carreira_fonte": "https://www.ogol.com.br/jogador/gabriel-martinelli/619681"
-  },
   {
    "nome": "Endrick",
    "nome_completo": "Endrick Felipe Moreira de Sousa",
@@ -1128,69 +921,6 @@
     }
    ],
    "carreira_fonte": "https://www.ogol.com.br/jogador/sorriso/691147"
-  },
-  {
-   "nome": "Jhon Jhon",
-   "posicao": "Meia-atacante",
-   "nascimento": "2002-09-09",
-   "origem": [
-    {
-     "slug": "palmeiras",
-     "tipo": "base",
-     "ate": 2024,
-     "obs": "Formado na base; 44 jogos no profissional",
-     "clube": "Palmeiras"
-    },
-    {
-     "slug": "bragantino",
-     "tipo": "profissional",
-     "ate": 2026,
-     "obs": "Maior venda da história do clube",
-     "clube": "Red Bull Bragantino"
-    }
-   ],
-   "atual": {
-    "clube": "Zenit",
-    "pais": "Rússia",
-    "liga": "Premier League Russa",
-    "divisao": 1,
-    "desde": "2026",
-    "bandeira": "🇷🇺",
-    "continente": "europa",
-    "liga_slug": "campeonato-russo"
-   },
-   "trajetoria": [
-    {
-     "ano": "2022-2024",
-     "clube": "Palmeiras",
-     "pais": "Brasil",
-     "obs": "44 jogos",
-     "fonte": "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-paulista/palmeiras/palmeiras-garante-fatia-milionaria-da-venda-de-jhon-jhon-para-o-zenit/"
-    },
-    {
-     "ano": "2024-2025",
-     "clube": "Red Bull Bragantino",
-     "pais": "Brasil",
-     "obs": "Em 2025: 51 jogos, 13 gols e 11 assistências",
-     "fonte": "https://www.band.com.br/esportes/zenit-anuncia-contratacao-de-jhon-jhon-veja-detalhes-202601281805"
-    },
-    {
-     "ano": "2026",
-     "clube": "Zenit",
-     "pais": "Rússia",
-     "obs": "Contrato até 2030/31",
-     "fonte": "https://www.band.com.br/esportes/zenit-anuncia-contratacao-de-jhon-jhon-veja-detalhes-202601281805"
-    }
-   ],
-   "titulos": [],
-   "fontes": [
-    "https://www.band.com.br/esportes/zenit-anuncia-contratacao-de-jhon-jhon-veja-detalhes-202601281805",
-    "https://www.gazetaesportiva.com/times/bragantino/apos-fechar-venda-rb-bragantino-se-despede-de-jhon-jhon-nas-redes-sociais/"
-   ],
-   "id": "jhon-jhon",
-   "status": "ativo",
-   "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
   }
  ],
  "destaques": []

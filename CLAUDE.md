@@ -63,3 +63,6 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
     explicitamente que é um recorte: "nos últimos 12 jogos registrados pelo TSP (de 05/10 a 22/11)". Nunca "na temporada"
     nem "na carreira" para número da base. Vale para páginas (TSP Jogos 1.9.2 / tema 1.9.7), matérias da Máquina (raio-x,
     pré e pós-jogo) e cards do Mercado da Bola. Número oficial (tabela da CBF/FPF) ou de matéria com fonte não é recorte.
+17. **Paulistas pelo mundo (28/11/2026, regra do Thiago):** monitorar 20 atletas por dia que saíram de clubes paulistas
+    (todas as divisões) de 2023 a 2027 para o exterior; é a base para atualizar clube atual e liga. Só vai ao site quem
+    tem figurinha E dados (clube com 2 fontes, números da temporada e carreira). Como fazer: `diretrizes/pelo-mundo.md`.
