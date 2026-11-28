@@ -58,7 +58,9 @@ Sorriso (Famalicão), Weverton (Kyoto Sanga, ex-Ponte Preta) e Gabriel Martinell
 Descartados por falta de 2 fontes atuais: João Victor (Daejeon, ex-Guarani; só há fonte do empréstimo de 2025) e
 Kewen (a ida ao Penafiel não se concretizou).
 
-## Tarefas agendadas (a criar: a criação foi bloqueada pela checagem automática em 28/11)
-- "TSP · Paulistas pelo mundo: jogos do dia e destaques", todo dia 7h37 (Brasília): passos 2 a 4 da "Rotina" acima.
-- "TSP · Paulistas pelo mundo: conferência e descoberta", domingo 15h43: conferir clube atual de quem tem
-  "conferido" com mais de 7 dias e descobrir 10 jogadores novos por semana (9 prioritários primeiro).
+## Tarefa agendada (a criar: bloqueada pela checagem automática em 28/11, 3h30)
+- "TSP · Paulistas pelo mundo: 20 atletas por dia", todo dia 19h41 (Brasília), precisa do Mac ligado (Chrome do
+  Thiago com oGol e ChatGPT). Passos: `fila --n 20` (pendentes e conferidos há mais tempo) + nomes novos até 20
+  (9 prioritários primeiro); clube atual com 2 fontes; números do oGol uma página por vez, navegando, 8 s entre
+  páginas, parar se aparecer jogador errado ou bloqueio; figurinha só com foto real; `gerar`, `validar`, commit, push;
+  resumo de até 6 linhas. Substitui as duas tarefas antigas (jogos do dia continuam num passo à parte, se o Thiago quiser).
