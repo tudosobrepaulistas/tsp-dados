@@ -1,6 +1,6 @@
 {
  "_leia": "Gerado por ferramentas/pelo_mundo.py. Não edite.",
- "gerado": "2026-11-28T01:10-03:00",
+ "gerado": "2026-11-28T02:39-03:00",
  "numeros": {
   "jogadores": 7,
   "paises": 6,
@@ -149,7 +149,12 @@
    "id": "endrick",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-endrick.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Estêvão",
@@ -199,7 +204,12 @@
    "id": "estevao",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-estevao.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Weverton",
@@ -263,7 +273,12 @@
    ],
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-weverton-zagueiro.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Luis Guilherme",
@@ -319,7 +334,12 @@
    "id": "luis-guilherme",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-luis-guilherme.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Sorriso",
@@ -376,7 +396,12 @@
    "id": "sorriso",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-sorriso.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Jhon Jhon",

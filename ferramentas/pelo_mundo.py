@@ -297,6 +297,25 @@ def cmd_listar(a):
         print("%-28s %-12s ex-%-18s %s · %s (%s) · conferido %s" % (j["id"], j.get("status"), j["origem"][0]["slug"], j["atual"].get("clube"), j["atual"].get("pais"), j["atual"].get("divisao") or "?", j.get("conferido")))
 
 
+def cmd_figurinha(a):
+    """Grava a figurinha (ilustração TSP feita a partir de foto de referência) como foto do card."""
+    from PIL import Image
+    d = base()
+    j = next((x for x in d["jogadores"] if x["id"] == a.id), None)
+    if not j:
+        raise SystemExit("id não encontrado")
+    destino = API / "figurinhas" / ("mundo-%s.webp" % a.id)
+    destino.parent.mkdir(parents=True, exist_ok=True)
+    im = Image.open(a.img).convert("RGB")
+    lado = min(im.size)
+    im = im.crop(((im.width - lado) // 2, 0, (im.width + lado) // 2, lado)).resize((400, 400), Image.LANCZOS)
+    im.save(destino, "WEBP", quality=86)
+    j["foto"] = {"url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/" + destino.name,
+                 "credito": "Figurinha TSP (ilustração)", "fonte": a.ref}
+    salvar(ARQ, d)
+    print("OK: figurinha de %s gravada (%s)" % (j["nome"], destino.name))
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     s = p.add_subparsers(dest="cmd", required=True)
@@ -306,6 +325,7 @@ def main():
     x = s.add_parser("destaque"); x.add_argument("--json", required=True); x.set_defaults(f=cmd_destaque)
     x = s.add_parser("jogos"); x.add_argument("--data", required=True); x.add_argument("--json", required=True); x.set_defaults(f=cmd_jogos)
     x = s.add_parser("listar"); x.add_argument("--clube"); x.add_argument("--pais"); x.set_defaults(f=cmd_listar)
+    x = s.add_parser("figurinha"); x.add_argument("id"); x.add_argument("--img", required=True); x.add_argument("--ref", required=True); x.set_defaults(f=cmd_figurinha)
     s.add_parser("gerar").set_defaults(f=cmd_gerar)
     s.add_parser("validar").set_defaults(f=lambda a: sys.exit(1 if cmd_validar(a) else 0))
     a = p.parse_args()

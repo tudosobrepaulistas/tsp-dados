@@ -70,7 +70,12 @@
    "id": "endrick",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-endrick.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Estêvão",
@@ -116,7 +121,12 @@
    "id": "estevao",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-estevao.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Gabriel Martinelli",
@@ -285,7 +295,12 @@
    "id": "luis-guilherme",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-luis-guilherme.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Sorriso",
@@ -338,7 +353,12 @@
    "id": "sorriso",
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-sorriso.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   },
   {
    "nome": "Weverton",
@@ -398,7 +418,12 @@
    ],
    "status": "ativo",
    "conferido": "2026-11-28",
-   "entrou": "2026-11-28"
+   "entrou": "2026-11-28",
+   "foto": {
+    "url": "https://raw.githubusercontent.com/tudosobrepaulistas/tsp-dados/main/api/figurinhas/mundo-weverton-zagueiro.webp",
+    "credito": "Figurinha TSP (ilustração)",
+    "fonte": "Foto de referência enviada por Thiago Barbalho (28/11/2026)"
+   }
   }
  ],
  "destaques": []
