@@ -66,3 +66,9 @@ O dono é jornalista e leigo em programação: qualquer resumo para ele é curto
 17. **Paulistas pelo mundo (28/11/2026, regra do Thiago):** monitorar 20 atletas por dia que saíram de clubes paulistas
     (todas as divisões) de 2023 a 2027 para o exterior; é a base para atualizar clube atual e liga. Só vai ao site quem
     tem figurinha E dados (clube com 2 fontes, números da temporada e carreira). Como fazer: `diretrizes/pelo-mundo.md`.
+18. **Onde assistir com link (28/11/2026, regra do Thiago):** jogo transmitido pela Federação Paulista (canal Paulistão no
+    YouTube, Paulistão Play) leva SEMPRE o link da transmissão do jogo no YouTube, no lide e na linha "Onde assistir"
+    (texto do link: "assista aqui" / "link da transmissão"). Confira o título do vídeo antes (oEmbed do YouTube:
+    https://www.youtube.com/oembed?url=<link>&format=json) e só use o link se o título trouxer os dois clubes. Os demais
+    canais (Globo, SporTV, Premiere, ESPN, Disney+, CazéTV, Prime etc.) vão só pelo nome, sem link.
+

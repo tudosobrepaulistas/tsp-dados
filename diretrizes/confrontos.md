@@ -56,3 +56,9 @@ Dado sem fonte = fica de fora ou aparece "Em atualização". Nunca estimar.
    `confronto`, `analise` e `onde_assistir`, pesquisa (WebSearch "retrospecto X x Y", site oficial, ge) e grava.
 3. Na véspera: arbitragem (escala da CBF) e ingressos. No dia: prováveis escalações (diretrizes/prejogo.md).
 4. `calcular`, `validar`, commit "confronto: X x Y (dossiê)", push.
+
+## Onde assistir: link só da Federação Paulista (28/11/2026, regra do Thiago)
+Jogo transmitido pela FPF (canal Paulistão no YouTube): coloque o link do vídeo do jogo no lide e na linha "Onde assistir".
+Ache o link no canal Paulistão do YouTube (ao vivo/programados) ou na página do jogo no site da FPF; confira o título pelo
+oEmbed (https://www.youtube.com/oembed?url=<link>&format=json) antes de publicar. Os outros canais vão só pelo nome, sem link.
+

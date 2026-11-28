@@ -146,3 +146,9 @@ ou outro clube. Assunto de vários clubes (sorteio, tabela, regulamento) = UMA m
 Número tirado da base do TSP (api/tsp.json, api/times/, api/tecnicos.json) entra no texto SEMPRE como recorte, com
 quantos jogos e o período: "Nos últimos 8 jogos registrados pelo TSP (de 12/10 a 22/11), o XV venceu 4". Nunca escreva
 "na temporada" ou "na carreira" para número da base. Número de matéria com fonte ou da tabela oficial segue normal.
+
+## Onde assistir: link só da Federação Paulista (28/11/2026, regra do Thiago)
+Jogo transmitido pela FPF (canal Paulistão no YouTube): coloque o link do vídeo do jogo no lide e na linha "Onde assistir".
+Ache o link no canal Paulistão do YouTube (ao vivo/programados) ou na página do jogo no site da FPF; confira o título pelo
+oEmbed (https://www.youtube.com/oembed?url=<link>&format=json) antes de publicar. Os outros canais vão só pelo nome, sem link.
+

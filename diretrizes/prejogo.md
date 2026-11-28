@@ -46,3 +46,9 @@ Tudo vem do campo "prejogo" do jogo, gravado com `python3 ferramentas/tsp.py pre
 - **estadio_wiki:** o título exato da página do estádio na Wikipédia em português (ex.: "Estádio Heriberto Hülse",
   "Arena Fonte Nova"). O site busca a foto do estádio lá, só se a licença for livre (CC BY, CC BY-SA, CC0 ou domínio público),
   e mostra com o crédito do autor. Não precisa mandar foto.
+
+## Onde assistir: link só da Federação Paulista (28/11/2026, regra do Thiago)
+Jogo transmitido pela FPF (canal Paulistão no YouTube): coloque o link do vídeo do jogo no lide e na linha "Onde assistir".
+Ache o link no canal Paulistão do YouTube (ao vivo/programados) ou na página do jogo no site da FPF; confira o título pelo
+oEmbed (https://www.youtube.com/oembed?url=<link>&format=json) antes de publicar. Os outros canais vão só pelo nome, sem link.
+
