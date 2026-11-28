@@ -16,9 +16,8 @@ Leia isto no começo de uma conversa nova, junto com CLAUDE.md. Atualize ao fim 
 - Tanabi: elenco 2027 com 19 nomes (dados/mercado.json). Figurinhas NÃO feitas: fotos de referência em ~/Downloads/tsp-figurinhas/tanabi/ no Mac do Thiago (precisa do Mac ligado e ChatGPT logado no Chrome). Petterson Martins sem figurinha (arte do clube marcada como "Conteúdo de IA").
 
 ## Conversa de 28/11 (madrugada): Radar Paulistas pelo mundo
-- Tema 1.14.0 publicado em atualizacoes/ (versoes.json já aponta). Em 28/11 1h20 ainda NÃO estava instalado: o
-  wp-admin e o ChatGPT estavam deslogados no Chrome do Thiago (e no navegador do app). Depois que ele entrar:
-  wp-admin/update-core.php?force-check=1 → atualizar TSP Nova Era (ou enviar o zip). Conferir /paulistas-pelo-mundo/.
+- Tema 1.14.0 INSTALADO e conferido no ar em 28/11 1h20 (radar, ficha, faixa da home, página internacional).
+  Atenção: há 2 Chromes conectados; o logado no wp-admin e no ChatGPT é o "Browser 1" (select_browser).
 - Base: dados/pelo_mundo.json (7 jogadores, 6 países), ferramentas/pelo_mundo.py, diretrizes/pelo-mundo.md.
 - As 2 tarefas agendadas do Radar (diária 7h37 e semanal domingo 15h43) foram BLOQUEADAS pela checagem automática ao
   criar: os textos estão em diretrizes/pelo-mundo.md; criar quando o Thiago autorizar.
