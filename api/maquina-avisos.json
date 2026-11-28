@@ -1,76 +1,6 @@
 {
- "gerado": "2026-11-28T15:30-03:00",
+ "gerado": "2026-11-28T17:23-03:00",
  "avisos": [
-  {
-   "clube": "juventus",
-   "nome": "Juventus",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Sem anúncio novo desde 25/11",
-   "sugestao": "Definição de Ítalo Carvalho após 30/11 e oficialização de Pedrinho"
-  },
-  {
-   "clube": "saobernardo",
-   "nome": "São Bernardo",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Renovações de Foguinho e Júnior Oliveira (27/11) só no DGABC, sem 2ª fonte independente nem post oficial legível",
-   "sugestao": "São Bernardo renova com Foguinho e Júnior Oliveira até nov/2027: DGABC 4371156 e 4371173 + post oficial do clube"
-  },
-  {
-   "clube": "interdelimeira",
-   "nome": "Inter de Limeira",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Reforços Gui Mariano, Marthã e Robinho só no Rápido no Ar",
-   "sugestao": "Os 8 reforços da Inter quando o clube publicar oficialmente; troca para Topper em 30/11"
-  },
-  {
-   "clube": "veloclube",
-   "nome": "Velo Clube",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Nada nas últimas 48h",
-   "sugestao": "Técnico Cléber Gaúcho em 2027 e primeiros reforços"
-  },
-  {
-   "clube": "aguasanta",
-   "nome": "Água Santa",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Nada novo depois de 26/11",
-   "sugestao": "Reforços e elenco para a A2 2027 (DGABC, Repórter Diário)"
-  },
-  {
-   "clube": "monteazul",
-   "nome": "Monte Azul",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Nada nas últimas 48h",
-   "sugestao": "Reforços e início da pré-temporada com José Oliveira"
-  },
-  {
-   "clube": "linense",
-   "nome": "Linense",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Lucas Balardin com 1 fonte; evergreen bloqueado (história nos últimos 14 dias)",
-   "sugestao": "Reforço Lucas Balardin com anúncio oficial; Leivinha começou no Linense (texto pronto em outra data)"
-  },
-  {
-   "clube": "sertaozinho",
-   "nome": "Sertãozinho",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Grupo da Copinha divulgado em 24/11, fora das 48h",
-   "sugestao": "Sertãozinho na Copinha 2027 em Embu das Artes (Grupo 7)"
-  },
-  {
-   "clube": "taubate-feminino",
-   "nome": "Taubaté Feminino",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Sem notícia do adulto desde 25/11",
-   "sugestao": "Elenco e técnico do Taubaté feminino para 2027"
-  },
-  {
-   "clube": "ferroviaria-feminino",
-   "nome": "Ferroviária Feminino",
-   "quando": "2026-11-27T21:02-03:00",
-   "motivo": "Só material antigo; site oficial não abriu",
-   "sugestao": "Prévia da semifinal contra o Red Bull Bragantino"
-  },
   {
    "clube": "sao-paulo-feminino",
    "nome": "São Paulo Feminino",
@@ -420,6 +350,76 @@
    "quando": "2026-11-28T15:30-03:00",
    "motivo": "Cobertura 6h (28/11 15h): sem notícia das últimas 24h confirmada em 2 fontes independentes. Fim do empréstimo de Sérgio Palacios (FutPonte 28/11) e risco de novo transfer ban (FutPonte e Futebol Interior 27/11) vêm da mesma origem (Portal CB), sem nota do clube nem do Bragantino.",
    "sugestao": "Acompanhar na segunda (30/11) o fim do prazo da ANRESF para a Ponte quitar dívidas com Coritiba, Fluminense, Bragantino e funcionários (risco de transfer ban) e confirmar com o clube a volta de Sérgio Palacios ao Bragantino; reapresentação em 7/12."
+  },
+  {
+   "clube": "comercial",
+   "nome": "Comercial",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Copa CCF de 29/11 sem horário/sede confirmados; nada novo da SAF em 48h; evergreen recente (21/11)",
+   "sugestao": "Sede e horários do Comercial na Copa CCF (Instagram do clube/FPF) e, depois, como foi a participação dos garotos"
+  },
+  {
+   "clube": "primavera",
+   "nome": "Primavera",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Sem notícia nova em 48h (Ramon Menezes é de 09/10; retornos já publicados)",
+   "sugestao": "Data da reapresentação e comissão técnica de 2027"
+  },
+  {
+   "clube": "novorizontino",
+   "nome": "Novorizontino",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "FURIA, Pacaembu e Madson já publicados; pacote de reforços só em perfil de torcedor",
+   "sugestao": "Primeiro reforço oficial para a Série A 2027"
+  },
+  {
+   "clube": "saobernardo",
+   "nome": "São Bernardo",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Renovações já na Máquina; Alef Manga só encaminhado",
+   "sugestao": "Anúncio oficial de Alef Manga ou datas da Copinha do Tigre"
+  },
+  {
+   "clube": "jabaquara",
+   "nome": "Jabaquara",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Sem notícia em 48h; evergreen recente (20/11)",
+   "sugestao": "Técnico e primeiros reforços para a A4 2027 (A Tribuna/Instagram)"
+  },
+  {
+   "clube": "saocaetano",
+   "nome": "São Caetano",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Sem notícia em 48h; evergreen recente (20/11)",
+   "sugestao": "Primeiros reforços e comissão de Raphael Pereira (DGABC)"
+  },
+  {
+   "clube": "uniao-suzano",
+   "nome": "União Suzano",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Última notícia de 22/10; evergreen recente (24/11)",
+   "sugestao": "Apresentação do elenco 2027 (site/Instagram do clube)"
+  },
+  {
+   "clube": "colorado-caieiras",
+   "nome": "Colorado Caieiras",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Sem notícia desde 08/10; evergreen recente (22/11)",
+   "sugestao": "Técnico e reforços para a A4 2027"
+  },
+  {
+   "clube": "jacarei",
+   "nome": "Jacareí",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Sem notícia em 48h; CBN Vale não abriu; evergreen recente (24/11)",
+   "sugestao": "Os 8 reforços encaminhados e a data da seletiva (CBN Vale/clube)"
+  },
+  {
+   "clube": "catanduva",
+   "nome": "Catanduva",
+   "quando": "2026-11-28T17:23-03:00",
+   "motivo": "Sem notícia em 48h; O Regional não abre",
+   "sugestao": "Situação da venda da SAF"
   }
  ]
 }
